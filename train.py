@@ -28,7 +28,7 @@ GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
 MAX_SEQUENCE_LENGTH = 1000
 MAX_NUM_WORDS = 20000
 EMBEDDING_DIM = 100
-VALIDATION_SPLIT = 0.2
+VALIDATION_SPLIT = 0.4
 
 # first, build index mapping words in the embeddings set
 # to their embedding vector
@@ -155,12 +155,5 @@ model.fit(x_train, y_train,
           epochs=10,
           validation_data=(x_val, y_val))
 
-embedding_layer.trainable = True
-model.compile(loss='categorical_crossentropy',
-              optimizer='rmsprop',
-              metrics=['acc'])
+model.save('osmcsclassify/V0-model.h5')
 
-model.fit(x_train, y_train,
-          batch_size=128,
-          epochs=20,
-          validation_data=(x_val, y_val))
