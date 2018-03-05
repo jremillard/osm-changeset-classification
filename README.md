@@ -22,7 +22,7 @@ by downloading all of the changeset listed in data\changeset.csv.
 train.py trains the classifier. The classifier is heavily based on the [Keras newsgroup text classification sample application](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)  . Instead of using the news group data, it instead uses the OSM changeset tags pulled from the data\cache directory. This is a pretty crude start, but the SPAM
 activity in OpenStreetMap is currently (2018) unsophisticated, so it should work well enough on the existing database for awhile.
 
-In the osmclassify\ directory is a ChangeSet class for downloading, loading, saving the cached changset files in data\cached. The files in data\cache are
+In the osmclassify\ directory is a ChangeSet class for downloading, loading, saving the cached changeset files in data\cached. The files in data\cache are
 a custom format streamlined for this task that are not standard OSM files.
 
 ## Known Dependencies 
@@ -34,9 +34,9 @@ into a glove.6B directory that is not checked in because it is too large.
 3. Python 3.x
 4. A GPU is not required
 
-## Collaborators on this project are wanted! 
+## Collaborators are Wanted! 
 - The most important part of this repository is the the data\changeset.csv file. If you are OSM'er that is passionate about keeping SPAM out of OSM, please send 
-me new SPAM changesets via the github issue tracker or via a pull request. Simply Giving me the changeset id, and saying it is SPAM is enough. 
+me new SPAM changesets via the github issue tracker or via a pull request. Simply giving me the changeset id and saying it is SPAM is enough. 
 - This classifier by itself is not much good unless it is integrated into
 actual tools that the OpenStreetMap community can use. 
 
