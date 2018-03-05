@@ -27,7 +27,7 @@ BASE_DIR = ''
 GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
 MAX_SEQUENCE_LENGTH = 1000
 MAX_NUM_WORDS = 20000
-EMBEDDING_DIM = 100
+EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
 VALIDATION_SPLIT = 0.4
 
 # first, build index mapping words in the embeddings set
@@ -36,7 +36,7 @@ VALIDATION_SPLIT = 0.4
 print('Indexing word vectors.')
 
 embeddings_index = {}
-f = open(os.path.join(GLOVE_DIR, 'glove.6B.100d.txt'))
+f = open(os.path.join(GLOVE_DIR, 'glove.6B.{}d.txt'.format(EMBEDDING_DIM)))
 for line in f:
     values = line.split()
     word = values[0]
@@ -136,13 +136,13 @@ print('Training model.')
 # train a 1D convnet with global maxpooling
 sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
 embedded_sequences = embedding_layer(sequence_input)
-x = Conv1D(128, 5, activation='relu')(embedded_sequences)
+x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(embedded_sequences)
 x = MaxPooling1D(5)(x)
-x = Conv1D(128, 5, activation='relu')(x)
+x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(x)
 x = MaxPooling1D(5)(x)
-x = Conv1D(128, 5, activation='relu')(x)
+x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(x)
 x = GlobalMaxPooling1D()(x)
-x = Dense(128, activation='relu')(x)
+x = Dense(EMBEDDING_DIM, activation='relu')(x)
 preds = Dense(len(labels_index), activation='softmax')(x)
 
 model = Model(sequence_input, preds)
@@ -150,9 +150,11 @@ model.compile(loss='categorical_crossentropy',
               optimizer='rmsprop',
               metrics=['acc'])
 
+print(model.summary())
+
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=10,
+          epochs=15,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')

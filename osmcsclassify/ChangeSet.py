@@ -191,8 +191,8 @@ class ChangeSet:
         for tag in self.elementTags  :
             ret += tag['o'] + " "
             #ret += tag['type'] + " "
-            #ret += tag['k'] + " "
-            ret += tag['v'] + "\n"
+            ret += ' '.join(re.split("[-_:]+", tag['k'])) + " " 
+            ret += ' '.join(re.split("[-_:]+", tag['v'])) + "\n"
         
         ret += "\n"
         return ret
