@@ -25,10 +25,10 @@ from keras.models import Model
 
 BASE_DIR = ''
 GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
-MAX_SEQUENCE_LENGTH = 1000
+MAX_SEQUENCE_LENGTH = 600
 MAX_NUM_WORDS = 20000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
-VALIDATION_SPLIT = 0.4
+VALIDATION_SPLIT = 0.35
 
 # first, build index mapping words in the embeddings set
 # to their embedding vector
@@ -55,7 +55,7 @@ labels_index = {}  # dictionary mapping label name to numeric id
 texts = []  # list of text samples
 labels = []  # list of label ids
 
-with open('data/changesets.csv', newline='',encoding='utf-8') as csvfile:
+with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
 
     for row in spamreader:
@@ -63,7 +63,7 @@ with open('data/changesets.csv', newline='',encoding='utf-8') as csvfile:
         if len(labels_index) == 0:
             labels_index['OK'] = 0
             
-            for r in row[1:]:
+            for r in row[2:]:
                 label_id = len(labels_index)
                 labels_index[r] = label_id       
 
@@ -73,9 +73,9 @@ with open('data/changesets.csv', newline='',encoding='utf-8') as csvfile:
                 cs.read()
                 
                 label_id = 0 # 'OK'
-                for index in range(1, len(row)):
+                for index in range(2, len(row)):
                     if ( row[index] == 'Y'):
-                        label_id = index
+                        label_id = index-1
 
                 labels.append( label_id )
                 texts.append( cs.textDump() )
@@ -87,10 +87,21 @@ tokenizer = Tokenizer(num_words=MAX_NUM_WORDS)
 tokenizer.fit_on_texts(texts)
 sequences = tokenizer.texts_to_sequences(texts)
 
+sequencesLength = [ len(i) for i in sequences]
+
+print('Word Count: Mean {:0.0f}, Median {:0.0f}, 95% {:0.0f}, 98% {:0.0f}, MAX_SEQUENCE_LENGTH={}'.format( 
+    np.mean(sequencesLength),
+    np.median(sequencesLength),
+    np.percentile(sequencesLength,95),
+    np.percentile(sequencesLength,98),
+    MAX_SEQUENCE_LENGTH
+    ))
+
 word_index = tokenizer.word_index
 print('Found %s unique tokens.' % len(word_index))
 
-data = pad_sequences(sequences, maxlen=MAX_SEQUENCE_LENGTH)
+data = pad_sequences(sequences, maxlen=MAX_SEQUENCE_LENGTH,truncating='post',padding='post')
+
 
 labels = to_categorical(np.asarray(labels))
 print('Shape of data tensor:', data.shape)
@@ -120,6 +131,10 @@ for word, i in word_index.items():
     if embedding_vector is not None:
         # words not found in embedding index will be all-zeros.
         embedding_matrix[i] = embedding_vector
+    else :
+        1
+        # print("Can't embed {}".format(word))
+
 
 # load pre-trained word embeddings into an Embedding layer
 # note that we set trainable = False so as to keep the embeddings fixed

@@ -4,17 +4,16 @@ import xml.etree.ElementTree as ET
 import pprint
 import time
 
-with open("data/spamnodes.csv") as f:
+with open("trainingdata/spamnodes.csv") as f:
     nodes = f.read().splitlines()
  
 
 changesetDb = []
-with open('data/changesets.csv', newline='',encoding='utf-8') as csvfile:
+with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
     next(spamreader) # skip header.
     for row in spamreader:
         changesetDb.append(row)
-
 
 osmApiBase =  "https://api.openstreetmap.org"
 nodeCount = 0
@@ -58,9 +57,9 @@ for node in nodes:
         print("error fetching {}".format(url))
 
 with open('data/changesets.csv', 'w', encoding='utf-8') as csvfile:
-    csvfile.write("changeset,SPAM\n")
+    csvfile.write("changeset,Notes,SPAM\n")
     for row in changesetDb:
-        csvfile.write("{},{}\n".format(row[0],row[1]))
+        csvfile.write(",".join(row) + "\n")
 
 
 

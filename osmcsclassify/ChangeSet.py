@@ -22,7 +22,7 @@ class ChangeSet:
         self.relationsModified = 0
 
     def cacheFileName(self):
-        return "data/cache/{}.xml".format(self.id)
+        return "trainingdata/cache/{}.xml".format(self.id)
 
     def addAddTag( self, osmId, elementType, key,value):        
         self.elementTags.append( { 'osmId':osmId, 'type':elementType,'o':'add', 'k':key, 'v':value } )        
@@ -185,16 +185,20 @@ class ChangeSet:
 
         for tag in sorted(self.metaTags) :
             ret += "meta "
-            ret += ' '.join(re.split("[-_:]+", tag)) + " "
-            ret += self.metaTags[tag] + "\n"
+            ret += ' '.join(re.split(r"[-_:]+", tag)) + " "
+            ret += ' '.join(re.split(r"[-_:\"'`]+", self.metaTags[tag])) + " \n"
 
         for tag in self.elementTags  :
             ret += tag['o'] + " "
             #ret += tag['type'] + " "
-            ret += ' '.join(re.split("[-_:]+", tag['k'])) + " " 
-            ret += ' '.join(re.split("[-_:]+", tag['v'])) + "\n"
+            ret += ' '.join(re.split(r"[-_:\"'`]+", tag['k'])) + " " 
+            ret += ' '.join(re.split(r"[-_:\"'`]+", tag['v'])) + " \n"
         
         ret += "\n"
+
+        ret = re.sub(r" [0-9]+ "," number ",ret)
+        ret = re.sub(r" addr "," address ",ret)
+
         return ret
 
     #def __repr__(self):
