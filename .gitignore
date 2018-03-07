@@ -1,6 +1,7 @@
 # for project
 glove.6B/
 *.h5
+*.pickle
 runtimedata/cache/*.xml
 
 # Byte-compiled / optimized / DLL files
@@ -104,3 +105,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+osmcsclassify/V0-model.pickle

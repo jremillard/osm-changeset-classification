@@ -23,6 +23,8 @@ class ChangeSet:
 
     def cacheFileName(self):
         return "trainingdata/cache/{}.xml".format(self.id)
+    def cacheRuntimeFileName(self):
+        return "runtimedata/cache/{}.xml".format(self.id)
 
     def addAddTag( self, osmId, elementType, key,value):        
         self.elementTags.append( { 'osmId':osmId, 'type':elementType,'o':'add', 'k':key, 'v':value } )        
@@ -105,7 +107,10 @@ class ChangeSet:
                     self.relationsModified += 1
                     self.diffObject(element.attrib['version'],element.attrib['id'],'relation')
                 
-    def save(self):            
+    def save(self):  
+        self.saveFile(self.cacheFileName())
+
+    def saveFile(self,filename):
 
         a = ET.Element('changeset')
         tree = ET.ElementTree(a)
@@ -132,11 +137,19 @@ class ChangeSet:
             t = ET.SubElement( body, 'tag')
             t.attrib = { 'id':tag['osmId'],'type':tag['type'],'o':tag['o'],'k':tag['k'],'v':tag['v'] }
 
-        tree.write(self.cacheFileName())
+        tree.write(filename)
 
     def cached(self):
+        if ( self.fileVersionOK( self.cacheFileName()) or 
+             self.fileVersionOK( self.cacheRuntimeFileName())): 
+            return True
+        
+        return False
+
+
+    def fileVersionOK(self,filename):
         try:
-            tree = ET.parse(self.cacheFileName())
+            tree = ET.parse(filename)
             n =tree.getroot()
             if ( 'schema' in n.attrib and n.attrib['schema'] == fileCacheVersion):
                 return True
@@ -146,11 +159,18 @@ class ChangeSet:
         return False
         
     def read(self):
+        if ( self.fileVersionOK( self.cacheFileName())) :
+            self.readFile( self.cacheFileName())
+        elif ( self.fileVersionOK( self.cacheRuntimeFileName())):
+            self.readFile( self.cacheRuntimeFileName())
+            
+    def readFile(self, filename):
+
         self.metaTags = {}
         self.elementTags = []
 
         #try:
-        tree = ET.parse(self.cacheFileName())
+        tree = ET.parse(filename)
         n =tree.getroot()
 
         counts = n.find('counts')

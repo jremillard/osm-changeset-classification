@@ -47,7 +47,7 @@ for node in nodes:
                     alreadyIn = True
 
             if (alreadyIn == False):
-                changesetDb.append( [changeset,'Y'] )
+                changesetDb.append( [changeset,'','','Y'] )
 
             if ( nodeCount % 5) == 0 :
                 time.sleep(2)
@@ -56,10 +56,10 @@ for node in nodes:
     except:
         print("error fetching {}".format(url))
 
-with open('data/changesets.csv', 'w', encoding='utf-8') as csvfile:
-    csvfile.write("changeset,Notes,SPAM\n")
-    for row in changesetDb:
-        csvfile.write(",".join(row) + "\n")
+#with open('data/changesets.csv', 'w', encoding='utf-8') as csvfile:
+#    csvfile.write("changeset,Notes,Validated,SPAM\n")
+#    for row in changesetDb:
+#        csvfile.write(",".join(row) + "\n")
 
 
 

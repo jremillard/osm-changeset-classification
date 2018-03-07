@@ -1,20 +1,9 @@
-'''This script loads pre-trained word embeddings (GloVe embeddings)
-into a frozen Keras Embedding layer, and uses it to
-train a text classification model on the 20 Newsgroup dataset
-(classification of newsgroup messages into 20 different categories).
-
-GloVe embedding data can be found at:
-http://nlp.stanford.edu/data/glove.6B.zip
-(source page: http://nlp.stanford.edu/projects/glove/)
-'''
-
-from __future__ import print_function
-
 import os
 import sys
 import numpy as np
 import osmcsclassify
 import csv
+import pickle
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.utils import to_categorical
@@ -34,6 +23,12 @@ VALIDATION_SPLIT = 0.35
 # to their embedding vector
 
 print('Indexing word vectors.')
+
+'''
+GloVe embedding data can be found at:
+http://nlp.stanford.edu/data/glove.6B.zip
+(source page: http://nlp.stanford.edu/projects/glove/)
+'''
 
 embeddings_index = {}
 f = open(os.path.join(GLOVE_DIR, 'glove.6B.{}d.txt'.format(EMBEDDING_DIM)))
@@ -63,7 +58,7 @@ with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile
         if len(labels_index) == 0:
             labels_index['OK'] = 0
             
-            for r in row[2:]:
+            for r in row[3:]:
                 label_id = len(labels_index)
                 labels_index[r] = label_id       
 
@@ -73,9 +68,9 @@ with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile
                 cs.read()
                 
                 label_id = 0 # 'OK'
-                for index in range(2, len(row)):
+                for index in range(3, len(row)):
                     if ( row[index] == 'Y'):
-                        label_id = index-1
+                        label_id = index-2
 
                 labels.append( label_id )
                 texts.append( cs.textDump() )
@@ -173,4 +168,13 @@ model.fit(x_train, y_train,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')
+
+
+with open('osmcsclassify/V0-model.pickle', 'wb') as f:
+    # Pickle the 'data' dictionary using the highest protocol available.
+    pickle.dump(labels_index, f, pickle.HIGHEST_PROTOCOL)
+    pickle.dump(MAX_SEQUENCE_LENGTH,f,pickle.HIGHEST_PROTOCOL)
+    pickle.dump(tokenizer, f,pickle.HIGHEST_PROTOCOL)
+
+print(labels_index)
 
