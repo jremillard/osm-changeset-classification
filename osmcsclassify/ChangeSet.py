@@ -110,6 +110,21 @@ class ChangeSet:
     def save(self):  
         self.saveFile(self.cacheFileName())
 
+    def indent(elem, level=0):
+        i = "\n" + level*"  "
+        if len(elem):
+            if not elem.text or not elem.text.strip():
+            elem.text = i + "  "
+            if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+            for elem in elem:
+            indent(elem, level+1)
+            if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        else:
+            if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
     def saveFile(self,filename):
 
         a = ET.Element('changeset')
@@ -137,7 +152,10 @@ class ChangeSet:
             t = ET.SubElement( body, 'tag')
             t.attrib = { 'id':tag['osmId'],'type':tag['type'],'o':tag['o'],'k':tag['k'],'v':tag['v'] }
 
+        indent(a)
+
         tree.write(filename)
+
 
     def cached(self):
         if ( self.fileVersionOK( self.cacheFileName()) or 

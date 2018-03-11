@@ -57,25 +57,36 @@ for i,row in enumerate(changesetsCsv):
         print("-------------------------------------------------")   
         print(cs.textDump())
         print(",".join(row))
-        print("press space to keep, s=SPAM, n=OK, any other quit {:0.0f}% left".format( 100.0*validated/unValidatedCount ))
+        print("press space to leave it, s=SPAM, i=import, r=revert, e=error, n=Normal, any other quit {:0.0f}% complete".format( 100.0*validated/unValidatedCount ))
 
         k = getch()
 
         changesetsCsv[i][2] = 'Y'
 
-        if ( k == 's'):
-            changesetsCsv[i][3] = 'Y'
-        elif ( k == 'n'):
-            changesetsCsv[i][3] = 'N'
-        elif ( k == ' '):
-            True
-        else :
-            sys.exit(0)
+        if ( k != ' ') :
 
+            changesetsCsv[i][3] = 'N'
+            changesetsCsv[i][4] = 'N'
+            changesetsCsv[i][5] = 'N'
+            changesetsCsv[i][6] = 'N'
+
+            if ( k == 'n'):
+                True
+            elif ( k == 's'):
+                changesetsCsv[i][3] = 'Y'
+            elif ( k == 'r'):
+                changesetsCsv[i][4] = 'Y'
+            elif ( k == 'i'):
+                changesetsCsv[i][5] = 'Y'
+            elif ( k == 'e'):
+                changesetsCsv[i][6] = 'Y'
+            else 
+                sys.exit(0)
+            
         validated += 1
 
         with open('trainingdata/changesets.csv', 'w', encoding='utf-8') as csvfile:
-            csvfile.write("changeset,From,Validated,SPAM\n")
+            csvfile.write("changeset,From,Validated,SPAM,Revert,Bad Import,Mapping Error\n")
             for wrow in changesetsCsv:
                 csvfile.write(",".join(wrow) + "\n")
 
