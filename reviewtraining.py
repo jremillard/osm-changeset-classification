@@ -91,7 +91,7 @@ for i,row in enumerate(changesetsCsv):
 
         with open('trainingdata/changesets.csv', 'w', encoding='utf-8') as csvfile:
             changesetIds = {}
-            csvfile.write("changeset,From,Validated,SPAM,Revert,Bad Import,Import, Mapping Error\n")
+            csvfile.write("changeset,From,Validated,SPAM,Revert,Bad Import,Import,Mapping Error\n")
             for wrow in changesetsCsv:
                 if ( wrow[0] not in changesetIds):
                     changesetIds[wrow[0]] = 1

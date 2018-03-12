@@ -48,6 +48,11 @@ class ChangeSet:
         self.nodesModified = 0
         self.waysModified = 0
         self.relationsModified = 0
+
+        self.nodesDeleted = 0
+        self.waysDeleted = 0
+        self.relationsDeleted = 0
+        
         self.ignoredKeys = ['created_by']
 
     def cacheFileName(self):
@@ -122,6 +127,14 @@ class ChangeSet:
         modifiedNodesRevs = {}
         modifiedWaysRevs = {}
         modifiedRelationsRevs = {}
+
+        for create in body.iterfind('delete'):
+            for node in create.iterfind('node'):
+                self.nodesDeleted += 1
+            for node in create.iterfind('way'):
+                self.waysDeleted += 1
+            for node in create.iterfind('relation'):
+                self.relationsDeleted += 1
 
         # This function is complicated, because a single changset can have many versions of the 
         # same object in it. It can even create an object, then modify it many times.
@@ -277,7 +290,10 @@ class ChangeSet:
             'relationsAdded':str(self.relationsAdded),
             'nodesModified':str(self.nodesModified),
             'waysModified':str(self.waysModified),
-            'relationsModified':str(self.relationsModified)
+            'relationsModified':str(self.relationsModified),
+            'nodesDeleted':str(self.nodesDeleted),
+            'waysDeleted':str(self.waysDeleted),
+            'relationsDeleted':str(self.relationsDeleted)
         }
 
         meta = ET.SubElement(a, 'meta')
@@ -339,6 +355,15 @@ class ChangeSet:
         self.waysModified = int(counts.attrib['waysModified'])
         self.relationsModified = int(counts.attrib['relationsModified'])
 
+        if ( int(n.attrib['schema']) > 1 ):
+            self.nodesDeleted = int(counts.attrib['nodesDeleted'])
+            self.waysDeleted = int(counts.attrib['waysDeleted'])
+            self.relationsDeleted = int(counts.attrib['relationsDeleted'])
+        else:
+            self.nodesDeleted = 0
+            self.waysDeleted = 0
+            self.relationsDeleted = 0
+
         for meta in n.findall('meta'):
             for tag in meta:
                 self.metaTags[tag.attrib['k']] = tag.attrib['v']
@@ -358,14 +383,12 @@ class ChangeSet:
     def textDumpHuman(self):
 
         ret = 'https://www.openstreetmap.org/changeset/{}\n'.format(self.id)
-        ret += "nodesAdded {}\n".format(self.nodesAdded ) 
-        ret += "waysAdded {}\n".format(self.waysAdded ) 
-        ret += "relationsAdded {}\n".format(self.relationsAdded ) 
-        ret += "nodesModified {}\n".format(self.nodesModified ) 
-        ret += "waysModified {}\n".format(self.waysModified ) 
-        ret += "relationsModified {}\n".format(self.relationsModified ) 
 
-        ret += "meta\n"
+        ret += "Added    {},{},{}\n".format(self.nodesAdded,self.waysAdded,self.relationsAdded   ) 
+        ret += "Modified {},{},{}\n".format(self.nodesModified,self.waysModified,self.relationsModified)
+        ret += "Deleted  {},{},{}\n".format(self.nodesDeleted,self.waysDeleted,self.relationsDeleted )
+
+        ret += "\nmeta\n"
         for tag in sorted(self.metaTags) :
             ret += "  {}={}\n".format(tag, self.metaTags[tag])
 
