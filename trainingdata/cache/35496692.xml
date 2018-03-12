@@ -1,0 +1,25 @@
+<changeset id="35496692" schema="2">
+  <counts nodesAdded="0" nodesDeleted="9237" nodesModified="0" relationsAdded="0" relationsDeleted="3" relationsModified="2" waysAdded="0" waysDeleted="31" waysModified="3" />
+  <meta>
+    <tag k="bot" v="yes" />
+    <tag k="comment" v="Revert changeset 35469567. This was an poorly discussed import without proper documentation and without usage of a dedicated import account." />
+    <tag k="created_by" v="osmtools/30252 (linux)" />
+  </meta>
+  <body>
+    <tag id="32730080" k="boundary" o="add" type="way" v="national_park" />
+    <tag id="32730080" k="name" o="add" type="way" v="Naturschutzgebiet Wurmberg" />
+    <tag id="32730080" k="source" o="add" type="way" v="NLWKN" />
+    <tag id="32730081" k="boundary" o="add" type="way" v="national_park" />
+    <tag id="32730081" k="name" o="add" type="way" v="Naturschutzgebiet Wurmberg" />
+    <tag id="32730081" k="source" o="add" type="way" v="NLWKN" />
+    <tag id="99245324" k="note" o="add" type="way" v="Grenze Nationalpark Harz; boundary=protected_area; protect_id=2" />
+    <tag id="99245324" k="source" o="add" type="way" v="Gesetz &#252;ber den Nationalpark &#8222;Harz (Niedersachsen)&#8221;, 19.12.2005" />
+    <tag id="113294" k="boundary" o="modify" type="relation" v="national_park" />
+    <tag id="113294" k="name" o="modify" type="relation" v="Naturschutzgebiet Wurmberg" />
+    <tag id="113294" k="source" o="none" type="relation" v="NLWKN" />
+    <tag id="113294" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="113292" k="leisure" o="none" type="relation" v="nature_reserve" />
+    <tag id="113292" k="name" o="modify" type="relation" v="Naturschutzgebiet Oberharz" />
+    <tag id="113292" k="type" o="none" type="relation" v="multipolygon" />
+  </body>
+</changeset>

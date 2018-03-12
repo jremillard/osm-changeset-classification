@@ -1,0 +1,894 @@
+<changeset id="43554671" schema="2">
+  <counts nodesAdded="0" nodesDeleted="9" nodesModified="35" relationsAdded="0" relationsDeleted="0" relationsModified="9" waysAdded="0" waysDeleted="2" waysModified="236" />
+  <meta>
+    <tag k="comment" v="Reverted 5 changesets (tests/vandalism) by hk20020062" />
+    <tag k="created_by" v="reverter;JOSM/1.5 (11223 en)" />
+  </meta>
+  <body>
+    <tag id="1559411275" k="name" o="add" type="node" v="&#24800;&#24247; Wellcome" />
+    <tag id="1559411275" k="name:en" o="add" type="node" v="Wellcome" />
+    <tag id="1559411275" k="name:zh" o="add" type="node" v="&#24800;&#24247;" />
+    <tag id="1559411275" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="1561104536" k="amenity" o="add" type="node" v="bus_station" />
+    <tag id="1561104536" k="name" o="add" type="node" v="&#33909;&#30427; (&#20013;) Kwai Shing (Central)" />
+    <tag id="1561104536" k="name:en" o="add" type="node" v="Kwai Shing (Central)" />
+    <tag id="1561104536" k="name:zh" o="add" type="node" v="&#33909;&#30427; (&#20013;)" />
+    <tag id="1646789087" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="1646789087" k="foot" o="add" type="node" v="yes" />
+    <tag id="1646789157" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="1646789157" k="foot" o="add" type="node" v="yes" />
+    <tag id="1687467558" k="highway" o="add" type="node" v="turning_loop" />
+    <tag id="1687467576" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="1687467576" k="foot" o="add" type="node" v="yes" />
+    <tag id="1687467582" k="amenity" o="add" type="node" v="taxi" />
+    <tag id="1687467663" k="barrier" o="add" type="node" v="gate" />
+    <tag id="1687467663" k="foot" o="add" type="node" v="yes" />
+    <tag id="1687467679" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="1687467679" k="foot" o="add" type="node" v="yes" />
+    <tag id="1711507824" k="amenity" o="add" type="node" v="toilets" />
+    <tag id="1711507840" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="1711507840" k="name" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33909;&#27155; Shek Kwai House, Shek Wai Kok Estate" />
+    <tag id="1711507840" k="name:en" o="add" type="node" v="Shek Kwai House, Shek Wai Kok Estate" />
+    <tag id="1711507840" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33909;&#27155;" />
+    <tag id="1711507840" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="1711507840" k="ref:hkbus" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33909;&#27155;" />
+    <tag id="1711507840" k="ref:kmb" o="add" type="node" v="SH14-S-1000-0" />
+    <tag id="1711507840" k="route_ref" o="add" type="node" v="32M, 40P, 43P, 43X" />
+    <tag id="1711507840" k="shelter" o="add" type="node" v="yes" />
+    <tag id="1711507854" k="amenity" o="add" type="node" v="toilets" />
+    <tag id="1711522640" k="amenity" o="add" type="node" v="atm" />
+    <tag id="1711522653" k="amenity" o="add" type="node" v="atm" />
+    <tag id="1711522653" k="operator" o="add" type="node" v="HSBC" />
+    <tag id="1711507855" k="amenity" o="add" type="node" v="library" />
+    <tag id="1711507855" k="name" o="add" type="node" v="&#30707;&#22285;&#35282;&#20844;&#20849;&#22294;&#26360;&#39208; Shek Wai Kok Public Library" />
+    <tag id="1711507855" k="name:en" o="add" type="node" v="Shek Wai Kok Public Library" />
+    <tag id="1711507855" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;&#20844;&#20849;&#22294;&#26360;&#39208;" />
+    <tag id="1711507867" k="amenity" o="add" type="node" v="bus_station" />
+    <tag id="1711507867" k="name" o="add" type="node" v="&#30707;&#22285;&#35282; Shek Wai Kok" />
+    <tag id="1711507867" k="name:en" o="add" type="node" v="Shek Wai Kok" />
+    <tag id="1711507867" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;" />
+    <tag id="1711507867" k="ref:hkbus" o="add" type="node" v="&#30707;&#22285;&#35282;&#32317;&#31449;" />
+    <tag id="1711507867" k="ref:kmb" o="add" type="node" v="SH11-T-1000-0" />
+    <tag id="1711522647" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="1711522647" k="name" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#34030;&#27155; Shek Lin House, Shek Wai Kok Estate" />
+    <tag id="1711522647" k="name:en" o="add" type="node" v="Shek Lin House, Shek Wai Kok Estate" />
+    <tag id="1711522647" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#34030;&#27155;" />
+    <tag id="1711522647" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="1711522647" k="ref:hkbus" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#34030;&#27155;" />
+    <tag id="1711522647" k="ref:kmb" o="add" type="node" v="SH14-N-1000-0" />
+    <tag id="1711522647" k="shelter" o="add" type="node" v="yes" />
+    <tag id="1711507862" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="1711507862" k="name" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33738;&#27155; Shek Kuk House, Shek Wai Kok Estate" />
+    <tag id="1711507862" k="name:en" o="add" type="node" v="Shek Kuk House, Shek Wai Kok Estate" />
+    <tag id="1711507862" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33738;&#27155;" />
+    <tag id="1711507862" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="1711507862" k="ref:hkbus" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33738;&#27155;" />
+    <tag id="1711507862" k="ref:kmb" o="add" type="node" v="SH14-N-1050-0" />
+    <tag id="1711507862" k="route_ref" o="add" type="node" v="32M, 36, 43P, 43X, 234C" />
+    <tag id="1711522663" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="1711522663" k="name" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33655;&#27155; Shek Ho House, Shek Wai Kok Estate" />
+    <tag id="1711522663" k="name:en" o="add" type="node" v="Shek Ho House, Shek Wai Kok Estate" />
+    <tag id="1711522663" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33655;&#27155;" />
+    <tag id="1711522663" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="1711522663" k="ref:hkbus" o="add" type="node" v="&#30707;&#22285;&#35282;&#37032;&#30707;&#33655;&#27155;" />
+    <tag id="1711522663" k="ref:kmb" o="add" type="node" v="SH14-S-1050-0" />
+    <tag id="1711522663" k="shelter" o="add" type="node" v="yes" />
+    <tag id="1785583846" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="1785583846" k="name" o="add" type="node" v="&#35937;&#23665;&#37032;&#31168;&#23665;&#27155; Sau Shan House, Cheung Shan Estate" />
+    <tag id="1785583846" k="name:en" o="add" type="node" v="Sau Shan House, Cheung Shan Estate" />
+    <tag id="1785583846" k="name:zh" o="add" type="node" v="&#35937;&#23665;&#37032;&#31168;&#23665;&#27155;" />
+    <tag id="1785583846" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="1785583846" k="ref:hkbus" o="add" type="node" v="&#35937;&#23665;&#37032;&#31168;&#23665;&#27155;" />
+    <tag id="1785583846" k="ref:kmb" o="add" type="node" v="CH12-W-1000-0" />
+    <tag id="1785583846" k="shelter" o="add" type="node" v="yes" />
+    <tag id="1785624093" k="barrier" o="add" type="node" v="gate" />
+    <tag id="1785624093" k="foot" o="add" type="node" v="yes" />
+    <tag id="1927124639" k="amenity" o="add" type="node" v="fast_food" />
+    <tag id="1927124639" k="name" o="add" type="node" v="&#40613;&#30070;&#21214; McDonald's" />
+    <tag id="2139043202" k="amenity" o="add" type="node" v="bus_station" />
+    <tag id="2139043202" k="name" o="add" type="node" v="&#30707;&#31852; (&#26792;&#35997;&#34903;) Shek Lei (Lei Pui Street)" />
+    <tag id="2139043202" k="name:en" o="add" type="node" v="Shek Lei (Lei Pui Street)" />
+    <tag id="2139043202" k="name:zh" o="add" type="node" v="&#30707;&#31852; (&#26792;&#35997;&#34903;)" />
+    <tag id="2391108580" k="amenity" o="add" type="node" v="bus_station" />
+    <tag id="2391108580" k="name" o="add" type="node" v="&#33909;&#30427;&#20013;&#24052;&#22763;&#32317;&#31449;" />
+    <tag id="2391108580" k="name:en" o="add" type="node" v="Kwai Shing Central Bus Terminus" />
+    <tag id="2467554342" k="amenity" o="add" type="node" v="post_box" />
+    <tag id="2467554342" k="collection_times" o="add" type="node" v="Mo-Sa 11:00" />
+    <tag id="2467554342" k="drive_through" o="add" type="node" v="no" />
+    <tag id="2467554342" k="operator" o="add" type="node" v="&#39321;&#28207;&#37109;&#25919; Hong Kong Post" />
+    <tag id="2467554342" k="ref" o="add" type="node" v="692" />
+    <tag id="2467562313" k="amenity" o="add" type="node" v="post_box" />
+    <tag id="2467562313" k="collection_times" o="add" type="node" v="Mo-Sa 11:00" />
+    <tag id="2467562313" k="operator" o="add" type="node" v="&#39321;&#28207;&#37109;&#25919; Hong Kong Post" />
+    <tag id="2467562313" k="ref" o="add" type="node" v="691" />
+    <tag id="2717008357" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2717008357" k="name" o="add" type="node" v="&#35937;&#23665;&#37032;&#31168;&#23665;&#27155; Sau Shan House, Cheung Shan Estate" />
+    <tag id="2717008357" k="name:en" o="add" type="node" v="Sau Shan House, Cheung Shan Estate" />
+    <tag id="2717008357" k="name:zh" o="add" type="node" v="&#35937;&#23665;&#37032;&#31168;&#23665;&#27155;" />
+    <tag id="2717008357" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2717008357" k="ref:hkbus" o="add" type="node" v="&#35937;&#23665;&#37032;&#31168;&#23665;&#27155;" />
+    <tag id="2717008357" k="ref:kmb" o="add" type="node" v="CH12-W-1050-0" />
+    <tag id="2691276167" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2691276167" k="name" o="add" type="node" v="&#30707;&#31852;&#22825;&#20027;&#25945;&#23567;&#23416; Shek Lei Catholic Primary School" />
+    <tag id="2691276167" k="name:en" o="add" type="node" v="Shek Lei Catholic Primary School" />
+    <tag id="2691276167" k="name:zh" o="add" type="node" v="&#30707;&#31852;&#22825;&#20027;&#25945;&#23567;&#23416;" />
+    <tag id="2691276167" k="operator" o="add" type="node" v="KMB" />
+    <tag id="2691276167" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2691276167" k="ref:hkbus" o="add" type="node" v="&#30707;&#31852;&#22825;&#20027;&#25945;&#23567;&#23416;" />
+    <tag id="2691276167" k="ref:kmb" o="add" type="node" v="SH11-N-1100-0" />
+    <tag id="2691276167" k="shelter" o="add" type="node" v="yes" />
+    <tag id="3324787647" k="amenity" o="add" type="node" v="toilets" />
+    <tag id="4269933949" k="amenity" o="add" type="node" v="post_box" />
+    <tag id="4269933949" k="collection_times" o="add" type="node" v="Mo-Sa 11:00" />
+    <tag id="4269933949" k="drive_through" o="add" type="node" v="no" />
+    <tag id="4269933949" k="operator" o="add" type="node" v="&#39321;&#28207;&#37109;&#25919; Hong Kong Post" />
+    <tag id="4269933949" k="ref" o="add" type="node" v="339" />
+    <tag id="4273564177" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="4273564177" k="collection_times" o="add" type="node" v="Mo-Fr 16:30; Sa 13:00" />
+    <tag id="4273564177" k="name" o="add" type="node" v="&#33909;&#30427;&#37109;&#25919;&#23616; Kwai Shing Post Office" />
+    <tag id="4273564177" k="name:en" o="add" type="node" v="Kwai Shing Post Office" />
+    <tag id="4273564177" k="name:zh" o="add" type="node" v="&#33909;&#30427;&#37109;&#25919;&#23616;" />
+    <tag id="4273564177" k="opening_hours" o="add" type="node" v="Mo-Fr 09:30-16:30; Sa 09:30-13:00" />
+    <tag id="4273564177" k="operator" o="add" type="node" v="&#39321;&#28207;&#37109;&#25919; Hong Kong Post" />
+    <tag id="4273564177" k="ref" o="add" type="node" v="KSG" />
+    <tag id="3823795763" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3823795763" k="collection_times" o="add" type="node" v="Mo-Fr 16:30; Sa 13:00" />
+    <tag id="3823795763" k="name" o="add" type="node" v="&#30707;&#22285;&#35282;&#37109;&#25919;&#23616; Shek Wai Kok Post Office" />
+    <tag id="3823795763" k="name:en" o="add" type="node" v="Shek Wai Kok Post Office" />
+    <tag id="3823795763" k="name:zh" o="add" type="node" v="&#30707;&#22285;&#35282;&#37109;&#25919;&#23616;" />
+    <tag id="3823795763" k="opening_hours" o="add" type="node" v="Mo-Fr 09:30-16:30; Sa 09:30-13:00" />
+    <tag id="3823795763" k="operator" o="add" type="node" v="&#39321;&#28207;&#37109;&#25919; Hong Kong Post" />
+    <tag id="3823795763" k="ref" o="add" type="node" v="SWK" />
+    <tag id="4344557763" k="alt_name:yue" o="add" type="node" v="&#26792;&#26408;&#22781;" />
+    <tag id="4344557763" k="name" o="add" type="node" v="&#26792;&#26408;&#27193; Lei Muk Shue" />
+    <tag id="4344557763" k="name:en" o="add" type="node" v="Lei Muk Shue" />
+    <tag id="4344557763" k="name:yue" o="add" type="node" v="&#26792;&#26408;&#27193;" />
+    <tag id="4344557763" k="old_name:en" o="add" type="node" v="Lai Muk Shu" />
+    <tag id="4344557763" k="place" o="add" type="node" v="suburb" />
+    <tag id="4469652693" k="amenity" o="add" type="node" v="fast_food" />
+    <tag id="4469652693" k="name" o="add" type="node" v="&#35937;&#23665;&#24555;&#39184;&#24215;" />
+    <tag id="4469652693" k="name:zh" o="add" type="node" v="&#35937;&#23665;&#24555;&#39184;&#24215;" />
+    <tag id="1785583833" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="1785583833" k="highway" o="none" type="node" v="crossing" />
+    <tag id="114367921" k="highway" o="add" type="way" v="service" />
+    <tag id="142492949" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492949" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492949" k="layer" o="add" type="way" v="1" />
+    <tag id="142492950" k="highway" o="add" type="way" v="service" />
+    <tag id="142492950" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="142492952" k="highway" o="add" type="way" v="service" />
+    <tag id="142492955" k="highway" o="add" type="way" v="service" />
+    <tag id="142492956" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492956" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492956" k="layer" o="add" type="way" v="1" />
+    <tag id="142492961" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492961" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492961" k="layer" o="add" type="way" v="1" />
+    <tag id="142492951" k="building" o="add" type="way" v="yes" />
+    <tag id="142492951" k="layer" o="add" type="way" v="1" />
+    <tag id="142492951" k="name" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032;&#36092;&#29289;&#24266; Kwai Shing West Estate Shopping Arcade" />
+    <tag id="142492951" k="name:en" o="add" type="way" v="Kwai Shing West Estate Shopping Arcade" />
+    <tag id="142492951" k="name:zh" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032;&#36092;&#29289;&#24266;" />
+    <tag id="142492951" k="shop" o="add" type="way" v="mall" />
+    <tag id="142492957" k="building" o="add" type="way" v="yes" />
+    <tag id="142492957" k="building:levels" o="add" type="way" v="22" />
+    <tag id="142492957" k="name" o="add" type="way" v="&#31532;9&#24231; Block 9" />
+    <tag id="142492957" k="name:en" o="add" type="way" v="Block 9" />
+    <tag id="142492957" k="name:zh" o="add" type="way" v="&#31532;9&#24231;" />
+    <tag id="142492960" k="building" o="add" type="way" v="yes" />
+    <tag id="142492960" k="building:levels" o="add" type="way" v="25" />
+    <tag id="142492960" k="name" o="add" type="way" v="&#31532;8&#24231; Block 8" />
+    <tag id="142492960" k="name:en" o="add" type="way" v="Block 8" />
+    <tag id="142492960" k="name:zh" o="add" type="way" v="&#31532;8&#24231;" />
+    <tag id="142494496" k="building" o="add" type="way" v="yes" />
+    <tag id="142494501" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142494501" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492962" k="highway" o="add" type="way" v="service" />
+    <tag id="142492963" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492963" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492963" k="layer" o="add" type="way" v="1" />
+    <tag id="142492964" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492964" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492964" k="layer" o="add" type="way" v="1" />
+    <tag id="142492965" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492965" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492965" k="layer" o="add" type="way" v="1" />
+    <tag id="142492966" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142492966" k="highway" o="add" type="way" v="footway" />
+    <tag id="142492966" k="layer" o="add" type="way" v="1" />
+    <tag id="142494497" k="building" o="add" type="way" v="yes" />
+    <tag id="142494497" k="building:levels" o="add" type="way" v="24" />
+    <tag id="142494497" k="name" o="add" type="way" v="&#31532;5&#24231; Block 5" />
+    <tag id="142494497" k="name:en" o="add" type="way" v="Block 5" />
+    <tag id="142494497" k="name:zh" o="add" type="way" v="&#31532;5&#24231;" />
+    <tag id="142494498" k="amenity" o="add" type="way" v="parking" />
+    <tag id="142494498" k="building" o="add" type="way" v="yes" />
+    <tag id="142494498" k="building:levels" o="add" type="way" v="4" />
+    <tag id="142494498" k="parking" o="add" type="way" v="multi-storey" />
+    <tag id="142492967" k="building" o="add" type="way" v="yes" />
+    <tag id="142492967" k="building:levels" o="add" type="way" v="20" />
+    <tag id="142492967" k="layer" o="add" type="way" v="1" />
+    <tag id="142492967" k="name" o="add" type="way" v="&#31532;6&#24231; Block 6" />
+    <tag id="142492967" k="name:en" o="add" type="way" v="Block 6" />
+    <tag id="142492967" k="name:zh" o="add" type="way" v="&#31532;6&#24231;" />
+    <tag id="142492968" k="building" o="add" type="way" v="yes" />
+    <tag id="142492968" k="name" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032;&#21830;&#22580; Kwai Shing West Estate Shopping Centre" />
+    <tag id="142492968" k="name:en" o="add" type="way" v="Kwai Shing West Estate Shopping Centre" />
+    <tag id="142492968" k="name:zh" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032;&#21830;&#22580;" />
+    <tag id="142492968" k="shop" o="add" type="way" v="mall" />
+    <tag id="142492970" k="building" o="add" type="way" v="yes" />
+    <tag id="142492970" k="building:levels" o="add" type="way" v="7" />
+    <tag id="142492970" k="name" o="add" type="way" v="&#31532;7&#24231; Block 7" />
+    <tag id="142492970" k="name:en" o="add" type="way" v="Block 7" />
+    <tag id="142492970" k="name:zh" o="add" type="way" v="&#31532;7&#24231;" />
+    <tag id="151834828" k="highway" o="add" type="way" v="service" />
+    <tag id="151834828" k="name" o="add" type="way" v="&#30707;&#23433;&#34903; Shek On Street" />
+    <tag id="151834828" k="name:en" o="add" type="way" v="Shek On Street" />
+    <tag id="151834828" k="name:zh" o="add" type="way" v="&#30707;&#23433;&#34903;" />
+    <tag id="151834865" k="highway" o="add" type="way" v="service" />
+    <tag id="151834873" k="highway" o="add" type="way" v="service" />
+    <tag id="151834874" k="highway" o="add" type="way" v="service" />
+    <tag id="151834892" k="highway" o="add" type="way" v="service" />
+    <tag id="151834899" k="highway" o="add" type="way" v="service" />
+    <tag id="151834899" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142494502" k="building" o="add" type="way" v="yes" />
+    <tag id="142494502" k="building:levels" o="add" type="way" v="7" />
+    <tag id="142494502" k="name" o="add" type="way" v="&#31532;4&#24231; Block 4" />
+    <tag id="142494502" k="name:en" o="add" type="way" v="Block 4" />
+    <tag id="142494502" k="name:zh" o="add" type="way" v="&#31532;4&#24231;" />
+    <tag id="142494504" k="building" o="add" type="way" v="yes" />
+    <tag id="142494504" k="building:levels" o="add" type="way" v="17" />
+    <tag id="142494504" k="name" o="add" type="way" v="&#31532;3&#24231; Block 3" />
+    <tag id="142494504" k="name:en" o="add" type="way" v="Block 3" />
+    <tag id="142494504" k="name:zh" o="add" type="way" v="&#31532;3&#24231;" />
+    <tag id="142494505" k="bridge" o="add" type="way" v="yes" />
+    <tag id="142494505" k="highway" o="add" type="way" v="footway" />
+    <tag id="142494505" k="layer" o="add" type="way" v="1" />
+    <tag id="142494506" k="building" o="add" type="way" v="yes" />
+    <tag id="142494506" k="name" o="add" type="way" v="&#31532;2&#24231; Block 2" />
+    <tag id="142494506" k="name:en" o="add" type="way" v="Block 2" />
+    <tag id="142494506" k="name:zh" o="add" type="way" v="&#31532;2&#24231;" />
+    <tag id="151834827" k="highway" o="add" type="way" v="service" />
+    <tag id="151834827" k="name" o="add" type="way" v="&#30707;&#36020;&#34903; Shek Kwai Street" />
+    <tag id="151834827" k="name:en" o="add" type="way" v="Shek Kwai Street" />
+    <tag id="151834827" k="name:zh" o="add" type="way" v="&#30707;&#36020;&#34903;" />
+    <tag id="151834866" k="highway" o="add" type="way" v="service" />
+    <tag id="151834866" k="oneway" o="add" type="way" v="yes" />
+    <tag id="151834885" k="highway" o="add" type="way" v="service" />
+    <tag id="151834901" k="highway" o="add" type="way" v="service" />
+    <tag id="151834902" k="highway" o="add" type="way" v="service" />
+    <tag id="151834903" k="highway" o="add" type="way" v="service" />
+    <tag id="151834906" k="highway" o="add" type="way" v="service" />
+    <tag id="156503311" k="highway" o="add" type="way" v="residential" />
+    <tag id="156503311" k="name" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="156503311" k="name:en" o="add" type="way" v="Lei Pui Street" />
+    <tag id="156503311" k="name:zh" o="add" type="way" v="&#26792;&#35997;&#34903;" />
+    <tag id="156503312" k="highway" o="add" type="way" v="residential" />
+    <tag id="156503312" k="name" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="156503312" k="name:en" o="add" type="way" v="Lei Pui Street" />
+    <tag id="156503312" k="name:zh" o="add" type="way" v="&#26792;&#35997;&#34903;" />
+    <tag id="156503345" k="highway" o="add" type="way" v="service" />
+    <tag id="156503345" k="oneway" o="add" type="way" v="yes" />
+    <tag id="156503348" k="highway" o="add" type="way" v="service" />
+    <tag id="156503348" k="oneway" o="add" type="way" v="yes" />
+    <tag id="151834900" k="highway" o="add" type="way" v="service" />
+    <tag id="156503309" k="addr:housenumber" o="add" type="way" v="6" />
+    <tag id="156503309" k="addr:street" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="156503309" k="amenity" o="add" type="way" v="school" />
+    <tag id="156503309" k="name" o="add" type="way" v="&#20013;&#33775;&#20659;&#36947;&#26371;&#23433;&#26609;&#20013;&#23416; CNEC Christian College" />
+    <tag id="156503309" k="name:en" o="add" type="way" v="CNEC Christian College" />
+    <tag id="156503309" k="name:zh" o="add" type="way" v="&#20013;&#33775;&#20659;&#36947;&#26371;&#23433;&#26609;&#20013;&#23416;" />
+    <tag id="156503309" k="wikipedia" o="add" type="way" v="en:CNEC Christian College" />
+    <tag id="156503337" k="bus" o="add" type="way" v="yes" />
+    <tag id="156503337" k="highway" o="add" type="way" v="service" />
+    <tag id="156503337" k="minibus" o="add" type="way" v="yes" />
+    <tag id="156503337" k="oneway" o="add" type="way" v="yes" />
+    <tag id="156503337" k="vehicle" o="add" type="way" v="no" />
+    <tag id="156503341" k="bus" o="add" type="way" v="yes" />
+    <tag id="156503341" k="highway" o="add" type="way" v="service" />
+    <tag id="156503341" k="minibus" o="add" type="way" v="yes" />
+    <tag id="156503341" k="oneway" o="add" type="way" v="yes" />
+    <tag id="156503341" k="vehicle" o="add" type="way" v="no" />
+    <tag id="156503346" k="bus" o="add" type="way" v="yes" />
+    <tag id="156503346" k="highway" o="add" type="way" v="service" />
+    <tag id="156503346" k="minibus" o="add" type="way" v="yes" />
+    <tag id="156503346" k="oneway" o="add" type="way" v="yes" />
+    <tag id="156503346" k="vehicle" o="add" type="way" v="no" />
+    <tag id="156503349" k="highway" o="add" type="way" v="service" />
+    <tag id="156503354" k="highway" o="add" type="way" v="service" />
+    <tag id="156503363" k="highway" o="add" type="way" v="service" />
+    <tag id="156503363" k="oneway" o="add" type="way" v="yes" />
+    <tag id="157984298" k="bridge" o="add" type="way" v="yes" />
+    <tag id="157984298" k="highway" o="add" type="way" v="footway" />
+    <tag id="157984298" k="layer" o="add" type="way" v="1" />
+    <tag id="157984300" k="highway" o="add" type="way" v="service" />
+    <tag id="157984306" k="highway" o="add" type="way" v="service" />
+    <tag id="156503355" k="highway" o="add" type="way" v="service" />
+    <tag id="156503355" k="service" o="add" type="way" v="emergency_access" />
+    <tag id="156503359" k="highway" o="add" type="way" v="service" />
+    <tag id="156503359" k="service" o="add" type="way" v="emergency_access" />
+    <tag id="156503360" k="highway" o="add" type="way" v="service" />
+    <tag id="156503361" k="highway" o="add" type="way" v="service" />
+    <tag id="156503362" k="highway" o="add" type="way" v="service" />
+    <tag id="156503362" k="oneway" o="add" type="way" v="yes" />
+    <tag id="156503362" k="service" o="add" type="way" v="emergency_access" />
+    <tag id="157984301" k="highway" o="add" type="way" v="service" />
+    <tag id="156503357" k="bus" o="add" type="way" v="yes" />
+    <tag id="156503357" k="highway" o="add" type="way" v="service" />
+    <tag id="156503357" k="minibus" o="add" type="way" v="yes" />
+    <tag id="156503357" k="oneway" o="add" type="way" v="yes" />
+    <tag id="156503357" k="vehicle" o="add" type="way" v="no" />
+    <tag id="157984311" k="highway" o="add" type="way" v="service" />
+    <tag id="157984311" k="minibus" o="add" type="way" v="yes" />
+    <tag id="157984311" k="oneway" o="add" type="way" v="yes" />
+    <tag id="157984311" k="vehicle" o="add" type="way" v="no" />
+    <tag id="157984312" k="bridge" o="add" type="way" v="yes" />
+    <tag id="157984312" k="highway" o="add" type="way" v="footway" />
+    <tag id="157984312" k="layer" o="add" type="way" v="1" />
+    <tag id="157984314" k="highway" o="add" type="way" v="service" />
+    <tag id="157993596" k="highway" o="add" type="way" v="service" />
+    <tag id="157993597" k="highway" o="add" type="way" v="service" />
+    <tag id="159045657" k="building" o="add" type="way" v="residential" />
+    <tag id="159045657" k="building:levels" o="add" type="way" v="15" />
+    <tag id="159045657" k="name" o="add" type="way" v="&#30707;&#33655;&#27155; Shek Ho House" />
+    <tag id="159045657" k="name:en" o="add" type="way" v="Shek Ho House" />
+    <tag id="159045657" k="name:zh" o="add" type="way" v="&#30707;&#33655;&#27155;" />
+    <tag id="159045654" k="landuse" o="add" type="way" v="residential" />
+    <tag id="159045654" k="name" o="add" type="way" v="&#30707;&#22285;&#35282;&#37032; Shek Wai Kok Estate" />
+    <tag id="159045654" k="name:en" o="add" type="way" v="Shek Wai Kok Estate" />
+    <tag id="159045654" k="name:zh" o="add" type="way" v="&#30707;&#22285;&#35282;&#37032;" />
+    <tag id="159045656" k="amenity" o="add" type="way" v="school" />
+    <tag id="159045656" k="name" o="add" type="way" v="&#20445;&#33391;&#23616;&#23002;&#36899;&#29983;&#20013;&#23416; Po Leung Kuk Yao Ling Sun College" />
+    <tag id="159045656" k="name:en" o="add" type="way" v="Po Leung Kuk Yao Ling Sun College" />
+    <tag id="159045656" k="name:zh" o="add" type="way" v="&#20445;&#33391;&#23616;&#23002;&#36899;&#29983;&#20013;&#23416;" />
+    <tag id="159139563" k="highway" o="add" type="way" v="service" />
+    <tag id="159139566" k="bridge" o="add" type="way" v="yes" />
+    <tag id="159139566" k="highway" o="add" type="way" v="footway" />
+    <tag id="159139566" k="layer" o="add" type="way" v="1" />
+    <tag id="167158909" k="amenity" o="add" type="way" v="school" />
+    <tag id="167158909" k="name" o="add" type="way" v="&#39321;&#28207;&#36947;&#25945;&#32879;&#21512;&#26371;&#30707;&#22285;&#35282;&#23567;&#23416; Hong Kong Taoist Association Shek Wai Kok Primary School" />
+    <tag id="167158909" k="name:en" o="add" type="way" v="Hong Kong Taoist Association Shek Wai Kok Primary School" />
+    <tag id="167158909" k="name:zh" o="add" type="way" v="&#39321;&#28207;&#36947;&#25945;&#32879;&#21512;&#26371;&#30707;&#22285;&#35282;&#23567;&#23416;" />
+    <tag id="159056252" k="amenity" o="add" type="way" v="parking" />
+    <tag id="159056252" k="building" o="add" type="way" v="yes" />
+    <tag id="159056252" k="building:levels" o="add" type="way" v="3" />
+    <tag id="159139551" k="building" o="add" type="way" v="yes" />
+    <tag id="159139551" k="building:levels" o="add" type="way" v="28" />
+    <tag id="159139551" k="name" o="add" type="way" v="&#30707;&#33909;&#27155; Shek Kwai House" />
+    <tag id="159139551" k="name:en" o="add" type="way" v="Shek Kwai House" />
+    <tag id="159139551" k="name:zh" o="add" type="way" v="&#30707;&#33909;&#27155;" />
+    <tag id="159139561" k="bridge" o="add" type="way" v="yes" />
+    <tag id="159139561" k="highway" o="add" type="way" v="footway" />
+    <tag id="159139561" k="layer" o="add" type="way" v="2" />
+    <tag id="159139562" k="bridge" o="add" type="way" v="yes" />
+    <tag id="159139562" k="highway" o="add" type="way" v="footway" />
+    <tag id="159139562" k="layer" o="add" type="way" v="1" />
+    <tag id="159045658" k="building" o="add" type="way" v="residential" />
+    <tag id="159045658" k="building:levels" o="add" type="way" v="14" />
+    <tag id="159045658" k="layer" o="add" type="way" v="1" />
+    <tag id="159045658" k="name" o="add" type="way" v="&#30707;&#33459;&#27155; Shek Fong Estate" />
+    <tag id="159045658" k="name:en" o="add" type="way" v="Shek Fong Estate" />
+    <tag id="159045658" k="name:zh" o="add" type="way" v="&#30707;&#33459;&#27155;" />
+    <tag id="159047661" k="building" o="add" type="way" v="yes" />
+    <tag id="159047661" k="building:levels" o="add" type="way" v="3" />
+    <tag id="159047661" k="name" o="add" type="way" v="&#30707;&#22285;&#35282;&#21830;&#22580; Shek Wai Kok Commercial Centre" />
+    <tag id="159047661" k="name:en" o="add" type="way" v="Shek Wai Kok Commercial Centre" />
+    <tag id="159047661" k="name:zh" o="add" type="way" v="&#30707;&#22285;&#35282;&#21830;&#22580;" />
+    <tag id="159047661" k="shop" o="add" type="way" v="mall" />
+    <tag id="159139550" k="building" o="add" type="way" v="yes" />
+    <tag id="159139550" k="building:levels" o="add" type="way" v="26" />
+    <tag id="159139550" k="name" o="add" type="way" v="&#30707;&#33909;&#27155; Shek Kwai House" />
+    <tag id="159139550" k="name:en" o="add" type="way" v="Shek Kwai House" />
+    <tag id="159139550" k="name:zh" o="add" type="way" v="&#30707;&#33909;&#27155;" />
+    <tag id="167158910" k="building" o="add" type="way" v="yes" />
+    <tag id="167158910" k="building:levels" o="add" type="way" v="28" />
+    <tag id="167158910" k="name" o="add" type="way" v="&#30707;&#33738;&#27155; Shek Kuk House" />
+    <tag id="167158910" k="name:en" o="add" type="way" v="Shek Kuk House" />
+    <tag id="167158910" k="name:zh" o="add" type="way" v="&#30707;&#33738;&#27155;" />
+    <tag id="167158911" k="building" o="add" type="way" v="yes" />
+    <tag id="167158911" k="building:levels" o="add" type="way" v="26" />
+    <tag id="167158911" k="name" o="add" type="way" v="&#30707;&#33738;&#27155; Shek Kuk House" />
+    <tag id="167158911" k="name:en" o="add" type="way" v="Shek Kuk House" />
+    <tag id="167158911" k="name:zh" o="add" type="way" v="&#30707;&#33738;&#27155;" />
+    <tag id="167158912" k="building" o="add" type="way" v="yes" />
+    <tag id="167158912" k="building:levels" o="add" type="way" v="26" />
+    <tag id="167158912" k="name" o="add" type="way" v="&#30707;&#34349;&#27155; Shek Lan House" />
+    <tag id="167158912" k="name:en" o="add" type="way" v="Shek Lan House" />
+    <tag id="167158912" k="name:zh" o="add" type="way" v="&#30707;&#34349;&#27155;" />
+    <tag id="167158914" k="building" o="add" type="way" v="yes" />
+    <tag id="167158914" k="building:levels" o="add" type="way" v="28" />
+    <tag id="167158914" k="name" o="add" type="way" v="&#30707;&#34349;&#27155; Shek Lan House" />
+    <tag id="167158914" k="name:en" o="add" type="way" v="Shek Lan House" />
+    <tag id="167158914" k="name:zh" o="add" type="way" v="&#30707;&#34349;&#27155;" />
+    <tag id="167158915" k="building" o="add" type="way" v="yes" />
+    <tag id="167158915" k="building:levels" o="add" type="way" v="15" />
+    <tag id="167158915" k="layer" o="add" type="way" v="1" />
+    <tag id="167158915" k="name" o="add" type="way" v="&#30707;&#34030;&#27155; Shek Lin House" />
+    <tag id="167158915" k="name:en" o="add" type="way" v="Shek Lin House" />
+    <tag id="167158915" k="name:zh" o="add" type="way" v="&#30707;&#34030;&#27155;" />
+    <tag id="167158922" k="building" o="add" type="way" v="yes" />
+    <tag id="167158922" k="building:levels" o="add" type="way" v="14" />
+    <tag id="167158922" k="layer" o="add" type="way" v="1" />
+    <tag id="167158922" k="name" o="add" type="way" v="&#30707;&#34030;&#27155; Shek Lin House" />
+    <tag id="167158922" k="name:en" o="add" type="way" v="Shek Lin House" />
+    <tag id="167158922" k="name:zh" o="add" type="way" v="&#30707;&#34030;&#27155;" />
+    <tag id="167158924" k="building" o="add" type="way" v="yes" />
+    <tag id="167158924" k="building:levels" o="add" type="way" v="21" />
+    <tag id="167158924" k="name" o="add" type="way" v="&#30707;&#26691;&#27155; Shek To House" />
+    <tag id="167158924" k="name:en" o="add" type="way" v="Shek To House" />
+    <tag id="167158924" k="name:zh" o="add" type="way" v="&#30707;&#26691;&#27155;" />
+    <tag id="167158929" k="building" o="add" type="way" v="yes" />
+    <tag id="167158929" k="building:levels" o="add" type="way" v="28" />
+    <tag id="167158929" k="name" o="add" type="way" v="&#30707;&#32736;&#27155; Shek Tsui House" />
+    <tag id="167158929" k="name:en" o="add" type="way" v="Shek Tsui House" />
+    <tag id="167158929" k="name:zh" o="add" type="way" v="&#30707;&#32736;&#27155;" />
+    <tag id="167158932" k="building" o="add" type="way" v="yes" />
+    <tag id="167158932" k="building:levels" o="add" type="way" v="26" />
+    <tag id="167158932" k="name" o="add" type="way" v="&#30707;&#32736;&#27155; Shek Tsui House" />
+    <tag id="167158932" k="name:en" o="add" type="way" v="Shek Tsui House" />
+    <tag id="167158932" k="name:zh" o="add" type="way" v="&#30707;&#32736;&#27155;" />
+    <tag id="167158934" k="amenity" o="add" type="way" v="parking" />
+    <tag id="167158934" k="building" o="add" type="way" v="yes" />
+    <tag id="167158934" k="building:levels" o="add" type="way" v="5" />
+    <tag id="167158934" k="layer" o="add" type="way" v="1" />
+    <tag id="167158934" k="name" o="add" type="way" v="&#30707;&#22285;&#35282;&#37032;&#22810;&#23652;&#20572;&#36554;&#22580; Shek Wai Kok Estate Multi-storey Car Park" />
+    <tag id="167158934" k="name:en" o="add" type="way" v="Shek Wai Kok Estate Multi-storey Car Park" />
+    <tag id="167158934" k="name:zh" o="add" type="way" v="&#30707;&#22285;&#35282;&#37032;&#22810;&#23652;&#20572;&#36554;&#22580;" />
+    <tag id="167158934" k="parking" o="add" type="way" v="multi-storey" />
+    <tag id="167158938" k="building" o="add" type="way" v="yes" />
+    <tag id="167158941" k="building" o="add" type="way" v="yes" />
+    <tag id="167158941" k="building:levels" o="add" type="way" v="2" />
+    <tag id="167158943" k="highway" o="add" type="way" v="service" />
+    <tag id="167158945" k="bridge" o="add" type="way" v="yes" />
+    <tag id="167158945" k="highway" o="add" type="way" v="footway" />
+    <tag id="167158945" k="layer" o="add" type="way" v="1" />
+    <tag id="167158946" k="bridge" o="add" type="way" v="yes" />
+    <tag id="167158946" k="highway" o="add" type="way" v="footway" />
+    <tag id="167158946" k="layer" o="add" type="way" v="1" />
+    <tag id="167158947" k="bridge" o="add" type="way" v="yes" />
+    <tag id="167158947" k="highway" o="add" type="way" v="footway" />
+    <tag id="167158947" k="layer" o="add" type="way" v="1" />
+    <tag id="167158950" k="bridge" o="add" type="way" v="yes" />
+    <tag id="167158950" k="highway" o="add" type="way" v="steps" />
+    <tag id="167158950" k="layer" o="add" type="way" v="1" />
+    <tag id="167158951" k="bridge" o="add" type="way" v="yes" />
+    <tag id="167158951" k="highway" o="add" type="way" v="footway" />
+    <tag id="167158951" k="layer" o="add" type="way" v="1" />
+    <tag id="167158952" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="167158952" k="sport" o="add" type="way" v="basketball" />
+    <tag id="168901249" k="bridge" o="add" type="way" v="yes" />
+    <tag id="168901249" k="highway" o="add" type="way" v="footway" />
+    <tag id="168901249" k="layer" o="add" type="way" v="1" />
+    <tag id="168901248" k="bus" o="add" type="way" v="yes" />
+    <tag id="168901248" k="highway" o="add" type="way" v="service" />
+    <tag id="168901248" k="oneway" o="add" type="way" v="yes" />
+    <tag id="168901248" k="vehicle" o="add" type="way" v="no" />
+    <tag id="168901250" k="bus" o="add" type="way" v="yes" />
+    <tag id="168901250" k="highway" o="add" type="way" v="service" />
+    <tag id="168901250" k="oneway" o="add" type="way" v="yes" />
+    <tag id="168901250" k="vehicle" o="add" type="way" v="no" />
+    <tag id="191059280" k="amenity" o="add" type="way" v="school" />
+    <tag id="191059280" k="name" o="add" type="way" v="&#33603;&#28771;&#20844;&#31435;&#20309;&#20659;&#32768;&#32000;&#24565;&#23567;&#23416; Tsuen Wan Public Ho Chuen Yiu Memorial Primary School" />
+    <tag id="191059280" k="name:en" o="add" type="way" v="Tsuen Wan Public Ho Chuen Yiu Memorial Primary School" />
+    <tag id="191059280" k="name:zh" o="add" type="way" v="&#33603;&#28771;&#20844;&#31435;&#20309;&#20659;&#32768;&#32000;&#24565;&#23567;&#23416;" />
+    <tag id="191059280" k="website" o="add" type="way" v="www.twpsch.edu.hk" />
+    <tag id="182363557" k="building" o="add" type="way" v="school" />
+    <tag id="182363557" k="building:levels" o="add" type="way" v="8" />
+    <tag id="203893173" k="alt_name" o="add" type="way" v="&#30707;&#31852;&#37032; Shek Lei Estate" />
+    <tag id="203893173" k="alt_name:en" o="add" type="way" v="Shek Lei Estate" />
+    <tag id="203893173" k="alt_name:zh" o="add" type="way" v="&#30707;&#31852;&#37032;" />
+    <tag id="203893173" k="landuse" o="add" type="way" v="residential" />
+    <tag id="203893173" k="name" o="add" type="way" v="&#30707;&#31852; (&#19968;) &#37032; Shek Lei (I) Estate" />
+    <tag id="203893173" k="name:en" o="add" type="way" v="Shek Lei (I) Estate" />
+    <tag id="203893173" k="name:zh" o="add" type="way" v="&#30707;&#31852; (&#19968;) &#37032;" />
+    <tag id="203893174" k="building" o="add" type="way" v="residential" />
+    <tag id="203893174" k="name" o="add" type="way" v="&#30707;&#31168;&#27155; Shek Sau House" />
+    <tag id="203893174" k="name:en" o="add" type="way" v="Shek Sau House" />
+    <tag id="203893174" k="name:zh" o="add" type="way" v="&#30707;&#31168;&#27155;" />
+    <tag id="203891960" k="addr:housenumber" o="add" type="way" v="7" />
+    <tag id="203891960" k="addr:street" o="add" type="way" v="&#23542;&#26792;&#34903; Po Lei Street" />
+    <tag id="203891960" k="building" o="add" type="way" v="residential" />
+    <tag id="203891960" k="name" o="add" type="way" v="&#30707;&#33288;&#27155; Shek Hing House" />
+    <tag id="203891960" k="name:en" o="add" type="way" v="Shek Hing House" />
+    <tag id="203891960" k="name:zh" o="add" type="way" v="&#30707;&#33288;&#27155;" />
+    <tag id="203893175" k="addr:housenumber" o="add" type="way" v="16" />
+    <tag id="203893175" k="addr:street" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="203893175" k="building" o="add" type="way" v="residential" />
+    <tag id="203893175" k="name" o="add" type="way" v="&#30707;&#20426;&#27155; Shek Chun House" />
+    <tag id="203893175" k="name:en" o="add" type="way" v="Shek Chun House" />
+    <tag id="203893175" k="name:zh" o="add" type="way" v="&#30707;&#20426;&#27155;" />
+    <tag id="168901251" k="bus" o="add" type="way" v="yes" />
+    <tag id="168901251" k="highway" o="add" type="way" v="service" />
+    <tag id="168901251" k="oneway" o="add" type="way" v="yes" />
+    <tag id="168901251" k="vehicle" o="add" type="way" v="no" />
+    <tag id="203893177" k="building" o="add" type="way" v="residential" />
+    <tag id="203893177" k="name" o="add" type="way" v="&#30707;&#20426;&#27155; Shek Chun House" />
+    <tag id="203893177" k="name:en" o="add" type="way" v="Shek Chun House" />
+    <tag id="203893177" k="name:zh" o="add" type="way" v="&#30707;&#20426;&#27155;" />
+    <tag id="203893179" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="203893180" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="203893181" k="building" o="add" type="way" v="residential" />
+    <tag id="203893181" k="name" o="add" type="way" v="&#30707;&#36920;&#27155; Shek Yat House" />
+    <tag id="203893181" k="name:en" o="add" type="way" v="Shek Yat House" />
+    <tag id="203893181" k="name:zh" o="add" type="way" v="&#30707;&#36920;&#27155;" />
+    <tag id="203893517" k="alt_name" o="add" type="way" v="&#30707;&#31852;&#37032; Shek Lei Estate" />
+    <tag id="203893517" k="alt_name:en" o="add" type="way" v="Shek Lei Estate" />
+    <tag id="203893517" k="alt_name:zh" o="add" type="way" v="&#30707;&#31852;&#37032;" />
+    <tag id="203893517" k="landuse" o="add" type="way" v="residential" />
+    <tag id="203893517" k="name" o="add" type="way" v="&#30707;&#31852; (&#20108;) &#37032; Shek Lei (II) Estate" />
+    <tag id="203893517" k="name:en" o="add" type="way" v="Shek Lei (II) Estate" />
+    <tag id="203893517" k="name:zh" o="add" type="way" v="&#30707;&#31852; (&#20108;) &#37032;" />
+    <tag id="203893176" k="addr:housenumber" o="add" type="way" v="24" />
+    <tag id="203893176" k="addr:street" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="203893176" k="building" o="add" type="way" v="residential" />
+    <tag id="203893176" k="name" o="add" type="way" v="&#30707;&#36920;&#27155; Shek Yat House" />
+    <tag id="203893176" k="name:en" o="add" type="way" v="Shek Yat House" />
+    <tag id="203893176" k="name:zh" o="add" type="way" v="&#30707;&#36920;&#27155;" />
+    <tag id="203893178" k="addr:housenumber" o="add" type="way" v="22" />
+    <tag id="203893178" k="addr:street" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="203893178" k="building" o="add" type="way" v="residential" />
+    <tag id="203893178" k="name" o="add" type="way" v="&#30707;&#23527;&#27155; Shek Ning House" />
+    <tag id="203893178" k="name:en" o="add" type="way" v="Shek Ning House" />
+    <tag id="203893178" k="name:zh" o="add" type="way" v="&#30707;&#23527;&#27155;" />
+    <tag id="203893182" k="amenity" o="add" type="way" v="parking" />
+    <tag id="203893182" k="building" o="add" type="way" v="yes" />
+    <tag id="203893182" k="name" o="add" type="way" v="&#30707;&#31852;&#37032;&#20572;&#36554;&#22580; Shek Lei Estate Car Park" />
+    <tag id="203893182" k="name:en" o="add" type="way" v="Shek Lei Estate Car Park" />
+    <tag id="203893182" k="name:zh" o="add" type="way" v="&#30707;&#31852;&#37032;&#20572;&#36554;&#22580;" />
+    <tag id="203893182" k="parking" o="add" type="way" v="multi-storey" />
+    <tag id="203961009" k="highway" o="add" type="way" v="service" />
+    <tag id="203961012" k="bridge" o="add" type="way" v="yes" />
+    <tag id="203961012" k="highway" o="add" type="way" v="footway" />
+    <tag id="203961014" k="highway" o="add" type="way" v="service" />
+    <tag id="203961015" k="highway" o="add" type="way" v="service" />
+    <tag id="203961021" k="bridge" o="add" type="way" v="yes" />
+    <tag id="203961021" k="highway" o="add" type="way" v="footway" />
+    <tag id="203961023" k="highway" o="add" type="way" v="service" />
+    <tag id="203961024" k="highway" o="add" type="way" v="service" />
+    <tag id="203961025" k="bridge" o="add" type="way" v="yes" />
+    <tag id="203961025" k="highway" o="add" type="way" v="footway" />
+    <tag id="203961028" k="bridge" o="add" type="way" v="yes" />
+    <tag id="203961028" k="highway" o="add" type="way" v="footway" />
+    <tag id="203961832" k="building" o="add" type="way" v="school" />
+    <tag id="203961833" k="highway" o="add" type="way" v="steps" />
+    <tag id="203961835" k="building" o="add" type="way" v="school" />
+    <tag id="203961836" k="highway" o="add" type="way" v="steps" />
+    <tag id="203961837" k="highway" o="add" type="way" v="steps" />
+    <tag id="203961834" k="addr:housenumber" o="add" type="way" v="8" />
+    <tag id="203961834" k="addr:street" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="203961834" k="amenity" o="add" type="way" v="school" />
+    <tag id="203961834" k="name" o="add" type="way" v="&#20445;&#31103;&#20845;&#19990;&#26360;&#38498; Pope Paul VI College" />
+    <tag id="203961834" k="name:en" o="add" type="way" v="Pope Paul VI College" />
+    <tag id="203961834" k="name:zh" o="add" type="way" v="&#20445;&#31103;&#20845;&#19990;&#26360;&#38498;" />
+    <tag id="204502665" k="addr:housenumber" o="add" type="way" v="4" />
+    <tag id="204502665" k="addr:street" o="add" type="way" v="&#30707;&#25490;&#34903; Shek Pai Street" />
+    <tag id="204502665" k="building" o="add" type="way" v="residential" />
+    <tag id="204502665" k="name" o="add" type="way" v="&#30707;&#20339;&#27155; Shek Kai House" />
+    <tag id="204502665" k="name:en" o="add" type="way" v="Shek Kai House" />
+    <tag id="204502665" k="name:zh" o="add" type="way" v="&#30707;&#20339;&#27155;" />
+    <tag id="204502667" k="addr:housenumber" o="add" type="way" v="2" />
+    <tag id="204502667" k="addr:street" o="add" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="204502667" k="building" o="add" type="way" v="residential" />
+    <tag id="204502667" k="name" o="add" type="way" v="&#30707;&#33775;&#27155; Shek Wah House" />
+    <tag id="204502667" k="name:en" o="add" type="way" v="Shek Wah House" />
+    <tag id="204502667" k="name:zh" o="add" type="way" v="&#30707;&#33775;&#27155;" />
+    <tag id="204503657" k="addr:housenumber" o="add" type="way" v="10" />
+    <tag id="204503657" k="addr:street" o="add" type="way" v="&#30707;&#26792;&#34903; Shek Li Street" />
+    <tag id="204503657" k="building" o="add" type="way" v="residential" />
+    <tag id="204503657" k="name" o="add" type="way" v="&#30707;&#31852;&#37032;&#31532;11&#24231; Shek Lei Estate Block 11" />
+    <tag id="204503657" k="name:en" o="add" type="way" v="Shek Lei Estate Block 11" />
+    <tag id="204503657" k="name:zh" o="add" type="way" v="&#30707;&#31852;&#37032;&#31532;&#21313;&#19968;&#24231;" />
+    <tag id="204503658" k="addr:housenumber" o="add" type="way" v="12" />
+    <tag id="204503658" k="addr:street" o="add" type="way" v="&#30707;&#26792;&#34903; Shek Li Street" />
+    <tag id="204503658" k="building" o="add" type="way" v="residential" />
+    <tag id="204503658" k="name" o="add" type="way" v="&#30707;&#31852;&#37032;&#31532;10&#24231; Shek Lei Estate Block 10" />
+    <tag id="204503658" k="name:en" o="add" type="way" v="Shek Lei Estate Block 10" />
+    <tag id="204503658" k="name:zh" o="add" type="way" v="&#30707;&#31852;&#37032;&#31532;&#21313;&#24231;" />
+    <tag id="204503662" k="building" o="add" type="way" v="school" />
+    <tag id="204503663" k="leisure" o="add" type="way" v="park" />
+    <tag id="204503659" k="addr:housenumber" o="add" type="way" v="18" />
+    <tag id="204503659" k="addr:street" o="add" type="way" v="&#30707;&#26792;&#34903; Shek Li Street" />
+    <tag id="204503659" k="amenity" o="add" type="way" v="school" />
+    <tag id="223857998" k="addr:housenumber" o="add" type="way" v="6" />
+    <tag id="223857998" k="addr:street" o="add" type="way" v="Hoi Kok Street" />
+    <tag id="223857998" k="landuse" o="add" type="way" v="construction" />
+    <tag id="223857998" k="name" o="add" type="way" v="&#23663;&#38272;&#20844;&#36335;&#37325;&#24314;&#21450;&#25913;&#21892;&#24037;&#31243;&#26481;&#36335;&#27573;&#22320;&#30436;&#23531;&#23383;&#27155; Reconstruction and Improvement of Tuen Mun Road - Eastern Section Site Office" />
+    <tag id="223857998" k="name:en" o="add" type="way" v="Reconstruction and Improvement of Tuen Mun Road - Eastern Section Site Office" />
+    <tag id="223857998" k="name:zh" o="add" type="way" v="&#23663;&#38272;&#20844;&#36335;&#37325;&#24314;&#21450;&#25913;&#21892;&#24037;&#31243;&#26481;&#36335;&#27573;&#22320;&#30436;&#23531;&#23383;&#27155;" />
+    <tag id="249206871" k="building" o="add" type="way" v="residential" />
+    <tag id="249206871" k="name" o="add" type="way" v="&#31168;&#23665;&#27155; Sau Shan House" />
+    <tag id="249206871" k="name:en" o="add" type="way" v="Sau Shan House" />
+    <tag id="249206871" k="name:zh" o="add" type="way" v="&#31168;&#23665;&#27155;" />
+    <tag id="249206875" k="amenity" o="add" type="way" v="restaurant" />
+    <tag id="249206875" k="building" o="add" type="way" v="yes" />
+    <tag id="249207913" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="249207914" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="230839953" k="building" o="add" type="way" v="school" />
+    <tag id="249206866" k="building" o="add" type="way" v="yes" />
+    <tag id="249206866" k="layer" o="add" type="way" v="2" />
+    <tag id="249206866" k="name" o="add" type="way" v="&#35937;&#23665;&#21830;&#22580; Cheung Shan Shopping Centre" />
+    <tag id="249206866" k="name:en" o="add" type="way" v="Cheung Shan Shopping Centre" />
+    <tag id="249206866" k="name:zh" o="add" type="way" v="&#35937;&#23665;&#21830;&#22580;" />
+    <tag id="249206866" k="shop" o="add" type="way" v="mall" />
+    <tag id="249206868" k="building" o="add" type="way" v="yes" />
+    <tag id="249206868" k="layer" o="add" type="way" v="1" />
+    <tag id="249206870" k="building" o="add" type="way" v="apartments" />
+    <tag id="249206870" k="layer" o="add" type="way" v="2" />
+    <tag id="249206870" k="name" o="add" type="way" v="&#32736;&#23665;&#27155; Tsui Shan House" />
+    <tag id="249206870" k="name:en" o="add" type="way" v="Tsui Shan House" />
+    <tag id="249206870" k="name:zh" o="add" type="way" v="&#32736;&#23665;&#27155;" />
+    <tag id="249207915" k="building" o="add" type="way" v="school" />
+    <tag id="249207917" k="landuse" o="add" type="way" v="residential" />
+    <tag id="249207917" k="name" o="add" type="way" v="&#35937;&#23665;&#37032; Cheung Shan Estate" />
+    <tag id="249207917" k="name:en" o="add" type="way" v="Cheung Shan Estate" />
+    <tag id="249207917" k="name:zh" o="add" type="way" v="&#35937;&#23665;&#37032;" />
+    <tag id="249207918" k="bridge" o="add" type="way" v="yes" />
+    <tag id="249207918" k="highway" o="add" type="way" v="footway" />
+    <tag id="249207919" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="249207921" k="bridge" o="add" type="way" v="yes" />
+    <tag id="249207921" k="highway" o="add" type="way" v="footway" />
+    <tag id="249207922" k="building" o="add" type="way" v="residential" />
+    <tag id="249207925" k="amenity" o="add" type="way" v="school" />
+    <tag id="249207925" k="name" o="add" type="way" v="&#33603;&#28771;&#20449;&#32681;&#23416;&#26657; Tsuen Wan Lutheran School (&#24050;&#20572;&#36774; defunct)" />
+    <tag id="249207925" k="name:en" o="add" type="way" v="Tsuen Wan Lutheran School" />
+    <tag id="249207925" k="name:zh" o="add" type="way" v="&#33603;&#28771;&#20449;&#32681;&#23416;&#26657;" />
+    <tag id="249207926" k="building" o="add" type="way" v="school" />
+    <tag id="249314541" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="249314542" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="249207923" k="bridge" o="add" type="way" v="yes" />
+    <tag id="249207923" k="highway" o="add" type="way" v="footway" />
+    <tag id="249207923" k="layer" o="add" type="way" v="1" />
+    <tag id="249207924" k="addr:street" o="add" type="way" v="Cheung Shan Estate" />
+    <tag id="249207924" k="amenity" o="add" type="way" v="school" />
+    <tag id="249207924" k="name" o="add" type="way" v="&#36335;&#24503;&#26371;&#21570;&#26126;&#25165;&#20013;&#23416; Lui Ming Choi Lutheran College" />
+    <tag id="249207924" k="name:en" o="add" type="way" v="Lui Ming Choi Lutheran College" />
+    <tag id="249207924" k="name:zh" o="add" type="way" v="&#36335;&#24503;&#26371;&#21570;&#26126;&#25165;&#20013;&#23416;" />
+    <tag id="249314545" k="building" o="add" type="way" v="yes" />
+    <tag id="249314547" k="building" o="add" type="way" v="school" />
+    <tag id="249566146" k="amenity" o="add" type="way" v="community_centre" />
+    <tag id="249566146" k="building" o="add" type="way" v="yes" />
+    <tag id="249566146" k="name" o="add" type="way" v="&#30707;&#22285;&#35282;&#31038;&#21312;&#26371;&#22530; Shek Wai Kok Community Hall" />
+    <tag id="249566146" k="name:en" o="add" type="way" v="Shek Wai Kok Community Hall" />
+    <tag id="249566146" k="name:zh" o="add" type="way" v="&#30707;&#22285;&#35282;&#31038;&#21312;&#26371;&#22530;" />
+    <tag id="249566147" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="249566153" k="building" o="add" type="way" v="school" />
+    <tag id="249314543" k="amenity" o="add" type="way" v="school" />
+    <tag id="249314543" k="building" o="add" type="way" v="yes" />
+    <tag id="249314544" k="addr:housenumber:en" o="add" type="way" v="Estate Secondary School No.2" />
+    <tag id="249314544" k="addr:housenumber:zh" o="add" type="way" v="&#23627;&#37032;&#20013;&#23416;&#31532;&#20108;&#34399;" />
+    <tag id="249314544" k="addr:street" o="add" type="way" v="Shek Wai Kok Estate" />
+    <tag id="249314544" k="amenity" o="add" type="way" v="school" />
+    <tag id="249314544" k="name" o="add" type="way" v="&#21338;&#24859;&#37291;&#38498;&#27511;&#23622;&#32317;&#29702;&#32879;&#35516;&#26371;&#26753;&#30465;&#24503;&#20013;&#23416; AD&amp;FDPOHL Leung Sing Tak College" />
+    <tag id="249314544" k="name:en" o="add" type="way" v="Leung Sing Tak College" />
+    <tag id="249314544" k="name:zh" o="add" type="way" v="&#21338;&#24859;&#37291;&#38498;&#27511;&#23622;&#32317;&#29702;&#32879;&#35516;&#26371;&#26753;&#30465;&#24503;&#20013;&#23416;" />
+    <tag id="249314544" k="website" o="add" type="way" v="http://www.lstc.edu.hk/" />
+    <tag id="249314548" k="building" o="add" type="way" v="yes" />
+    <tag id="249314548" k="name" o="add" type="way" v="AD &amp; FD POHL Leung Sing Tak College" />
+    <tag id="249314548" k="website" o="add" type="way" v="http://www.lstc.edu.hk/" />
+    <tag id="263509766" k="addr:housenumber" o="add" type="way" v="11" />
+    <tag id="263509766" k="addr:street" o="add" type="way" v="&#30707;&#25490;&#34903; Shek Pai Street" />
+    <tag id="263509766" k="amenity" o="add" type="way" v="school" />
+    <tag id="263509766" k="name" o="add" type="way" v="&#30707;&#31852;&#22825;&#20027;&#25945;&#23567;&#23416; Shek Lei Catholic Primary School" />
+    <tag id="263509766" k="name:en" o="add" type="way" v="Shek Lei Catholic Primary School" />
+    <tag id="263509766" k="name:zh" o="add" type="way" v="&#30707;&#31852;&#22825;&#20027;&#25945;&#23567;&#23416;" />
+    <tag id="263509766" k="website" o="add" type="way" v="www.sheklei.edu.hk" />
+    <tag id="249314546" k="addr:housenumber:en" o="add" type="way" v="Estate Secondary School No.1" />
+    <tag id="249314546" k="addr:housenumber:zh" o="add" type="way" v="&#23627;&#37032;&#20013;&#23416;&#31532;&#19968;&#34399;" />
+    <tag id="249314546" k="addr:street" o="add" type="way" v="Shek Wai Kok Estate" />
+    <tag id="249314546" k="amenity" o="add" type="way" v="school" />
+    <tag id="249314546" k="name" o="add" type="way" v="&#33603;&#28771;&#20844;&#31435;&#20309;&#20659;&#32768;&#32000;&#24565;&#20013;&#23416; Tsuen Wan Public Ho Chuen Yiu Memorial College" />
+    <tag id="249314546" k="name:en" o="add" type="way" v="Tsuen Wan Public Ho Chuen Yiu Memorial College" />
+    <tag id="249314546" k="name:zh" o="add" type="way" v="&#33603;&#28771;&#20844;&#31435;&#20309;&#20659;&#32768;&#32000;&#24565;&#20013;&#23416;" />
+    <tag id="249314546" k="website" o="add" type="way" v="www.twphcymc.edu.hk/" />
+    <tag id="263509770" k="building" o="add" type="way" v="school" />
+    <tag id="263509770" k="building:levels" o="add" type="way" v="5" />
+    <tag id="263509773" k="building" o="add" type="way" v="school" />
+    <tag id="263509773" k="building:levels" o="add" type="way" v="3" />
+    <tag id="263509779" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="263509779" k="sport" o="add" type="way" v="basketball" />
+    <tag id="263509781" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="263509781" k="sport" o="add" type="way" v="basketball" />
+    <tag id="266122369" k="building" o="add" type="way" v="yes" />
+    <tag id="266122369" k="building:levels" o="add" type="way" v="10" />
+    <tag id="266122369" k="name" o="add" type="way" v="&#31532;1&#24231; Block 1" />
+    <tag id="266122369" k="name:en" o="add" type="way" v="Block 1" />
+    <tag id="266122369" k="name:zh" o="add" type="way" v="&#31532;1&#24231;" />
+    <tag id="266122370" k="building" o="add" type="way" v="yes" />
+    <tag id="266122370" k="building:levels" o="add" type="way" v="17" />
+    <tag id="266122370" k="name" o="add" type="way" v="&#31532;2&#24231; Block 2" />
+    <tag id="266122370" k="name:en" o="add" type="way" v="Block 2" />
+    <tag id="266122370" k="name:zh" o="add" type="way" v="&#31532;2&#24231;" />
+    <tag id="266122371" k="building" o="add" type="way" v="yes" />
+    <tag id="266122371" k="building:levels" o="add" type="way" v="22" />
+    <tag id="266122371" k="name" o="add" type="way" v="&#31532;3&#24231; Block 3" />
+    <tag id="266122371" k="name:en" o="add" type="way" v="Block 3" />
+    <tag id="266122371" k="name:zh" o="add" type="way" v="&#31532;3&#24231;" />
+    <tag id="266122372" k="building" o="add" type="way" v="yes" />
+    <tag id="266122372" k="building:levels" o="add" type="way" v="7" />
+    <tag id="266122372" k="name" o="add" type="way" v="&#31532;4&#24231; Block 4" />
+    <tag id="266122372" k="name:en" o="add" type="way" v="Block 4" />
+    <tag id="266122372" k="name:zh" o="add" type="way" v="&#31532;4&#24231;" />
+    <tag id="266122373" k="building" o="add" type="way" v="yes" />
+    <tag id="266122373" k="building:levels" o="add" type="way" v="22" />
+    <tag id="266122373" k="layer" o="add" type="way" v="1" />
+    <tag id="266122373" k="name" o="add" type="way" v="&#31532;5&#24231; Block 5" />
+    <tag id="266122373" k="name:en" o="add" type="way" v="Block 5" />
+    <tag id="266122373" k="name:zh" o="add" type="way" v="&#31532;5&#24231;" />
+    <tag id="266122374" k="building" o="add" type="way" v="yes" />
+    <tag id="266122374" k="building:levels" o="add" type="way" v="9" />
+    <tag id="266122374" k="name" o="add" type="way" v="&#31532;6&#24231; Block 6" />
+    <tag id="266122374" k="name:en" o="add" type="way" v="Block 6" />
+    <tag id="266122374" k="name:zh" o="add" type="way" v="&#31532;6&#24231;" />
+    <tag id="266122379" k="amenity" o="add" type="way" v="school" />
+    <tag id="266122379" k="name" o="add" type="way" v="&#21959;&#33394;&#22290;&#20027;&#36774;&#21487;&#20449;&#23416;&#26657; Ho Shun Primary School (Sponsored by Sik Sik Yuen)" />
+    <tag id="266122379" k="name:en" o="add" type="way" v="Ho Shun Primary School (Sponsored by Sik Sik Yuen)" />
+    <tag id="266122379" k="name:zh" o="add" type="way" v="&#21959;&#33394;&#22290;&#20027;&#36774;&#21487;&#20449;&#23416;&#26657;" />
+    <tag id="266122379" k="website" o="add" type="way" v="www.hoshun.edu.hk" />
+    <tag id="266122380" k="amenity" o="add" type="way" v="parking" />
+    <tag id="266122380" k="building" o="add" type="way" v="yes" />
+    <tag id="266122380" k="building:levels" o="add" type="way" v="1" />
+    <tag id="266122380" k="name" o="add" type="way" v="&#26792;&#26408;&#27193;(2)&#37032;&#20572;&#36554;&#22580; Lei Muk Shue (2) Estate Car Park" />
+    <tag id="266122380" k="name:en" o="add" type="way" v="Lei Muk Shue (2) Estate Car Park" />
+    <tag id="266122380" k="name:zh" o="add" type="way" v="&#26792;&#26408;&#27193;(2)&#37032;&#20572;&#36554;&#22580;" />
+    <tag id="266122381" k="amenity" o="add" type="way" v="school" />
+    <tag id="266122381" k="name" o="add" type="way" v="&#26792;&#26408;&#27193;&#22825;&#20027;&#25945;&#23567;&#23416; Lei Muk Shue Catholic Primary School" />
+    <tag id="266122381" k="name:en" o="add" type="way" v="Lei Muk Shue Catholic Primary School" />
+    <tag id="266122381" k="name:zh" o="add" type="way" v="&#26792;&#26408;&#27193;&#22825;&#20027;&#25945;&#23567;&#23416;" />
+    <tag id="266122381" k="website" o="add" type="way" v="www.lmscps.edu.hk" />
+    <tag id="266122381" k="wikipedia" o="add" type="way" v="zh:&#26792;&#26408;&#27193;&#22825;&#20027;&#25945;&#23567;&#23416;" />
+    <tag id="266122382" k="building" o="add" type="way" v="yes" />
+    <tag id="266122382" k="building:levels" o="add" type="way" v="16" />
+    <tag id="266122382" k="name" o="add" type="way" v="&#26575;&#27193;&#27155; Pak Shue House" />
+    <tag id="266122382" k="name:en" o="add" type="way" v="Pak Shue House" />
+    <tag id="266122382" k="name:zh" o="add" type="way" v="&#26575;&#27193;&#27155;" />
+    <tag id="266122387" k="building" o="add" type="way" v="yes" />
+    <tag id="266122387" k="building:levels" o="add" type="way" v="16" />
+    <tag id="266122387" k="name" o="add" type="way" v="&#27029;&#27193;&#27155; Yung Shue House" />
+    <tag id="266122387" k="name:en" o="add" type="way" v="Yung Shue House" />
+    <tag id="266122387" k="name:zh" o="add" type="way" v="&#27029;&#27193;&#27155;" />
+    <tag id="266122390" k="building" o="add" type="way" v="school" />
+    <tag id="266122390" k="building:levels" o="add" type="way" v="7" />
+    <tag id="266122391" k="building" o="add" type="way" v="school" />
+    <tag id="266122391" k="building:levels" o="add" type="way" v="7" />
+    <tag id="266122396" k="highway" o="add" type="way" v="footway" />
+    <tag id="266122383" k="amenity" o="add" type="way" v="school" />
+    <tag id="266122383" k="name" o="add" type="way" v="&#32854;&#20844;&#26371;&#20027;&#24859;&#23567;&#23416;(&#26792;&#26408;&#27193;) S.K.H. Chu Oi Primary School (Lei Muk Shue)" />
+    <tag id="266122383" k="name:en" o="add" type="way" v="S.K.H. Chu Oi Primary School (Lei Muk Shue)" />
+    <tag id="266122383" k="name:zh" o="add" type="way" v="&#32854;&#20844;&#26371;&#20027;&#24859;&#23567;&#23416;(&#26792;&#26408;&#27193;)" />
+    <tag id="266122383" k="website" o="add" type="way" v="www.chuoi-lms.edu.hk" />
+    <tag id="266122383" k="wikipedia" o="add" type="way" v="zh:&#32854;&#20844;&#26371;&#20027;&#24859;&#23567;&#23416;&#65288;&#26792;&#26408;&#27193;&#65289;" />
+    <tag id="266122389" k="building" o="add" type="way" v="school" />
+    <tag id="266122389" k="building:levels" o="add" type="way" v="7" />
+    <tag id="266122397" k="highway" o="add" type="way" v="footway" />
+    <tag id="266122399" k="highway" o="add" type="way" v="footway" />
+    <tag id="266122402" k="highway" o="add" type="way" v="footway" />
+    <tag id="266122403" k="highway" o="add" type="way" v="footway" />
+    <tag id="266122406" k="highway" o="add" type="way" v="footway" />
+    <tag id="266122409" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="266122409" k="sport" o="add" type="way" v="soccer" />
+    <tag id="266122410" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="266122411" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="266122411" k="sport" o="add" type="way" v="basketball" />
+    <tag id="266122413" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="266122413" k="sport" o="add" type="way" v="basketball" />
+    <tag id="266122416" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="266122416" k="sport" o="add" type="way" v="basketball" />
+    <tag id="315449584" k="amenity" o="add" type="way" v="school" />
+    <tag id="315449584" k="name" o="add" type="way" v="&#19977;&#27700;&#21516;&#37129;&#26371;&#21129;&#26412;&#31456;&#23416;&#26657; Sam Shui Natives Association Lau Pun Cheung School" />
+    <tag id="315449584" k="name:en" o="add" type="way" v="Sam Shui Natives Association Lau Pun Cheung School" />
+    <tag id="315449584" k="name:zh" o="add" type="way" v="&#19977;&#27700;&#21516;&#37129;&#26371;&#21129;&#26412;&#31456;&#23416;&#26657;" />
+    <tag id="315449594" k="building" o="add" type="way" v="yes" />
+    <tag id="315449594" k="name" o="add" type="way" v="&#31532;10&#24231; Block 10" />
+    <tag id="315449594" k="name:en" o="add" type="way" v="Kwai Shing West Estate Block 10" />
+    <tag id="315449594" k="name:zh" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032;&#31532;10&#24231;" />
+    <tag id="315449610" k="highway" o="add" type="way" v="service" />
+    <tag id="315449610" k="oneway" o="add" type="way" v="yes" />
+    <tag id="315449612" k="landuse" o="add" type="way" v="residential" />
+    <tag id="315449612" k="name" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032; Kwai Shing West Estate" />
+    <tag id="315449612" k="name:en" o="add" type="way" v="Kwai Shing West Estate" />
+    <tag id="315449612" k="name:zh" o="add" type="way" v="&#33909;&#30427;&#35199;&#37032;" />
+    <tag id="325863644" k="leisure" o="add" type="way" v="park" />
+    <tag id="410057512" k="highway" o="add" type="way" v="service" />
+    <tag id="447856645" k="bridge" o="add" type="way" v="yes" />
+    <tag id="447856645" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="447856645" k="highway" o="add" type="way" v="footway" />
+    <tag id="447856657" k="leisure" o="add" type="way" v="playground" />
+    <tag id="447856657" k="name" o="add" type="way" v="&#19977;&#26847;&#23627;&#26449;&#36938;&#27138;&#22580;" />
+    <tag id="447856659" k="amenity" o="add" type="way" v="parking" />
+    <tag id="447856659" k="fee" o="add" type="way" v="no" />
+    <tag id="447856659" k="parking" o="add" type="way" v="surface" />
+    <tag id="447856660" k="highway" o="add" type="way" v="steps" />
+    <tag id="447856661" k="highway" o="add" type="way" v="path" />
+    <tag id="447856662" k="highway" o="add" type="way" v="path" />
+    <tag id="410057509" k="addr:housenumber" o="add" type="way" v="221" />
+    <tag id="410057509" k="addr:street" o="add" type="way" v="Kwai Shing Circuit" />
+    <tag id="410057509" k="amenity" o="add" type="way" v="school" />
+    <tag id="410057509" k="building" o="add" type="way" v="school" />
+    <tag id="410057509" k="name" o="add" type="way" v="&#26575;&#31435;&#22522;&#25945;&#32946;&#23416;&#38498;&#26657;&#21451;&#26371;&#26446;&#19968;&#35556;&#32000;&#24565;&#23416;&#26657; SRBCEPSA Lee Yat Ngok Memorial School" />
+    <tag id="410057509" k="name:en" o="add" type="way" v="SRBCEPSA Lee Yat Ngok Memorial School" />
+    <tag id="410057509" k="name:zh" o="add" type="way" v="&#26575;&#31435;&#22522;&#25945;&#32946;&#23416;&#38498;&#26657;&#21451;&#26371;&#26446;&#19968;&#35556;&#32000;&#24565;&#23416;&#26657;" />
+    <tag id="447856658" k="landuse" o="add" type="way" v="residential" />
+    <tag id="447856658" k="name" o="add" type="way" v="&#19977;&#26847;&#23627;&#26449; Sam Tung Uk Resite Village" />
+    <tag id="447856665" k="landuse" o="add" type="way" v="residential" />
+    <tag id="447856665" k="name" o="add" type="way" v="&#28023;&#22761;&#26449;" />
+    <tag id="390081555" k="bus" o="add" type="way" v="yes" />
+    <tag id="390081555" k="highway" o="add" type="way" v="service" />
+    <tag id="390081555" k="oneway" o="add" type="way" v="yes" />
+    <tag id="390081555" k="vehicle" o="add" type="way" v="no" />
+    <tag id="390081556" k="bus" o="add" type="way" v="yes" />
+    <tag id="390081556" k="highway" o="add" type="way" v="service" />
+    <tag id="390081556" k="oneway" o="add" type="way" v="yes" />
+    <tag id="390081556" k="vehicle" o="add" type="way" v="no" />
+    <tag id="447856666" k="highway" o="add" type="way" v="path" />
+    <tag id="447856667" k="leisure" o="add" type="way" v="park" />
+    <tag id="447856668" k="access" o="add" type="way" v="private" />
+    <tag id="447856668" k="amenity" o="add" type="way" v="parking" />
+    <tag id="447856668" k="parking" o="add" type="way" v="surface" />
+    <tag id="447856669" k="highway" o="add" type="way" v="service" />
+    <tag id="156503313" k="highway" o="none" type="way" v="residential" />
+    <tag id="156503313" k="name" o="none" type="way" v="&#26792;&#35997;&#34903; Lei Pui Street" />
+    <tag id="156503313" k="name:en" o="none" type="way" v="Lei Pui Street" />
+    <tag id="156503313" k="name:zh" o="none" type="way" v="&#26792;&#35997;&#34903;" />
+    <tag id="209129667" k="highway" o="none" type="way" v="service" />
+    <tag id="209129667" k="oneway" o="none" type="way" v="yes" />
+    <tag id="390081549" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="390081549" k="name" o="none" type="way" v="&#33909;&#32879;&#36335; Kwai Luen Road" />
+    <tag id="390081549" k="name:en" o="none" type="way" v="Kwai Luen Road" />
+    <tag id="390081549" k="name:zh" o="none" type="way" v="&#33909;&#32879;&#36335;" />
+    <tag id="390081559" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="390081559" k="name" o="none" type="way" v="&#33909;&#32879;&#36335; Kwai Luen Road" />
+    <tag id="390081559" k="name:en" o="none" type="way" v="Kwai Luen Road" />
+    <tag id="390081559" k="name:zh" o="none" type="way" v="&#33909;&#32879;&#36335;" />
+    <tag id="157936782" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="157936782" k="name" o="none" type="way" v="&#20108;&#38466;&#22323;&#36335; Yi Pei Chun Road" />
+    <tag id="157936782" k="name:en" o="none" type="way" v="Yi Pei Chun Road" />
+    <tag id="157936782" k="name:zh" o="none" type="way" v="&#20108;&#38466;&#22323;&#36335;" />
+    <tag id="157936778" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="157936778" k="name" o="none" type="way" v="&#19977;&#26847;&#23627;&#36335; Sam Tung Uk Road" />
+    <tag id="157936778" k="name:en" o="none" type="way" v="Sam Tung Uk Road" />
+    <tag id="157936778" k="name:zh" o="none" type="way" v="&#19977;&#26847;&#23627;&#36335;" />
+    <tag id="230779788" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="230779788" k="name" o="none" type="way" v="&#33909;&#30427;&#22285; Kwai Shing Circuit" />
+    <tag id="230779788" k="name:en" o="none" type="way" v="Kwai Shing Circuit" />
+    <tag id="230779788" k="name:zh" o="none" type="way" v="&#33909;&#30427;&#22285;" />
+    <tag id="157812204" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="157812204" k="lanes" o="none" type="way" v="2" />
+    <tag id="157812204" k="name" o="none" type="way" v="&#23534;&#32922;&#36335; Liu To Road" />
+    <tag id="157812204" k="name:en" o="none" type="way" v="Liu To Road" />
+    <tag id="157812204" k="name:zh" o="none" type="way" v="&#23534;&#32922;&#36335;" />
+    <tag id="2096369" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="2096369" k="type" o="add" type="relation" v="restriction" />
+    <tag id="3352099" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="2456050" k="name" o="add" type="relation" v="43X" />
+    <tag id="2456050" k="operator" o="add" type="relation" v="&#20061;&#24052; KMB" />
+    <tag id="2456050" k="route" o="add" type="relation" v="bus" />
+    <tag id="2456050" k="type" o="add" type="relation" v="route" />
+    <tag id="3352122" k="building" o="add" type="relation" v="apartments" />
+    <tag id="3352122" k="name" o="add" type="relation" v="&#27138;&#23665;&#27155; Lok Shan House" />
+    <tag id="3352122" k="name:en" o="add" type="relation" v="Lok Shan House" />
+    <tag id="3352122" k="name:zh" o="add" type="relation" v="&#27138;&#23665;&#27155;" />
+    <tag id="3352122" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="3352123" k="building" o="add" type="relation" v="apartments" />
+    <tag id="3352123" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="2096368" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="2096368" k="type" o="none" type="relation" v="restriction" />
+    <tag id="2230909" k="name" o="none" type="relation" v="Bus 36 (Tsuen Wan West Railway Station &#8634; Lei Muk Shue)" />
+    <tag id="2230909" k="network" o="none" type="relation" v="KMB" />
+    <tag id="2230909" k="operator" o="none" type="relation" v="&#20061;&#24052; KMB" />
+    <tag id="2230909" k="ref" o="none" type="relation" v="36" />
+    <tag id="2230909" k="route" o="none" type="relation" v="bus" />
+    <tag id="2230909" k="type" o="none" type="relation" v="route" />
+    <tag id="5834793" k="name" o="none" type="relation" v="Bus 37M (Kwai Hing Railway Station - Kwai Shing Central)" />
+    <tag id="5834793" k="network" o="none" type="relation" v="KMB" />
+    <tag id="5834793" k="operator" o="none" type="relation" v="&#20061;&#24052; KMB" />
+    <tag id="5834793" k="ref" o="none" type="relation" v="37M" />
+    <tag id="5834793" k="route" o="none" type="relation" v="bus" />
+    <tag id="5834793" k="type" o="none" type="relation" v="route" />
+    <tag id="5921722" k="name" o="modify" type="relation" v="Bus 31M (Shek Lei (Lei Pui Street) - Kwai Fong Railway Station)" />
+    <tag id="5921722" k="network" o="none" type="relation" v="KMB" />
+    <tag id="5921722" k="operator" o="none" type="relation" v="&#20061;&#24052; KMB" />
+    <tag id="5921722" k="ref" o="none" type="relation" v="31M" />
+    <tag id="5921722" k="route" o="none" type="relation" v="bus" />
+    <tag id="5921722" k="type" o="none" type="relation" v="route" />
+  </body>
+</changeset>

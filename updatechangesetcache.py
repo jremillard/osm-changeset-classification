@@ -1,35 +1,30 @@
 import csv
-import urllib.request
-import xml.etree.ElementTree as ET
 import osmcsclassify
-import time
+import random
 
 changeSets = []
 with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
-    spamreader = csv.reader(csvfile, delimiter=',')
+    changesets = csv.reader(csvfile, delimiter=',')
 
     # eat the header
-    next(spamreader)
+    next(changesets)
 
-    for row in spamreader:
+    for row in changesets:
         cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
         changeSets.append( cs)
 
 download_limit = 100000
 downloads = 0
+
+random.shuffle(changeSets)
+
 for cs in changeSets:
-    if ( cs.cached() == False):
-        
+    if ( cs.cached() == False):        
         if ( downloads < download_limit ):
             print("downloading {}".format(cs.id))
             cs.download()
             cs.save()
             downloads += 1
-    else:
-        cs.read()
 
-    #if ( cs.cached() ):
-    #    print(cs.id)
-    #    print(cs.textDump())
 
 
