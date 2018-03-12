@@ -15,7 +15,7 @@ with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile
         cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
         changeSets.append( cs)
 
-download_limit = 10000
+download_limit = 100000
 downloads = 0
 for cs in changeSets:
     if ( cs.cached() == False):
@@ -25,9 +25,6 @@ for cs in changeSets:
             cs.download()
             cs.save()
             downloads += 1
-
-            if ( downloads % 5) == 0 :
-                time.sleep(2)
     else:
         cs.read()
 

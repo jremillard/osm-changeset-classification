@@ -55,9 +55,9 @@ for i,row in enumerate(changesetsCsv):
             cs.save()
 
         print("-------------------------------------------------")   
-        print(cs.textDump())
+        print(cs.textDumpHuman())
         print(",".join(row))
-        print("press space to leave it, s=SPAM, i=import, r=revert, e=error, n=Normal, any other quit {:0.0f}% complete".format( 100.0*validated/unValidatedCount ))
+        print("press space to leave it, s=SPAM, b=bad import, i=import, r=revert, e=error, n=Normal, any other quit {:0.0f}% complete".format( 100.0*validated/unValidatedCount ))
 
         k = getch()
 
@@ -69,6 +69,7 @@ for i,row in enumerate(changesetsCsv):
             changesetsCsv[i][4] = 'N'
             changesetsCsv[i][5] = 'N'
             changesetsCsv[i][6] = 'N'
+            changesetsCsv[i][7] = 'N'
 
             if ( k == 'n'):
                 True
@@ -76,18 +77,27 @@ for i,row in enumerate(changesetsCsv):
                 changesetsCsv[i][3] = 'Y'
             elif ( k == 'r'):
                 changesetsCsv[i][4] = 'Y'
-            elif ( k == 'i'):
+            elif ( k == 'b'):
                 changesetsCsv[i][5] = 'Y'
-            elif ( k == 'e'):
+            elif ( k == 'i'):
                 changesetsCsv[i][6] = 'Y'
-            else 
+            elif ( k == 'e'):
+                changesetsCsv[i][7] = 'Y'
+            else :
                 sys.exit(0)
             
         validated += 1
 
+
         with open('trainingdata/changesets.csv', 'w', encoding='utf-8') as csvfile:
-            csvfile.write("changeset,From,Validated,SPAM,Revert,Bad Import,Mapping Error\n")
+            changesetIds = {}
+            csvfile.write("changeset,From,Validated,SPAM,Revert,Bad Import,Import, Mapping Error\n")
             for wrow in changesetsCsv:
-                csvfile.write(",".join(wrow) + "\n")
+                if ( wrow[0] not in changesetIds):
+                    changesetIds[wrow[0]] = 1
+                    csvfile.write(",".join(wrow) + "\n")
+                else:
+                    print("removing duplicate changeset {}".format(wrow[0]))
+
 
  
