@@ -1,0 +1,434 @@
+<changeset id="8603965" schema="2">
+  <counts nodesAdded="92" nodesDeleted="37" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="33" />
+  <meta>
+    <tag k="comment" v="Mapdust bug 223480: Correct road geometry for better GPS tracking per TIGER 2010, NC Orthos" />
+    <tag k="created_by" v="JOSM/1.5 (4193 SVN en)" />
+  </meta>
+  <body>
+    <tag id="1346350283" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="119968144" k="highway" o="add" type="way" v="residential" />
+    <tag id="119968144" k="name" o="add" type="way" v="Truckway Road" />
+    <tag id="119968144" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="119968144" k="tiger:county" o="add" type="way" v="Buncombe, NC" />
+    <tag id="119968144" k="tiger:mtfcc" o="add" type="way" v="S1400" />
+    <tag id="119968144" k="tiger:tlid" o="add" type="way" v="607712934:607712956" />
+    <tag id="119968144" k="tiger:zip_left" o="add" type="way" v="28803" />
+    <tag id="119968145" k="highway" o="add" type="way" v="residential" />
+    <tag id="119968145" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="119968145" k="tiger:county" o="add" type="way" v="Buncombe, NC" />
+    <tag id="119968145" k="tiger:mtfcc" o="add" type="way" v="S1400" />
+    <tag id="119968145" k="tiger:tlid" o="add" type="way" v="614673508" />
+    <tag id="169451430" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="16432743" k="highway" o="none" type="way" v="residential" />
+    <tag id="16432743" k="name" o="none" type="way" v="Baldwin St" />
+    <tag id="16432743" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16432743" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16432743" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="16432743" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16432743" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16432743" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16432743" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16432743" k="tiger:tlid" o="none" type="way" v="36849182" />
+    <tag id="16432743" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16432743" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16432743" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16447666" k="highway" o="none" type="way" v="residential" />
+    <tag id="16447666" k="name" o="none" type="way" v="Caribou Rd" />
+    <tag id="16447666" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16447666" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16447666" k="tiger:name_base" o="none" type="way" v="Caribou" />
+    <tag id="16447666" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16447666" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16447666" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16447666" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16447666" k="tiger:tlid" o="none" type="way" v="36849335:36849338:36848945:36879906:36879907:36876373:36849350:36849352:36849359:36849362" />
+    <tag id="16447666" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16447666" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16447666" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="100995090" k="access" o="none" type="way" v="yes" />
+    <tag id="100995090" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="100995090" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="100995090" k="lanes" o="none" type="way" v="2" />
+    <tag id="100995090" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="100995090" k="name" o="none" type="way" v="Bleachery Boulevard" />
+    <tag id="100995090" k="surface" o="none" type="way" v="paved" />
+    <tag id="16433670" k="highway" o="none" type="way" v="residential" />
+    <tag id="16433670" k="name" o="none" type="way" v="Eastview Ave" />
+    <tag id="16433670" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16433670" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16433670" k="tiger:name_base" o="none" type="way" v="Eastview" />
+    <tag id="16433670" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16433670" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16433670" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16433670" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16433670" k="tiger:tlid" o="none" type="way" v="36848893" />
+    <tag id="16433670" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16433670" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16433670" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16444481" k="highway" o="none" type="way" v="residential" />
+    <tag id="16444481" k="name" o="none" type="way" v="Cedar St" />
+    <tag id="16444481" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16444481" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16444481" k="tiger:name_base" o="none" type="way" v="Cedar" />
+    <tag id="16444481" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16444481" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16444481" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16444481" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16444481" k="tiger:tlid" o="none" type="way" v="36849176:36872152" />
+    <tag id="16444481" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16444481" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16444481" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16452434" k="highway" o="none" type="way" v="residential" />
+    <tag id="16452434" k="name" o="none" type="way" v="Fairview Ave" />
+    <tag id="16452434" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16452434" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16452434" k="tiger:name_base" o="none" type="way" v="Fairview" />
+    <tag id="16452434" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16452434" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16452434" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16452434" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16452434" k="tiger:tlid" o="none" type="way" v="36849179:36849175:36849177:36849181:36849130:36849134:36849169" />
+    <tag id="16452434" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16452434" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16452434" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="38138954" k="highway" o="none" type="way" v="residential" />
+    <tag id="38138954" k="name" o="none" type="way" v="Fairview Rd" />
+    <tag id="38138954" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="38138954" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="38138954" k="tiger:name_base" o="none" type="way" v="Fairview" />
+    <tag id="38138954" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="38138954" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="38138954" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="38138954" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="38138954" k="tiger:tlid" o="none" type="way" v="36872179:36849794:36849798:36876378:36876379:36902653:36849183:36849186:36902654:36849133:36849192:36896240:36848960:36848963:36848965:36848975:36848978:36849116:36849117:36848958:36849120:36849122:36849123:36849129:36848892:36848894:36846849:36846851:368" />
+    <tag id="38138954" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="38138954" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="38138954" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16416600" k="highway" o="none" type="way" v="secondary" />
+    <tag id="16416600" k="name" o="none" type="way" v="Fairview Rd" />
+    <tag id="16416600" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16416600" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16416600" k="tiger:name_base" o="none" type="way" v="Fairview" />
+    <tag id="16416600" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16416600" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16416600" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16416600" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16416600" k="tiger:tlid" o="none" type="way" v="36849790:36849787:36903971:36903972" />
+    <tag id="16416600" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16416600" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16416600" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16416606" k="highway" o="none" type="way" v="secondary" />
+    <tag id="16416606" k="name" o="none" type="way" v="Fairview Rd" />
+    <tag id="16416606" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16416606" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16416606" k="tiger:name_base" o="none" type="way" v="Fairview" />
+    <tag id="16416606" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16416606" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16416606" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16416606" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16416606" k="tiger:tlid" o="none" type="way" v="36872179:36849794:36849798:36876378:36876379:36902653:36849183:36849186:36902654:36849133:36849192:36896240:36848960:36848963:36848965:36848975:36848978:36849116:36849117:36848958:36849120:36849122:36849123:36849129:36848892:36848894:36846849:36846851:368" />
+    <tag id="16416606" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16416606" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16416606" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16438011" k="highway" o="none" type="way" v="residential" />
+    <tag id="16438011" k="name" o="none" type="way" v="Liberty St" />
+    <tag id="16438011" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16438011" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16438011" k="tiger:name_base" o="none" type="way" v="Liberty" />
+    <tag id="16438011" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16438011" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16438011" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16438011" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16438011" k="tiger:tlid" o="none" type="way" v="36902642" />
+    <tag id="16438011" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16438011" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16453624" k="highway" o="none" type="way" v="residential" />
+    <tag id="16453624" k="name" o="none" type="way" v="Frady Ln" />
+    <tag id="16453624" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16453624" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16453624" k="tiger:name_base" o="none" type="way" v="Frady" />
+    <tag id="16453624" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16453624" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16453624" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16453624" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16453624" k="tiger:tlid" o="none" type="way" v="36848974" />
+    <tag id="16453624" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16453624" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16442937" k="highway" o="none" type="way" v="residential" />
+    <tag id="16442937" k="name" o="none" type="way" v="Hilldale Rd" />
+    <tag id="16442937" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16442937" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16442937" k="tiger:name_base" o="none" type="way" v="Hilldale" />
+    <tag id="16442937" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16442937" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16442937" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16442937" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16442937" k="tiger:tlid" o="none" type="way" v="36849791" />
+    <tag id="16442937" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16446373" k="highway" o="none" type="way" v="residential" />
+    <tag id="16446373" k="name" o="none" type="way" v="Merchant St" />
+    <tag id="16446373" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16446373" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16446373" k="tiger:name_base" o="none" type="way" v="Merchant" />
+    <tag id="16446373" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16446373" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16446373" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16446373" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16446373" k="tiger:tlid" o="none" type="way" v="36902637:36849143:36902638:36849124" />
+    <tag id="16446373" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16446373" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16446373" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16451418" k="highway" o="none" type="way" v="residential" />
+    <tag id="16451418" k="name" o="none" type="way" v="Oakley Rd" />
+    <tag id="16451418" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16451418" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16451418" k="tiger:name_base" o="none" type="way" v="Oakley" />
+    <tag id="16451418" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16451418" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16451418" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16451418" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16451418" k="tiger:tlid" o="none" type="way" v="36849210:36849214:36849185:36849826:36849827" />
+    <tag id="16451418" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16451418" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16451418" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16430650" k="highway" o="none" type="way" v="residential" />
+    <tag id="16430650" k="name" o="none" type="way" v="London Rd" />
+    <tag id="16430650" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16430650" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16430650" k="tiger:name_base" o="none" type="way" v="London" />
+    <tag id="16430650" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16430650" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16430650" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16430650" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430650" k="tiger:tlid" o="none" type="way" v="36849255:36849256:36849258:36848931:36846894:36846854:36849235:36849239:36849246" />
+    <tag id="16430650" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16430650" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16430650" k="tiger:zip_left_1" o="none" type="way" v="28803" />
+    <tag id="16430650" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16430189" k="highway" o="none" type="way" v="residential" />
+    <tag id="16430189" k="name" o="modify" type="way" v="River Ridge Drive" />
+    <tag id="16430189" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16430189" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16430189" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16430189" k="tiger:mtfcc" o="add" type="way" v="S1400" />
+    <tag id="16430189" k="tiger:name_base" o="none" type="way" v="River Ridge" />
+    <tag id="16430189" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16430189" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16430189" k="tiger:separated" o="modify" type="way" v="N" />
+    <tag id="16430189" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430189" k="tiger:tlid" o="modify" type="way" v="36903417:36903426:36903432:36903433:36903434" />
+    <tag id="16430189" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16430189" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16430189" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16430195" k="highway" o="none" type="way" v="residential" />
+    <tag id="16430195" k="name" o="modify" type="way" v="River Ridge Drive" />
+    <tag id="16430195" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16430195" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16430195" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16430195" k="tiger:mtfcc" o="add" type="way" v="S1400" />
+    <tag id="16430195" k="tiger:name_base" o="none" type="way" v="River Ridge" />
+    <tag id="16430195" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16430195" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16430195" k="tiger:separated" o="modify" type="way" v="N" />
+    <tag id="16430195" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430195" k="tiger:tlid" o="modify" type="way" v="36903437:36903438" />
+    <tag id="16430195" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16430195" k="tiger:zip_left" o="add" type="way" v="28803" />
+    <tag id="16430195" k="tiger:zip_right" o="add" type="way" v="28803" />
+    <tag id="16430198" k="highway" o="none" type="way" v="residential" />
+    <tag id="16430198" k="name" o="modify" type="way" v="River Ridge Drive" />
+    <tag id="16430198" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16430198" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16430198" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16430198" k="tiger:mtfcc" o="add" type="way" v="S1400" />
+    <tag id="16430198" k="tiger:name_base" o="none" type="way" v="River Ridge" />
+    <tag id="16430198" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16430198" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16430198" k="tiger:separated" o="modify" type="way" v="N" />
+    <tag id="16430198" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430198" k="tiger:tlid" o="modify" type="way" v="36903429:36903440" />
+    <tag id="16430198" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16430198" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16430198" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16437303" k="highway" o="none" type="way" v="residential" />
+    <tag id="16437303" k="name" o="none" type="way" v="Robin Ln" />
+    <tag id="16437303" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16437303" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16437303" k="tiger:name_base" o="none" type="way" v="Robin" />
+    <tag id="16437303" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16437303" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16437303" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16437303" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16437303" k="tiger:tlid" o="none" type="way" v="36849146" />
+    <tag id="16437303" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16437303" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16437303" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16441687" k="highway" o="none" type="way" v="residential" />
+    <tag id="16441687" k="name" o="none" type="way" v="School Rd E" />
+    <tag id="16441687" k="name_1" o="none" type="way" v="State Road 3052" />
+    <tag id="16441687" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16441687" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16441687" k="tiger:name_base" o="none" type="way" v="School" />
+    <tag id="16441687" k="tiger:name_base_1" o="none" type="way" v="State Road 3052" />
+    <tag id="16441687" k="tiger:name_direction_suffix" o="none" type="way" v="E" />
+    <tag id="16441687" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16441687" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16441687" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16441687" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16441687" k="tiger:tlid" o="none" type="way" v="36849564:36849566:36849208:36902646:36849184:36849224:36849225:36849228" />
+    <tag id="16441687" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16441687" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16441687" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16447148" k="name" o="none" type="way" v="Southern Railway" />
+    <tag id="16447148" k="railway" o="none" type="way" v="rail" />
+    <tag id="16447148" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="16447148" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16447148" k="tiger:name_base" o="none" type="way" v="Southern Railway" />
+    <tag id="16447148" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16447148" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16447148" k="tiger:tlid" o="none" type="way" v="36860191:36860192:36860197:36860198:36860467:36860548:36876990:36876991:36912490:36910193:36901713:36883918:36883919:36910192:36901714:36901718:36901719:36860181:36860182:36860189:36866722:36860771:36860151:36860153:36860155:36860156:36860157:36873268:369" />
+    <tag id="16447148" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="43033918" k="name" o="none" type="way" v="Southern Railway" />
+    <tag id="43033918" k="railway" o="none" type="way" v="rail" />
+    <tag id="43033918" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="43033918" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="43033918" k="tiger:name_base" o="none" type="way" v="Southern Railway" />
+    <tag id="43033918" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="43033918" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="43033918" k="tiger:tlid" o="none" type="way" v="36848854:36848869:36848849:36848812:36861850:36861870:36861866:36861872:36861874:36849476:36913240:36913241:36868426:36873376:36850763:36862966:36850786:36898184:36909412:36909413:36850788:36863152:36849517:36912535:36849530:36849142:36846839:36846841:368" />
+    <tag id="43033918" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16430881" k="highway" o="none" type="way" v="residential" />
+    <tag id="16430881" k="name" o="modify" type="way" v="Steele Street" />
+    <tag id="16430881" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16430881" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16430881" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16430881" k="tiger:mtfcc" o="add" type="way" v="S1400" />
+    <tag id="16430881" k="tiger:name_base" o="none" type="way" v="Steele" />
+    <tag id="16430881" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16430881" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16430881" k="tiger:separated" o="modify" type="way" v="N" />
+    <tag id="16430881" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430881" k="tiger:tlid" o="none" type="way" v="36849119" />
+    <tag id="16430881" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16444407" k="highway" o="none" type="way" v="residential" />
+    <tag id="16444407" k="name" o="none" type="way" v="Stoner Rd" />
+    <tag id="16444407" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16444407" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16444407" k="tiger:name_base" o="none" type="way" v="Stoner" />
+    <tag id="16444407" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16444407" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16444407" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16444407" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16444407" k="tiger:tlid" o="none" type="way" v="36876466:36846863" />
+    <tag id="16444407" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16444407" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16444407" k="tiger:zip_left_1" o="none" type="way" v="28803" />
+    <tag id="16444407" k="tiger:zip_left_2" o="none" type="way" v="28803" />
+    <tag id="16444407" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="49396732" k="highway" o="none" type="way" v="secondary" />
+    <tag id="49396732" k="name" o="none" type="way" v="Swannanoa River Rd" />
+    <tag id="49396732" k="ref" o="none" type="way" v="NC 81" />
+    <tag id="49396732" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="49396732" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="49396732" k="tiger:name_base" o="none" type="way" v="Swannanoa River" />
+    <tag id="49396732" k="tiger:name_base_1" o="none" type="way" v="State Highway 81" />
+    <tag id="49396732" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="49396732" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="49396732" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="49396732" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="49396732" k="tiger:tlid" o="none" type="way" v="36848664:36848653:36848672:36848652:36849956:36898750:36879609" />
+    <tag id="49396732" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="49396732" k="tiger:zip_left" o="none" type="way" v="28805" />
+    <tag id="49396732" k="tiger:zip_right" o="none" type="way" v="28805" />
+    <tag id="49396757" k="highway" o="none" type="way" v="primary" />
+    <tag id="49396757" k="name" o="none" type="way" v="Swannanoa River Rd" />
+    <tag id="49396757" k="ref" o="none" type="way" v="US 74A;NC 81" />
+    <tag id="49396757" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="49396757" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="49396757" k="tiger:name_base" o="none" type="way" v="Swannanoa River" />
+    <tag id="49396757" k="tiger:name_base_1" o="none" type="way" v="State Highway 81" />
+    <tag id="49396757" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="49396757" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="49396757" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="49396757" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="49396757" k="tiger:tlid" o="none" type="way" v="36848664:36848653:36848672:36848652:36849956:36898750:36879609" />
+    <tag id="49396757" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="49396757" k="tiger:zip_left" o="none" type="way" v="28805" />
+    <tag id="49396757" k="tiger:zip_right" o="none" type="way" v="28805" />
+    <tag id="16446480" k="highway" o="none" type="way" v="primary" />
+    <tag id="16446480" k="name" o="none" type="way" v="Sweeten Creek Road" />
+    <tag id="16446480" k="ref" o="none" type="way" v="US 25A" />
+    <tag id="16446480" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="16446480" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16446480" k="tiger:name_base" o="none" type="way" v="Sweeten Creek" />
+    <tag id="16446480" k="tiger:name_base_1" o="none" type="way" v="United States Highway 25A" />
+    <tag id="16446480" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16446480" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16446480" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16446480" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16446480" k="tiger:tlid" o="none" type="way" v="36912220:36873378" />
+    <tag id="16446480" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16442272" k="highway" o="none" type="way" v="residential" />
+    <tag id="16442272" k="name" o="none" type="way" v="Unaka Ave" />
+    <tag id="16442272" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16442272" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16442272" k="tiger:name_base" o="none" type="way" v="Unaka" />
+    <tag id="16442272" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16442272" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16442272" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16442272" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16442272" k="tiger:tlid" o="none" type="way" v="36909888" />
+    <tag id="16442272" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16442272" k="tiger:zip_left" o="none" type="way" v="28803" />
+    <tag id="16442272" k="tiger:zip_right" o="none" type="way" v="28803" />
+    <tag id="16419884" k="access" o="none" type="way" v="private" />
+    <tag id="16419884" k="highway" o="none" type="way" v="service" />
+    <tag id="16419884" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16419884" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="16419884" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16419884" k="tiger:mtfcc" o="add" type="way" v="S1740" />
+    <tag id="16419884" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16419884" k="tiger:separated" o="add" type="way" v="N" />
+    <tag id="16419884" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16419884" k="tiger:tlid" o="modify" type="way" v="36849334:36903671" />
+    <tag id="16419884" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16421286" k="highway" o="none" type="way" v="residential" />
+    <tag id="16421286" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16421286" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16421286" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16421286" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16421286" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16421286" k="tiger:tlid" o="none" type="way" v="36849760" />
+    <tag id="16421286" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16421308" k="highway" o="none" type="way" v="residential" />
+    <tag id="16421308" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16421308" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16421308" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16421308" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="16421308" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16421308" k="tiger:tlid" o="none" type="way" v="36849767:36849764:36849770:36849772:36849773:36872174" />
+    <tag id="16421308" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16428315" k="access" o="none" type="way" v="private" />
+    <tag id="16428315" k="highway" o="none" type="way" v="service" />
+    <tag id="16428315" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16428315" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="16428315" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16428315" k="tiger:mtfcc" o="add" type="way" v="S1740" />
+    <tag id="16428315" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16428315" k="tiger:separated" o="add" type="way" v="N" />
+    <tag id="16428315" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16428315" k="tiger:tlid" o="none" type="way" v="36903428" />
+    <tag id="16428315" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+    <tag id="16418589" k="access" o="none" type="way" v="private" />
+    <tag id="16418589" k="highway" o="none" type="way" v="service" />
+    <tag id="16418589" k="source" o="add" type="way" v="tiger2010_import_v0.3_20110228211225" />
+    <tag id="16418589" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="16418589" k="tiger:county" o="none" type="way" v="Buncombe, NC" />
+    <tag id="16418589" k="tiger:mtfcc" o="add" type="way" v="S1740" />
+    <tag id="16418589" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16418589" k="tiger:separated" o="add" type="way" v="N" />
+    <tag id="16418589" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16418589" k="tiger:tlid" o="none" type="way" v="36903435:36903436" />
+    <tag id="16418589" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951" />
+  </body>
+</changeset>

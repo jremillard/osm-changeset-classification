@@ -1,0 +1,862 @@
+<changeset id="7634102" schema="2">
+  <counts nodesAdded="138" nodesDeleted="45" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="79" waysDeleted="6" waysModified="102" />
+  <meta>
+    <tag k="comment" v="Trapani 20110322#1" />
+    <tag k="created_by" v="Potlatch 1.4 (save de)" />
+  </meta>
+  <body>
+    <tag id="1212896864" k="amenity" o="add" type="node" v="recycling" />
+    <tag id="105246002" k="highway" o="add" type="way" v="service" />
+    <tag id="105246003" k="highway" o="add" type="way" v="service" />
+    <tag id="105246004" k="highway" o="add" type="way" v="residential" />
+    <tag id="105246004" k="lit" o="add" type="way" v="yes" />
+    <tag id="105246004" k="name" o="add" type="way" v="Via Niso" />
+    <tag id="105246004" k="oneway" o="add" type="way" v="no" />
+    <tag id="105246004" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249155" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249155" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249155" k="name" o="add" type="way" v="Via Anchise" />
+    <tag id="105249155" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249155" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249627" k="bridge" o="add" type="way" v="yes" />
+    <tag id="105249627" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249627" k="layer" o="add" type="way" v="1" />
+    <tag id="105249959" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249959" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249959" k="name" o="add" type="way" v="Largo Ilio" />
+    <tag id="105249959" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249959" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105250470" k="highway" o="add" type="way" v="residential" />
+    <tag id="105250470" k="lit" o="add" type="way" v="yes" />
+    <tag id="105250470" k="oneway" o="add" type="way" v="no" />
+    <tag id="105250470" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105250604" k="highway" o="add" type="way" v="residential" />
+    <tag id="105250604" k="lit" o="add" type="way" v="yes" />
+    <tag id="105250604" k="oneway" o="add" type="way" v="no" />
+    <tag id="105250604" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105250700" k="access" o="add" type="way" v="permissive" />
+    <tag id="105250700" k="highway" o="add" type="way" v="residential" />
+    <tag id="105250700" k="lit" o="add" type="way" v="yes" />
+    <tag id="105250700" k="name" o="add" type="way" v="Via Didone" />
+    <tag id="105250700" k="oneway" o="add" type="way" v="no" />
+    <tag id="105250700" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105250702" k="highway" o="add" type="way" v="residential" />
+    <tag id="105250702" k="lit" o="add" type="way" v="yes" />
+    <tag id="105250702" k="name" o="add" type="way" v="Via Didone" />
+    <tag id="105250702" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105250702" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105250838" k="highway" o="add" type="way" v="residential" />
+    <tag id="105250838" k="lit" o="add" type="way" v="yes" />
+    <tag id="105250838" k="name" o="add" type="way" v="Via Michele Piptone" />
+    <tag id="105250838" k="oneway" o="add" type="way" v="no" />
+    <tag id="105250838" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105251230" k="highway" o="add" type="way" v="residential" />
+    <tag id="105251230" k="lit" o="add" type="way" v="yes" />
+    <tag id="105251230" k="name" o="add" type="way" v="Via Antonio Roasi" />
+    <tag id="105251230" k="oneway" o="add" type="way" v="no" />
+    <tag id="105251230" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105251334" k="highway" o="add" type="way" v="residential" />
+    <tag id="105251334" k="lit" o="add" type="way" v="yes" />
+    <tag id="105251334" k="name" o="add" type="way" v="Via Oristano" />
+    <tag id="105251334" k="oneway" o="add" type="way" v="no" />
+    <tag id="105251334" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105251335" k="highway" o="add" type="way" v="residential" />
+    <tag id="105251335" k="lit" o="add" type="way" v="yes" />
+    <tag id="105251335" k="name" o="add" type="way" v="Via Oristano" />
+    <tag id="105251335" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105251335" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105251702" k="highway" o="add" type="way" v="residential" />
+    <tag id="105251702" k="lit" o="add" type="way" v="yes" />
+    <tag id="105251702" k="name" o="add" type="way" v="Via de Santis" />
+    <tag id="105251702" k="oneway" o="add" type="way" v="no" />
+    <tag id="105251702" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105254251" k="highway" o="add" type="way" v="residential" />
+    <tag id="105254251" k="lit" o="add" type="way" v="yes" />
+    <tag id="105254251" k="name" o="add" type="way" v="Via Mannina" />
+    <tag id="105254251" k="oneway" o="add" type="way" v="no" />
+    <tag id="105254251" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105256820" k="highway" o="add" type="way" v="residential" />
+    <tag id="105256820" k="lit" o="add" type="way" v="yes" />
+    <tag id="105256820" k="name" o="add" type="way" v="Via Santa Maria di Capua" />
+    <tag id="105256820" k="oneway" o="add" type="way" v="no" />
+    <tag id="105256820" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105256822" k="highway" o="add" type="way" v="residential" />
+    <tag id="105256822" k="lit" o="add" type="way" v="yes" />
+    <tag id="105256822" k="name" o="add" type="way" v="Via Amodei" />
+    <tag id="105256822" k="oneway" o="add" type="way" v="no" />
+    <tag id="105256822" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257370" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257370" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257370" k="name" o="add" type="way" v="Via Dalmazia" />
+    <tag id="105257370" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105257370" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257371" k="area" o="add" type="way" v="yes" />
+    <tag id="105257371" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257371" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257371" k="name" o="add" type="way" v="PiazzaXXI Aprile" />
+    <tag id="105257371" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257372" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257372" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257372" k="name" o="add" type="way" v="Via Basiric&#242;" />
+    <tag id="105257372" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257372" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257373" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257373" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257373" k="name" o="add" type="way" v="Via Papa" />
+    <tag id="105257373" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257373" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257374" k="highway" o="add" type="way" v="service" />
+    <tag id="105257376" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257376" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257376" k="name" o="add" type="way" v="Via Gerani" />
+    <tag id="105257376" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257376" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257377" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257377" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257377" k="name" o="add" type="way" v="Via Camelie" />
+    <tag id="105257377" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257377" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257378" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257378" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257378" k="name" o="add" type="way" v="Via Oleandri" />
+    <tag id="105257378" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257378" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="1212990829" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="1212990829" k="denomination" o="add" type="node" v="roman_catholic" />
+    <tag id="1212990829" k="name" o="add" type="node" v="Chiesa Sacro Cuore" />
+    <tag id="1212990829" k="religion" o="add" type="node" v="christian" />
+    <tag id="105257691" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257691" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257691" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257691" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257693" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="105257693" k="building" o="add" type="way" v="yes" />
+    <tag id="105257920" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="105257920" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257920" k="name" o="add" type="way" v="Via Archi" />
+    <tag id="105257920" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257920" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257921" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257921" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257921" k="name" o="add" type="way" v="Via Selinunte" />
+    <tag id="105257921" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105257921" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105258016" k="highway" o="add" type="way" v="service" />
+    <tag id="105258304" k="highway" o="add" type="way" v="residential" />
+    <tag id="105258304" k="lit" o="add" type="way" v="yes" />
+    <tag id="105258304" k="oneway" o="add" type="way" v="no" />
+    <tag id="105258304" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="1213000980" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="1213000980" k="denomination" o="add" type="node" v="roman catholic" />
+    <tag id="1213000980" k="fixme" o="add" type="node" v="name?" />
+    <tag id="1213000980" k="religion" o="add" type="node" v="christian" />
+    <tag id="105258545" k="highway" o="add" type="way" v="residential" />
+    <tag id="105258545" k="lit" o="add" type="way" v="yes" />
+    <tag id="105258545" k="name" o="add" type="way" v="Via Erice" />
+    <tag id="105258545" k="oneway" o="add" type="way" v="no" />
+    <tag id="105258545" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105258841" k="highway" o="add" type="way" v="residential" />
+    <tag id="105258841" k="lit" o="add" type="way" v="yes" />
+    <tag id="105258841" k="name" o="add" type="way" v="Via Benedetto Valenza" />
+    <tag id="105258841" k="oneway" o="add" type="way" v="no" />
+    <tag id="105258841" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105258842" k="highway" o="add" type="way" v="residential" />
+    <tag id="105258842" k="lit" o="add" type="way" v="yes" />
+    <tag id="105258842" k="oneway" o="add" type="way" v="no" />
+    <tag id="105258842" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105258843" k="highway" o="add" type="way" v="residential" />
+    <tag id="105258843" k="lit" o="add" type="way" v="yes" />
+    <tag id="105258843" k="oneway" o="add" type="way" v="no" />
+    <tag id="105258843" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105259145" k="highway" o="add" type="way" v="residential" />
+    <tag id="105259145" k="lit" o="add" type="way" v="yes" />
+    <tag id="105259145" k="name" o="add" type="way" v="Cortile dei Mugnai" />
+    <tag id="105259145" k="oneway" o="add" type="way" v="no" />
+    <tag id="105259145" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105259246" k="highway" o="add" type="way" v="residential" />
+    <tag id="105259246" k="lit" o="add" type="way" v="yes" />
+    <tag id="105259246" k="name" o="add" type="way" v="Via Livio Bassi" />
+    <tag id="105259246" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105259246" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105259247" k="highway" o="add" type="way" v="residential" />
+    <tag id="105259247" k="lit" o="add" type="way" v="yes" />
+    <tag id="105259247" k="name" o="add" type="way" v="Via Livio Bassi" />
+    <tag id="105259247" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105259247" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105259443" k="highway" o="add" type="way" v="residential" />
+    <tag id="105259443" k="lit" o="add" type="way" v="yes" />
+    <tag id="105259443" k="oneway" o="add" type="way" v="no" />
+    <tag id="105259443" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260446" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260446" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260446" k="name" o="add" type="way" v="Via Barbaro" />
+    <tag id="105260446" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260446" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260949" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260949" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260949" k="name" o="add" type="way" v="Cortile Mulino" />
+    <tag id="105260949" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260949" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260950" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260950" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260950" k="name" o="add" type="way" v="Via del Diamante" />
+    <tag id="105260950" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105260950" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260951" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260951" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260951" k="name" o="add" type="way" v="Cortile dei Centimolari" />
+    <tag id="105260951" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260951" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105261363" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="105261363" k="lit" o="add" type="way" v="yes" />
+    <tag id="105261363" k="name" o="add" type="way" v="Via degliOrti" />
+    <tag id="105261363" k="oneway" o="add" type="way" v="no" />
+    <tag id="105261363" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105261364" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="105261364" k="lit" o="add" type="way" v="yes" />
+    <tag id="105261364" k="name" o="add" type="way" v="Via degliOrti" />
+    <tag id="105261364" k="oneway" o="add" type="way" v="no" />
+    <tag id="105261364" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105261365" k="highway" o="add" type="way" v="residential" />
+    <tag id="105261365" k="lit" o="add" type="way" v="yes" />
+    <tag id="105261365" k="oneway" o="add" type="way" v="no" />
+    <tag id="105261365" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105261684" k="highway" o="add" type="way" v="residential" />
+    <tag id="105261684" k="lit" o="add" type="way" v="yes" />
+    <tag id="105261684" k="name" o="add" type="way" v="Via del Mandorlo" />
+    <tag id="105261684" k="oneway" o="add" type="way" v="no" />
+    <tag id="105261684" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105263668" k="highway" o="add" type="way" v="residential" />
+    <tag id="105263668" k="lit" o="add" type="way" v="yes" />
+    <tag id="105263668" k="name" o="add" type="way" v="Via delle Ortensie" />
+    <tag id="105263668" k="oneway" o="add" type="way" v="no" />
+    <tag id="105263668" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105265696" k="highway" o="add" type="way" v="residential" />
+    <tag id="105265696" k="lit" o="add" type="way" v="yes" />
+    <tag id="105265696" k="name" o="add" type="way" v="Via dell'Olmo" />
+    <tag id="105265696" k="oneway" o="add" type="way" v="no" />
+    <tag id="105265696" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105265947" k="highway" o="add" type="way" v="residential" />
+    <tag id="105265947" k="lit" o="add" type="way" v="yes" />
+    <tag id="105265947" k="name" o="add" type="way" v="Via delle Vite" />
+    <tag id="105265947" k="oneway" o="add" type="way" v="no" />
+    <tag id="105265947" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105266277" k="highway" o="add" type="way" v="residential" />
+    <tag id="105266277" k="lit" o="add" type="way" v="yes" />
+    <tag id="105266277" k="name" o="add" type="way" v="Via degli Stabilimenti" />
+    <tag id="105266277" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105266277" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105266753" k="highway" o="add" type="way" v="residential" />
+    <tag id="105266753" k="lit" o="add" type="way" v="yes" />
+    <tag id="105266753" k="name" o="add" type="way" v="Via Mothia" />
+    <tag id="105266753" k="oneway" o="add" type="way" v="no" />
+    <tag id="105266753" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105267678" k="highway" o="add" type="way" v="residential" />
+    <tag id="105267678" k="lit" o="add" type="way" v="yes" />
+    <tag id="105267678" k="name" o="add" type="way" v="Via Formica" />
+    <tag id="105267678" k="oneway" o="add" type="way" v="no" />
+    <tag id="105267678" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="1212084117" k="name" o="modify" type="node" v="Stazione Ferroviaria di Trapani" />
+    <tag id="1212084117" k="railway" o="none" type="node" v="station" />
+    <tag id="105249156" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249156" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249156" k="name" o="add" type="way" v="Via Aceste" />
+    <tag id="105249156" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105249156" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249625" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249625" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249625" k="name" o="add" type="way" v="Via Giuseppe Rubino" />
+    <tag id="105249625" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249625" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249626" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249626" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249626" k="name" o="add" type="way" v="Via Poma" />
+    <tag id="105249626" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249626" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249960" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249960" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249960" k="name" o="add" type="way" v="Via Capitano Salvatore Bruno" />
+    <tag id="105249960" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249960" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249961" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249961" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249961" k="name" o="add" type="way" v="Via Francesco Manzo" />
+    <tag id="105249961" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249961" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105249980" k="highway" o="add" type="way" v="residential" />
+    <tag id="105249980" k="lit" o="add" type="way" v="yes" />
+    <tag id="105249980" k="name" o="add" type="way" v="Via Giovanni Gentile" />
+    <tag id="105249980" k="oneway" o="add" type="way" v="no" />
+    <tag id="105249980" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105251166" k="highway" o="add" type="way" v="residential" />
+    <tag id="105251166" k="lit" o="add" type="way" v="yes" />
+    <tag id="105251166" k="name" o="add" type="way" v="Via dei Mille" />
+    <tag id="105251166" k="oneway" o="add" type="way" v="no" />
+    <tag id="105251166" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105251167" k="highway" o="add" type="way" v="residential" />
+    <tag id="105251167" k="lit" o="add" type="way" v="yes" />
+    <tag id="105251167" k="name" o="add" type="way" v="Via Volturno" />
+    <tag id="105251167" k="oneway" o="add" type="way" v="no" />
+    <tag id="105251167" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105253109" k="highway" o="add" type="way" v="residential" />
+    <tag id="105253109" k="lit" o="add" type="way" v="yes" />
+    <tag id="105253109" k="oneway" o="add" type="way" v="no" />
+    <tag id="105253109" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105253114" k="highway" o="add" type="way" v="residential" />
+    <tag id="105253114" k="lit" o="add" type="way" v="yes" />
+    <tag id="105253114" k="name" o="add" type="way" v="Via Ignazio Lampiasi" />
+    <tag id="105253114" k="oneway" o="add" type="way" v="no" />
+    <tag id="105253114" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105253121" k="highway" o="add" type="way" v="residential" />
+    <tag id="105253121" k="lit" o="add" type="way" v="yes" />
+    <tag id="105253121" k="name" o="add" type="way" v="Via G. Nicotera" />
+    <tag id="105253121" k="oneway" o="add" type="way" v="no" />
+    <tag id="105253121" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105254255" k="highway" o="add" type="way" v="residential" />
+    <tag id="105254255" k="lit" o="add" type="way" v="yes" />
+    <tag id="105254255" k="name" o="add" type="way" v="Via Serraino Vulpitta" />
+    <tag id="105254255" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105254255" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105256821" k="highway" o="add" type="way" v="residential" />
+    <tag id="105256821" k="lit" o="add" type="way" v="yes" />
+    <tag id="105256821" k="name" o="add" type="way" v="Via Italo Calvino" />
+    <tag id="105256821" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105256821" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257922" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257922" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257922" k="name" o="add" type="way" v="Via della Salute" />
+    <tag id="105257922" k="oneway" o="add" type="way" v="no" />
+    <tag id="105257922" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105257924" k="highway" o="add" type="way" v="residential" />
+    <tag id="105257924" k="lit" o="add" type="way" v="yes" />
+    <tag id="105257924" k="name" o="add" type="way" v="Via Verbena" />
+    <tag id="105257924" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105257924" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105258099" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="105258099" k="lit" o="add" type="way" v="yes" />
+    <tag id="105258099" k="name" o="add" type="way" v="Via Messina" />
+    <tag id="105258099" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105258099" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260179" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260179" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260179" k="name" o="add" type="way" v="Via A. Cipollina" />
+    <tag id="105260179" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105260179" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260180" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="105260180" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260180" k="name" o="add" type="way" v="Via degliOrti" />
+    <tag id="105260180" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260180" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260448" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260448" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260448" k="name" o="add" type="way" v="Via dei Mulini" />
+    <tag id="105260448" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260448" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260449" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260449" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260449" k="name" o="add" type="way" v="Via dell'Ulivo" />
+    <tag id="105260449" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260449" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260540" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260540" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260540" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260540" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105260595" k="highway" o="add" type="way" v="residential" />
+    <tag id="105260595" k="lit" o="add" type="way" v="yes" />
+    <tag id="105260595" k="name" o="add" type="way" v="Via A. Ciminello" />
+    <tag id="105260595" k="oneway" o="add" type="way" v="no" />
+    <tag id="105260595" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105261683" k="highway" o="add" type="way" v="residential" />
+    <tag id="105261683" k="lit" o="add" type="way" v="yes" />
+    <tag id="105261683" k="name" o="add" type="way" v="Via del Pioppo" />
+    <tag id="105261683" k="oneway" o="add" type="way" v="no" />
+    <tag id="105261683" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105263787" k="highway" o="add" type="way" v="secondary" />
+    <tag id="105263787" k="lanes" o="add" type="way" v="2" />
+    <tag id="105263787" k="lit" o="add" type="way" v="yes" />
+    <tag id="105263787" k="name" o="add" type="way" v="Corso Piersant Matarella" />
+    <tag id="105263787" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105263787" k="ref" o="add" type="way" v="SP31" />
+    <tag id="105265698" k="highway" o="add" type="way" v="residential" />
+    <tag id="105265698" k="lit" o="add" type="way" v="yes" />
+    <tag id="105265698" k="name" o="add" type="way" v="Via degli Stabilimenti" />
+    <tag id="105265698" k="oneway" o="add" type="way" v="yes" />
+    <tag id="105265698" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58294787" k="highway" o="none" type="way" v="service" />
+    <tag id="58294777" k="highway" o="none" type="way" v="residential" />
+    <tag id="58294777" k="lit" o="add" type="way" v="yes" />
+    <tag id="58294777" k="name" o="add" type="way" v="Via Capitano Sergio Fontana" />
+    <tag id="58294777" k="oneway" o="add" type="way" v="no" />
+    <tag id="58294777" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="96601757" k="highway" o="modify" type="way" v="residential" />
+    <tag id="96601757" k="lit" o="add" type="way" v="yes" />
+    <tag id="96601757" k="name" o="add" type="way" v="Via Ilio" />
+    <tag id="96601757" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105158395" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="105158395" k="lit" o="none" type="way" v="yes" />
+    <tag id="105158395" k="name" o="none" type="way" v="Via Ammiraglio Staiti" />
+    <tag id="105158395" k="oneway" o="none" type="way" v="no" />
+    <tag id="105158395" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58294788" k="highway" o="none" type="way" v="residential" />
+    <tag id="58294788" k="lit" o="add" type="way" v="yes" />
+    <tag id="58294788" k="name" o="add" type="way" v="Via Eurialo" />
+    <tag id="58294788" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58294788" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59715180" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="59715180" k="lit" o="none" type="way" v="yes" />
+    <tag id="59715180" k="name" o="none" type="way" v="Via Virgilio" />
+    <tag id="59715180" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="96601727" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="96601727" k="lit" o="none" type="way" v="yes" />
+    <tag id="96601727" k="name" o="none" type="way" v="Via Ilio" />
+    <tag id="96601727" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="105179978" k="highway" o="none" type="way" v="residential" />
+    <tag id="105179978" k="lit" o="none" type="way" v="yes" />
+    <tag id="105179978" k="name" o="none" type="way" v="Via Didone" />
+    <tag id="105179978" k="oneway" o="none" type="way" v="yes" />
+    <tag id="105179978" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="94403878" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="94403878" k="lanes" o="none" type="way" v="2" />
+    <tag id="94403878" k="lit" o="none" type="way" v="yes" />
+    <tag id="94403878" k="name" o="modify" type="way" v="Via Giovanbattista Fardella" />
+    <tag id="94403878" k="oneway" o="none" type="way" v="yes" />
+    <tag id="94403878" k="ref" o="none" type="way" v="SP31" />
+    <tag id="105155076" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="105155076" k="lanes" o="none" type="way" v="2" />
+    <tag id="105155076" k="lit" o="none" type="way" v="yes" />
+    <tag id="105155076" k="name" o="modify" type="way" v="Via Giovanbattista Fardella; Via Giovanni Battista Fardella" />
+    <tag id="105155076" k="oneway" o="none" type="way" v="yes" />
+    <tag id="105155076" k="ref" o="none" type="way" v="SP31" />
+    <tag id="105146670" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="105146670" k="lanes" o="none" type="way" v="2" />
+    <tag id="105146670" k="lit" o="none" type="way" v="yes" />
+    <tag id="105146670" k="name" o="modify" type="way" v="Via Giovanbattista Fardella" />
+    <tag id="105146670" k="oneway" o="none" type="way" v="yes" />
+    <tag id="105146670" k="ref" o="none" type="way" v="SP31" />
+    <tag id="105161995" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="105161995" k="lanes" o="none" type="way" v="2" />
+    <tag id="105161995" k="lit" o="none" type="way" v="yes" />
+    <tag id="105161995" k="name" o="modify" type="way" v="Via Giovanbattista Fardella" />
+    <tag id="105161995" k="oneway" o="none" type="way" v="yes" />
+    <tag id="105161995" k="ref" o="none" type="way" v="SP31" />
+    <tag id="94403873" k="highway" o="none" type="way" v="residential" />
+    <tag id="94403873" k="lit" o="add" type="way" v="yes" />
+    <tag id="94403873" k="name" o="add" type="way" v="Via Generale Giovanni Matera" />
+    <tag id="94403873" k="oneway" o="add" type="way" v="no" />
+    <tag id="94403873" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58294783" k="highway" o="none" type="way" v="residential" />
+    <tag id="58294783" k="lit" o="add" type="way" v="yes" />
+    <tag id="58294783" k="name" o="add" type="way" v="Via Capitano Giurlanda" />
+    <tag id="58294783" k="oneway" o="add" type="way" v="no" />
+    <tag id="58294783" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="96601765" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="96601765" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="96601765" k="lit" o="add" type="way" v="yes" />
+    <tag id="96601765" k="name" o="add" type="way" v="Via Ilio" />
+    <tag id="96601765" k="oneway" o="none" type="way" v="yes" />
+    <tag id="96601765" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105160609" k="highway" o="none" type="way" v="residential" />
+    <tag id="105160609" k="lit" o="none" type="way" v="yes" />
+    <tag id="105160609" k="name" o="none" type="way" v="Via Rocco Sonlina" />
+    <tag id="105160609" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="105160609" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="34610810" k="highway" o="none" type="way" v="residential" />
+    <tag id="34610810" k="lit" o="none" type="way" v="yes" />
+    <tag id="34610810" k="name" o="none" type="way" v="Via Vincenzo Bellini" />
+    <tag id="34610810" k="oneway" o="none" type="way" v="yes" />
+    <tag id="34610810" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="34610827" k="highway" o="none" type="way" v="residential" />
+    <tag id="34610827" k="lit" o="add" type="way" v="yes" />
+    <tag id="34610827" k="name" o="add" type="way" v="Via V. Sorba" />
+    <tag id="34610827" k="oneway" o="add" type="way" v="no" />
+    <tag id="34610827" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="94403902" k="highway" o="none" type="way" v="residential" />
+    <tag id="94403902" k="lit" o="add" type="way" v="yes" />
+    <tag id="94403902" k="name" o="add" type="way" v="Via A. Tipa" />
+    <tag id="94403902" k="oneway" o="add" type="way" v="no" />
+    <tag id="94403902" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297399" k="highway" o="none" type="way" v="residential" />
+    <tag id="58297399" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297399" k="name" o="add" type="way" v="Via Tunisi" />
+    <tag id="58297399" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297399" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105158403" k="highway" o="none" type="way" v="residential" />
+    <tag id="105158403" k="lit" o="add" type="way" v="yes" />
+    <tag id="105158403" k="name" o="add" type="way" v="Via Nicol&#242; Burgio" />
+    <tag id="105158403" k="oneway" o="add" type="way" v="no" />
+    <tag id="105158403" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297388" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297388" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297388" k="name" o="add" type="way" v="Via Tripoli" />
+    <tag id="58297388" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297388" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="94403901" k="highway" o="none" type="way" v="residential" />
+    <tag id="94403901" k="lit" o="add" type="way" v="yes" />
+    <tag id="94403901" k="name" o="add" type="way" v="Via Milazzo" />
+    <tag id="94403901" k="oneway" o="add" type="way" v="no" />
+    <tag id="94403901" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297412" k="highway" o="none" type="way" v="residential" />
+    <tag id="58297412" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297412" k="name" o="add" type="way" v="Via Calatafimi" />
+    <tag id="58297412" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297412" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297405" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297405" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297405" k="name" o="add" type="way" v="Via Giuseppe Ferro" />
+    <tag id="58297405" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297405" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35784706" k="railway" o="none" type="way" v="rail" />
+    <tag id="105146823" k="highway" o="none" type="way" v="residential" />
+    <tag id="105146823" k="lit" o="none" type="way" v="yes" />
+    <tag id="105146823" k="name" o="none" type="way" v="Via Marino Torre" />
+    <tag id="105146823" k="oneway" o="none" type="way" v="yes" />
+    <tag id="105146823" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="34610809" k="highway" o="none" type="way" v="residential" />
+    <tag id="34610809" k="lit" o="none" type="way" v="yes" />
+    <tag id="34610809" k="name" o="none" type="way" v="Via Vespri" />
+    <tag id="34610809" k="oneway" o="none" type="way" v="yes" />
+    <tag id="34610809" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58297392" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297392" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297392" k="name" o="add" type="way" v="Via Ignazio Lampiasi" />
+    <tag id="58297392" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297392" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="94403885" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="94403885" k="name" o="none" type="way" v="Via Giovanni Battista Fardella" />
+    <tag id="94403885" k="oneway" o="none" type="way" v="yes" />
+    <tag id="94403885" k="ref" o="none" type="way" v="SP31" />
+    <tag id="58736373" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="58736373" k="lanes" o="add" type="way" v="2" />
+    <tag id="58736373" k="lit" o="add" type="way" v="yes" />
+    <tag id="58736373" k="name" o="modify" type="way" v="Corso Piersant Matarella" />
+    <tag id="58736373" k="oneway" o="none" type="way" v="yes" />
+    <tag id="58736373" k="ref" o="none" type="way" v="SP31" />
+    <tag id="58297414" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297414" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297414" k="name" o="add" type="way" v="Via del Pesco" />
+    <tag id="58297414" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297414" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27717553" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27717553" k="lit" o="add" type="way" v="yes" />
+    <tag id="27717553" k="name" o="add" type="way" v="Via degli Orti" />
+    <tag id="27717553" k="oneway" o="add" type="way" v="no" />
+    <tag id="27717553" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297395" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297395" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297395" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297395" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297424" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297424" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297424" k="name" o="add" type="way" v="Via C. M. Galizia" />
+    <tag id="58297424" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297424" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297406" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297406" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297406" k="name" o="add" type="way" v="Via L. Settembrini" />
+    <tag id="58297406" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297406" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297385" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297385" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297385" k="name" o="add" type="way" v="Via V. Gioberti" />
+    <tag id="58297385" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297385" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297390" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297390" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297390" k="name" o="add" type="way" v="Via Evangelisti di Blasi" />
+    <tag id="58297390" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297390" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297397" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297397" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297397" k="name" o="add" type="way" v="Via della Ginestra" />
+    <tag id="58297397" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297397" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27717641" k="highway" o="modify" type="way" v="residential" />
+    <tag id="27717641" k="lit" o="add" type="way" v="yes" />
+    <tag id="27717641" k="name" o="add" type="way" v="Via delle Vite" />
+    <tag id="27717641" k="oneway" o="add" type="way" v="no" />
+    <tag id="27717641" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297383" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297383" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297383" k="name" o="add" type="way" v="Via Villanova" />
+    <tag id="58297383" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297383" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105152198" k="highway" o="none" type="way" v="residential" />
+    <tag id="105152198" k="lit" o="none" type="way" v="yes" />
+    <tag id="105152198" k="name" o="none" type="way" v="Via Maggiore Angelo Bassi" />
+    <tag id="105152198" k="oneway" o="none" type="way" v="no" />
+    <tag id="105152198" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58294781" k="highway" o="none" type="way" v="residential" />
+    <tag id="58294781" k="lit" o="none" type="way" v="yes" />
+    <tag id="58294781" k="name" o="none" type="way" v="Via Nicol&#242; Riccio" />
+    <tag id="58294781" k="oneway" o="none" type="way" v="no" />
+    <tag id="58294781" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="105149654" k="highway" o="none" type="way" v="residential" />
+    <tag id="105149654" k="lit" o="none" type="way" v="yes" />
+    <tag id="105149654" k="name" o="none" type="way" v="Via Serraino Vulpitta" />
+    <tag id="105149654" k="oneway" o="none" type="way" v="no" />
+    <tag id="105149654" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58297402" k="highway" o="none" type="way" v="residential" />
+    <tag id="58297402" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297402" k="name" o="add" type="way" v="Via Segesta" />
+    <tag id="58297402" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297402" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297398" k="highway" o="none" type="way" v="residential" />
+    <tag id="58297398" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297398" k="name" o="add" type="way" v="Via Antonio Fogazzaro" />
+    <tag id="58297398" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297398" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297425" k="highway" o="none" type="way" v="residential" />
+    <tag id="58297425" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297425" k="name" o="add" type="way" v="Via Vito Beltrami" />
+    <tag id="58297425" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297425" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27717737" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27717737" k="lit" o="add" type="way" v="yes" />
+    <tag id="27717737" k="name" o="modify" type="way" v="Via Archi" />
+    <tag id="27717737" k="oneway" o="add" type="way" v="no" />
+    <tag id="27717737" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27717746" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27717746" k="lit" o="add" type="way" v="yes" />
+    <tag id="27717746" k="name" o="none" type="way" v="Via Nino Bixio" />
+    <tag id="27717746" k="oneway" o="add" type="way" v="no" />
+    <tag id="27717746" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27717736" k="highway" o="none" type="way" v="residential" />
+    <tag id="27717736" k="lit" o="none" type="way" v="yes" />
+    <tag id="27717736" k="name" o="none" type="way" v="Via Colonnello Romey" />
+    <tag id="27717736" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27717736" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58294779" k="highway" o="none" type="way" v="residential" />
+    <tag id="58294779" k="lit" o="none" type="way" v="yes" />
+    <tag id="58294779" k="name" o="none" type="way" v="Via Nausicaa" />
+    <tag id="58294779" k="oneway" o="none" type="way" v="yes" />
+    <tag id="58294779" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58294784" k="highway" o="none" type="way" v="residential" />
+    <tag id="58294784" k="lit" o="none" type="way" v="yes" />
+    <tag id="58294784" k="name" o="none" type="way" v="Via Livio Bassi" />
+    <tag id="58294784" k="oneway" o="none" type="way" v="yes" />
+    <tag id="58294784" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="94159112" k="leisure" o="none" type="way" v="pitch" />
+    <tag id="94159112" k="sport" o="none" type="way" v="soccer" />
+    <tag id="105152941" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="105152941" k="building" o="none" type="way" v="yes" />
+    <tag id="58297421" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297421" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297421" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297421" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297387" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297387" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297387" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297387" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297409" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297409" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297409" k="name" o="add" type="way" v="Via G. Agliastro" />
+    <tag id="58297409" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297409" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297411" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297411" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297411" k="name" o="add" type="way" v="Via Erice" />
+    <tag id="58297411" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297411" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297408" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297408" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297408" k="name" o="add" type="way" v="Via del Arancio" />
+    <tag id="58297408" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297408" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297418" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297418" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297418" k="name" o="add" type="way" v="Via della Zagara" />
+    <tag id="58297418" k="oneway" o="add" type="way" v="yes" />
+    <tag id="58297418" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297391" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297391" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297391" k="name" o="add" type="way" v="Via della Salvia" />
+    <tag id="58297391" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297391" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297393" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297393" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297393" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297393" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297394" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297394" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297394" k="name" o="add" type="way" v="Via Venere" />
+    <tag id="58297394" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297394" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297428" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297428" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297428" k="name" o="add" type="way" v="Via Mario Palizzolo" />
+    <tag id="58297428" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297428" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297403" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297403" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297403" k="name" o="add" type="way" v="Via della Bont&#224;" />
+    <tag id="58297403" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297403" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297404" k="highway" o="none" type="way" v="residential" />
+    <tag id="58297404" k="lit" o="none" type="way" v="yes" />
+    <tag id="58297404" k="name" o="none" type="way" v="Via della Pace" />
+    <tag id="58297404" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="58297396" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297396" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297396" k="name" o="add" type="way" v="Via M. Palizzolo" />
+    <tag id="58297396" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297396" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297427" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="58297427" k="building" o="add" type="way" v="yes" />
+    <tag id="58297407" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297407" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297407" k="name" o="add" type="way" v="Via del Pugnatore" />
+    <tag id="58297407" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297407" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105153038" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="105153038" k="name" o="none" type="way" v="Lunagomare Dante Alighieri" />
+    <tag id="105153038" k="ref" o="none" type="way" v="SP20" />
+    <tag id="94403896" k="highway" o="modify" type="way" v="residential" />
+    <tag id="94403896" k="lit" o="add" type="way" v="yes" />
+    <tag id="94403896" k="name" o="add" type="way" v="Via Eden" />
+    <tag id="94403896" k="oneway" o="add" type="way" v="no" />
+    <tag id="94403896" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297420" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297420" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297420" k="name" o="add" type="way" v="Via Passo Unione" />
+    <tag id="58297420" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297420" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737251" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737251" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737251" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737251" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737255" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737255" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737255" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737255" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737247" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737247" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737247" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737247" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737250" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737250" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737250" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737250" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737257" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737257" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737257" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737257" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737242" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737242" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737242" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737242" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737246" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737246" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737246" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737246" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737243" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737243" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737243" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737243" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618924" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618924" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618924" k="name" o="add" type="way" v="Via del Legno" />
+    <tag id="98618924" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618924" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737249" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737249" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737249" k="name" o="add" type="way" v="Via del Ferro" />
+    <tag id="98737249" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737249" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618930" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618930" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618930" k="name" o="add" type="way" v="Via Oresti" />
+    <tag id="98618930" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618930" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737253" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737253" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737253" k="name" o="add" type="way" v="Via Martogna" />
+    <tag id="98737253" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737253" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98767633" k="highway" o="none" type="way" v="residential" />
+    <tag id="98767633" k="lit" o="add" type="way" v="yes" />
+    <tag id="98767633" k="name" o="add" type="way" v="Via dei Glicini" />
+    <tag id="98767633" k="oneway" o="add" type="way" v="no" />
+    <tag id="98767633" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618925" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="98618925" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618925" k="name" o="add" type="way" v="Via Pantelleria" />
+    <tag id="98618925" k="oneway" o="add" type="way" v="yes" />
+    <tag id="98618925" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297386" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297386" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297386" k="name" o="add" type="way" v="Via Limone" />
+    <tag id="58297386" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297386" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618926" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618926" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618926" k="name" o="add" type="way" v="Via del Salice" />
+    <tag id="98618926" k="oneway" o="add" type="way" v="yes" />
+    <tag id="98618926" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98767666" k="highway" o="none" type="way" v="residential" />
+    <tag id="98767666" k="lit" o="add" type="way" v="yes" />
+    <tag id="98767666" k="oneway" o="add" type="way" v="no" />
+    <tag id="98767666" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98767685" k="highway" o="none" type="way" v="residential" />
+    <tag id="98767685" k="lit" o="add" type="way" v="yes" />
+    <tag id="98767685" k="oneway" o="add" type="way" v="no" />
+    <tag id="98767685" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618931" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618931" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618931" k="name" o="add" type="way" v="Via Pietro Basciano" />
+    <tag id="98618931" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618931" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618933" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618933" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618933" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618933" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618927" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618927" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618927" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618927" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618934" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618934" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618934" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618934" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737256" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737256" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737256" k="name" o="add" type="way" v="Via della Quercia" />
+    <tag id="98737256" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737256" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98767688" k="highway" o="none" type="way" v="residential" />
+    <tag id="98767688" k="lit" o="add" type="way" v="yes" />
+    <tag id="98767688" k="oneway" o="add" type="way" v="no" />
+    <tag id="98767688" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27717735" k="highway" o="none" type="way" v="residential" />
+    <tag id="27717735" k="lit" o="add" type="way" v="yes" />
+    <tag id="27717735" k="oneway" o="add" type="way" v="no" />
+    <tag id="27717735" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58297423" k="highway" o="modify" type="way" v="residential" />
+    <tag id="58297423" k="lit" o="add" type="way" v="yes" />
+    <tag id="58297423" k="oneway" o="add" type="way" v="no" />
+    <tag id="58297423" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98618929" k="highway" o="none" type="way" v="residential" />
+    <tag id="98618929" k="lit" o="add" type="way" v="yes" />
+    <tag id="98618929" k="name" o="add" type="way" v="Via del Cipresso" />
+    <tag id="98618929" k="oneway" o="add" type="way" v="no" />
+    <tag id="98618929" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="27496943" k="highway" o="modify" type="way" v="residential" />
+    <tag id="27496943" k="lit" o="add" type="way" v="yes" />
+    <tag id="27496943" k="oneway" o="add" type="way" v="no" />
+    <tag id="27496943" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="98737252" k="highway" o="none" type="way" v="residential" />
+    <tag id="98737252" k="lit" o="add" type="way" v="yes" />
+    <tag id="98737252" k="name" o="add" type="way" v="Via Egadi" />
+    <tag id="98737252" k="oneway" o="add" type="way" v="no" />
+    <tag id="98737252" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="94403892" k="highway" o="none" type="way" v="primary" />
+    <tag id="94403892" k="name" o="modify" type="way" v="Via Conte Agostino Pepoli" />
+    <tag id="94403892" k="ref" o="none" type="way" v="SS113" />
+    <tag id="906878" k="name" o="none" type="relation" v="Strada Provinciale 31 Trapani - Martogna - Erice" />
+    <tag id="906878" k="ref" o="none" type="relation" v="SP31" />
+    <tag id="906878" k="route" o="none" type="relation" v="road" />
+    <tag id="906878" k="type" o="none" type="relation" v="route" />
+    <tag id="906877" k="name" o="none" type="relation" v="Via Giovanni Battista Fardella" />
+    <tag id="906877" k="route" o="none" type="relation" v="road" />
+    <tag id="906877" k="type" o="none" type="relation" v="route" />
+  </body>
+</changeset>

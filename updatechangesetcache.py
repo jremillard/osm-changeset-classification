@@ -30,7 +30,7 @@ if ( False) :
 for i,cs in enumerate( changeSets):
     if ( len(changeSetTrainDb[i][2]) > 0 and changeSetTrainDb[i][2] == 'Y' ):
         if ( cs.cached() == False):        
-            print("downloading {}".format(cs.id))
+            print("downloading validated changeset {}".format(cs.id))
             cs.download()
             cs.save()
             downloads += 1

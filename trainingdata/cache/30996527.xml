@@ -1,0 +1,27 @@
+<changeset id="30996527" schema="2">
+  <counts nodesAdded="17" nodesDeleted="36" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <meta>
+    <tag k="bot" v="yes" />
+    <tag k="comment" v="Fixing boundary of Dobronice (relation 432680)." />
+    <tag k="created_by" v="osmapis/0.9.3" />
+    <tag k="source" v="cuzk:ruian" />
+    <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
+  </meta>
+  <body>
+    <tag id="344248659" k="admin_level" o="add" type="way" v="10" />
+    <tag id="344248659" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="344248659" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="432680" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="432680" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="432680" k="name" o="none" type="relation" v="Dobronice" />
+    <tag id="432680" k="ref" o="none" type="relation" v="765236" />
+    <tag id="432680" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="432680" k="type" o="none" type="relation" v="boundary" />
+    <tag id="427915" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="427915" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="427915" k="name" o="none" type="relation" v="Tav&#237;kovice" />
+    <tag id="427915" k="ref" o="none" type="relation" v="765252" />
+    <tag id="427915" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="427915" k="type" o="none" type="relation" v="boundary" />
+  </body>
+</changeset>

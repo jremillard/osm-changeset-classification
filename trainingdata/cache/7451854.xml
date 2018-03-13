@@ -1,0 +1,642 @@
+<changeset id="7451854" schema="2">
+  <counts nodesAdded="85" nodesDeleted="12" nodesModified="16" relationsAdded="11" relationsDeleted="4" relationsModified="2" waysAdded="14" waysDeleted="5" waysModified="28" />
+  <meta>
+    <tag k="build" v="25217" />
+    <tag k="comment" v="Bug # 158051 fix - Splitting more of Portola Pkwy to avoid unnecessary turn direction while going straight" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="0.5" />
+  </meta>
+  <body>
+    <tag id="102651728" k="alt_name" o="add" type="way" v="Bee Canyon Road" />
+    <tag id="102651728" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="102651728" k="name" o="add" type="way" v="Bee Canyon Access Road" />
+    <tag id="102651728" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102651728" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102651728" k="tiger:name_base" o="add" type="way" v="Bee Canyon Access" />
+    <tag id="102651728" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="102651728" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102651728" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102651728" k="tiger:tlid" o="add" type="way" v="144406068:144406072:144406063:144406069:144406073" />
+    <tag id="102651729" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102651729" k="hgv" o="add" type="way" v="designated" />
+    <tag id="102651729" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102651729" k="lanes" o="add" type="way" v="2" />
+    <tag id="102651729" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="102651729" k="name" o="add" type="way" v="Sand Canyon Avenue" />
+    <tag id="102651729" k="note" o="add" type="way" v="Road moved NWly from USGS image. Seems correct according to Yahoo (that NWly parcel had LL adjust)" />
+    <tag id="102651729" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102651729" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102651729" k="source:hgv" o="add" type="way" v="survey;image" />
+    <tag id="102651729" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102651729" k="source_ref" o="add" type="way" v="AM909_DSCV0605" />
+    <tag id="102651729" k="source_ref:hgv" o="add" type="way" v="AM909_DSCV0810" />
+    <tag id="102651729" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0607" />
+    <tag id="102651729" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102651729" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102651729" k="tiger:name_base" o="add" type="way" v="Sand Canyon" />
+    <tag id="102651729" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="102651729" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="102651729" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102651729" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102651729" k="tiger:tlid" o="add" type="way" v="144060491:144060492:144106216" />
+    <tag id="102651729" k="tiger:zip_left" o="add" type="way" v="92618" />
+    <tag id="102651729" k="tiger:zip_right" o="add" type="way" v="92612" />
+    <tag id="102651730" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102651730" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102651730" k="lanes" o="add" type="way" v="2" />
+    <tag id="102651730" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="102651730" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102651730" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102651730" k="source" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102651730" k="source:lanes" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102651730" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102651730" k="source_ref" o="add" type="way" v="AM909_DSCV0574" />
+    <tag id="102651730" k="source_ref:lanes" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102651730" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102651730" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102651730" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102651730" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102651730" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102651730" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102651730" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102651730" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102651730" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="1458001" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="1458001" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458002" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="1458002" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458003" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="1458003" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458004" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="1458004" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458005" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="1458005" k="type" o="add" type="relation" v="restriction" />
+    <tag id="102652104" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102652104" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652104" k="lanes" o="add" type="way" v="2" />
+    <tag id="102652104" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="102652104" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652104" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652104" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652104" k="source:lanes" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102652104" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652104" k="source_ref" o="add" type="way" v="AM909_DSCV0606" />
+    <tag id="102652104" k="source_ref:lanes" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102652104" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102652104" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652104" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652104" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652104" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652104" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102652104" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652104" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652104" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="102652105" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102652105" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652105" k="lanes" o="add" type="way" v="2" />
+    <tag id="102652105" k="maxspeed" o="add" type="way" v="50 mph" />
+    <tag id="102652105" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652105" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652105" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652105" k="source:lanes" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102652105" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652105" k="source_ref" o="add" type="way" v="AM909_DSCV0606" />
+    <tag id="102652105" k="source_ref:lanes" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102652105" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0619" />
+    <tag id="102652105" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652105" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652105" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652105" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652105" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102652105" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652105" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652105" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="102652306" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="102652306" k="name" o="add" type="way" v="Arrowhead" />
+    <tag id="102652306" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652306" k="source_ref" o="add" type="way" v="AM909_DSCV0621" />
+    <tag id="102652311" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="102652311" k="name" o="add" type="way" v="Ridge Valley" />
+    <tag id="102652311" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652311" k="source_ref" o="add" type="way" v="AM909_DSCV0625" />
+    <tag id="1458009" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="1458009" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458010" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="1458010" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458011" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="1458011" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458012" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="1458012" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1458013" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="1458013" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1185560665" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="1185560665" k="source" o="add" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="1185560665" k="source_ref" o="add" type="node" v="AM909_DSCV0631;AM909_DSCV0632;AM909_DSCV0633;AM909_DSCV0634" />
+    <tag id="1185560676" k="source" o="add" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="1185560676" k="source_ref" o="add" type="node" v="AM909_DSCV0638" />
+    <tag id="102652547" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102652547" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652547" k="lanes" o="add" type="way" v="2" />
+    <tag id="102652547" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="102652547" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652547" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652547" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652547" k="source:lanes" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102652547" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652547" k="source_ref" o="add" type="way" v="AM909_DSCV0606" />
+    <tag id="102652547" k="source_ref:lanes" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102652547" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="102652547" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652547" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652547" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652547" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652547" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102652547" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652547" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652547" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="1185566240" k="description" o="add" type="node" v="Future street" />
+    <tag id="1185566240" k="source" o="add" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="1185566240" k="source_ref" o="add" type="node" v="AM909_DSCV0646" />
+    <tag id="102652921" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652921" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="102652921" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652921" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652921" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652921" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="102652921" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652921" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652921" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652921" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652921" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102652921" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652921" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652921" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="102652922" k="access" o="add" type="way" v="private" />
+    <tag id="102652922" k="description" o="add" type="way" v="Stub only - future street" />
+    <tag id="102652922" k="highway" o="add" type="way" v="construction" />
+    <tag id="102652922" k="name" o="add" type="way" v="Native Spring" />
+    <tag id="102652922" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652922" k="source_ref" o="add" type="way" v="AM909_DSCV0655;AM909_DSCV0656" />
+    <tag id="102652924" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102652924" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652924" k="lanes" o="add" type="way" v="2" />
+    <tag id="102652924" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="102652924" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652924" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652924" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652924" k="source:lanes" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102652924" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652924" k="source_ref" o="add" type="way" v="AM909_DSCV0606" />
+    <tag id="102652924" k="source_ref:lanes" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102652924" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="102652924" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652924" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652924" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652924" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652924" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102652924" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652924" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652924" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="102652929" k="bridge" o="add" type="way" v="yes" />
+    <tag id="102652929" k="bridge_name" o="add" type="way" v="Portola Parkway OC" />
+    <tag id="102652929" k="bridge_ref" o="add" type="way" v="241/ORA/55-711" />
+    <tag id="102652929" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652929" k="is_in:state_code" o="add" type="way" v="CA" />
+    <tag id="102652929" k="layer" o="add" type="way" v="1" />
+    <tag id="102652929" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="102652929" k="milepost:county" o="add" type="way" v="24.98" />
+    <tag id="102652929" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652929" k="note" o="add" type="way" v="Bridge ref pic from CA-241 North" />
+    <tag id="102652929" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652929" k="source:bridge" o="add" type="way" v="yahoo_imagery;survey;image;CDOT" />
+    <tag id="102652929" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652929" k="source_ref:bridge" o="add" type="way" v="AM909_DSCV1094" />
+    <tag id="102652929" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="102652929" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652929" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652929" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652929" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652929" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652929" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652929" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="1458020" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="1458020" k="type" o="add" type="relation" v="restriction" />
+    <tag id="122813746" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="122813746" k="source" o="none" type="node" v="usgs_imagery;survey;image" />
+    <tag id="122813746" k="source_ref" o="none" type="node" v="AM909_DSCV0600;AM909_DSCV0601;AM909_DSCV0603" />
+    <tag id="122813736" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="122813736" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="122813736" k="source_ref" o="none" type="node" v="AM909_DSCV0605;AM909_DSCV0606;AM909_DSCV0617" />
+    <tag id="122638364" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="122638364" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="122638364" k="source_ref" o="none" type="node" v="AM909_DSCV0625;AM909_DSCV0626;AM909_DSCV0627;AM909_DSCV0659" />
+    <tag id="752185083" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="752185083" k="source_ref" o="none" type="node" v="AM909_DSCV0638" />
+    <tag id="697179300" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="697179300" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="697179300" k="source_ref" o="none" type="node" v="AM909_DSCV0621;AM909_DSCV0622;AM909_DSCV0624" />
+    <tag id="697179311" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="697179311" k="source_ref" o="none" type="node" v="AM909_DSCV0630" />
+    <tag id="752184978" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="752184978" k="source_ref" o="none" type="node" v="AM909_DSCV0656" />
+    <tag id="752185029" k="description" o="none" type="node" v="Future street" />
+    <tag id="752185029" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="752185029" k="source_ref" o="none" type="node" v="AM909_DSCV0646" />
+    <tag id="697179314" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="697179314" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="697179314" k="source_ref" o="none" type="node" v="AM909_DSCV0631;AM909_DSCV0632;AM909_DSCV0633;AM909_DSCV0634" />
+    <tag id="122813664" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="122813664" k="source_ref" o="none" type="node" v="AM909_DSCV0648" />
+    <tag id="588181399" k="barrier" o="none" type="node" v="toll_booth" />
+    <tag id="588181399" k="description" o="none" type="node" v="FasTrak or exact change only." />
+    <tag id="588181399" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="588181399" k="source_ref" o="none" type="node" v="AM909_DSCV1093" />
+    <tag id="1172668537" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1172668537" k="source" o="none" type="node" v="survey;image" />
+    <tag id="1172668537" k="source_ref" o="none" type="node" v="AM909_DSCV0610;AM909_DSCV0613;AM909_DSCV0614" />
+    <tag id="1172668590" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1157749677" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1157749677" k="source" o="none" type="node" v="survey;image" />
+    <tag id="1157749677" k="source_ref" o="none" type="node" v="AM909_DSCV0610;AM909_DSCV0613;AM909_DSCV0614" />
+    <tag id="1172668584" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1157749672" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1157749672" k="source" o="none" type="node" v="yahoo_imagery;survey;image" />
+    <tag id="1157749672" k="source_ref" o="none" type="node" v="AM909_DSCV0810;AM909_DSCV0811;AM909_DSCV0812;AM909_DSCV0813" />
+    <tag id="102651731" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102651731" k="hgv" o="add" type="way" v="designated" />
+    <tag id="102651731" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102651731" k="lanes" o="add" type="way" v="2" />
+    <tag id="102651731" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="102651731" k="name" o="add" type="way" v="Sand Canyon Avenue" />
+    <tag id="102651731" k="note" o="add" type="way" v="Road moved NWly from USGS image. Seems correct according to Yahoo (that NWly parcel had LL adjust)" />
+    <tag id="102651731" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102651731" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102651731" k="source:hgv" o="add" type="way" v="survey;image" />
+    <tag id="102651731" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102651731" k="source_ref" o="add" type="way" v="AM909_DSCV0605" />
+    <tag id="102651731" k="source_ref:hgv" o="add" type="way" v="AM909_DSCV0810" />
+    <tag id="102651731" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0607" />
+    <tag id="102651731" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102651731" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102651731" k="tiger:name_base" o="add" type="way" v="Sand Canyon" />
+    <tag id="102651731" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="102651731" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="102651731" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102651731" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102651731" k="tiger:tlid" o="add" type="way" v="144060491:144060492:144106216" />
+    <tag id="102651731" k="tiger:zip_left" o="add" type="way" v="92618" />
+    <tag id="102651731" k="tiger:zip_right" o="add" type="way" v="92612" />
+    <tag id="102652297" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="102652297" k="highway" o="add" type="way" v="secondary" />
+    <tag id="102652297" k="lanes" o="add" type="way" v="2" />
+    <tag id="102652297" k="maxspeed" o="add" type="way" v="50 mph" />
+    <tag id="102652297" k="name" o="add" type="way" v="Portola Parkway" />
+    <tag id="102652297" k="oneway" o="add" type="way" v="yes" />
+    <tag id="102652297" k="source" o="add" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="102652297" k="source:lanes" o="add" type="way" v="usgs_imagery;survey;image" />
+    <tag id="102652297" k="source:maxspeed" o="add" type="way" v="survey;image" />
+    <tag id="102652297" k="source_ref" o="add" type="way" v="AM909_DSCV0606" />
+    <tag id="102652297" k="source_ref:lanes" o="add" type="way" v="AM909_DSCV0599" />
+    <tag id="102652297" k="source_ref:maxspeed" o="add" type="way" v="AM909_DSCV0619" />
+    <tag id="102652297" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="102652297" k="tiger:county" o="add" type="way" v="Orange, CA" />
+    <tag id="102652297" k="tiger:name_base" o="add" type="way" v="Portola" />
+    <tag id="102652297" k="tiger:name_type" o="add" type="way" v="Pky" />
+    <tag id="102652297" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="102652297" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="102652297" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="102652297" k="tiger:tlid" o="add" type="way" v="144123336:144423903" />
+    <tag id="100158983" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="100158983" k="highway" o="none" type="way" v="secondary" />
+    <tag id="100158983" k="lanes" o="modify" type="way" v="2" />
+    <tag id="100158983" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="100158983" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="100158983" k="oneway" o="add" type="way" v="yes" />
+    <tag id="100158983" k="source" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="100158983" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="100158983" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="100158983" k="source_ref" o="none" type="way" v="AM909_DSCV0574" />
+    <tag id="100158983" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="100158983" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="100158983" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="100158983" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="100158983" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="100158983" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="100158983" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="100158983" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="100158983" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="100158983" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="101550608" k="highway" o="none" type="way" v="residential" />
+    <tag id="101550608" k="name" o="none" type="way" v="Encore" />
+    <tag id="101550608" k="oneway" o="modify" type="way" v="no" />
+    <tag id="101550608" k="source" o="none" type="way" v="survey" />
+    <tag id="101550616" k="highway" o="none" type="way" v="residential" />
+    <tag id="101550616" k="name" o="none" type="way" v="Honors" />
+    <tag id="101550616" k="oneway" o="none" type="way" v="no" />
+    <tag id="101550616" k="source" o="none" type="way" v="survey" />
+    <tag id="101549620" k="building" o="none" type="way" v="yes" />
+    <tag id="101549620" k="leisure" o="none" type="way" v="sport_centre" />
+    <tag id="60100739" k="alt_name" o="none" type="way" v="Bee Canyon Road" />
+    <tag id="60100739" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="60100739" k="name" o="none" type="way" v="Bee Canyon Access Road" />
+    <tag id="60100739" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60100739" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60100739" k="tiger:name_base" o="none" type="way" v="Bee Canyon Access" />
+    <tag id="60100739" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="60100739" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60100739" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60100739" k="tiger:tlid" o="none" type="way" v="144406068:144406072:144406063:144406069:144406073" />
+    <tag id="99271501" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="99271501" k="highway" o="none" type="way" v="secondary" />
+    <tag id="99271501" k="lanes" o="none" type="way" v="2" />
+    <tag id="99271501" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="99271501" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="99271501" k="oneway" o="none" type="way" v="yes" />
+    <tag id="99271501" k="source" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="99271501" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="99271501" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="99271501" k="source_ref" o="none" type="way" v="AM909_DSCV0574" />
+    <tag id="99271501" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="99271501" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="99271501" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="99271501" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="99271501" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="99271501" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="99271501" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="99271501" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="99271501" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="99271501" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="60428676" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60428676" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60428676" k="lanes" o="modify" type="way" v="2" />
+    <tag id="60428676" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="60428676" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60428676" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60428676" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428676" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60428676" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60428676" k="source_ref" o="none" type="way" v="AM909_DSCV0606" />
+    <tag id="60428676" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60428676" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0619" />
+    <tag id="60428676" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428676" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60428676" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60428676" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60428676" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60428676" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60428676" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60428676" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="100158954" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="100158954" k="hgv" o="none" type="way" v="designated" />
+    <tag id="100158954" k="highway" o="none" type="way" v="secondary" />
+    <tag id="100158954" k="lanes" o="none" type="way" v="2" />
+    <tag id="100158954" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="100158954" k="name" o="none" type="way" v="Sand Canyon Avenue" />
+    <tag id="100158954" k="note" o="none" type="way" v="Road moved NWly from USGS image. Seems correct according to Yahoo (that NWly parcel had LL adjust)" />
+    <tag id="100158954" k="oneway" o="none" type="way" v="yes" />
+    <tag id="100158954" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="100158954" k="source:hgv" o="none" type="way" v="survey;image" />
+    <tag id="100158954" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="100158954" k="source_ref" o="none" type="way" v="AM909_DSCV0605" />
+    <tag id="100158954" k="source_ref:hgv" o="none" type="way" v="AM909_DSCV0810" />
+    <tag id="100158954" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0607" />
+    <tag id="100158954" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="100158954" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="100158954" k="tiger:name_base" o="none" type="way" v="Sand Canyon" />
+    <tag id="100158954" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="100158954" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="100158954" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="100158954" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="100158954" k="tiger:tlid" o="none" type="way" v="144060491:144060492:144106216" />
+    <tag id="100158954" k="tiger:zip_left" o="none" type="way" v="92618" />
+    <tag id="100158954" k="tiger:zip_right" o="none" type="way" v="92612" />
+    <tag id="60428677" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60428677" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60428677" k="lanes" o="modify" type="way" v="2" />
+    <tag id="60428677" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="60428677" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60428677" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60428677" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428677" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60428677" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60428677" k="source_ref" o="none" type="way" v="AM909_DSCV0606" />
+    <tag id="60428677" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60428677" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="60428677" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428677" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60428677" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60428677" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60428677" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60428677" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60428677" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60428677" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="60428687" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60428687" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60428687" k="lanes" o="modify" type="way" v="2" />
+    <tag id="60428687" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="60428687" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60428687" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60428687" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428687" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60428687" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60428687" k="source_ref" o="none" type="way" v="AM909_DSCV0606" />
+    <tag id="60428687" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60428687" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0619" />
+    <tag id="60428687" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428687" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60428687" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60428687" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60428687" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60428687" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60428687" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60428687" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="60428688" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60428688" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60428688" k="lanes" o="none" type="way" v="5" />
+    <tag id="60428688" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="60428688" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60428688" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428688" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60428688" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60428688" k="source_ref" o="none" type="way" v="AM909_DSCV0606" />
+    <tag id="60428688" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60428688" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="60428688" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428688" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60428688" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60428688" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60428688" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60428688" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60428688" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60428688" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="60100740" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60100740" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60100740" k="lanes" o="modify" type="way" v="2" />
+    <tag id="60100740" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="60100740" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60100740" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60100740" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60100740" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60100740" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60100740" k="source_ref" o="none" type="way" v="AM909_DSCV0606" />
+    <tag id="60100740" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60100740" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="60100740" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60100740" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60100740" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60100740" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60100740" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60100740" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60100740" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60100740" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="60428679" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60428679" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60428679" k="lanes" o="modify" type="way" v="4" />
+    <tag id="60428679" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="60428679" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60428679" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60428679" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428679" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60428679" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60428679" k="source_ref" o="none" type="way" v="AM909_DSCV0606" />
+    <tag id="60428679" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60428679" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60428679" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428679" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60428679" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60428679" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60428679" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60428679" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60428679" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60428679" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="60420063" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="60420063" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60420063" k="lanes" o="modify" type="way" v="2" />
+    <tag id="60420063" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="60420063" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60420063" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60420063" k="source" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60420063" k="source:lanes" o="none" type="way" v="usgs_imagery;survey;image" />
+    <tag id="60420063" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60420063" k="source_ref" o="none" type="way" v="AM909_DSCV0574" />
+    <tag id="60420063" k="source_ref:lanes" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60420063" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0599" />
+    <tag id="60420063" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60420063" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60420063" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60420063" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60420063" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="60420063" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60420063" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60420063" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="55477304" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="55477304" k="name" o="none" type="way" v="Ridge Valley" />
+    <tag id="55477304" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="55477304" k="source_ref" o="none" type="way" v="AM909_DSCV0625" />
+    <tag id="58781655" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="58781655" k="name" o="none" type="way" v="Arrowhead" />
+    <tag id="58781655" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="58781655" k="source_ref" o="none" type="way" v="AM909_DSCV0621" />
+    <tag id="55477291" k="highway" o="none" type="way" v="residential" />
+    <tag id="55477291" k="name" o="none" type="way" v="Silverado" />
+    <tag id="55477291" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="55477291" k="source_ref" o="none" type="way" v="AM909_DSCV0630" />
+    <tag id="60428682" k="access" o="none" type="way" v="private" />
+    <tag id="60428682" k="description" o="none" type="way" v="Stub only - future street" />
+    <tag id="60428682" k="highway" o="none" type="way" v="construction" />
+    <tag id="60428682" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428682" k="source_ref" o="none" type="way" v="AM909_DSCV0638;AM909_DSCV0658" />
+    <tag id="60428678" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="60428678" k="lanes" o="none" type="way" v="5" />
+    <tag id="60428678" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="60428678" k="name" o="none" type="way" v="Portola Springs" />
+    <tag id="60428678" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428678" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60428678" k="source_ref" o="none" type="way" v="AM909_DSCV0631" />
+    <tag id="60428678" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0781" />
+    <tag id="60100756" k="bridge" o="none" type="way" v="yes" />
+    <tag id="60100756" k="bridge_name" o="none" type="way" v="Portola Parkway OC" />
+    <tag id="60100756" k="bridge_ref" o="none" type="way" v="241/ORA/55-711" />
+    <tag id="60100756" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60100756" k="is_in:state_code" o="none" type="way" v="CA" />
+    <tag id="60100756" k="layer" o="none" type="way" v="1" />
+    <tag id="60100756" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="60100756" k="milepost:county" o="none" type="way" v="24.98" />
+    <tag id="60100756" k="name" o="none" type="way" v="Portola Parkway" />
+    <tag id="60100756" k="note" o="none" type="way" v="Bridge ref pic from CA-241 North" />
+    <tag id="60100756" k="oneway" o="add" type="way" v="yes" />
+    <tag id="60100756" k="source:bridge" o="none" type="way" v="yahoo_imagery;survey;image;CDOT" />
+    <tag id="60100756" k="source:maxspeed" o="none" type="way" v="survey;image" />
+    <tag id="60100756" k="source_ref:bridge" o="none" type="way" v="AM909_DSCV1094" />
+    <tag id="60100756" k="source_ref:maxspeed" o="none" type="way" v="AM909_DSCV0643;AM909_DSCV0654" />
+    <tag id="60100756" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60100756" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="60100756" k="tiger:name_base" o="none" type="way" v="Portola" />
+    <tag id="60100756" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="60100756" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="60100756" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="60100756" k="tiger:tlid" o="none" type="way" v="144123336:144423903" />
+    <tag id="31648441" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="31648441" k="name" o="none" type="way" v="CA-241 North onramp" />
+    <tag id="31648441" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31648441" k="ref" o="none" type="way" v="from Portola Parkway" />
+    <tag id="31648441" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="31648441" k="source_ref" o="none" type="way" v="AM909_DSCV0651" />
+    <tag id="31648446" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="31648446" k="name" o="none" type="way" v="CA-241 South onramp" />
+    <tag id="31648446" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31648446" k="ref" o="none" type="way" v="from Portola Parkway" />
+    <tag id="31648446" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="31648446" k="source_ref" o="none" type="way" v="AM909_DSCV0647" />
+    <tag id="31648451" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="31648451" k="name" o="none" type="way" v="Highway 241" />
+    <tag id="31648451" k="name_1" o="none" type="way" v="133" />
+    <tag id="31648451" k="name_2" o="none" type="way" v="Eastern Transportation Corrido" />
+    <tag id="31648451" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31648428" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="31648428" k="name" o="none" type="way" v="Portola Parkway offramp" />
+    <tag id="31648428" k="name_1" o="none" type="way" v="133" />
+    <tag id="31648428" k="name_2" o="none" type="way" v="Eastern Transportation Corrido" />
+    <tag id="31648428" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31648428" k="ref" o="none" type="way" v="Exit 25 from CA-241 North" />
+    <tag id="31648428" k="source" o="none" type="way" v="yahoo_imagery;survey;image;CDOT" />
+    <tag id="31648428" k="source_ref" o="none" type="way" v="AM909_DSCV1093" />
+    <tag id="60428681" k="access" o="none" type="way" v="private" />
+    <tag id="60428681" k="description" o="none" type="way" v="Stub only - future street" />
+    <tag id="60428681" k="highway" o="none" type="way" v="construction" />
+    <tag id="60428681" k="name" o="none" type="way" v="Prospect" />
+    <tag id="60428681" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428681" k="source_ref" o="none" type="way" v="AM909_DSCV0646;AM909_DSCV0652" />
+    <tag id="60428686" k="access" o="none" type="way" v="private" />
+    <tag id="60428686" k="description" o="none" type="way" v="Stub only - future street" />
+    <tag id="60428686" k="highway" o="none" type="way" v="construction" />
+    <tag id="60428686" k="name" o="none" type="way" v="Native Spring" />
+    <tag id="60428686" k="source" o="none" type="way" v="yahoo_imagery;survey;image" />
+    <tag id="60428686" k="source_ref" o="none" type="way" v="AM909_DSCV0655;AM909_DSCV0656" />
+    <tag id="58864527" k="highway" o="none" type="way" v="motorway" />
+    <tag id="58864527" k="name" o="none" type="way" v="Foothill Transportation Corridor" />
+    <tag id="58864527" k="oneway" o="none" type="way" v="yes" />
+    <tag id="58864527" k="ref" o="none" type="way" v="CA 241" />
+    <tag id="58864527" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="58864527" k="tiger:county" o="none" type="way" v="Orange, CA" />
+    <tag id="58864527" k="tiger:name_base" o="none" type="way" v="Highway 241" />
+    <tag id="58864527" k="tiger:name_base_1" o="none" type="way" v="133" />
+    <tag id="58864527" k="tiger:name_base_2" o="none" type="way" v="Eastern Transportation Corrido" />
+    <tag id="58864527" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="58864527" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="58864527" k="tiger:tlid" o="none" type="way" v="144140879:144424456:144128327:144137278:144137279:144132767" />
+    <tag id="58864527" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-96b38365-dd2d-4eab-8ec1-33441607e7c5" />
+    <tag id="58864527" k="toll" o="none" type="way" v="yes" />
+    <tag id="101549632" k="FIXME" o="none" type="way" v="survey me; stub" />
+    <tag id="101549632" k="highway" o="none" type="way" v="residential" />
+    <tag id="101549632" k="name" o="none" type="way" v="Saints Way" />
+    <tag id="939615" k="restriction" o="none" type="relation" v="no_u_turn" />
+    <tag id="939615" k="source" o="none" type="relation" v="yahoo_imagery;survey;image" />
+    <tag id="939615" k="source_ref" o="none" type="relation" v="AM909_DSCV0606" />
+    <tag id="939615" k="type" o="none" type="relation" v="restriction" />
+    <tag id="939683" k="restriction" o="none" type="relation" v="no_u_turn" />
+    <tag id="939683" k="source" o="none" type="relation" v="yahoo_imagery;survey;image" />
+    <tag id="939683" k="source_ref" o="none" type="relation" v="AM909_DSCV0622" />
+    <tag id="939683" k="type" o="none" type="relation" v="restriction" />
+  </body>
+</changeset>

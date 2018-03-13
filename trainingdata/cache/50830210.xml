@@ -1,0 +1,16 @@
+<changeset id="50830210" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Adds missing delivery tags for motor_vehicles. Delivery rules are defined bare the municipality here: https://www.aalborg.dk/media/5517621/koerselsretning-i-gaagaderne_2016.pdf" />
+    <tag k="created_by" v="iD 2.3.2" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="SDFE aerial imagery" />
+    <tag k="locale" v="en" />
+  </meta>
+  <body>
+    <tag id="72571694" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="72571694" k="motor_vehicle:conditional" o="none" type="way" v="delivery @ (05:00-11:00)" />
+    <tag id="72571694" k="name" o="none" type="way" v="Bredegade" />
+    <tag id="72571694" k="oneway" o="add" type="way" v="yes" />
+  </body>
+</changeset>

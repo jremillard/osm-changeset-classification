@@ -1,0 +1,306 @@
+<changeset id="8507365" schema="2">
+  <counts nodesAdded="27" nodesDeleted="174" nodesModified="18" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="33" waysModified="28" />
+  <meta>
+    <tag k="comment" v="Mapdust bug 217920; Align to Bing aerial, remove duplicates, routing fixes" />
+    <tag k="created_by" v="JOSM/1.5 (4064 en)" />
+  </meta>
+  <body>
+    <tag id="118629412" k="highway" o="add" type="way" v="residential" />
+    <tag id="118629412" k="name" o="add" type="way" v="Cumnor Rd" />
+    <tag id="118629412" k="name_1" o="add" type="way" v="N Cumnor Rd" />
+    <tag id="118629412" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="118629412" k="tiger:county" o="add" type="way" v="DuPage, IL" />
+    <tag id="118629412" k="tiger:name_base" o="add" type="way" v="Cumnor" />
+    <tag id="118629412" k="tiger:name_base_1" o="add" type="way" v="Cumnor" />
+    <tag id="118629412" k="tiger:name_direction_prefix_1" o="add" type="way" v="N" />
+    <tag id="118629412" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="118629412" k="tiger:name_type_1" o="add" type="way" v="Rd" />
+    <tag id="118629412" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="118629412" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="118629412" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="118629412" k="tiger:tlid" o="add" type="way" v="112547265:112547282" />
+    <tag id="118629412" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="118629412" k="tiger:zip_left" o="add" type="way" v="60515" />
+    <tag id="118629412" k="tiger:zip_right" o="add" type="way" v="60559" />
+    <tag id="237675375" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237901291" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237901664" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237901689" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237675541" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237882710" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="30231816" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="237869445" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237899197" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237882715" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237901281" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="29865993" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="237900021" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237675490" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237675539" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237723949" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="237869441" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="237675545" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="34881647" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="34881647" k="lanes" o="none" type="way" v="1" />
+    <tag id="34881647" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22105972" k="highway" o="none" type="way" v="secondary" />
+    <tag id="22105972" k="name" o="none" type="way" v="Main St" />
+    <tag id="22105972" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22105972" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22105972" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="22105972" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="22105972" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22105972" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22105972" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22105972" k="tiger:tlid" o="none" type="way" v="112540323:112540325:112669198:112667140:112580581:112540225:112540226:112540227:112694903:112679243:112686778:112540305:112540307:112540308:112540213:112540209:112557960" />
+    <tag id="22105972" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22105972" k="tiger:zip_left" o="none" type="way" v="60516" />
+    <tag id="22105972" k="tiger:zip_right" o="none" type="way" v="60516" />
+    <tag id="22117032" k="highway" o="none" type="way" v="residential" />
+    <tag id="22117032" k="name" o="none" type="way" v="N Prospect Ave" />
+    <tag id="22117032" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22117032" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22117032" k="tiger:name_base" o="none" type="way" v="Prospect" />
+    <tag id="22117032" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="22117032" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22117032" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22117032" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22117032" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22117032" k="tiger:tlid" o="none" type="way" v="112549381:112549385:112549389:112549431:112549379" />
+    <tag id="22117032" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22117032" k="tiger:zip_left" o="none" type="way" v="60514" />
+    <tag id="22117032" k="tiger:zip_right" o="none" type="way" v="60514" />
+    <tag id="113508763" k="name" o="none" type="way" v="Chicago Subdivision" />
+    <tag id="113508763" k="old_railway_operator" o="none" type="way" v="CB&amp;Q" />
+    <tag id="113508763" k="operator" o="none" type="way" v="BNSF" />
+    <tag id="113508763" k="railway" o="none" type="way" v="rail" />
+    <tag id="113508763" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="113508763" k="tiger:county" o="none" type="way" v="DuPage, IL:Kane, IL" />
+    <tag id="113508763" k="tiger:name_base" o="none" type="way" v="Burlington Northern Santa Fe:Burlington Northern Santa Fe R:Chicago Burlington and Quincy" />
+    <tag id="113508763" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="113508763" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.6_20070810" />
+    <tag id="113508763" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-1a50bb41-e49f-406b-9c8b-ffa308195203:bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22101385" k="highway" o="none" type="way" v="residential" />
+    <tag id="22101385" k="name" o="none" type="way" v="Fairmount Ave" />
+    <tag id="22101385" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22101385" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22101385" k="tiger:name_base" o="none" type="way" v="Fairmount" />
+    <tag id="22101385" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22101385" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22101385" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22101385" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22101385" k="tiger:tlid" o="none" type="way" v="112540412:112573746:112540287:112540288:112540379:112540381:112540384:112540387:112540390:112573747" />
+    <tag id="22101385" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22101385" k="tiger:zip_left" o="none" type="way" v="60516" />
+    <tag id="22101385" k="tiger:zip_right" o="none" type="way" v="60516" />
+    <tag id="22106539" k="highway" o="none" type="way" v="residential" />
+    <tag id="22106539" k="name" o="none" type="way" v="Lyman Ave" />
+    <tag id="22106539" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22106539" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22106539" k="tiger:name_base" o="none" type="way" v="Lyman" />
+    <tag id="22106539" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22106539" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22106539" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22106539" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22106539" k="tiger:tlid" o="none" type="way" v="112534661:112534662:112534666:112534540" />
+    <tag id="22106539" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22106539" k="tiger:zip_left" o="none" type="way" v="60515" />
+    <tag id="22106539" k="tiger:zip_right" o="none" type="way" v="60515" />
+    <tag id="22114730" k="highway" o="none" type="way" v="residential" />
+    <tag id="22114730" k="name" o="none" type="way" v="Washington St" />
+    <tag id="22114730" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22114730" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22114730" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="22114730" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="22114730" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22114730" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22114730" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22114730" k="tiger:tlid" o="none" type="way" v="112534527:112534529:112534530:112534482:112534484:112534487:112677689:112677690:112534406:112534493:112534494:112701116:112701118:112701119" />
+    <tag id="22114730" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22114730" k="tiger:zip_left" o="none" type="way" v="60515" />
+    <tag id="22114730" k="tiger:zip_right" o="none" type="way" v="60515" />
+    <tag id="22090862" k="highway" o="none" type="way" v="residential" />
+    <tag id="22090862" k="name" o="none" type="way" v="Blackburn Ct" />
+    <tag id="22090862" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22090862" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22090862" k="tiger:name_base" o="none" type="way" v="Blackburn" />
+    <tag id="22090862" k="tiger:name_type" o="none" type="way" v="Ct" />
+    <tag id="22090862" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22090862" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22090862" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22090862" k="tiger:tlid" o="none" type="way" v="112550646" />
+    <tag id="22090862" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22090862" k="tiger:zip_left" o="none" type="way" v="60516" />
+    <tag id="22090862" k="tiger:zip_right" o="none" type="way" v="60516" />
+    <tag id="72459950" k="highway" o="none" type="way" v="secondary" />
+    <tag id="72459950" k="name" o="none" type="way" v="Belmont Rd" />
+    <tag id="72459950" k="name_1" o="none" type="way" v="Belmont Ave" />
+    <tag id="72459950" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="72459950" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="72459950" k="tiger:name_base" o="none" type="way" v="Belmont" />
+    <tag id="72459950" k="tiger:name_base_1" o="none" type="way" v="Belmont" />
+    <tag id="72459950" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="72459950" k="tiger:name_type_1" o="none" type="way" v="Ave" />
+    <tag id="72459950" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="72459950" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="72459950" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="72459950" k="tiger:tlid" o="none" type="way" v="112533610:112533614:112700989:112700990:112700991:112700996:112694780" />
+    <tag id="72459950" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="72459950" k="tiger:zip_left" o="none" type="way" v="60515" />
+    <tag id="82102857" k="highway" o="add" type="way" v="service" />
+    <tag id="82102857" k="service" o="add" type="way" v="driveway" />
+    <tag id="22105344" k="highway" o="none" type="way" v="residential" />
+    <tag id="22105344" k="name" o="none" type="way" v="Blodgett Ave" />
+    <tag id="22105344" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22105344" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22105344" k="tiger:name_base" o="none" type="way" v="Blodgett" />
+    <tag id="22105344" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22105344" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22105344" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22105344" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22105344" k="tiger:tlid" o="none" type="way" v="112701152:112701154:112701155:112547225:112547226:112547306:112547308" />
+    <tag id="22105344" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22105344" k="tiger:zip_left" o="none" type="way" v="60515" />
+    <tag id="22105344" k="tiger:zip_right" o="none" type="way" v="60515" />
+    <tag id="22111501" k="highway" o="none" type="way" v="residential" />
+    <tag id="22111501" k="name" o="none" type="way" v="Forest Ave" />
+    <tag id="22111501" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22111501" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22111501" k="tiger:name_base" o="none" type="way" v="Forest" />
+    <tag id="22111501" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22111501" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22111501" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22111501" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22111501" k="tiger:tlid" o="none" type="way" v="112534511:112701089:112701084:112734396:112534462:112534463:112534465:112534474:112534495:112534496:112534497:112534508" />
+    <tag id="22111501" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22111501" k="tiger:zip_left" o="none" type="way" v="60515" />
+    <tag id="22111501" k="tiger:zip_right" o="none" type="way" v="60515" />
+    <tag id="22086737" k="highway" o="none" type="way" v="residential" />
+    <tag id="22086737" k="name" o="none" type="way" v="Pipers Way" />
+    <tag id="22086737" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22086737" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22086737" k="tiger:name_base" o="none" type="way" v="Pipers" />
+    <tag id="22086737" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="22086737" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22086737" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22086737" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22086737" k="tiger:tlid" o="none" type="way" v="112713619" />
+    <tag id="22086737" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22091400" k="highway" o="none" type="way" v="residential" />
+    <tag id="22091400" k="name" o="none" type="way" v="Grant Ct" />
+    <tag id="22091400" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22091400" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22091400" k="tiger:name_base" o="none" type="way" v="Grant" />
+    <tag id="22091400" k="tiger:name_type" o="none" type="way" v="Ct" />
+    <tag id="22091400" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22091400" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22091400" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22091400" k="tiger:tlid" o="none" type="way" v="112551412" />
+    <tag id="22091400" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22091400" k="tiger:zip_left" o="none" type="way" v="60561" />
+    <tag id="22091400" k="tiger:zip_right" o="none" type="way" v="60561" />
+    <tag id="22082906" k="highway" o="none" type="way" v="residential" />
+    <tag id="22082906" k="name" o="none" type="way" v="Sleepy Hollow Ct" />
+    <tag id="22082906" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22082906" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22082906" k="tiger:name_base" o="none" type="way" v="Sleepy Hollow" />
+    <tag id="22082906" k="tiger:name_type" o="none" type="way" v="Ct" />
+    <tag id="22082906" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22082906" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22082906" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22082906" k="tiger:tlid" o="none" type="way" v="112551414" />
+    <tag id="22082906" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22082906" k="tiger:zip_left" o="none" type="way" v="60561" />
+    <tag id="22082906" k="tiger:zip_right" o="none" type="way" v="60561" />
+    <tag id="22109720" k="highway" o="none" type="way" v="residential" />
+    <tag id="22109720" k="name" o="none" type="way" v="S Prospect Ave" />
+    <tag id="22109720" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22109720" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22109720" k="tiger:name_base" o="none" type="way" v="Prospect" />
+    <tag id="22109720" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="22109720" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22109720" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22109720" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22109720" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22109720" k="tiger:tlid" o="none" type="way" v="112549437:112549439:112734431:112701292:112701297" />
+    <tag id="22109720" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22109720" k="tiger:zip_left" o="none" type="way" v="60514" />
+    <tag id="22109720" k="tiger:zip_right" o="none" type="way" v="60514" />
+    <tag id="4684307" k="highway" o="none" type="way" v="residential" />
+    <tag id="4684307" k="name" o="none" type="way" v="Meadowcrest Drive" />
+    <tag id="104628395" k="highway" o="none" type="way" v="residential" />
+    <tag id="104628395" k="name" o="none" type="way" v="Washington Street" />
+    <tag id="4601095" k="highway" o="none" type="way" v="residential" />
+    <tag id="4601095" k="name" o="none" type="way" v="Fairmount Avenue" />
+    <tag id="22102600" k="highway" o="none" type="way" v="secondary" />
+    <tag id="22102600" k="name" o="none" type="way" v="55th St" />
+    <tag id="22102600" k="name_1" o="none" type="way" v="County Road 35" />
+    <tag id="22102600" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22102600" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22102600" k="tiger:name_base" o="none" type="way" v="55th" />
+    <tag id="22102600" k="tiger:name_base_1" o="none" type="way" v="County Road 35" />
+    <tag id="22102600" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="22102600" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22102600" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22102600" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22102600" k="tiger:tlid" o="none" type="way" v="112533884:112533887:112672016:112672017:112533895:112534637" />
+    <tag id="22102600" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22102600" k="tiger:zip_left" o="none" type="way" v="60515" />
+    <tag id="22102600" k="tiger:zip_right" o="none" type="way" v="60515" />
+    <tag id="59917672" k="name" o="none" type="way" v="Chicago Subdivision" />
+    <tag id="59917672" k="old_railway_operator" o="none" type="way" v="CB&amp;Q" />
+    <tag id="59917672" k="operator" o="none" type="way" v="BNSF" />
+    <tag id="59917672" k="railway" o="none" type="way" v="rail" />
+    <tag id="59917672" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="59917672" k="tiger:county" o="none" type="way" v="DuPage, IL:Kane, IL" />
+    <tag id="59917672" k="tiger:name_base" o="none" type="way" v="Burlington Northern Santa Fe:Burlington Northern Santa Fe R" />
+    <tag id="59917672" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="59917672" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.6_20070810" />
+    <tag id="59917672" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-1a50bb41-e49f-406b-9c8b-ffa308195203:bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="4369354" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4369354" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22096417" k="highway" o="none" type="way" v="residential" />
+    <tag id="22096417" k="name" o="none" type="way" v="Park Ave" />
+    <tag id="22096417" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22096417" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22096417" k="tiger:name_base" o="none" type="way" v="Park" />
+    <tag id="22096417" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22096417" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22096417" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22096417" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22096417" k="tiger:tlid" o="none" type="way" v="112681460:112681462:112734433:112681472:112681473:112681474:112681475:112549404:112549443:112549444:112701298:112701299:112549405" />
+    <tag id="22096417" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22096417" k="tiger:zip_left" o="none" type="way" v="60514" />
+    <tag id="22096417" k="tiger:zip_right" o="none" type="way" v="60514" />
+    <tag id="82102854" k="highway" o="add" type="way" v="service" />
+    <tag id="82102854" k="service" o="add" type="way" v="driveway" />
+    <tag id="4363543" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4363543" k="name" o="none" type="way" v="Cass Avenue" />
+    <tag id="22107976" k="highway" o="none" type="way" v="residential" />
+    <tag id="22107976" k="name" o="none" type="way" v="S Stough St" />
+    <tag id="22107976" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22107976" k="tiger:county" o="none" type="way" v="DuPage, IL" />
+    <tag id="22107976" k="tiger:name_base" o="none" type="way" v="Stough" />
+    <tag id="22107976" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="22107976" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="22107976" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="22107976" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="22107976" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="22107976" k="tiger:tlid" o="none" type="way" v="112581008:112581010:112549792:112734438:112701325" />
+    <tag id="22107976" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="22107976" k="tiger:zip_left" o="none" type="way" v="60521" />
+    <tag id="22107976" k="tiger:zip_right" o="none" type="way" v="60521" />
+    <tag id="113508766" k="name" o="none" type="way" v="Chicago Subdivision" />
+    <tag id="113508766" k="old_railway_operator" o="none" type="way" v="CB&amp;Q" />
+    <tag id="113508766" k="operator" o="none" type="way" v="BNSF" />
+    <tag id="113508766" k="railway" o="none" type="way" v="rail" />
+    <tag id="113508766" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="113508766" k="tiger:county" o="none" type="way" v="DuPage, IL:Kane, IL" />
+    <tag id="113508766" k="tiger:name_base" o="none" type="way" v="Burlington Northern Railroad:Burlington Northern Santa Fe:Burlington Northern Santa Fe R:Chicago Burlington and Quincy" />
+    <tag id="113508766" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="113508766" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.6_20070810" />
+    <tag id="113508766" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-1a50bb41-e49f-406b-9c8b-ffa308195203:bulk_upload.pl-3f69f4e1-b66c-4277-9b2a-1347f8f5e03c" />
+    <tag id="4743991" k="highway" o="none" type="way" v="residential" />
+    <tag id="4743991" k="name" o="none" type="way" v="Grand Avenue" />
+  </body>
+</changeset>
