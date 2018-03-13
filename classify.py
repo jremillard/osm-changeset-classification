@@ -24,7 +24,7 @@ if len(sys.argv) > 1:
             cs.download()
             cs.saveFile(cs.cacheRuntimeFileName())
 
-        texts.append( cs.textDump() )
+        texts.extend( cs.textDump(1) )
         changesets.append(cs)
 
 else :
@@ -45,7 +45,7 @@ else :
                         if ( row[index] == 'Y'):
                             label_id = index-2
 
-                    texts.append( cs.textDump() )
+                    texts.extend( cs.textDump(1) )
                     changesets.append(cs)
 
                     labels.append( label_id)

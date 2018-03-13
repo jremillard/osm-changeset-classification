@@ -2,6 +2,8 @@ import xml.etree.ElementTree as ET
 import urllib.request
 import re
 import time
+import math
+import random
 
 fileCacheVersion = '2'
 osmApiBase =  "https://api.openstreetmap.org"
@@ -410,7 +412,7 @@ class ChangeSet:
         return ret
 
 
-    def textDump(self):
+    def textDump(self, maxCount):
 
         ret = ''
 
@@ -423,19 +425,35 @@ class ChangeSet:
             ret += ' '.join(re.split(r"[-_:]+", tag)) + " "
             ret += ' '.join(re.split(r"[-_:\"'`]+", self.metaTags[tag])) + " \n"
 
+        retList = []
+
+        usedTags = []
         for tag in self.elementTags  :
             if ( tag['o'] == 'add' or tag['o'] == 'modify'):
-                ret += tag['o'] + " "
+                usedTags.append(tag)
+
+        sortIndex = list(range(0,len(usedTags)))
+
+        realMaxCount = math.factorial(len(sortIndex))
+        actualCount = min(maxCount,realMaxCount)
+        for rr in range(0, actualCount ):
+            retCycle = ret
+
+            for i in sortIndex:
+                tag = usedTags[i]
+                retCycle += tag['o'] + " "
                 #ret += tag['type'] + " "
-                ret += ' '.join(re.split(r"[-_:\"'`]+", tag['k'])) + " " 
-                ret += ' '.join(re.split(r"[-_:\"'`]+", tag['v'])) + " \n"
-        
-        ret += "\n"
+                retCycle += ' '.join(re.split(r"[-_:\"'`]+", tag['k'])) + " " 
+                retCycle += ' '.join(re.split(r"[-_:\"'`]+", tag['v'])) + " \n"
+                #retCycle = re.sub(r" addr "," address ",retCycle)
+            
+            retCycle += "\n"
 
-        ret = re.sub(r" [0-9]+ "," number ",ret)
-        ret = re.sub(r" addr "," address ",ret)
+            retList.append( retCycle)
 
-        return ret
+            random.shuffle(sortIndex)
+
+        return retList
 
     #def __repr__(self):
     #    return "{}".format( self.id)

@@ -69,7 +69,7 @@ with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile
                 # -1 for OK
                 raise Exception("error for id {}, wrong number of category cells.".format(row[0]))
                 
-            if ( True or len(row[2]) > 0 and row[2] == 'Y' ):
+            if ( len(row[2]) > 0 and row[2] == 'Y' ):
                 cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
                 if ( cs.cached() ):
                     cs.read()
@@ -83,8 +83,11 @@ with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile
                         else:
                             raise Exception("error for id {}, category cells must be Y,N".format(row[0]))
 
-                    labels.append( label_id )
-                    texts.append( cs.textDump() )
+                    txs = cs.textDump(5)
+
+                    for t in txs:
+                        labels.append( label_id )
+                        texts.append(t)
                             
 print('Found %s texts.' % len(texts))
 
