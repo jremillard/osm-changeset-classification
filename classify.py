@@ -35,7 +35,8 @@ else :
         next(spamreader)
 
         for row in spamreader:
-            if not ( len(row[2]) > 0 and row[2] == 'Y' ):            
+            validated = len(row[2]) > 0 and row[2] == 'Y' 
+            if validated:            
                 cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
                 if ( cs.cached() ):
                     cs.read()
