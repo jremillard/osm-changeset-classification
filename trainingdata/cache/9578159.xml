@@ -1,0 +1,38 @@
+<changeset id="9578159" schema="2">
+  <counts nodesAdded="14" nodesDeleted="0" nodesModified="0" relationsAdded="3" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="build" v="2.3-79-g633f140" />
+    <tag k="comment" v="Added missing streets in hopes that it resolves MapDust bugs 174892 and 174893.  http://www.mapdust.com/detail/174892  http://www.mapdust.com/detail/174893" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="133584543" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="133584543" k="source" o="add" type="way" v="bing" />
+    <tag id="133584543" k="surface" o="add" type="way" v="paved" />
+    <tag id="133584544" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="133584544" k="source" o="add" type="way" v="bing" />
+    <tag id="133584544" k="surface" o="add" type="way" v="paved" />
+    <tag id="1795165" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="1795165" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1795166" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="1795166" k="type" o="add" type="relation" v="restriction" />
+    <tag id="1795167" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="1795167" k="type" o="add" type="relation" v="restriction" />
+    <tag id="83202840" k="FIXME" o="add" type="way" v="Dual carriageway" />
+    <tag id="83202840" k="HFCS" o="none" type="way" v="Urban Principal Arterial - Other" />
+    <tag id="83202840" k="highway" o="none" type="way" v="secondary" />
+    <tag id="83202840" k="name" o="none" type="way" v="W Palmetto Park Rd" />
+    <tag id="83202840" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="83202840" k="tiger:county" o="none" type="way" v="Palm Beach, FL" />
+    <tag id="83202840" k="tiger:name_base" o="none" type="way" v="Palmetto Park" />
+    <tag id="83202840" k="tiger:name_base_1" o="none" type="way" v="County Highway 798" />
+    <tag id="83202840" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="83202840" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="83202840" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="83202840" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="83202840" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="83202840" k="tiger:tlid" o="none" type="way" v="115573809:115573810:115551356:115551357:115301659:115301661:115301610:115497833" />
+    <tag id="83202840" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e852f610-7f24-4b55-b517-41f3efd7ebcc" />
+  </body>
+</changeset>
