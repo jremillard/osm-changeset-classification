@@ -414,6 +414,10 @@ class ChangeSet:
 
         ret = ''
 
+        ret += "Added {},{},{}\n".format(self.nodesAdded,self.waysAdded,self.relationsAdded   ) 
+        ret += "Modified {},{},{}\n".format(self.nodesModified,self.waysModified,self.relationsModified)
+        ret += "Deleted {},{},{}\n".format(self.nodesDeleted,self.waysDeleted,self.relationsDeleted )
+
         for tag in sorted(self.metaTags) :
             ret += "meta "
             ret += ' '.join(re.split(r"[-_:]+", tag)) + " "

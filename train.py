@@ -15,7 +15,7 @@ from keras.models import Model
 BASE_DIR = ''
 GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
 MAX_SEQUENCE_LENGTH = 600
-MAX_NUM_WORDS = 20000
+MAX_NUM_WORDS = 150000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
 VALIDATION_SPLIT = 0.35
 
@@ -63,23 +63,40 @@ with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile
                 labels_index[r] = label_id       
 
         else:
-            cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
-            if ( cs.cached() ):
-                cs.read()
+            if ( len(row[2]) > 0 and row[2] != 'Y'):
+                raise Exception("error for id {}, validation cell must be Y or empty, {}".format(row[0],row[2]))
+            if ( len(row) != len(labels_index)+3-1):
+                # -1 for OK
+                raise Exception("error for id {}, wrong number of category cells.".format(row[0]))
                 
-                label_id = 0 # 'OK'
-                for index in range(3, len(row)):
-                    if ( row[index] == 'Y'):
-                        label_id = index-2
+            if ( True or len(row[2]) > 0 and row[2] == 'Y' ):
+                cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
+                if ( cs.cached() ):
+                    cs.read()
+                    
+                    label_id = 0 # 'OK'
+                    for index in range(3, len(row)):
+                        if ( row[index] == 'Y'):
+                            label_id = index-2
+                        elif ( row[index] == 'N'):
+                            pass
+                        else:
+                            raise Exception("error for id {}, category cells must be Y,N".format(row[0]))
 
-                labels.append( label_id )
-                texts.append( cs.textDump() )
+                    labels.append( label_id )
+                    texts.append( cs.textDump() )
                             
 print('Found %s texts.' % len(texts))
 
 # finally, vectorize the text samples into a 2D integer tensor
 tokenizer = Tokenizer(num_words=MAX_NUM_WORDS)
 tokenizer.fit_on_texts(texts)
+
+# seeing imports , require that the add/remove/modify counts be seen 
+# if we don't index them, they can't be used.
+numbers1toNasStr = ' '.join( [str(x) for x in range(1,70000)] )
+tokenizer.fit_on_texts([numbers1toNasStr])
+
 sequences = tokenizer.texts_to_sequences(texts)
 
 sequencesLength = [ len(i) for i in sequences]
@@ -164,7 +181,7 @@ print(model.summary())
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=15,
+          epochs=12,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')

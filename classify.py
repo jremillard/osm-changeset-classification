@@ -32,21 +32,23 @@ else :
 
     with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',')
+        next(spamreader)
 
         for row in spamreader:
-            cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
-            if ( cs.cached() ):
-                cs.read()
-                
-                label_id = 0 # 'OK'
-                for index in range(3, len(row)):
-                    if ( row[index] == 'Y'):
-                        label_id = index-2
+            if not ( len(row[2]) > 0 and row[2] == 'Y' ):            
+                cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
+                if ( cs.cached() ):
+                    cs.read()
+                    
+                    label_id = 0 # 'OK'
+                    for index in range(3, len(row)):
+                        if ( row[index] == 'Y'):
+                            label_id = index-2
 
-                texts.append( cs.textDump() )
-                changesets.append(cs)
+                    texts.append( cs.textDump() )
+                    changesets.append(cs)
 
-                labels.append( label_id)
+                    labels.append( label_id)
 
 labels_index ={}
 maximumSeqLength = 0
@@ -63,34 +65,39 @@ sequences = tokenizer.texts_to_sequences(texts)
 
 data = pad_sequences(sequences, maxlen=maximumSeqLength,truncating='post',padding='post')
 
-
 y = model.predict(data)
 
 print("ID             " + "\t".join(labels_index) + "\tStatus")
 
-for i,row in enumerate(y):
-    if ( not labels is None ):
-        bad = False
-        close = False
-        if ( np.argmax(row) != labels[i]):
-            bad = True
-        if ( np.max(row)-np.min(row) < 0.50):
-            close = True
-        
-        if ( bad or close):
-            print("{:15}".format(changesets[i].id),end='')
-            for label in labels_index:
-                print("{:0.2f}".format(row[labels_index[label]]), end='\t')
-            if bad:
-                print("BAD")
-            elif close:
-                print("Close")
-            #print("{}\n\n".format(texts[i]))
-                
-    else :
+if ( not labels is None ):
+    with open("toreview.txt","wt") as toReview :
+        for i,row in enumerate(y):
+            bad = False
+            close = False
+            if ( np.argmax(row) != labels[i]):
+                bad = True
+            if ( np.max(row)-np.min(row) < 0.50):
+                close = True
+                close = False
+            
+            if ( bad or close):
+                print("{:15}".format(changesets[i].id),end='')
+                print("{} ".format(changesets[i].id),end='',file=toReview)
+                for label in labels_index:
+                    print("{:0.2f}".format(row[labels_index[label]]), end='\t',)
+                    print("{}={:0.2f}".format(label,row[labels_index[label]]), end=' ',file=toReview)
+                if bad:
+                    print("BAD")
+                elif close:
+                    print("Close")
+                print("",file=toReview)
+                #print("{}\n\n".format(texts[i]))
+            
+else :
+    for i,row in enumerate(y):
         print("{:15}".format(changesets[i].id),end='')
         for label in labels_index:
             print("{:0.2f}".format(row[labels_index[label]]), end='\t')
         print("")
-        #print("{}\n\n".format(texts[i]))
+            #print("{}\n\n".format(texts[i]))
 
