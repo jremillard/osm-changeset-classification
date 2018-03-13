@@ -76,6 +76,9 @@ if ( not labels is None ):
             close = False
             if ( np.argmax(row) != labels[i]):
                 bad = True
+                #if ( row[labels_index['SPAM']] < 0.009999 and row[labels_index['OK']] > 0.99):
+                #    bad = True
+
             if ( np.max(row)-np.min(row) < 0.50):
                 close = True
                 close = False
