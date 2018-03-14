@@ -1,6 +1,7 @@
 import csv
 import osmcsclassify
 import random
+import sys
 
 changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
 
