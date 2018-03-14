@@ -398,6 +398,11 @@ class ChangeSet:
         for tag in self.elementTags  :
             if ( tag['o'] == 'add'):
                 line = "  " + tag['o'] + " "
+                firstKey = tag['k'].split(':')[0]
+                if ( re.match(r'[a-z]+',firstKey) is None):
+                    line += "BAD "
+                if ( re.search(r'[A-Z]+',firstKey) is not None):
+                    line += "caps "                    
                 line += "{}={}\n".format(tag['k'],tag['v'])
                 if ( ret.find(line) < 0 ):
                     ret += line
@@ -440,12 +445,18 @@ class ChangeSet:
             retCycle = ret
 
             for i in sortIndex:
-                tag = usedTags[i]
+                tag = usedTags[i]                
                 retCycle += tag['o'] + " "
+
+                firstKey = tag['k'].split(':')[0]
+                if ( re.match(r'[a-z_]+',firstKey) is None):
+                    retCycle += "bad "
+                if ( re.search(r'[A-Z]+',firstKey) is not None):
+                    retCycle += "capital "                    
+                
                 #ret += tag['type'] + " "
-                retCycle += ' '.join(re.split(r"[-_:\"'`]+", tag['k'])) + " " 
-                retCycle += ' '.join(re.split(r"[-_:\"'`]+", tag['v'])) + " \n"
-                #retCycle = re.sub(r" addr "," address ",retCycle)
+                retCycle += tag['k'] + " " 
+                retCycle += tag['v'] + " \n"
             
             retCycle += "\n"
 

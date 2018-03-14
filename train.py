@@ -8,6 +8,7 @@ import osmcsclassify
 import csv
 import pickle
 import random
+import re
 
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
@@ -122,12 +123,22 @@ def makeEmbeddingMatrix(tokenizer,embeddings_index):
         for word, i in word_index.items():
             if i >= MAX_NUM_WORDS:
                 continue
-            embedding_vector = embeddings_index.get(word)
-            if embedding_vector is not None:
-                # words not found in embedding index will be all-zeros.
-                embedding_matrix[i] = embedding_vector
+
+            # embed all numbers ourselves.
+            if ( re.match(r'^[0-9]+$',word) is not None ):
+                
+                val = int( word)
+                for n in range(0,15):
+                    embedding_matrix[i][n] = min(float(val),1.0)
+                    val = val / 10
+                
             else :
-                print(word,file=cantembed)
+                embedding_vector = embeddings_index.get(word)
+                if embedding_vector is not None:
+                    # words not found in embedding index will be all-zeros.
+                    embedding_matrix[i] = embedding_vector
+                else :
+                    print(word,file=cantembed)
 
         return embedding_matrix
     
