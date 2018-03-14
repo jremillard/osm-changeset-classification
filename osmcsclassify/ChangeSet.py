@@ -39,7 +39,7 @@ class ChangeSet:
         
     def __init__(self, id):
 
-        self.id = id
+        self.id = str(id)
         self.metaTags = {}
         self.elementTags = []
 
@@ -58,7 +58,7 @@ class ChangeSet:
         self.ignoredKeys = ['created_by']
 
     def cacheFileName(self):
-        return "trainingdata/cache/{}.xml".format(self.id)
+        return "trainingdata/cache/{}/{}.xml".format(self.id[-2:],self.id)
     def cacheRuntimeFileName(self):
         return "runtimedata/cache/{}.xml".format(self.id)
 
