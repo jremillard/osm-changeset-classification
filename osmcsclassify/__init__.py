@@ -1,1 +1,2 @@
 import osmcsclassify.ChangeSet
+import osmcsclassify.ChangeSetCollection

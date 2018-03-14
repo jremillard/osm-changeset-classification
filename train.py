@@ -1,4 +1,7 @@
 import os
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
+
 import sys
 import numpy as np
 import osmcsclassify
@@ -18,78 +21,34 @@ GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
 MAX_SEQUENCE_LENGTH = 600
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
-VALIDATION_SPLIT = 0.35
+VALIDATION_SPLIT = 0.40
 
 def readAllChangeSets():
 
-     # dictionary mapping label name to numeric id
-    labels_index = {}
-    index_labels = {}
-    usedChangeSets = []
+    changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
+
+    cachedChangeSets = [ cs for cs in changeSets.rows if cs['cs'].cached() ]
+
     totals = {}
+    for label in changeSets.labelsToIndex:
+        totals[label] = 0
+        totals[label + ' Val'] = 0
 
-    with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
-        spamreader = csv.reader(csvfile, delimiter=',')
-        
-        for row in spamreader:
-
-            if len(labels_index) == 0:
-                totals[ 'Total' ] = 0
-                totals[ 'Validated' ] = 0
-                
-                labels_index['OK'] = 0
-                index_labels[0] = 'OK'
-
-                totals[ 'OK' ] = 0
-                totals[ 'OK Validated' ] = 0
-
-                for r in row[3:]:
-                    label_id = len(labels_index)
-                    labels_index[r] = label_id       
-                    index_labels[label_id] = r
-
-                    totals[ r ] = 0
-                    totals[ r+' Validated' ] = 0
-
-            else:
-                if ( len(row[2]) > 0 and row[2] != 'Y'):
-                    raise Exception("error for id {}, validation cell must be Y or empty, {}".format(row[0],row[2]))
-                if ( len(row) != len(labels_index)+3-1):
-                    # -1 for OK
-                    raise Exception("error for id {}, wrong number of category cells.".format(row[0]))
-                    
-                validated =  len(row[2]) > 0 and row[2] == 'Y'
-
-                label_id = 0 # 'OK'
-                for index in range(3, len(row)):
-                    if ( row[index] == 'Y'):
-                        label_id = index-2
-                    elif ( row[index] == 'N'):
-                        pass
-                    else:
-                        raise Exception("error for id {}, category cells must be Y,N".format(row[0]))
-                
-                    
-                cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
-                if ( cs.cached() ):
-                    cs.read()                
-                    usedChangeSets.append( { 'cs':cs,'label':label_id, 'validated':validated })
-
-                    label = index_labels[label_id]
-
-                    if ( validated ):
-                        totals[ 'Validated' ] += 1
-                        totals[ label+' Validated' ] += 1
-
-                    totals[ 'Total' ] += 1
-                    totals[ label ] += 1
-                                    
-    random.shuffle(usedChangeSets)
-
+    for cs in cachedChangeSets:
+        cs['cs'].read()
+    
+    for cs in cachedChangeSets:
+        label = cs['label']
+        totals[ label] += 1
+        if ( cs['validated']):
+            totals[label + ' Val'] += 1
+            
     for k in sorted(totals):
         print("{0:25} {1} ChangeSets".format(k,totals[k]))
     
-    return (usedChangeSets,labels_index )
+    random.shuffle(cachedChangeSets)
+    
+    return (cachedChangeSets,changeSets.labelsToIndex )
 
 
 def readEmbeddingIndex() :
@@ -181,7 +140,7 @@ def changeSetsToDataArrayAndLabels( usedChangeSets, tokenizer, augmentationFacto
         txs = cs['cs'].textDump(augmentationFactor)
 
         for t in txs:
-            labels.append( cs['label'] )
+            labels.append( cs['labelIndex'] )
             texts.append(t)
 
     sequences = tokenizer.texts_to_sequences(texts)
@@ -202,6 +161,8 @@ def trainingValidationSplit(allChangeSets):
     validateChangeSets = usedChangeSets[-numberOfValidationChangeSets:]
 
     return (trainChangeSets,validateChangeSets )
+
+# start of program
 
 (allChangeSets, labels_index) = readAllChangeSets()
 
@@ -252,7 +213,7 @@ print(model.summary())
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=12,
+          epochs=5,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')

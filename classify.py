@@ -30,26 +30,15 @@ if len(sys.argv) > 1:
 else :
     labels = []
 
-    with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
-        spamreader = csv.reader(csvfile, delimiter=',')
-        next(spamreader)
+    changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
 
-        for row in spamreader:
-            validated = len(row[2]) > 0 and row[2] == 'Y' 
-            if validated:            
-                cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
-                if ( cs.cached() ):
-                    cs.read()
-                    
-                    label_id = 0 # 'OK'
-                    for index in range(3, len(row)):
-                        if ( row[index] == 'Y'):
-                            label_id = index-2
+    cachedChangeSets = [ cs for cs in changeSets.rows if cs['cs'].cached() ]
 
-                    texts.extend( cs.textDump(1) )
-                    changesets.append(cs)
-
-                    labels.append( label_id)
+    for cs in cachedChangeSets:
+        cs['cs'].read()
+        texts.extend( cs['cs'].textDump(1) )
+        changesets.append(cs['cs'])
+        labels.append( cs['labelIndex'])
 
 labels_index ={}
 maximumSeqLength = 0
@@ -99,6 +88,7 @@ if ( not labels is None ):
             
 else :
     for i,row in enumerate(y):
+        print(changesets[i].textDumpHuman())
         print("{:15}".format(changesets[i].id),end='')
         for label in labels_index:
             print("{:0.2f}".format(row[labels_index[label]]), end='\t')
