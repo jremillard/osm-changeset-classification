@@ -1,4 +1,4 @@
-# OpenStreetMap Changeset Classifier For Detecting SPAM, Imports, Reverts , and Mapping Errors
+# OpenStreetMap Changeset Classifier For Detecting SPAM, Imports, Reverts and Mapping Errors
 
 This repository contains a classifier for OpenStreetMap changesets. It is used to
 detect SPAM, mapping errors, reverts, imports, and imports with tagging issues in the OpenStreetMap database. 
