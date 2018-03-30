@@ -7,6 +7,7 @@ import numpy as np
 import osmcsclassify
 import csv
 import pickle
+import sqlite3
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import load_model 
 
@@ -21,8 +22,11 @@ if len(sys.argv) > 1:
         if ( cs.cached() ):
             cs.read()
         else :
-            cs.download()
-            cs.saveFile(cs.cacheRuntimeFileName())
+            conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
+            
+            #cs.download()
+            cs.extractFromPlanet(conn)
+            #cs.saveFile(cs.cacheRuntimeFileName())
 
         texts.extend( cs.textDump(1) )
         changesets.append(cs)

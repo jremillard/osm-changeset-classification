@@ -4,6 +4,8 @@ import re
 import time
 import math
 import random
+import sqlite3
+import osmcsclassify.ChangeSet
 
 fileCacheVersion = '2'
 osmApiBase =  "https://api.openstreetmap.org"
@@ -77,6 +79,154 @@ class ChangeSet:
             self.elementTags = list(filter(lambda x: x['osmId'] != osmId or x['type'] != elementType or x['k'] != key, self.elementTags))
             self.elementTags.append( { 'osmId':osmId, 'type':elementType,'o':'none', 'k':key, 'v':value } )        
 
+
+    def getObjectTagsDb( self, conn, elementType, osmId, version):
+
+        objectType = 0
+        if ( elementType == 'node'):
+            objectType = 0
+        elif ( elementType == 'way'):
+            objectType = 1
+        else :
+            objectType = 2
+        
+        getTagsSql = '''
+            SELECT 
+                keys.key, keyvalues.value 
+            FROM 
+                objectskv, keys, keyvalues, objects 
+            where 
+                keys.keyid == objectskv.keyid and 
+                keyvalues.valueid == objectskv.valueid and
+                objectskv.objectid == objects.rowid and 
+                objects.type = ? and
+                objects.id = ? and
+                objects.version = ?
+            '''
+
+        lastTags = {}
+        tags = conn.execute(getTagsSql,(objectType,osmId,version))
+        for kv in tags:
+            (key,value) = kv
+            lastTags[key] = value
+
+        return lastTags
+
+
+    def diffObjectDb( self, conn,previousVersion, newVersion, osmId, elementType):
+        if int(previousVersion) < 1:
+            raise Exception('previousVersion {} < 1'.format(previousVersion))        
+        if int(previousVersion) >= int(newVersion) :
+            raise Exception('previousVersion,newVersion {}>={}'.format(previousVersion,newVersion))        
+            
+        lastTags   = self.getObjectTagsDb(conn, elementType, osmId,previousVersion )
+        currentTags = self.getObjectTagsDb(conn, elementType, osmId,newVersion )
+
+        touched = False          
+        for k in currentTags:
+            if ( not k in lastTags) :
+                self.addAddTag( osmId, elementType,k,currentTags[k])                                        
+                touched = True
+            elif ( currentTags[k] != lastTags[k]):
+                self.addModifyTag( osmId,elementType,k,currentTags[k])
+                touched = True
+            else:
+                self.addExistingTag( osmId,elementType,k,currentTags[k])
+
+        if ( touched and elementType == 'node'):
+            self.nodesModified += 1
+
+    def extractFromPlanet(self, conn):
+        self.metaTags = {}
+        self.elementTags = []
+
+        self.nodesDeleted = 0
+        self.waysDeleted = 0
+        self.relationsDeleted = 0
+
+        self.nodesAdded = 0
+        self.waysAdded = 0
+        self.relationsAdded = 0
+        
+        modifiedNodesRevs = {}
+        modifiedWaysRevs = {}
+        modifiedRelationsRevs = {}
+
+        objects = conn.execute('SELECT rowid, type, id, version,visible FROM objects where changeset == ? order by type, id, version',(self.id,))
+
+        for row in objects:
+            (rowid, objecttype, id, version,visible) = row
+
+            if ( visible == 0) :
+                if ( objecttype == 0):
+                    self.nodesDeleted += 1
+                elif (objecttype == 1):
+                    self.waysDeleted += 1
+                else:
+                    self.relationsDeleted += 1
+
+            if ( version == 1):                
+                if ( objecttype == 0):
+                    self.nodesAdded += 1
+                    modifiedNodesRevs[id] = (1,1)                    
+                elif (objecttype == 1):
+                    self.waysAdded += 1
+                    modifiedWaysRevs[id] = (1,1)
+                else:
+                    self.relationsAdded += 1
+                    modifiedRelationsRevs[id] = (1,1)                    
+            if ( version > 1):
+                if ( objecttype == 0):         
+                    if ( id in modifiedNodesRevs ):
+                        modifiedNodesRevs[id] = (modifiedNodesRevs[id][0],version)
+                    else:
+                        modifiedNodesRevs[id] = (version,version)
+
+                elif (objecttype == 1):
+                    if ( id in modifiedWaysRevs ):
+                        modifiedWaysRevs[id] = (modifiedWaysRevs[id][0],version)
+                    else:
+                        modifiedWaysRevs[id] = (version,version)
+
+                else:
+                    if ( id in modifiedWaysRevs ):
+                        modifiedRelationsRevs[id] = (modifiedRelationsRevs[id][0],version)
+                    else:
+                        modifiedRelationsRevs[id] = (version,version)
+        
+        for id in modifiedNodesRevs:
+            prevRev = int(modifiedNodesRevs[id][0])-1
+            lastRev = modifiedNodesRevs[id][1]
+            if ( prevRev > 0 ):
+                # self.nodesModified += 1
+                self.diffObjectDb(conn, str(prevRev) ,lastRev ,id,'node')
+            else:
+                tags = self.getObjectTagsDb(conn,'relation', id,lastRev )                
+                for key in tags:
+                    self.addAddTag( id,'node',key,tags[key])
+                                
+        for id in modifiedWaysRevs:
+            prevRev = int(modifiedWaysRevs[id][0])-1
+            lastRev = modifiedWaysRevs[id][1]
+            if ( prevRev > 0 ):
+                self.waysModified += 1
+                self.diffObjectDb( conn,str(prevRev), lastRev,id,'way')
+            else:
+                tags = self.getObjectTagsDb(conn,'way', id,lastRev )                
+                for key in tags:
+                    self.addAddTag( id,'way',key,tags[key])
+
+        for id in modifiedRelationsRevs:
+            prevRev = int(modifiedRelationsRevs[id][0])-1
+            lastRev = modifiedRelationsRevs[id][1]
+            if ( prevRev > 0 ):
+                self.relationsModified += 1
+                self.diffObjectDb( conn, str(prevRev), lastRev,id,'relation')
+            else:
+                tags = self.getObjectTagsDb(conn,'relation', id,lastRev )                
+                for key in tags:
+                    self.addAddTag( id,'relation',key,tags[key])
+            
     def diffObject( self, previousVersion, newVersion, osmId, elementType):
         lastTags = {}
 
@@ -85,7 +235,7 @@ class ChangeSet:
         if int(previousVersion) >= int(newVersion) :
             raise Exception('previousVersion,newVersion {}>={}'.format(previousVersion,newVersion))        
 
-        print("diffObject({},{},{},{})".format(previousVersion, newVersion, osmId, elementType))
+        #print("diffObject({},{},{},{})".format(previousVersion, newVersion, osmId, elementType))
 
         urlHistory = "{}/api/0.6/{}/{}/history".format(osmApiBase,elementType,osmId)
 
@@ -109,7 +259,7 @@ class ChangeSet:
                         self.addModifyTag( osmId,elementType,k,currentTags[k])
                     else:
                         self.addExistingTag( osmId,elementType,k,currentTags[k])
-                        
+                                                
 
     def download(self):
         self.metaTags = {}

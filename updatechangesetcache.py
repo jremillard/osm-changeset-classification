@@ -13,6 +13,7 @@ for cs in changeSets.rows:
             try:
                 print("downloading validated changeset {}".format(cs))
                 cs['cs'].download()
+                #cs['cs'].extractFromPlanet()
                 cs['cs'].save()
             except:
                 print("Unexpected error:", sys.exc_info()[0])
