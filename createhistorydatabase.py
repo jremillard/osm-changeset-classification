@@ -11,6 +11,10 @@ import osmcsclassify.Config
 
 import osmium
 
+# good guess at how how many actual ways, nodes, and relations need to get
+# written out, used for progress indicator, so it doesn't really need to be
+# correct.
+totalObjectsAprx = 4405627202*1.8
 
 class TestHandler(osmium.SimpleHandler):
 
@@ -38,8 +42,6 @@ class TestHandler(osmium.SimpleHandler):
     def addObject( self, o, objectType):
         self.writeCount += 1
         self.writeCountTotal += 1
-
-        totalObjectsAprx = 4405627202*1.8
 
         if ( self.writeCount > TestHandler.transactionBlockSize):
             self.conn.commit()
@@ -112,6 +114,8 @@ def importHistory():
     conn.close()
 
 def importChangeSet():
+
+    print("Importing {}. This will take 6 hours.".format(osmcsclassify.Config.changeSetHistoryOSM))
     
     conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
     conn.execute("PRAGMA cache_size = 448576")
@@ -156,13 +160,27 @@ def importChangeSet():
 
 
 def makeIndexes():
+    print("Add index's to {}".format(osmcsclassify.Config.historyDbFileName))
 
-    conn = sqlite3.connect(historyDbFileName)
+    conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
     conn.execute("PRAGMA cache_size = 448576")
-    
+    conn.execute("BEGIN")
+
+    #CREATE TABLE "objectskv" ( `objectid` INTEGER, `keyid` INTEGER, `valueid` INTEGER )
+    conn.execute("CREATE INDEX IF NOT EXISTS 'objectskv-objectid' ON objectskv (objectid )")
+
+    # CREATE TABLE "objects" ( `type` INTEGER, `id` INTEGER, `version` INTEGER, `changeset` INTEGER, `visible` INTEGER, `rowid` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE )
+    conn.execute("CREATE INDEX IF NOT EXISTS 'objects-changeset' ON objects (changeset )")
+    conn.execute("CREATE INDEX IF NOT EXISTS 'objects-type-id' ON objects (type,id )")
+
+    #CREATE TABLE "changesets" ( `uid` INTEGER, `id` INTEGER, PRIMARY KEY(`id`) )
+    conn.execute("CREATE INDEX IF NOT EXISTS 'changesets-uid' ON objects (uid )")
+    conn.commit()
+    conn.close()
+        
 
 # importHistory()
-importChangeSet()
-# makeIndexes()
+#importChangeSet()
+makeIndexes()
 
 
