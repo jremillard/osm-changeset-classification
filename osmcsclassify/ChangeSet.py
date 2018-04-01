@@ -171,12 +171,12 @@ class ChangeSet:
 
         for row in objects:
             (rowid, objecttype, id, version,visible) = row
+            id = str(id)
 
             if ( visible == 0) :
                 if ( objecttype == 0):
                     self.nodesDeleted += 1
                 elif (objecttype == 1):
-                    print(row)
                     self.waysDeleted += 1
                 else:
                     self.relationsDeleted += 1

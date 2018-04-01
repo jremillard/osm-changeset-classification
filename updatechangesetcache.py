@@ -1,26 +1,18 @@
-import csv
 import osmcsclassify
-import random
 import sys
+import sqlite3
 
 changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
+
+conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
 
 errorCount = 0
 # first make sure validated changeset are downloaded
 for cs in changeSets.rows:
     if ( cs['note'] == 'changeset id mentioned in revert changeset'):
         if ( cs['cs'].cached() == False):        
-            try:
-                print("downloading validated changeset {}".format(cs))
-                cs['cs'].download()
-                #cs['cs'].extractFromPlanet()
-                cs['cs'].save()
-            except:
-                print("Unexpected error:", sys.exc_info()[0])
-                errorCount += 1
-
-                if ( errorCount > 3):
-                    exit(0)
+            cs['cs'].extractFromPlanet(conn)
+            cs['cs'].save()
 
 
 ''''
