@@ -1,5 +1,6 @@
 
 
+historyDbTempDirName = "/home/jason/nn/osm-changeset-classification/osm-planet"
 historyDbFileName = "osm-planet/history.sqlite"
 
 #historyPBF = "../osm-data/vermont.osh.pbf"

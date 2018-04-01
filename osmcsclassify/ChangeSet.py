@@ -79,7 +79,6 @@ class ChangeSet:
             self.elementTags = list(filter(lambda x: x['osmId'] != osmId or x['type'] != elementType or x['k'] != key, self.elementTags))
             self.elementTags.append( { 'osmId':osmId, 'type':elementType,'o':'none', 'k':key, 'v':value } )        
 
-
     def getObjectTagsDb( self, conn, elementType, osmId, version):
 
         objectType = 0
@@ -152,6 +151,22 @@ class ChangeSet:
         modifiedWaysRevs = {}
         modifiedRelationsRevs = {}
 
+        getMetaTagsSql = '''
+            SELECT 
+                keys.key, keyvalues.value 
+            FROM 
+                changesetkv, keys, keyvalues  
+            where 
+                keys.keyid = changesetkv.keyid and 
+                keyvalues.valueid == changesetkv.valueid and
+                changesetkv.changeset == ? 
+            '''
+
+        meta = conn.execute(getMetaTagsSql,( self.id,))
+        for row in meta:
+            (key, val) = row
+            self.metaTags[key] = val
+
         objects = conn.execute('SELECT rowid, type, id, version,visible FROM objects where changeset == ? order by type, id, version',(self.id,))
 
         for row in objects:
@@ -161,6 +176,7 @@ class ChangeSet:
                 if ( objecttype == 0):
                     self.nodesDeleted += 1
                 elif (objecttype == 1):
+                    print(row)
                     self.waysDeleted += 1
                 else:
                     self.relationsDeleted += 1

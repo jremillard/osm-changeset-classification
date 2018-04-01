@@ -11,6 +11,9 @@ import osmcsclassify.Config
 
 import osmium
 
+# might not be enough room in the normal temporary directories.
+os.environ["SQLITE_TMPDIR"] =  osmcsclassify.Config.historyDbTempDirName
+
 # good guess at how how many actual ways, nodes, and relations need to get
 # written out, used for progress indicator, so it doesn't really need to be
 # correct.
@@ -164,21 +167,25 @@ def makeIndexes():
 
     conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
     conn.execute("PRAGMA cache_size = 448576")
-    conn.execute("BEGIN")
 
-    #CREATE TABLE "objectskv" ( `objectid` INTEGER, `keyid` INTEGER, `valueid` INTEGER )
-    conn.execute("CREATE INDEX IF NOT EXISTS 'objectskv-objectid' ON objectskv (objectid )")
+    sqlIndexs = [
+        #CREATE TABLE "changesets" ( `uid` INTEGER, `id` INTEGER, PRIMARY KEY(`id`) )
+        "CREATE INDEX IF NOT EXISTS 'changesets-uid' ON changesets (uid )",
+        # CREATE TABLE "objects" ( `type` INTEGER, `id` INTEGER, `version` INTEGER, `changeset` INTEGER, `visible` INTEGER, `rowid` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE )
+        "CREATE INDEX IF NOT EXISTS 'objects-changeset' ON objects (changeset )",
+        "CREATE INDEX IF NOT EXISTS 'objects-type-id' ON objects (type,id )",
+        #CREATE TABLE "objectskv" ( `objectid` INTEGER, `keyid` INTEGER, `valueid` INTEGER )
+        "CREATE INDEX IF NOT EXISTS 'objectskv-objectid' ON objectskv (objectid )"
+    ]
 
-    # CREATE TABLE "objects" ( `type` INTEGER, `id` INTEGER, `version` INTEGER, `changeset` INTEGER, `visible` INTEGER, `rowid` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE )
-    conn.execute("CREATE INDEX IF NOT EXISTS 'objects-changeset' ON objects (changeset )")
-    conn.execute("CREATE INDEX IF NOT EXISTS 'objects-type-id' ON objects (type,id )")
+    for sql in sqlIndexs:
+        print("execute: {}".format(sql))
+        conn.execute("BEGIN")
+        conn.execute(sql)
+        conn.commit()
 
-    #CREATE TABLE "changesets" ( `uid` INTEGER, `id` INTEGER, PRIMARY KEY(`id`) )
-    conn.execute("CREATE INDEX IF NOT EXISTS 'changesets-uid' ON objects (uid )")
-    conn.commit()
     conn.close()
-        
-
+            
 # importHistory()
 #importChangeSet()
 makeIndexes()

@@ -19,7 +19,7 @@ if len(sys.argv) > 1:
 
     for arg in sys.argv[1:]:
         cs = osmcsclassify.ChangeSet.ChangeSet(arg)
-        if ( cs.cached() ):
+        if ( False and cs.cached() ):
             cs.read()
         else :
             conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
