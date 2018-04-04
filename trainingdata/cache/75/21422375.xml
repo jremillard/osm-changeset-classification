@@ -1,0 +1,659 @@
+<changeset id="21422375" schema="2">
+  <counts nodesAdded="0" nodesDeleted="618" nodesModified="4" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="191" />
+  <meta>
+    <tag k="comment" v="simplifica&#231;&#227;o de 0.5m e corre&#231;&#227;o autom&#225;tica JOSM" />
+    <tag k="created_by" v="JOSM/1.5 (6952 pt_BR)" />
+    <tag k="source" v="bing" />
+  </meta>
+  <body>
+    <tag id="1864694588" k="power" o="add" type="node" v="tower" />
+    <tag id="1864694849" k="power" o="add" type="node" v="tower" />
+    <tag id="2547393631" k="name" o="none" type="node" v="UBS Riacho Grande" />
+    <tag id="2547393631" k="amenity" o="modify" type="node" v="clinic" />
+    <tag id="2547393631" k="addr:city" o="none" type="node" v="S&#227;o Bernardo do Campo" />
+    <tag id="2547393631" k="emergency" o="none" type="node" v="no" />
+    <tag id="2547393631" k="addr:street" o="none" type="node" v="Rua Santa Maria" />
+    <tag id="2547393631" k="addr:postcode" o="none" type="node" v="09830-320" />
+    <tag id="2547393631" k="addr:housenumber" o="none" type="node" v="20" />
+    <tag id="2753178707" k="name" o="none" type="node" v="Bar e Restaurante Diplomata" />
+    <tag id="2753178707" k="phone" o="modify" type="node" v="+55 11 4101 9141" />
+    <tag id="2753178707" k="source" o="none" type="node" v="http://vejabrasil.abril.com.br/abc/bares/bar-e-restaurante-diplomata-32778" />
+    <tag id="2753178707" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="2753178707" k="cuisine" o="none" type="node" v="regional" />
+    <tag id="2753178707" k="smoking" o="none" type="node" v="no" />
+    <tag id="2753178707" k="addr:city" o="none" type="node" v="S&#227;o Bernardo do Campo" />
+    <tag id="2753178707" k="addr:street" o="none" type="node" v="Avenida Amazonas" />
+    <tag id="2753178707" k="addr:postcode" o="none" type="node" v="09830-140" />
+    <tag id="2753178707" k="opening_hours" o="modify" type="node" v="06:00-23:00" />
+    <tag id="2753178707" k="addr:housenumber" o="none" type="node" v="21" />
+    <tag id="4618755" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="4618755" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4618755" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4626526" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4626526" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4626534" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4626534" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4626546" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4626546" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4626637" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4626637" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4626660" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4626660" k="highway" o="none" type="way" v="motorway" />
+    <tag id="5302601" k="name" o="none" type="way" v="Represa Billings" />
+    <tag id="5302601" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="5302601" k="natural" o="none" type="way" v="water" />
+    <tag id="5302607" k="name" o="none" type="way" v="Represa Billings" />
+    <tag id="5302607" k="water" o="none" type="way" v="reservoir" />
+    <tag id="5302607" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="5302607" k="natural" o="none" type="way" v="water" />
+    <tag id="5585004" k="name" o="none" type="way" v="Reservat&#243;rio Billings" />
+    <tag id="5585004" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="5585004" k="natural" o="none" type="way" v="water" />
+    <tag id="5585869" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5585869" k="highway" o="none" type="way" v="motorway" />
+    <tag id="6260154" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="6260154" k="natural" o="none" type="way" v="water" />
+    <tag id="10373848" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="10373848" k="natural" o="none" type="way" v="water" />
+    <tag id="11414533" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="11414533" k="natural" o="none" type="way" v="water" />
+    <tag id="11414552" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="11414552" k="natural" o="none" type="way" v="water" />
+    <tag id="11414603" k="landuse" o="none" type="way" v="reservoir" />
+    <tag id="11414603" k="natural" o="none" type="way" v="water" />
+    <tag id="31947184" k="ref" o="none" type="way" v="SP-148" />
+    <tag id="31947184" k="name" o="none" type="way" v="Caminho do Mar" />
+    <tag id="31947184" k="oneway" o="none" type="way" v="no" />
+    <tag id="31947184" k="highway" o="none" type="way" v="secondary" />
+    <tag id="31950499" k="foot" o="none" type="way" v="yes" />
+    <tag id="31950499" k="name" o="none" type="way" v="Antonio Caputo" />
+    <tag id="31950499" k="horse" o="none" type="way" v="yes" />
+    <tag id="31950499" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31950499" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="31950499" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="31950499" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="31950499" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="31950501" k="foot" o="none" type="way" v="yes" />
+    <tag id="31950501" k="name" o="none" type="way" v="Rua do Rio Acima" />
+    <tag id="31950501" k="horse" o="none" type="way" v="yes" />
+    <tag id="31950501" k="lanes" o="none" type="way" v="4" />
+    <tag id="31950501" k="oneway" o="none" type="way" v="no" />
+    <tag id="31950501" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="31950501" k="highway" o="none" type="way" v="secondary" />
+    <tag id="31950501" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="31950501" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="92231481" k="layer" o="none" type="way" v="1" />
+    <tag id="92231481" k="highway" o="none" type="way" v="service" />
+    <tag id="92231513" k="highway" o="none" type="way" v="service" />
+    <tag id="92231518" k="highway" o="none" type="way" v="service" />
+    <tag id="92231525" k="highway" o="none" type="way" v="service" />
+    <tag id="92231531" k="highway" o="none" type="way" v="service" />
+    <tag id="105466461" k="highway" o="none" type="way" v="road" />
+    <tag id="114975872" k="name" o="none" type="way" v="Rua Aljubarrota" />
+    <tag id="114975872" k="highway" o="none" type="way" v="residential" />
+    <tag id="114975881" k="name" o="none" type="way" v="Rua Busaco" />
+    <tag id="114975881" k="highway" o="none" type="way" v="residential" />
+    <tag id="131547955" k="ref" o="none" type="way" v="SP-160" />
+    <tag id="131547955" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="131547955" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131547955" k="highway" o="none" type="way" v="motorway" />
+    <tag id="131547958" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="131547958" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131547958" k="highway" o="none" type="way" v="motorway" />
+    <tag id="131547960" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="131547960" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131547960" k="highway" o="none" type="way" v="motorway" />
+    <tag id="131549218" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131549218" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="131549479" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131549479" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="131549482" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131549482" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="131549486" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131549486" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="153713963" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="153713963" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713963" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153713963" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="153713974" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="153713974" k="bridge" o="none" type="way" v="yes" />
+    <tag id="153713974" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713974" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153713974" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="153713976" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713976" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="153713979" k="foot" o="none" type="way" v="yes" />
+    <tag id="153713979" k="name" o="none" type="way" v="Rua Heinrich Nordhoff" />
+    <tag id="153713979" k="lanes" o="none" type="way" v="2" />
+    <tag id="153713979" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713979" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="153713979" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="153713979" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="153713979" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="153713989" k="ref" o="none" type="way" v="SP-150" />
+    <tag id="153713989" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713989" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153713990" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713990" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153713991" k="ref" o="none" type="way" v="SP-150" />
+    <tag id="153713991" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713991" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153713994" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153713994" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="169339071" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="184883088" k="name" o="none" type="way" v="Rua Jos&#233; Farah" />
+    <tag id="184883088" k="oneway" o="none" type="way" v="no" />
+    <tag id="184883088" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="193125288" k="name" o="none" type="way" v="Rodovia dos Imigrantes" />
+    <tag id="193125288" k="oneway" o="none" type="way" v="yes" />
+    <tag id="193125288" k="highway" o="none" type="way" v="motorway" />
+    <tag id="193125288" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="193125890" k="oneway" o="none" type="way" v="yes" />
+    <tag id="193125890" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="195424496" k="highway" o="none" type="way" v="track" />
+    <tag id="203508043" k="ref" o="none" type="way" v="SP-148" />
+    <tag id="203508043" k="name" o="none" type="way" v="Caminho do Mar" />
+    <tag id="203508043" k="oneway" o="none" type="way" v="yes" />
+    <tag id="203508043" k="highway" o="none" type="way" v="secondary" />
+    <tag id="203508050" k="foot" o="none" type="way" v="yes" />
+    <tag id="203508050" k="name" o="none" type="way" v="Rua Marcilio Conrado" />
+    <tag id="203508050" k="horse" o="none" type="way" v="no" />
+    <tag id="203508050" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="203508050" k="highway" o="none" type="way" v="residential" />
+    <tag id="203508050" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="203508050" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="203526959" k="highway" o="none" type="way" v="residential" />
+    <tag id="246316369" k="foot" o="none" type="way" v="yes" />
+    <tag id="246316369" k="name" o="none" type="way" v="Estrada do Morro Grande" />
+    <tag id="246316369" k="horse" o="none" type="way" v="yes" />
+    <tag id="246316369" k="oneway" o="none" type="way" v="no" />
+    <tag id="246316369" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246316369" k="highway" o="none" type="way" v="residential" />
+    <tag id="246316369" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246316369" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246375249" k="foot" o="none" type="way" v="yes" />
+    <tag id="246375249" k="name" o="none" type="way" v="Estrada do Morro Grande" />
+    <tag id="246375249" k="horse" o="none" type="way" v="yes" />
+    <tag id="246375249" k="oneway" o="none" type="way" v="no" />
+    <tag id="246375249" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246375249" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="246375249" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246375249" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246376321" k="foot" o="none" type="way" v="yes" />
+    <tag id="246376321" k="name" o="none" type="way" v="Rua Atilio Jorge Salum" />
+    <tag id="246376321" k="horse" o="none" type="way" v="yes" />
+    <tag id="246376321" k="oneway" o="none" type="way" v="no" />
+    <tag id="246376321" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246376321" k="highway" o="none" type="way" v="residential" />
+    <tag id="246376321" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246376321" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246376646" k="foot" o="none" type="way" v="yes" />
+    <tag id="246376646" k="name" o="none" type="way" v="Rua Joaquim Mascarenhas" />
+    <tag id="246376646" k="horse" o="none" type="way" v="yes" />
+    <tag id="246376646" k="oneway" o="none" type="way" v="yes" />
+    <tag id="246376646" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246376646" k="highway" o="none" type="way" v="residential" />
+    <tag id="246376646" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246376646" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246389394" k="foot" o="none" type="way" v="yes" />
+    <tag id="246389394" k="name" o="none" type="way" v="Rua Mario Paulo Autuori" />
+    <tag id="246389394" k="horse" o="none" type="way" v="yes" />
+    <tag id="246389394" k="oneway" o="none" type="way" v="no" />
+    <tag id="246389394" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246389394" k="highway" o="none" type="way" v="residential" />
+    <tag id="246389394" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246389394" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246389461" k="foot" o="none" type="way" v="yes" />
+    <tag id="246389461" k="name" o="none" type="way" v="Rua Mario Paulo Autuori" />
+    <tag id="246389461" k="horse" o="none" type="way" v="yes" />
+    <tag id="246389461" k="oneway" o="none" type="way" v="no" />
+    <tag id="246389461" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246389461" k="highway" o="none" type="way" v="residential" />
+    <tag id="246389461" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246389461" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246389558" k="foot" o="none" type="way" v="yes" />
+    <tag id="246389558" k="name" o="none" type="way" v="Rua Mario Paulo Autuori" />
+    <tag id="246389558" k="horse" o="none" type="way" v="yes" />
+    <tag id="246389558" k="oneway" o="none" type="way" v="no" />
+    <tag id="246389558" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246389558" k="highway" o="none" type="way" v="residential" />
+    <tag id="246389558" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246389558" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246389784" k="foot" o="none" type="way" v="yes" />
+    <tag id="246389784" k="name" o="none" type="way" v="Rua Mario Paulo Autuori" />
+    <tag id="246389784" k="horse" o="none" type="way" v="yes" />
+    <tag id="246389784" k="oneway" o="none" type="way" v="no" />
+    <tag id="246389784" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246389784" k="highway" o="none" type="way" v="residential" />
+    <tag id="246389784" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246389784" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246391734" k="foot" o="none" type="way" v="yes" />
+    <tag id="246391734" k="name" o="none" type="way" v="rua Atilio Jorge Salum" />
+    <tag id="246391734" k="oneway" o="none" type="way" v="no" />
+    <tag id="246391734" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246391734" k="highway" o="none" type="way" v="residential" />
+    <tag id="246391734" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246391734" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="246393178" k="foot" o="none" type="way" v="yes" />
+    <tag id="246393178" k="name" o="none" type="way" v="Avenida Araguaia" />
+    <tag id="246393178" k="oneway" o="none" type="way" v="yes" />
+    <tag id="246393178" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246393178" k="highway" o="none" type="way" v="residential" />
+    <tag id="246393178" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246393178" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246719255" k="oneway" o="none" type="way" v="no" />
+    <tag id="246719255" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="246719255" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246719324" k="foot" o="none" type="way" v="yes" />
+    <tag id="246719324" k="name" o="none" type="way" v="Rua Fortunato Benevenuto Finco" />
+    <tag id="246719324" k="lanes" o="none" type="way" v="2" />
+    <tag id="246719324" k="oneway" o="none" type="way" v="no" />
+    <tag id="246719324" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246719324" k="highway" o="none" type="way" v="residential" />
+    <tag id="246719324" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246719324" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246719722" k="foot" o="none" type="way" v="yes" />
+    <tag id="246719722" k="lanes" o="none" type="way" v="2" />
+    <tag id="246719722" k="oneway" o="none" type="way" v="no" />
+    <tag id="246719722" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246719722" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="246719722" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246719722" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246720751" k="foot" o="none" type="way" v="yes" />
+    <tag id="246720751" k="name" o="none" type="way" v="Avenida Francisco Finco" />
+    <tag id="246720751" k="lanes" o="none" type="way" v="2" />
+    <tag id="246720751" k="oneway" o="none" type="way" v="no" />
+    <tag id="246720751" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246720751" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="246720751" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246720751" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="246723033" k="foot" o="none" type="way" v="yes" />
+    <tag id="246723033" k="lanes" o="none" type="way" v="2" />
+    <tag id="246723033" k="oneway" o="none" type="way" v="no" />
+    <tag id="246723033" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="246723033" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="246723033" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="246723033" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="246805153" k="name" o="none" type="way" v="Rua Aladino" />
+    <tag id="246805153" k="highway" o="none" type="way" v="residential" />
+    <tag id="246805558" k="name" o="none" type="way" v="Rua Palmerina Odilia F Guaseli" />
+    <tag id="246805558" k="highway" o="none" type="way" v="residential" />
+    <tag id="247544693" k="foot" o="none" type="way" v="yes" />
+    <tag id="247544693" k="name" o="none" type="way" v="Avenida . Iva&#237;" />
+    <tag id="247544693" k="lanes" o="none" type="way" v="2" />
+    <tag id="247544693" k="oneway" o="none" type="way" v="yes" />
+    <tag id="247544693" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247544693" k="highway" o="none" type="way" v="residential" />
+    <tag id="247544693" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="247544693" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="247546578" k="name" o="none" type="way" v="Rua Fortunato Benevenuto Finco" />
+    <tag id="247546578" k="highway" o="none" type="way" v="residential" />
+    <tag id="247546578" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247546579" k="foot" o="none" type="way" v="yes" />
+    <tag id="247546579" k="horse" o="none" type="way" v="no" />
+    <tag id="247546579" k="oneway" o="none" type="way" v="no" />
+    <tag id="247546579" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247546579" k="highway" o="none" type="way" v="residential" />
+    <tag id="247546579" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247546579" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247547373" k="foot" o="none" type="way" v="yes" />
+    <tag id="247547373" k="name" o="none" type="way" v="Rua Joaquim Mascarenhas" />
+    <tag id="247547373" k="oneway" o="none" type="way" v="no" />
+    <tag id="247547373" k="highway" o="none" type="way" v="residential" />
+    <tag id="247547373" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247547373" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247547399" k="highway" o="none" type="way" v="residential" />
+    <tag id="247548020" k="foot" o="none" type="way" v="yes" />
+    <tag id="247548020" k="name" o="none" type="way" v="Avenida Francisco Finco" />
+    <tag id="247548020" k="horse" o="none" type="way" v="yes" />
+    <tag id="247548020" k="lanes" o="none" type="way" v="2" />
+    <tag id="247548020" k="oneway" o="none" type="way" v="no" />
+    <tag id="247548020" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247548020" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="247548020" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247548020" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="247550492" k="foot" o="none" type="way" v="yes" />
+    <tag id="247550492" k="oneway" o="none" type="way" v="no" />
+    <tag id="247550492" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247550492" k="highway" o="none" type="way" v="residential" />
+    <tag id="247550492" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247550492" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="247550763" k="foot" o="none" type="way" v="yes" />
+    <tag id="247550763" k="name" o="none" type="way" v="Rua Mario Paulo Autuori" />
+    <tag id="247550763" k="oneway" o="none" type="way" v="no" />
+    <tag id="247550763" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247550763" k="highway" o="none" type="way" v="residential" />
+    <tag id="247550763" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247550763" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247550863" k="highway" o="none" type="way" v="residential" />
+    <tag id="247551433" k="foot" o="none" type="way" v="yes" />
+    <tag id="247551433" k="name" o="none" type="way" v="C" />
+    <tag id="247551433" k="oneway" o="none" type="way" v="no" />
+    <tag id="247551433" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247551433" k="highway" o="none" type="way" v="residential" />
+    <tag id="247551433" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247551433" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="247551910" k="foot" o="none" type="way" v="yes" />
+    <tag id="247551910" k="name" o="none" type="way" v="rua Francisco Bernadello" />
+    <tag id="247551910" k="oneway" o="none" type="way" v="no" />
+    <tag id="247551910" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247551910" k="highway" o="none" type="way" v="residential" />
+    <tag id="247551910" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247551910" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="247552194" k="foot" o="none" type="way" v="yes" />
+    <tag id="247552194" k="name" o="none" type="way" v="rua Rosa In&#234;s Bruni Pinchiaro" />
+    <tag id="247552194" k="oneway" o="none" type="way" v="no" />
+    <tag id="247552194" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247552194" k="highway" o="none" type="way" v="residential" />
+    <tag id="247552194" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247552194" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247552397" k="foot" o="none" type="way" v="yes" />
+    <tag id="247552397" k="name" o="none" type="way" v="rua Francisco Mariotto" />
+    <tag id="247552397" k="oneway" o="none" type="way" v="no" />
+    <tag id="247552397" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247552397" k="highway" o="none" type="way" v="residential" />
+    <tag id="247552397" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247552397" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247552483" k="foot" o="none" type="way" v="yes" />
+    <tag id="247552483" k="name" o="none" type="way" v="rua Maria Madalena Venzol" />
+    <tag id="247552483" k="oneway" o="none" type="way" v="no" />
+    <tag id="247552483" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247552483" k="highway" o="none" type="way" v="residential" />
+    <tag id="247552483" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247552483" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247553052" k="highway" o="none" type="way" v="residential" />
+    <tag id="247885348" k="highway" o="none" type="way" v="residential" />
+    <tag id="247885476" k="highway" o="none" type="way" v="residential" />
+    <tag id="247885925" k="highway" o="none" type="way" v="residential" />
+    <tag id="247885989" k="highway" o="none" type="way" v="residential" />
+    <tag id="247886016" k="highway" o="none" type="way" v="residential" />
+    <tag id="247886141" k="highway" o="none" type="way" v="residential" />
+    <tag id="247886187" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247886511" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247886755" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247886833" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887010" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887038" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887166" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887337" k="foot" o="none" type="way" v="yes" />
+    <tag id="247887337" k="name" o="none" type="way" v="rua Giuseppe Pessoti" />
+    <tag id="247887337" k="oneway" o="none" type="way" v="no" />
+    <tag id="247887337" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247887337" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887337" k="surface" o="none" type="way" v="gravel" />
+    <tag id="247887337" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247887428" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887462" k="foot" o="none" type="way" v="yes" />
+    <tag id="247887462" k="name" o="none" type="way" v="rua Luiza Viezzer Finco" />
+    <tag id="247887462" k="oneway" o="none" type="way" v="no" />
+    <tag id="247887462" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247887462" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247887462" k="surface" o="none" type="way" v="gravel" />
+    <tag id="247887462" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247887879" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247888062" k="foot" o="none" type="way" v="yes" />
+    <tag id="247888062" k="name" o="none" type="way" v="Avenida Francisco Finco" />
+    <tag id="247888062" k="lanes" o="none" type="way" v="2" />
+    <tag id="247888062" k="oneway" o="none" type="way" v="no" />
+    <tag id="247888062" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247888062" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="247888062" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247888062" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="247888534" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247888906" k="highway" o="none" type="way" v="residential" />
+    <tag id="247888940" k="highway" o="none" type="way" v="residential" />
+    <tag id="247889355" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247889455" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247889831" k="foot" o="none" type="way" v="yes" />
+    <tag id="247889831" k="name" o="none" type="way" v="Rua Gelson Moreira de Souza" />
+    <tag id="247889831" k="oneway" o="none" type="way" v="no" />
+    <tag id="247889831" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247889831" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247889831" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247889831" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247889902" k="foot" o="none" type="way" v="yes" />
+    <tag id="247889902" k="name" o="none" type="way" v="Estrada dos Camponeses" />
+    <tag id="247889902" k="oneway" o="none" type="way" v="no" />
+    <tag id="247889902" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247889902" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247889902" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247889902" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247891215" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247891550" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247891920" k="foot" o="none" type="way" v="yes" />
+    <tag id="247891920" k="name" o="none" type="way" v="rua Felice Rosi" />
+    <tag id="247891920" k="horse" o="none" type="way" v="permissive" />
+    <tag id="247891920" k="oneway" o="none" type="way" v="no" />
+    <tag id="247891920" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247891920" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247891920" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247891920" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247892062" k="foot" o="none" type="way" v="yes" />
+    <tag id="247892062" k="oneway" o="none" type="way" v="no" />
+    <tag id="247892062" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="247892062" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247892062" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="247892062" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="247892208" k="highway" o="none" type="way" v="residential" />
+    <tag id="247892697" k="highway" o="none" type="way" v="residential" />
+    <tag id="247892789" k="highway" o="none" type="way" v="residential" />
+    <tag id="247893363" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247893513" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247893653" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247893672" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247894036" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247894247" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247894535" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="247894654" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="252981759" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="254047896" k="name" o="none" type="way" v="Paroquia S&#227;o Jo&#227;o Batista" />
+    <tag id="254047896" k="phone" o="none" type="way" v="+55 11 4354 9909" />
+    <tag id="254047896" k="source" o="none" type="way" v="http://www.diocesesantoandre.org.br/newsite/?p=4291" />
+    <tag id="254047896" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="254047896" k="building" o="none" type="way" v="yes" />
+    <tag id="254047896" k="religion" o="none" type="way" v="christian" />
+    <tag id="254047896" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="254047896" k="addr:street" o="none" type="way" v="Avenida Araguaia" />
+    <tag id="254047896" k="denomination" o="none" type="way" v="roman_catholic" />
+    <tag id="254047896" k="addr:postcode" o="none" type="way" v="09830-110" />
+    <tag id="254047896" k="addr:housenumber" o="none" type="way" v="59" />
+    <tag id="254048941" k="name" o="none" type="way" v="Capela Nossa Senhora Aparecida" />
+    <tag id="254048941" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="254048941" k="building" o="modify" type="way" v="chapel" />
+    <tag id="254048941" k="religion" o="none" type="way" v="christian" />
+    <tag id="254048941" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="254048941" k="addr:street" o="none" type="way" v="Estrada do Morro Grande" />
+    <tag id="254048941" k="denomination" o="none" type="way" v="roman_catholic" />
+    <tag id="254048941" k="addr:postcode" o="none" type="way" v="09831-250" />
+    <tag id="254048941" k="addr:housenumber" o="none" type="way" v="08" />
+    <tag id="254066904" k="name" o="none" type="way" v="Avenida Francisco Finco" />
+    <tag id="254066904" k="oneway" o="none" type="way" v="yes" />
+    <tag id="254066904" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="254066904" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="254068764" k="highway" o="none" type="way" v="service" />
+    <tag id="254070530" k="name" o="none" type="way" v="Templo do Culto do Povo do Oriente e Deusa dos Ventos" />
+    <tag id="254070530" k="phone" o="none" type="way" v="+55 11 4101 7976" />
+    <tag id="254070530" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="254070530" k="building" o="none" type="way" v="yes" />
+    <tag id="254070530" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="254070530" k="addr:street" o="none" type="way" v="Estrada do Morro Grande" />
+    <tag id="254070530" k="addr:housenumber" o="none" type="way" v="373" />
+    <tag id="254070665" k="highway" o="none" type="way" v="residential" />
+    <tag id="254070665" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="254078759" k="foot" o="none" type="way" v="yes" />
+    <tag id="254078759" k="oneway" o="none" type="way" v="yes" />
+    <tag id="254078759" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="254078759" k="highway" o="none" type="way" v="residential" />
+    <tag id="254078759" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="254078861" k="oneway" o="none" type="way" v="yes" />
+    <tag id="254078861" k="highway" o="none" type="way" v="residential" />
+    <tag id="254078861" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="254086404" k="name" o="none" type="way" v="Ricoy" />
+    <tag id="254086404" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="254086404" k="phone" o="none" type="way" v="+55 11 4354 6120" />
+    <tag id="254086404" k="website" o="none" type="way" v="http://www.associacaoricoy.com.br/" />
+    <tag id="254086404" k="building" o="none" type="way" v="yes" />
+    <tag id="254086404" k="operator" o="none" type="way" v="Ricoy" />
+    <tag id="254086404" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="254086404" k="addr:street" o="none" type="way" v="rua Heinrich Nordhoff" />
+    <tag id="254086404" k="addr:housename" o="none" type="way" v="Ricoy Supermercados" />
+    <tag id="254086404" k="addr:housenumber" o="none" type="way" v="63" />
+    <tag id="254151454" k="name" o="none" type="way" v="Prainha" />
+    <tag id="254151454" k="natural" o="none" type="way" v="beach" />
+    <tag id="254151454" k="surface" o="none" type="way" v="sand" />
+    <tag id="256379007" k="foot" o="none" type="way" v="yes" />
+    <tag id="256379007" k="name" o="none" type="way" v="Rua Joaquim Mascarenhas" />
+    <tag id="256379007" k="horse" o="none" type="way" v="no" />
+    <tag id="256379007" k="oneway" o="none" type="way" v="yes" />
+    <tag id="256379007" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="256379007" k="highway" o="none" type="way" v="residential" />
+    <tag id="256379007" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="256379007" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="256382064" k="oneway" o="none" type="way" v="yes" />
+    <tag id="256382064" k="highway" o="none" type="way" v="road" />
+    <tag id="256382158" k="horse" o="none" type="way" v="no" />
+    <tag id="256382158" k="bridge" o="none" type="way" v="yes" />
+    <tag id="256382158" k="highway" o="none" type="way" v="footway" />
+    <tag id="256382158" k="surface" o="none" type="way" v="concrete" />
+    <tag id="256382365" k="highway" o="none" type="way" v="road" />
+    <tag id="256382365" k="surface" o="none" type="way" v="gravel" />
+    <tag id="256382365" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="256775549" k="name" o="none" type="way" v="A" />
+    <tag id="256775549" k="horse" o="none" type="way" v="no" />
+    <tag id="256775549" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="256775549" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="256775549" k="surface" o="none" type="way" v="concrete" />
+    <tag id="256775549" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="256775549" k="addr:street" o="none" type="way" v="Avenida Amazonas" />
+    <tag id="256777413" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="256778402" k="area" o="none" type="way" v="yes" />
+    <tag id="256778402" k="name" o="none" type="way" v="Milicia da Imaculada" />
+    <tag id="256778402" k="phone" o="none" type="way" v="+55 11 4397.6500" />
+    <tag id="256778402" k="website" o="none" type="way" v="http://www.miliciadaimaculada.org.br/ver3/" />
+    <tag id="256778402" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="256778402" k="addr:street" o="none" type="way" v="Estrada do Morro Grande" />
+    <tag id="256778402" k="addr:postcode" o="none" type="way" v="09831-250" />
+    <tag id="256778402" k="addr:housenumber" o="none" type="way" v="870" />
+    <tag id="259481769" k="highway" o="none" type="way" v="residential" />
+    <tag id="259481770" k="name" o="none" type="way" v="Estrada da Roseira" />
+    <tag id="259481770" k="highway" o="none" type="way" v="residential" />
+    <tag id="259481772" k="name" o="none" type="way" v="Estrada Henrique Rosa" />
+    <tag id="259481772" k="highway" o="none" type="way" v="residential" />
+    <tag id="259481773" k="highway" o="none" type="way" v="residential" />
+    <tag id="259481778" k="highway" o="none" type="way" v="residential" />
+    <tag id="259520819" k="name" o="none" type="way" v="Estrada de acesso ao Hawai Clube Tozan" />
+    <tag id="259520819" k="oneway" o="none" type="way" v="no" />
+    <tag id="259520819" k="highway" o="none" type="way" v="residential" />
+    <tag id="259520819" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="259520822" k="highway" o="none" type="way" v="residential" />
+    <tag id="259520826" k="highway" o="none" type="way" v="residential" />
+    <tag id="259554455" k="oneway" o="none" type="way" v="yes" />
+    <tag id="259554455" k="highway" o="none" type="way" v="motorway" />
+    <tag id="259554456" k="highway" o="none" type="way" v="residential" />
+    <tag id="259554458" k="highway" o="none" type="way" v="residential" />
+    <tag id="259554466" k="highway" o="none" type="way" v="residential" />
+    <tag id="259579879" k="highway" o="none" type="way" v="residential" />
+    <tag id="259584094" k="highway" o="none" type="way" v="residential" />
+    <tag id="260183846" k="foot" o="none" type="way" v="yes" />
+    <tag id="260183846" k="name" o="none" type="way" v="Estrada do Rio Acima" />
+    <tag id="260183846" k="horse" o="none" type="way" v="yes" />
+    <tag id="260183846" k="lanes" o="none" type="way" v="4" />
+    <tag id="260183846" k="oneway" o="none" type="way" v="no" />
+    <tag id="260183846" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="260183846" k="highway" o="none" type="way" v="secondary" />
+    <tag id="260183846" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="260183846" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="261872547" k="foot" o="none" type="way" v="yes" />
+    <tag id="261872547" k="horse" o="none" type="way" v="no" />
+    <tag id="261872547" k="oneway" o="none" type="way" v="no" />
+    <tag id="261872547" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="261872547" k="highway" o="none" type="way" v="residential" />
+    <tag id="261872547" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="261872547" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="261872647" k="foot" o="none" type="way" v="yes" />
+    <tag id="261872647" k="horse" o="none" type="way" v="no" />
+    <tag id="261872647" k="oneway" o="none" type="way" v="no" />
+    <tag id="261872647" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="261872647" k="highway" o="none" type="way" v="residential" />
+    <tag id="261872647" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="261872647" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="261872701" k="foot" o="none" type="way" v="yes" />
+    <tag id="261872701" k="horse" o="none" type="way" v="no" />
+    <tag id="261872701" k="oneway" o="none" type="way" v="no" />
+    <tag id="261872701" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="261872701" k="highway" o="none" type="way" v="residential" />
+    <tag id="261872701" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="261872701" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="261874530" k="landuse" o="none" type="way" v="forest" />
+    <tag id="262842675" k="foot" o="none" type="way" v="yes" />
+    <tag id="262842675" k="name" o="none" type="way" v="Avenida . Iva&#237;" />
+    <tag id="262842675" k="lanes" o="none" type="way" v="2" />
+    <tag id="262842675" k="oneway" o="none" type="way" v="yes" />
+    <tag id="262842675" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="262842675" k="highway" o="none" type="way" v="residential" />
+    <tag id="262842675" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="262842675" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="263737821" k="name" o="none" type="way" v="EMEB Graciliano Ramos" />
+    <tag id="263737821" k="phone" o="none" type="way" v="+55 11 4354 9917" />
+    <tag id="263737821" k="amenity" o="none" type="way" v="kindergarten" />
+    <tag id="263737821" k="building" o="none" type="way" v="yes" />
+    <tag id="263737821" k="operator" o="none" type="way" v="Prefeitura" />
+    <tag id="263737821" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="263737821" k="addr:street" o="none" type="way" v="Rua Jo&#227;o D'Angelo" />
+    <tag id="263737821" k="addr:postcode" o="none" type="way" v="09830-350" />
+    <tag id="263737821" k="addr:housenumber" o="none" type="way" v="71" />
+    <tag id="263739203" k="wood" o="none" type="way" v="mixed" />
+    <tag id="263739203" k="landuse" o="none" type="way" v="forest" />
+    <tag id="264544700" k="wood" o="none" type="way" v="mixed" />
+    <tag id="264544700" k="landuse" o="none" type="way" v="forest" />
+    <tag id="264545462" k="oneway" o="none" type="way" v="no" />
+    <tag id="264545462" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545465" k="oneway" o="none" type="way" v="no" />
+    <tag id="264545465" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545476" k="oneway" o="none" type="way" v="no" />
+    <tag id="264545476" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545530" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545552" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545554" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545626" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545717" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545723" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545742" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545849" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545864" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545871" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545876" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545938" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545950" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264545981" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264546109" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="264546460" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="268646666" k="name" o="none" type="way" v="Igreja Minist&#233;rio Pentecostal ATOS" />
+    <tag id="268646666" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="268646666" k="building" o="modify" type="way" v="church" />
+    <tag id="268646666" k="religion" o="none" type="way" v="christian" />
+    <tag id="268646666" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="268646666" k="addr:street" o="none" type="way" v="Rua Gelson Moreira de Souza" />
+    <tag id="268646666" k="denomination" o="none" type="way" v="pentecostal" />
+    <tag id="268647773" k="horse" o="none" type="way" v="no" />
+    <tag id="268647773" k="highway" o="none" type="way" v="footway" />
+    <tag id="268647773" k="surface" o="none" type="way" v="concrete" />
+    <tag id="269999812" k="name" o="none" type="way" v="1&#186; BPRV" />
+    <tag id="269999812" k="phone" o="none" type="way" v="+55 11 4354 0640" />
+    <tag id="269999812" k="amenity" o="none" type="way" v="police" />
+    <tag id="269999812" k="website" o="none" type="way" v="http://www.polmil.sp.gov.br/unidades/cprv/" />
+    <tag id="269999812" k="building" o="none" type="way" v="yes" />
+    <tag id="269999812" k="operator" o="none" type="way" v="SSP-SP" />
+    <tag id="269999812" k="addr:city" o="none" type="way" v="S&#227;o Bernardo do Campo" />
+    <tag id="269999812" k="addr:street" o="none" type="way" v="rua do Rio Acima" />
+    <tag id="269999812" k="addr:housenumber" o="none" type="way" v="2" />
+    <tag id="270008920" k="foot" o="none" type="way" v="yes" />
+    <tag id="270008920" k="name" o="none" type="way" v="Rua do Porto" />
+    <tag id="270008920" k="horse" o="none" type="way" v="no" />
+    <tag id="270008920" k="oneway" o="none" type="way" v="yes" />
+    <tag id="270008920" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="270008920" k="highway" o="none" type="way" v="residential" />
+    <tag id="270008920" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="270008920" k="maxspeed" o="none" type="way" v="30" />
+  </body>
+</changeset>

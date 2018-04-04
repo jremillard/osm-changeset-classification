@@ -1,0 +1,994 @@
+<changeset id="46885116" schema="2">
+  <counts nodesAdded="18" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="3" waysModified="98" />
+  <meta>
+    <tag k="comment" v="Reclassifying roads in between US 46 and I 80 based on NJDOT traffic data and personal knowledge. " />
+    <tag k="created_by" v="iD 2.1.3" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="3018266350" k="name" o="modify" type="node" v="The Village Green Apartments" />
+    <tag id="3018266350" k="operator" o="none" type="node" v="SEGAL &amp; SEGAL" />
+    <tag id="3018266350" k="advertising" o="none" type="node" v="sign" />
+    <tag id="11683815" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11683815" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11683815" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11683815" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11692962" k="name" o="none" type="way" v="Continental Drive North" />
+    <tag id="11692962" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11692962" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="11692962" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11692962" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11692962" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11692962" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="11692962" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11692962" k="old_railway_operator" o="none" type="way" v="DL&amp;W" />
+    <tag id="11692962" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="11693210" k="foot" o="none" type="way" v="yes" />
+    <tag id="11693210" k="name" o="none" type="way" v="Waterloo Valley Road" />
+    <tag id="11693210" k="access" o="none" type="way" v="yes" />
+    <tag id="11693210" k="oneway" o="none" type="way" v="no" />
+    <tag id="11693210" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="11693210" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11693210" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="11693210" k="cycleway" o="none" type="way" v="no" />
+    <tag id="11693210" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11693210" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11693210" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="11693210" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11693210" k="tiger:name_base" o="none" type="way" v="Waterloo Valley" />
+    <tag id="11693210" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11707840" k="name" o="none" type="way" v="Netcong Road" />
+    <tag id="11707840" k="note" o="none" type="way" v="according to Morris County this isn't a county route: https://morrisgis.co.morris.nj.us/pdfs/OCM_LARGE_BACK.pdf" />
+    <tag id="11707840" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11707840" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11707840" k="old_ref" o="none" type="way" v="(649)" />
+    <tag id="11707840" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11707840" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11707840" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11707840" k="tiger:zip_left" o="none" type="way" v="07828" />
+    <tag id="11707840" k="tiger:name_base" o="none" type="way" v="Netcong" />
+    <tag id="11707840" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11707840" k="tiger:zip_right" o="none" type="way" v="07828" />
+    <tag id="11708407" k="name" o="none" type="way" v="Continental Drive" />
+    <tag id="11708407" k="layer" o="none" type="way" v="1" />
+    <tag id="11708407" k="bridge" o="none" type="way" v="yes" />
+    <tag id="11708407" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11708407" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="11708407" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11708407" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11708407" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11708407" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="11708407" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11708407" k="old_railway_operator" o="none" type="way" v="DL&amp;W" />
+    <tag id="11723668" k="name" o="none" type="way" v="Cove Street" />
+    <tag id="11723668" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11723668" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11723668" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="11723668" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11723668" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11723668" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11723668" k="tiger:name_base" o="none" type="way" v="Cove" />
+    <tag id="11723668" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11723668" k="tiger:zip_right" o="none" type="way" v="07828" />
+    <tag id="11765336" k="name" o="none" type="way" v="Continental Drive" />
+    <tag id="11765336" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11765336" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="11765336" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11765336" k="tiger:county" o="none" type="way" v="Sussex, NJ" />
+    <tag id="11765336" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11765336" k="tiger:zip_left" o="none" type="way" v="07874" />
+    <tag id="11765336" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="11765336" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11765336" k="tiger:zip_right" o="none" type="way" v="07874" />
+    <tag id="11765336" k="old_railway_operator" o="none" type="way" v="DL&amp;W" />
+    <tag id="11768001" k="ref" o="none" type="way" v="CR 604" />
+    <tag id="11768001" k="name" o="none" type="way" v="Waterloo Road" />
+    <tag id="11768001" k="name_1" o="none" type="way" v="County Route 604" />
+    <tag id="11768001" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11768001" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11768001" k="tiger:county" o="none" type="way" v="Sussex, NJ" />
+    <tag id="11768001" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11768001" k="tiger:name_base" o="none" type="way" v="Waterloo" />
+    <tag id="11768001" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11768001" k="tiger:name_base_1" o="none" type="way" v="County Route 604" />
+    <tag id="11780489" k="ref" o="none" type="way" v="CR 655" />
+    <tag id="11780489" k="name" o="none" type="way" v="Mount Hermon Road" />
+    <tag id="11780489" k="name_1" o="none" type="way" v="Mt Herman Road" />
+    <tag id="11780489" k="name_2" o="none" type="way" v="Mount Hermon Road" />
+    <tag id="11780489" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11780489" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11780489" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11780489" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11780489" k="tiger:name_base" o="modify" type="way" v="Mount Hermon;Mt Hermon" />
+    <tag id="11780489" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11780489" k="tiger:name_base_1" o="none" type="way" v="Mt Herman" />
+    <tag id="11780489" k="tiger:name_base_2" o="none" type="way" v="Mount Hermon" />
+    <tag id="11780489" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11780489" k="tiger:name_type_2" o="none" type="way" v="Rd" />
+    <tag id="11782852" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11782852" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11782852" k="tiger:cfcc" o="none" type="way" v="A25" />
+    <tag id="11782852" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11782852" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11782852" k="tiger:name_base" o="none" type="way" v="United States Highway 46" />
+    <tag id="11783387" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11783387" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="11783387" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11783387" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11783785" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11783785" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="11783785" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11783785" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11783911" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11783911" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11783911" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="11783911" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11783911" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11783912" k="note" o="none" type="way" v="ramp between US 46 and County Road 618/Sareptra Road" />
+    <tag id="11783912" k="FIXME" o="none" type="way" v="verified via digital data that segment does not have a name. please verify via ground survey" />
+    <tag id="11783912" k="noname" o="none" type="way" v="yes" />
+    <tag id="11783912" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11783912" k="highway" o="modify" type="way" v="secondary_link" />
+    <tag id="11783912" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="11783912" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11783912" k="source:noname" o="none" type="way" v="NJ Road Network Dataset shapefile (http://www.state.nj.us/transportation/gis/data.shtm)" />
+    <tag id="11783912" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785656" k="ref" o="none" type="way" v="CR 614" />
+    <tag id="11785656" k="name" o="none" type="way" v="Water Street" />
+    <tag id="11785656" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11785656" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785656" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785656" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785656" k="tiger:zip_left" o="none" type="way" v="07840" />
+    <tag id="11785656" k="tiger:name_base" o="none" type="way" v="Water" />
+    <tag id="11785656" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11785702" k="ref" o="none" type="way" v="CR 605" />
+    <tag id="11785702" k="name" o="none" type="way" v="Delaware Road" />
+    <tag id="11785702" k="name_1" o="none" type="way" v="State Route 163" />
+    <tag id="11785702" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11785702" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11785702" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785702" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785702" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="11785702" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11785702" k="tiger:name_base_1" o="none" type="way" v="State Route 163" />
+    <tag id="11785743" k="ref" o="none" type="way" v="CR 654" />
+    <tag id="11785743" k="name" o="none" type="way" v="Old Allamuchy Road" />
+    <tag id="11785743" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11785743" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785743" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785743" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785743" k="tiger:name_base" o="none" type="way" v="Old Allamuchy" />
+    <tag id="11785743" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11785765" k="name" o="none" type="way" v="Locust Street" />
+    <tag id="11785765" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11785765" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785765" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785765" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785765" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11785765" k="tiger:name_base" o="none" type="way" v="Locust" />
+    <tag id="11785765" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11785765" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="11786241" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11786241" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11786241" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="11786241" k="name" o="none" type="way" v="Johnsonburg Road" />
+    <tag id="11786241" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11786241" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11786241" k="tiger:cfcc" o="none" type="way" v="A43" />
+    <tag id="11786241" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11786241" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11786241" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="11786241" k="tiger:name_base" o="none" type="way" v="Johnsonburg" />
+    <tag id="11786241" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11786241" k="tiger:zip_right" o="none" type="way" v="07825" />
+    <tag id="11786241" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11786241" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11786241" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11786525" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11786525" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11786525" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="11786525" k="name" o="none" type="way" v="Hope - Bridgeville Road" />
+    <tag id="11786525" k="name_1" o="none" type="way" v="Bridgeville Road" />
+    <tag id="11786525" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11786525" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11786525" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11786525" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11786525" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11786525" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="11786525" k="tiger:name_base" o="none" type="way" v="Hope Bridgeville" />
+    <tag id="11786525" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11786525" k="tiger:zip_right" o="none" type="way" v="07825" />
+    <tag id="11786525" k="tiger:zip_left_1" o="none" type="way" v="07825" />
+    <tag id="11786525" k="tiger:zip_left_2" o="none" type="way" v="07825" />
+    <tag id="11786525" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11786525" k="tiger:name_base_1" o="none" type="way" v="Bridgeville" />
+    <tag id="11786525" k="tiger:name_base_2" o="none" type="way" v="County Road 519" />
+    <tag id="11786525" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11786525" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11786848" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11786848" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11786848" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="11786848" k="name" o="none" type="way" v="Hope - Johnsonburg Road" />
+    <tag id="11786848" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11786848" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11786848" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11786848" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11786848" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11786848" k="tiger:name_base" o="none" type="way" v="Hope-Johnsonburg" />
+    <tag id="11786848" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11786848" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11786848" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11786848" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11787645" k="ref" o="none" type="way" v="CR 604" />
+    <tag id="11787645" k="name" o="none" type="way" v="Waterloo Road" />
+    <tag id="11787645" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11787645" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11787645" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11787645" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11787645" k="tiger:name_base" o="none" type="way" v="Waterloo" />
+    <tag id="11787645" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11788053" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11788053" k="ref" o="none" type="way" v="CR 521" />
+    <tag id="11788053" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="11788053" k="name" o="none" type="way" v="Hope - Blairstown Road" />
+    <tag id="11788053" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11788053" k="NJDOT_SRI" o="none" type="way" v="00000521" />
+    <tag id="11788053" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11788053" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11788053" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11788053" k="tiger:name_base" o="none" type="way" v="Hope Blairstown" />
+    <tag id="11788053" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11788053" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11788053" k="tiger:name_base_1" o="none" type="way" v="County Road 521" />
+    <tag id="11788053" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11788178" k="ref" o="none" type="way" v="CR 665" />
+    <tag id="11788178" k="name" o="none" type="way" v="Bilby Road" />
+    <tag id="11788178" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11788178" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11788178" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11788178" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11788178" k="tiger:zip_left" o="none" type="way" v="07840" />
+    <tag id="11788178" k="tiger:name_base" o="none" type="way" v="Bilby" />
+    <tag id="11788178" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11788178" k="tiger:zip_right" o="none" type="way" v="07840" />
+    <tag id="11788800" k="ref" o="none" type="way" v="CR 611" />
+    <tag id="11788800" k="name" o="none" type="way" v="Hope Road" />
+    <tag id="11788800" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11788800" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11788800" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11788800" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11788800" k="tiger:zip_left" o="none" type="way" v="07838" />
+    <tag id="11788800" k="tiger:name_base" o="none" type="way" v="Hope" />
+    <tag id="11788800" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11788800" k="tiger:zip_right" o="none" type="way" v="07838" />
+    <tag id="11788963" k="ref" o="none" type="way" v="CR 609" />
+    <tag id="11788963" k="name" o="none" type="way" v="Ramseyburg Road" />
+    <tag id="11788963" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11788963" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11788963" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11788963" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11788963" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11788963" k="tiger:name_base" o="none" type="way" v="Ramseyburg" />
+    <tag id="11788963" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11788963" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="11789217" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11789217" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11789217" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="11789217" k="name" o="none" type="way" v="Hope Road" />
+    <tag id="11789217" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11789217" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11789217" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11789217" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11789217" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11789217" k="tiger:name_base" o="none" type="way" v="County Road 519" />
+    <tag id="11789217" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11789217" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11789225" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11789225" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11789225" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="11789225" k="name" o="none" type="way" v="North Bridgeville Road" />
+    <tag id="11789225" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11789225" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11789225" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11789225" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11789225" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11789225" k="tiger:name_base" o="none" type="way" v="County Road 519;Bridgeville" />
+    <tag id="11789225" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11789225" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11789225" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11789225" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11789225" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="11789891" k="ref" o="none" type="way" v="CR 611-M" />
+    <tag id="11789891" k="name" o="none" type="way" v="Milbrook Road" />
+    <tag id="11789891" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11789891" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11789891" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11789891" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11789891" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="11789891" k="tiger:name_base" o="none" type="way" v="Milbrook" />
+    <tag id="11789891" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11789891" k="tiger:zip_right" o="none" type="way" v="07825" />
+    <tag id="11789891" k="tiger:zip_left_1" o="none" type="way" v="07825" />
+    <tag id="11790314" k="name" o="none" type="way" v="Ridge Road" />
+    <tag id="11790314" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11790314" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11790314" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11790314" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11790314" k="tiger:name_base" o="none" type="way" v="Ridge" />
+    <tag id="11790314" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11791013" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791013" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11791013" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791013" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791013" k="tiger:name_base" o="none" type="way" v="State Route 94" />
+    <tag id="11791323" k="ref" o="none" type="way" v="CR 605" />
+    <tag id="11791323" k="name" o="none" type="way" v="Valley Street" />
+    <tag id="11791323" k="name_1" o="none" type="way" v="State Route 163" />
+    <tag id="11791323" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791323" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11791323" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791323" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791323" k="tiger:zip_left" o="none" type="way" v="07833" />
+    <tag id="11791323" k="tiger:name_base" o="none" type="way" v="Valley" />
+    <tag id="11791323" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11791323" k="tiger:zip_left_1" o="none" type="way" v="07833" />
+    <tag id="11791323" k="tiger:name_base_1" o="none" type="way" v="State Route 163" />
+    <tag id="11791532" k="ref" o="none" type="way" v="CR 613" />
+    <tag id="11791532" k="name" o="none" type="way" v="Alphano Road" />
+    <tag id="11791532" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791532" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791532" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791532" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791532" k="tiger:zip_left" o="none" type="way" v="07838" />
+    <tag id="11791532" k="tiger:name_base" o="none" type="way" v="Alphano" />
+    <tag id="11791532" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11791532" k="tiger:zip_right" o="none" type="way" v="07838" />
+    <tag id="11791833" k="HFCS" o="none" type="way" v="Rural Local" />
+    <tag id="11791833" k="name" o="none" type="way" v="Lackawanna Road" />
+    <tag id="11791833" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791833" k="NJDOT_SRI" o="none" type="way" v="00000163" />
+    <tag id="11791833" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791833" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791833" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791833" k="tiger:zip_left" o="none" type="way" v="07833" />
+    <tag id="11791833" k="tiger:name_base" o="none" type="way" v="Lackawanna" />
+    <tag id="11791833" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11791989" k="ref" o="none" type="way" v="CR 611" />
+    <tag id="11791989" k="name" o="none" type="way" v="Hope - Great Meadow Road" />
+    <tag id="11791989" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791989" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791989" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791989" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791989" k="tiger:name_base" o="none" type="way" v="Hope Great Meadow" />
+    <tag id="11791989" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792176" k="ref" o="none" type="way" v="CR 616" />
+    <tag id="11792176" k="name" o="none" type="way" v="Knowlton Road" />
+    <tag id="11792176" k="name_1" o="none" type="way" v="Delaware Road" />
+    <tag id="11792176" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792176" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792176" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792176" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792176" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11792176" k="tiger:name_base" o="none" type="way" v="Knowlton" />
+    <tag id="11792176" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792176" k="tiger:name_base_1" o="none" type="way" v="Delaware" />
+    <tag id="11792176" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11792191" k="ref" o="none" type="way" v="CR 616" />
+    <tag id="11792191" k="name" o="none" type="way" v="Knowlton Road" />
+    <tag id="11792191" k="name_1" o="none" type="way" v="Delaware Road" />
+    <tag id="11792191" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792191" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792191" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792191" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792191" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11792191" k="tiger:name_base" o="none" type="way" v="Knowlton" />
+    <tag id="11792191" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792191" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="11792191" k="tiger:name_base_1" o="none" type="way" v="Delaware" />
+    <tag id="11792191" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11792381" k="ref" o="none" type="way" v="CR 614" />
+    <tag id="11792381" k="name" o="none" type="way" v="Petersburg Road" />
+    <tag id="11792381" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792381" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792381" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792381" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792381" k="tiger:name_base" o="none" type="way" v="Petersburg" />
+    <tag id="11792381" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792582" k="ref" o="none" type="way" v="(605)" />
+    <tag id="11792582" k="name" o="none" type="way" v="Valley Road" />
+    <tag id="11792582" k="name_1" o="none" type="way" v="State Route 163" />
+    <tag id="11792582" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792582" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11792582" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792582" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792582" k="tiger:name_base" o="none" type="way" v="Valley" />
+    <tag id="11792582" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792582" k="tiger:name_base_1" o="none" type="way" v="State Route 163" />
+    <tag id="11792646" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="11792646" k="name" o="none" type="way" v="Mountain Lake Road" />
+    <tag id="11792646" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792646" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792646" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792646" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792646" k="tiger:zip_left" o="none" type="way" v="07823" />
+    <tag id="11792646" k="tiger:name_base" o="none" type="way" v="Mountain Lake" />
+    <tag id="11792646" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792646" k="tiger:zip_right" o="none" type="way" v="07823" />
+    <tag id="11792670" k="ref" o="none" type="way" v="CR 679" />
+    <tag id="11792670" k="name" o="none" type="way" v="Mountain Lake Road" />
+    <tag id="11792670" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792670" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792670" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792670" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792670" k="tiger:name_base" o="none" type="way" v="Mountain Lake" />
+    <tag id="11792670" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792732" k="name" o="none" type="way" v="Decatur Street" />
+    <tag id="11792732" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792732" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792732" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792732" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792732" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11792732" k="tiger:name_base" o="none" type="way" v="Decatur" />
+    <tag id="11792732" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11792732" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="11792736" k="name" o="none" type="way" v="Decatur Street" />
+    <tag id="11792736" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792736" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792736" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792736" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792736" k="tiger:name_base" o="none" type="way" v="Decatur" />
+    <tag id="11792736" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11792739" k="name" o="none" type="way" v="Decatur Street" />
+    <tag id="11792739" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792739" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="11792739" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792739" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792739" k="tiger:name_base" o="none" type="way" v="Decatur" />
+    <tag id="11792739" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11792960" k="ref" o="none" type="way" v="CR 605" />
+    <tag id="11792960" k="name" o="none" type="way" v="Delaware Road" />
+    <tag id="11792960" k="name_1" o="none" type="way" v="State Route 163" />
+    <tag id="11792960" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792960" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11792960" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792960" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792960" k="tiger:zip_left" o="none" type="way" v="07833" />
+    <tag id="11792960" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="11792960" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792960" k="tiger:zip_right" o="none" type="way" v="07833" />
+    <tag id="11792960" k="tiger:zip_left_1" o="none" type="way" v="07833" />
+    <tag id="11792960" k="tiger:zip_left_2" o="none" type="way" v="07833" />
+    <tag id="11792960" k="tiger:name_base_1" o="none" type="way" v="State Route 163" />
+    <tag id="11792960" k="tiger:zip_right_2" o="none" type="way" v="07833" />
+    <tag id="11792976" k="ref" o="none" type="way" v="CR 605" />
+    <tag id="11792976" k="name" o="none" type="way" v="Delaware Road" />
+    <tag id="11792976" k="name_1" o="none" type="way" v="State Route 163" />
+    <tag id="11792976" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792976" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11792976" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792976" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792976" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="11792976" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11792976" k="tiger:name_base_1" o="none" type="way" v="State Route 163" />
+    <tag id="11792985" k="ref" o="none" type="way" v="CR 616" />
+    <tag id="11792985" k="name" o="none" type="way" v="Delaware Road" />
+    <tag id="11792985" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792985" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792985" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792985" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792985" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="11792985" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="11792985" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11793031" k="ref" o="none" type="way" v="CR 609" />
+    <tag id="11793031" k="name" o="none" type="way" v="Delaware Road" />
+    <tag id="11793031" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793031" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793031" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793031" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793031" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="11793031" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11793255" k="ref" o="none" type="way" v="CR 611" />
+    <tag id="11793255" k="name" o="none" type="way" v="Hope - Great Meadows Road" />
+    <tag id="11793255" k="name_1" o="none" type="way" v="Great Meadows Road" />
+    <tag id="11793255" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793255" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793255" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793255" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793255" k="tiger:name_base" o="none" type="way" v="Hope Great Meadows" />
+    <tag id="11793255" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11793255" k="tiger:name_base_1" o="none" type="way" v="Great Meadows" />
+    <tag id="11793255" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11793539" k="ref" o="none" type="way" v="CR 610" />
+    <tag id="11793539" k="name" o="none" type="way" v="Swayze Mill Road" />
+    <tag id="11793539" k="name_1" o="none" type="way" v="County Road 610" />
+    <tag id="11793539" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793539" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793539" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793539" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793539" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="11793539" k="tiger:name_base" o="none" type="way" v="Swayze Mill" />
+    <tag id="11793539" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11793539" k="tiger:name_base_1" o="none" type="way" v="County Road 610" />
+    <tag id="11793975" k="ref" o="add" type="way" v="CR 676" />
+    <tag id="11793975" k="name" o="none" type="way" v="Decatur Road" />
+    <tag id="11793975" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793975" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793975" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793975" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793975" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11793975" k="tiger:name_base" o="none" type="way" v="Decatur" />
+    <tag id="11793975" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11793975" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="11794532" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="11794532" k="name" o="none" type="way" v="Green Pond Road" />
+    <tag id="11794532" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11794532" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11794532" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11794532" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11794532" k="tiger:name_base" o="none" type="way" v="Green Pond" />
+    <tag id="11794532" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11794867" k="ref" o="none" type="way" v="CR 604" />
+    <tag id="11794867" k="name" o="none" type="way" v="Willow Grove Street" />
+    <tag id="11794867" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11794867" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11794867" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11794867" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11794867" k="tiger:zip_left" o="none" type="way" v="07840" />
+    <tag id="11794867" k="tiger:name_base" o="none" type="way" v="Willow Grove" />
+    <tag id="11794867" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11794867" k="tiger:zip_right" o="none" type="way" v="07840" />
+    <tag id="11795002" k="ref" o="none" type="way" v="CR 611-M" />
+    <tag id="11795002" k="name" o="none" type="way" v="Millbrook Road" />
+    <tag id="11795002" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11795002" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11795002" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11795002" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11795002" k="tiger:name_base" o="none" type="way" v="Millbrook" />
+    <tag id="11795002" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11795467" k="ref" o="none" type="way" v="CR 618" />
+    <tag id="11795467" k="name" o="none" type="way" v="Sarepta Road" />
+    <tag id="11795467" k="name_1" o="none" type="way" v="County Road 618" />
+    <tag id="11795467" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11795467" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11795467" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11795467" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11795467" k="tiger:zip_left" o="none" type="way" v="07823" />
+    <tag id="11795467" k="tiger:name_base" o="none" type="way" v="Sarepta" />
+    <tag id="11795467" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11795467" k="tiger:zip_right" o="none" type="way" v="07823" />
+    <tag id="11795467" k="tiger:name_base_1" o="none" type="way" v="County Road 618" />
+    <tag id="11795678" k="ref" o="none" type="way" v="(657)" />
+    <tag id="11795678" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="11795678" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11795678" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11795678" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11795678" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11795678" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="11795678" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="11795678" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11795678" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="11795681" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="11795681" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11795681" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11795681" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11795681" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11795681" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11795681" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="11795681" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11795681" k="tiger:name_base_1" o="none" type="way" v="State Route 94" />
+    <tag id="11796294" k="ref" o="none" type="way" v="CR 609" />
+    <tag id="11796294" k="name" o="none" type="way" v="High Street" />
+    <tag id="11796294" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11796294" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11796294" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11796294" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11796294" k="tiger:name_base" o="none" type="way" v="High" />
+    <tag id="11796294" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11796294" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11796433" k="ref" o="none" type="way" v="CR 665" />
+    <tag id="11796433" k="name" o="none" type="way" v="Old Bilby Road" />
+    <tag id="11796433" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11796433" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11796433" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11796433" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11796433" k="tiger:name_base" o="none" type="way" v="Old Bilby" />
+    <tag id="11796433" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16095392" k="name" o="none" type="way" v="Cross Street" />
+    <tag id="16095392" k="layer" o="none" type="way" v="1" />
+    <tag id="16095392" k="bridge" o="none" type="way" v="yes" />
+    <tag id="16095392" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16095392" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16095392" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="16095392" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16095392" k="tiger:name_base" o="none" type="way" v="Cross" />
+    <tag id="16095392" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16095393" k="name" o="none" type="way" v="Cross Street" />
+    <tag id="16095393" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16095393" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16095393" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="16095393" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16095393" k="tiger:name_base" o="none" type="way" v="Cross" />
+    <tag id="16095393" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="27592387" k="hgv" o="none" type="way" v="designated" />
+    <tag id="27592387" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="27592387" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="27592387" k="name" o="none" type="way" v="High Street" />
+    <tag id="27592387" k="highway" o="modify" type="way" v="residential" />
+    <tag id="27592387" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="27592387" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27592387" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="27592387" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27592387" k="tiger:name_base" o="none" type="way" v="High" />
+    <tag id="27592387" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="27592387" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="27592387" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="27592387" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="31293748" k="ref" o="none" type="way" v="CR 676" />
+    <tag id="31293748" k="name" o="none" type="way" v="Green Street" />
+    <tag id="31293748" k="highway" o="modify" type="way" v="residential" />
+    <tag id="31293748" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="31293748" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="31293748" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="31293748" k="tiger:name_base" o="none" type="way" v="Green" />
+    <tag id="31293748" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="32505953" k="ref" o="none" type="way" v="CR 616" />
+    <tag id="32505953" k="name" o="none" type="way" v="Knowlton Road" />
+    <tag id="32505953" k="layer" o="none" type="way" v="1" />
+    <tag id="32505953" k="bridge" o="none" type="way" v="yes" />
+    <tag id="32505953" k="name_1" o="none" type="way" v="Delaware Road" />
+    <tag id="32505953" k="highway" o="modify" type="way" v="residential" />
+    <tag id="32505953" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32505953" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="32505953" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32505953" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="32505953" k="tiger:name_base" o="none" type="way" v="Knowlton" />
+    <tag id="32505953" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="32505953" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="32505953" k="tiger:name_base_1" o="none" type="way" v="Delaware" />
+    <tag id="32505953" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="32505955" k="ref" o="none" type="way" v="CR 655" />
+    <tag id="32505955" k="name" o="none" type="way" v="Mount Hermon Road" />
+    <tag id="32505955" k="layer" o="none" type="way" v="1" />
+    <tag id="32505955" k="bridge" o="none" type="way" v="yes" />
+    <tag id="32505955" k="name_1" o="none" type="way" v="Mt Herman Road" />
+    <tag id="32505955" k="name_2" o="none" type="way" v="Mount Hermon Road" />
+    <tag id="32505955" k="highway" o="modify" type="way" v="residential" />
+    <tag id="32505955" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32505955" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="32505955" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32505955" k="tiger:name_base" o="none" type="way" v="Mt Hermon" />
+    <tag id="32505955" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="32505955" k="tiger:name_base_1" o="none" type="way" v="Mt Herman" />
+    <tag id="32505955" k="tiger:name_base_2" o="none" type="way" v="Mount Hermon" />
+    <tag id="32505955" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="32505955" k="tiger:name_type_2" o="none" type="way" v="Rd" />
+    <tag id="32505956" k="ref" o="none" type="way" v="CR 655" />
+    <tag id="32505956" k="name" o="none" type="way" v="Mount Hermon Road" />
+    <tag id="32505956" k="name_1" o="none" type="way" v="Mt Herman Road" />
+    <tag id="32505956" k="name_2" o="none" type="way" v="Mount Hermon Road" />
+    <tag id="32505956" k="highway" o="modify" type="way" v="residential" />
+    <tag id="32505956" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32505956" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="32505956" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32505956" k="tiger:name_base" o="none" type="way" v="Mt Hermon" />
+    <tag id="32505956" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="32505956" k="tiger:name_base_1" o="none" type="way" v="Mt Herman" />
+    <tag id="32505956" k="tiger:name_base_2" o="none" type="way" v="Mount Hermon" />
+    <tag id="32505956" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="32505956" k="tiger:name_type_2" o="none" type="way" v="Rd" />
+    <tag id="32539459" k="name" o="none" type="way" v="Sand Shore Road" />
+    <tag id="32539459" k="note" o="none" type="way" v="according to Morris County this isn't a county route: https://morrisgis.co.morris.nj.us/pdfs/OCM_LARGE_BACK.pdf" />
+    <tag id="32539459" k="highway" o="modify" type="way" v="residential" />
+    <tag id="32539459" k="old_ref" o="none" type="way" v="CR 649" />
+    <tag id="32539459" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32539459" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="32539459" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32539459" k="tiger:zip_left" o="none" type="way" v="07828" />
+    <tag id="32539459" k="tiger:name_base" o="none" type="way" v="Sand Shore" />
+    <tag id="32539459" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="51372092" k="note" o="none" type="way" v="ramp between US 46 and County Road 618/Sareptra Road" />
+    <tag id="51372092" k="FIXME" o="none" type="way" v="verified via digital data that segment does not have a name. please verify via ground survey" />
+    <tag id="51372092" k="noname" o="none" type="way" v="yes" />
+    <tag id="51372092" k="highway" o="modify" type="way" v="residential" />
+    <tag id="51372092" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="51372092" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="51372092" k="source:noname" o="none" type="way" v="NJ Road Network Dataset shapefile (http://www.state.nj.us/transportation/gis/data.shtm)" />
+    <tag id="51372092" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="55552097" k="ref" o="none" type="way" v="CR 613" />
+    <tag id="55552097" k="name" o="none" type="way" v="Alphano Road" />
+    <tag id="55552097" k="highway" o="modify" type="way" v="residential" />
+    <tag id="55552097" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="55552097" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="55552097" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="55552097" k="tiger:zip_left" o="none" type="way" v="07838" />
+    <tag id="55552097" k="tiger:name_base" o="none" type="way" v="Alphano" />
+    <tag id="55552097" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="55552097" k="tiger:zip_right" o="none" type="way" v="07838" />
+    <tag id="55552099" k="ref" o="none" type="way" v="CR 613" />
+    <tag id="55552099" k="name" o="none" type="way" v="Alphano Road" />
+    <tag id="55552099" k="highway" o="modify" type="way" v="residential" />
+    <tag id="55552099" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="55552099" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="55552099" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="55552099" k="tiger:zip_left" o="none" type="way" v="07838" />
+    <tag id="55552099" k="tiger:name_base" o="none" type="way" v="Alphano" />
+    <tag id="55552099" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="55552099" k="tiger:zip_right" o="none" type="way" v="07838" />
+    <tag id="61498425" k="name" o="none" type="way" v="Netcong Road" />
+    <tag id="61498425" k="note" o="none" type="way" v="according to Morris County this isn't a county route: https://morrisgis.co.morris.nj.us/pdfs/OCM_LARGE_BACK.pdf" />
+    <tag id="61498425" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61498425" k="old_ref" o="none" type="way" v="CR 649" />
+    <tag id="61498425" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61498425" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="61498425" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61498425" k="tiger:zip_left" o="none" type="way" v="07828" />
+    <tag id="61498425" k="tiger:name_base" o="none" type="way" v="Netcong" />
+    <tag id="61498425" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="61498425" k="tiger:zip_right" o="none" type="way" v="07828" />
+    <tag id="61698286" k="ref" o="none" type="way" v="(657)" />
+    <tag id="61698286" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="61698286" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61698286" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61698286" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61698286" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61698286" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="61698286" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="61698286" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="61698286" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="61698290" k="toll" o="none" type="way" v="no" />
+    <tag id="61698290" k="oneway" o="none" type="way" v="no" />
+    <tag id="61698290" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61698290" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61698290" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61698290" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61698290" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="61698290" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="61698290" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61698290" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="61698291" k="name" o="none" type="way" v="Washington Street" />
+    <tag id="61698291" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61698291" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61698291" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61698291" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61698291" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="61698291" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="61698291" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61698291" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="61698306" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="61698306" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61698306" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="61698306" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61698306" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61698306" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="61698306" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="61698306" k="tiger:name_base_1" o="none" type="way" v="State Route 94" />
+    <tag id="95324912" k="name" o="none" type="way" v="Continental Drive North" />
+    <tag id="95324912" k="highway" o="modify" type="way" v="residential" />
+    <tag id="95324912" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="95324912" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="95324912" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="95324912" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="95324912" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="95324912" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="145224841" k="ref" o="none" type="way" v="(657)" />
+    <tag id="145224841" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="145224841" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145224841" k="highway" o="modify" type="way" v="residential" />
+    <tag id="145224841" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="145224841" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="145224841" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="145224841" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="145224841" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="145224841" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="145224841" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="145224842" k="ref" o="none" type="way" v="(657)" />
+    <tag id="145224842" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="145224842" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145224842" k="highway" o="modify" type="way" v="residential" />
+    <tag id="145224842" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="145224842" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="145224842" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="145224842" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="145224842" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="145224842" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="145224842" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="179550508" k="ref" o="none" type="way" v="(657)" />
+    <tag id="179550508" k="name" o="none" type="way" v="Simpson Road" />
+    <tag id="179550508" k="oneway" o="none" type="way" v="yes" />
+    <tag id="179550508" k="highway" o="modify" type="way" v="residential" />
+    <tag id="179550508" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="179550508" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="179550508" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="179550508" k="tiger:zip_left" o="none" type="way" v="07832" />
+    <tag id="179550508" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="179550508" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="179550508" k="tiger:zip_right" o="none" type="way" v="07832" />
+    <tag id="179550511" k="ref" o="none" type="way" v="(657)" />
+    <tag id="179550511" k="name" o="none" type="way" v="Simpson Street" />
+    <tag id="179550511" k="highway" o="modify" type="way" v="residential" />
+    <tag id="179550511" k="tiger:cfcc" o="none" type="way" v="A43" />
+    <tag id="179550511" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="179550511" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="179550511" k="tiger:name_base" o="none" type="way" v="Simpson" />
+    <tag id="179550511" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="224604549" k="source" o="none" type="way" v="Bing" />
+    <tag id="224604549" k="waterway" o="none" type="way" v="river" />
+    <tag id="234817884" k="name" o="none" type="way" v="Continental Drive" />
+    <tag id="234817884" k="highway" o="modify" type="way" v="residential" />
+    <tag id="234817884" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="234817884" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="234817884" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="234817884" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="234817884" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="234817884" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="234817884" k="old_railway_operator" o="none" type="way" v="DL&amp;W" />
+    <tag id="239024918" k="foot" o="none" type="way" v="yes" />
+    <tag id="239024918" k="name" o="none" type="way" v="Waterloo Valley Road" />
+    <tag id="239024918" k="layer" o="none" type="way" v="1" />
+    <tag id="239024918" k="access" o="none" type="way" v="yes" />
+    <tag id="239024918" k="bridge" o="none" type="way" v="yes" />
+    <tag id="239024918" k="oneway" o="none" type="way" v="no" />
+    <tag id="239024918" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="239024918" k="highway" o="modify" type="way" v="residential" />
+    <tag id="239024918" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="239024918" k="cycleway" o="none" type="way" v="no" />
+    <tag id="239024918" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="239024918" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="239024918" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="239024918" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="239024918" k="tiger:name_base" o="none" type="way" v="Waterloo Valley" />
+    <tag id="239024918" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="239024919" k="foot" o="none" type="way" v="yes" />
+    <tag id="239024919" k="name" o="none" type="way" v="Waterloo Valley Road" />
+    <tag id="239024919" k="access" o="none" type="way" v="yes" />
+    <tag id="239024919" k="oneway" o="none" type="way" v="no" />
+    <tag id="239024919" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="239024919" k="highway" o="modify" type="way" v="residential" />
+    <tag id="239024919" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="239024919" k="cycleway" o="none" type="way" v="no" />
+    <tag id="239024919" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="239024919" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="239024919" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="239024919" k="tiger:name_base" o="none" type="way" v="Waterloo Valley" />
+    <tag id="239024919" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="239155072" k="ref" o="none" type="way" v="CR 665" />
+    <tag id="239155072" k="name" o="none" type="way" v="Old Bilby Road" />
+    <tag id="239155072" k="layer" o="none" type="way" v="1" />
+    <tag id="239155072" k="bridge" o="none" type="way" v="yes" />
+    <tag id="239155072" k="highway" o="modify" type="way" v="residential" />
+    <tag id="239155072" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="239155072" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="239155072" k="tiger:name_base" o="none" type="way" v="Old Bilby" />
+    <tag id="239155072" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="239155076" k="ref" o="none" type="way" v="CR 665" />
+    <tag id="239155076" k="name" o="none" type="way" v="Old Bilby Road" />
+    <tag id="239155076" k="highway" o="modify" type="way" v="residential" />
+    <tag id="239155076" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="239155076" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="239155076" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="239155076" k="tiger:name_base" o="none" type="way" v="Old Bilby" />
+    <tag id="239155076" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="240886343" k="ref" o="none" type="way" v="CR 604" />
+    <tag id="240886343" k="name" o="none" type="way" v="Waterloo Road" />
+    <tag id="240886343" k="name_1" o="none" type="way" v="County Route 604" />
+    <tag id="240886343" k="highway" o="modify" type="way" v="residential" />
+    <tag id="240886343" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="240886343" k="tiger:county" o="none" type="way" v="Sussex, NJ" />
+    <tag id="240886343" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="240886343" k="tiger:name_base" o="none" type="way" v="Waterloo" />
+    <tag id="240886343" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="240886343" k="tiger:name_base_1" o="none" type="way" v="County Route 604" />
+    <tag id="240886347" k="ref" o="none" type="way" v="CR 604" />
+    <tag id="240886347" k="name" o="none" type="way" v="Waterloo Road" />
+    <tag id="240886347" k="layer" o="none" type="way" v="1" />
+    <tag id="240886347" k="bridge" o="none" type="way" v="yes" />
+    <tag id="240886347" k="name_1" o="none" type="way" v="County Route 604" />
+    <tag id="240886347" k="highway" o="modify" type="way" v="residential" />
+    <tag id="240886347" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="240886347" k="tiger:county" o="none" type="way" v="Sussex, NJ" />
+    <tag id="240886347" k="tiger:name_base" o="none" type="way" v="Waterloo" />
+    <tag id="240886347" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="240886347" k="tiger:name_base_1" o="none" type="way" v="County Route 604" />
+    <tag id="260992064" k="hgv" o="none" type="way" v="designated" />
+    <tag id="260992064" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="260992064" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="260992064" k="name" o="none" type="way" v="High Street" />
+    <tag id="260992064" k="layer" o="none" type="way" v="1" />
+    <tag id="260992064" k="bridge" o="none" type="way" v="yes" />
+    <tag id="260992064" k="highway" o="modify" type="way" v="residential" />
+    <tag id="260992064" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="260992064" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="260992064" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="260992064" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="260992064" k="tiger:name_base" o="none" type="way" v="High" />
+    <tag id="260992064" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="260992064" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="260992064" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="260992064" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="260992065" k="hgv" o="none" type="way" v="designated" />
+    <tag id="260992065" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="260992065" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="260992065" k="name" o="none" type="way" v="High Street" />
+    <tag id="260992065" k="highway" o="modify" type="way" v="residential" />
+    <tag id="260992065" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="260992065" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="260992065" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="260992065" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="260992065" k="tiger:name_base" o="none" type="way" v="High" />
+    <tag id="260992065" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="260992065" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="260992065" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="260992065" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="260992066" k="ref" o="none" type="way" v="CR 611-M" />
+    <tag id="260992066" k="name" o="none" type="way" v="Milbrook Road" />
+    <tag id="260992066" k="highway" o="modify" type="way" v="residential" />
+    <tag id="260992066" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="260992066" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="260992066" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="260992066" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="260992066" k="tiger:name_base" o="none" type="way" v="Milbrook" />
+    <tag id="260992066" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="260992066" k="tiger:zip_right" o="none" type="way" v="07825" />
+    <tag id="260992066" k="tiger:zip_left_1" o="none" type="way" v="07825" />
+    <tag id="260992067" k="ref" o="none" type="way" v="CR 611-M" />
+    <tag id="260992067" k="name" o="none" type="way" v="Milbrook Road" />
+    <tag id="260992067" k="layer" o="none" type="way" v="1" />
+    <tag id="260992067" k="bridge" o="none" type="way" v="yes" />
+    <tag id="260992067" k="highway" o="modify" type="way" v="residential" />
+    <tag id="260992067" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="260992067" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="260992067" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="260992067" k="tiger:zip_left" o="none" type="way" v="07825" />
+    <tag id="260992067" k="tiger:name_base" o="none" type="way" v="Milbrook" />
+    <tag id="260992067" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="260992067" k="tiger:zip_right" o="none" type="way" v="07825" />
+    <tag id="260992067" k="tiger:zip_left_1" o="none" type="way" v="07825" />
+    <tag id="265090042" k="name" o="none" type="way" v="Continental Drive North" />
+    <tag id="265090042" k="layer" o="none" type="way" v="1" />
+    <tag id="265090042" k="bridge" o="none" type="way" v="yes" />
+    <tag id="265090042" k="highway" o="modify" type="way" v="residential" />
+    <tag id="265090042" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="265090042" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="265090042" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="265090042" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="265090042" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="265090042" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="265090042" k="old_railway_operator" o="none" type="way" v="DL&amp;W" />
+    <tag id="265090042" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="265090045" k="name" o="none" type="way" v="Continental Drive North" />
+    <tag id="265090045" k="highway" o="modify" type="way" v="residential" />
+    <tag id="265090045" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="265090045" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="265090045" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="265090045" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="265090045" k="tiger:name_base" o="none" type="way" v="Continental" />
+    <tag id="265090045" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="265090045" k="old_railway_operator" o="none" type="way" v="DL&amp;W" />
+    <tag id="265090045" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="431802427" k="hgv" o="none" type="way" v="designated" />
+    <tag id="431802427" k="ref" o="none" type="way" v="CR 521" />
+    <tag id="431802427" k="HFCS" o="none" type="way" v="Rural Major Collector" />
+    <tag id="431802427" k="name" o="none" type="way" v="Hope - Blairstown Road" />
+    <tag id="431802427" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="431802427" k="NJDOT_SRI" o="none" type="way" v="00000521" />
+    <tag id="431802427" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="431802427" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="431802427" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="431802427" k="tiger:name_base" o="none" type="way" v="Hope Blairstown" />
+    <tag id="431802427" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="431802427" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="431802427" k="tiger:name_base_1" o="none" type="way" v="County Road 521" />
+    <tag id="431802427" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="557293" k="ref" o="none" type="relation" v="655" />
+    <tag id="557293" k="type" o="none" type="relation" v="route" />
+    <tag id="557293" k="route" o="none" type="relation" v="road" />
+    <tag id="557293" k="network" o="none" type="relation" v="US:NJ:Warren" />
+    <tag id="557320" k="ref" o="none" type="relation" v="676" />
+    <tag id="557320" k="type" o="none" type="relation" v="route" />
+    <tag id="557320" k="route" o="none" type="relation" v="road" />
+    <tag id="557320" k="network" o="none" type="relation" v="US:NJ:Warren" />
+  </body>
+</changeset>

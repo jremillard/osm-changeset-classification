@@ -1,0 +1,678 @@
+<changeset id="46295760" schema="2">
+  <counts nodesAdded="21" nodesDeleted="11" nodesModified="11" relationsAdded="0" relationsDeleted="0" relationsModified="8" waysAdded="6" waysDeleted="1" waysModified="64" />
+  <meta>
+    <tag k="comment" v="Detailierungen Stra&#223;enattribute, Bushaltestellen korrigiert, kleinere Korrekturen" />
+    <tag k="created_by" v="JOSM/1.5 (11526 de)" />
+    <tag k="source" v="survey, Mapillary" />
+  </meta>
+  <body>
+    <tag id="992931331" k="bicycle" o="add" type="node" v="yes" />
+    <tag id="992931331" k="highway" o="add" type="node" v="crossing" />
+    <tag id="992931331" k="crossing" o="add" type="node" v="island" />
+    <tag id="2189977309" k="name" o="none" type="node" v="Hauptstra&#223;e" />
+    <tag id="2189977309" k="ref_name" o="none" type="node" v="Wahmbeckerheide Hauptstra&#223;e, Lemgo" />
+    <tag id="2189977309" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="2189977309" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2189977311" k="name" o="none" type="node" v="Schmiede" />
+    <tag id="2189977311" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2189977311" k="ref_name" o="none" type="node" v="Wahmbeckerheide Schmiede, Lemgo" />
+    <tag id="2189977311" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2189977313" k="name" o="none" type="node" v="Alte Schule" />
+    <tag id="2189977313" k="ref_name" o="none" type="node" v="Kl&#252;t Alte Schule, Detmold" />
+    <tag id="2189977313" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2189977315" k="name" o="none" type="node" v="Abzw. Brokhausen" />
+    <tag id="2189977315" k="ref_name" o="none" type="node" v="Kl&#252;t Abzw. Brokhausen, Detmold" />
+    <tag id="2189977315" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="2189977315" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2189979641" k="bus" o="add" type="node" v="yes" />
+    <tag id="2189979641" k="name" o="none" type="node" v="Grabbestra&#223;e" />
+    <tag id="2189979641" k="ref_name" o="none" type="node" v="Brake Grabbestra&#223;e, Lemgo" />
+    <tag id="2189979641" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3153789719" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3153789719" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="3318919981" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3318919981" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="3318965498" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3318965498" k="crossing" o="add" type="node" v="island" />
+    <tag id="3319015372" k="bicycle" o="add" type="node" v="yes" />
+    <tag id="3319015372" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3319015372" k="crossing" o="add" type="node" v="unmarked" />
+    <tag id="3319015377" k="bicycle" o="add" type="node" v="yes" />
+    <tag id="3319015377" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3319015377" k="crossing" o="add" type="node" v="unmarked" />
+    <tag id="4487583" k="lit" o="add" type="way" v="no" />
+    <tag id="4487583" k="ref" o="none" type="way" v="L 941" />
+    <tag id="4487583" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="4487583" k="lanes" o="none" type="way" v="2" />
+    <tag id="4487583" k="oneway" o="none" type="way" v="no" />
+    <tag id="4487583" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4487583" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4487583" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="4487583" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="4487583" k="maxheight" o="none" type="way" v="default" />
+    <tag id="4487587" k="lit" o="add" type="way" v="no" />
+    <tag id="4487587" k="ref" o="none" type="way" v="L 941" />
+    <tag id="4487587" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="4487587" k="lanes" o="none" type="way" v="2" />
+    <tag id="4487587" k="oneway" o="none" type="way" v="no" />
+    <tag id="4487587" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4487587" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4487587" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="4487587" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="25001990" k="lit" o="none" type="way" v="limited" />
+    <tag id="25001990" k="ref" o="none" type="way" v="L 941" />
+    <tag id="25001990" k="name" o="none" type="way" v="Lo&#223;brucher Stra&#223;e" />
+    <tag id="25001990" k="lanes" o="none" type="way" v="2" />
+    <tag id="25001990" k="oneway" o="none" type="way" v="no" />
+    <tag id="25001990" k="highway" o="none" type="way" v="secondary" />
+    <tag id="25001990" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="25001990" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="25001990" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="25895982" k="lit" o="add" type="way" v="yes" />
+    <tag id="25895982" k="ref" o="none" type="way" v="L 941" />
+    <tag id="25895982" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="25895982" k="oneway" o="none" type="way" v="no" />
+    <tag id="25895982" k="highway" o="none" type="way" v="secondary" />
+    <tag id="25895982" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="25895982" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="25895982" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="30081708" k="lit" o="none" type="way" v="yes" />
+    <tag id="30081708" k="ref" o="none" type="way" v="B 238" />
+    <tag id="30081708" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="30081708" k="lanes" o="none" type="way" v="2" />
+    <tag id="30081708" k="oneway" o="none" type="way" v="no" />
+    <tag id="30081708" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="30081708" k="highway" o="none" type="way" v="primary" />
+    <tag id="30081708" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="30081708" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="30081708" k="strassen-nrw:abs" o="none" type="way" v="4019025O4019042O" />
+    <tag id="30081859" k="lit" o="modify" type="way" v="no" />
+    <tag id="30081859" k="ref" o="none" type="way" v="B 238" />
+    <tag id="30081859" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="30081859" k="lanes" o="none" type="way" v="2" />
+    <tag id="30081859" k="oneway" o="none" type="way" v="no" />
+    <tag id="30081859" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="30081859" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="30081859" k="highway" o="none" type="way" v="primary" />
+    <tag id="30081859" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="30081859" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="30081859" k="sidewalk" o="modify" type="way" v="no" />
+    <tag id="30081859" k="strassen-nrw:abs" o="none" type="way" v="4019042O4019043O" />
+    <tag id="30276197" k="lit" o="add" type="way" v="no" />
+    <tag id="30276197" k="foot" o="none" type="way" v="no" />
+    <tag id="30276197" k="lanes" o="modify" type="way" v="1" />
+    <tag id="30276197" k="oneway" o="none" type="way" v="yes" />
+    <tag id="30276197" k="bicycle" o="none" type="way" v="no" />
+    <tag id="30276197" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="30276197" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="30276197" k="traffic_sign" o="none" type="way" v="DE:254" />
+    <tag id="35822549" k="lit" o="add" type="way" v="yes" />
+    <tag id="35822549" k="name" o="none" type="way" v="Schmiedestra&#223;e" />
+    <tag id="35822549" k="highway" o="none" type="way" v="residential" />
+    <tag id="35822549" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35822549" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="35822549" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="35822549" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="35822558" k="lit" o="add" type="way" v="yes" />
+    <tag id="35822558" k="name" o="none" type="way" v="Aachener Stra&#223;e" />
+    <tag id="35822558" k="highway" o="none" type="way" v="residential" />
+    <tag id="35822558" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35822558" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="35822558" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="35822558" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="35824145" k="lit" o="add" type="way" v="yes" />
+    <tag id="35824145" k="ref" o="none" type="way" v="L 941" />
+    <tag id="35824145" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="35824145" k="oneway" o="none" type="way" v="no" />
+    <tag id="35824145" k="highway" o="none" type="way" v="secondary" />
+    <tag id="35824145" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35824145" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="35824145" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="35993699" k="lit" o="none" type="way" v="limited" />
+    <tag id="35993699" k="name" o="none" type="way" v="Am Bach" />
+    <tag id="35993699" k="highway" o="none" type="way" v="residential" />
+    <tag id="35993699" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35993699" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="35993699" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="35993700" k="lit" o="none" type="way" v="limited" />
+    <tag id="35993700" k="name" o="none" type="way" v="Am Kleinen Kamp" />
+    <tag id="35993700" k="highway" o="none" type="way" v="residential" />
+    <tag id="35993700" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35993700" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="35993700" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="35993701" k="lit" o="none" type="way" v="limited" />
+    <tag id="35993701" k="name" o="none" type="way" v="Heckenweg" />
+    <tag id="35993701" k="highway" o="none" type="way" v="residential" />
+    <tag id="35993701" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35993701" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="35993701" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="35993702" k="lit" o="none" type="way" v="limited" />
+    <tag id="35993702" k="name" o="none" type="way" v="Blumental" />
+    <tag id="35993702" k="highway" o="none" type="way" v="residential" />
+    <tag id="35993702" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35993702" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="35993702" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="36130168" k="lit" o="none" type="way" v="limited" />
+    <tag id="36130168" k="name" o="none" type="way" v="Hinter dem Storkskrug" />
+    <tag id="36130168" k="highway" o="none" type="way" v="residential" />
+    <tag id="36130168" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36130168" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="36130168" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="36783238" k="lit" o="add" type="way" v="yes" />
+    <tag id="36783238" k="ref" o="none" type="way" v="L 941" />
+    <tag id="36783238" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="36783238" k="oneway" o="none" type="way" v="no" />
+    <tag id="36783238" k="highway" o="none" type="way" v="secondary" />
+    <tag id="36783238" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36783238" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="36783238" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="37770300" k="lit" o="add" type="way" v="no" />
+    <tag id="37770300" k="ref" o="none" type="way" v="L 941" />
+    <tag id="37770300" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="37770300" k="lanes" o="none" type="way" v="2" />
+    <tag id="37770300" k="oneway" o="none" type="way" v="no" />
+    <tag id="37770300" k="highway" o="none" type="way" v="secondary" />
+    <tag id="37770300" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37770300" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="37770300" k="change:lanes" o="none" type="way" v="no|no" />
+    <tag id="37770300" k="maxspeed:forward" o="none" type="way" v="70" />
+    <tag id="37770300" k="maxspeed:backward" o="none" type="way" v="100" />
+    <tag id="37770301" k="lit" o="add" type="way" v="no" />
+    <tag id="37770301" k="ref" o="none" type="way" v="L 941" />
+    <tag id="37770301" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="37770301" k="lanes" o="none" type="way" v="2" />
+    <tag id="37770301" k="oneway" o="none" type="way" v="no" />
+    <tag id="37770301" k="highway" o="none" type="way" v="secondary" />
+    <tag id="37770301" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37770301" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="37770301" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="37898383" k="lit" o="add" type="way" v="yes" />
+    <tag id="37898383" k="name" o="none" type="way" v="Mittelstra&#223;e" />
+    <tag id="37898383" k="highway" o="none" type="way" v="residential" />
+    <tag id="37898383" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="37898383" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="37898383" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="37898383" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="38102232" k="lit" o="none" type="way" v="limited" />
+    <tag id="38102232" k="name" o="none" type="way" v="Kixweg" />
+    <tag id="38102232" k="highway" o="none" type="way" v="residential" />
+    <tag id="38102232" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38102232" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="38102232" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="38107819" k="lit" o="add" type="way" v="no" />
+    <tag id="38107819" k="ref" o="none" type="way" v="L 941" />
+    <tag id="38107819" k="lanes" o="none" type="way" v="1" />
+    <tag id="38107819" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38107819" k="highway" o="none" type="way" v="secondary" />
+    <tag id="38107819" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38107819" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="38107819" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="38107819" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="39546886" k="lit" o="add" type="way" v="no" />
+    <tag id="39546886" k="ref" o="none" type="way" v="L 941" />
+    <tag id="39546886" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="39546886" k="highway" o="none" type="way" v="secondary" />
+    <tag id="39546886" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="39546886" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="39546886" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="69216926" k="lit" o="add" type="way" v="no" />
+    <tag id="69216926" k="foot" o="none" type="way" v="designated" />
+    <tag id="69216926" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="69216926" k="highway" o="none" type="way" v="path" />
+    <tag id="69216926" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="69216926" k="segregated" o="none" type="way" v="no" />
+    <tag id="81725963" k="lit" o="add" type="way" v="yes" />
+    <tag id="81725963" k="foot" o="none" type="way" v="designated" />
+    <tag id="81725963" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="81725963" k="highway" o="none" type="way" v="path" />
+    <tag id="81725963" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="81725963" k="segregated" o="none" type="way" v="no" />
+    <tag id="88454962" k="lit" o="add" type="way" v="no" />
+    <tag id="88454962" k="foot" o="none" type="way" v="designated" />
+    <tag id="88454962" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="88454962" k="highway" o="none" type="way" v="path" />
+    <tag id="88454962" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="88454962" k="segregated" o="none" type="way" v="no" />
+    <tag id="109010888" k="lit" o="add" type="way" v="no" />
+    <tag id="109010888" k="ref" o="none" type="way" v="B 238" />
+    <tag id="109010888" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="109010888" k="lanes" o="none" type="way" v="2" />
+    <tag id="109010888" k="layer" o="none" type="way" v="1" />
+    <tag id="109010888" k="bridge" o="none" type="way" v="yes" />
+    <tag id="109010888" k="oneway" o="none" type="way" v="no" />
+    <tag id="109010888" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="109010888" k="highway" o="none" type="way" v="primary" />
+    <tag id="109010888" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="109010888" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="109010888" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="109010892" k="lit" o="add" type="way" v="no" />
+    <tag id="109010892" k="ref" o="none" type="way" v="B 238" />
+    <tag id="109010892" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="109010892" k="lanes" o="none" type="way" v="2" />
+    <tag id="109010892" k="oneway" o="none" type="way" v="no" />
+    <tag id="109010892" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="109010892" k="highway" o="none" type="way" v="primary" />
+    <tag id="109010892" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="109010892" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="109010892" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="126349127" k="lit" o="add" type="way" v="no" />
+    <tag id="126349127" k="ref" o="none" type="way" v="B 238" />
+    <tag id="126349127" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="126349127" k="lanes" o="add" type="way" v="2" />
+    <tag id="126349127" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="126349127" k="highway" o="none" type="way" v="primary" />
+    <tag id="126349127" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="126349127" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="133289172" k="lit" o="add" type="way" v="no" />
+    <tag id="133289172" k="foot" o="none" type="way" v="no" />
+    <tag id="133289172" k="lanes" o="none" type="way" v="1" />
+    <tag id="133289172" k="oneway" o="none" type="way" v="yes" />
+    <tag id="133289172" k="bicycle" o="none" type="way" v="no" />
+    <tag id="133289172" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="133289172" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="133289172" k="traffic_sign" o="none" type="way" v="DE:254" />
+    <tag id="208737391" k="lit" o="add" type="way" v="yes" />
+    <tag id="208737391" k="ref" o="none" type="way" v="L 941" />
+    <tag id="208737391" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="208737391" k="oneway" o="none" type="way" v="no" />
+    <tag id="208737391" k="highway" o="none" type="way" v="secondary" />
+    <tag id="208737391" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="208737391" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208737391" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="208737392" k="lit" o="add" type="way" v="yes" />
+    <tag id="208737392" k="ref" o="none" type="way" v="L 941" />
+    <tag id="208737392" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="208737392" k="oneway" o="none" type="way" v="no" />
+    <tag id="208737392" k="highway" o="none" type="way" v="secondary" />
+    <tag id="208737392" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="208737392" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="208737392" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="209042784" k="lit" o="add" type="way" v="no" />
+    <tag id="209042784" k="ref" o="none" type="way" v="B 238" />
+    <tag id="209042784" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="209042784" k="lanes" o="add" type="way" v="2" />
+    <tag id="209042784" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="209042784" k="highway" o="none" type="way" v="primary" />
+    <tag id="209042784" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="209042784" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="209042784" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="232793402" k="lit" o="add" type="way" v="yes" />
+    <tag id="232793402" k="foot" o="none" type="way" v="designated" />
+    <tag id="232793402" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="232793402" k="highway" o="none" type="way" v="path" />
+    <tag id="232793402" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232793402" k="segregated" o="none" type="way" v="no" />
+    <tag id="232793403" k="lit" o="add" type="way" v="no" />
+    <tag id="232793403" k="foot" o="none" type="way" v="designated" />
+    <tag id="232793403" k="layer" o="none" type="way" v="1" />
+    <tag id="232793403" k="bridge" o="none" type="way" v="yes" />
+    <tag id="232793403" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="232793403" k="highway" o="modify" type="way" v="path" />
+    <tag id="232793403" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232793403" k="segregated" o="none" type="way" v="no" />
+    <tag id="244386990" k="lit" o="add" type="way" v="no" />
+    <tag id="244386990" k="ref" o="none" type="way" v="L 941" />
+    <tag id="244386990" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="244386990" k="lanes" o="none" type="way" v="2" />
+    <tag id="244386990" k="oneway" o="none" type="way" v="no" />
+    <tag id="244386990" k="highway" o="none" type="way" v="secondary" />
+    <tag id="244386990" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="244386990" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="244386990" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="244386991" k="lit" o="add" type="way" v="no" />
+    <tag id="244386991" k="ref" o="none" type="way" v="L 941" />
+    <tag id="244386991" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="244386991" k="lanes" o="none" type="way" v="2" />
+    <tag id="244386991" k="oneway" o="none" type="way" v="no" />
+    <tag id="244386991" k="highway" o="none" type="way" v="secondary" />
+    <tag id="244386991" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="244386991" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="244386991" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="244386991" k="embankment" o="none" type="way" v="yes" />
+    <tag id="281152075" k="lit" o="none" type="way" v="yes" />
+    <tag id="281152075" k="ref" o="none" type="way" v="B 238" />
+    <tag id="281152075" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="281152075" k="lanes" o="none" type="way" v="2" />
+    <tag id="281152075" k="oneway" o="none" type="way" v="no" />
+    <tag id="281152075" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="281152075" k="highway" o="none" type="way" v="primary" />
+    <tag id="281152075" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="281152075" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="281152075" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="281152075" k="strassen-nrw:abs" o="none" type="way" v="4019042O4019043O" />
+    <tag id="281152077" k="lit" o="add" type="way" v="yes" />
+    <tag id="281152077" k="ref" o="none" type="way" v="L 941" />
+    <tag id="281152077" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="281152077" k="lanes" o="none" type="way" v="2" />
+    <tag id="281152077" k="oneway" o="none" type="way" v="no" />
+    <tag id="281152077" k="highway" o="none" type="way" v="secondary" />
+    <tag id="281152077" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="281152077" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="281152077" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="303614122" k="building" o="modify" type="way" v="garage" />
+    <tag id="303614124" k="building" o="modify" type="way" v="garage" />
+    <tag id="320603841" k="lit" o="add" type="way" v="yes" />
+    <tag id="320603841" k="foot" o="none" type="way" v="designated" />
+    <tag id="320603841" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="320603841" k="highway" o="none" type="way" v="path" />
+    <tag id="320603841" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="320603841" k="segregated" o="modify" type="way" v="no" />
+    <tag id="325223871" k="lit" o="none" type="way" v="limited" />
+    <tag id="325223871" k="ref" o="none" type="way" v="L 941" />
+    <tag id="325223871" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="325223871" k="lanes" o="none" type="way" v="2" />
+    <tag id="325223871" k="oneway" o="none" type="way" v="no" />
+    <tag id="325223871" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="325223871" k="highway" o="none" type="way" v="secondary" />
+    <tag id="325223871" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="325223871" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="325223872" k="lit" o="none" type="way" v="limited" />
+    <tag id="325223872" k="ref" o="none" type="way" v="L 941" />
+    <tag id="325223872" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="325223872" k="lanes" o="none" type="way" v="1" />
+    <tag id="325223872" k="oneway" o="none" type="way" v="yes" />
+    <tag id="325223872" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="325223872" k="highway" o="none" type="way" v="secondary" />
+    <tag id="325223872" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="325223872" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="325230930" k="lit" o="add" type="way" v="yes" />
+    <tag id="325230930" k="foot" o="add" type="way" v="designated" />
+    <tag id="325230930" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="325230930" k="highway" o="modify" type="way" v="path" />
+    <tag id="325230930" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="325230930" k="segregated" o="add" type="way" v="yes" />
+    <tag id="330331616" k="lit" o="none" type="way" v="yes" />
+    <tag id="330331616" k="ref" o="none" type="way" v="B 238" />
+    <tag id="330331616" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="330331616" k="lanes" o="none" type="way" v="2" />
+    <tag id="330331616" k="oneway" o="none" type="way" v="no" />
+    <tag id="330331616" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="330331616" k="highway" o="none" type="way" v="primary" />
+    <tag id="330331616" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="330331616" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="330331616" k="sidewalk" o="modify" type="way" v="left" />
+    <tag id="330331616" k="strassen-nrw:abs" o="none" type="way" v="4019025O4019042O" />
+    <tag id="339700978" k="lit" o="modify" type="way" v="no" />
+    <tag id="339700978" k="ref" o="none" type="way" v="L 941" />
+    <tag id="339700978" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="339700978" k="lanes" o="none" type="way" v="2" />
+    <tag id="339700978" k="oneway" o="none" type="way" v="no" />
+    <tag id="339700978" k="highway" o="none" type="way" v="secondary" />
+    <tag id="339700978" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="339700978" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="339700978" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="344376743" k="lit" o="add" type="way" v="no" />
+    <tag id="344376743" k="ref" o="none" type="way" v="L 941" />
+    <tag id="344376743" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="344376743" k="lanes" o="none" type="way" v="2" />
+    <tag id="344376743" k="oneway" o="none" type="way" v="no" />
+    <tag id="344376743" k="highway" o="none" type="way" v="secondary" />
+    <tag id="344376743" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="344376743" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="344376743" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="344376743" k="smoothness" o="none" type="way" v="excellent" />
+    <tag id="349886396" k="lit" o="none" type="way" v="limited" />
+    <tag id="349886396" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="349886396" k="highway" o="none" type="way" v="residential" />
+    <tag id="349886396" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="349886396" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="349886396" k="zone:maxspeed" o="add" type="way" v="DE:30" />
+    <tag id="395681407" k="lit" o="add" type="way" v="no" />
+    <tag id="395681407" k="ref" o="none" type="way" v="L 941" />
+    <tag id="395681407" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="395681407" k="lanes" o="none" type="way" v="2" />
+    <tag id="395681407" k="oneway" o="none" type="way" v="no" />
+    <tag id="395681407" k="highway" o="none" type="way" v="secondary" />
+    <tag id="395681407" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="395681407" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="395681407" k="change:lanes" o="none" type="way" v="no|no" />
+    <tag id="395681407" k="maxspeed:forward" o="none" type="way" v="50" />
+    <tag id="395681407" k="maxspeed:backward" o="none" type="way" v="100" />
+    <tag id="395681411" k="lit" o="add" type="way" v="no" />
+    <tag id="395681411" k="ref" o="none" type="way" v="L 941" />
+    <tag id="395681411" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="395681411" k="lanes" o="none" type="way" v="2" />
+    <tag id="395681411" k="oneway" o="none" type="way" v="no" />
+    <tag id="395681411" k="highway" o="none" type="way" v="secondary" />
+    <tag id="395681411" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="395681411" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="395681411" k="maxheight" o="none" type="way" v="default" />
+    <tag id="395681411" k="maxspeed:forward" o="none" type="way" v="70" />
+    <tag id="395681411" k="maxspeed:backward" o="none" type="way" v="50" />
+    <tag id="420077064" k="lit" o="add" type="way" v="no" />
+    <tag id="420077064" k="ref" o="none" type="way" v="L 941" />
+    <tag id="420077064" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="420077064" k="lanes" o="none" type="way" v="2" />
+    <tag id="420077064" k="oneway" o="none" type="way" v="no" />
+    <tag id="420077064" k="highway" o="none" type="way" v="secondary" />
+    <tag id="420077064" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="420077064" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="420077064" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="420077064" k="maxheight" o="none" type="way" v="default" />
+    <tag id="420077065" k="lit" o="add" type="way" v="no" />
+    <tag id="420077065" k="ref" o="none" type="way" v="L 941" />
+    <tag id="420077065" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="420077065" k="lanes" o="none" type="way" v="3" />
+    <tag id="420077065" k="oneway" o="none" type="way" v="no" />
+    <tag id="420077065" k="highway" o="none" type="way" v="secondary" />
+    <tag id="420077065" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="420077065" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="420077065" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="420077065" k="maxheight" o="none" type="way" v="default" />
+    <tag id="420077065" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="420077065" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="420077065" k="turn:lanes:forward" o="none" type="way" v="left|through" />
+    <tag id="421261895" k="lit" o="add" type="way" v="no" />
+    <tag id="421261895" k="ref" o="none" type="way" v="L 941" />
+    <tag id="421261895" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="421261895" k="lanes" o="none" type="way" v="2" />
+    <tag id="421261895" k="oneway" o="none" type="way" v="no" />
+    <tag id="421261895" k="highway" o="none" type="way" v="secondary" />
+    <tag id="421261895" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="421261895" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="421261895" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="421261895" k="maxheight" o="none" type="way" v="default" />
+    <tag id="421261895" k="embankment" o="none" type="way" v="yes" />
+    <tag id="421261896" k="lit" o="add" type="way" v="no" />
+    <tag id="421261896" k="ref" o="none" type="way" v="L 941" />
+    <tag id="421261896" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="421261896" k="lanes" o="none" type="way" v="2" />
+    <tag id="421261896" k="oneway" o="none" type="way" v="no" />
+    <tag id="421261896" k="highway" o="none" type="way" v="secondary" />
+    <tag id="421261896" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="421261896" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="421261896" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="421642104" k="lit" o="add" type="way" v="yes" />
+    <tag id="421642104" k="ref" o="none" type="way" v="B 238" />
+    <tag id="421642104" k="name" o="none" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="421642104" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="421642104" k="highway" o="none" type="way" v="primary" />
+    <tag id="421642104" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="421642104" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="421642104" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="422829447" k="lit" o="add" type="way" v="no" />
+    <tag id="422829447" k="ref" o="none" type="way" v="L 941" />
+    <tag id="422829447" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="422829447" k="lanes" o="modify" type="way" v="1" />
+    <tag id="422829447" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422829447" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422829447" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="422829447" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="422829447" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="422829449" k="lit" o="add" type="way" v="no" />
+    <tag id="422829449" k="ref" o="none" type="way" v="L 941" />
+    <tag id="422829449" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="422829449" k="lanes" o="modify" type="way" v="1" />
+    <tag id="422829449" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422829449" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422829449" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="422829449" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="422829449" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="422830402" k="lit" o="add" type="way" v="no" />
+    <tag id="422830402" k="foot" o="none" type="way" v="no" />
+    <tag id="422830402" k="lanes" o="modify" type="way" v="1" />
+    <tag id="422830402" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422830402" k="bicycle" o="none" type="way" v="no" />
+    <tag id="422830402" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="422830402" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="422830402" k="traffic_sign" o="none" type="way" v="DE:254" />
+    <tag id="422830404" k="lit" o="add" type="way" v="no" />
+    <tag id="422830404" k="ref" o="none" type="way" v="L 941" />
+    <tag id="422830404" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="422830404" k="lanes" o="modify" type="way" v="1" />
+    <tag id="422830404" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422830404" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422830404" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="422830404" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="422830404" k="maxheight" o="none" type="way" v="default" />
+    <tag id="422830405" k="lit" o="add" type="way" v="no" />
+    <tag id="422830405" k="ref" o="none" type="way" v="L 941" />
+    <tag id="422830405" k="name" o="none" type="way" v="Residenzstra&#223;e" />
+    <tag id="422830405" k="lanes" o="modify" type="way" v="1" />
+    <tag id="422830405" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422830405" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422830405" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="422830405" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="422830405" k="maxheight" o="none" type="way" v="default" />
+    <tag id="459000569" k="lit" o="add" type="way" v="yes" />
+    <tag id="459000569" k="ref" o="none" type="way" v="L 941" />
+    <tag id="459000569" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="459000569" k="oneway" o="none" type="way" v="no" />
+    <tag id="459000569" k="highway" o="none" type="way" v="secondary" />
+    <tag id="459000569" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="459000569" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="459000569" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="459000571" k="lit" o="add" type="way" v="yes" />
+    <tag id="459000571" k="ref" o="none" type="way" v="L 941" />
+    <tag id="459000571" k="name" o="none" type="way" v="Wahmbecker Stra&#223;e" />
+    <tag id="459000571" k="highway" o="none" type="way" v="secondary" />
+    <tag id="459000571" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="459000571" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="459000571" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="459000574" k="lit" o="none" type="way" v="limited" />
+    <tag id="459000574" k="ref" o="none" type="way" v="L 941" />
+    <tag id="459000574" k="name" o="none" type="way" v="Lo&#223;brucher Stra&#223;e" />
+    <tag id="459000574" k="lanes" o="none" type="way" v="2" />
+    <tag id="459000574" k="oneway" o="none" type="way" v="no" />
+    <tag id="459000574" k="highway" o="none" type="way" v="secondary" />
+    <tag id="459000574" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="459000574" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="459000574" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="476219257" k="lit" o="add" type="way" v="yes" />
+    <tag id="476219257" k="ref" o="add" type="way" v="L 941" />
+    <tag id="476219257" k="name" o="add" type="way" v="Residenzstra&#223;e" />
+    <tag id="476219257" k="lanes" o="add" type="way" v="2" />
+    <tag id="476219257" k="oneway" o="add" type="way" v="no" />
+    <tag id="476219257" k="highway" o="add" type="way" v="secondary" />
+    <tag id="476219257" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="476219257" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="476219257" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="476219258" k="amenity" o="add" type="way" v="parking" />
+    <tag id="476219258" k="parking" o="add" type="way" v="surface" />
+    <tag id="476219258" k="wheelchair" o="add" type="way" v="limited" />
+    <tag id="476219259" k="lit" o="add" type="way" v="yes" />
+    <tag id="476219259" k="ref" o="add" type="way" v="B 238" />
+    <tag id="476219259" k="name" o="add" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="476219259" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="476219259" k="highway" o="add" type="way" v="primary" />
+    <tag id="476219259" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="476219259" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="476219259" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="476219259" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="476219259" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="476219259" k="turn:lanes:forward" o="add" type="way" v="left|through;right" />
+    <tag id="476219260" k="lit" o="add" type="way" v="yes" />
+    <tag id="476219260" k="ref" o="add" type="way" v="B 238" />
+    <tag id="476219260" k="name" o="add" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="476219260" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="476219260" k="highway" o="add" type="way" v="primary" />
+    <tag id="476219260" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="476219260" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="476219260" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="476219260" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="476219260" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="476219260" k="turn:lanes:backward" o="add" type="way" v="left|through;right" />
+    <tag id="476219261" k="lit" o="add" type="way" v="no" />
+    <tag id="476219261" k="foot" o="add" type="way" v="designated" />
+    <tag id="476219261" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="476219261" k="highway" o="add" type="way" v="path" />
+    <tag id="476219261" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="476219261" k="segregated" o="add" type="way" v="no" />
+    <tag id="476219262" k="lit" o="add" type="way" v="no" />
+    <tag id="476219262" k="ref" o="add" type="way" v="B 238" />
+    <tag id="476219262" k="name" o="add" type="way" v="Lemgoer Stra&#223;e" />
+    <tag id="476219262" k="lanes" o="add" type="way" v="2" />
+    <tag id="476219262" k="oneway" o="add" type="way" v="no" />
+    <tag id="476219262" k="source" o="add" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="476219262" k="bicycle" o="add" type="way" v="use_sidepath" />
+    <tag id="476219262" k="highway" o="add" type="way" v="primary" />
+    <tag id="476219262" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="476219262" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="476219262" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="476219262" k="strassen-nrw:abs" o="add" type="way" v="4019042O4019043O" />
+    <tag id="21561" k="ref" o="none" type="relation" v="B 238" />
+    <tag id="21561" k="name" o="none" type="relation" v="Bundesstra&#223;e 238" />
+    <tag id="21561" k="type" o="none" type="relation" v="route" />
+    <tag id="21561" k="route" o="none" type="relation" v="road" />
+    <tag id="21561" k="operator" o="none" type="relation" v="Bundesrepublik Deutschland" />
+    <tag id="21561" k="wikipedia" o="none" type="relation" v="de:Bundesstra&#223;e 238" />
+    <tag id="21561" k="TMC:cid_58:tabcd_1:Class" o="none" type="relation" v="Road" />
+    <tag id="21561" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="relation" v="8.00" />
+    <tag id="21561" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="relation" v="9133" />
+    <tag id="162792" k="ref" o="none" type="relation" v="NRW" />
+    <tag id="162792" k="name" o="none" type="relation" v="Radverkehrsnetz NRW, Kreis Lippe" />
+    <tag id="162792" k="type" o="none" type="relation" v="route" />
+    <tag id="162792" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="162792" k="network" o="none" type="relation" v="rcn" />
+    <tag id="162792" k="website" o="none" type="relation" v="www.radverkehrsnetz.nrw.de" />
+    <tag id="162792" k="operator" o="none" type="relation" v="Ministerium f&#252;r Bauen und Verkehr Nordrhein-Westfalen" />
+    <tag id="2809921" k="to" o="none" type="relation" v="Lemgo, Bahnhof" />
+    <tag id="2809921" k="ref" o="none" type="relation" v="790" />
+    <tag id="2809921" k="via" o="none" type="relation" v="Wahmbeckerheide, Brake" />
+    <tag id="2809921" k="from" o="none" type="relation" v="Detmold, Bahnhof" />
+    <tag id="2809921" k="name" o="none" type="relation" v="Bus 790: Detmold=&gt;Brake=&gt;Lemgo" />
+    <tag id="2809921" k="type" o="none" type="relation" v="route" />
+    <tag id="2809921" k="route" o="none" type="relation" v="bus" />
+    <tag id="2809921" k="network" o="none" type="relation" v="VVOWL" />
+    <tag id="2809921" k="operator" o="none" type="relation" v="go.on Gesellschaft f&#252;r Bus- und Schienenverkehr mbH" />
+    <tag id="2809921" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2809994" k="to" o="none" type="relation" v="Detmold, Bahnhof" />
+    <tag id="2809994" k="ref" o="none" type="relation" v="790" />
+    <tag id="2809994" k="via" o="none" type="relation" v="Brake, Wahmbeckerheide" />
+    <tag id="2809994" k="from" o="none" type="relation" v="Lemgo, Bahnhof" />
+    <tag id="2809994" k="name" o="none" type="relation" v="Bus 790: Lemgo=&gt;Brake=&gt;Detmold" />
+    <tag id="2809994" k="type" o="none" type="relation" v="route" />
+    <tag id="2809994" k="route" o="none" type="relation" v="bus" />
+    <tag id="2809994" k="network" o="none" type="relation" v="VVOWL" />
+    <tag id="2809994" k="operator" o="none" type="relation" v="go.on Gesellschaft f&#252;r Bus- und Schienenverkehr mbH" />
+    <tag id="2809994" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2815359" k="to" o="none" type="relation" v="Lemgo, Bahnhof" />
+    <tag id="2815359" k="ref" o="none" type="relation" v="790" />
+    <tag id="2815359" k="via" o="none" type="relation" v="Bentrup" />
+    <tag id="2815359" k="from" o="none" type="relation" v="Detmold, Bahnhof" />
+    <tag id="2815359" k="name" o="none" type="relation" v="Bus 790: Detmold=&gt;Bentrup=&gt;Lemgo" />
+    <tag id="2815359" k="type" o="none" type="relation" v="route" />
+    <tag id="2815359" k="route" o="none" type="relation" v="bus" />
+    <tag id="2815359" k="network" o="none" type="relation" v="VVOWL" />
+    <tag id="2815359" k="operator" o="none" type="relation" v="go.on Gesellschaft f&#252;r Bus- und Schienenverkehr mbH" />
+    <tag id="2815359" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2815373" k="to" o="none" type="relation" v="Detmold, Bahnhof" />
+    <tag id="2815373" k="ref" o="none" type="relation" v="790" />
+    <tag id="2815373" k="via" o="none" type="relation" v="Bentrup" />
+    <tag id="2815373" k="from" o="none" type="relation" v="Lemgo, Bahnhof" />
+    <tag id="2815373" k="name" o="none" type="relation" v="Bus 790: Lemgo=&gt;Bentrup=&gt;Detmold" />
+    <tag id="2815373" k="type" o="none" type="relation" v="route" />
+    <tag id="2815373" k="route" o="none" type="relation" v="bus" />
+    <tag id="2815373" k="network" o="none" type="relation" v="VVOWL" />
+    <tag id="2815373" k="operator" o="none" type="relation" v="go.on Gesellschaft f&#252;r Bus- und Schienenverkehr mbH" />
+    <tag id="2815373" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4077674" k="ref" o="none" type="relation" v="L 941" />
+    <tag id="4077674" k="name" o="none" type="relation" v="L 941 NRW" />
+    <tag id="4077674" k="type" o="none" type="relation" v="route" />
+    <tag id="4077674" k="route" o="none" type="relation" v="road" />
+    <tag id="4077674" k="network" o="none" type="relation" v="Landesstra&#223;en NRW" />
+    <tag id="4077674" k="operator" o="none" type="relation" v="Nordrhein-Westfalen" />
+    <tag id="6287067" k="type" o="none" type="relation" v="restriction" />
+    <tag id="6287067" k="restriction" o="none" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

@@ -1,0 +1,1561 @@
+<changeset id="22811886" schema="2">
+  <counts nodesAdded="149" nodesDeleted="43" nodesModified="9" relationsAdded="0" relationsDeleted="0" relationsModified="23" waysAdded="45" waysDeleted="6" waysModified="172" />
+  <meta>
+    <tag k="build" v="2.3-605-gbec0ea7" />
+    <tag k="comment" v="A 26/B 73/L 111/K 30" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="491179" k="ele" o="none" type="node" v="15.999" />
+    <tag id="491179" k="ref" o="none" type="node" v="32" />
+    <tag id="491179" k="name" o="none" type="node" v="Hamburg-Heimfeld" />
+    <tag id="491179" k="time" o="none" type="node" v="2003-09-27T15:51:17Z" />
+    <tag id="491179" k="disused:highway" o="add" type="node" v="motorway_junction" />
+    <tag id="491179" k="TMC:cid_58:tabcd_1:Class" o="none" type="node" v="Point" />
+    <tag id="491179" k="TMC:cid_58:tabcd_1:Direction" o="none" type="node" v="negative" />
+    <tag id="491179" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="node" v="8.00" />
+    <tag id="491179" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="node" v="12373" />
+    <tag id="491179" k="TMC:cid_58:tabcd_1:NextLocationCode" o="none" type="node" v="12374" />
+    <tag id="491179" k="TMC:cid_58:tabcd_1:PrevLocationCode" o="none" type="node" v="12372" />
+    <tag id="30810865" k="note" o="add" type="node" v="highway=motorway_junction nur an Abfahrten erlaubt!" />
+    <tag id="30810865" k="TMC:cid_58:tabcd_1:Class" o="none" type="node" v="Point" />
+    <tag id="30810865" k="TMC:cid_58:tabcd_1:Direction" o="none" type="node" v="positive" />
+    <tag id="30810865" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="node" v="8.00" />
+    <tag id="30810865" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="node" v="10701" />
+    <tag id="30810865" k="TMC:cid_58:tabcd_1:PrevLocationCode" o="none" type="node" v="10700" />
+    <tag id="246616245" k="ref" o="add" type="node" v="1" />
+    <tag id="246616245" k="name" o="add" type="node" v="Stade-Riensf&#246;rde" />
+    <tag id="246616245" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="1373101186" k="name" o="add" type="node" v="Dreieck Stade" />
+    <tag id="1373101186" k="exit_to" o="add" type="node" v="Stade" />
+    <tag id="1373101186" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="1374804373" k="ref" o="none" type="node" v="9" />
+    <tag id="1374804373" k="name" o="none" type="node" v="Kreuz Hamburg-S&#252;derelbe" />
+    <tag id="1374804373" k="proposed:highway" o="none" type="node" v="motorway_junction" />
+    <tag id="1593872716" k="ref" o="add" type="node" v="1" />
+    <tag id="1593872716" k="name" o="add" type="node" v="Stade-Riensf&#246;rde" />
+    <tag id="1593872716" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="1659305365" k="ref" o="none" type="node" v="5" />
+    <tag id="1659305365" k="name" o="none" type="node" v="Horneburg" />
+    <tag id="1659305365" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="1659305545" k="ref" o="add" type="node" v="3" />
+    <tag id="1659305545" k="name" o="add" type="node" v="Stade-Ost" />
+    <tag id="1659305545" k="exit_to" o="add" type="node" v="Stade;Wischhafen;Drochtersen" />
+    <tag id="1659305545" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="1659305567" k="ref" o="none" type="node" v="3" />
+    <tag id="1659305567" k="name" o="none" type="node" v="Stade-Ost" />
+    <tag id="1659305567" k="exit_to" o="none" type="node" v="Stade;Wischhafen;Drochtersen" />
+    <tag id="1659305567" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="1659305568" k="ref" o="none" type="node" v="3" />
+    <tag id="1659305568" k="name" o="none" type="node" v="Stade-Ost" />
+    <tag id="1659305568" k="exit_to" o="none" type="node" v="Stade;Wischhafen;Drochtersen" />
+    <tag id="1659305568" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="1912285748" k="ref" o="none" type="node" v="7" />
+    <tag id="1912285748" k="name" o="none" type="node" v="Buxtehude" />
+    <tag id="1912285748" k="construction:highway" o="add" type="node" v="motorway_junction" />
+    <tag id="1912285749" k="ref" o="none" type="node" v="7" />
+    <tag id="1912285749" k="name" o="none" type="node" v="Buxtehude" />
+    <tag id="1912285749" k="construction:highway" o="add" type="node" v="motorway_junction" />
+    <tag id="2613900608" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="3213460" k="lit" o="none" type="way" v="no" />
+    <tag id="3213460" k="foot" o="none" type="way" v="no" />
+    <tag id="3213460" k="horse" o="none" type="way" v="no" />
+    <tag id="3213460" k="lanes" o="none" type="way" v="2" />
+    <tag id="3213460" k="oneway" o="none" type="way" v="yes" />
+    <tag id="3213460" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="3213460" k="bicycle" o="none" type="way" v="no" />
+    <tag id="3213460" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="3213460" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="3213460" k="destination" o="modify" type="way" v="Hamburg-Marmstorf;Hamburg-Marmstorf-L&#252;rade;Hamburg-Harburg" />
+    <tag id="4355024" k="lit" o="none" type="way" v="no" />
+    <tag id="4355024" k="lanes" o="none" type="way" v="2" />
+    <tag id="4355024" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4355024" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4355024" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4355024" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="4355024" k="destination" o="modify" type="way" v="Hannover" />
+    <tag id="4355024" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="4389127" k="lit" o="none" type="way" v="no" />
+    <tag id="4389127" k="ref" o="none" type="way" v="A 7" />
+    <tag id="4389127" k="lanes" o="none" type="way" v="4" />
+    <tag id="4389127" k="layer" o="none" type="way" v="1" />
+    <tag id="4389127" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4389127" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4389127" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4389127" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4389127" k="int_ref" o="none" type="way" v="E 45" />
+    <tag id="4389127" k="maxspeed" o="none" type="way" v="none" />
+    <tag id="4389127" k="turn:lanes" o="modify" type="way" v="none|none|none|???" />
+    <tag id="4389127" k="destination:lanes" o="none" type="way" v="Hannover;Bremen;Hamburg-S&#252;dwest|Hannover;Bremen;Hamburg-S&#252;dwest|Hannover;Bremen;Hamburg-S&#252;dwest|Hamburg-Heimfeld;Hamburg-Harburg;Cuxhaven" />
+    <tag id="4769447" k="lit" o="none" type="way" v="no" />
+    <tag id="4769447" k="lanes" o="modify" type="way" v="1" />
+    <tag id="4769447" k="access" o="add" type="way" v="no" />
+    <tag id="4769447" k="oneway" o="none" type="way" v="no" />
+    <tag id="4769447" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4769447" k="highway" o="modify" type="way" v="service" />
+    <tag id="4769447" k="destination" o="none" type="way" v="Hamburg-Heimfeld;Hamburg-Harburg;Cuxhaven" />
+    <tag id="4769447" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="4769447" k="destination:ref" o="none" type="way" v="B 73" />
+    <tag id="4789094" k="lit" o="none" type="way" v="no" />
+    <tag id="4789094" k="ref" o="none" type="way" v="A 7" />
+    <tag id="4789094" k="lanes" o="none" type="way" v="4" />
+    <tag id="4789094" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4789094" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4789094" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4789094" k="int_ref" o="none" type="way" v="E 45" />
+    <tag id="4789094" k="maxspeed" o="none" type="way" v="none" />
+    <tag id="4789094" k="turn:lanes" o="modify" type="way" v="none|none|none|???" />
+    <tag id="4789094" k="destination:lanes" o="none" type="way" v="Hannover;Bremen;Hamburg-S&#252;dwest|Hannover;Bremen;Hamburg-S&#252;dwest|Hannover;Bremen;Hamburg-S&#252;dwest|Hamburg-Heimfeld;Hamburg-Harburg;Cuxhaven" />
+    <tag id="4801290" k="lit" o="none" type="way" v="no" />
+    <tag id="4801290" k="ref" o="none" type="way" v="A 261" />
+    <tag id="4801290" k="lanes" o="none" type="way" v="2" />
+    <tag id="4801290" k="layer" o="none" type="way" v="1" />
+    <tag id="4801290" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4801290" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4801290" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4801290" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4801290" k="maxspeed" o="none" type="way" v="signals" />
+    <tag id="4801290" k="destination" o="add" type="way" v="Flensburg" />
+    <tag id="4801290" k="destination:ref" o="add" type="way" v="A 7" />
+    <tag id="4801291" k="lit" o="none" type="way" v="no" />
+    <tag id="4801291" k="ref" o="none" type="way" v="A 261" />
+    <tag id="4801291" k="lanes" o="none" type="way" v="2" />
+    <tag id="4801291" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4801291" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4801291" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4801291" k="maxspeed" o="none" type="way" v="signals" />
+    <tag id="4801291" k="destination" o="add" type="way" v="Flensburg" />
+    <tag id="4801291" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="4943634" k="lit" o="none" type="way" v="no" />
+    <tag id="4943634" k="foot" o="none" type="way" v="no" />
+    <tag id="4943634" k="note" o="none" type="way" v="Wegen Baustelle gesperrt!" />
+    <tag id="4943634" k="fixme" o="add" type="way" v="Nur gesperrt oder wird dort gebaut?" />
+    <tag id="4943634" k="horse" o="none" type="way" v="no" />
+    <tag id="4943634" k="lanes" o="none" type="way" v="1" />
+    <tag id="4943634" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4943634" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="4943634" k="bicycle" o="none" type="way" v="no" />
+    <tag id="4943634" k="highway" o="none" type="way" v="construction" />
+    <tag id="4943634" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="4943634" k="destination" o="none" type="way" v="Flensburg;Kiel" />
+    <tag id="4943634" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="4943634" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="4943634" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="8364651" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="8364651" k="motorcycle" o="none" type="way" v="agricultural" />
+    <tag id="8364651" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="8364651" k="motor_vehicle" o="none" type="way" v="agricultural" />
+    <tag id="10661307" k="lit" o="none" type="way" v="no" />
+    <tag id="10661307" k="lanes" o="none" type="way" v="2" />
+    <tag id="10661307" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10661307" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="10661307" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10661307" k="destination" o="modify" type="way" v="Flensburg" />
+    <tag id="10661307" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="10662476" k="lit" o="none" type="way" v="no" />
+    <tag id="10662476" k="foot" o="none" type="way" v="no" />
+    <tag id="10662476" k="horse" o="none" type="way" v="no" />
+    <tag id="10662476" k="lanes" o="none" type="way" v="2" />
+    <tag id="10662476" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10662476" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="10662476" k="bicycle" o="none" type="way" v="no" />
+    <tag id="10662476" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10662476" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="10662476" k="destination" o="add" type="way" v="Bremen" />
+    <tag id="10662476" k="destination:ref" o="none" type="way" v="A 261" />
+    <tag id="10662477" k="lit" o="none" type="way" v="no" />
+    <tag id="10662477" k="foot" o="none" type="way" v="no" />
+    <tag id="10662477" k="horse" o="none" type="way" v="no" />
+    <tag id="10662477" k="lanes" o="none" type="way" v="2" />
+    <tag id="10662477" k="layer" o="none" type="way" v="1" />
+    <tag id="10662477" k="bridge" o="none" type="way" v="yes" />
+    <tag id="10662477" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10662477" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="10662477" k="bicycle" o="none" type="way" v="no" />
+    <tag id="10662477" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10662477" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="10662477" k="destination" o="add" type="way" v="Bremen" />
+    <tag id="10662477" k="destination:ref" o="none" type="way" v="A 261" />
+    <tag id="10662478" k="lit" o="none" type="way" v="no" />
+    <tag id="10662478" k="foot" o="none" type="way" v="no" />
+    <tag id="10662478" k="horse" o="none" type="way" v="no" />
+    <tag id="10662478" k="lanes" o="none" type="way" v="2" />
+    <tag id="10662478" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10662478" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="10662478" k="bicycle" o="none" type="way" v="no" />
+    <tag id="10662478" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10662478" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="10662478" k="destination" o="add" type="way" v="Bremen" />
+    <tag id="10662478" k="destination:ref" o="none" type="way" v="A 261" />
+    <tag id="10662492" k="lit" o="none" type="way" v="no" />
+    <tag id="10662492" k="lanes" o="none" type="way" v="1" />
+    <tag id="10662492" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10662492" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="10662492" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10662492" k="destination" o="add" type="way" v="Bremen" />
+    <tag id="10662492" k="destination:ref" o="none" type="way" v="A 261" />
+    <tag id="22903362" k="lanes" o="none" type="way" v="1" />
+    <tag id="22903362" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22903362" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="22903362" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="22903362" k="destination" o="add" type="way" v="Cuxhaven" />
+    <tag id="22903362" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="22905771" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22905771" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="22905788" k="lanes" o="none" type="way" v="1" />
+    <tag id="22905788" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22905788" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="22905788" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="22905788" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="22905788" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="26192215" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26192215" k="source" o="none" type="way" v="yahoo" />
+    <tag id="26192215" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26192215" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="26192215" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="26192229" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26192229" k="source" o="none" type="way" v="yahoo" />
+    <tag id="26192229" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26192238" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26192238" k="source" o="none" type="way" v="yahoo" />
+    <tag id="26192238" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26192238" k="destination" o="add" type="way" v="Stade" />
+    <tag id="26192238" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="26192255" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26192255" k="source" o="none" type="way" v="yahoo" />
+    <tag id="26192255" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26192391" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26192391" k="source" o="none" type="way" v="yahoo" />
+    <tag id="26192391" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26192391" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="26192391" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="26192404" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26192404" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26192404" k="destination" o="add" type="way" v="Stade" />
+    <tag id="26192404" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="26480662" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
+    <tag id="26480662" k="highway" o="none" type="way" v="residential" />
+    <tag id="26480662" k="old_ref" o="add" type="way" v="L 235" />
+    <tag id="26480662" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="26480662" k="zone:traffic" o="none" type="way" v="DE:urban" />
+    <tag id="26480662" k="zone:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="26978635" k="ref" o="none" type="way" v="A 26" />
+    <tag id="26978635" k="foot" o="none" type="way" v="no" />
+    <tag id="26978635" k="horse" o="none" type="way" v="no" />
+    <tag id="26978635" k="lanes" o="none" type="way" v="2" />
+    <tag id="26978635" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26978635" k="source" o="none" type="way" v="yahoo" />
+    <tag id="26978635" k="bicycle" o="none" type="way" v="no" />
+    <tag id="26978635" k="highway" o="none" type="way" v="motorway" />
+    <tag id="26978635" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="26978635" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="27820781" k="ref" o="none" type="way" v="L 111" />
+    <tag id="27820781" k="lanes" o="none" type="way" v="1" />
+    <tag id="27820781" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27820781" k="highway" o="none" type="way" v="secondary" />
+    <tag id="27820781" k="new_ref" o="add" type="way" v="K 30" />
+    <tag id="27820781" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="27820781" k="destination" o="none" type="way" v="Drochtersen" />
+    <tag id="27820782" k="ref" o="none" type="way" v="L 111" />
+    <tag id="27820782" k="layer" o="none" type="way" v="1" />
+    <tag id="27820782" k="bridge" o="none" type="way" v="yes" />
+    <tag id="27820782" k="highway" o="none" type="way" v="secondary" />
+    <tag id="27820782" k="new_ref" o="add" type="way" v="K 30" />
+    <tag id="29264761" k="ref" o="none" type="way" v="B 73" />
+    <tag id="29264761" k="lanes" o="none" type="way" v="2" />
+    <tag id="29264761" k="layer" o="none" type="way" v="1" />
+    <tag id="29264761" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29264761" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="29264761" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29264761" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="29291672" k="ref" o="none" type="way" v="B 73" />
+    <tag id="29291672" k="lanes" o="none" type="way" v="2" />
+    <tag id="29291672" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="29291672" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29291672" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="30983006" k="name" o="none" type="way" v="Francoper Stra&#223;e" />
+    <tag id="30983006" k="highway" o="none" type="way" v="secondary" />
+    <tag id="30983006" k="cycleway" o="none" type="way" v="track" />
+    <tag id="30983006" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="30983006" k="postal_code" o="none" type="way" v="21147" />
+    <tag id="31110087" k="lcn" o="none" type="way" v="yes" />
+    <tag id="31110087" k="name" o="none" type="way" v="Neuer Weg" />
+    <tag id="31110087" k="oneway" o="none" type="way" v="no" />
+    <tag id="31110087" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="31110087" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="31110087" k="vehicle" o="none" type="way" v="agricultural" />
+    <tag id="31861075" k="ref" o="none" type="way" v="K 40" />
+    <tag id="31861075" k="name" o="none" type="way" v="R&#252;bker Stra&#223;e" />
+    <tag id="31861075" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="33880335" k="lcn" o="none" type="way" v="yes" />
+    <tag id="33880335" k="ref" o="none" type="way" v="L 235" />
+    <tag id="33880335" k="name" o="none" type="way" v="Wulmstorfer Stra&#223;e" />
+    <tag id="33880335" k="highway" o="none" type="way" v="secondary" />
+    <tag id="34764090" k="ref" o="none" type="way" v="A 26" />
+    <tag id="34764090" k="lanes" o="none" type="way" v="2" />
+    <tag id="34764090" k="oneway" o="none" type="way" v="yes" />
+    <tag id="34764090" k="highway" o="none" type="way" v="proposed" />
+    <tag id="34764090" k="proposed" o="none" type="way" v="motorway" />
+    <tag id="37569697" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="37569697" k="highway" o="none" type="way" v="secondary" />
+    <tag id="37569697" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="37569697" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37569697" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="37569697" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="37569697" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="37573503" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="37573503" k="layer" o="none" type="way" v="2" />
+    <tag id="37573503" k="bridge" o="none" type="way" v="yes" />
+    <tag id="37573503" k="highway" o="none" type="way" v="secondary" />
+    <tag id="37573503" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="37573503" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="37573503" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="37573503" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="37573504" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="37573504" k="highway" o="none" type="way" v="secondary" />
+    <tag id="37573504" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="37573504" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="37573504" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="37573504" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="51939236" k="ref" o="none" type="way" v="B 73" />
+    <tag id="51939236" k="lanes" o="none" type="way" v="2" />
+    <tag id="51939236" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="51939236" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="51939236" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="59518334" k="ref" o="none" type="way" v="B 3" />
+    <tag id="59518334" k="name" o="none" type="way" v="Soltauer Chaussee" />
+    <tag id="59518334" k="highway" o="none" type="way" v="primary" />
+    <tag id="59518334" k="cycleway" o="none" type="way" v="track" />
+    <tag id="59518334" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="61981520" k="source" o="none" type="way" v="Yahoo" />
+    <tag id="61981520" k="landuse" o="none" type="way" v="orchard" />
+    <tag id="69671581" k="ref" o="none" type="way" v="A 26" />
+    <tag id="69671581" k="lanes" o="none" type="way" v="2" />
+    <tag id="69671581" k="oneway" o="none" type="way" v="yes" />
+    <tag id="69671581" k="source" o="none" type="way" v="yahoo" />
+    <tag id="69671581" k="highway" o="none" type="way" v="motorway" />
+    <tag id="69671581" k="maxspeed" o="none" type="way" v="120" />
+    <tag id="69671583" k="lanes" o="none" type="way" v="1" />
+    <tag id="69671583" k="oneway" o="none" type="way" v="yes" />
+    <tag id="69671583" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="69671583" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="69671583" k="destination" o="none" type="way" v="Buxtehude" />
+    <tag id="69671583" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="81935804" k="note" o="none" type="way" v="tempor&#228;re Rampe" />
+    <tag id="81935804" k="lanes" o="none" type="way" v="1" />
+    <tag id="81935804" k="oneway" o="none" type="way" v="yes" />
+    <tag id="81935804" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="81935804" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="81935804" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="82325467" k="ref" o="none" type="way" v="K 36" />
+    <tag id="82325467" k="name" o="none" type="way" v="Altl&#228;nder Stra&#223;e" />
+    <tag id="82325467" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="82325467" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="82325467" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="91766099" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="91766100" k="lanes" o="none" type="way" v="1" />
+    <tag id="91766100" k="oneway" o="none" type="way" v="yes" />
+    <tag id="91766100" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="91766100" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="91766101" k="ref" o="none" type="way" v="B 73" />
+    <tag id="91766101" k="oneway" o="none" type="way" v="yes" />
+    <tag id="91766101" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="91766101" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="91766101" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="91766101" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="91863809" k="lanes" o="none" type="way" v="1" />
+    <tag id="91863809" k="oneway" o="none" type="way" v="yes" />
+    <tag id="91863809" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="91863809" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="91863810" k="lanes" o="none" type="way" v="1" />
+    <tag id="91863810" k="oneway" o="none" type="way" v="yes" />
+    <tag id="91863810" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="91863810" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="91863810" k="destination" o="add" type="way" v="Cuxhaven" />
+    <tag id="91863810" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="91863813" k="ref" o="none" type="way" v="B 73" />
+    <tag id="91863813" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="91863813" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="93347358" k="ref" o="none" type="way" v="A 26" />
+    <tag id="93347358" k="lanes" o="add" type="way" v="3" />
+    <tag id="93347358" k="oneway" o="none" type="way" v="yes" />
+    <tag id="93347358" k="highway" o="none" type="way" v="proposed" />
+    <tag id="93347358" k="proposed" o="none" type="way" v="motorway" />
+    <tag id="93347358" k="turn:lanes" o="add" type="way" v="none|none|slight_right" />
+    <tag id="93463046" k="name" o="none" type="way" v="Vorbelastungsdamm" />
+    <tag id="93463046" k="oneway" o="none" type="way" v="yes" />
+    <tag id="93463046" k="highway" o="none" type="way" v="construction" />
+    <tag id="93463046" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="93463046" k="opening_date" o="none" type="way" v="2015" />
+    <tag id="93463046" k="destination:ref" o="add" type="way" v="K 26" />
+    <tag id="110810735" k="ref" o="none" type="way" v="A 26" />
+    <tag id="110810735" k="lanes" o="none" type="way" v="2" />
+    <tag id="110810735" k="layer" o="none" type="way" v="1" />
+    <tag id="110810735" k="bridge" o="none" type="way" v="yes" />
+    <tag id="110810735" k="oneway" o="none" type="way" v="yes" />
+    <tag id="110810735" k="highway" o="none" type="way" v="construction" />
+    <tag id="110810735" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="110810735" k="construction" o="none" type="way" v="motorway" />
+    <tag id="110815374" k="name" o="none" type="way" v="Vorbelastungsdamm" />
+    <tag id="110815374" k="oneway" o="none" type="way" v="yes" />
+    <tag id="110815374" k="highway" o="none" type="way" v="construction" />
+    <tag id="110815374" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="110815374" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="110815374" k="destination:ref" o="add" type="way" v="K 26" />
+    <tag id="110815378" k="name" o="none" type="way" v="Vorbelastungsdamm" />
+    <tag id="110815378" k="oneway" o="none" type="way" v="yes" />
+    <tag id="110815378" k="highway" o="none" type="way" v="construction" />
+    <tag id="110815378" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="110815378" k="destination" o="add" type="way" v="Stade" />
+    <tag id="110815378" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="110815378" k="opening_date" o="none" type="way" v="2015" />
+    <tag id="110815378" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="122284183" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
+    <tag id="122284183" k="access" o="none" type="way" v="yes" />
+    <tag id="122284183" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="122284183" k="old_ref" o="add" type="way" v="L 235" />
+    <tag id="123215262" k="note" o="none" type="way" v="&#220;bergangsl&#246;sung der Variante &quot;S&#252;d 1 Hochlage&quot;" />
+    <tag id="123215262" k="oneway" o="none" type="way" v="yes" />
+    <tag id="123215262" k="source" o="none" type="way" v="Planungsunterlagen" />
+    <tag id="123215262" k="highway" o="none" type="way" v="proposed" />
+    <tag id="123215262" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="123215262" k="description" o="none" type="way" v="provisorische Rampe" />
+    <tag id="123215262" k="destination" o="none" type="way" v="Flensburg" />
+    <tag id="123215262" k="destination:ref" o="add" type="way" v="A 7" />
+    <tag id="123215267" k="oneway" o="none" type="way" v="yes" />
+    <tag id="123215267" k="source" o="none" type="way" v="Planungsunterlagen" />
+    <tag id="123215267" k="highway" o="none" type="way" v="proposed" />
+    <tag id="123215267" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="123215267" k="destination" o="none" type="way" v="Buxtehude" />
+    <tag id="123215267" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="123215271" k="oneway" o="none" type="way" v="yes" />
+    <tag id="123215271" k="source" o="none" type="way" v="Planungsunterlagen" />
+    <tag id="123215271" k="highway" o="none" type="way" v="proposed" />
+    <tag id="123215271" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="123215271" k="destination" o="none" type="way" v="Hannover" />
+    <tag id="123215271" k="destination:ref" o="add" type="way" v="A 7" />
+    <tag id="124616857" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="124616857" k="highway" o="none" type="way" v="secondary" />
+    <tag id="124616857" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="124616857" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="124616857" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="124616857" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="124616862" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="124616862" k="highway" o="none" type="way" v="secondary" />
+    <tag id="124616862" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="124616862" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="124616862" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="124616862" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="124616864" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="124616864" k="highway" o="none" type="way" v="secondary" />
+    <tag id="124616864" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="124616864" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="124616864" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="124616864" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="124919645" k="lanes" o="none" type="way" v="2" />
+    <tag id="124919645" k="oneway" o="none" type="way" v="yes" />
+    <tag id="124919645" k="highway" o="none" type="way" v="construction" />
+    <tag id="124919645" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="124919645" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="124919645" k="destination" o="add" type="way" v="Hamburg" />
+    <tag id="124919645" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="124919645" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="124919647" k="ref" o="add" type="way" v="B 75" />
+    <tag id="124919647" k="lanes" o="none" type="way" v="2" />
+    <tag id="124919647" k="highway" o="none" type="way" v="construction" />
+    <tag id="124919647" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="124919647" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="124919647" k="construction" o="none" type="way" v="primary" />
+    <tag id="124919647" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="124919647" k="proposed:ref" o="none" type="way" v="B75n" />
+    <tag id="124919651" k="lanes" o="none" type="way" v="1" />
+    <tag id="124919651" k="oneway" o="none" type="way" v="yes" />
+    <tag id="124919651" k="highway" o="none" type="way" v="construction" />
+    <tag id="124919651" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="124919651" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="124919651" k="destination" o="add" type="way" v="Buchholz" />
+    <tag id="124919651" k="construction" o="modify" type="way" v="trunk" />
+    <tag id="124919651" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="124919651" k="proposed:ref" o="none" type="way" v="B75n" />
+    <tag id="124919672" k="lanes" o="none" type="way" v="1" />
+    <tag id="124919672" k="oneway" o="none" type="way" v="yes" />
+    <tag id="124919672" k="highway" o="none" type="way" v="construction" />
+    <tag id="124919672" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="124919672" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="124919672" k="destination" o="add" type="way" v="Hamburg" />
+    <tag id="124919672" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="124919672" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="124919672" k="name:when_finished" o="none" type="way" v="AS Dibbersen (geplant)" />
+    <tag id="124919677" k="ref" o="add" type="way" v="B 75" />
+    <tag id="124919677" k="oneway" o="none" type="way" v="yes" />
+    <tag id="124919677" k="highway" o="none" type="way" v="construction" />
+    <tag id="124919677" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="124919677" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="124919677" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="124919677" k="construction" o="none" type="way" v="primary" />
+    <tag id="124919677" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="124919677" k="proposed:ref" o="none" type="way" v="B75n" />
+    <tag id="124919685" k="lit" o="none" type="way" v="no" />
+    <tag id="124919685" k="ref" o="add" type="way" v="B 75" />
+    <tag id="124919685" k="lanes" o="none" type="way" v="1" />
+    <tag id="124919685" k="oneway" o="none" type="way" v="yes" />
+    <tag id="124919685" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="124919685" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="124919685" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="124919685" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="124919685" k="destination" o="none" type="way" v="Bremen;Flensburg;Kiel;Elbtunnel" />
+    <tag id="124919685" k="destination:ref" o="none" type="way" v="A 1" />
+    <tag id="129175345" k="ref" o="none" type="way" v="E;F;UB8;UB9" />
+    <tag id="129175345" k="name" o="none" type="way" v="E;F" />
+    <tag id="129175345" k="power" o="none" type="way" v="line" />
+    <tag id="129175345" k="wires" o="none" type="way" v="quad" />
+    <tag id="129175345" k="cables" o="none" type="way" v="6" />
+    <tag id="129175345" k="voltage" o="none" type="way" v="380000" />
+    <tag id="129175345" k="operator" o="none" type="way" v="50Hertz Transmission;Vattenfall Europe Hamburg" />
+    <tag id="136134787" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
+    <tag id="136134787" k="highway" o="none" type="way" v="secondary" />
+    <tag id="136134787" k="old_ref" o="add" type="way" v="L 235" />
+    <tag id="136134787" k="cycleway" o="none" type="way" v="track" />
+    <tag id="136134787" k="postal_code" o="none" type="way" v="21629" />
+    <tag id="139468899" k="lanes" o="none" type="way" v="1" />
+    <tag id="139468899" k="oneway" o="none" type="way" v="yes" />
+    <tag id="139468899" k="highway" o="none" type="way" v="construction" />
+    <tag id="139468899" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="139468899" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="139468899" k="destination" o="add" type="way" v="Dibbersen;Buchholz i.d.N." />
+    <tag id="139468899" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="139468899" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="139468899" k="name:when_finished" o="none" type="way" v="AS Dibbersen (geplant)" />
+    <tag id="139469255" k="ref" o="add" type="way" v="B 75" />
+    <tag id="139469255" k="lanes" o="none" type="way" v="2" />
+    <tag id="139469255" k="highway" o="none" type="way" v="construction" />
+    <tag id="139469255" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="139469255" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="139469255" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="139469255" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="146091007" k="ref" o="none" type="way" v="B 73" />
+    <tag id="146091007" k="lanes" o="none" type="way" v="2" />
+    <tag id="146091007" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="146091007" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="146091007" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="146091008" k="ref" o="none" type="way" v="B 73" />
+    <tag id="146091008" k="layer" o="none" type="way" v="1" />
+    <tag id="146091008" k="bridge" o="none" type="way" v="yes" />
+    <tag id="146091008" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="146091008" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="146091010" k="ref" o="none" type="way" v="B 73" />
+    <tag id="146091010" k="lanes" o="none" type="way" v="2" />
+    <tag id="146091010" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="146091010" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="146091010" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="146091015" k="ref" o="none" type="way" v="B 73" />
+    <tag id="146091015" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="146091015" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="146091016" k="lanes" o="none" type="way" v="2" />
+    <tag id="146091016" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="146091016" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="146091017" k="lanes" o="none" type="way" v="1" />
+    <tag id="146091017" k="oneway" o="none" type="way" v="yes" />
+    <tag id="146091017" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="146091017" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="152732247" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
+    <tag id="152732247" k="highway" o="none" type="way" v="secondary" />
+    <tag id="152732247" k="old_ref" o="add" type="way" v="L 235" />
+    <tag id="152732247" k="cycleway" o="none" type="way" v="track" />
+    <tag id="152732247" k="postal_code" o="none" type="way" v="21629" />
+    <tag id="153219979" k="ref" o="none" type="way" v="A 26" />
+    <tag id="153219979" k="lanes" o="none" type="way" v="2" />
+    <tag id="153219979" k="layer" o="none" type="way" v="1" />
+    <tag id="153219979" k="bridge" o="none" type="way" v="yes" />
+    <tag id="153219979" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153219979" k="source" o="none" type="way" v="yahoo" />
+    <tag id="153219979" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153219979" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="153219979" k="maxspeed" o="none" type="way" v="none" />
+    <tag id="153219979" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="153219979" k="source:maxspeed" o="none" type="way" v="DE:motorway" />
+    <tag id="153219980" k="ref" o="none" type="way" v="A 26" />
+    <tag id="153219980" k="foot" o="none" type="way" v="no" />
+    <tag id="153219980" k="horse" o="none" type="way" v="no" />
+    <tag id="153219980" k="lanes" o="none" type="way" v="2" />
+    <tag id="153219980" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153219980" k="source" o="none" type="way" v="yahoo" />
+    <tag id="153219980" k="bicycle" o="none" type="way" v="no" />
+    <tag id="153219980" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153219980" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="153219980" k="maxspeed" o="none" type="way" v="none" />
+    <tag id="153219980" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="153219980" k="source:maxspeed" o="none" type="way" v="DE:motorway" />
+    <tag id="153219981" k="ref" o="none" type="way" v="A 26" />
+    <tag id="153219981" k="lanes" o="none" type="way" v="2" />
+    <tag id="153219981" k="layer" o="none" type="way" v="1" />
+    <tag id="153219981" k="bridge" o="none" type="way" v="yes" />
+    <tag id="153219981" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153219981" k="source" o="none" type="way" v="yahoo" />
+    <tag id="153219981" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153219981" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="153219981" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="153219982" k="ref" o="none" type="way" v="A 26" />
+    <tag id="153219982" k="lanes" o="none" type="way" v="2" />
+    <tag id="153219982" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153219982" k="source" o="none" type="way" v="yahoo" />
+    <tag id="153219982" k="highway" o="none" type="way" v="trunk" />
+    <tag id="153219982" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="153219982" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="153219982" k="maxspeed" o="none" type="way" v="none" />
+    <tag id="153219982" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="153219982" k="source:maxspeed" o="none" type="way" v="DE:motorway" />
+    <tag id="153219983" k="ref" o="none" type="way" v="A 26" />
+    <tag id="153219983" k="lanes" o="none" type="way" v="2" />
+    <tag id="153219983" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153219983" k="source" o="none" type="way" v="yahoo" />
+    <tag id="153219983" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153219983" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="153219983" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="153219983" k="source:maxspeed" o="none" type="way" v="DE:motorway" />
+    <tag id="153219984" k="ref" o="none" type="way" v="A 26" />
+    <tag id="153219984" k="lanes" o="none" type="way" v="2" />
+    <tag id="153219984" k="oneway" o="none" type="way" v="yes" />
+    <tag id="153219984" k="source" o="none" type="way" v="yahoo" />
+    <tag id="153219984" k="highway" o="none" type="way" v="motorway" />
+    <tag id="153219984" k="maxspeed" o="none" type="way" v="none" />
+    <tag id="153219984" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="153219984" k="source:maxspeed" o="none" type="way" v="DE:motorway" />
+    <tag id="168597885" k="name" o="none" type="way" v="Vorbelastungsdamm" />
+    <tag id="168597885" k="oneway" o="none" type="way" v="yes" />
+    <tag id="168597885" k="highway" o="none" type="way" v="construction" />
+    <tag id="168597885" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="168597885" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="168597885" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="168597885" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="174045714" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="174045714" k="highway" o="none" type="way" v="secondary" />
+    <tag id="174045714" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="174045714" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="174530347" k="lit" o="none" type="way" v="no" />
+    <tag id="174530347" k="lanes" o="none" type="way" v="1" />
+    <tag id="174530347" k="oneway" o="none" type="way" v="yes" />
+    <tag id="174530347" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="174530347" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="174530347" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="174530347" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="174530347" k="destination" o="modify" type="way" v="Hannover" />
+    <tag id="174530347" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="174530348" k="lit" o="none" type="way" v="no" />
+    <tag id="174530348" k="lanes" o="none" type="way" v="1" />
+    <tag id="174530348" k="oneway" o="none" type="way" v="yes" />
+    <tag id="174530348" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="174530348" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="174530348" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="174530348" k="destination" o="modify" type="way" v="Flensburg" />
+    <tag id="174530348" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="176256161" k="ref" o="none" type="way" v="B 73" />
+    <tag id="176256161" k="lanes" o="none" type="way" v="2" />
+    <tag id="176256161" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="176256161" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="176256161" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="176256162" k="ref" o="none" type="way" v="B 73" />
+    <tag id="176256162" k="lanes" o="none" type="way" v="2" />
+    <tag id="176256162" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="176256162" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="176256162" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="191766905" k="lit" o="none" type="way" v="no" />
+    <tag id="191766905" k="ref" o="add" type="way" v="B 75" />
+    <tag id="191766905" k="foot" o="none" type="way" v="no" />
+    <tag id="191766905" k="horse" o="none" type="way" v="no" />
+    <tag id="191766905" k="lanes" o="none" type="way" v="1" />
+    <tag id="191766905" k="oneway" o="none" type="way" v="yes" />
+    <tag id="191766905" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="191766905" k="bicycle" o="none" type="way" v="no" />
+    <tag id="191766905" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="191766905" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="191766905" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="191766905" k="destination" o="none" type="way" v="Dibbersen;Buchholz i.d.N.;HH-Harburg;Nenndorf" />
+    <tag id="193028182" k="oneway" o="none" type="way" v="yes" />
+    <tag id="193028182" k="source" o="none" type="way" v="yahoo" />
+    <tag id="193028182" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="193028182" k="destination" o="add" type="way" v="Stade" />
+    <tag id="193028182" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="193028183" k="oneway" o="none" type="way" v="yes" />
+    <tag id="193028183" k="source" o="none" type="way" v="yahoo" />
+    <tag id="193028183" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="193028183" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="193028183" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="193028184" k="oneway" o="none" type="way" v="yes" />
+    <tag id="193028184" k="source" o="none" type="way" v="yahoo" />
+    <tag id="193028184" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="193028184" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="193028184" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="197873442" k="lit" o="none" type="way" v="no" />
+    <tag id="197873442" k="lanes" o="none" type="way" v="2" />
+    <tag id="197873442" k="oneway" o="none" type="way" v="yes" />
+    <tag id="197873442" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="197873442" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="197873442" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="197873442" k="destination" o="modify" type="way" v="Hannover" />
+    <tag id="197873442" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="203577810" k="name" o="none" type="way" v="74;75" />
+    <tag id="203577810" k="power" o="none" type="way" v="line" />
+    <tag id="203577810" k="cables" o="none" type="way" v="6" />
+    <tag id="203577810" k="voltage" o="none" type="way" v="110000" />
+    <tag id="203577810" k="frequency" o="none" type="way" v="50" />
+    <tag id="205200220" k="foot" o="none" type="way" v="no" />
+    <tag id="205200220" k="lanes" o="none" type="way" v="1" />
+    <tag id="205200220" k="oneway" o="none" type="way" v="yes" />
+    <tag id="205200220" k="highway" o="none" type="way" v="construction" />
+    <tag id="205200220" k="cycleway" o="none" type="way" v="no" />
+    <tag id="205200220" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="205200220" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="205200220" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="205200220" k="construction" o="modify" type="way" v="trunk" />
+    <tag id="205200220" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="205200220" k="proposed:ref" o="none" type="way" v="B75n" />
+    <tag id="206005816" k="lit" o="none" type="way" v="yes" />
+    <tag id="206005816" k="oneway" o="none" type="way" v="yes" />
+    <tag id="206005816" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="206005816" k="highway" o="none" type="way" v="service" />
+    <tag id="206005816" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="206005816" k="destination" o="add" type="way" v="Bremen" />
+    <tag id="206303719" k="lit" o="none" type="way" v="yes" />
+    <tag id="206303719" k="oneway" o="none" type="way" v="yes" />
+    <tag id="206303719" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="206303719" k="highway" o="none" type="way" v="service" />
+    <tag id="206303719" k="surface" o="none" type="way" v="paved" />
+    <tag id="206303719" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="206303719" k="destination" o="add" type="way" v="Hamburg" />
+    <tag id="206858322" k="ref" o="add" type="way" v="B 75" />
+    <tag id="206858322" k="lanes" o="none" type="way" v="2" />
+    <tag id="206858322" k="layer" o="none" type="way" v="1" />
+    <tag id="206858322" k="bridge" o="none" type="way" v="yes" />
+    <tag id="206858322" k="highway" o="none" type="way" v="construction" />
+    <tag id="206858322" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="206858322" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="206858322" k="construction" o="none" type="way" v="primary" />
+    <tag id="206858322" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="206858322" k="proposed:ref" o="none" type="way" v="B75n" />
+    <tag id="206858323" k="ref" o="add" type="way" v="B 75" />
+    <tag id="206858323" k="lanes" o="none" type="way" v="2" />
+    <tag id="206858323" k="highway" o="none" type="way" v="construction" />
+    <tag id="206858323" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="206858323" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="206858323" k="construction" o="none" type="way" v="primary" />
+    <tag id="206858323" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="206858323" k="proposed:ref" o="none" type="way" v="B75n" />
+    <tag id="207061234" k="lit" o="none" type="way" v="no" />
+    <tag id="207061234" k="ref" o="none" type="way" v="A 261" />
+    <tag id="207061234" k="lanes" o="none" type="way" v="2" />
+    <tag id="207061234" k="oneway" o="none" type="way" v="yes" />
+    <tag id="207061234" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="207061234" k="highway" o="none" type="way" v="motorway" />
+    <tag id="207061234" k="maxspeed" o="none" type="way" v="signals" />
+    <tag id="207061234" k="reg_name" o="none" type="way" v="Eckverbindung Hamburg-Harburg" />
+    <tag id="207061234" k="destination" o="add" type="way" v="Flensburg" />
+    <tag id="207061234" k="destination:ref" o="add" type="way" v="A 7" />
+    <tag id="207061234" k="source:reg_name" o="none" type="way" v="Der reg_name, sowie ggf. der loc_name sind dem zugeh&#246;rigen Wikipediaartikel entnommen." />
+    <tag id="208356746" k="lit" o="none" type="way" v="no" />
+    <tag id="208356746" k="lanes" o="none" type="way" v="1" />
+    <tag id="208356746" k="oneway" o="none" type="way" v="yes" />
+    <tag id="208356746" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="208356746" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="208356746" k="destination" o="add" type="way" v="Flensburg" />
+    <tag id="208356746" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="208356748" k="lit" o="none" type="way" v="no" />
+    <tag id="208356748" k="lanes" o="none" type="way" v="1" />
+    <tag id="208356748" k="oneway" o="none" type="way" v="yes" />
+    <tag id="208356748" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="208356748" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="208356748" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="208356748" k="destination" o="add" type="way" v="Hannover" />
+    <tag id="208356748" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="208932906" k="lit" o="none" type="way" v="no" />
+    <tag id="208932906" k="lanes" o="none" type="way" v="1" />
+    <tag id="208932906" k="oneway" o="none" type="way" v="yes" />
+    <tag id="208932906" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="208932906" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="208932906" k="destination" o="add" type="way" v="Hannover" />
+    <tag id="208932906" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="213248346" k="lit" o="none" type="way" v="no" />
+    <tag id="213248346" k="lanes" o="none" type="way" v="2" />
+    <tag id="213248346" k="oneway" o="none" type="way" v="yes" />
+    <tag id="213248346" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="213248346" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="213248346" k="destination" o="modify" type="way" v="Flensburg" />
+    <tag id="213248346" k="destination:ref" o="none" type="way" v="A 7" />
+    <tag id="219349419" k="lit" o="none" type="way" v="no" />
+    <tag id="219349419" k="lanes" o="none" type="way" v="2" />
+    <tag id="219349419" k="access" o="add" type="way" v="no" />
+    <tag id="219349419" k="oneway" o="modify" type="way" v="no" />
+    <tag id="219349419" k="source" o="none" type="way" v="GPS and Videomapping" />
+    <tag id="219349419" k="highway" o="modify" type="way" v="service" />
+    <tag id="219349419" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="219349419" k="destination" o="none" type="way" v="Hamburg-Heimfeld;Hamburg-Harburg;Cuxhaven" />
+    <tag id="219349419" k="destination:ref" o="none" type="way" v="B 73" />
+    <tag id="231221052" k="lanes" o="none" type="way" v="1" />
+    <tag id="231221052" k="oneway" o="none" type="way" v="yes" />
+    <tag id="231221052" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="231221052" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="231221052" k="destination" o="none" type="way" v="Stade" />
+    <tag id="231221052" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="231221053" k="ref" o="none" type="way" v="L 111" />
+    <tag id="231221053" k="lanes" o="none" type="way" v="1" />
+    <tag id="231221053" k="oneway" o="none" type="way" v="yes" />
+    <tag id="231221053" k="highway" o="none" type="way" v="secondary" />
+    <tag id="231221053" k="new_ref" o="add" type="way" v="K 30" />
+    <tag id="231221053" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232178627" k="ref" o="none" type="way" v="L 111" />
+    <tag id="232178627" k="lanes" o="none" type="way" v="2" />
+    <tag id="232178627" k="highway" o="none" type="way" v="secondary" />
+    <tag id="232178627" k="new_ref" o="add" type="way" v="K 30" />
+    <tag id="232178627" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232180231" k="oneway" o="none" type="way" v="yes" />
+    <tag id="232180231" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="232180231" k="destination" o="add" type="way" v="Stade" />
+    <tag id="232180231" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="232180232" k="oneway" o="none" type="way" v="yes" />
+    <tag id="232180232" k="source" o="none" type="way" v="yahoo" />
+    <tag id="232180232" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="232180232" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="232180232" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="232180236" k="oneway" o="none" type="way" v="yes" />
+    <tag id="232180236" k="source" o="none" type="way" v="yahoo" />
+    <tag id="232180236" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="232180236" k="destination" o="add" type="way" v="Stade" />
+    <tag id="232180236" k="destination:ref" o="none" type="way" v="A 26" />
+    <tag id="232474879" k="ref" o="none" type="way" v="B 73" />
+    <tag id="232474879" k="lanes" o="none" type="way" v="2" />
+    <tag id="232474879" k="layer" o="none" type="way" v="1" />
+    <tag id="232474879" k="bridge" o="none" type="way" v="yes" />
+    <tag id="232474879" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="232474879" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232474879" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="232474880" k="ref" o="none" type="way" v="B 73" />
+    <tag id="232474880" k="lanes" o="none" type="way" v="2" />
+    <tag id="232474880" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="232474880" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232474880" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="232479230" k="ref" o="none" type="way" v="A 26" />
+    <tag id="232479230" k="oneway" o="none" type="way" v="yes" />
+    <tag id="232479230" k="highway" o="none" type="way" v="proposed" />
+    <tag id="232479230" k="proposed" o="none" type="way" v="motorway" />
+    <tag id="233178679" k="ref" o="none" type="way" v="L 111" />
+    <tag id="233178679" k="highway" o="none" type="way" v="secondary" />
+    <tag id="233178690" k="foot" o="none" type="way" v="designated" />
+    <tag id="233178690" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="233178690" k="highway" o="none" type="way" v="path" />
+    <tag id="233762505" k="oneway" o="none" type="way" v="yes" />
+    <tag id="233762505" k="highway" o="none" type="way" v="construction" />
+    <tag id="233762505" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="233762505" k="construction" o="modify" type="way" v="motorway_link" />
+    <tag id="233762505" k="destination:ref" o="add" type="way" v="K 40" />
+    <tag id="233762506" k="ref" o="none" type="way" v="A 26" />
+    <tag id="233762506" k="lanes" o="none" type="way" v="2" />
+    <tag id="233762506" k="layer" o="add" type="way" v="1" />
+    <tag id="233762506" k="oneway" o="none" type="way" v="yes" />
+    <tag id="233762506" k="highway" o="none" type="way" v="construction" />
+    <tag id="233762506" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="233762506" k="construction" o="none" type="way" v="motorway" />
+    <tag id="233835906" k="ref" o="none" type="way" v="A 26" />
+    <tag id="233835906" k="lanes" o="none" type="way" v="2" />
+    <tag id="233835906" k="oneway" o="none" type="way" v="yes" />
+    <tag id="233835906" k="source" o="none" type="way" v="yahoo" />
+    <tag id="233835906" k="highway" o="none" type="way" v="trunk" />
+    <tag id="233835906" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="233835906" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="233835906" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="235143116" k="lanes" o="none" type="way" v="1" />
+    <tag id="235143116" k="oneway" o="none" type="way" v="yes" />
+    <tag id="235143116" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="235143116" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="235143116" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="235143116" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="237956556" k="ref" o="none" type="way" v="A 26" />
+    <tag id="237956556" k="lanes" o="none" type="way" v="2" />
+    <tag id="237956556" k="oneway" o="none" type="way" v="yes" />
+    <tag id="237956556" k="highway" o="none" type="way" v="construction" />
+    <tag id="237956556" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="237956556" k="construction" o="none" type="way" v="motorway" />
+    <tag id="237956559" k="ref" o="none" type="way" v="A 26" />
+    <tag id="237956559" k="lanes" o="none" type="way" v="2" />
+    <tag id="237956559" k="layer" o="add" type="way" v="1" />
+    <tag id="237956559" k="bridge" o="add" type="way" v="yes" />
+    <tag id="237956559" k="oneway" o="none" type="way" v="yes" />
+    <tag id="237956559" k="highway" o="modify" type="way" v="construction" />
+    <tag id="237956559" k="construction" o="add" type="way" v="motorway" />
+    <tag id="238700963" k="name" o="none" type="way" v="Vorbelastungsdamm" />
+    <tag id="238700963" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238700963" k="highway" o="none" type="way" v="construction" />
+    <tag id="238700963" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="238700963" k="destination" o="add" type="way" v="Stade" />
+    <tag id="238700963" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238700963" k="opening_date" o="none" type="way" v="2015" />
+    <tag id="238700963" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238700964" k="name" o="none" type="way" v="Vorbelastungsdamm" />
+    <tag id="238700964" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238700964" k="highway" o="none" type="way" v="construction" />
+    <tag id="238700964" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="238700964" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="238700964" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238700964" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238879266" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879266" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879266" k="destination" o="add" type="way" v="Stade;Hamburg" />
+    <tag id="238879266" k="construction" o="modify" type="way" v="motorway_link" />
+    <tag id="238879266" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238879267" k="layer" o="add" type="way" v="1" />
+    <tag id="238879267" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879267" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879267" k="destination" o="add" type="way" v="Stade" />
+    <tag id="238879267" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879267" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238879270" k="layer" o="add" type="way" v="1" />
+    <tag id="238879270" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879270" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879270" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="238879270" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879270" k="destination:ref" o="add" type="way" v="K 40" />
+    <tag id="238879271" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879271" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879271" k="layer" o="add" type="way" v="1" />
+    <tag id="238879271" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879271" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879271" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="238879271" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879275" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879275" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879275" k="layer" o="add" type="way" v="1" />
+    <tag id="238879275" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879275" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879275" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="238879275" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879278" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879278" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879278" k="layer" o="none" type="way" v="1" />
+    <tag id="238879278" k="bridge" o="none" type="way" v="yes" />
+    <tag id="238879278" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879278" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879278" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879281" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879281" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879281" k="destination" o="add" type="way" v="Hamburg" />
+    <tag id="238879281" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879281" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238879283" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879283" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879283" k="layer" o="add" type="way" v="1" />
+    <tag id="238879283" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879283" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879283" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879287" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879287" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879287" k="layer" o="add" type="way" v="1" />
+    <tag id="238879287" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879287" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879287" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879290" k="layer" o="add" type="way" v="1" />
+    <tag id="238879290" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879290" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879291" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879291" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879291" k="layer" o="add" type="way" v="1" />
+    <tag id="238879291" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879291" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879291" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879293" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879293" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879293" k="layer" o="add" type="way" v="1" />
+    <tag id="238879293" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879293" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879293" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879304" k="layer" o="add" type="way" v="1" />
+    <tag id="238879304" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879304" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879304" k="destination" o="add" type="way" v="Stade" />
+    <tag id="238879304" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879304" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238879305" k="layer" o="none" type="way" v="1" />
+    <tag id="238879305" k="bridge" o="none" type="way" v="yes" />
+    <tag id="238879305" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879305" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879305" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="238879305" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879305" k="destination:ref" o="add" type="way" v="K 40" />
+    <tag id="238879309" k="layer" o="add" type="way" v="1" />
+    <tag id="238879309" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879309" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879310" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879310" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879310" k="layer" o="add" type="way" v="1" />
+    <tag id="238879310" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879310" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879310" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="238879310" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879313" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879313" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879313" k="layer" o="add" type="way" v="1" />
+    <tag id="238879313" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879313" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879313" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879315" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879315" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879315" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="238879315" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879315" k="destination:ref" o="add" type="way" v="K 40" />
+    <tag id="238879317" k="bridge" o="none" type="way" v="yes" />
+    <tag id="238879317" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879317" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879317" k="destination" o="add" type="way" v="Stade" />
+    <tag id="238879317" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879317" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="238879320" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879320" k="construction" o="modify" type="way" v="motorway_link" />
+    <tag id="238879323" k="layer" o="none" type="way" v="1" />
+    <tag id="238879323" k="bridge" o="none" type="way" v="yes" />
+    <tag id="238879323" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879323" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879323" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="238879323" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879323" k="destination:ref" o="add" type="way" v="K 40" />
+    <tag id="238879325" k="ref" o="none" type="way" v="A 26" />
+    <tag id="238879325" k="lanes" o="none" type="way" v="2" />
+    <tag id="238879325" k="layer" o="add" type="way" v="1" />
+    <tag id="238879325" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879325" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879325" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="238879325" k="construction" o="none" type="way" v="motorway" />
+    <tag id="238879327" k="layer" o="add" type="way" v="1" />
+    <tag id="238879327" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238879327" k="highway" o="none" type="way" v="construction" />
+    <tag id="238879327" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="238879327" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="238879327" k="destination:ref" o="add" type="way" v="K 40" />
+    <tag id="242849107" k="ref" o="add" type="way" v="B 73" />
+    <tag id="242849107" k="lanes" o="add" type="way" v="1" />
+    <tag id="242849107" k="layer" o="none" type="way" v="1" />
+    <tag id="242849107" k="bridge" o="none" type="way" v="yes" />
+    <tag id="242849107" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242849107" k="highway" o="none" type="way" v="proposed" />
+    <tag id="242849107" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="242849107" k="destination" o="add" type="way" v="Stade" />
+    <tag id="242849112" k="ref" o="add" type="way" v="B 73" />
+    <tag id="242849112" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242849112" k="highway" o="none" type="way" v="proposed" />
+    <tag id="242849112" k="proposed" o="none" type="way" v="motorway_link" />
+    <tag id="242849112" k="destination" o="add" type="way" v="Stade" />
+    <tag id="243055854" k="ref" o="none" type="way" v="K 40" />
+    <tag id="243055854" k="name" o="none" type="way" v="R&#252;bker Stra&#223;e" />
+    <tag id="243055854" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="243055854" k="proposed:highway" o="add" type="way" v="secondary" />
+    <tag id="243055867" k="ref" o="none" type="way" v="K 40" />
+    <tag id="243055867" k="name" o="none" type="way" v="R&#252;bker Stra&#223;e" />
+    <tag id="243055867" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="243055867" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="243055867" k="proposed:highway" o="add" type="way" v="secondary" />
+    <tag id="255717803" k="lanes" o="none" type="way" v="1" />
+    <tag id="255717803" k="oneway" o="none" type="way" v="yes" />
+    <tag id="255717803" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="255717803" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="259649303" k="ref" o="none" type="way" v="B 73" />
+    <tag id="259649303" k="lanes" o="none" type="way" v="4" />
+    <tag id="259649303" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="259649303" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="259649303" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="259730516" k="oneway" o="none" type="way" v="yes" />
+    <tag id="259730516" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="259730516" k="opening_date" o="none" type="way" v="2015" />
+    <tag id="265619689" k="ref" o="add" type="way" v="B 75" />
+    <tag id="265619689" k="lanes" o="none" type="way" v="2" />
+    <tag id="265619689" k="oneway" o="none" type="way" v="yes" />
+    <tag id="265619689" k="highway" o="none" type="way" v="construction" />
+    <tag id="265619689" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="265619689" k="start_date" o="none" type="way" v="2015-03" />
+    <tag id="265619689" k="destination" o="add" type="way" v="Dibbersen;Buchholz i.d.N.;HH-Harburg;Nenndorf" />
+    <tag id="265619689" k="construction" o="none" type="way" v="motorway_link" />
+    <tag id="265619689" k="opening_date" o="none" type="way" v="2015-03" />
+    <tag id="267840301" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="268553305" k="ref" o="none" type="way" v="K 40" />
+    <tag id="268553305" k="name" o="none" type="way" v="R&#252;bker Stra&#223;e" />
+    <tag id="268553305" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="268553305" k="proposed:highway" o="add" type="way" v="secondary" />
+    <tag id="268553306" k="lcn" o="none" type="way" v="yes" />
+    <tag id="268553306" k="ref" o="none" type="way" v="K 40" />
+    <tag id="268553306" k="name" o="none" type="way" v="R&#252;bker Stra&#223;e" />
+    <tag id="268553306" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="268553306" k="proposed:highway" o="add" type="way" v="secondary" />
+    <tag id="268553349" k="name" o="none" type="way" v="Neuer Weg" />
+    <tag id="268553349" k="oneway" o="none" type="way" v="no" />
+    <tag id="268553349" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="268553349" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="268553349" k="vehicle" o="none" type="way" v="agricultural" />
+    <tag id="269141472" k="ref" o="modify" type="way" v="B 3n" />
+    <tag id="269141472" k="name" o="none" type="way" v="Wulmstorfer Stra&#223;e" />
+    <tag id="269141472" k="highway" o="none" type="way" v="secondary" />
+    <tag id="269141472" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="269141472" k="old_ref" o="add" type="way" v="L 235" />
+    <tag id="269141472" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="284229378" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="284229378" k="highway" o="none" type="way" v="secondary" />
+    <tag id="284229378" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="284229378" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="284229378" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="284229378" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="284229380" k="ref" o="none" type="way" v="B 3n" />
+    <tag id="284229380" k="highway" o="none" type="way" v="secondary" />
+    <tag id="284229380" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="284229380" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="284229380" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="284229380" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="284229387" k="name" o="none" type="way" v="Wulmstorfer Wiesen" />
+    <tag id="284229387" k="lanes" o="none" type="way" v="2" />
+    <tag id="284229387" k="oneway" o="none" type="way" v="yes" />
+    <tag id="284229387" k="highway" o="none" type="way" v="secondary" />
+    <tag id="284229387" k="old_name" o="none" type="way" v="Hinterm Bahnhof" />
+    <tag id="284229387" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="284229389" k="name" o="none" type="way" v="Wulmstorfer Wiesen" />
+    <tag id="284229389" k="lanes" o="none" type="way" v="1" />
+    <tag id="284229389" k="oneway" o="none" type="way" v="yes" />
+    <tag id="284229389" k="highway" o="none" type="way" v="secondary" />
+    <tag id="284229389" k="old_name" o="none" type="way" v="Hinterm Bahnhof" />
+    <tag id="284229389" k="zone:traffic" o="none" type="way" v="DE:rural" />
+    <tag id="286915502" k="ref" o="add" type="way" v="L 111" />
+    <tag id="286915502" k="highway" o="add" type="way" v="secondary" />
+    <tag id="286915502" k="new_ref" o="add" type="way" v="K 30" />
+    <tag id="286915503" k="foot" o="add" type="way" v="designated" />
+    <tag id="286915503" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21172&amp;article_id=78493&amp;_psmand=135" />
+    <tag id="286915503" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="286915503" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286915503" k="proposed" o="add" type="way" v="path" />
+    <tag id="286915504" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915504" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915504" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915504" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915504" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915504" k="maxspeed" o="add" type="way" v="none" />
+    <tag id="286915504" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915504" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286915505" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915505" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915505" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915505" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915505" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915505" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="286915505" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="286915506" k="lanes" o="add" type="way" v="1" />
+    <tag id="286915506" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915506" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21172&amp;article_id=78493&amp;_psmand=135" />
+    <tag id="286915506" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286915506" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286915506" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="286915506" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286915507" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915507" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915507" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915507" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915507" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915507" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="286915508" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915508" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915508" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915508" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915508" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915508" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915508" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286915509" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915509" k="lanes" o="add" type="way" v="3" />
+    <tag id="286915509" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915509" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915509" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915509" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="286915509" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915509" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286915510" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915510" k="lanes" o="add" type="way" v="3" />
+    <tag id="286915510" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915510" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915510" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915510" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="286915510" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="286915511" k="lanes" o="add" type="way" v="1" />
+    <tag id="286915511" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915511" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21172&amp;article_id=78493&amp;_psmand=135" />
+    <tag id="286915511" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286915511" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286915511" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="286915511" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286915512" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915512" k="lanes" o="add" type="way" v="3" />
+    <tag id="286915512" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915512" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915512" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915512" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="286915512" k="turn:lanes" o="add" type="way" v="none|none|slight_right" />
+    <tag id="286915512" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915512" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286915513" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915513" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915513" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915513" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915513" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915513" k="new_ref" o="add" type="way" v="B 73" />
+    <tag id="286915513" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915513" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286915514" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915514" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915514" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915514" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286915514" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286915515" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915515" k="lanes" o="add" type="way" v="2" />
+    <tag id="286915515" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915515" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915515" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915515" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915515" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286915516" k="lanes" o="add" type="way" v="1" />
+    <tag id="286915516" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915516" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21172&amp;article_id=78493&amp;_psmand=135" />
+    <tag id="286915516" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286915516" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286915517" k="ref" o="add" type="way" v="B 73" />
+    <tag id="286915517" k="lanes" o="add" type="way" v="1" />
+    <tag id="286915517" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915517" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286915517" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286915517" k="destination" o="add" type="way" v="Stade" />
+    <tag id="286915518" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286915518" k="lanes" o="add" type="way" v="3" />
+    <tag id="286915518" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286915518" k="source" o="add" type="way" v="yahoo" />
+    <tag id="286915518" k="highway" o="add" type="way" v="motorway" />
+    <tag id="286915518" k="maxspeed" o="add" type="way" v="none" />
+    <tag id="286915518" k="turn:lanes" o="add" type="way" v="none|none|slight_right" />
+    <tag id="286915518" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="286915518" k="source:maxspeed" o="add" type="way" v="DE:motorway" />
+    <tag id="286927532" k="lcn" o="add" type="way" v="yes" />
+    <tag id="286927532" k="ref" o="add" type="way" v="B 3n" />
+    <tag id="286927532" k="name" o="add" type="way" v="Wulmstorfer Stra&#223;e" />
+    <tag id="286927532" k="highway" o="add" type="way" v="secondary" />
+    <tag id="286927532" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="286927532" k="old_ref" o="add" type="way" v="L 235" />
+    <tag id="286927532" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="286927533" k="lanes" o="add" type="way" v="1" />
+    <tag id="286927533" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927533" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21170&amp;article_id=78248&amp;_psmand=135" />
+    <tag id="286927533" k="highway" o="add" type="way" v="construction" />
+    <tag id="286927533" k="construction" o="add" type="way" v="motorway_link" />
+    <tag id="286927533" k="destination:ref" o="add" type="way" v="B 3;L 235" />
+    <tag id="286927534" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286927534" k="lanes" o="add" type="way" v="2" />
+    <tag id="286927534" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927534" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286927534" k="history" o="add" type="way" v="Retrieved from v4" />
+    <tag id="286927534" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286927535" k="highway" o="add" type="way" v="construction" />
+    <tag id="286927535" k="construction" o="add" type="way" v="motorway_link" />
+    <tag id="286927536" k="layer" o="add" type="way" v="1" />
+    <tag id="286927536" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286927536" k="highway" o="add" type="way" v="construction" />
+    <tag id="286927536" k="construction" o="add" type="way" v="motorway_link" />
+    <tag id="286927537" k="lanes" o="add" type="way" v="1" />
+    <tag id="286927537" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927537" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21170&amp;article_id=78248&amp;_psmand=135" />
+    <tag id="286927537" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286927537" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286927537" k="destination" o="add" type="way" v="Hamburg" />
+    <tag id="286927537" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286927538" k="lanes" o="add" type="way" v="1" />
+    <tag id="286927538" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927538" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21170&amp;article_id=78248&amp;_psmand=135" />
+    <tag id="286927538" k="highway" o="add" type="way" v="construction" />
+    <tag id="286927538" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="286927538" k="construction" o="add" type="way" v="motorway_link" />
+    <tag id="286927538" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286927539" k="ref" o="add" type="way" v="B 3n" />
+    <tag id="286927539" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286927539" k="new_ref" o="add" type="way" v="B 3" />
+    <tag id="286927539" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="286927539" k="proposed" o="add" type="way" v="secondary" />
+    <tag id="286927539" k="proposed:highway" o="add" type="way" v="primary" />
+    <tag id="286927540" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286927540" k="lanes" o="add" type="way" v="2" />
+    <tag id="286927540" k="layer" o="add" type="way" v="1" />
+    <tag id="286927540" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286927540" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927540" k="highway" o="add" type="way" v="construction" />
+    <tag id="286927540" k="construction" o="add" type="way" v="motorway" />
+    <tag id="286927541" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286927541" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="286927541" k="proposed" o="add" type="way" v="tertiary" />
+    <tag id="286927542" k="lanes" o="add" type="way" v="1" />
+    <tag id="286927542" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927542" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21170&amp;article_id=78248&amp;_psmand=135" />
+    <tag id="286927542" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286927542" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286927542" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="286927542" k="destination:ref" o="add" type="way" v="B 3;L 235" />
+    <tag id="286927545" k="lcn" o="add" type="way" v="yes" />
+    <tag id="286927545" k="name" o="add" type="way" v="Neuer Weg" />
+    <tag id="286927545" k="oneway" o="add" type="way" v="no" />
+    <tag id="286927545" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="286927545" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="286927545" k="vehicle" o="add" type="way" v="agricultural" />
+    <tag id="286927546" k="lanes" o="add" type="way" v="1" />
+    <tag id="286927546" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927546" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21170&amp;article_id=78248&amp;_psmand=135" />
+    <tag id="286927546" k="highway" o="add" type="way" v="construction" />
+    <tag id="286927546" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="286927546" k="construction" o="add" type="way" v="motorway_link" />
+    <tag id="286927546" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286927547" k="ref" o="add" type="way" v="K 36" />
+    <tag id="286927547" k="name" o="add" type="way" v="Altl&#228;nder Stra&#223;e" />
+    <tag id="286927547" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="286927547" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="286927547" k="cycleway:right" o="add" type="way" v="track" />
+    <tag id="286927726" k="lanes" o="add" type="way" v="1" />
+    <tag id="286927726" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286927726" k="source" o="add" type="way" v="http://www.strassenbau.niedersachsen.de/portal/live.php?navigation_id=21170&amp;article_id=78248&amp;_psmand=135" />
+    <tag id="286927726" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286927726" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286927726" k="destination" o="add" type="way" v="Hamburg" />
+    <tag id="286927726" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286935414" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935414" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935414" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935414" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935414" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286935415" k="layer" o="add" type="way" v="1" />
+    <tag id="286935415" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286935415" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935415" k="source" o="add" type="way" v="Planungsunterlagen" />
+    <tag id="286935415" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935415" k="proposed" o="add" type="way" v="motorway_link" />
+    <tag id="286935415" k="destination" o="add" type="way" v="Buxtehude" />
+    <tag id="286935415" k="destination:ref" o="add" type="way" v="A 26" />
+    <tag id="286935416" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935416" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935416" k="layer" o="add" type="way" v="1" />
+    <tag id="286935416" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286935416" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935416" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935416" k="history" o="add" type="way" v="Retrieved from v4" />
+    <tag id="286935416" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286935417" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935417" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935417" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935417" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935417" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286935418" k="lit" o="add" type="way" v="no" />
+    <tag id="286935418" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935418" k="access" o="add" type="way" v="no" />
+    <tag id="286935418" k="oneway" o="add" type="way" v="no" />
+    <tag id="286935418" k="source" o="add" type="way" v="GPS and Videomapping" />
+    <tag id="286935418" k="highway" o="add" type="way" v="service" />
+    <tag id="286935418" k="destination" o="add" type="way" v="Hamburg-Heimfeld;Hamburg-Harburg;Cuxhaven" />
+    <tag id="286935418" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="286935418" k="destination:ref" o="add" type="way" v="B 73" />
+    <tag id="286935419" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935419" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935419" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286935419" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935419" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935419" k="history" o="add" type="way" v="Retrieved from v4" />
+    <tag id="286935419" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286935421" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935421" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935421" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286935421" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935421" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935421" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286935422" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935422" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935422" k="layer" o="add" type="way" v="1" />
+    <tag id="286935422" k="bridge" o="add" type="way" v="yes" />
+    <tag id="286935422" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935422" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935422" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286935423" k="ref" o="add" type="way" v="A 26" />
+    <tag id="286935423" k="lanes" o="add" type="way" v="2" />
+    <tag id="286935423" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286935423" k="highway" o="add" type="way" v="proposed" />
+    <tag id="286935423" k="history" o="add" type="way" v="Retrieved from v4" />
+    <tag id="286935423" k="proposed" o="add" type="way" v="motorway" />
+    <tag id="286937838" k="ref" o="add" type="way" v="B 75" />
+    <tag id="286937838" k="lanes" o="add" type="way" v="2" />
+    <tag id="286937838" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286937838" k="highway" o="add" type="way" v="construction" />
+    <tag id="286937838" k="motorroad" o="add" type="way" v="yes" />
+    <tag id="286937838" k="start_date" o="add" type="way" v="2015-03" />
+    <tag id="286937838" k="destination" o="add" type="way" v="Dibbersen;Buchholz i.d.N.;HH-Harburg;Nenndorf" />
+    <tag id="286937838" k="construction" o="add" type="way" v="motorway_link" />
+    <tag id="286937838" k="opening_date" o="add" type="way" v="2015-03" />
+    <tag id="286937843" k="lit" o="add" type="way" v="no" />
+    <tag id="286937843" k="foot" o="add" type="way" v="no" />
+    <tag id="286937843" k="horse" o="add" type="way" v="no" />
+    <tag id="286937843" k="lanes" o="add" type="way" v="1" />
+    <tag id="286937843" k="oneway" o="add" type="way" v="yes" />
+    <tag id="286937843" k="source" o="add" type="way" v="GPS and Videomapping" />
+    <tag id="286937843" k="bicycle" o="add" type="way" v="no" />
+    <tag id="286937843" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="286937843" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="286937843" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="286937843" k="destination" o="add" type="way" v="Dibbersen;Buchholz i.d.N.;HH-Harburg;Nenndorf" />
+    <tag id="112775" k="ne" o="none" type="relation" v="Landesstra&#223;en Niedersachsen" />
+    <tag id="112775" k="ref" o="none" type="relation" v="L 235" />
+    <tag id="112775" k="name" o="none" type="relation" v="Landesstra&#223;e 235" />
+    <tag id="112775" k="type" o="none" type="relation" v="route" />
+    <tag id="112775" k="route" o="none" type="relation" v="road" />
+    <tag id="112775" k="operator" o="none" type="relation" v="Land Niedersachsen" />
+    <tag id="134199" k="to" o="none" type="relation" v="Airbus (Werkgel&#228;nde)" />
+    <tag id="134199" k="ref" o="none" type="relation" v="4710" />
+    <tag id="134199" k="from" o="none" type="relation" v="Tostedt, Riepshofer Weg" />
+    <tag id="134199" k="name" o="none" type="relation" v="HVV-Buslinie 4710" />
+    <tag id="134199" k="type" o="none" type="relation" v="route" />
+    <tag id="134199" k="route" o="none" type="relation" v="bus" />
+    <tag id="134199" k="network" o="none" type="relation" v="HVV" />
+    <tag id="134199" k="operator" o="none" type="relation" v="KVG" />
+    <tag id="455403" k="ref" o="none" type="relation" v="L 111" />
+    <tag id="455403" k="type" o="none" type="relation" v="route" />
+    <tag id="455403" k="route" o="none" type="relation" v="road" />
+    <tag id="455403" k="network" o="none" type="relation" v="Landesstra&#223;en Niedersachsen" />
+    <tag id="455403" k="operator" o="none" type="relation" v="Land Niedersachsen" />
+    <tag id="556965" k="type" o="none" type="relation" v="restriction" />
+    <tag id="556965" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="1522558" k="name" o="none" type="relation" v="A 26 Stade - Hamburg [negative]" />
+    <tag id="1522558" k="type" o="none" type="relation" v="TMC" />
+    <tag id="1522558" k="wikipedia" o="none" type="relation" v="de:Bundesautobahn 26" />
+    <tag id="1522558" k="TMC:cid_58:tabcd_1:Class" o="none" type="relation" v="Road" />
+    <tag id="1522558" k="TMC:cid_58:tabcd_1:TypeName" o="none" type="relation" v="motorway" />
+    <tag id="1522558" k="TMC:cid_58:tabcd_1:Direction" o="none" type="relation" v="negative" />
+    <tag id="1522558" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="relation" v="9.00" />
+    <tag id="1522558" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="relation" v="54560" />
+    <tag id="1522558" k="TMC:cid_58:tabcd_1:TypeName:loc" o="none" type="relation" v="Autobahn" />
+    <tag id="1522559" k="name" o="none" type="relation" v="A 26 Stade - Hamburg [positive]" />
+    <tag id="1522559" k="type" o="none" type="relation" v="TMC" />
+    <tag id="1522559" k="wikipedia" o="none" type="relation" v="de:Bundesautobahn 26" />
+    <tag id="1522559" k="TMC:cid_58:tabcd_1:Class" o="none" type="relation" v="Road" />
+    <tag id="1522559" k="TMC:cid_58:tabcd_1:TypeName" o="none" type="relation" v="motorway" />
+    <tag id="1522559" k="TMC:cid_58:tabcd_1:Direction" o="none" type="relation" v="positive" />
+    <tag id="1522559" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="relation" v="9.00" />
+    <tag id="1522559" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="relation" v="54560" />
+    <tag id="1522559" k="TMC:cid_58:tabcd_1:TypeName:loc" o="none" type="relation" v="Autobahn" />
+    <tag id="2155202" k="ref" o="none" type="relation" v="Jw vB" />
+    <tag id="2155202" k="name" o="none" type="relation" v="Jakobsweg via Baltica, Niedersachsen (Nord)" />
+    <tag id="2155202" k="type" o="none" type="relation" v="route" />
+    <tag id="2155202" k="route" o="none" type="relation" v="hiking" />
+    <tag id="2155202" k="symbol" o="none" type="relation" v="Gelbe stilisierte Jakobsmuschel auf blauem Grund" />
+    <tag id="2155202" k="network" o="none" type="relation" v="nwn" />
+    <tag id="2155202" k="website" o="none" type="relation" v="http://www.jakobswege-norddeutschland.de/43360/55001.html" />
+    <tag id="2155202" k="int_name" o="none" type="relation" v="Camino de Santiago" />
+    <tag id="2155202" k="pilgrimage" o="none" type="relation" v="yes" />
+    <tag id="2155202" k="description" o="none" type="relation" v="Usedom - Stralsund - Rostock - L&#252;beck - Hamburg - Bremen - Osnabr&#252;ck" />
+    <tag id="2155202" k="osmc:symbol" o="none" type="relation" v="blue:blue:shell_modern" />
+    <tag id="2155202" k="wiki:symbol" o="none" type="relation" v="Symbol_Jakobsweg.png" />
+    <tag id="2155202" k="wikipedia:de" o="none" type="relation" v="Jakobsweg" />
+    <tag id="2155202" k="wikipedia:en" o="none" type="relation" v="Way_of_St._James" />
+    <tag id="2155202" k="wikipedia:fr" o="none" type="relation" v="P&#232;lerinage_de_Saint-Jacques-de-Compostelle" />
+    <tag id="2561228" k="ref" o="none" type="relation" v="U 31" />
+    <tag id="2561228" k="name" o="none" type="relation" v="U 31 (A 261)" />
+    <tag id="2561228" k="type" o="none" type="relation" v="route" />
+    <tag id="2561228" k="route" o="none" type="relation" v="detour" />
+    <tag id="2561228" k="detour" o="none" type="relation" v="A 261" />
+    <tag id="2561228" k="operator" o="none" type="relation" v="Niedersachsen" />
+    <tag id="2561228" k="destination" o="none" type="relation" v="Hamburg" />
+    <tag id="2586367" k="note" o="none" type="relation" v="Buchholz i.d.N." />
+    <tag id="2586367" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2586367" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2586367" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2586367" k="destination" o="none" type="relation" v="Buchholz i.d.N." />
+    <tag id="2586368" k="note" o="none" type="relation" v="Dibbersen" />
+    <tag id="2586368" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2586368" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2586368" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2586368" k="destination" o="none" type="relation" v="Dibbersen" />
+    <tag id="2586369" k="note" o="none" type="relation" v="HH-Harburg" />
+    <tag id="2586369" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2586369" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2586369" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2586369" k="destination" o="none" type="relation" v="HH-Harburg" />
+    <tag id="2586371" k="note" o="none" type="relation" v="Nenndorf" />
+    <tag id="2586371" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2586371" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2586371" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2586371" k="destination" o="none" type="relation" v="Nenndorf" />
+    <tag id="2656810" k="ref" o="none" type="relation" v="U 54" />
+    <tag id="2656810" k="name" o="none" type="relation" v="U 54 (A 7)" />
+    <tag id="2656810" k="type" o="none" type="relation" v="route" />
+    <tag id="2656810" k="route" o="none" type="relation" v="detour" />
+    <tag id="2656810" k="detour" o="none" type="relation" v="A 7" />
+    <tag id="2656810" k="operator" o="none" type="relation" v="Hamburg" />
+    <tag id="2656810" k="destination" o="none" type="relation" v="Hannover" />
+    <tag id="2669445" k="ref" o="none" type="relation" v="U 53" />
+    <tag id="2669445" k="name" o="none" type="relation" v="U 53 (A 1)" />
+    <tag id="2669445" k="type" o="none" type="relation" v="route" />
+    <tag id="2669445" k="route" o="none" type="relation" v="detour" />
+    <tag id="2669445" k="detour" o="none" type="relation" v="A 1" />
+    <tag id="2669445" k="operator" o="none" type="relation" v="Niedersachsen" />
+    <tag id="2669445" k="destination" o="none" type="relation" v="Hamburg" />
+    <tag id="2845307" k="ref" o="none" type="relation" v="B 73" />
+    <tag id="2845307" k="note" o="none" type="relation" v="Cuxhaven" />
+    <tag id="2845307" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2845307" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2845307" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2845307" k="destination" o="none" type="relation" v="Cuxhaven" />
+    <tag id="2845308" k="ref" o="none" type="relation" v="B 73" />
+    <tag id="2845308" k="note" o="none" type="relation" v="Hamburg-Heimfeld" />
+    <tag id="2845308" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2845308" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2845308" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2845308" k="destination" o="none" type="relation" v="Hamburg-Heimfeld" />
+    <tag id="2845309" k="ref" o="none" type="relation" v="B 73" />
+    <tag id="2845309" k="note" o="none" type="relation" v="Hamburg-Harburg" />
+    <tag id="2845309" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="2845309" k="color:back" o="none" type="relation" v="blue" />
+    <tag id="2845309" k="color:text" o="none" type="relation" v="white" />
+    <tag id="2845309" k="destination" o="none" type="relation" v="Hamburg-Harburg" />
+    <tag id="2927345" k="to" o="none" type="relation" v="Neu Wulmstorf, Breslauer Stra&#223;e" />
+    <tag id="2927345" k="ref" o="none" type="relation" v="4682" />
+    <tag id="2927345" k="from" o="none" type="relation" v="R&#252;bke, Nincoper Deich (Kehre)" />
+    <tag id="2927345" k="name" o="none" type="relation" v="HVV-Buslinie 4682: R&#252;bke, Nincoper Deich (Kehre) =&gt; Neu Wulmstorf, Breslauer Stra&#223;e" />
+    <tag id="2927345" k="note" o="none" type="relation" v="Es fehlt die Haltestelle Wulmstorfer Wiesen." />
+    <tag id="2927345" k="type" o="none" type="relation" v="route" />
+    <tag id="2927345" k="route" o="none" type="relation" v="bus" />
+    <tag id="2927345" k="network" o="none" type="relation" v="HVV" />
+    <tag id="2927345" k="operator" o="none" type="relation" v="KVG" />
+    <tag id="3341592" k="to" o="none" type="relation" v="Gr&#252;nendeich, Schule" />
+    <tag id="3341592" k="ref" o="none" type="relation" v="2033" />
+    <tag id="3341592" k="from" o="none" type="relation" v="Bf. Horneburg" />
+    <tag id="3341592" k="name" o="none" type="relation" v="HVV-Buslinie 2033: Bf. Horneburg =&gt; Gr&#252;nendeich, Schule" />
+    <tag id="3341592" k="type" o="none" type="relation" v="route" />
+    <tag id="3341592" k="route" o="none" type="relation" v="bus" />
+    <tag id="3341592" k="network" o="none" type="relation" v="HVV" />
+    <tag id="3341592" k="operator" o="none" type="relation" v="KVG" />
+    <tag id="3486121" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3486121" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3506366" k="to" o="none" type="relation" v="Bf. Horneburg" />
+    <tag id="3506366" k="ref" o="none" type="relation" v="2033" />
+    <tag id="3506366" k="from" o="none" type="relation" v="Gr&#252;nendeich, Schule" />
+    <tag id="3506366" k="name" o="none" type="relation" v="HVV-Buslinie 2033: Gr&#252;nendeich, Schule =&gt; Bf. Horneburg" />
+    <tag id="3506366" k="type" o="none" type="relation" v="route" />
+    <tag id="3506366" k="route" o="none" type="relation" v="bus" />
+    <tag id="3506366" k="network" o="none" type="relation" v="HVV" />
+    <tag id="3506366" k="operator" o="none" type="relation" v="KVG" />
+    <tag id="3508533" k="to" o="none" type="relation" v="AIRBUS (Werksgel&#228;nde)" />
+    <tag id="3508533" k="ref" o="none" type="relation" v="2706" />
+    <tag id="3508533" k="from" o="none" type="relation" v="Mulsum, H&#246;chststadt" />
+    <tag id="3508533" k="name" o="none" type="relation" v="HVV-Buslinie 2706" />
+    <tag id="3508533" k="type" o="none" type="relation" v="route" />
+    <tag id="3508533" k="fixme" o="none" type="relation" v="Buslinie ist unvollst&#228;ndig" />
+    <tag id="3508533" k="route" o="none" type="relation" v="bus" />
+    <tag id="3508533" k="network" o="none" type="relation" v="HVV" />
+    <tag id="3508533" k="operator" o="none" type="relation" v="KVG / Reese" />
+    <tag id="3785810" k="to" o="none" type="relation" v="R&#252;bke, Nincoper Deich (Kehre)" />
+    <tag id="3785810" k="ref" o="none" type="relation" v="4682" />
+    <tag id="3785810" k="from" o="none" type="relation" v="Neu Wulmstorf, Breslauer Stra&#223;e" />
+    <tag id="3785810" k="name" o="none" type="relation" v="HVV-Buslinie 4682: Neu Wulmstorf, Breslauer Stra&#223;e =&gt; R&#252;bke, Nincoper Deich (Kehre)" />
+    <tag id="3785810" k="note" o="none" type="relation" v="Es fehlt die Haltestelle Wulmstorfer Wiesen." />
+    <tag id="3785810" k="type" o="none" type="relation" v="route" />
+    <tag id="3785810" k="route" o="none" type="relation" v="bus" />
+    <tag id="3785810" k="network" o="none" type="relation" v="HVV" />
+    <tag id="3785810" k="operator" o="none" type="relation" v="KVG" />
+  </body>
+</changeset>

@@ -1,0 +1,34 @@
+<changeset id="50555596" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="added Turn restriction" />
+    <tag k="created_by" v="JOSM/1.5 (12450 en)" />
+    <tag k="source" v="bing, apollo detections, OSC" />
+  </meta>
+  <body>
+    <tag id="256979880" k="hgv" o="none" type="way" v="designated" />
+    <tag id="256979880" k="name" o="none" type="way" v="Nanaimo Street" />
+    <tag id="256979880" k="is_in" o="none" type="way" v="Vancouver, BC" />
+    <tag id="256979880" k="highway" o="none" type="way" v="secondary" />
+    <tag id="256979880" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="510186314" k="hgv" o="add" type="way" v="designated" />
+    <tag id="510186314" k="name" o="add" type="way" v="Nanaimo Street" />
+    <tag id="510186314" k="is_in" o="add" type="way" v="Vancouver, BC" />
+    <tag id="510186314" k="highway" o="add" type="way" v="secondary" />
+    <tag id="510186314" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="1144266" k="ref" o="none" type="relation" v="7" />
+    <tag id="1144266" k="name" o="none" type="relation" v="7 Nanaimo Station" />
+    <tag id="1144266" k="type" o="none" type="relation" v="route" />
+    <tag id="1144266" k="route" o="none" type="relation" v="trolleybus" />
+    <tag id="1144266" k="operator" o="none" type="relation" v="TransLink" />
+    <tag id="1144266" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="1144619" k="ref" o="none" type="relation" v="7" />
+    <tag id="1144619" k="name" o="none" type="relation" v="7 Dunbar" />
+    <tag id="1144619" k="type" o="none" type="relation" v="route" />
+    <tag id="1144619" k="route" o="none" type="relation" v="trolleybus" />
+    <tag id="1144619" k="operator" o="none" type="relation" v="TransLink" />
+    <tag id="1144619" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="7418088" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7418088" k="restriction" o="add" type="relation" v="no_left_turn @ (Mo-Fr 07:00-09:30)" />
+  </body>
+</changeset>

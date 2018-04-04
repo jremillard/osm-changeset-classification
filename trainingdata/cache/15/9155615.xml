@@ -1,0 +1,62 @@
+<changeset id="9155615" schema="2">
+  <counts nodesAdded="6" nodesDeleted="3" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="2" waysDeleted="3" waysModified="7" />
+  <meta>
+    <tag k="build" v="2.2-41-gec89ae9" />
+    <tag k="comment" v="Removed the joining of one way roads of the big junction at Nyugati, Budapest. This was causing navigation software to think it was possible to do unreal turns. One way roads should not join if it is not allowed to do turns from one to the other." />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.2" />
+  </meta>
+  <body>
+    <tag id="23996181" k="is_in" o="add" type="way" v="Budapest" />
+    <tag id="23996181" k="oneway" o="add" type="way" v="yes" />
+    <tag id="23996181" k="highway" o="add" type="way" v="secondary" />
+    <tag id="23996364" k="is_in" o="none" type="way" v="Budapest" />
+    <tag id="23996364" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23996364" k="highway" o="none" type="way" v="secondary" />
+    <tag id="68741632" k="is_in" o="none" type="way" v="Budapest" />
+    <tag id="68741632" k="oneway" o="none" type="way" v="yes" />
+    <tag id="68741632" k="highway" o="none" type="way" v="secondary" />
+    <tag id="68741633" k="oneway" o="add" type="way" v="yes" />
+    <tag id="68741633" k="highway" o="none" type="way" v="secondary" />
+    <tag id="128175670" k="is_in" o="add" type="way" v="Budapest" />
+    <tag id="128175670" k="oneway" o="add" type="way" v="yes" />
+    <tag id="128175670" k="highway" o="add" type="way" v="secondary" />
+    <tag id="128175675" k="lit" o="add" type="way" v="yes" />
+    <tag id="128175675" k="psv" o="add" type="way" v="yes" />
+    <tag id="128175675" k="name" o="add" type="way" v="Szent Istv&#225;n k&#246;r&#250;t" />
+    <tag id="128175675" k="is_in" o="add" type="way" v="Budapest" />
+    <tag id="128175675" k="oneway" o="add" type="way" v="yes" />
+    <tag id="128175675" k="highway" o="add" type="way" v="secondary" />
+    <tag id="128175675" k="name:ro" o="add" type="way" v="Podul Margareta" />
+    <tag id="1004305" k="to" o="none" type="relation" v="&#211;buda, Bogd&#225;ni &#250;t" />
+    <tag id="1004305" k="ref" o="none" type="relation" v="206" />
+    <tag id="1004305" k="from" o="none" type="relation" v="Nyugati p&#225;lyaudvar M" />
+    <tag id="1004305" k="type" o="none" type="relation" v="route" />
+    <tag id="1004305" k="route" o="none" type="relation" v="bus" />
+    <tag id="1013464" k="to" o="none" type="relation" v="Moszkva t&#233;r M" />
+    <tag id="1013464" k="ref" o="none" type="relation" v="91" />
+    <tag id="1013464" k="from" o="none" type="relation" v="Nyugati p&#225;lyaudvar M" />
+    <tag id="1013464" k="type" o="none" type="relation" v="route" />
+    <tag id="1013464" k="route" o="none" type="relation" v="bus" />
+    <tag id="1013466" k="to" o="none" type="relation" v="Sarolta utca" />
+    <tag id="1013466" k="ref" o="none" type="relation" v="191" />
+    <tag id="1013466" k="from" o="none" type="relation" v="Nyugati p&#225;lyaudvar M" />
+    <tag id="1013466" k="type" o="none" type="relation" v="route" />
+    <tag id="1013466" k="route" o="none" type="relation" v="bus" />
+    <tag id="1013469" k="to" o="none" type="relation" v="Zugliget, libeg&#337;" />
+    <tag id="1013469" k="ref" o="none" type="relation" v="291" />
+    <tag id="1013469" k="from" o="none" type="relation" v="Nyugati p&#225;lyaudvar M" />
+    <tag id="1013469" k="type" o="none" type="relation" v="route" />
+    <tag id="1013469" k="route" o="none" type="relation" v="bus" />
+    <tag id="1726535" k="to" o="none" type="relation" v="K&#337;b&#225;nya als&#243; vas&#250;t&#225;llom&#225;s" />
+    <tag id="1726535" k="ref" o="none" type="relation" v="109" />
+    <tag id="1726535" k="from" o="none" type="relation" v="&#211;buda, Bogd&#225;ni &#250;t" />
+    <tag id="1726535" k="type" o="none" type="relation" v="route" />
+    <tag id="1726535" k="route" o="none" type="relation" v="bus" />
+    <tag id="1726536" k="to" o="none" type="relation" v="&#211;buda, Bogd&#225;ni &#250;t" />
+    <tag id="1726536" k="ref" o="none" type="relation" v="109" />
+    <tag id="1726536" k="from" o="none" type="relation" v="K&#337;b&#225;nya als&#243; vas&#250;t&#225;llom&#225;s" />
+    <tag id="1726536" k="type" o="none" type="relation" v="route" />
+    <tag id="1726536" k="route" o="none" type="relation" v="bus" />
+  </body>
+</changeset>

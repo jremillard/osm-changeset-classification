@@ -1,0 +1,35 @@
+<changeset id="16284017" schema="2">
+  <counts nodesAdded="17" nodesDeleted="0" nodesModified="3" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="2" waysModified="2" />
+  <meta>
+    <tag k="build" v="2.3-584-g996bb4d" />
+    <tag k="comment" v="Haltestellen Name eingetragen" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="1874456560" k="ref" o="none" type="node" v="742009" />
+    <tag id="1874456560" k="name" o="none" type="node" v="Guben Bahnhof" />
+    <tag id="1874456560" k="bench" o="none" type="node" v="yes" />
+    <tag id="1874456560" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1874456560" k="network" o="add" type="node" v="Linie 890, 877, 858" />
+    <tag id="1874456560" k="shelter" o="none" type="node" v="yes" />
+    <tag id="1874456560" k="operator" o="add" type="node" v="NV" />
+    <tag id="2304080698" k="bus" o="none" type="node" v="yes" />
+    <tag id="2304080698" k="name" o="add" type="node" v="Klaus-Herrman-Stra&#223;e" />
+    <tag id="2304080698" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2304080699" k="bus" o="none" type="node" v="yes" />
+    <tag id="2304080699" k="name" o="add" type="node" v="Klaus-Herrman-Stra&#223;e" />
+    <tag id="2304080699" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="1785604" k="to" o="none" type="relation" v="Bahnhof, Guben" />
+    <tag id="1785604" k="ref" o="none" type="relation" v="877" />
+    <tag id="1785604" k="from" o="none" type="relation" v="Busbahnhof,Cottbus" />
+    <tag id="1785604" k="name" o="none" type="relation" v="Bus 877: Busbahnhof, Cottbus =&gt; Bahnhof, Guben" />
+    <tag id="1785604" k="type" o="none" type="relation" v="route" />
+    <tag id="1785604" k="route" o="none" type="relation" v="bus" />
+    <tag id="1785604" k="network" o="none" type="relation" v="VBB" />
+    <tag id="1785604" k="ref:VBB" o="none" type="relation" v="Bus 877" />
+    <tag id="1785604" k="operator" o="none" type="relation" v="NV" />
+    <tag id="2725892" k="type" o="none" type="relation" v="restriction" />
+    <tag id="2725892" k="restriction" o="none" type="relation" v="only_straight_on" />
+  </body>
+</changeset>

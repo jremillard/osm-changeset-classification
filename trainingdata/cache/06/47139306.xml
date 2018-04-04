@@ -1,0 +1,922 @@
+<changeset id="47139306" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="4" waysDeleted="8" waysModified="88" />
+  <meta>
+    <tag k="comment" v="Reclassifying roads in and around Dover based on NJDOT traffic data and personal knowledge. " />
+    <tag k="created_by" v="iD 2.1.3" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="10566991" k="hgv" o="none" type="way" v="designated" />
+    <tag id="10566991" k="ref" o="none" type="way" v="US 202" />
+    <tag id="10566991" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="10566991" k="lanes" o="none" type="way" v="2" />
+    <tag id="10566991" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10566991" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="10566991" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="10566991" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="10566991" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11687672" k="ref" o="none" type="way" v="CR 662" />
+    <tag id="11687672" k="name" o="modify" type="way" v="East Randolph Avenue" />
+    <tag id="11687672" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11687672" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11687672" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11687672" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11687672" k="tiger:zip_left" o="none" type="way" v="07803" />
+    <tag id="11687672" k="tiger:name_base" o="none" type="way" v="Randolph" />
+    <tag id="11687672" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11687672" k="tiger:zip_right" o="none" type="way" v="07803" />
+    <tag id="11687672" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="11689215" k="ref" o="none" type="way" v="CR 643" />
+    <tag id="11689215" k="name" o="none" type="way" v="North Morris Street" />
+    <tag id="11689215" k="name_1" o="none" type="way" v="Morris Street" />
+    <tag id="11689215" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11689215" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11689215" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11689215" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11689215" k="tiger:zip_left" o="none" type="way" v="07801" />
+    <tag id="11689215" k="tiger:name_base" o="none" type="way" v="Morris" />
+    <tag id="11689215" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11689215" k="tiger:zip_right" o="none" type="way" v="07801" />
+    <tag id="11689215" k="tiger:name_base_1" o="none" type="way" v="Morris" />
+    <tag id="11689215" k="tiger:name_type_1" o="none" type="way" v="St" />
+    <tag id="11689215" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="11689704" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="11689704" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11689704" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11689704" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11689704" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11689704" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11689704" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="11689704" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="11689704" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11689704" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="11689710" k="ref" o="none" type="way" v="53" />
+    <tag id="11689710" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="11689710" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="11689710" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11689710" k="NJDOT_SRI" o="none" type="way" v="00000053" />
+    <tag id="11689710" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11689710" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11689710" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11689710" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="11689710" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="11689710" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11689710" k="tiger:zip_right" o="none" type="way" v="07878" />
+    <tag id="11689710" k="tiger:name_base_1" o="none" type="way" v="State Route 53" />
+    <tag id="11689711" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="11689711" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11689711" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11689711" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="11689711" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11689711" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11689711" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="11689711" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="11689711" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11689711" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="11692215" k="name" o="none" type="way" v="Fox Hill Road" />
+    <tag id="11692215" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11692215" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11692215" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11692215" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11692215" k="tiger:zip_left" o="none" type="way" v="07834" />
+    <tag id="11692215" k="tiger:name_base" o="none" type="way" v="Fox Hill" />
+    <tag id="11692215" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11692222" k="name" o="none" type="way" v="Fox Hill Road" />
+    <tag id="11692222" k="layer" o="none" type="way" v="1" />
+    <tag id="11692222" k="bridge" o="none" type="way" v="yes" />
+    <tag id="11692222" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11692222" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11692222" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11692222" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11692222" k="tiger:zip_left" o="none" type="way" v="07834" />
+    <tag id="11692222" k="tiger:name_base" o="none" type="way" v="Fox Hill" />
+    <tag id="11692222" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11692222" k="tiger:zip_right" o="none" type="way" v="07834" />
+    <tag id="11693750" k="ref" o="none" type="way" v="CR 659" />
+    <tag id="11693750" k="name" o="none" type="way" v="West Blackwell Street" />
+    <tag id="11693750" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11693750" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11693750" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11693750" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="11693750" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11693750" k="tiger:name_base" o="none" type="way" v="Blackwell" />
+    <tag id="11693750" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11693750" k="tiger:name_base_1" o="none" type="way" v="United States Highway 46" />
+    <tag id="11693750" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="11696717" k="ref" o="none" type="way" v="CR 643" />
+    <tag id="11696717" k="name" o="none" type="way" v="South Morris Street" />
+    <tag id="11696717" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11696717" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11696717" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11696717" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11696717" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="11696717" k="tiger:name_base" o="none" type="way" v="Morris" />
+    <tag id="11696717" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11696717" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="11696717" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="11703026" k="name" o="none" type="way" v="Hill Road" />
+    <tag id="11703026" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11703026" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11703026" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11703026" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11703026" k="tiger:name_base" o="none" type="way" v="Hill" />
+    <tag id="11703026" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11703214" k="name" o="none" type="way" v="Franklin Road" />
+    <tag id="11703214" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="11703214" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11703214" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11703214" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11703214" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="11703214" k="tiger:name_base" o="none" type="way" v="Franklin" />
+    <tag id="11703214" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11703214" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="11703221" k="name" o="none" type="way" v="Franklin Road" />
+    <tag id="11703221" k="oneway" o="add" type="way" v="-1" />
+    <tag id="11703221" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="11703221" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11703221" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11703221" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11703221" k="tiger:name_base" o="none" type="way" v="Franklin" />
+    <tag id="11703221" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11703625" k="name" o="none" type="way" v="New Fox Hill Road" />
+    <tag id="11703625" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11703625" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11703625" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11703625" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11703625" k="tiger:name_base" o="none" type="way" v="New Fox Hill" />
+    <tag id="11703625" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11704596" k="name" o="none" type="way" v="Powder Mill Road" />
+    <tag id="11704596" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11704596" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11704596" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11704596" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11704596" k="tiger:name_base" o="none" type="way" v="Powder Mill" />
+    <tag id="11704596" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11706637" k="name" o="none" type="way" v="Campus Drive" />
+    <tag id="11706637" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11706637" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11706637" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11706637" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11706637" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11706637" k="tiger:zip_left" o="none" type="way" v="07054" />
+    <tag id="11706637" k="tiger:name_base" o="none" type="way" v="Campus" />
+    <tag id="11706637" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11706637" k="tiger:zip_right" o="none" type="way" v="07054" />
+    <tag id="11706651" k="name" o="none" type="way" v="Campus Drive" />
+    <tag id="11706651" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11706651" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11706651" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11706651" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11706651" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11706651" k="tiger:name_base" o="none" type="way" v="Campus" />
+    <tag id="11706651" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11708635" k="name" o="none" type="way" v="Cooper Road" />
+    <tag id="11708635" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11708635" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11708635" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11708635" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11708635" k="tiger:zip_left" o="none" type="way" v="07834" />
+    <tag id="11708635" k="tiger:name_base" o="none" type="way" v="Cooper" />
+    <tag id="11708635" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11708635" k="tiger:zip_right" o="none" type="way" v="07834" />
+    <tag id="11711145" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11711145" k="ref" o="none" type="way" v="CR 513" />
+    <tag id="11711145" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11711145" k="name" o="none" type="way" v="Reservoir Avenue" />
+    <tag id="11711145" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11711145" k="NJDOT_SRI" o="none" type="way" v="00000513" />
+    <tag id="11711145" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11711145" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11711145" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11711145" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="11711145" k="tiger:name_base" o="none" type="way" v="Reservoir" />
+    <tag id="11711145" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11711145" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="11711145" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11711145" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11715565" k="ref" o="none" type="way" v="CR 662" />
+    <tag id="11715565" k="name" o="modify" type="way" v="West Randolph Avenue" />
+    <tag id="11715565" k="name_1" o="none" type="way" v="Randolph Avenue" />
+    <tag id="11715565" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11715565" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11715565" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11715565" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11715565" k="tiger:zip_left" o="none" type="way" v="07803" />
+    <tag id="11715565" k="tiger:name_base" o="none" type="way" v="Randolph" />
+    <tag id="11715565" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11715565" k="tiger:zip_right" o="none" type="way" v="07803" />
+    <tag id="11715565" k="tiger:name_base_1" o="none" type="way" v="Randolph" />
+    <tag id="11715565" k="tiger:name_type_1" o="none" type="way" v="Ave" />
+    <tag id="11715565" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="11717110" k="name" o="none" type="way" v="Peartree Lane" />
+    <tag id="11717110" k="name_1" o="none" type="way" v="Peartree Road" />
+    <tag id="11717110" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11717110" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11717110" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11717110" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11717110" k="tiger:zip_left" o="none" type="way" v="07046" />
+    <tag id="11717110" k="tiger:name_base" o="none" type="way" v="Peartree" />
+    <tag id="11717110" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="11717110" k="tiger:zip_right" o="none" type="way" v="07046" />
+    <tag id="11717110" k="tiger:name_base_1" o="none" type="way" v="Peartree" />
+    <tag id="11717110" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11721451" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11721451" k="ref" o="none" type="way" v="CR 513" />
+    <tag id="11721451" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11721451" k="name" o="none" type="way" v="Dover - Chester Road" />
+    <tag id="11721451" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11721451" k="NJDOT_SRI" o="none" type="way" v="00000513" />
+    <tag id="11721451" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11721451" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11721451" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11721451" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="11721451" k="tiger:name_base" o="none" type="way" v="Dover Chester" />
+    <tag id="11721451" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11721451" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="11721451" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11721451" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11721466" k="ref" o="none" type="way" v="CR 640" />
+    <tag id="11721466" k="name" o="none" type="way" v="Randolph Avenue" />
+    <tag id="11721466" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11721466" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11721466" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11721466" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11721466" k="tiger:name_base" o="none" type="way" v="Randolph" />
+    <tag id="11721466" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11721471" k="ref" o="none" type="way" v="CR 662" />
+    <tag id="11721471" k="name" o="none" type="way" v="Randolph Avenue" />
+    <tag id="11721471" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11721471" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11721471" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11721471" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11721471" k="tiger:name_base" o="none" type="way" v="Randolph" />
+    <tag id="11721471" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11724452" k="name" o="none" type="way" v="Gatehall Drive" />
+    <tag id="11724452" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11724452" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11724452" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11724452" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11724452" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11724452" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11724452" k="tiger:name_base" o="none" type="way" v="Gatehall" />
+    <tag id="11724452" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11724453" k="name" o="none" type="way" v="Gatehall Drive" />
+    <tag id="11724453" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11724453" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11724453" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11724453" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11724453" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="11724453" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11724453" k="tiger:zip_left" o="none" type="way" v="07054" />
+    <tag id="11724453" k="tiger:name_base" o="none" type="way" v="Gatehall" />
+    <tag id="11724453" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11724453" k="tiger:zip_right" o="none" type="way" v="07054" />
+    <tag id="31294231" k="hgv" o="none" type="way" v="designated" />
+    <tag id="31294231" k="ref" o="none" type="way" v="CR 513" />
+    <tag id="31294231" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="31294231" k="name" o="none" type="way" v="Quaker Church Road" />
+    <tag id="31294231" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="31294231" k="NJDOT_SRI" o="none" type="way" v="00000513" />
+    <tag id="31294231" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="31294231" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="31294231" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="31294231" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="31294231" k="tiger:name_base" o="none" type="way" v="Quaker Church" />
+    <tag id="31294231" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="31294231" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="31294231" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="31294231" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="31294335" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="31294335" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31294335" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="31294335" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="31294335" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="31294335" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="31294335" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="31294335" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="31294337" k="hgv" o="none" type="way" v="designated" />
+    <tag id="31294337" k="ref" o="none" type="way" v="US 202" />
+    <tag id="31294337" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="31294337" k="name" o="none" type="way" v="Littleton Road" />
+    <tag id="31294337" k="lanes" o="none" type="way" v="2" />
+    <tag id="31294337" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="31294337" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="31294337" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="31294337" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="31294337" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="31294337" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="31294337" k="tiger:name_base" o="none" type="way" v="Littleton" />
+    <tag id="31294337" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="31294337" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="31294337" k="tiger:zip_left_1" o="none" type="way" v="07950" />
+    <tag id="31294337" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="31294337" k="tiger:name_base_1" o="none" type="way" v="United States Highway 202" />
+    <tag id="31294337" k="tiger:zip_right_1" o="none" type="way" v="07950" />
+    <tag id="31294337" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="51715034" k="hgv" o="none" type="way" v="designated" />
+    <tag id="51715034" k="ref" o="none" type="way" v="US 202" />
+    <tag id="51715034" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="51715034" k="lanes" o="none" type="way" v="2" />
+    <tag id="51715034" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51715034" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="51715034" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="51715034" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="51715034" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="55608416" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="55608416" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="55608416" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="55608416" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="55608416" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="55608416" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="55608416" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="55608416" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="55608416" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="55609462" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="55609462" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="55609462" k="oneway" o="none" type="way" v="yes" />
+    <tag id="55609462" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="55609462" k="NJDOT_SRI" o="none" type="way" v="14241160" />
+    <tag id="55609462" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="55609462" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="55609462" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="55609462" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="55609462" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="55609463" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="55609463" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="55609463" k="oneway" o="none" type="way" v="yes" />
+    <tag id="55609463" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="55609463" k="NJDOT_SRI" o="none" type="way" v="14241160" />
+    <tag id="55609463" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="55609463" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="55609463" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="55609463" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="55609463" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="59033587" k="name" o="none" type="way" v="New Fox Hill Road" />
+    <tag id="59033587" k="layer" o="none" type="way" v="1" />
+    <tag id="59033587" k="bridge" o="none" type="way" v="yes" />
+    <tag id="59033587" k="highway" o="modify" type="way" v="residential" />
+    <tag id="59033587" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="59033587" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="59033587" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="59033587" k="tiger:name_base" o="none" type="way" v="New Fox Hill" />
+    <tag id="59033587" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="59033589" k="name" o="none" type="way" v="New Fox Hill Road" />
+    <tag id="59033589" k="highway" o="modify" type="way" v="residential" />
+    <tag id="59033589" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="59033589" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="59033589" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="59033589" k="tiger:name_base" o="none" type="way" v="New Fox Hill" />
+    <tag id="59033589" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="60882752" k="hgv" o="none" type="way" v="designated" />
+    <tag id="60882752" k="ref" o="none" type="way" v="US 202" />
+    <tag id="60882752" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="60882752" k="name" o="none" type="way" v="Littleton Road" />
+    <tag id="60882752" k="lanes" o="none" type="way" v="4" />
+    <tag id="60882752" k="highway" o="none" type="way" v="primary" />
+    <tag id="60882752" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="60882752" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="60882752" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="60882752" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60882752" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="60882752" k="tiger:name_base" o="none" type="way" v="Littleton" />
+    <tag id="60882752" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="60882752" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="60882752" k="tiger:zip_left_1" o="none" type="way" v="07950" />
+    <tag id="60882752" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="60882752" k="tiger:name_base_1" o="none" type="way" v="United States Highway 202" />
+    <tag id="60882752" k="tiger:zip_right_1" o="none" type="way" v="07950" />
+    <tag id="60882752" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61486182" k="name" o="none" type="way" v="Peartree Lane" />
+    <tag id="61486182" k="name_1" o="none" type="way" v="Peartree Road" />
+    <tag id="61486182" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61486182" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61486182" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="61486182" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61486182" k="tiger:zip_left" o="none" type="way" v="07046" />
+    <tag id="61486182" k="tiger:name_base" o="none" type="way" v="Peartree" />
+    <tag id="61486182" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="61486182" k="tiger:zip_right" o="none" type="way" v="07046" />
+    <tag id="61486182" k="tiger:name_base_1" o="none" type="way" v="Peartree" />
+    <tag id="61486182" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="61581225" k="name" o="none" type="way" v="Gatehall Drive" />
+    <tag id="61581225" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61581225" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="61581225" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61581225" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="61581225" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61581225" k="tiger:name_base" o="none" type="way" v="Gatehall" />
+    <tag id="61581225" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="61587724" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61587724" k="ref" o="none" type="way" v="NJ 53" />
+    <tag id="61587724" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61587724" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="61587724" k="NJDOT_SRI" o="none" type="way" v="00000053" />
+    <tag id="61587724" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="61587724" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="61587724" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61587724" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="61587724" k="tiger:name_base" o="none" type="way" v="State Route 53" />
+    <tag id="61587724" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="61587724" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61587724" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="107324340" k="ref" o="none" type="way" v="CR 669" />
+    <tag id="107324340" k="name" o="none" type="way" v="Canfield Avenue" />
+    <tag id="107324340" k="highway" o="modify" type="way" v="residential" />
+    <tag id="107324340" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="107324340" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="107324340" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="107324340" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="107324340" k="tiger:name_base" o="none" type="way" v="Canfield" />
+    <tag id="107324340" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="107324340" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="107326574" k="ref" o="none" type="way" v="(669)" />
+    <tag id="107326574" k="name" o="none" type="way" v="Canfield Avenue" />
+    <tag id="107326574" k="highway" o="modify" type="way" v="residential" />
+    <tag id="107326574" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="107326574" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="107326574" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="107326574" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="107326574" k="tiger:name_base" o="none" type="way" v="Canfield" />
+    <tag id="107326574" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="107326574" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="111514357" k="hgv" o="none" type="way" v="designated" />
+    <tag id="111514357" k="ref" o="none" type="way" v="US 202" />
+    <tag id="111514357" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="111514357" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="111514357" k="lanes" o="none" type="way" v="2" />
+    <tag id="111514357" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="111514357" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="111514357" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="111514357" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="111514357" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="111514357" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="111514357" k="tiger:name_base" o="none" type="way" v="Speedwell" />
+    <tag id="111514357" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="111514357" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="111514357" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="111514357" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="111514358" k="hgv" o="none" type="way" v="designated" />
+    <tag id="111514358" k="ref" o="none" type="way" v="US 202" />
+    <tag id="111514358" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="111514358" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="111514358" k="lanes" o="none" type="way" v="4" />
+    <tag id="111514358" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="111514358" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="111514358" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="111514358" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="111514358" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="111514358" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="111514358" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="111514358" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="111514358" k="tiger:name_base" o="none" type="way" v="Speedwell" />
+    <tag id="111514358" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="111514358" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="111514358" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="111514358" k="turn:lanes:forward" o="none" type="way" v="slight_left;through|through" />
+    <tag id="111514358" k="turn:lanes:backward" o="none" type="way" v="through|through" />
+    <tag id="111514358" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="129811626" k="ref" o="none" type="way" v="CR 659" />
+    <tag id="129811626" k="name" o="none" type="way" v="West Blackwell Street" />
+    <tag id="129811626" k="layer" o="none" type="way" v="1" />
+    <tag id="129811626" k="bridge" o="none" type="way" v="yes" />
+    <tag id="129811626" k="oneway" o="none" type="way" v="yes" />
+    <tag id="129811626" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="129811626" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="129811626" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="129811626" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="129811626" k="tiger:name_base" o="none" type="way" v="Blackwell" />
+    <tag id="129811626" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="129811626" k="tiger:name_base_1" o="none" type="way" v="United States Highway 46" />
+    <tag id="129811626" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="138516577" k="ref" o="none" type="way" v="NJ 53" />
+    <tag id="138516577" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="138516577" k="oneway" o="none" type="way" v="yes" />
+    <tag id="138516577" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="138516577" k="NJDOT_SRI" o="none" type="way" v="00000053" />
+    <tag id="138516577" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="138516577" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="138516577" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="138516577" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="138516577" k="tiger:name_base" o="none" type="way" v="State Route 53" />
+    <tag id="138516577" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="170008329" k="ref" o="none" type="way" v="CR 659" />
+    <tag id="170008329" k="name" o="none" type="way" v="West Blackwell Street" />
+    <tag id="170008329" k="oneway" o="none" type="way" v="no" />
+    <tag id="170008329" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="170008329" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="170008329" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="170008329" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="170008329" k="tiger:name_base" o="none" type="way" v="Blackwell" />
+    <tag id="170008329" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="170008329" k="tiger:name_base_1" o="none" type="way" v="United States Highway 46" />
+    <tag id="170008329" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="170008330" k="ref" o="none" type="way" v="CR 659" />
+    <tag id="170008330" k="name" o="none" type="way" v="West Blackwell Street" />
+    <tag id="170008330" k="oneway" o="none" type="way" v="-1" />
+    <tag id="170008330" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="170008330" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="170008330" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="170008330" k="restriction" o="none" type="way" v="only_straight_on" />
+    <tag id="170008330" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="170008330" k="tiger:name_base" o="none" type="way" v="Blackwell" />
+    <tag id="170008330" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="170008330" k="tiger:name_base_1" o="none" type="way" v="United States Highway 46" />
+    <tag id="170008330" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="170008331" k="name" o="none" type="way" v="Park Heights Avenue" />
+    <tag id="170008331" k="oneway" o="none" type="way" v="-1" />
+    <tag id="170008331" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="170008331" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="170008331" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="170008331" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="170008331" k="tiger:name_base" o="none" type="way" v="Blackwell" />
+    <tag id="170008331" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="170008331" k="tiger:name_base_1" o="none" type="way" v="United States Highway 46" />
+    <tag id="170008331" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="221391993" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221391993" k="oneway" o="none" type="way" v="yes" />
+    <tag id="221391993" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="221391994" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221391994" k="oneway" o="none" type="way" v="yes" />
+    <tag id="221391994" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="221391995" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221391995" k="oneway" o="none" type="way" v="yes" />
+    <tag id="221391995" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="221391996" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221391996" k="oneway" o="none" type="way" v="yes" />
+    <tag id="221391996" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="221391997" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221391997" k="oneway" o="none" type="way" v="yes" />
+    <tag id="221391997" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="221391998" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221391998" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="221391998" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="221391998" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="221391998" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="221391998" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="221391998" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="221392000" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221392000" k="oneway" o="none" type="way" v="no" />
+    <tag id="221392000" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="221392000" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="221392000" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="221392000" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="221392000" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="221392000" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="221392001" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="221392001" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="221392001" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="221392001" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="221392001" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="221392001" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="221392001" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="221392001" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="221392001" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="221870086" k="name" o="none" type="way" v="Powder Mill Road" />
+    <tag id="221870086" k="highway" o="modify" type="way" v="residential" />
+    <tag id="221870086" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="221870086" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="221870086" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="221870086" k="tiger:name_base" o="none" type="way" v="Powder Mill" />
+    <tag id="221870086" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="234951697" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="234951697" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="234951697" k="oneway" o="none" type="way" v="yes" />
+    <tag id="234951697" k="highway" o="modify" type="way" v="secondary_link" />
+    <tag id="234951697" k="NJDOT_SRI" o="none" type="way" v="14241160" />
+    <tag id="234951697" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="234951697" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="234951697" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="234951697" k="tiger:zip_left" o="none" type="way" v="07960" />
+    <tag id="234951697" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="234951697" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="240703859" k="ref" o="none" type="way" v="CR 665" />
+    <tag id="240703859" k="name" o="modify" type="way" v="South Salem Street" />
+    <tag id="240703859" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="240703859" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="240703859" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="240703859" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="240703859" k="tiger:zip_left" o="none" type="way" v="07869" />
+    <tag id="240703859" k="tiger:name_base" o="none" type="way" v="Salem" />
+    <tag id="240703859" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="240703859" k="tiger:zip_right" o="none" type="way" v="07869" />
+    <tag id="240703859" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="277823108" k="hgv" o="none" type="way" v="designated" />
+    <tag id="277823108" k="ref" o="none" type="way" v="US 202" />
+    <tag id="277823108" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="277823108" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="277823108" k="lanes" o="none" type="way" v="2" />
+    <tag id="277823108" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="277823108" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="277823108" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="277823108" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="277823108" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="277823108" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="277823108" k="tiger:name_base" o="none" type="way" v="Speedwell" />
+    <tag id="277823108" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="277823108" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="277823108" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="277823108" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="277823117" k="hgv" o="none" type="way" v="designated" />
+    <tag id="277823117" k="ref" o="none" type="way" v="US 202" />
+    <tag id="277823117" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="277823117" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="277823117" k="lanes" o="none" type="way" v="2" />
+    <tag id="277823117" k="layer" o="none" type="way" v="1" />
+    <tag id="277823117" k="bridge" o="none" type="way" v="yes" />
+    <tag id="277823117" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="277823117" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="277823117" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="277823117" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="277823117" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="277823117" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="277823117" k="tiger:name_base" o="none" type="way" v="Speedwell" />
+    <tag id="277823117" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="277823117" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="277823117" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="277823117" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="294247768" k="name" o="none" type="way" v="Peartree Lane" />
+    <tag id="294247768" k="layer" o="none" type="way" v="1" />
+    <tag id="294247768" k="bridge" o="none" type="way" v="yes" />
+    <tag id="294247768" k="name_1" o="none" type="way" v="Peartree Road" />
+    <tag id="294247768" k="highway" o="modify" type="way" v="residential" />
+    <tag id="294247768" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="294247768" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="294247768" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="294247768" k="tiger:zip_left" o="none" type="way" v="07046" />
+    <tag id="294247768" k="tiger:name_base" o="none" type="way" v="Peartree" />
+    <tag id="294247768" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="294247768" k="tiger:zip_right" o="none" type="way" v="07046" />
+    <tag id="294247768" k="tiger:name_base_1" o="none" type="way" v="Peartree" />
+    <tag id="294247768" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="294247769" k="name" o="none" type="way" v="Fox Hill Road" />
+    <tag id="294247769" k="highway" o="modify" type="way" v="residential" />
+    <tag id="294247769" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="294247769" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="294247769" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="294247769" k="tiger:zip_left" o="none" type="way" v="07834" />
+    <tag id="294247769" k="tiger:name_base" o="none" type="way" v="Fox Hill" />
+    <tag id="294247769" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="294247769" k="tiger:zip_right" o="none" type="way" v="07834" />
+    <tag id="312344777" k="ref" o="none" type="way" v="CR 659" />
+    <tag id="312344777" k="name" o="none" type="way" v="West Blackwell Street" />
+    <tag id="312344777" k="oneway" o="none" type="way" v="no" />
+    <tag id="312344777" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="312344777" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="312344777" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="312344777" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="312344777" k="tiger:name_base" o="none" type="way" v="Blackwell" />
+    <tag id="312344777" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="312344777" k="tiger:name_base_1" o="none" type="way" v="United States Highway 46" />
+    <tag id="312344777" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="312344778" k="oneway" o="none" type="way" v="yes" />
+    <tag id="312344778" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="364446075" k="ref" o="none" type="way" v="NJ 53" />
+    <tag id="364446075" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="364446075" k="oneway" o="none" type="way" v="yes" />
+    <tag id="364446075" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="364446075" k="NJDOT_SRI" o="none" type="way" v="00000053" />
+    <tag id="364446075" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="364446075" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="364446075" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="364446075" k="tiger:zip_left" o="none" type="way" v="07878:07950" />
+    <tag id="364446075" k="tiger:name_base" o="none" type="way" v="State Route 53" />
+    <tag id="364446075" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="364446078" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="364446078" k="oneway" o="none" type="way" v="yes" />
+    <tag id="364446078" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="364446078" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="364446078" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="364446078" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="364446078" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="364446078" k="tiger:name_base" o="none" type="way" v="Tabor" />
+    <tag id="364446078" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="364446078" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="364446079" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="364446079" k="oneway" o="none" type="way" v="yes" />
+    <tag id="364446079" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="364446080" k="name" o="none" type="way" v="Tabor Road" />
+    <tag id="364446080" k="oneway" o="none" type="way" v="yes" />
+    <tag id="364446080" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="403429076" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="403429076" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="403429076" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="403429076" k="NJDOT_SRI" o="none" type="way" v="14241160" />
+    <tag id="403429076" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="403429076" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="403429076" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="403429076" k="tiger:zip_left" o="none" type="way" v="07960" />
+    <tag id="403429076" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="403429076" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="403429076" k="tiger:zip_right" o="none" type="way" v="07960" />
+    <tag id="403429077" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="403429077" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="403429077" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="403429077" k="NJDOT_SRI" o="none" type="way" v="14241160" />
+    <tag id="403429077" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="403429077" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="403429077" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="403429077" k="tiger:zip_left" o="none" type="way" v="07960" />
+    <tag id="403429077" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="403429077" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="403429077" k="tiger:zip_right" o="none" type="way" v="07960" />
+    <tag id="404953593" k="hgv" o="none" type="way" v="designated" />
+    <tag id="404953593" k="ref" o="none" type="way" v="NJ 53" />
+    <tag id="404953593" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="404953593" k="name" o="add" type="way" v="Tabor Road" />
+    <tag id="404953593" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="404953593" k="NJDOT_SRI" o="none" type="way" v="00000053" />
+    <tag id="404953593" k="tiger:cfcc" o="modify" type="way" v="A31;A45" />
+    <tag id="404953593" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="404953593" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="404953593" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="404953593" k="tiger:name_base" o="modify" type="way" v="State Route 53;Tabor" />
+    <tag id="404953593" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="404953593" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="404953593" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="404953593" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="407099227" k="hgv" o="none" type="way" v="designated" />
+    <tag id="407099227" k="ref" o="none" type="way" v="CR 510" />
+    <tag id="407099227" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="407099227" k="name" o="none" type="way" v="Morris Street" />
+    <tag id="407099227" k="oneway" o="none" type="way" v="yes" />
+    <tag id="407099227" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="407099227" k="NJDOT_SRI" o="none" type="way" v="00000510" />
+    <tag id="407099227" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="407099227" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="407099227" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="407099227" k="tiger:name_base" o="none" type="way" v="Morris" />
+    <tag id="407099227" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="407099227" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="407099227" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="446032288" k="hgv" o="none" type="way" v="designated" />
+    <tag id="446032288" k="ref" o="none" type="way" v="US 202" />
+    <tag id="446032288" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446032288" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="446032288" k="FIXME" o="none" type="way" v="check lanes" />
+    <tag id="446032288" k="lanes" o="none" type="way" v="4" />
+    <tag id="446032288" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="446032288" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="446032288" k="note:lanes" o="none" type="way" v="1 southbound, 2 northbound" />
+    <tag id="446032288" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="446032288" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="446032288" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="446032288" k="turn:lanes:forward" o="none" type="way" v="through|through" />
+    <tag id="446032288" k="turn:lanes:backward" o="none" type="way" v="slight_left|through" />
+    <tag id="446032288" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="446032289" k="hgv" o="none" type="way" v="designated" />
+    <tag id="446032289" k="ref" o="none" type="way" v="US 202" />
+    <tag id="446032289" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446032289" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="446032289" k="FIXME" o="none" type="way" v="check lanes" />
+    <tag id="446032289" k="lanes" o="none" type="way" v="4" />
+    <tag id="446032289" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="446032289" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="446032289" k="note:lanes" o="none" type="way" v="1 southbound, 2 northbound" />
+    <tag id="446032289" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="446032289" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="446032289" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="446032289" k="turn:lanes:forward" o="none" type="way" v="through|through" />
+    <tag id="446032289" k="turn:lanes:backward" o="none" type="way" v="through|through;right" />
+    <tag id="446032289" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="446032290" k="hgv" o="none" type="way" v="designated" />
+    <tag id="446032290" k="ref" o="none" type="way" v="US 202" />
+    <tag id="446032290" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446032290" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="446032290" k="FIXME" o="none" type="way" v="check lanes" />
+    <tag id="446032290" k="lanes" o="none" type="way" v="4" />
+    <tag id="446032290" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="446032290" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="446032290" k="note:lanes" o="none" type="way" v="1 southbound, 2 northbound" />
+    <tag id="446032290" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="446032290" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="446032290" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="446032290" k="turn:lanes:forward" o="none" type="way" v="through|through" />
+    <tag id="446032290" k="turn:lanes:backward" o="none" type="way" v="through|through" />
+    <tag id="446032290" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="446032291" k="hgv" o="none" type="way" v="designated" />
+    <tag id="446032291" k="ref" o="none" type="way" v="US 202" />
+    <tag id="446032291" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446032291" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="446032291" k="lanes" o="none" type="way" v="4" />
+    <tag id="446032291" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="446032291" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="446032291" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="446032291" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="446032291" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="446032291" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="446032291" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="446032291" k="tiger:zip_left" o="none" type="way" v="07950" />
+    <tag id="446032291" k="tiger:name_base" o="none" type="way" v="Speedwell" />
+    <tag id="446032291" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="446032291" k="tiger:zip_right" o="none" type="way" v="07950" />
+    <tag id="446032291" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="446032291" k="turn:lanes:forward" o="none" type="way" v="through|through" />
+    <tag id="446032291" k="turn:lanes:backward" o="none" type="way" v="through|through;right" />
+    <tag id="446032291" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="446032292" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446032292" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="446032292" k="lanes" o="add" type="way" v="4" />
+    <tag id="446032292" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="446032292" k="NJDOT_SRI" o="none" type="way" v="14241160" />
+    <tag id="446032292" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="446032292" k="tiger:county" o="none" type="way" v="Morris, NJ" />
+    <tag id="446032292" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="446032292" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="446032292" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="446032292" k="tiger:zip_left" o="none" type="way" v="07960" />
+    <tag id="446032292" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="446032292" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="446032292" k="tiger:zip_right" o="none" type="way" v="07960" />
+    <tag id="446032292" k="turn:lanes:forward" o="add" type="way" v="right|right" />
+    <tag id="446032292" k="turn:lanes:backward" o="add" type="way" v="through|through" />
+    <tag id="446445976" k="hgv" o="none" type="way" v="designated" />
+    <tag id="446445976" k="ref" o="none" type="way" v="US 202" />
+    <tag id="446445976" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446445976" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="446445976" k="FIXME" o="none" type="way" v="check lanes" />
+    <tag id="446445976" k="lanes" o="none" type="way" v="4" />
+    <tag id="446445976" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="446445976" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="446445976" k="note:lanes" o="none" type="way" v="1 southbound, 2 northbound" />
+    <tag id="446445976" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="446445976" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="446445976" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="446445976" k="turn:lanes:forward" o="none" type="way" v="through|through" />
+    <tag id="446445976" k="turn:lanes:backward" o="none" type="way" v="through|" />
+    <tag id="446445976" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="446445977" k="hgv" o="none" type="way" v="designated" />
+    <tag id="446445977" k="ref" o="none" type="way" v="US 202" />
+    <tag id="446445977" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="446445977" k="name" o="none" type="way" v="Speedwell Avenue" />
+    <tag id="446445977" k="FIXME" o="none" type="way" v="check lanes" />
+    <tag id="446445977" k="lanes" o="none" type="way" v="5" />
+    <tag id="446445977" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="446445977" k="NJDOT_SRI" o="none" type="way" v="00000202" />
+    <tag id="446445977" k="note:lanes" o="none" type="way" v="1 southbound, 2 northbound" />
+    <tag id="446445977" k="lanes:forward" o="none" type="way" v="3" />
+    <tag id="446445977" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="446445977" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="446445977" k="turn:lanes:forward" o="none" type="way" v="through|through|through" />
+    <tag id="446445977" k="turn:lanes:backward" o="none" type="way" v="through|" />
+    <tag id="446445977" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="482578082" k="name" o="add" type="way" v="Franklin Road" />
+    <tag id="482578082" k="highway" o="add" type="way" v="residential" />
+    <tag id="482578082" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="482578082" k="tiger:county" o="add" type="way" v="Morris, NJ" />
+    <tag id="482578082" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="482578082" k="tiger:zip_left" o="add" type="way" v="07869" />
+    <tag id="482578082" k="tiger:name_base" o="add" type="way" v="Franklin" />
+    <tag id="482578082" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="482578082" k="tiger:zip_right" o="add" type="way" v="07869" />
+    <tag id="482578083" k="ref" o="add" type="way" v="NJ 53" />
+    <tag id="482578083" k="HFCS" o="add" type="way" v="Urban Principal Arterial" />
+    <tag id="482578083" k="oneway" o="add" type="way" v="yes" />
+    <tag id="482578083" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="482578083" k="NJDOT_SRI" o="add" type="way" v="00000053" />
+    <tag id="482578083" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="482578083" k="tiger:county" o="add" type="way" v="Morris, NJ" />
+    <tag id="482578083" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="482578083" k="tiger:zip_left" o="add" type="way" v="07950" />
+    <tag id="482578083" k="tiger:name_base" o="add" type="way" v="State Route 53" />
+    <tag id="482578083" k="tiger:zip_right" o="add" type="way" v="07950" />
+    <tag id="482578084" k="name" o="add" type="way" v="Tabor Road" />
+    <tag id="482578084" k="oneway" o="add" type="way" v="yes" />
+    <tag id="482578084" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="482578085" k="hgv" o="add" type="way" v="designated" />
+    <tag id="482578085" k="ref" o="add" type="way" v="US 202" />
+    <tag id="482578085" k="HFCS" o="add" type="way" v="Urban Principal Arterial" />
+    <tag id="482578085" k="name" o="add" type="way" v="Littleton Road" />
+    <tag id="482578085" k="lanes" o="add" type="way" v="4" />
+    <tag id="482578085" k="highway" o="add" type="way" v="secondary" />
+    <tag id="482578085" k="NJDOT_SRI" o="add" type="way" v="00000202" />
+    <tag id="482578085" k="tiger:cfcc" o="add" type="way" v="A21" />
+    <tag id="482578085" k="tiger:county" o="add" type="way" v="Morris, NJ" />
+    <tag id="482578085" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="482578085" k="tiger:zip_left" o="add" type="way" v="07950" />
+    <tag id="482578085" k="tiger:name_base" o="add" type="way" v="Littleton" />
+    <tag id="482578085" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="482578085" k="tiger:zip_right" o="add" type="way" v="07950" />
+    <tag id="482578085" k="tiger:zip_left_1" o="add" type="way" v="07950" />
+    <tag id="482578085" k="hgv:state_network" o="add" type="way" v="yes" />
+    <tag id="482578085" k="tiger:name_base_1" o="add" type="way" v="United States Highway 202" />
+    <tag id="482578085" k="tiger:zip_right_1" o="add" type="way" v="07950" />
+    <tag id="482578085" k="source:hgv:state_network" o="add" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="417195" k="ref" o="none" type="relation" v="202" />
+    <tag id="417195" k="name" o="none" type="relation" v="US 202 (NJ)" />
+    <tag id="417195" k="type" o="none" type="relation" v="route" />
+    <tag id="417195" k="route" o="none" type="relation" v="road" />
+    <tag id="417195" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/US_202.svg/88px-US_202.svg.png" />
+    <tag id="417195" k="network" o="none" type="relation" v="US:US" />
+    <tag id="417195" k="wikidata" o="none" type="relation" v="Q811458" />
+    <tag id="417195" k="wikipedia" o="none" type="relation" v="en:U.S. Route 202 in New Jersey" />
+    <tag id="417195" k="is_in:state" o="none" type="relation" v="NJ" />
+    <tag id="443945" k="ref" o="none" type="relation" v="53" />
+    <tag id="443945" k="type" o="none" type="relation" v="route" />
+    <tag id="443945" k="route" o="none" type="relation" v="road" />
+    <tag id="443945" k="network" o="none" type="relation" v="US:NJ" />
+    <tag id="6070821" k="type" o="none" type="relation" v="restriction" />
+    <tag id="6070821" k="restriction" o="none" type="relation" v="only_straight_on" />
+  </body>
+</changeset>

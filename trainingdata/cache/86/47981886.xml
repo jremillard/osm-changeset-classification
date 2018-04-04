@@ -1,0 +1,702 @@
+<changeset id="47981886" schema="2">
+  <counts nodesAdded="8" nodesDeleted="28" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="11" waysDeleted="1" waysModified="245" />
+  <meta>
+    <tag k="comment" v="remove incorrect layer=-1" />
+    <tag k="created_by" v="JOSM/1.5 (11826 en_GB)" />
+  </meta>
+  <body>
+    <tag id="3713124" k="natural" o="none" type="way" v="heath" />
+    <tag id="4041808" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4041808" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="4041815" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4041815" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="4041840" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4041840" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="4041840" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="4041883" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4041883" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="4041883" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="4041896" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4041896" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="4041896" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="4041938" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4041938" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="4041938" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="4089197" k="name" o="none" type="way" v="Cowick Barton Playing Fields" />
+    <tag id="4089197" k="leisure" o="none" type="way" v="park" />
+    <tag id="4744890" k="route" o="none" type="way" v="bus" />
+    <tag id="4744890" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="4744890" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="4744893" k="route" o="none" type="way" v="bus" />
+    <tag id="4744893" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="4744894" k="route" o="none" type="way" v="bus" />
+    <tag id="4744894" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4744894" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="4744895" k="route" o="none" type="way" v="bus" />
+    <tag id="4744895" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4744895" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="4744896" k="route" o="none" type="way" v="bus" />
+    <tag id="4744896" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4744896" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="5052131" k="name" o="none" type="way" v="River Findhorn" />
+    <tag id="5052131" k="source" o="none" type="way" v="landsat" />
+    <tag id="5052131" k="waterway" o="none" type="way" v="river" />
+    <tag id="5095598" k="name" o="none" type="way" v="Worden Park" />
+    <tag id="5095598" k="note" o="none" type="way" v="incomplete" />
+    <tag id="5095598" k="source" o="none" type="way" v="yahoo aerial imagery" />
+    <tag id="5095598" k="leisure" o="none" type="way" v="park" />
+    <tag id="5217173" k="leisure" o="none" type="way" v="park" />
+    <tag id="5217176" k="leisure" o="none" type="way" v="park" />
+    <tag id="5217177" k="leisure" o="none" type="way" v="park" />
+    <tag id="5581549" k="name" o="none" type="way" v="Catacombes" />
+    <tag id="5581549" k="leisure" o="none" type="way" v="park" />
+    <tag id="5581581" k="name" o="none" type="way" v="Friernhay" />
+    <tag id="5581581" k="leisure" o="none" type="way" v="park" />
+    <tag id="5582929" k="name" o="none" type="way" v="Northernhay Gardens" />
+    <tag id="5582929" k="leisure" o="none" type="way" v="park" />
+    <tag id="5583213" k="name" o="none" type="way" v="Bullmeadow" />
+    <tag id="5583213" k="leisure" o="none" type="way" v="park" />
+    <tag id="5745444" k="leisure" o="none" type="way" v="park" />
+    <tag id="7847598" k="name" o="none" type="way" v="Spawell Golf and Leisure Centre" />
+    <tag id="7847598" k="barrier" o="none" type="way" v="fence" />
+    <tag id="7847598" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="7847598" k="addr:street" o="none" type="way" v="Wellington Lane" />
+    <tag id="7972892" k="leisure" o="none" type="way" v="park" />
+    <tag id="7981516" k="name" o="none" type="way" v="Regent's Park" />
+    <tag id="7981516" k="leisure" o="none" type="way" v="park" />
+    <tag id="8009275" k="leisure" o="none" type="way" v="park" />
+    <tag id="8009417" k="leisure" o="none" type="way" v="park" />
+    <tag id="8025722" k="name" o="none" type="way" v="Bury Meadow Park" />
+    <tag id="8025722" k="leisure" o="none" type="way" v="park" />
+    <tag id="8070309" k="name" o="none" type="way" v="Holystone Interchange" />
+    <tag id="8070309" k="oneway" o="none" type="way" v="yes" />
+    <tag id="8070309" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="8070309" k="operator" o="none" type="way" v="Highways Agency" />
+    <tag id="8070309" k="highways_agency:area" o="none" type="way" v="14" />
+    <tag id="8070314" k="name" o="none" type="way" v="Holystone Interchange" />
+    <tag id="8070314" k="oneway" o="none" type="way" v="yes" />
+    <tag id="8070314" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="8070314" k="operator" o="none" type="way" v="Highways Agency" />
+    <tag id="8070314" k="highways_agency:area" o="none" type="way" v="14" />
+    <tag id="8074348" k="leisure" o="none" type="way" v="park" />
+    <tag id="8694228" k="name" o="none" type="way" v="Rougemont Gardens" />
+    <tag id="8694228" k="leisure" o="none" type="way" v="park" />
+    <tag id="8695383" k="name" o="none" type="way" v="Belmont Park" />
+    <tag id="8695383" k="leisure" o="none" type="way" v="park" />
+    <tag id="8876769" k="name" o="none" type="way" v="Belle Isle Park" />
+    <tag id="8876769" k="leisure" o="none" type="way" v="park" />
+    <tag id="8876902" k="name" o="none" type="way" v="Devon County Hall Grounds" />
+    <tag id="8876902" k="leisure" o="none" type="way" v="park" />
+    <tag id="9721940" k="foot" o="none" type="way" v="yes" />
+    <tag id="9721940" k="name" o="none" type="way" v="Polmuir Road" />
+    <tag id="9721940" k="horse" o="none" type="way" v="yes" />
+    <tag id="9721940" k="oneway" o="none" type="way" v="no" />
+    <tag id="9721940" k="source" o="none" type="way" v="yahoo tracing" />
+    <tag id="9721940" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="9721940" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9721940" k="maxspeed" o="none" type="way" v="20 mph" />
+    <tag id="9721940" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="11161250" k="leisure" o="none" type="way" v="park" />
+    <tag id="11161897" k="leisure" o="none" type="way" v="park" />
+    <tag id="11165521" k="leisure" o="none" type="way" v="park" />
+    <tag id="11391855" k="leisure" o="none" type="way" v="park" />
+    <tag id="13657043" k="leisure" o="none" type="way" v="park" />
+    <tag id="19886059" k="name" o="none" type="way" v="St Thomas Pleasure Ground" />
+    <tag id="19886059" k="leisure" o="none" type="way" v="park" />
+    <tag id="22794769" k="name" o="none" type="way" v="Miller Park" />
+    <tag id="22794769" k="source" o="none" type="way" v="local knowledge, area estimated from landsat" />
+    <tag id="22794769" k="leisure" o="none" type="way" v="park" />
+    <tag id="23612158" k="name" o="none" type="way" v="Taylor Building" />
+    <tag id="23612158" k="building" o="none" type="way" v="university" />
+    <tag id="23612158" k="operator" o="none" type="way" v="University of Aberdeen" />
+    <tag id="24532531" k="foot" o="none" type="way" v="yes" />
+    <tag id="24532531" k="name" o="none" type="way" v="The Cinder Track" />
+    <tag id="24532531" k="access" o="none" type="way" v="yes" />
+    <tag id="24532531" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="24532531" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="24532531" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="24532531" k="segregated" o="none" type="way" v="no" />
+    <tag id="24532531" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="25091886" k="leisure" o="none" type="way" v="park" />
+    <tag id="25690217" k="foot" o="none" type="way" v="yes" />
+    <tag id="25690217" k="highway" o="none" type="way" v="footway" />
+    <tag id="25836642" k="waterway" o="none" type="way" v="riverbank" />
+    <tag id="25946214" k="name" o="none" type="way" v="Dodder" />
+    <tag id="25946214" k="name:en" o="none" type="way" v="Dodder" />
+    <tag id="25946214" k="name:ga" o="none" type="way" v="An Dothra" />
+    <tag id="25946214" k="waterway" o="none" type="way" v="river" />
+    <tag id="26521006" k="name" o="none" type="way" v="IWM Duxford" />
+    <tag id="26521006" k="note" o="none" type="way" v="estimated approximate outline, needs refining" />
+    <tag id="26521006" k="is_in" o="none" type="way" v="Duxford" />
+    <tag id="26521006" k="tourism" o="none" type="way" v="museum" />
+    <tag id="26521006" k="website" o="none" type="way" v="http://www.iwm.org.uk/" />
+    <tag id="26521006" k="operator" o="none" type="way" v="Imperial War Museums" />
+    <tag id="26521006" k="addr:city" o="none" type="way" v="Duxford" />
+    <tag id="26521006" k="addr:street" o="none" type="way" v="Royston Road" />
+    <tag id="26521006" k="addr:postcode" o="none" type="way" v="CB22 4QR" />
+    <tag id="26521006" k="opening_hours" o="none" type="way" v="10:00-16:00" />
+    <tag id="26521006" k="addr:housename" o="none" type="way" v="IWM Duxford" />
+    <tag id="26830508" k="name" o="none" type="way" v="Elmfield Park" />
+    <tag id="26830508" k="leisure" o="none" type="way" v="park" />
+    <tag id="26868842" k="name" o="none" type="way" v="National War Memorial Garden" />
+    <tag id="26868842" k="leisure" o="none" type="way" v="park" />
+    <tag id="28266340" k="name" o="none" type="way" v="Hawk Green" />
+    <tag id="28266340" k="landuse" o="none" type="way" v="village_green" />
+    <tag id="28266340" k="leisure" o="none" type="way" v="park" />
+    <tag id="28302187" k="foot" o="none" type="way" v="yes" />
+    <tag id="28302187" k="source" o="none" type="way" v="Local knowledge" />
+    <tag id="28302187" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="28302187" k="cycleway" o="none" type="way" v="track" />
+    <tag id="28375057" k="name" o="none" type="way" v="Marple Golf Club" />
+    <tag id="28375057" k="leisure" o="none" type="way" v="golf_course" />
+    <tag id="28504256" k="name" o="none" type="way" v="River Ryton" />
+    <tag id="28504256" k="waterway" o="none" type="way" v="river" />
+    <tag id="28531511" k="ref" o="none" type="way" v="R110" />
+    <tag id="28531511" k="name" o="none" type="way" v="Red Cow Interchange" />
+    <tag id="28531511" k="lanes" o="none" type="way" v="1" />
+    <tag id="28531511" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28531511" k="highway" o="none" type="way" v="secondary" />
+    <tag id="28531511" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="28531511" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="28882881" k="name" o="none" type="way" v="Withy Grove Park" />
+    <tag id="28882881" k="leisure" o="none" type="way" v="park" />
+    <tag id="28962936" k="amenity" o="none" type="way" v="grave_yard" />
+    <tag id="28962936" k="religion" o="none" type="way" v="christian" />
+    <tag id="28962936" k="denomination" o="none" type="way" v="anglican" />
+    <tag id="28998299" k="landuse" o="none" type="way" v="grass" />
+    <tag id="28998428" k="landuse" o="none" type="way" v="grass" />
+    <tag id="28998428" k="leisure" o="none" type="way" v="playground" />
+    <tag id="28998874" k="amenity" o="none" type="way" v="parking" />
+    <tag id="28999121" k="leisure" o="none" type="way" v="park" />
+    <tag id="28999590" k="landuse" o="none" type="way" v="grass" />
+    <tag id="29000047" k="landuse" o="none" type="way" v="grass" />
+    <tag id="29000062" k="landuse" o="none" type="way" v="grass" />
+    <tag id="29000149" k="landuse" o="none" type="way" v="grass" />
+    <tag id="29000217" k="landuse" o="none" type="way" v="grass" />
+    <tag id="29000295" k="landuse" o="none" type="way" v="grass" />
+    <tag id="29029662" k="natural" o="none" type="way" v="water" />
+    <tag id="29029749" k="natural" o="none" type="way" v="water" />
+    <tag id="29029769" k="natural" o="none" type="way" v="water" />
+    <tag id="29033318" k="amenity" o="none" type="way" v="parking" />
+    <tag id="30532602" k="highway" o="none" type="way" v="residential" />
+    <tag id="31172209" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31188199" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31194093" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31201204" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31291977" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31358800" k="name" o="none" type="way" v="Seaton Town Cricket Club" />
+    <tag id="31358800" k="sport" o="none" type="way" v="cricket" />
+    <tag id="31358800" k="leisure" o="none" type="way" v="pitch" />
+    <tag id="31395328" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31396325" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31397066" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31398350" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31398719" k="name" o="none" type="way" v="Hendon" />
+    <tag id="31398719" k="place" o="none" type="way" v="suburb" />
+    <tag id="31398719" k="landuse" o="none" type="way" v="residential" />
+    <tag id="31977843" k="leisure" o="none" type="way" v="common" />
+    <tag id="31978114" k="name" o="none" type="way" v="Doncaster Racecourse" />
+    <tag id="31978114" k="landuse" o="none" type="way" v="grass" />
+    <tag id="33283555" k="name" o="none" type="way" v="River Findhorn" />
+    <tag id="33283555" k="source" o="none" type="way" v="landsat" />
+    <tag id="33283555" k="waterway" o="none" type="way" v="river" />
+    <tag id="33283555" k="whitewater:section_grade" o="none" type="way" v="2" />
+    <tag id="33283556" k="name" o="none" type="way" v="River Findhorn" />
+    <tag id="33283556" k="source" o="none" type="way" v="landsat" />
+    <tag id="33283556" k="waterway" o="none" type="way" v="river" />
+    <tag id="33616416" k="route" o="none" type="way" v="bus" />
+    <tag id="33616416" k="oneway" o="none" type="way" v="yes" />
+    <tag id="33616416" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="34036332" k="name" o="none" type="way" v="Herrington Country Park" />
+    <tag id="34036332" k="note" o="none" type="way" v="Approx outline, updated from Bing" />
+    <tag id="34036332" k="leisure" o="none" type="way" v="park" />
+    <tag id="35336908" k="name" o="none" type="way" v="Pelican Colts FC" />
+    <tag id="35336908" k="sport" o="none" type="way" v="soccer" />
+    <tag id="35336908" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="35336908" k="addr:place" o="none" type="way" v="The Dave Eastwood Sports Ground" />
+    <tag id="35336908" k="addr:street" o="none" type="way" v="Lenton Lane" />
+    <tag id="35336911" k="name" o="none" type="way" v="Greenwood Meadows FC" />
+    <tag id="35336911" k="sport" o="none" type="way" v="soccer" />
+    <tag id="35336911" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="35336911" k="website" o="none" type="way" v="http://www.pitchero.com/clubs/greenwoodmeadows/" />
+    <tag id="35337931" k="name" o="none" type="way" v="Nottingham Powerleague" />
+    <tag id="35337931" k="sport" o="none" type="way" v="soccer" />
+    <tag id="35337931" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="35337931" k="website" o="none" type="way" v="http://www.powerleague.co.uk/5-a-side/midlands/nottingham" />
+    <tag id="35337931" k="addr:street" o="none" type="way" v="Thane Road" />
+    <tag id="35337931" k="source:addr" o="none" type="way" v="website" />
+    <tag id="35337931" k="addr:postcode" o="none" type="way" v="NG7 2TG" />
+    <tag id="35779648" k="name" o="none" type="way" v="Regatta Way Sports Club" />
+    <tag id="35779648" k="landuse" o="none" type="way" v="recreation_ground" />
+    <tag id="37721503" k="name" o="none" type="way" v="River Findhorn" />
+    <tag id="37721503" k="source" o="none" type="way" v="landsat" />
+    <tag id="37721503" k="waterway" o="none" type="way" v="river" />
+    <tag id="37721504" k="name" o="none" type="way" v="River Findhorn" />
+    <tag id="37721504" k="source" o="none" type="way" v="landsat" />
+    <tag id="37721504" k="waterway" o="none" type="way" v="river" />
+    <tag id="37721504" k="whitewater:section_name" o="none" type="way" v="Middle Findhorn" />
+    <tag id="37721504" k="whitewater:section_grade" o="none" type="way" v="2" />
+    <tag id="38690387" k="natural" o="none" type="way" v="water" />
+    <tag id="41225189" k="name" o="none" type="way" v="Lyme Park" />
+    <tag id="41225189" k="FIXME" o="none" type="way" v="approximate park boundaries" />
+    <tag id="41225189" k="phone" o="none" type="way" v="+44 1663 762023" />
+    <tag id="41225189" k="leisure" o="none" type="way" v="park" />
+    <tag id="41225189" k="website" o="none" type="way" v="http://www.nationaltrust.org.uk/lyme-park/" />
+    <tag id="41225189" k="operator" o="none" type="way" v="National Trust" />
+    <tag id="41225189" k="addr:city" o="none" type="way" v="Stockport" />
+    <tag id="41225189" k="wikipedia" o="none" type="way" v="en:Lyme Park" />
+    <tag id="41225189" k="wheelchair" o="none" type="way" v="limited" />
+    <tag id="41225189" k="addr:street" o="none" type="way" v="Disley" />
+    <tag id="41225189" k="addr:postcode" o="none" type="way" v="SK12 2NS" />
+    <tag id="43059471" k="name" o="none" type="way" v="Davenport Golf Club" />
+    <tag id="43059471" k="leisure" o="none" type="way" v="golf_course" />
+    <tag id="50353145" k="name" o="none" type="way" v="Cathedral Green" />
+    <tag id="50353145" k="leisure" o="none" type="way" v="park" />
+    <tag id="58662461" k="name" o="none" type="way" v="River Torne" />
+    <tag id="58662461" k="waterway" o="none" type="way" v="river" />
+    <tag id="60322058" k="name" o="none" type="way" v="River Ryton" />
+    <tag id="60322058" k="source" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="60322058" k="waterway" o="none" type="way" v="river" />
+    <tag id="68626285" k="area" o="none" type="way" v="yes" />
+    <tag id="68626285" k="name" o="none" type="way" v="Kings Park Lorry Park" />
+    <tag id="68626285" k="amenity" o="none" type="way" v="parking" />
+    <tag id="68626285" k="surface" o="none" type="way" v="gravel" />
+    <tag id="68626292" k="area" o="none" type="way" v="yes" />
+    <tag id="68626292" k="name" o="none" type="way" v="AFC Bournemouth Car Park" />
+    <tag id="68626292" k="amenity" o="none" type="way" v="parking" />
+    <tag id="68626292" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="80280276" k="barrier" o="none" type="way" v="ditch" />
+    <tag id="80877780" k="natural" o="none" type="way" v="heath" />
+    <tag id="81355102" k="name" o="none" type="way" v="Merrion Shopping Centre" />
+    <tag id="81355102" k="amenity" o="none" type="way" v="parking" />
+    <tag id="81355102" k="parking" o="none" type="way" v="underground" />
+    <tag id="81355102" k="park_ride" o="none" type="way" v="no" />
+    <tag id="82831574" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="83282784" k="area" o="none" type="way" v="yes" />
+    <tag id="83282784" k="amenity" o="none" type="way" v="parking" />
+    <tag id="83282796" k="source" o="none" type="way" v="survey" />
+    <tag id="83282796" k="landuse" o="none" type="way" v="recreation_ground" />
+    <tag id="84662081" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="84662139" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="94107286" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="94107286" k="highway" o="none" type="way" v="service" />
+    <tag id="94438333" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="102284762" k="foot" o="none" type="way" v="yes" />
+    <tag id="102284762" k="name" o="none" type="way" v="Brook Farm Lane" />
+    <tag id="102284762" k="access" o="none" type="way" v="yes" />
+    <tag id="102284762" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="102284762" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="102284762" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="109170373" k="amenity" o="none" type="way" v="parking" />
+    <tag id="109170380" k="oneway" o="none" type="way" v="yes" />
+    <tag id="109170380" k="highway" o="none" type="way" v="service" />
+    <tag id="109170385" k="oneway" o="none" type="way" v="-1" />
+    <tag id="109170385" k="highway" o="none" type="way" v="service" />
+    <tag id="112352577" k="area" o="none" type="way" v="yes" />
+    <tag id="112352577" k="amenity" o="none" type="way" v="parking" />
+    <tag id="118293325" k="oneway" o="none" type="way" v="yes" />
+    <tag id="118293325" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="118293327" k="oneway" o="none" type="way" v="yes" />
+    <tag id="118293327" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="121496850" k="grass" o="none" type="way" v="amenity_grassland" />
+    <tag id="121496850" k="landuse" o="none" type="way" v="meadow" />
+    <tag id="121496850" k="natural" o="none" type="way" v="scrub" />
+    <tag id="121532724" k="ref" o="none" type="way" v="B1432" />
+    <tag id="121532724" k="name" o="none" type="way" v="Stockton Road" />
+    <tag id="121532724" k="source" o="none" type="way" v="bing" />
+    <tag id="121532724" k="highway" o="none" type="way" v="secondary" />
+    <tag id="121532724" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="121532724" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="126409900" k="note" o="none" type="way" v="changing layer may hide other landuse" />
+    <tag id="126409900" k="natural" o="none" type="way" v="heath" />
+    <tag id="127070914" k="note" o="none" type="way" v="changing layer may hide other landuse" />
+    <tag id="127070914" k="natural" o="none" type="way" v="heath" />
+    <tag id="127420313" k="note" o="none" type="way" v="changing layer may hide other landuse" />
+    <tag id="127420313" k="natural" o="none" type="way" v="heath" />
+    <tag id="127434701" k="note" o="none" type="way" v="changing layer may hide other landuse" />
+    <tag id="127434701" k="natural" o="none" type="way" v="heath" />
+    <tag id="127434702" k="note" o="none" type="way" v="changing layer may hide other landuse" />
+    <tag id="127434702" k="natural" o="none" type="way" v="heath" />
+    <tag id="130705410" k="name" o="none" type="way" v="Tunstall Commmon" />
+    <tag id="130705410" k="natural" o="none" type="way" v="heath" />
+    <tag id="130706032" k="name" o="none" type="way" v="Blaxhall Heath" />
+    <tag id="130706032" k="natural" o="none" type="way" v="heath" />
+    <tag id="136033792" k="foot" o="none" type="way" v="yes" />
+    <tag id="136033792" k="source" o="none" type="way" v="Local knowledge" />
+    <tag id="136033792" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="136033792" k="cycleway" o="none" type="way" v="track" />
+    <tag id="152418876" k="name" o="none" type="way" v="River Ryton" />
+    <tag id="152418876" k="source" o="none" type="way" v="old OS map" />
+    <tag id="152418876" k="waterway" o="none" type="way" v="river" />
+    <tag id="157184949" k="access" o="none" type="way" v="private" />
+    <tag id="157184949" k="amenity" o="none" type="way" v="parking" />
+    <tag id="157184949" k="parking" o="none" type="way" v="surface" />
+    <tag id="157184949" k="park_ride" o="none" type="way" v="no" />
+    <tag id="166724627" k="name" o="none" type="way" v="Chill Factor e" />
+    <tag id="166724627" k="sport" o="none" type="way" v="skiing" />
+    <tag id="166724627" k="source" o="none" type="way" v="Bing" />
+    <tag id="166724627" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="166724627" k="building" o="none" type="way" v="yes" />
+    <tag id="166724627" k="addr:city" o="none" type="way" v="Manchester" />
+    <tag id="166724627" k="wikipedia" o="none" type="way" v="en:Chill Factore" />
+    <tag id="166724627" k="piste:type" o="none" type="way" v="snow_park" />
+    <tag id="166724627" k="addr:street" o="none" type="way" v="Trafford Way" />
+    <tag id="166724627" k="addr:postcode" o="none" type="way" v="M41 7JA" />
+    <tag id="166724627" k="addr:housename" o="none" type="way" v="Chill Factore" />
+    <tag id="171204576" k="access" o="none" type="way" v="yes" />
+    <tag id="171204576" k="amenity" o="none" type="way" v="parking" />
+    <tag id="171204576" k="parking" o="none" type="way" v="underground" />
+    <tag id="171204576" k="operator" o="none" type="way" v="Lucan Shopping Centre" />
+    <tag id="181000231" k="name" o="none" type="way" v="Avenham Park" />
+    <tag id="181000231" k="source" o="none" type="way" v="Bing;local knowledge, area estimated from landsat" />
+    <tag id="181000231" k="leisure" o="none" type="way" v="park" />
+    <tag id="181000239" k="name" o="none" type="way" v="Frenchwood Knoll" />
+    <tag id="181000239" k="source" o="none" type="way" v="Bing;Bing;local knowledge, area estimated from landsat" />
+    <tag id="181000239" k="leisure" o="none" type="way" v="park" />
+    <tag id="198569511" k="name" o="none" type="way" v="Wormit Reservoir" />
+    <tag id="198569511" k="covered" o="none" type="way" v="yes" />
+    <tag id="198569511" k="landuse" o="none" type="way" v="disused_reservoir" />
+    <tag id="198569511" k="man_made" o="none" type="way" v="reservoir_covered" />
+    <tag id="199759687" k="source" o="none" type="way" v="local_knowledge" />
+    <tag id="199759687" k="landuse" o="none" type="way" v="retail" />
+    <tag id="202036243" k="source" o="none" type="way" v="Bing" />
+    <tag id="202036243" k="landuse" o="none" type="way" v="recreation_ground" />
+    <tag id="202036246" k="landuse" o="none" type="way" v="recreation_ground" />
+    <tag id="204098940" k="foot" o="none" type="way" v="yes" />
+    <tag id="204098940" k="name" o="none" type="way" v="Mortimer&#8217;s Hole" />
+    <tag id="204098940" k="fixme" o="none" type="way" v="two tunnels shown, need to remove one. Also, this toute needs correcting!" />
+    <tag id="204098940" k="layer" o="none" type="way" v="-1" />
+    <tag id="204098940" k="access" o="none" type="way" v="private" />
+    <tag id="204098940" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="204098940" k="highway" o="none" type="way" v="steps" />
+    <tag id="206341229" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="206341229" k="highway" o="none" type="way" v="service" />
+    <tag id="208759378" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="208759378" k="highway" o="none" type="way" v="service" />
+    <tag id="208759382" k="oneway" o="none" type="way" v="yes" />
+    <tag id="208759382" k="highway" o="none" type="way" v="service" />
+    <tag id="214814545" k="foot" o="none" type="way" v="yes" />
+    <tag id="214814545" k="name" o="none" type="way" v="Hood Lane" />
+    <tag id="214814545" k="access" o="none" type="way" v="designated" />
+    <tag id="214814545" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="214814545" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="214814545" k="cycleway" o="none" type="way" v="no" />
+    <tag id="214814545" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="214814545" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="215605021" k="highway" o="none" type="way" v="residential" />
+    <tag id="217337618" k="highway" o="none" type="way" v="footway" />
+    <tag id="223480261" k="source" o="none" type="way" v="Bing" />
+    <tag id="223480261" k="landuse" o="none" type="way" v="residential" />
+    <tag id="223480262" k="source" o="none" type="way" v="Bing" />
+    <tag id="223480262" k="landuse" o="none" type="way" v="residential" />
+    <tag id="223480263" k="source" o="none" type="way" v="Bing" />
+    <tag id="223480263" k="landuse" o="none" type="way" v="retail" />
+    <tag id="223480264" k="source" o="none" type="way" v="Bing" />
+    <tag id="223480264" k="landuse" o="none" type="way" v="retail" />
+    <tag id="223480265" k="source" o="none" type="way" v="Bing" />
+    <tag id="223480265" k="landuse" o="none" type="way" v="residential" />
+    <tag id="223480266" k="source" o="none" type="way" v="Bing" />
+    <tag id="223480266" k="landuse" o="none" type="way" v="retail" />
+    <tag id="223957905" k="landuse" o="none" type="way" v="residential" />
+    <tag id="223957918" k="source" o="none" type="way" v="Bing" />
+    <tag id="223957918" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224045593" k="source" o="none" type="way" v="Bing" />
+    <tag id="224045593" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224045594" k="source" o="none" type="way" v="Bing" />
+    <tag id="224045594" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224045598" k="source" o="none" type="way" v="Bing" />
+    <tag id="224045598" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224191192" k="source" o="none" type="way" v="Bing" />
+    <tag id="224191192" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224191197" k="source" o="none" type="way" v="Bing" />
+    <tag id="224191197" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224191198" k="source" o="none" type="way" v="Bing" />
+    <tag id="224191198" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224191205" k="source" o="none" type="way" v="Bing" />
+    <tag id="224191205" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224194420" k="source" o="none" type="way" v="Bing" />
+    <tag id="224194420" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224195950" k="name" o="none" type="way" v="Castle Park" />
+    <tag id="224195950" k="source" o="none" type="way" v="Bing" />
+    <tag id="224195950" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224195950" k="name:en" o="none" type="way" v="Castle Park" />
+    <tag id="224195950" k="name:ga" o="none" type="way" v="P&#225;irc an Chaisle&#225;in" />
+    <tag id="224195951" k="name" o="none" type="way" v="Glenview Park" />
+    <tag id="224195951" k="source" o="none" type="way" v="Bing" />
+    <tag id="224195951" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224195951" k="name:en" o="none" type="way" v="Glenview Park" />
+    <tag id="224195951" k="name:ga" o="none" type="way" v="P&#225;irc Radharc an Ghleanna" />
+    <tag id="224260683" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260683" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224260685" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260685" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224260686" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260686" k="landuse" o="none" type="way" v="grass" />
+    <tag id="224260691" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260691" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224260692" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260692" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224260694" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260694" k="landuse" o="none" type="way" v="residential" />
+    <tag id="224260697" k="source" o="none" type="way" v="Bing" />
+    <tag id="224260697" k="landuse" o="none" type="way" v="residential" />
+    <tag id="225190126" k="source" o="none" type="way" v="Bing" />
+    <tag id="225190126" k="landuse" o="none" type="way" v="residential" />
+    <tag id="225190130" k="source" o="none" type="way" v="Bing" />
+    <tag id="225190130" k="landuse" o="none" type="way" v="residential" />
+    <tag id="225471691" k="source" o="none" type="way" v="Bing" />
+    <tag id="225471691" k="landuse" o="none" type="way" v="grass" />
+    <tag id="225618333" k="source" o="none" type="way" v="Bing" />
+    <tag id="225618333" k="landuse" o="none" type="way" v="residential" />
+    <tag id="225618334" k="source" o="none" type="way" v="Bing" />
+    <tag id="225618334" k="landuse" o="none" type="way" v="residential" />
+    <tag id="225871672" k="source" o="none" type="way" v="Bing" />
+    <tag id="225871672" k="landuse" o="none" type="way" v="residential" />
+    <tag id="226149899" k="source" o="none" type="way" v="Bing" />
+    <tag id="226149899" k="landuse" o="none" type="way" v="residential" />
+    <tag id="226645234" k="source" o="none" type="way" v="Bing" />
+    <tag id="226645234" k="landuse" o="none" type="way" v="grass" />
+    <tag id="226645235" k="source" o="none" type="way" v="Bing" />
+    <tag id="226645235" k="landuse" o="none" type="way" v="grass" />
+    <tag id="226664675" k="source" o="none" type="way" v="Bing" />
+    <tag id="226664675" k="landuse" o="none" type="way" v="grass" />
+    <tag id="226664676" k="source" o="none" type="way" v="Bing" />
+    <tag id="226664676" k="landuse" o="none" type="way" v="grass" />
+    <tag id="226664678" k="source" o="none" type="way" v="Bing" />
+    <tag id="226664678" k="landuse" o="none" type="way" v="grass" />
+    <tag id="226827299" k="source" o="none" type="way" v="Bing" />
+    <tag id="226827299" k="landuse" o="none" type="way" v="grass" />
+    <tag id="226905161" k="source" o="none" type="way" v="Bing" />
+    <tag id="226905161" k="landuse" o="none" type="way" v="residential" />
+    <tag id="227052539" k="source" o="none" type="way" v="Bing" />
+    <tag id="227052539" k="landuse" o="none" type="way" v="residential" />
+    <tag id="227052986" k="source" o="none" type="way" v="Bing" />
+    <tag id="227052986" k="natural" o="none" type="way" v="wood" />
+    <tag id="227070677" k="FIXME" o="none" type="way" v="This needs to be broken up" />
+    <tag id="227070677" k="source" o="none" type="way" v="Bing" />
+    <tag id="227070677" k="landuse" o="none" type="way" v="grass" />
+    <tag id="227408440" k="source" o="none" type="way" v="Bing" />
+    <tag id="227408440" k="landuse" o="none" type="way" v="residential" />
+    <tag id="227850939" k="source" o="none" type="way" v="Bing" />
+    <tag id="227850939" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228001278" k="source" o="none" type="way" v="Bing" />
+    <tag id="228001278" k="landuse" o="none" type="way" v="grass" />
+    <tag id="228001279" k="source" o="none" type="way" v="Bing" />
+    <tag id="228001279" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228017937" k="source" o="none" type="way" v="Bing" />
+    <tag id="228017937" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228088113" k="source" o="none" type="way" v="Bing" />
+    <tag id="228088113" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228092984" k="source" o="none" type="way" v="Bing" />
+    <tag id="228092984" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228463541" k="source" o="none" type="way" v="Bing" />
+    <tag id="228463541" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228463545" k="source" o="none" type="way" v="Bing" />
+    <tag id="228463545" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228463546" k="source" o="none" type="way" v="Bing" />
+    <tag id="228463546" k="landuse" o="none" type="way" v="residential" />
+    <tag id="228463547" k="source" o="none" type="way" v="Bing" />
+    <tag id="228463547" k="landuse" o="none" type="way" v="residential" />
+    <tag id="229933433" k="source" o="none" type="way" v="Bing" />
+    <tag id="229933433" k="landuse" o="none" type="way" v="residential" />
+    <tag id="232360596" k="source" o="none" type="way" v="Bing" />
+    <tag id="232360596" k="landuse" o="none" type="way" v="grass" />
+    <tag id="232360597" k="source" o="none" type="way" v="Bing" />
+    <tag id="232360597" k="landuse" o="none" type="way" v="grass" />
+    <tag id="232366897" k="source" o="none" type="way" v="Bing" />
+    <tag id="232366897" k="landuse" o="none" type="way" v="residential" />
+    <tag id="237099255" k="name" o="none" type="way" v="River Ryton" />
+    <tag id="237099255" k="source" o="none" type="way" v="View from path;OS_OpenData_StreetView" />
+    <tag id="237099255" k="waterway" o="none" type="way" v="river" />
+    <tag id="239301726" k="ref" o="none" type="way" v="10b" />
+    <tag id="239301726" k="area" o="none" type="way" v="yes" />
+    <tag id="239301726" k="layer" o="none" type="way" v="-1" />
+    <tag id="239301726" k="level" o="none" type="way" v="-1" />
+    <tag id="239301726" k="railway" o="none" type="way" v="platform" />
+    <tag id="239301726" k="public_transport" o="none" type="way" v="platform" />
+    <tag id="241875257" k="source" o="none" type="way" v="Bing" />
+    <tag id="241875257" k="landuse" o="none" type="way" v="grass" />
+    <tag id="241881489" k="name" o="none" type="way" v="Hampton Wood" />
+    <tag id="241881489" k="source" o="none" type="way" v="Bing" />
+    <tag id="241881489" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241919339" k="source" o="none" type="way" v="Bing" />
+    <tag id="241919339" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241919340" k="source" o="none" type="way" v="Bing" />
+    <tag id="241919340" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241919341" k="source" o="none" type="way" v="Bing" />
+    <tag id="241919341" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241987289" k="source" o="none" type="way" v="Bing" />
+    <tag id="241987289" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241987290" k="source" o="none" type="way" v="Bing" />
+    <tag id="241987290" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241987292" k="source" o="none" type="way" v="Bing" />
+    <tag id="241987292" k="landuse" o="none" type="way" v="residential" />
+    <tag id="241987294" k="source" o="none" type="way" v="Bing" />
+    <tag id="241987294" k="landuse" o="none" type="way" v="grass" />
+    <tag id="241987295" k="source" o="none" type="way" v="Bing" />
+    <tag id="241987295" k="landuse" o="none" type="way" v="residential" />
+    <tag id="248631557" k="name" o="none" type="way" v="Windsor Lawn Tennis Club" />
+    <tag id="248631557" k="sport" o="none" type="way" v="tennis" />
+    <tag id="248631557" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="248631557" k="website" o="none" type="way" v="http://www.windsortennis.co.uk/" />
+    <tag id="255319862" k="name" o="none" type="way" v="River Ryton" />
+    <tag id="255319862" k="waterway" o="none" type="way" v="river" />
+    <tag id="256315933" k="landuse" o="none" type="way" v="grass" />
+    <tag id="256871867" k="landuse" o="none" type="way" v="residential" />
+    <tag id="257111080" k="highway" o="none" type="way" v="footway" />
+    <tag id="264454261" k="name" o="none" type="way" v="Balrothery" />
+    <tag id="264454261" k="source" o="none" type="way" v="Bing" />
+    <tag id="264454261" k="landuse" o="none" type="way" v="residential" />
+    <tag id="264454261" k="name:en" o="none" type="way" v="Balrothery" />
+    <tag id="264454261" k="name:ga" o="none" type="way" v="Baile an Ridire" />
+    <tag id="264454263" k="name" o="none" type="way" v="Castle Lawns" />
+    <tag id="264454263" k="source" o="none" type="way" v="Bing" />
+    <tag id="264454263" k="landuse" o="none" type="way" v="residential" />
+    <tag id="264454263" k="name:en" o="none" type="way" v="Castle Lawns" />
+    <tag id="264454263" k="name:ga" o="none" type="way" v="Pl&#225;s&#243;ga an Chaisle&#225;in" />
+    <tag id="264454264" k="name" o="none" type="way" v="Glenview Lawns" />
+    <tag id="264454264" k="source" o="none" type="way" v="Bing" />
+    <tag id="264454264" k="landuse" o="none" type="way" v="residential" />
+    <tag id="264454264" k="name:en" o="none" type="way" v="Glenview Lawns" />
+    <tag id="264454264" k="name:ga" o="none" type="way" v="Pl&#225;s&#243;ga Radharc an Ghleanna" />
+    <tag id="264454266" k="source" o="none" type="way" v="Bing" />
+    <tag id="264454266" k="landuse" o="none" type="way" v="residential" />
+    <tag id="268490149" k="route" o="none" type="way" v="bus" />
+    <tag id="268490149" k="oneway" o="none" type="way" v="yes" />
+    <tag id="268490149" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="270897674" k="route" o="none" type="way" v="bus" />
+    <tag id="270897674" k="oneway" o="none" type="way" v="yes" />
+    <tag id="270897674" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="276797338" k="source" o="none" type="way" v="foot survey" />
+    <tag id="276797338" k="highway" o="none" type="way" v="footway" />
+    <tag id="302162659" k="waterway" o="none" type="way" v="riverbank" />
+    <tag id="311063426" k="oneway" o="none" type="way" v="yes" />
+    <tag id="311063426" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="385668526" k="oneway" o="none" type="way" v="yes" />
+    <tag id="385668526" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="385668526" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="385669425" k="oneway" o="none" type="way" v="yes" />
+    <tag id="385669425" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="385669425" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="385669426" k="oneway" o="none" type="way" v="yes" />
+    <tag id="385669426" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="385669426" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="385669427" k="oneway" o="none" type="way" v="yes" />
+    <tag id="385669427" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="385669427" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="392551627" k="ref" o="none" type="way" v="4a" />
+    <tag id="392551627" k="area" o="none" type="way" v="yes" />
+    <tag id="392551627" k="layer" o="none" type="way" v="-1" />
+    <tag id="392551627" k="level" o="none" type="way" v="-1" />
+    <tag id="392551627" k="railway" o="none" type="way" v="platform" />
+    <tag id="392551627" k="public_transport" o="none" type="way" v="platform" />
+    <tag id="400891424" k="name" o="none" type="way" v="River Torne" />
+    <tag id="400891424" k="waterway" o="none" type="way" v="river" />
+    <tag id="428098832" k="foot" o="none" type="way" v="yes" />
+    <tag id="428098832" k="name" o="none" type="way" v="Coast Road Cycleway" />
+    <tag id="428098832" k="source" o="none" type="way" v="Bing, local knowledge" />
+    <tag id="428098832" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="428098832" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="428098832" k="cycleway" o="none" type="way" v="track" />
+    <tag id="428098832" k="segregated" o="none" type="way" v="no" />
+    <tag id="428098834" k="foot" o="none" type="way" v="yes" />
+    <tag id="428098834" k="name" o="none" type="way" v="Coast Road Cycleway" />
+    <tag id="428098834" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="428098834" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="428098834" k="cycleway" o="none" type="way" v="track" />
+    <tag id="428098834" k="segregated" o="none" type="way" v="no" />
+    <tag id="467258929" k="route" o="none" type="way" v="bus" />
+    <tag id="467258929" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="477044670" k="source" o="none" type="way" v="Bing" />
+    <tag id="477044670" k="landuse" o="none" type="way" v="residential" />
+    <tag id="487071788" k="source" o="none" type="way" v="Bing" />
+    <tag id="487071788" k="landuse" o="none" type="way" v="grass" />
+    <tag id="488321313" k="foot" o="add" type="way" v="yes" />
+    <tag id="488321313" k="name" o="add" type="way" v="Polmuir Road" />
+    <tag id="488321313" k="horse" o="add" type="way" v="yes" />
+    <tag id="488321313" k="oneway" o="add" type="way" v="no" />
+    <tag id="488321313" k="source" o="add" type="way" v="yahoo tracing" />
+    <tag id="488321313" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="488321313" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="488321313" k="maxspeed" o="add" type="way" v="20 mph" />
+    <tag id="488321313" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="488321316" k="foot" o="add" type="way" v="yes" />
+    <tag id="488321316" k="name" o="add" type="way" v="Polmuir Road" />
+    <tag id="488321316" k="horse" o="add" type="way" v="yes" />
+    <tag id="488321316" k="layer" o="add" type="way" v="-1" />
+    <tag id="488321316" k="oneway" o="add" type="way" v="no" />
+    <tag id="488321316" k="source" o="add" type="way" v="yahoo tracing" />
+    <tag id="488321316" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="488321316" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="488321316" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="488321316" k="maxspeed" o="add" type="way" v="20 mph" />
+    <tag id="488321316" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="488321320" k="foot" o="add" type="way" v="yes" />
+    <tag id="488321320" k="name" o="add" type="way" v="The Cinder Track" />
+    <tag id="488321320" k="layer" o="add" type="way" v="1" />
+    <tag id="488321320" k="access" o="add" type="way" v="yes" />
+    <tag id="488321320" k="bridge" o="add" type="way" v="yes" />
+    <tag id="488321320" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="488321320" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="488321320" k="railway" o="add" type="way" v="abandoned" />
+    <tag id="488321320" k="segregated" o="add" type="way" v="no" />
+    <tag id="488321320" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="488321324" k="foot" o="add" type="way" v="yes" />
+    <tag id="488321324" k="name" o="add" type="way" v="The Cinder Track" />
+    <tag id="488321324" k="access" o="add" type="way" v="yes" />
+    <tag id="488321324" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="488321324" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="488321324" k="railway" o="add" type="way" v="abandoned" />
+    <tag id="488321324" k="segregated" o="add" type="way" v="no" />
+    <tag id="488321324" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="488321327" k="foot" o="add" type="way" v="yes" />
+    <tag id="488321327" k="name" o="add" type="way" v="Brook Farm Lane" />
+    <tag id="488321327" k="access" o="add" type="way" v="yes" />
+    <tag id="488321327" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="488321327" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="488321327" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="488321330" k="oneway" o="add" type="way" v="yes" />
+    <tag id="488321330" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="488321330" k="highway" o="add" type="way" v="service" />
+    <tag id="488321332" k="oneway" o="add" type="way" v="yes" />
+    <tag id="488321332" k="highway" o="add" type="way" v="service" />
+    <tag id="488321334" k="oneway" o="add" type="way" v="-1" />
+    <tag id="488321334" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="488321334" k="highway" o="add" type="way" v="service" />
+    <tag id="488321336" k="oneway" o="add" type="way" v="-1" />
+    <tag id="488321336" k="highway" o="add" type="way" v="service" />
+    <tag id="488321338" k="oneway" o="add" type="way" v="yes" />
+    <tag id="488321338" k="highway" o="add" type="way" v="service" />
+    <tag id="488321340" k="oneway" o="add" type="way" v="yes" />
+    <tag id="488321340" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="488321340" k="highway" o="add" type="way" v="service" />
+    <tag id="9579" k="ref" o="none" type="relation" v="1" />
+    <tag id="9579" k="name" o="none" type="relation" v="NCN National Route 1" />
+    <tag id="9579" k="note" o="none" type="relation" v="King's Lynn to Dundee, also part of the North Sea Cycle Route" />
+    <tag id="9579" k="type" o="none" type="relation" v="route" />
+    <tag id="9579" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="9579" k="source" o="none" type="relation" v="survey" />
+    <tag id="9579" k="network" o="none" type="relation" v="ncn" />
+    <tag id="9579" k="website" o="none" type="relation" v="http://www.sustrans.org.uk/ncn/map/route/route-1" />
+    <tag id="9579" k="operator" o="none" type="relation" v="Sustrans" />
+    <tag id="9579" k="wikidata" o="none" type="relation" v="Q6972039" />
+    <tag id="9579" k="wikipedia" o="none" type="relation" v="en:National Cycle Route 1" />
+    <tag id="2767188" k="ref" o="none" type="relation" v="EV12" />
+    <tag id="2767188" k="name" o="none" type="relation" v="EuroVelo 12 - part United Kingdom" />
+    <tag id="2767188" k="type" o="none" type="relation" v="route" />
+    <tag id="2767188" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="2767188" k="icn_ref" o="none" type="relation" v="EV12" />
+    <tag id="2767188" k="name:de" o="none" type="relation" v="EuroVelo 12 - Abschnitt Gro&#223;britannien" />
+    <tag id="2767188" k="name:en" o="none" type="relation" v="North Sea Cycle Route - part United Kingdom" />
+    <tag id="2767188" k="name:pl" o="none" type="relation" v="Szlak Rowerowy Morza P&#243;&#322;nocnego - cz&#281;&#347;&#263; Wielka Brytania" />
+    <tag id="2767188" k="network" o="none" type="relation" v="icn" />
+    <tag id="2767188" k="alt_name" o="none" type="relation" v="North Sea Cycle Route - part United Kingdom" />
+    <tag id="2767188" k="wikidata" o="none" type="relation" v="Q456594" />
+    <tag id="2767188" k="wikipedia" o="none" type="relation" v="en:North Sea Cycle Route" />
+    <tag id="5699311" k="ref" o="none" type="relation" v="Moors to Sea" />
+    <tag id="5699311" k="name" o="none" type="relation" v="Moors to Sea Network" />
+    <tag id="5699311" k="type" o="none" type="relation" v="route" />
+    <tag id="5699311" k="route" o="none" type="relation" v="mtb" />
+    <tag id="5699311" k="mtb:type" o="none" type="relation" v="crosscountry" />
+  </body>
+</changeset>

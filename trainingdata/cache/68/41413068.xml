@@ -1,0 +1,947 @@
+<changeset id="41413068" schema="2">
+  <counts nodesAdded="53" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="65" waysDeleted="0" waysModified="15" />
+  <meta>
+    <tag k="comment" v="Add missing turn lanes from satellite imagery in Phoenix https://github.com/mapbox/mapping/issues/180" />
+    <tag k="created_by" v="JOSM/1.5 (10526 en)" />
+    <tag k="source" v="Bing/Mapbox/USGS Large Scale Imagery" />
+  </meta>
+  <body>
+    <tag id="243126270" k="name" o="none" type="way" v="North Litchfield Road" />
+    <tag id="243126270" k="oneway" o="none" type="way" v="yes" />
+    <tag id="243126270" k="highway" o="none" type="way" v="secondary" />
+    <tag id="243126270" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="243126270" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="243126295" k="name" o="none" type="way" v="North Litchfield Road" />
+    <tag id="243126295" k="oneway" o="none" type="way" v="yes" />
+    <tag id="243126295" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="243126295" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="319815681" k="name" o="none" type="way" v="North Litchfield Road" />
+    <tag id="319815681" k="oneway" o="none" type="way" v="yes" />
+    <tag id="319815681" k="highway" o="none" type="way" v="secondary" />
+    <tag id="319815681" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="319815681" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="319815682" k="name" o="none" type="way" v="North Litchfield Road" />
+    <tag id="319815682" k="lanes" o="add" type="way" v="4" />
+    <tag id="319815682" k="oneway" o="none" type="way" v="yes" />
+    <tag id="319815682" k="highway" o="none" type="way" v="secondary" />
+    <tag id="319815682" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="319815682" k="turn:lanes" o="add" type="way" v="left|||right" />
+    <tag id="404139486" k="NHS" o="none" type="way" v="STRAHNET" />
+    <tag id="404139486" k="hgv" o="none" type="way" v="designated" />
+    <tag id="404139486" k="ref" o="none" type="way" v="US 60" />
+    <tag id="404139486" k="name" o="none" type="way" v="West Grand Avenue" />
+    <tag id="404139486" k="lanes" o="none" type="way" v="3" />
+    <tag id="404139486" k="name_1" o="none" type="way" v="Phoenix-Wickenburg Hwy" />
+    <tag id="404139486" k="oneway" o="none" type="way" v="yes" />
+    <tag id="404139486" k="fut_ref" o="none" type="way" v="US 60" />
+    <tag id="404139486" k="highway" o="none" type="way" v="construction" />
+    <tag id="404139486" k="old_ref" o="none" type="way" v="US 70;US 89;AZ 93" />
+    <tag id="404139486" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="404139486" k="adot_name" o="none" type="way" v="Wickenburg-Phoenix Highway" />
+    <tag id="404139486" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="404139486" k="construction" o="none" type="way" v="trunk" />
+    <tag id="404139486" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="404139486" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="404139486" k="tiger:zip_left" o="none" type="way" v="85335" />
+    <tag id="404139486" k="tiger:name_base" o="none" type="way" v="Grand" />
+    <tag id="404139486" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="404139486" k="tiger:zip_right" o="none" type="way" v="85009" />
+    <tag id="404139486" k="tiger:name_base_1" o="none" type="way" v="State Highway 93" />
+    <tag id="404139486" k="tiger:name_base_2" o="none" type="way" v="United States Highway 60" />
+    <tag id="404139486" k="tiger:name_base_3" o="none" type="way" v="United States Highway 89" />
+    <tag id="404139486" k="tiger:name_base_4" o="none" type="way" v="Phoenix-Wickenburg" />
+    <tag id="404139486" k="tiger:name_type_4" o="none" type="way" v="Hwy" />
+    <tag id="404139486" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="404139486" k="source:hgv:national_network" o="none" type="way" v="Title%2023:%20Highways%20Part%20658%20http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="404139486" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="407115763" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="407115763" k="lanes" o="none" type="way" v="3" />
+    <tag id="407115763" k="oneway" o="none" type="way" v="yes" />
+    <tag id="407115763" k="highway" o="none" type="way" v="primary" />
+    <tag id="407115763" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="407115763" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="407115763" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="407115763" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="407115763" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="407115763" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="407115763" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="407115763" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="407115763" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="407115763" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="407115767" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="407115767" k="lanes" o="none" type="way" v="3" />
+    <tag id="407115767" k="access" o="none" type="way" v="no" />
+    <tag id="407115767" k="oneway" o="none" type="way" v="yes" />
+    <tag id="407115767" k="highway" o="none" type="way" v="construction" />
+    <tag id="407115767" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="407115767" k="construction" o="none" type="way" v="primary" />
+    <tag id="407115767" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="407115767" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="407115767" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="407115767" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="407115767" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="407115767" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="407115767" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="407197448" k="name" o="none" type="way" v="North Litchfield Road" />
+    <tag id="407197448" k="oneway" o="none" type="way" v="yes" />
+    <tag id="407197448" k="highway" o="none" type="way" v="secondary" />
+    <tag id="407197448" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="409631847" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="409631847" k="lanes" o="none" type="way" v="3" />
+    <tag id="409631847" k="access" o="none" type="way" v="no" />
+    <tag id="409631847" k="oneway" o="none" type="way" v="yes" />
+    <tag id="409631847" k="highway" o="none" type="way" v="construction" />
+    <tag id="409631847" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="409631847" k="construction" o="none" type="way" v="primary" />
+    <tag id="409631847" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="409631847" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="409631847" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="409631847" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="409631847" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="409631847" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="409631847" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="409631853" k="lanes" o="none" type="way" v="1" />
+    <tag id="409631853" k="layer" o="none" type="way" v="1" />
+    <tag id="409631853" k="bridge" o="none" type="way" v="yes" />
+    <tag id="409631853" k="oneway" o="none" type="way" v="yes" />
+    <tag id="409631853" k="highway" o="none" type="way" v="construction" />
+    <tag id="409631853" k="maxspeed" o="none" type="way" v="15 mph" />
+    <tag id="409631853" k="construction" o="none" type="way" v="trunk_link" />
+    <tag id="409631855" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="409631855" k="lanes" o="none" type="way" v="3" />
+    <tag id="409631855" k="layer" o="none" type="way" v="1" />
+    <tag id="409631855" k="access" o="none" type="way" v="no" />
+    <tag id="409631855" k="bridge" o="none" type="way" v="yes" />
+    <tag id="409631855" k="oneway" o="none" type="way" v="yes" />
+    <tag id="409631855" k="highway" o="none" type="way" v="construction" />
+    <tag id="409631855" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="409631855" k="construction" o="none" type="way" v="primary" />
+    <tag id="409631855" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="409631855" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="409631855" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="409631855" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="409631855" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="409631855" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="409631855" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="409631856" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="409631856" k="lanes" o="none" type="way" v="3" />
+    <tag id="409631856" k="layer" o="none" type="way" v="1" />
+    <tag id="409631856" k="access" o="none" type="way" v="no" />
+    <tag id="409631856" k="bridge" o="none" type="way" v="yes" />
+    <tag id="409631856" k="oneway" o="none" type="way" v="yes" />
+    <tag id="409631856" k="highway" o="none" type="way" v="construction" />
+    <tag id="409631856" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="409631856" k="construction" o="none" type="way" v="primary" />
+    <tag id="409631856" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="409631856" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="409631856" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="409631856" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="409631856" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="409631856" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="409631856" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="409631858" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="409631858" k="lanes" o="none" type="way" v="3" />
+    <tag id="409631858" k="access" o="none" type="way" v="no" />
+    <tag id="409631858" k="oneway" o="none" type="way" v="yes" />
+    <tag id="409631858" k="highway" o="none" type="way" v="construction" />
+    <tag id="409631858" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="409631858" k="construction" o="none" type="way" v="primary" />
+    <tag id="409631858" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="409631858" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="409631858" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="409631858" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="409631858" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="409631858" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="409631858" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="414348879" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="414348879" k="lanes" o="none" type="way" v="3" />
+    <tag id="414348879" k="oneway" o="none" type="way" v="yes" />
+    <tag id="414348879" k="highway" o="none" type="way" v="primary" />
+    <tag id="414348879" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="414348879" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="414348879" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="414348879" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="414348879" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="414348879" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="414348879" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="414348879" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="414348879" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="414348879" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="436896934" k="name" o="none" type="way" v="West Bell Road" />
+    <tag id="436896934" k="lanes" o="none" type="way" v="3" />
+    <tag id="436896934" k="oneway" o="none" type="way" v="yes" />
+    <tag id="436896934" k="highway" o="none" type="way" v="primary" />
+    <tag id="436896934" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="436896934" k="tiger:county" o="none" type="way" v="Maricopa, AZ" />
+    <tag id="436896934" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="436896934" k="tiger:zip_left" o="none" type="way" v="85374" />
+    <tag id="436896934" k="tiger:name_base" o="none" type="way" v="Bell" />
+    <tag id="436896934" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="436896934" k="tiger:zip_right" o="none" type="way" v="85374" />
+    <tag id="436896934" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="436898728" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898728" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898728" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898728" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898728" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="436898728" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898728" k="turn:lanes" o="add" type="way" v="||right" />
+    <tag id="436898729" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898729" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898729" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898729" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898729" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="436898729" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898729" k="turn:lanes" o="add" type="way" v="left||" />
+    <tag id="436898730" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898730" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898730" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898730" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898731" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898731" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898731" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898731" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898731" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="436898731" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898731" k="turn:lanes" o="add" type="way" v="left||" />
+    <tag id="436898732" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898732" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898732" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898732" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898733" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898733" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898733" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898733" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898733" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898733" k="turn:lanes" o="add" type="way" v="left||" />
+    <tag id="436898734" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898734" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898734" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898734" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="436898734" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898735" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898735" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898735" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898735" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="436898735" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898736" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898736" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898736" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="436898736" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="436898737" k="name" o="add" type="way" v="North Litchfield Road" />
+    <tag id="436898737" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898737" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898737" k="highway" o="add" type="way" v="secondary" />
+    <tag id="436898737" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898737" k="turn:lanes" o="add" type="way" v="left||" />
+    <tag id="436898738" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898738" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898738" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898738" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898738" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898738" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898738" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898738" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898738" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898738" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898738" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898738" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898738" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898738" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898739" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898739" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898739" k="access" o="add" type="way" v="no" />
+    <tag id="436898739" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898739" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898739" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898739" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898739" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898739" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898739" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898739" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898739" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898739" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898739" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898739" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898740" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898740" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898740" k="access" o="add" type="way" v="no" />
+    <tag id="436898740" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898740" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898740" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898740" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898740" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898740" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898740" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898740" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898740" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898740" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898740" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898741" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898741" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898741" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898741" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898741" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898741" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898741" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898741" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898741" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898741" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898741" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898741" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898741" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898741" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898741" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898742" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898742" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898742" k="layer" o="add" type="way" v="1" />
+    <tag id="436898742" k="access" o="add" type="way" v="no" />
+    <tag id="436898742" k="bridge" o="add" type="way" v="yes" />
+    <tag id="436898742" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898742" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898742" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898742" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898742" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898742" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898742" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898742" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898742" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898742" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898742" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898743" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898743" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898743" k="layer" o="add" type="way" v="1" />
+    <tag id="436898743" k="access" o="add" type="way" v="no" />
+    <tag id="436898743" k="bridge" o="add" type="way" v="yes" />
+    <tag id="436898743" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898743" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898743" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898743" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898743" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898743" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898743" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898743" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898743" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898743" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898743" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898743" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898744" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898744" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898744" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898744" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898744" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898744" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898744" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898744" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898744" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898744" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898744" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898744" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898744" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898744" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898744" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898745" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898745" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898745" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898745" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898745" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898745" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898745" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898745" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898745" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898745" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898745" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898745" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898745" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898745" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898746" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898746" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898746" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898746" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898746" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898746" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898746" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898746" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898746" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898746" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898746" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898746" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898746" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898746" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898747" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898747" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898747" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898747" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898747" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898747" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898747" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898747" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898747" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898747" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898747" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898747" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898747" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898747" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898748" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898748" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898748" k="access" o="add" type="way" v="no" />
+    <tag id="436898748" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898748" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898748" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898748" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898748" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898748" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898748" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898748" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898748" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898748" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898748" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898748" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898750" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898750" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898750" k="access" o="add" type="way" v="no" />
+    <tag id="436898750" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898750" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898750" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898750" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898750" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898750" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898750" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898750" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898750" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898750" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898750" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898750" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898751" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898751" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898751" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898751" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898751" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898751" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898751" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898751" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898751" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898751" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898751" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898751" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898751" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898751" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898752" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898752" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898752" k="access" o="add" type="way" v="no" />
+    <tag id="436898752" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898752" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898752" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898752" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898752" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898752" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898752" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898752" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898752" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898752" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898752" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898752" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898753" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898753" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898753" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898753" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898753" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898753" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898753" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898753" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898753" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898753" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898753" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898753" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898753" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898753" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898754" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898754" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898754" k="access" o="add" type="way" v="no" />
+    <tag id="436898754" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898754" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898754" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898754" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898754" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898754" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898754" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898754" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898754" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898754" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898754" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898754" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898755" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898755" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898755" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898755" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898755" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898755" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898755" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898755" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898755" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898755" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898755" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898755" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898755" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898755" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898755" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898756" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898756" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898756" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898756" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898756" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898756" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898756" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898756" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898756" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898756" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898756" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898756" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898756" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898756" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898756" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898757" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898757" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898757" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898757" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898757" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898757" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898757" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898757" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898757" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898757" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898757" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898757" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898757" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898757" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898758" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898758" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898758" k="layer" o="add" type="way" v="1" />
+    <tag id="436898758" k="access" o="add" type="way" v="no" />
+    <tag id="436898758" k="bridge" o="add" type="way" v="yes" />
+    <tag id="436898758" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898758" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898758" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898758" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898758" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898758" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898758" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898758" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898758" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898758" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898758" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898758" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898759" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898759" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898759" k="access" o="add" type="way" v="no" />
+    <tag id="436898759" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898759" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898759" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898759" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898759" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898759" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898759" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898759" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898759" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898759" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898759" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898759" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898760" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898760" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898760" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898760" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898760" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898760" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898760" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898760" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898760" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898760" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898760" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898760" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898760" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898760" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898760" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898761" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898761" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898761" k="access" o="add" type="way" v="no" />
+    <tag id="436898761" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898761" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898761" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898761" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898761" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898761" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898761" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898761" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898761" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898761" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898761" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898761" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898762" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898762" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898762" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898762" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898762" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898762" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898762" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898762" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898762" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898762" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898762" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898762" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898762" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898763" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898763" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898763" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898763" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898763" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898763" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898763" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898763" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898763" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898763" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898763" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898763" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898763" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898763" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898763" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898764" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898764" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898764" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898764" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898764" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898764" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898764" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898764" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898764" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898764" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898764" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898764" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898764" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898764" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898764" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898765" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898765" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898765" k="layer" o="add" type="way" v="1" />
+    <tag id="436898765" k="access" o="add" type="way" v="no" />
+    <tag id="436898765" k="bridge" o="add" type="way" v="yes" />
+    <tag id="436898765" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898765" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898765" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898765" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898765" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898765" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898765" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898765" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898765" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898765" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898765" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898765" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898766" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898766" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898766" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898766" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898766" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898766" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898766" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898766" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898766" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898766" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898766" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898766" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898766" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898766" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898766" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898767" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898767" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898767" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898767" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898767" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898767" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898767" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898767" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898767" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898767" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898767" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898767" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898767" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898767" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898767" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898768" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898768" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898768" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898768" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898768" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898768" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898768" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898768" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898768" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898768" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898768" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898768" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898768" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898768" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898768" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898769" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898769" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898769" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898769" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898769" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898769" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898769" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898769" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898769" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898769" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898769" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898769" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898769" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898769" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898769" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898770" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898770" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898770" k="access" o="add" type="way" v="no" />
+    <tag id="436898770" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898770" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898770" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898770" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898770" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898770" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898770" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898770" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898770" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898770" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898770" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898771" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898771" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898771" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898771" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898771" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898771" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898771" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898771" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898771" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898771" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898771" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898771" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898771" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898771" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898772" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898772" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898772" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898772" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898772" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898772" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898772" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898772" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898772" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898772" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898772" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898772" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898772" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898772" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898772" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898773" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898773" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898773" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898773" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898773" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898773" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898773" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898773" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898773" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898773" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898773" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898773" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898773" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898773" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898773" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898774" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898774" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898774" k="access" o="add" type="way" v="no" />
+    <tag id="436898774" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898774" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898774" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898774" k="turn:lanes" o="add" type="way" v="left|||" />
+    <tag id="436898774" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898774" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898774" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898774" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898774" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898774" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898774" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898774" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898775" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898775" k="lanes" o="add" type="way" v="4" />
+    <tag id="436898775" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898775" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898775" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898775" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898775" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898775" k="turn:lanes" o="add" type="way" v="|||right" />
+    <tag id="436898775" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898775" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898775" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898775" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898775" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898775" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898775" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898776" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898776" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898776" k="access" o="add" type="way" v="no" />
+    <tag id="436898776" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898776" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898776" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898776" k="turn:lanes" o="add" type="way" v="left||||right" />
+    <tag id="436898776" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898776" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898776" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898776" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898776" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898776" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898776" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898776" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898777" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898777" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898777" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898777" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898777" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898777" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898777" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898777" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898777" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898777" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898777" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898777" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898777" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898777" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898778" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898778" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898778" k="access" o="add" type="way" v="no" />
+    <tag id="436898778" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898778" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898778" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898778" k="construction" o="add" type="way" v="primary" />
+    <tag id="436898778" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898778" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898778" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898778" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898778" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898778" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898778" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898779" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898779" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898779" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898779" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898779" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898779" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898779" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898779" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898779" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898779" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898779" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898779" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898779" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898779" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898780" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898780" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898780" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898780" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898780" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898780" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898780" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898780" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898780" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898780" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898780" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898780" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898780" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898780" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898781" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898781" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898781" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898781" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898781" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898781" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898781" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898781" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898781" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898781" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898781" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898781" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898781" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898781" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898782" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898782" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898782" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898782" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898782" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898782" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898782" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898782" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898782" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898782" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898782" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898782" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898782" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898782" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898783" k="name" o="add" type="way" v="West Bell Road" />
+    <tag id="436898783" k="lanes" o="add" type="way" v="3" />
+    <tag id="436898783" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898783" k="highway" o="add" type="way" v="primary" />
+    <tag id="436898783" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="436898783" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898783" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="436898783" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898783" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="436898783" k="tiger:zip_left" o="add" type="way" v="85374" />
+    <tag id="436898783" k="tiger:name_base" o="add" type="way" v="Bell" />
+    <tag id="436898783" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="436898783" k="tiger:zip_right" o="add" type="way" v="85374" />
+    <tag id="436898783" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898784" k="NHS" o="add" type="way" v="STRAHNET" />
+    <tag id="436898784" k="hgv" o="add" type="way" v="designated" />
+    <tag id="436898784" k="ref" o="add" type="way" v="US 60" />
+    <tag id="436898784" k="name" o="add" type="way" v="West Grand Avenue" />
+    <tag id="436898784" k="lanes" o="add" type="way" v="5" />
+    <tag id="436898784" k="name_1" o="add" type="way" v="Phoenix-Wickenburg Hwy" />
+    <tag id="436898784" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898784" k="fut_ref" o="add" type="way" v="US 60" />
+    <tag id="436898784" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898784" k="old_ref" o="add" type="way" v="US 70;US 89;AZ 93" />
+    <tag id="436898784" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="436898784" k="adot_name" o="add" type="way" v="Wickenburg-Phoenix Highway" />
+    <tag id="436898784" k="tiger:cfcc" o="add" type="way" v="A21" />
+    <tag id="436898784" k="turn:lanes" o="add" type="way" v="left|left|||" />
+    <tag id="436898784" k="construction" o="add" type="way" v="trunk" />
+    <tag id="436898784" k="tiger:county" o="add" type="way" v="Maricopa, AZ" />
+    <tag id="436898784" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="436898784" k="tiger:zip_left" o="add" type="way" v="85335" />
+    <tag id="436898784" k="tiger:name_base" o="add" type="way" v="Grand" />
+    <tag id="436898784" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="436898784" k="tiger:zip_right" o="add" type="way" v="85009" />
+    <tag id="436898784" k="tiger:name_base_1" o="add" type="way" v="State Highway 93" />
+    <tag id="436898784" k="tiger:name_base_2" o="add" type="way" v="United States Highway 60" />
+    <tag id="436898784" k="tiger:name_base_3" o="add" type="way" v="United States Highway 89" />
+    <tag id="436898784" k="tiger:name_base_4" o="add" type="way" v="Phoenix-Wickenburg" />
+    <tag id="436898784" k="tiger:name_type_4" o="add" type="way" v="Hwy" />
+    <tag id="436898784" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="436898784" k="source:hgv:national_network" o="add" type="way" v="Title%2023:%20Highways%20Part%20658%20http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="436898784" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="436898785" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="436898786" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="436898787" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="436898788" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="436898789" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="436898790" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="436898791" k="lanes" o="add" type="way" v="1" />
+    <tag id="436898791" k="layer" o="add" type="way" v="1" />
+    <tag id="436898791" k="bridge" o="add" type="way" v="yes" />
+    <tag id="436898791" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898791" k="highway" o="add" type="way" v="construction" />
+    <tag id="436898791" k="maxspeed" o="add" type="way" v="15 mph" />
+    <tag id="436898791" k="construction" o="add" type="way" v="trunk_link" />
+    <tag id="436898792" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898792" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="436898793" k="oneway" o="add" type="way" v="yes" />
+    <tag id="436898793" k="highway" o="add" type="way" v="primary_link" />
+  </body>
+</changeset>

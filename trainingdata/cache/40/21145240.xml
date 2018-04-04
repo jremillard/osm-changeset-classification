@@ -1,0 +1,55 @@
+<changeset id="21145240" schema="2">
+  <counts nodesAdded="0" nodesDeleted="3" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="0" waysModified="6" />
+  <meta>
+    <tag k="comment" v="revert CS 21140182 - Unfugsverlauf bei Waldackerkreuzung. Revert ohne Nachfrage, wie zum Abschluss des letzten Mailwechsels mit dem User angek&#252;ndigt." />
+    <tag k="created_by" v="JOSM/1.5 (6891 de);reverter_plugin/30307" />
+  </meta>
+  <body>
+    <tag id="33377321" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="272506793" k="highway" o="none" type="node" v="crossing" />
+    <tag id="272506793" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="272506793" k="traffic_signals:sound" o="none" type="node" v="no" />
+    <tag id="272506793" k="traffic_signals:vibration" o="none" type="node" v="no" />
+    <tag id="366183830" k="highway" o="none" type="node" v="crossing" />
+    <tag id="366183830" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="366183830" k="traffic_signals:sound" o="none" type="node" v="no" />
+    <tag id="366183830" k="traffic_signals:vibration" o="none" type="node" v="no" />
+    <tag id="32557825" k="ref" o="none" type="way" v="K 174" />
+    <tag id="32557825" k="lanes" o="none" type="way" v="1" />
+    <tag id="32557825" k="oneway" o="none" type="way" v="yes" />
+    <tag id="32557825" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="32557825" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="32557825" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="32557826" k="ref" o="none" type="way" v="K 174" />
+    <tag id="32557826" k="lanes" o="none" type="way" v="1" />
+    <tag id="32557826" k="oneway" o="none" type="way" v="yes" />
+    <tag id="32557826" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="32557826" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="32557826" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="121679480" k="ref" o="none" type="way" v="B 459" />
+    <tag id="121679480" k="highway" o="none" type="way" v="primary" />
+    <tag id="121679480" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="121679480" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="121679480" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="121679501" k="ref" o="none" type="way" v="K 174" />
+    <tag id="121679501" k="lanes" o="none" type="way" v="4" />
+    <tag id="121679501" k="highway" o="none" type="way" v="secondary" />
+    <tag id="121679501" k="lanes:forward" o="none" type="way" v="3" />
+    <tag id="121679501" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="172711251" k="ref" o="none" type="way" v="K 174" />
+    <tag id="172711251" k="name" o="none" type="way" v="Kreisquerverbindung" />
+    <tag id="172711251" k="highway" o="none" type="way" v="secondary" />
+    <tag id="217913555" k="ref" o="none" type="way" v="B 459" />
+    <tag id="217913555" k="lanes" o="none" type="way" v="3" />
+    <tag id="217913555" k="highway" o="none" type="way" v="primary" />
+    <tag id="217913555" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="217913555" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="217913555" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="217913555" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="217913555" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="2931133" k="type" o="add" type="relation" v="restriction" />
+    <tag id="2931133" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="2931134" k="type" o="add" type="relation" v="restriction" />
+    <tag id="2931134" k="restriction" o="add" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

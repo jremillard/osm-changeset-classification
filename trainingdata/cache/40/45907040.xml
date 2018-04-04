@@ -1,0 +1,423 @@
+<changeset id="45907040" schema="2">
+  <counts nodesAdded="0" nodesDeleted="13" nodesModified="43" relationsAdded="0" relationsDeleted="18" relationsModified="23" waysAdded="0" waysDeleted="10" waysModified="37" />
+  <meta>
+    <tag k="bot" v="yes" />
+    <tag k="comment" v="Reverting some Google Earth usage" />
+    <tag k="created_by" v="osmtools/30252 (linux)" />
+  </meta>
+  <body>
+    <tag id="250718900" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="250720837" k="highway" o="add" type="node" v="crossing" />
+    <tag id="250720837" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="303558048" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="360079225" k="highway" o="add" type="node" v="crossing" />
+    <tag id="360079225" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="844618058" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="844618072" k="highway" o="add" type="node" v="crossing" />
+    <tag id="844618088" k="highway" o="add" type="node" v="crossing" />
+    <tag id="844618090" k="highway" o="add" type="node" v="crossing" />
+    <tag id="844618090" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="844618097" k="highway" o="add" type="node" v="crossing" />
+    <tag id="844618151" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="844618171" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="844618174" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="844618183" k="highway" o="add" type="node" v="crossing" />
+    <tag id="1849640756" k="bus" o="add" type="node" v="yes" />
+    <tag id="1849640756" k="ref" o="add" type="node" v="720005" />
+    <tag id="1849640756" k="name" o="add" type="node" v="2&#951; &#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959; &#928;&#945;&#943;&#948;&#969;&#957;" />
+    <tag id="1849640756" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="1849640756" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="1849640756" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="1849640756" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2786680147" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786680147" k="name" o="add" type="node" v="1&#951; &#913;&#915;.&#924;&#913;&#929;&#921;&#925;&#919;&#931;" />
+    <tag id="2786680147" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786680147" k="shelter" o="add" type="node" v="no" />
+    <tag id="2786680147" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786680345" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786680345" k="name" o="add" type="node" v="&#913;&#915;.&#931;&#928;&#933;&#929;&#921;&#916;&#937;&#925;&#927;&#931;" />
+    <tag id="2786680345" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786680345" k="shelter" o="add" type="node" v="no" />
+    <tag id="2786680345" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786681954" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786681954" k="name" o="add" type="node" v="&#914;&#921;&#913;&#924;&#913;&#926;" />
+    <tag id="2786681954" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786681954" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786681954" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786682171" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786682171" k="name" o="add" type="node" v="&#915;&#913;&#929;&#916;&#917;&#925;&#921;&#913;" />
+    <tag id="2786682171" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786682171" k="shelter" o="add" type="node" v="no" />
+    <tag id="2786682171" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786682646" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786682646" k="ref" o="add" type="node" v="164;&#914;1" />
+    <tag id="2786682646" k="name" o="add" type="node" v="&#915;&#965;&#956;&#957;&#940;&#963;&#953;&#959;" />
+    <tag id="2786682646" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="2786682646" k="stop_id" o="add" type="node" v="110016" />
+    <tag id="2786682646" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786682646" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2786686240" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786686240" k="ref" o="add" type="node" v="470014" />
+    <tag id="2786686240" k="name" o="add" type="node" v="&#924;&#940;&#957;&#951;&#962;" />
+    <tag id="2786686240" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="2786686240" k="bench" o="add" type="node" v="yes" />
+    <tag id="2786686240" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786686240" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="2786686240" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786686240" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786686240" k="public_transport" o="add" type="node" v="platform;stop_position" />
+    <tag id="2786686841" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786686841" k="name" o="add" type="node" v="&#924;&#965;&#954;&#959;&#957;&#953;&#940;&#964;&#953;&#954;&#945;" />
+    <tag id="2786686841" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786686841" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786686841" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786686841" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2786686842" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786686842" k="name" o="add" type="node" v="&#924;&#965;&#954;&#959;&#957;&#953;&#940;&#964;&#953;&#954;&#945;" />
+    <tag id="2786686842" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786686842" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786686842" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786686842" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2786687204" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786687204" k="ref" o="add" type="node" v="720015" />
+    <tag id="2786687204" k="name" o="add" type="node" v="&#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959; &#928;&#945;&#943;&#948;&#969;&#957;" />
+    <tag id="2786687204" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="2786687204" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="2786687204" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786687204" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2786687205" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786687205" k="ref" o="add" type="node" v="720006" />
+    <tag id="2786687205" k="name" o="add" type="node" v="&#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959; &#928;&#945;&#943;&#948;&#969;&#957;" />
+    <tag id="2786687205" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="2786687205" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="2786687205" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786687205" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2786687879" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786687879" k="name" o="add" type="node" v="&#928;&#913;&#923;&#921;&#913;&#932;&#918;&#921;&#916;&#921;&#922;&#913;" />
+    <tag id="2786687879" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786687879" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786687879" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786690148" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786690148" k="name" o="add" type="node" v="&#931;&#913;&#929;&#913;&#922;&#913;&#922;&#919;" />
+    <tag id="2786690148" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786690148" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786690148" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786690151" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786690151" k="name" o="add" type="node" v="&#931;&#913;&#929;&#913;&#922;&#913;&#922;&#919;" />
+    <tag id="2786690151" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786690151" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786690151" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786690674" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786690674" k="name" o="add" type="node" v="&#931;&#928;&#933;&#929;&#927;&#933; &#928;&#913;&#932;&#931;&#919;" />
+    <tag id="2786690674" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786690674" k="shelter" o="add" type="node" v="no" />
+    <tag id="2786690674" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786690676" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786690676" k="name" o="add" type="node" v="&#931;&#928;&#933;&#929;&#927;&#933; &#928;&#913;&#932;&#931;&#919;" />
+    <tag id="2786690676" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786690676" k="shelter" o="add" type="node" v="no" />
+    <tag id="2786690676" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786690878" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786690878" k="name" o="add" type="node" v="&#931;&#932;&#913;&#922;&#927;&#929;" />
+    <tag id="2786690878" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786690878" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786690878" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786697886" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786697886" k="ref" o="add" type="node" v="720005" />
+    <tag id="2786697886" k="name" o="add" type="node" v="2&#951; &#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959; &#928;&#945;&#943;&#948;&#969;&#957;" />
+    <tag id="2786697886" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="2786697886" k="bench" o="add" type="node" v="yes" />
+    <tag id="2786697886" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="2786697886" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="2786697886" k="shelter" o="add" type="node" v="yes" />
+    <tag id="2786697886" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786697886" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2786700522" k="bus" o="add" type="node" v="yes" />
+    <tag id="2786700522" k="ref" o="add" type="node" v="164;&#914;1" />
+    <tag id="2786700522" k="name" o="add" type="node" v="6&#951; &#913;&#961;&#947;&#965;&#961;&#959;&#965;&#960;&#972;&#955;&#949;&#969;&#962;" />
+    <tag id="2786700522" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="2786700522" k="stop_id" o="add" type="node" v="110013" />
+    <tag id="2786700522" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="2786700522" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3395164094" k="bus" o="add" type="node" v="yes" />
+    <tag id="3395164094" k="ref" o="add" type="node" v="720015" />
+    <tag id="3395164094" k="name" o="add" type="node" v="&#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959; &#928;&#945;&#943;&#948;&#969;&#957;" />
+    <tag id="3395164094" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="3395164094" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3395164094" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3395164094" k="shelter" o="add" type="node" v="no" />
+    <tag id="3395164094" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3395164094" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="3395164193" k="bus" o="add" type="node" v="yes" />
+    <tag id="3395164193" k="ref" o="add" type="node" v="720033" />
+    <tag id="3395164193" k="name" o="add" type="node" v="&#921;&#960;&#960;&#959;&#954;&#961;&#940;&#964;&#959;&#965;&#962;" />
+    <tag id="3395164193" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="3395164193" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3395164193" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3395164193" k="shelter" o="add" type="node" v="no" />
+    <tag id="3395164193" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3395164193" k="public_transport" o="add" type="node" v="stop_position;platform" />
+    <tag id="3395164493" k="bus" o="add" type="node" v="yes" />
+    <tag id="3395164493" k="ref" o="add" type="node" v="720006" />
+    <tag id="3395164493" k="name" o="add" type="node" v="&#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959; &#928;&#945;&#943;&#948;&#969;&#957;" />
+    <tag id="3395164493" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="3395164493" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3395164493" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3395164493" k="shelter" o="add" type="node" v="no" />
+    <tag id="3395164493" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3395164493" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="3395164893" k="bus" o="add" type="node" v="yes" />
+    <tag id="3395164893" k="ref" o="add" type="node" v="720010" />
+    <tag id="3395164893" k="name" o="add" type="node" v="&#931;&#964;&#961;&#945;&#964;&#953;&#969;&#964;&#953;&#954;&#972; &#925;&#959;&#963;&#959;&#954;&#959;&#956;&#949;&#943;&#959;" />
+    <tag id="3395164893" k="note" o="add" type="node" v="446,460,461" />
+    <tag id="3395164893" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3395164893" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3395164893" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517592693" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517592693" k="ref" o="add" type="node" v="470138" />
+    <tag id="3517592693" k="name" o="add" type="node" v="&#910;&#948;&#961;&#945;&#962;" />
+    <tag id="3517592693" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517592693" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517592693" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517592693" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517592694" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517592694" k="ref" o="add" type="node" v="470015" />
+    <tag id="3517592694" k="name" o="add" type="node" v="&#922;&#945;&#955;&#945;&#946;&#961;&#973;&#964;&#969;&#957;" />
+    <tag id="3517592694" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517592694" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517592694" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517592694" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517592793" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517592793" k="ref" o="add" type="node" v="470137" />
+    <tag id="3517592793" k="name" o="add" type="node" v="&#913;&#966;&#961;&#959;&#948;&#943;&#964;&#951;&#962;" />
+    <tag id="3517592793" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517592793" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517592793" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517592793" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517592893" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517592893" k="ref" o="add" type="node" v="470132" />
+    <tag id="3517592893" k="name" o="add" type="node" v="&#915;&#949;&#969;&#961;&#947;&#943;&#959;&#965; &#928;&#945;&#960;&#945;&#957;&#948;&#961;&#941;&#959;&#965;" />
+    <tag id="3517592893" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517592893" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517592893" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517592893" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517592894" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517592894" k="ref" o="add" type="node" v="470012" />
+    <tag id="3517592894" k="name" o="add" type="node" v="&#922;&#965;&#960;&#961;&#943;&#969;&#957; &#913;&#947;&#969;&#957;&#953;&#963;&#964;&#974;&#957;" />
+    <tag id="3517592894" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517592894" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517592894" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517592894" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517592993" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517592993" k="ref" o="add" type="node" v="470910" />
+    <tag id="3517592993" k="name" o="add" type="node" v="&#922;&#945;&#955;&#945;&#946;&#961;&#973;&#964;&#969;&#957;" />
+    <tag id="3517592993" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517592993" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517592993" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517592993" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3517593293" k="bus" o="add" type="node" v="yes" />
+    <tag id="3517593293" k="ref" o="add" type="node" v="470011" />
+    <tag id="3517593293" k="name" o="add" type="node" v="&#928;&#945;&#955;&#945;&#953;&#972; &#932;&#941;&#961;&#956;&#945;" />
+    <tag id="3517593293" k="note" o="add" type="node" v="731,803,&#913;15" />
+    <tag id="3517593293" k="network" o="add" type="node" v="&#927;&#931;&#933;" />
+    <tag id="3517593293" k="operator" o="add" type="node" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3517593293" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="32072780" k="name" o="add" type="way" v="&#923;&#949;&#965;&#954;&#969;&#963;&#943;&#945;&#962;" />
+    <tag id="32072780" k="highway" o="add" type="way" v="residential" />
+    <tag id="32077303" k="name" o="add" type="way" v="&#932;&#949;&#947;&#941;&#945;&#962;" />
+    <tag id="32077303" k="highway" o="add" type="way" v="residential" />
+    <tag id="32078103" k="lit" o="add" type="way" v="yes" />
+    <tag id="32078103" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="32078103" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="32078103" k="oneway" o="add" type="way" v="yes" />
+    <tag id="32078103" k="highway" o="add" type="way" v="trunk" />
+    <tag id="32078103" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="32078103" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="32078103" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="32078103" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="32078103" k="wikipedia" o="add" type="way" v="en:Athinon Avenue" />
+    <tag id="46889992" k="name" o="add" type="way" v="&#927;&#943;&#964;&#951;&#962;" />
+    <tag id="46889992" k="highway" o="add" type="way" v="residential" />
+    <tag id="46890012" k="name" o="add" type="way" v="&#913;&#947;&#943;&#959;&#965; &#921;&#969;&#940;&#957;&#957;&#959;&#965; &#920;&#949;&#959;&#955;&#972;&#947;&#959;&#965;" />
+    <tag id="46890012" k="highway" o="add" type="way" v="residential" />
+    <tag id="49756841" k="name" o="add" type="way" v="&#931;&#960;&#973;&#961;&#959;&#965; &#928;&#940;&#964;&#963;&#951;" />
+    <tag id="49756841" k="oneway" o="add" type="way" v="yes" />
+    <tag id="49756841" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="51156902" k="lit" o="add" type="way" v="yes" />
+    <tag id="51156902" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="51156902" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="51156902" k="oneway" o="add" type="way" v="yes" />
+    <tag id="51156902" k="highway" o="add" type="way" v="trunk" />
+    <tag id="51156902" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="51156902" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="51156902" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="51156902" k="wikipedia" o="add" type="way" v="en:Athinon Avenue" />
+    <tag id="51160546" k="name" o="add" type="way" v="&#928;&#959;&#963;&#953;&#948;&#943;&#960;&#960;&#959;&#965;" />
+    <tag id="51160546" k="highway" o="add" type="way" v="residential" />
+    <tag id="65147390" k="highway" o="add" type="way" v="residential" />
+    <tag id="99456207" k="name" o="add" type="way" v="&#922;&#945;&#964;&#963;&#945;&#961;&#959;&#973;" />
+    <tag id="99456207" k="highway" o="add" type="way" v="residential" />
+    <tag id="184921018" k="lit" o="add" type="way" v="yes" />
+    <tag id="184921018" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="184921018" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="184921018" k="lanes" o="add" type="way" v="4" />
+    <tag id="184921018" k="oneway" o="add" type="way" v="yes" />
+    <tag id="184921018" k="source" o="add" type="way" v="Bing (2015-12-24)" />
+    <tag id="184921018" k="highway" o="add" type="way" v="trunk" />
+    <tag id="184921018" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="184921018" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="184921018" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="184921018" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="184921018" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="184921018" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="184921018" k="wikipedia" o="add" type="way" v="en:Athinon Avenue" />
+    <tag id="184921018" k="smoothness" o="add" type="way" v="excellent" />
+    <tag id="184921021" k="lit" o="add" type="way" v="yes" />
+    <tag id="184921021" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="184921021" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="184921021" k="lanes" o="add" type="way" v="4" />
+    <tag id="184921021" k="oneway" o="add" type="way" v="yes" />
+    <tag id="184921021" k="source" o="add" type="way" v="Bing (2015-12-24)" />
+    <tag id="184921021" k="highway" o="add" type="way" v="trunk" />
+    <tag id="184921021" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="184921021" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="184921021" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="184921021" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="184921021" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="184921021" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="184921021" k="wikipedia" o="add" type="way" v="en:Athinon Avenue" />
+    <tag id="184921021" k="smoothness" o="add" type="way" v="excellent" />
+    <tag id="184921021" k="turn:lanes" o="add" type="way" v="none|none|slight_right|slight_right" />
+    <tag id="250323836" k="name" o="add" type="way" v="&#916;&#951;&#956;&#959;&#954;&#961;&#945;&#964;&#943;&#945;&#962;" />
+    <tag id="250323836" k="oneway" o="add" type="way" v="yes" />
+    <tag id="250323836" k="highway" o="add" type="way" v="secondary" />
+    <tag id="250323836" k="name:en" o="add" type="way" v="Dimokratias" />
+    <tag id="250323836" k="reg_ref" o="add" type="way" v="&#917;&#928;1" />
+    <tag id="250323836" k="int_name" o="add" type="way" v="Dimokratias" />
+    <tag id="250323836" k="source:reg_ref" o="add" type="way" v="&#934;&#917;&#922; 47 &#913;/8.2.1956" />
+    <tag id="256883156" k="oneway" o="add" type="way" v="no" />
+    <tag id="256883156" k="highway" o="add" type="way" v="residential" />
+    <tag id="299496933" k="lit" o="add" type="way" v="yes" />
+    <tag id="299496933" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="299496933" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="299496933" k="oneway" o="add" type="way" v="yes" />
+    <tag id="299496933" k="highway" o="add" type="way" v="trunk" />
+    <tag id="299496933" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="299496933" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="299496933" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="299496933" k="wikipedia" o="add" type="way" v="en:Athinon Avenue" />
+    <tag id="299496935" k="lit" o="add" type="way" v="yes" />
+    <tag id="299496935" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="299496935" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="299496935" k="oneway" o="add" type="way" v="yes" />
+    <tag id="299496935" k="highway" o="add" type="way" v="trunk" />
+    <tag id="299496935" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="299496935" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="299496935" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="299496935" k="wikipedia" o="add" type="way" v="en:Athinon Avenue" />
+    <tag id="299498425" k="lit" o="add" type="way" v="yes" />
+    <tag id="299498425" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="299498425" k="foot" o="add" type="way" v="yes" />
+    <tag id="299498425" k="name" o="add" type="way" v="&#913;&#967;&#953;&#955;&#955;&#941;&#969;&#962;" />
+    <tag id="299498425" k="oneway" o="add" type="way" v="yes" />
+    <tag id="299498425" k="highway" o="add" type="way" v="primary" />
+    <tag id="299498425" k="name:en" o="add" type="way" v="Achileos Street" />
+    <tag id="299498425" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="299498427" k="lit" o="add" type="way" v="yes" />
+    <tag id="299498427" k="ref" o="add" type="way" v="&#917;&#927;8" />
+    <tag id="299498427" k="foot" o="add" type="way" v="yes" />
+    <tag id="299498427" k="name" o="add" type="way" v="&#913;&#967;&#953;&#955;&#955;&#941;&#969;&#962;" />
+    <tag id="299498427" k="oneway" o="add" type="way" v="yes" />
+    <tag id="299498427" k="highway" o="add" type="way" v="primary" />
+    <tag id="299498427" k="name:en" o="add" type="way" v="Achileos Street" />
+    <tag id="299498427" k="nat_ref" o="add" type="way" v="&#917;&#927;8&#945;" />
+    <tag id="302046363" k="name" o="add" type="way" v="&#924;&#940;&#957;&#951;&#962;" />
+    <tag id="302046363" k="oneway" o="add" type="way" v="no" />
+    <tag id="302046363" k="source" o="add" type="way" v="Yahoo" />
+    <tag id="302046363" k="highway" o="add" type="way" v="residential" />
+    <tag id="302046363" k="int_name" o="add" type="way" v="Manis" />
+    <tag id="304240845" k="name" o="add" type="way" v="&#916;&#951;&#956;&#959;&#954;&#961;&#945;&#964;&#943;&#945;&#962;" />
+    <tag id="304240845" k="oneway" o="add" type="way" v="yes" />
+    <tag id="304240845" k="highway" o="add" type="way" v="secondary" />
+    <tag id="304240845" k="name:en" o="add" type="way" v="Dimokratias" />
+    <tag id="304240845" k="reg_ref" o="add" type="way" v="&#917;&#928;1" />
+    <tag id="304240845" k="int_name" o="add" type="way" v="Dimokratias" />
+    <tag id="304240845" k="source:reg_ref" o="add" type="way" v="&#934;&#917;&#922; 47 &#913;/8.2.1956" />
+    <tag id="323791044" k="name" o="add" type="way" v="&#928;&#945;&#955;&#945;&#953;&#972;&#962; &#925;&#945;&#972;&#962; &#913;&#947;&#943;&#959;&#965; &#916;&#951;&#956;&#951;&#964;&#961;&#943;&#959;&#965;" />
+    <tag id="323791044" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="323791044" k="building" o="add" type="way" v="chapel" />
+    <tag id="323791044" k="religion" o="add" type="way" v="christian" />
+    <tag id="323791044" k="denomination" o="add" type="way" v="greek_orthodox" />
+    <tag id="332395705" k="name" o="add" type="way" v="&#932;&#945;&#958;&#953;&#940;&#961;&#967;&#959;&#965; &#914;&#941;&#955;&#953;&#959;&#965;" />
+    <tag id="332395705" k="highway" o="add" type="way" v="service" />
+    <tag id="370969031" k="lit" o="add" type="way" v="yes" />
+    <tag id="370969031" k="name" o="add" type="way" v="&#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="370969031" k="lanes" o="add" type="way" v="2" />
+    <tag id="370969031" k="oneway" o="add" type="way" v="yes" />
+    <tag id="370969031" k="source" o="add" type="way" v="Bing (2015-12-24)" />
+    <tag id="370969031" k="highway" o="add" type="way" v="secondary" />
+    <tag id="370969031" k="name:en" o="add" type="way" v="Athinon Avenue" />
+    <tag id="370969031" k="reg_ref" o="add" type="way" v="&#917;&#928;15" />
+    <tag id="370969031" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="370969031" k="int_name" o="add" type="way" v="Athinon" />
+    <tag id="370969031" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="370969031" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="370969031" k="smoothness" o="add" type="way" v="excellent" />
+    <tag id="370969031" k="source:reg_ref" o="add" type="way" v="&#934;&#917;&#922; 47 &#913;/8.2.1956" />
+    <tag id="382407944" k="name" o="add" type="way" v="&#913;&#961;&#967;&#953;&#949;&#960;&#953;&#963;&#954;&#972;&#960;&#959;&#965; &#916;&#945;&#956;&#945;&#963;&#954;&#951;&#957;&#959;&#973;" />
+    <tag id="382407944" k="highway" o="add" type="way" v="residential" />
+    <tag id="413881145" k="oneway" o="add" type="way" v="no" />
+    <tag id="413881145" k="highway" o="add" type="way" v="residential" />
+    <tag id="413881149" k="oneway" o="add" type="way" v="no" />
+    <tag id="413881149" k="highway" o="add" type="way" v="residential" />
+    <tag id="432092583" k="oneway" o="add" type="way" v="yes" />
+    <tag id="432092583" k="highway" o="add" type="way" v="residential" />
+    <tag id="3648521" k="to" o="add" type="relation" v="&#916;&#940;&#963;&#959;&#962; &#935;&#945;&#970;&#948;&#945;&#961;&#943;&#959;&#965;" />
+    <tag id="3648521" k="ref" o="add" type="relation" v="731" />
+    <tag id="3648521" k="via" o="add" type="relation" v="&#923;&#949;&#969;&#966;&#972;&#961;&#959;&#962; &#913;&#952;&#951;&#957;&#974;&#957;" />
+    <tag id="3648521" k="from" o="add" type="relation" v="&#913;&#957;&#952;&#959;&#973;&#960;&#959;&#955;&#951; &#928;&#949;&#961;&#953;&#963;&#964;&#949;&#961;&#943;&#959;&#965;" />
+    <tag id="3648521" k="name" o="add" type="relation" v="731 &#913;&#925;&#920;&#927;&#933;&#928;&#927;&#923;&#919; - &#924;&#917;&#932;&#929;&#927; &#913;&#925;&#920;&#927;&#933;&#928;&#927;&#923;&#919; - &#913;&#932;&#932;&#921;&#922;&#927; &#925;&#927;&#931;&#927;&#922;&#927;&#924;&#917;&#921;&#927; - &#916;&#913;&#931;&#927;&#931;" />
+    <tag id="3648521" k="type" o="add" type="relation" v="route" />
+    <tag id="3648521" k="route" o="add" type="relation" v="bus" />
+    <tag id="3648521" k="colour" o="add" type="relation" v="#681A1A" />
+    <tag id="3648521" k="network" o="add" type="relation" v="&#927;&#931;&#933;" />
+    <tag id="3648521" k="website" o="add" type="relation" v="http://www.oasa.gr/xpmap.php?id=p731" />
+    <tag id="3648521" k="operator" o="add" type="relation" v="&#927;&#913;&#931;&#913;" />
+    <tag id="3648521" k="roundtrip" o="add" type="relation" v="no" />
+    <tag id="3648521" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="4666680" k="bus" o="add" type="relation" v="yes" />
+    <tag id="4666680" k="ref" o="add" type="relation" v="720033" />
+    <tag id="4666680" k="name" o="add" type="relation" v="&#921;&#960;&#960;&#959;&#954;&#961;&#940;&#964;&#959;&#965;&#962;" />
+    <tag id="4666680" k="note" o="add" type="relation" v="446,460,461" />
+    <tag id="4666680" k="type" o="add" type="relation" v="public_transport" />
+    <tag id="4666680" k="network" o="add" type="relation" v="&#927;&#931;&#933;" />
+    <tag id="4666680" k="operator" o="add" type="relation" v="&#927;&#913;&#931;&#913;" />
+    <tag id="4666680" k="public_transport" o="add" type="relation" v="stop_area" />
+    <tag id="5139886" k="ref" o="add" type="relation" v="470014" />
+    <tag id="5139886" k="name" o="add" type="relation" v="&#924;&#940;&#957;&#951;&#962;" />
+    <tag id="5139886" k="note" o="add" type="relation" v="731,803,&#913;15" />
+    <tag id="5139886" k="type" o="add" type="relation" v="public_transport" />
+    <tag id="5139886" k="network" o="add" type="relation" v="&#927;&#931;&#933;" />
+    <tag id="5139886" k="operator" o="add" type="relation" v="&#927;&#913;&#931;&#913;" />
+    <tag id="5139886" k="public_transport" o="add" type="relation" v="stop_area" />
+    <tag id="5140004" k="ref" o="add" type="relation" v="731" />
+    <tag id="5140004" k="name" o="add" type="relation" v="731 &#913;&#925;&#920;&#927;&#933;&#928;&#927;&#923;&#919; - &#924;&#917;&#932;&#929;&#927; &#913;&#925;&#920;&#927;&#933;&#928;&#927;&#923;&#919; - &#913;&#932;&#932;&#921;&#922;&#927; &#925;&#927;&#931;&#927;&#922;&#927;&#924;&#917;&#921;&#927; - &#916;&#913;&#931;&#927;&#931;" />
+    <tag id="5140004" k="type" o="add" type="relation" v="route_master" />
+    <tag id="5140004" k="colour" o="add" type="relation" v="#681A1A" />
+    <tag id="5140004" k="network" o="add" type="relation" v="&#927;&#931;&#933;" />
+    <tag id="5140004" k="website" o="add" type="relation" v="http://www.oasa.gr/xpmap.php?id=p731" />
+    <tag id="5140004" k="operator" o="add" type="relation" v="&#927;&#913;&#931;&#913;" />
+    <tag id="5140004" k="roundtrip" o="add" type="relation" v="no" />
+    <tag id="5140004" k="route_master" o="add" type="relation" v="bus" />
+    <tag id="5140004" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="5200234" k="ref" o="add" type="relation" v="803" />
+    <tag id="5200234" k="name" o="add" type="relation" v="803 &#928;&#917;&#921;&#929;&#913;&#921;&#913;&#931; - &#916;&#913;&#931;&#927;&#931;" />
+    <tag id="5200234" k="type" o="add" type="relation" v="route_master" />
+    <tag id="5200234" k="network" o="add" type="relation" v="&#927;&#931;&#933;" />
+    <tag id="5200234" k="website" o="add" type="relation" v="http://www.oasa.gr/xpmap.php?id=p803" />
+    <tag id="5200234" k="operator" o="add" type="relation" v="&#927;&#913;&#931;&#913;" />
+    <tag id="5200234" k="roundtrip" o="add" type="relation" v="no" />
+    <tag id="5200234" k="route_master" o="add" type="relation" v="bus" />
+    <tag id="5200234" k="public_transport:version" o="add" type="relation" v="2" />
+  </body>
+</changeset>

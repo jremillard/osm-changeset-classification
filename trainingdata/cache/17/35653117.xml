@@ -1,0 +1,601 @@
+<changeset id="35653117" schema="2">
+  <counts nodesAdded="4" nodesDeleted="2" nodesModified="101" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="45" />
+  <meta>
+    <tag k="comment" v="Quality assurance on amenity values" />
+    <tag k="created_by" v="JOSM/1.5 (9060 fr)" />
+  </meta>
+  <body>
+    <tag id="265050590" k="amenity" o="modify" type="node" v="telephone" />
+    <tag id="282835755" k="name" o="none" type="node" v="Holmen Hundesenter" />
+    <tag id="282835755" k="amenity" o="modify" type="node" v="animal_boarding" />
+    <tag id="290450610" k="amenity" o="modify" type="node" v="telephone" />
+    <tag id="310973050" k="name" o="none" type="node" v="Little Old-Fashioned Candie" />
+    <tag id="310973050" k="shop" o="add" type="node" v="confectionery" />
+    <tag id="389619645" k="aeroway" o="add" type="node" v="helipad" />
+    <tag id="529071840" k="FIXME" o="none" type="node" v="not sure if it's enforcing speed or traffic lights" />
+    <tag id="529071840" k="highway" o="add" type="node" v="speed_camera" />
+    <tag id="590580889" k="name" o="none" type="node" v="Pasaport Vapur &#304;skelesi" />
+    <tag id="590580889" k="man_made" o="add" type="node" v="pier" />
+    <tag id="603318698" k="name" o="add" type="node" v="Communaut&#233; du Chemin Neuf" />
+    <tag id="603318698" k="office" o="add" type="node" v="religion" />
+    <tag id="603318698" k="religion" o="add" type="node" v="christian" />
+    <tag id="603318698" k="denomination" o="add" type="node" v="catholic" />
+    <tag id="606122045" k="amenity" o="modify" type="node" v="waste_basket" />
+    <tag id="606122045" k="description:de" o="none" type="node" v="M&#252;llcontainer" />
+    <tag id="612007811" k="name" o="none" type="node" v="Makau's Tank" />
+    <tag id="612007811" k="amenity" o="modify" type="node" v="toilets" />
+    <tag id="612007811" k="man_made" o="none" type="node" v="water_tower" />
+    <tag id="612007811" k="operator" o="none" type="node" v="GOTAFOGO TOILET" />
+    <tag id="627239652" k="amenity" o="modify" type="node" v="social_facility" />
+    <tag id="627239652" k="religion" o="none" type="node" v="christian" />
+    <tag id="627239652" k="addr:country" o="none" type="node" v="BO" />
+    <tag id="627239652" k="denomination" o="none" type="node" v="catholic" />
+    <tag id="627239652" k="social_facility" o="add" type="node" v="group_home" />
+    <tag id="627239652" k="social_facility:for" o="add" type="node" v="senior" />
+    <tag id="657958758" k="name" o="add" type="node" v="Toyota" />
+    <tag id="657958758" k="shop" o="add" type="node" v="car" />
+    <tag id="657958758" k="brand" o="add" type="node" v="Toyota" />
+    <tag id="661423618" k="sport" o="add" type="node" v="volleyball" />
+    <tag id="661423618" k="leisure" o="add" type="node" v="pitch" />
+    <tag id="667142907" k="amenity" o="modify" type="node" v="telephone" />
+    <tag id="667142907" k="disused" o="add" type="node" v="yes" />
+    <tag id="685913686" k="amenity" o="modify" type="node" v="place_of_worship" />
+    <tag id="685913686" k="religion" o="add" type="node" v="buddhist" />
+    <tag id="765583987" k="amenity" o="modify" type="node" v="public_bookcase" />
+    <tag id="765583987" k="building" o="none" type="node" v="yes" />
+    <tag id="765583987" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="765583987" k="opening_hours" o="none" type="node" v="Apr-Oct: Mo-Su 08:00-21:00" />
+    <tag id="765583987" k="description:de" o="none" type="node" v="B&#252;cherschrank zum kurzzeitigem ausleihen von B&#252;chern" />
+    <tag id="791221846" k="amenity" o="modify" type="node" v="telephone" />
+    <tag id="801259684" k="name" o="none" type="node" v="&#1044;&#1086;&#1084; &#1087;&#1088;&#1077;&#1089;&#1090;&#1072;&#1088;&#1077;&#1083;&#1099;&#1093;" />
+    <tag id="801259684" k="note1" o="none" type="node" v="&#1054;&#1090;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1077; &#1076;&#1085;&#1077;&#1074;&#1085;&#1086;&#1075;&#1086; &#1087;&#1088;&#1077;&#1073;&#1099;&#1074;&#1072;&#1085;&#1080;&#1077; &#1075;&#1088;&#1072;&#1078;&#1076;&#1072;&#1085; &#1087;&#1086;&#1078;&#1080;&#1083;&#1086;&#1075;&#1086; &#1074;&#1086;&#1079;&#1088;&#1072;&#1089;&#1090;&#1072; &#1080; &#1080;&#1085;&#1074;&#1072;&#1083;&#1080;&#1076;&#1086;&#1074;" />
+    <tag id="801259684" k="note2" o="none" type="node" v="&#1057;&#1086;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;-&#1088;&#1077;&#1072;&#1073;&#1080;&#1083;&#1080;&#1090;&#1072;&#1094;&#1080;&#1086;&#1085;&#1085;&#1086;&#1077; &#1086;&#1090;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1077; &#1075;&#1088;&#1072;&#1078;&#1076;&#1072;&#1085; &#1087;&#1086;&#1078;&#1080;&#1083;&#1086;&#1075;&#1086; &#1074;&#1086;&#1079;&#1088;&#1072;&#1089;&#1090;&#1072;" />
+    <tag id="801259684" k="note3" o="none" type="node" v="&#1057;&#1086;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;-&#1076;&#1086;&#1089;&#1091;&#1075;&#1086;&#1074;&#1086;&#1077; &#1086;&#1090;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1077; &#1075;&#1088;&#1072;&#1078;&#1076;&#1072;&#1085; &#1087;&#1086;&#1078;&#1080;&#1083;&#1086;&#1075;&#1086; &#1074;&#1086;&#1079;&#1088;&#1072;&#1089;&#1090;&#1072;" />
+    <tag id="801259684" k="amenity" o="modify" type="node" v="social_facility" />
+    <tag id="801259684" k="social_facility" o="add" type="node" v="group_home" />
+    <tag id="801259684" k="social_facility:for" o="add" type="node" v="senior" />
+    <tag id="845163641" k="name" o="add" type="node" v="Volvo" />
+    <tag id="845163641" k="shop" o="add" type="node" v="car" />
+    <tag id="860310011" k="name" o="add" type="node" v="Lumiere" />
+    <tag id="860310011" k="amenity" o="modify" type="node" v="cinema" />
+    <tag id="956773580" k="name" o="none" type="node" v="Glass Nickel Pizza" />
+    <tag id="956773580" k="amenity" o="modify" type="node" v="restaurant" />
+    <tag id="956773580" k="cuisine" o="add" type="node" v="pizza" />
+    <tag id="983417337" k="name" o="none" type="node" v="Willoughby City Hall" />
+    <tag id="983417337" k="amenity" o="modify" type="node" v="courthouse" />
+    <tag id="983417337" k="addr:state" o="none" type="node" v="OH" />
+    <tag id="983417337" k="gnis:county_name" o="none" type="node" v="Lake" />
+    <tag id="1001172844" k="traffic_sign" o="add" type="node" v="maxspeed" />
+    <tag id="1012463684" k="ref" o="none" type="node" v="S05" />
+    <tag id="1012463684" k="hide" o="none" type="node" v="no" />
+    <tag id="1012463684" k="name" o="none" type="node" v="SEMLORE (Remont&#233;es M&#233;caniques)" />
+    <tag id="1012463684" k="email" o="none" type="node" v="infos@ski-lesorres.com" />
+    <tag id="1012463684" k="phone" o="none" type="node" v="+33 4 92 44 16 05" />
+    <tag id="1012463684" k="amenity" o="modify" type="node" v="first_aid" />
+    <tag id="1012463684" k="tourism" o="none" type="node" v="information" />
+    <tag id="1012463684" k="website" o="none" type="node" v="http://www.lesorres.com/" />
+    <tag id="1012463684" k="addr:city" o="none" type="node" v="Les Orres" />
+    <tag id="1012463684" k="addr:place" o="none" type="node" v="Centre Station 1650" />
+    <tag id="1012463684" k="addr:street" o="none" type="node" v="B&#226;timent Administratif" />
+    <tag id="1012463684" k="description" o="none" type="node" v="Poste de secours" />
+    <tag id="1012463684" k="addr:postcode" o="none" type="node" v="05200" />
+    <tag id="1025338053" k="name" o="none" type="node" v="Schneider" />
+    <tag id="1025338053" k="amenity" o="modify" type="node" v="driving_school" />
+    <tag id="1025338053" k="operator" o="none" type="node" v="Fahrschule" />
+    <tag id="1051236863" k="name" o="none" type="node" v="Juwelier" />
+    <tag id="1051236863" k="shop" o="add" type="node" v="jewelry" />
+    <tag id="1088966998" k="name" o="add" type="node" v="Chapelle funeraille l'Ange de la Gosseline" />
+    <tag id="1088966998" k="source" o="none" type="node" v="C_OSM.Ha" />
+    <tag id="1088966998" k="amenity" o="modify" type="node" v="place_of_worship" />
+    <tag id="1088966998" k="building" o="add" type="node" v="chapel" />
+    <tag id="1088966998" k="religion" o="add" type="node" v="christian" />
+    <tag id="1088966998" k="generator:source" o="add" type="node" v="electricity_network" />
+    <tag id="1088966998" k="operational_status" o="none" type="node" v="open" />
+    <tag id="1092245951" k="name" o="none" type="node" v="Piste de ski alpin du Thier des Rexhons" />
+    <tag id="1092245951" k="leisure" o="none" type="node" v="sports_centre" />
+    <tag id="1096875156" k="name" o="none" type="node" v="Instituto de Radiologia de Feira de Santana" />
+    <tag id="1096875156" k="amenity" o="modify" type="node" v="clinic" />
+    <tag id="1096875156" k="emergency" o="none" type="node" v="no" />
+    <tag id="1096875156" k="addr:street" o="none" type="node" v="Avenida Get&#250;lio Vargas" />
+    <tag id="1096875156" k="addr:housenumber" o="none" type="node" v="751" />
+    <tag id="1167078014" k="source" o="none" type="node" v="hot_c.osm-ha_iom" />
+    <tag id="1167078014" k="highway" o="add" type="node" v="street_lamp" />
+    <tag id="1167078014" k="operational_status" o="none" type="node" v="open" />
+    <tag id="1172435079" k="name" o="add" type="node" v="zamar quicaillerie" />
+    <tag id="1172435079" k="shop" o="add" type="node" v="hardware" />
+    <tag id="1172435079" k="source" o="none" type="node" v="hot _c.osm-ha_iom" />
+    <tag id="1172435079" k="addr:city" o="none" type="node" v="jacmel" />
+    <tag id="1172435079" k="addr:street" o="none" type="node" v="morne oge" />
+    <tag id="1172435079" k="addr:country" o="none" type="node" v="HT" />
+    <tag id="1172435079" k="operational_status" o="none" type="node" v="open" />
+    <tag id="1190785137" k="name" o="none" type="node" v="WWII Bunker" />
+    <tag id="1190785137" k="source" o="none" type="node" v="Phisical Site survey" />
+    <tag id="1190785137" k="historic" o="none" type="node" v="ruins" />
+    <tag id="1190785137" k="military" o="add" type="node" v="bunker" />
+    <tag id="1190785137" k="designation" o="none" type="node" v="WWII Bunker" />
+    <tag id="1215067848" k="name" o="none" type="node" v="ATO Motorcycle Rentals &amp; Repair Shop" />
+    <tag id="1215067848" k="amenity" o="modify" type="node" v="motorcycle_rental" />
+    <tag id="1215068295" k="name" o="none" type="node" v="Mister Donut" />
+    <tag id="1215068295" k="shop" o="add" type="node" v="bakery" />
+    <tag id="1258166945" k="amenity" o="modify" type="node" v="bench" />
+    <tag id="1258166945" k="backrest" o="none" type="node" v="yes" />
+    <tag id="1258166945" k="material" o="none" type="node" v="wood" />
+    <tag id="1279868588" k="name" o="none" type="node" v="Gorse Hill Studios" />
+    <tag id="1279868588" k="amenity" o="modify" type="node" v="studio" />
+    <tag id="1315989612" k="highway" o="add" type="node" v="speed_camera" />
+    <tag id="1328675713" k="name" o="none" type="node" v="Al Ameed" />
+    <tag id="1328675713" k="sport" o="add" type="node" v="billiards" />
+    <tag id="1328675713" k="amenity" o="modify" type="node" v="cafe" />
+    <tag id="1342172829" k="name" o="none" type="node" v="SC Olching, Bogensport" />
+    <tag id="1342172829" k="sport" o="none" type="node" v="archery" />
+    <tag id="1395140276" k="source" o="none" type="node" v="iom-cosmha" />
+    <tag id="1395140276" k="landuse" o="add" type="node" v="basin" />
+    <tag id="1395140276" k="pump_type" o="none" type="node" v="manual" />
+    <tag id="1395140276" k="water_type" o="none" type="node" v="drinking_water" />
+    <tag id="1395140276" k="operator_type" o="none" type="node" v="private_for_profit" />
+    <tag id="1395140276" k="program_aquatab" o="none" type="node" v="yes" />
+    <tag id="1395140276" k="operational_status" o="none" type="node" v="open" />
+    <tag id="1395140276" k="water_quality_issue" o="none" type="node" v="no" />
+    <tag id="1395140276" k="operational_status_quality" o="none" type="node" v="confirmed" />
+    <tag id="1410748675" k="name" o="none" type="node" v="Internet dheril cell" />
+    <tag id="1410748675" k="amenity" o="modify" type="node" v="bicycle_rental" />
+    <tag id="1410748675" k="tourism" o="none" type="node" v="information" />
+    <tag id="1410748675" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="1410748675" k="information" o="none" type="node" v="office" />
+    <tag id="1435975775" k="cmt" o="none" type="node" v="17-SEP-11 2:50:11PM" />
+    <tag id="1435975775" k="ele" o="none" type="node" v="2204.653" />
+    <tag id="1435975775" k="sym" o="none" type="node" v="City (Small)" />
+    <tag id="1435975775" k="name" o="none" type="node" v="Alpine Animal Hospital" />
+    <tag id="1435975775" k="time" o="none" type="node" v="2011-09-17T21:43:18.815Z" />
+    <tag id="1435975775" k="type" o="none" type="node" v="Locale" />
+    <tag id="1435975775" k="amenity" o="modify" type="node" v="veterinary" />
+    <tag id="1570457560" k="name" o="none" type="node" v="Rockhampton Crematorium" />
+    <tag id="1570457560" k="amenity" o="modify" type="node" v="crematorium" />
+    <tag id="1586950453" k="name" o="none" type="node" v="Clinique V&#233;t&#233;rinaire de l'Arche" />
+    <tag id="1586950453" k="phone" o="none" type="node" v="01 45 34 08 12" />
+    <tag id="1586950453" k="amenity" o="modify" type="node" v="veterinary" />
+    <tag id="1586950453" k="addr:city" o="none" type="node" v="Meudon" />
+    <tag id="1586950453" k="addr:street" o="none" type="node" v="Boulevard des Nations Unies" />
+    <tag id="1586950453" k="addr:postcode" o="none" type="node" v="92190" />
+    <tag id="1586950453" k="addr:housenumber" o="none" type="node" v="21" />
+    <tag id="1686618227" k="name" o="none" type="node" v="Bucky's Casino" />
+    <tag id="1686618227" k="amenity" o="modify" type="node" v="casino" />
+    <tag id="1795751418" k="office" o="add" type="node" v="lawyer" />
+    <tag id="1795751418" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="1866894508" k="name" o="none" type="node" v="Maison de retraite" />
+    <tag id="1866894508" k="amenity" o="modify" type="node" v="social_facility" />
+    <tag id="1866894508" k="social_facility" o="add" type="node" v="group_home" />
+    <tag id="1866894508" k="social_facility:for" o="add" type="node" v="senior" />
+    <tag id="2030692588" k="type" o="none" type="node" v="Truvelo" />
+    <tag id="2030692588" k="maxspeed" o="none" type="node" v="80" />
+    <tag id="2030692588" k="traffic_sign" o="add" type="node" v="maxspeed" />
+    <tag id="2103202090" k="name" o="none" type="node" v="North Creek Health Center" />
+    <tag id="2103202090" k="amenity" o="modify" type="node" v="clinic" />
+    <tag id="2328546578" k="name" o="none" type="node" v="Krematorium" />
+    <tag id="2328546578" k="is_in" o="none" type="node" v="M&#283;ln&#237;k, St&#345;edo&#269;esk&#253; kraj, CZ" />
+    <tag id="2328546578" k="amenity" o="modify" type="node" v="crematorium" />
+    <tag id="2328546578" k="addr:city" o="none" type="node" v="M&#283;ln&#237;k" />
+    <tag id="2328546578" k="ref:ruian" o="none" type="node" v="30199735" />
+    <tag id="2328546578" k="addr:street" o="none" type="node" v="Na R&#225;ji" />
+    <tag id="2328546578" k="source:addr" o="none" type="node" v="ruian" />
+    <tag id="2328546578" k="addr:country" o="none" type="node" v="CZ" />
+    <tag id="2328546578" k="addr:postcode" o="none" type="node" v="27601" />
+    <tag id="2328546578" k="addr:housenumber" o="none" type="node" v="104" />
+    <tag id="2328546578" k="addr:conscriptionnumber" o="none" type="node" v="104" />
+    <tag id="2334728682" k="name" o="none" type="node" v="Loteria do Alto" />
+    <tag id="2334728682" k="shop" o="add" type="node" v="lottery" />
+    <tag id="2411275626" k="shop" o="add" type="node" v="lottery" />
+    <tag id="2414587455" k="name" o="none" type="node" v="Intermarch&#233;" />
+    <tag id="2414587455" k="brand" o="add" type="node" v="Intermarch&#233;" />
+    <tag id="2414587455" k="amenity" o="modify" type="node" v="fuel" />
+    <tag id="2430772032" k="amenity" o="modify" type="node" v="baby_hatch" />
+    <tag id="2479400706" k="name" o="none" type="node" v="Eltham Digital Printers" />
+    <tag id="2479400706" k="shop" o="add" type="node" v="copyshop" />
+    <tag id="2479400706" k="addr:street" o="none" type="node" v="Odeon Parade" />
+    <tag id="2479400706" k="addr:housenumber" o="none" type="node" v="4" />
+    <tag id="2512133547" k="name" o="none" type="node" v="boulangerie Fran&#231;aise" />
+    <tag id="2512133547" k="shop" o="add" type="node" v="bakery" />
+    <tag id="2540307963" k="name" o="none" type="node" v="City Wine Cellar - Liquor Store" />
+    <tag id="2540307963" k="note" o="none" type="node" v="Special offer for bitcoiners! Use coupon: &quot;BtcPromo&quot;" />
+    <tag id="2540307963" k="shop" o="add" type="node" v="alcohol" />
+    <tag id="2540307963" k="phone" o="none" type="node" v="+1 718-494-1400" />
+    <tag id="2540307963" k="website" o="none" type="node" v="http://citywinecellar.com/" />
+    <tag id="2540307963" k="addr:city" o="none" type="node" v="Staten Island" />
+    <tag id="2540307963" k="addr:street" o="none" type="node" v="Richmond Avenue" />
+    <tag id="2540307963" k="addr:postcode" o="none" type="node" v="10314-3903" />
+    <tag id="2540307963" k="addr:housename" o="none" type="node" v="City Wine Cellar" />
+    <tag id="2540307963" k="payment:bitcoin" o="none" type="node" v="yes" />
+    <tag id="2540307963" k="addr:housenumber" o="none" type="node" v="2295" />
+    <tag id="2570139397" k="name" o="none" type="node" v="Servientrega International" />
+    <tag id="2570139397" k="amenity" o="modify" type="node" v="post_office" />
+    <tag id="2570139397" k="addr:street" o="none" type="node" v="37th Avenue" />
+    <tag id="2570139397" k="addr:postcode" o="none" type="node" v="11372" />
+    <tag id="2570139397" k="addr:housenumber" o="none" type="node" v="81-11" />
+    <tag id="2583505669" k="name" o="none" type="node" v="M&#252;ller" />
+    <tag id="2583505669" k="shop" o="add" type="node" v="perfumery" />
+    <tag id="2583505669" k="entrance" o="none" type="node" v="yes" />
+    <tag id="2629412749" k="name" o="none" type="node" v="Relax Barbershop" />
+    <tag id="2629412749" k="shop" o="add" type="node" v="hairdresser" />
+    <tag id="2670074511" k="name" o="none" type="node" v="Cash America Pawn" />
+    <tag id="2670074511" k="shop" o="add" type="node" v="pawnbroker" />
+    <tag id="2686389875" k="amenity" o="modify" type="node" v="casino" />
+    <tag id="2697618407" k="shop" o="add" type="node" v="copyshop" />
+    <tag id="2716272439" k="name" o="none" type="node" v="Port Int&#233;rnational Ahmed Abdallah Abderemane" />
+    <tag id="2716272439" k="amenity" o="modify" type="node" v="ferry_terminal" />
+    <tag id="2740758632" k="name" o="none" type="node" v="Dr Andrew Whiteside, Redcliffs Animal Medical Centre" />
+    <tag id="2740758632" k="amenity" o="modify" type="node" v="veterinary" />
+    <tag id="2846027499" k="name" o="none" type="node" v="Sub Agencia 007" />
+    <tag id="2846027499" k="shop" o="add" type="node" v="lottery" />
+    <tag id="2846027499" k="addr:street" o="none" type="node" v="Zaragoza" />
+    <tag id="2846027499" k="addr:housenumber" o="none" type="node" v="168" />
+    <tag id="2879035050" k="name" o="none" type="node" v="Tonto" />
+    <tag id="2879035050" k="amenity" o="modify" type="node" v="restaurant" />
+    <tag id="2879035050" k="cuisine" o="add" type="node" v="japanese" />
+    <tag id="2938331301" k="name" o="none" type="node" v="Nice Bike" />
+    <tag id="2938331301" k="amenity" o="modify" type="node" v="motorcycle_rental" />
+    <tag id="2938331301" k="operator" o="none" type="node" v="www.nice-bike.com" />
+    <tag id="2975766429" k="amenity" o="modify" type="node" v="vending_machine" />
+    <tag id="2975766429" k="vending" o="none" type="node" v="news_papers" />
+    <tag id="2975766429" k="operator" o="none" type="node" v="Toronto Sun" />
+    <tag id="3060440144" k="name" o="none" type="node" v="&#1057;&#1087;&#1086;&#1088;&#1090;&#1080;&#1074;&#1085;&#1099;&#1081; &#1082;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089; &#171;&#1050;&#1056;&#1045;&#1055;&#1067;&#1064;&#187;" />
+    <tag id="3060440144" k="phone" o="none" type="node" v="+7861953-04-65" />
+    <tag id="3060440144" k="leisure" o="add" type="node" v="sports_centre" />
+    <tag id="3060440144" k="addr:city" o="none" type="node" v="&#1053;&#1086;&#1074;&#1086;&#1082;&#1091;&#1073;&#1072;&#1085;&#1089;&#1082;" />
+    <tag id="3060440144" k="fire_rank" o="none" type="node" v="1bis" />
+    <tag id="3060440144" k="addr:street" o="none" type="node" v="&#1055;&#1077;&#1088;&#1074;&#1086;&#1084;&#1072;&#1081;&#1089;&#1082;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="3060440144" k="addr:country" o="none" type="node" v="RU" />
+    <tag id="3060440144" k="fire_operator" o="none" type="node" v="RU-KDA-1-124" />
+    <tag id="3060440144" k="addr:housenumber" o="none" type="node" v="178" />
+    <tag id="3116984892" k="amenity" o="modify" type="node" v="recycling" />
+    <tag id="3116984892" k="recycling_type" o="add" type="node" v="container" />
+    <tag id="3116984892" k="recycling:glass" o="add" type="node" v="yes" />
+    <tag id="3116984892" k="recycling:glass_bottles" o="add" type="node" v="yes" />
+    <tag id="3128770574" k="name" o="none" type="node" v="B&amp;B Il Calicanto" />
+    <tag id="3128770574" k="tourism" o="add" type="node" v="guest_house" />
+    <tag id="3128770574" k="website" o="none" type="node" v="www.ilcalicanto.ch" />
+    <tag id="3129191433" k="name" o="none" type="node" v="Ambassade de la R&#233;publique de C&#244;te d'Ivoire" />
+    <tag id="3129191433" k="contry" o="none" type="node" v="R&#233;pubique de c&#244;te d'Ivoire" />
+    <tag id="3129191433" k="amenity" o="modify" type="node" v="embassy" />
+    <tag id="3178850363" k="fee" o="none" type="node" v="no" />
+    <tag id="3178850363" k="source" o="none" type="node" v="survey 2014" />
+    <tag id="3178850363" k="amenity" o="modify" type="node" v="motorcycle_parking" />
+    <tag id="3178850363" k="covered" o="none" type="node" v="no" />
+    <tag id="3178850363" k="parking" o="none" type="node" v="surface" />
+    <tag id="3178850363" k="capacity" o="none" type="node" v="6" />
+    <tag id="3209284527" k="name" o="none" type="node" v="Boots" />
+    <tag id="3209284527" k="source" o="none" type="node" v="gps+mapnoter" />
+    <tag id="3209284527" k="amenity" o="modify" type="node" v="pharmacy" />
+    <tag id="3254355062" k="name" o="none" type="node" v="GSPM Pompiers" />
+    <tag id="3254355062" k="amenity" o="modify" type="node" v="fire_station" />
+    <tag id="3335390366" k="name" o="none" type="node" v="PV Rental" />
+    <tag id="3335390366" k="name_1" o="none" type="node" v="PV Rental Leasing Sales" />
+    <tag id="3335390366" k="amenity" o="modify" type="node" v="car_rental" />
+    <tag id="3348142740" k="name" o="none" type="node" v="Logorama" />
+    <tag id="3348142740" k="shop" o="add" type="node" v="copyshop" />
+    <tag id="3436340959" k="name" o="none" type="node" v="Robert Brown High School" />
+    <tag id="3436340959" k="phone" o="none" type="node" v="5853429770" />
+    <tag id="3436340959" k="amenity" o="modify" type="node" v="university" />
+    <tag id="3436340959" k="addr:street" o="none" type="node" v="Colfax St" />
+    <tag id="3436340959" k="addr:housenumber" o="none" type="node" v="655" />
+    <tag id="3494257330" k="highway" o="add" type="node" v="speed_camera" />
+    <tag id="3494257330" k="maxspeed" o="add" type="node" v="110" />
+    <tag id="3521492699" k="name" o="modify" type="node" v="Bike Moto rent 1$ &amp; 6$" />
+    <tag id="3521492699" k="amenity" o="modify" type="node" v="motorcycle_rental" />
+    <tag id="3534101709" k="amenity" o="modify" type="node" v="pharmacy" />
+    <tag id="3534101709" k="start_date" o="none" type="node" v="2015-05-01" />
+    <tag id="3545343693" k="amenity" o="modify" type="node" v="bench" />
+    <tag id="3552652916" k="name" o="none" type="node" v="Packer Choices" />
+    <tag id="3552652916" k="email" o="add" type="node" v="pkchostel@gmail.com" />
+    <tag id="3552652916" k="phone" o="none" type="node" v="023210710" />
+    <tag id="3552652916" k="tourism" o="add" type="node" v="hostel" />
+    <tag id="3552652916" k="addr:street" o="none" type="node" v="19th Street, Sangkat Chey Chumas" />
+    <tag id="3552652916" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="3552652916" k="addr:housenumber" o="none" type="node" v="187" />
+    <tag id="3581002093" k="sport" o="add" type="node" v="table_tennis" />
+    <tag id="3605876683" k="shop" o="add" type="node" v="beauty" />
+    <tag id="3605876683" k="phone" o="none" type="node" v="8 962 708 69 35" />
+    <tag id="3605876683" k="opening_hours" o="none" type="node" v="Mo-Su 11:00-21:00" />
+    <tag id="3641412473" k="sport" o="none" type="node" v="tennis" />
+    <tag id="3641412473" k="leisure" o="add" type="node" v="pitch" />
+    <tag id="3647913503" k="amenity" o="modify" type="node" v="bicycle_parking" />
+    <tag id="3660469669" k="name" o="none" type="node" v="D&#233;chetterie d'Assigny" />
+    <tag id="3660469669" k="amenity" o="modify" type="node" v="recycling" />
+    <tag id="3660469669" k="recycling_type" o="add" type="node" v="centre" />
+    <tag id="3674049503" k="ref" o="none" type="node" v="3" />
+    <tag id="3674049503" k="name" o="none" type="node" v="&#1030;&#1085;&#1090;&#1072;&#1081;&#1084; &#8470; 3" />
+    <tag id="3674049503" k="phone" o="none" type="node" v="8-911 &quot;&#1076;&#1083;&#1103; &#1084;&#1086;&#1073;. &#1073;&#1077;&#1079;&#1082;&#1086;&#1096;&#1090;. (&#1087;&#1086;&#1089;&#1083;&#1091;&#1075;&#1072; call-back)&quot;, 0-800-300911 &quot;&#1076;&#1083;&#1103; &#1089;&#1090;&#1072;&#1094;. &#1073;&#1077;&#1079;&#1082;&#1086;&#1096;&#1090;.&quot;" />
+    <tag id="3674049503" k="amenity" o="modify" type="node" v="vending_machine" />
+    <tag id="3674049503" k="name:en" o="none" type="node" v="InTime No 3" />
+    <tag id="3674049503" k="vending" o="none" type="node" v="parsels" />
+    <tag id="3674049503" k="website" o="none" type="node" v="http://www.intime.ua" />
+    <tag id="3674049503" k="operator" o="none" type="node" v="&#1030;&#1085;&#1090;&#1072;&#1081;&#1084;" />
+    <tag id="3674049503" k="addr:full" o="none" type="node" v="&#1084;. &#1058;&#1077;&#1088;&#1085;&#1086;&#1087;&#1110;&#1083;&#1100;, &#1074;&#1091;&#1083;. &#1047;&#1072; &#1056;&#1091;&#1076;&#1082;&#1086;&#1102;, 35" />
+    <tag id="3674049503" k="description" o="none" type="node" v="&#1057;&#1082;&#1083;&#1072;&#1076; &#8470; 3. &#1055;&#1086;&#1096;&#1090;&#1086;&#1084;&#1072;&#1090; (&#1074;&#1110;&#1076;&#1076;&#1110;&#1083;&#1077;&#1085;&#1085;&#1103; &#8222;&#1055;&#1088;&#1080;&#1074;&#1072;&#1090;&#1041;&#1072;&#1085;&#1082;&#1091;&#8220;) - &#1074;&#1080;&#1076;&#1072;&#1095;&#1072; &#1074;&#1072;&#1085;&#1090;&#1072;&#1078;&#1091; &#1076;&#1086; 30 &#1082;&#1075;. &#1057;&#1082;&#1083;&#1072;&#1076; &#1087;&#1088;&#1072;&#1094;&#1102;&#1108; &#1090;&#1110;&#1083;&#1100;&#1082;&#1080; &#1085;&#1072; &#1074;&#1080;&#1076;&#1072;&#1095;&#1091; &#1074;&#1072;&#1085;&#1090;&#1072;&#1078;&#1091;. &#1052;&#1072;&#1082;&#1089;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#1080;&#1081; &#1088;&#1086;&#1079;&#1084;&#1110;&#1088; &#1089;&#1082;&#1088;&#1080;&#1085;&#1100;&#1082;&#1080;: 370*350*610." />
+    <tag id="3674049503" k="operator:en" o="none" type="node" v="InTime" />
+    <tag id="3674049503" k="opening_hours" o="none" type="node" v="Mo-Fr 09:00-18:00" />
+    <tag id="3678917978" k="amenity" o="modify" type="node" v="motorcycle_parking" />
+    <tag id="3692399225" k="amenity" o="modify" type="node" v="fuel" />
+    <tag id="3756861500" k="name" o="none" type="node" v="Oritegi Abogados" />
+    <tag id="3756861500" k="office" o="add" type="node" v="lawyer" />
+    <tag id="3756861500" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="3758754563" k="amenity" o="modify" type="node" v="fountain" />
+    <tag id="3768308617" k="name" o="none" type="node" v="WiFi" />
+    <tag id="3768308617" k="internet_access" o="add" type="node" v="wlan" />
+    <tag id="3771062866" k="amenity" o="modify" type="node" v="waste_basket" />
+    <tag id="3771943992" k="amenity" o="modify" type="node" v="bicycle_parking" />
+    <tag id="3831830972" k="amenity" o="modify" type="node" v="fuel" />
+    <tag id="3842661668" k="name" o="none" type="node" v="&#1043;&#1041;&#1059;&#1050; &#1042;&#1054; &quot;&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;&#1089;&#1082;&#1072;&#1103; &#1073;&#1080;&#1073;&#1083;&#1080;&#1086;&#1090;&#1077;&#1082;&#1072; &#1080;&#1084;. &#1053;&#1080;&#1082;&#1080;&#1090;&#1080;&#1085;&#1072;&quot;" />
+    <tag id="3842661668" k="phone" o="none" type="node" v="2226333" />
+    <tag id="3842661668" k="amenity" o="modify" type="node" v="library" />
+    <tag id="3842661668" k="addr:city" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;" />
+    <tag id="3842661668" k="fire_rank" o="none" type="node" v="2" />
+    <tag id="3842661668" k="addr:street" o="none" type="node" v="&#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1100; &#1051;&#1077;&#1085;&#1080;&#1085;&#1072;" />
+    <tag id="3842661668" k="fire_operator" o="none" type="node" v="RU-VOR-1-2" />
+    <tag id="3842661668" k="addr:housenumber" o="none" type="node" v="2" />
+    <tag id="3842665014" k="name" o="none" type="node" v="&#1043;&#1041;&#1059;&#1050; &#1042;&#1054; &quot;&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;&#1089;&#1082;&#1072;&#1103; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1090;&#1077;&#1072;&#1090;&#1088; &#1086;&#1087;&#1077;&#1088;&#1099; &#1080; &#1073;&#1072;&#1083;&#1077;&#1090;&#1072;&quot;" />
+    <tag id="3842665014" k="phone" o="none" type="node" v="2553910" />
+    <tag id="3842665014" k="amenity" o="modify" type="node" v="theatre" />
+    <tag id="3842665014" k="addr:city" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;" />
+    <tag id="3842665014" k="fire_rank" o="none" type="node" v="3" />
+    <tag id="3842665014" k="addr:street" o="none" type="node" v="&#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1100; &#1051;&#1077;&#1085;&#1080;&#1085;&#1072;" />
+    <tag id="3842665014" k="fire_operator" o="none" type="node" v="RU-VOR-1-2" />
+    <tag id="3842665014" k="addr:housenumber" o="none" type="node" v="7" />
+    <tag id="3842677801" k="name" o="none" type="node" v="&#1040;&#1088;&#1093;&#1080;&#1074;" />
+    <tag id="3842677801" k="phone" o="none" type="node" v="2779892" />
+    <tag id="3842677801" k="addr:city" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;" />
+    <tag id="3842677801" k="fire_rank" o="none" type="node" v="2" />
+    <tag id="3842677801" k="addr:street" o="none" type="node" v="&#1055;&#1083;&#1077;&#1093;&#1072;&#1085;&#1086;&#1074;&#1089;&#1082;&#1072;&#1103;" />
+    <tag id="3842677801" k="fire_operator" o="none" type="node" v="RU-VOR-1-2" />
+    <tag id="3842677801" k="addr:housenumber" o="none" type="node" v="7" />
+    <tag id="3842681697" k="name" o="none" type="node" v="&#1041;&#1072;&#1089;&#1089;&#1077;&#1081;&#1085; &#1042;&#1043;&#1040;&#1057;&#1059;" />
+    <tag id="3842681697" k="phone" o="none" type="node" v="2711893" />
+    <tag id="3842681697" k="sport" o="add" type="node" v="swimming" />
+    <tag id="3842681697" k="leisure" o="add" type="node" v="swimming_pool" />
+    <tag id="3842681697" k="addr:city" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;" />
+    <tag id="3842681697" k="fire_rank" o="none" type="node" v="2" />
+    <tag id="3842681697" k="addr:street" o="none" type="node" v="20 &#1083;&#1077;&#1090; &#1054;&#1082;&#1090;&#1103;&#1073;&#1088;&#1103;" />
+    <tag id="3842681697" k="fire_operator" o="none" type="node" v="RU-VOR-1-2" />
+    <tag id="3842681697" k="addr:housenumber" o="none" type="node" v="79&#1073;" />
+    <tag id="3842689583" k="name" o="none" type="node" v="&#1057;&#1054;&#1050; &quot;&#1069;&#1085;&#1077;&#1088;&#1075;&#1080;&#1103;&quot;" />
+    <tag id="3842689583" k="phone" o="none" type="node" v="2611443" />
+    <tag id="3842689583" k="leisure" o="add" type="node" v="sports_centre" />
+    <tag id="3842689583" k="addr:city" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;" />
+    <tag id="3842689583" k="fire_rank" o="none" type="node" v="2" />
+    <tag id="3842689583" k="addr:street" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1096;&#1080;&#1083;&#1086;&#1074;&#1072;" />
+    <tag id="3842689583" k="fire_operator" o="none" type="node" v="RU-VOR-1-2" />
+    <tag id="3842689583" k="addr:housenumber" o="none" type="node" v="1&#1072;" />
+    <tag id="3848637868" k="name" o="none" type="node" v="&#1062;&#1077;&#1090;&#1088;&#1072;&#1083;&#1100;&#1085;&#1086;-&#1063;&#1077;&#1088;&#1086;&#1079;&#1077;&#1084;&#1085;&#1099;&#1081; &#1073;&#1072;&#1085;&#1082; &#1057;&#1073;&#1077;&#1088;&#1073;&#1072;&#1085;&#1082;&#1072; &#1056;&#1086;&#1089;&#1089;&#1080;&#1080;" />
+    <tag id="3848637868" k="phone" o="none" type="node" v="277-86-49" />
+    <tag id="3848637868" k="amenity" o="modify" type="node" v="bank" />
+    <tag id="3848637868" k="addr:city" o="none" type="node" v="&#1042;&#1086;&#1088;&#1086;&#1085;&#1077;&#1078;" />
+    <tag id="3848637868" k="fire_rank" o="none" type="node" v="2" />
+    <tag id="3848637868" k="addr:street" o="none" type="node" v="9 &#1071;&#1085;&#1074;&#1072;&#1088;&#1103;" />
+    <tag id="3848637868" k="fire_operator" o="none" type="node" v="RU-VOR-1-2" />
+    <tag id="3848637868" k="addr:housenumber" o="none" type="node" v="28" />
+    <tag id="23633741" k="name" o="none" type="way" v="Oxford Centre" />
+    <tag id="23633741" k="amenity" o="modify" type="way" v="library" />
+    <tag id="28103121" k="name" o="none" type="way" v="Prison - Galle" />
+    <tag id="28103121" k="is_in" o="none" type="way" v="Galle, Galle District, Southern Province, Sri Lanka" />
+    <tag id="28103121" k="amenity" o="modify" type="way" v="prison" />
+    <tag id="28103121" k="boundary" o="none" type="way" v="protected_area" />
+    <tag id="41254948" k="name" o="none" type="way" v="Al-Sedra Roundabout" />
+    <tag id="41254948" k="highway" o="none" type="way" v="residential" />
+    <tag id="41254948" k="name:ar" o="none" type="way" v="&#1583;&#1608;&#1575;&#1585; &#1575;&#1604;&#1587;&#1583;&#1585;&#1577;" />
+    <tag id="41254948" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="41318572" k="name" o="none" type="way" v="&#1605;&#1581;&#1575;&#1605;&#1610; &#1593;&#1591;&#1608;&#1575;&#1606;" />
+    <tag id="41318572" k="office" o="add" type="way" v="lawyer" />
+    <tag id="41318572" k="name:ar" o="none" type="way" v="&#1605;&#1581;&#1575;&#1605;&#1610; &#1593;&#1591;&#1608;&#1575;&#1606;" />
+    <tag id="41318572" k="name:en" o="none" type="way" v="Atwan Legal Practice" />
+    <tag id="44780989" k="source" o="none" type="way" v="yahoo" />
+    <tag id="44780989" k="amenity" o="modify" type="way" v="restaurant" />
+    <tag id="44780989" k="building" o="none" type="way" v="yes" />
+    <tag id="44780989" k="addr:city" o="none" type="way" v="T&#252;bingen" />
+    <tag id="44780989" k="addr:street" o="none" type="way" v="Ammertalbahnstra&#223;e" />
+    <tag id="44780989" k="addr:suburb" o="none" type="way" v="Unterjesingen" />
+    <tag id="44780989" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="44780989" k="addr:postcode" o="none" type="way" v="72070" />
+    <tag id="44780989" k="addr:housenumber" o="none" type="way" v="16" />
+    <tag id="50314148" k="name" o="none" type="way" v="J&#252;discher Friedhof" />
+    <tag id="50314148" k="barrier" o="none" type="way" v="fence" />
+    <tag id="50314148" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="50314148" k="religion" o="none" type="way" v="jewish" />
+    <tag id="50314148" k="addr:city" o="none" type="way" v="Potsdam" />
+    <tag id="50314148" k="wikipedia" o="none" type="way" v="de:J&#252;discher Friedhof (Potsdam)" />
+    <tag id="50314148" k="fence_type" o="none" type="way" v="wall" />
+    <tag id="50314148" k="addr:street" o="none" type="way" v="Puschkinallee" />
+    <tag id="50314148" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="50314148" k="addr:housenumber" o="none" type="way" v="18" />
+    <tag id="52394578" k="name" o="none" type="way" v="Gymnova" />
+    <tag id="52394578" k="sport" o="add" type="way" v="gymnastics" />
+    <tag id="52394578" k="leisure" o="add" type="way" v="sports_centre" />
+    <tag id="52394578" k="building" o="none" type="way" v="yes" />
+    <tag id="52394578" k="operator" o="none" type="way" v="East London Gymnastics Club" />
+    <tag id="84657129" k="amenity" o="modify" type="way" v="toilets" />
+    <tag id="84657129" k="building" o="none" type="way" v="yes" />
+    <tag id="84657129" k="source:location" o="none" type="way" v="Bing" />
+    <tag id="91799254" k="name" o="none" type="way" v="Op&#233;ration des Nations Unies en C&#244;te d'Ivoire" />
+    <tag id="91799254" k="landuse" o="none" type="way" v="military" />
+    <tag id="91799254" k="name:en" o="none" type="way" v="United Nations Operation in C&#244;te d'Ivoire" />
+    <tag id="91799254" k="addr:city" o="none" type="way" v="Att&#233;coub&#233;" />
+    <tag id="91799254" k="addr:street" o="none" type="way" v="Boulevard de la Paix" />
+    <tag id="97859694" k="name" o="add" type="way" v="Powell Valley National Bank" />
+    <tag id="97859694" k="amenity" o="modify" type="way" v="bank" />
+    <tag id="97859694" k="building" o="none" type="way" v="yes" />
+    <tag id="101080452" k="name" o="none" type="way" v="conjurel plage" />
+    <tag id="101080452" k="phone" o="none" type="way" v="31-05-73-08" />
+    <tag id="101080452" k="source" o="none" type="way" v="hot_c.osm-ha_iom" />
+    <tag id="101080452" k="natural" o="add" type="way" v="beach" />
+    <tag id="101080452" k="addr:street" o="none" type="way" v="marigot" />
+    <tag id="101080452" k="contact_person" o="none" type="way" v="coachi ernso" />
+    <tag id="103231400" k="name" o="none" type="way" v="sensation" />
+    <tag id="103231400" k="phone" o="none" type="way" v="3673 6367/3616 6775" />
+    <tag id="103231400" k="sport" o="add" type="way" v="swimming" />
+    <tag id="103231400" k="source" o="none" type="way" v="hot_cosmha_iom" />
+    <tag id="103231400" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="103231400" k="addr:city" o="none" type="way" v="source chaude" />
+    <tag id="103231400" k="contact_person" o="none" type="way" v="royal willy" />
+    <tag id="139991652" k="name" o="none" type="way" v="&#1040;&#1076;&#1084;&#1080;&#1085;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1075;&#1086;&#1088;&#1086;&#1076;&#1089;&#1082;&#1086;&#1075;&#1086; &#1086;&#1082;&#1088;&#1091;&#1075;&#1072; &#1057;&#1099;&#1079;&#1088;&#1072;&#1085;&#1100; (City Hall)" />
+    <tag id="139991652" k="amenity" o="modify" type="way" v="townhall" />
+    <tag id="139991652" k="building" o="none" type="way" v="yes" />
+    <tag id="139991652" k="addr:city" o="none" type="way" v="Syzran" />
+    <tag id="139991652" k="addr:street" o="none" type="way" v="Sovetskaya st" />
+    <tag id="139991652" k="building:levels" o="none" type="way" v="5" />
+    <tag id="139991652" k="addr:housenumber" o="none" type="way" v="98" />
+    <tag id="156252843" k="name" o="none" type="way" v="Altenheim Viktoria" />
+    <tag id="156252843" k="amenity" o="modify" type="way" v="social_facility" />
+    <tag id="156252843" k="building" o="none" type="way" v="yes" />
+    <tag id="156252843" k="social_facility" o="add" type="way" v="group_home" />
+    <tag id="156252843" k="social_facility:for" o="add" type="way" v="senior" />
+    <tag id="158667047" k="source" o="none" type="way" v="landsat &amp; DigitalGlobe; bing" />
+    <tag id="158667047" k="natural" o="none" type="way" v="coastline" />
+    <tag id="190328664" k="name" o="none" type="way" v="Church St. St. Cyril and Methodius" />
+    <tag id="190328664" k="amenity" o="modify" type="way" v="place_of_worship" />
+    <tag id="190328664" k="building" o="none" type="way" v="church" />
+    <tag id="190328664" k="religion" o="none" type="way" v="christian" />
+    <tag id="190328664" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="190328664" k="denomination" o="none" type="way" v="orthodox" />
+    <tag id="193033303" k="name" o="none" type="way" v="Cais do Valongo" />
+    <tag id="193033303" k="tourism" o="none" type="way" v="attraction" />
+    <tag id="193033303" k="historic" o="add" type="way" v="archaeological_site" />
+    <tag id="194226685" k="amenity" o="modify" type="way" v="first_aid" />
+    <tag id="194226685" k="building" o="none" type="way" v="admin" />
+    <tag id="205493465" k="name" o="add" type="way" v="Mairie de K&#233;dougou" />
+    <tag id="205493465" k="source" o="none" type="way" v="servey;bing" />
+    <tag id="205493465" k="amenity" o="modify" type="way" v="townhall" />
+    <tag id="205493465" k="barrier" o="none" type="way" v="wall" />
+    <tag id="224191383" k="date" o="none" type="way" v="04/16/13" />
+    <tag id="224191383" k="photo" o="none" type="way" v="J:\13 04 16 CHRISTINA NB~files\pic000061.jpg" />
+    <tag id="224191383" k="amenity" o="modify" type="way" v="toilets" />
+    <tag id="224191383" k="chimney" o="none" type="way" v="no" />
+    <tag id="224191383" k="building" o="add" type="way" v="yes" />
+    <tag id="224191383" k="occupied" o="none" type="way" v="yes" />
+    <tag id="224191383" k="roof_pitch" o="none" type="way" v="medium" />
+    <tag id="224191383" k="accessibility" o="none" type="way" v="yes" />
+    <tag id="224191383" k="building:levels" o="modify" type="way" v="1" />
+    <tag id="224191383" k="building:material" o="none" type="way" v="cmu" />
+    <tag id="232784507" k="name" o="none" type="way" v="Coreto" />
+    <tag id="232784507" k="amenity" o="modify" type="way" v="toilets" />
+    <tag id="232784507" k="building" o="none" type="way" v="yes" />
+    <tag id="238329432" k="name" o="none" type="way" v="Parque de Educaci&#243;n Vial" />
+    <tag id="238329432" k="sport" o="add" type="way" v="karting" />
+    <tag id="238329432" k="leisure" o="add" type="way" v="track" />
+    <tag id="242930739" k="name" o="none" type="way" v="Motel Gil&#259;u" />
+    <tag id="242930739" k="email" o="none" type="way" v="gilaumotel@gmail.com" />
+    <tag id="242930739" k="phone" o="none" type="way" v="+40 729-885 228" />
+    <tag id="242930739" k="source" o="none" type="way" v="Owner" />
+    <tag id="242930739" k="tourism" o="add" type="way" v="motel" />
+    <tag id="242930739" k="website" o="none" type="way" v="www.motelgilau.ro" />
+    <tag id="242930739" k="building" o="none" type="way" v="yes" />
+    <tag id="242930739" k="addr:city" o="none" type="way" v="Gil&#259;u" />
+    <tag id="242930739" k="addr:street" o="none" type="way" v="Strada Republici" />
+    <tag id="242930739" k="description" o="none" type="way" v="Dotat cu 58 de camere ce ofera un total de 118 locuri de cazare, Motel Gilau va pune la dispozitie si doua apartamente spatioase care pot fi rezervate la cerere. Camerele duble au in dotare baie cu dus, terasa/balcon, TV color si telefon cu acces intern s" />
+    <tag id="242930739" k="addr:postcode" o="none" type="way" v="407310" />
+    <tag id="242930739" k="opening_hours" o="none" type="way" v="24/7" />
+    <tag id="247557865" k="amenity" o="modify" type="way" v="car_rental" />
+    <tag id="247557865" k="building" o="none" type="way" v="residential" />
+    <tag id="252571337" k="name" o="none" type="way" v="&#12501;&#12521;&#12527;&#12540;&#12471;&#12519;&#12483;&#12503;&#12514;&#12522;&#12479;" />
+    <tag id="252571337" k="shop" o="add" type="way" v="florist" />
+    <tag id="252571337" k="source" o="none" type="way" v="GSI/KIBAN 2500; NARO; Survey" />
+    <tag id="252571337" k="building" o="none" type="way" v="yes" />
+    <tag id="252571337" k="source_ref" o="none" type="way" v="http://wiki.osm.org/wiki/GSI_KIBAN" />
+    <tag id="267330345" k="name" o="none" type="way" v="Arena Miraflores" />
+    <tag id="267330345" k="amenity" o="modify" type="way" v="nightclub" />
+    <tag id="268667681" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="277762440" k="amenity" o="modify" type="way" v="pharmacy" />
+    <tag id="277762440" k="building" o="none" type="way" v="yes" />
+    <tag id="277762440" k="dispensing" o="none" type="way" v="yes" />
+    <tag id="299907289" k="name" o="none" type="way" v="Parc Roger-Rousseau" />
+    <tag id="299907289" k="leisure" o="none" type="way" v="park" />
+    <tag id="299907289" k="name:fr" o="none" type="way" v="Parc Roger-Rousseau" />
+    <tag id="310960581" k="name" o="none" type="way" v="New Hall Lodge" />
+    <tag id="310960581" k="amenity" o="modify" type="way" v="social_facility" />
+    <tag id="310960581" k="building" o="none" type="way" v="yes" />
+    <tag id="310960581" k="operator" o="none" type="way" v="Churchill" />
+    <tag id="310960581" k="addr:city" o="none" type="way" v="Sutton Coldfield" />
+    <tag id="310960581" k="addr:street" o="none" type="way" v="Reddicap Heath Road" />
+    <tag id="310960581" k="addr:postcode" o="none" type="way" v="B75 7DW" />
+    <tag id="310960581" k="addr:housename" o="none" type="way" v="New Hall Lodge" />
+    <tag id="310960581" k="social_facility" o="add" type="way" v="group_home" />
+    <tag id="310960581" k="social_facility:for" o="add" type="way" v="senior" />
+    <tag id="311383214" k="name" o="none" type="way" v="Deben Rowing Club" />
+    <tag id="311383214" k="sport" o="add" type="way" v="rowing" />
+    <tag id="311383214" k="website" o="none" type="way" v="http://groupspaces.com/DebenRowingClub/" />
+    <tag id="311383214" k="building" o="none" type="way" v="yes" />
+    <tag id="312151282" k="name" o="add" type="way" v="Centre P&#233;nitenciaire De Nuutania" />
+    <tag id="312151282" k="amenity" o="add" type="way" v="prison" />
+    <tag id="312151282" k="building" o="none" type="way" v="yes" />
+    <tag id="313036003" k="name" o="none" type="way" v="Drogas Garcia" />
+    <tag id="313036003" k="amenity" o="modify" type="way" v="pharmacy" />
+    <tag id="313036003" k="operator" o="none" type="way" v="Farmacia" />
+    <tag id="313200837" k="ele" o="add" type="way" v="75" />
+    <tag id="313200837" k="name" o="add" type="way" v="Greenwood Cemetery" />
+    <tag id="313200837" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="313200837" k="gnis:created" o="add" type="way" v="05/03/2001" />
+    <tag id="313200837" k="gnis:state_id" o="add" type="way" v="44" />
+    <tag id="313200837" k="gnis:county_id" o="add" type="way" v="003" />
+    <tag id="313200837" k="gnis:feature_id" o="add" type="way" v="1902862" />
+    <tag id="314232480" k="name" o="add" type="way" v="Royal Animal Hospital RAH" />
+    <tag id="314232480" k="source" o="none" type="way" v="survey" />
+    <tag id="314232480" k="amenity" o="modify" type="way" v="veterinary" />
+    <tag id="317504301" k="name" o="add" type="way" v="The Church Christian Baptists" />
+    <tag id="317504301" k="phone" o="none" type="way" v="+78613876437" />
+    <tag id="317504301" k="amenity" o="modify" type="way" v="place_of_worship" />
+    <tag id="317504301" k="building" o="modify" type="way" v="church" />
+    <tag id="317504301" k="religion" o="add" type="way" v="christian" />
+    <tag id="317504301" k="addr:street" o="none" type="way" v="&#1056;&#1086;&#1089;&#1090;&#1086;&#1074;&#1089;&#1082;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="317504301" k="addr:country" o="none" type="way" v="RU" />
+    <tag id="317504301" k="denomination" o="add" type="way" v="baptist" />
+    <tag id="317504301" k="fire_operator" o="none" type="way" v="RU-KDA-7-33" />
+    <tag id="317504301" k="addr:housenumber" o="none" type="way" v="1" />
+    <tag id="317504301" k="fire_object:type" o="none" type="way" v="szo" />
+    <tag id="324339607" k="name" o="none" type="way" v="Lykynlammen ulkoilumaja" />
+    <tag id="324339607" k="access" o="none" type="way" v="public" />
+    <tag id="324339607" k="amenity" o="modify" type="way" v="toilets;shower" />
+    <tag id="324339607" k="building" o="none" type="way" v="house" />
+    <tag id="324339607" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="324339607" k="piste:amenity" o="none" type="way" v="cafe" />
+    <tag id="324339607" k="drinking_water" o="none" type="way" v="yes" />
+    <tag id="324339607" k="toilets:disposal" o="none" type="way" v="flush" />
+    <tag id="324339607" k="toilets:position" o="none" type="way" v="seated" />
+    <tag id="328654624" k="name" o="none" type="way" v="Bodelschwingh-Haus" />
+    <tag id="328654624" k="amenity" o="modify" type="way" v="social_facility" />
+    <tag id="328654624" k="website" o="none" type="way" v="http://www.diakonie-michaelshoven.de/senioren/einrichtungen/bodelschwingh-haus/" />
+    <tag id="328654624" k="building" o="none" type="way" v="yes" />
+    <tag id="328654624" k="operator" o="none" type="way" v="Diakonie Michaelshoven" />
+    <tag id="328654624" k="addr:city" o="none" type="way" v="K&#246;ln" />
+    <tag id="328654624" k="addr:street" o="none" type="way" v="M&#252;ndelstra&#223;e" />
+    <tag id="328654624" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="328654624" k="building:use" o="none" type="way" v="residential" />
+    <tag id="328654624" k="addr:postcode" o="none" type="way" v="51065" />
+    <tag id="328654624" k="social_facility" o="add" type="way" v="group_home" />
+    <tag id="328654624" k="addr:housenumber" o="none" type="way" v="1" />
+    <tag id="328654624" k="social_facility:for" o="add" type="way" v="senior" />
+    <tag id="341333755" k="name" o="none" type="way" v="Sunset North Car Wash" />
+    <tag id="341333755" k="amenity" o="modify" type="way" v="car_wash" />
+    <tag id="341333755" k="transport" o="none" type="way" v="Car wash" />
+    <tag id="342617761" k="name" o="none" type="way" v="Panor&#226;mico Grill" />
+    <tag id="342617761" k="amenity" o="modify" type="way" v="restaurant" />
+    <tag id="342617761" k="building" o="none" type="way" v="yes" />
+    <tag id="354484967" k="amenity" o="modify" type="way" v="parking" />
+    <tag id="354484967" k="parking" o="add" type="way" v="surface" />
+    <tag id="356064904" k="amenity" o="modify" type="way" v="place_of_worship" />
+    <tag id="356064904" k="building" o="none" type="way" v="yes" />
+    <tag id="356064904" k="religion" o="add" type="way" v="muslim" />
+    <tag id="363048851" k="fee" o="none" type="way" v="yes" />
+    <tag id="363048851" k="amenity" o="modify" type="way" v="toilets" />
+    <tag id="367253133" k="name" o="none" type="way" v="El Divino" />
+    <tag id="367253133" k="note" o="none" type="way" v="Admission &#163;10" />
+    <tag id="367253133" k="amenity" o="modify" type="way" v="nightclub" />
+    <tag id="367253133" k="smoking" o="none" type="way" v="outside" />
+    <tag id="367253133" k="building" o="none" type="way" v="yes" />
+    <tag id="367253133" k="addr:city" o="none" type="way" v="Belfast" />
+    <tag id="367253133" k="addr:street" o="none" type="way" v="May's Meadow" />
+    <tag id="367253133" k="addr:postcode" o="none" type="way" v="BT1 3PH" />
+    <tag id="367253133" k="opening_hours" o="none" type="way" v="21:00-02:00" />
+    <tag id="367253133" k="addr:housename" o="none" type="way" v="El Divino" />
+    <tag id="378123331" k="name" o="none" type="way" v="&#40658;&#32701;&#21009;&#21209;&#25152;" />
+    <tag id="378123331" k="amenity" o="modify" type="way" v="prison" />
+    <tag id="383498447" k="animal" o="add" type="way" v="cemetery" />
+    <tag id="383498447" k="landuse" o="add" type="way" v="cemetery" />
+  </body>
+</changeset>

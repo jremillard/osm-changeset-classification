@@ -1,0 +1,75 @@
+<changeset id="14031041" schema="2">
+  <counts nodesAdded="43" nodesDeleted="38" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="1" waysDeleted="6" waysModified="13" />
+  <meta>
+    <tag k="build" v="2.3-534-g63a3364" />
+    <tag k="comment" v="changer l'emplacement de l'arret de bus un peu decaler par rapport a sa position reel" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="1641216053" k="name" o="none" type="node" v="Le Coteau-Panorama" />
+    <tag id="1641216053" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="27116657" k="foot" o="none" type="way" v="yes" />
+    <tag id="27116657" k="name" o="none" type="way" v="Rue Guichard" />
+    <tag id="27116657" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="28319823" k="name" o="none" type="way" v="Rue du Docteur H&#233;nouille" />
+    <tag id="28319823" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="28583086" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="28583374" k="name" o="none" type="way" v="Avenue du Panorama" />
+    <tag id="28583374" k="oneway" o="add" type="way" v="yes" />
+    <tag id="28583374" k="highway" o="none" type="way" v="residential" />
+    <tag id="63653567" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="63653567" k="building" o="modify" type="way" v="house" />
+    <tag id="63655135" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="63655135" k="building" o="modify" type="way" v="house" />
+    <tag id="172592436" k="name" o="none" type="way" v="Rue des Vignes" />
+    <tag id="172592436" k="highway" o="none" type="way" v="residential" />
+    <tag id="192678931" k="highway" o="add" type="way" v="residential" />
+    <tag id="961459" k="name" o="none" type="relation" v="&#201;cole Normale Sup&#233;rieure de Cachan" />
+    <tag id="961459" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="961459" k="amenity" o="none" type="relation" v="university" />
+    <tag id="1259085" k="to" o="none" type="relation" v="Porte d'Orl&#233;ans" />
+    <tag id="1259085" k="ref" o="none" type="relation" v="187" />
+    <tag id="1259085" k="from" o="none" type="relation" v="Fresnes Charcot &#8211; Zola" />
+    <tag id="1259085" k="name" o="none" type="relation" v="Bus 187 : Fresnes Charcot &#8211; Zola &#8594; Porte d'Orl&#233;ans" />
+    <tag id="1259085" k="type" o="none" type="relation" v="route" />
+    <tag id="1259085" k="color" o="none" type="relation" v="#652B91" />
+    <tag id="1259085" k="route" o="none" type="relation" v="bus" />
+    <tag id="1259085" k="network" o="none" type="relation" v="RATP" />
+    <tag id="1259085" k="operator" o="none" type="relation" v="RATP" />
+    <tag id="1259514" k="to" o="none" type="relation" v="Porte d'Italie" />
+    <tag id="1259514" k="ref" o="none" type="relation" v="184" />
+    <tag id="1259514" k="from" o="none" type="relation" v="Fresnes Pasteur" />
+    <tag id="1259514" k="name" o="none" type="relation" v="Bus 184 : Fresnes Pasteur &#8594; Porte d'Italie" />
+    <tag id="1259514" k="type" o="none" type="relation" v="route" />
+    <tag id="1259514" k="color" o="none" type="relation" v="#DCAC27" />
+    <tag id="1259514" k="route" o="none" type="relation" v="bus" />
+    <tag id="1259514" k="network" o="none" type="relation" v="RATP" />
+    <tag id="1259514" k="operator" o="none" type="relation" v="RATP" />
+    <tag id="1259521" k="to" o="none" type="relation" v="Fresnes Pasteur" />
+    <tag id="1259521" k="ref" o="none" type="relation" v="184" />
+    <tag id="1259521" k="from" o="none" type="relation" v="Porte d'Italie" />
+    <tag id="1259521" k="name" o="none" type="relation" v="Bus 184 : Porte d'Italie &#8594; Fresnes Pasteur" />
+    <tag id="1259521" k="type" o="none" type="relation" v="route" />
+    <tag id="1259521" k="color" o="none" type="relation" v="#DCAC27" />
+    <tag id="1259521" k="route" o="none" type="relation" v="bus" />
+    <tag id="1259521" k="network" o="none" type="relation" v="RATP" />
+    <tag id="1259521" k="operator" o="none" type="relation" v="RATP" />
+    <tag id="2504437" k="to" o="none" type="relation" v="Fresnes Charcot - Zola" />
+    <tag id="2504437" k="ref" o="none" type="relation" v="187" />
+    <tag id="2504437" k="from" o="none" type="relation" v="Porte d'Orl&#233;ans" />
+    <tag id="2504437" k="name" o="none" type="relation" v="Bus 187 : Porte d'Orl&#233;ans &#8594; Fresnes Charcot-Zola" />
+    <tag id="2504437" k="type" o="none" type="relation" v="route" />
+    <tag id="2504437" k="color" o="none" type="relation" v="#652B91" />
+    <tag id="2504437" k="route" o="none" type="relation" v="bus" />
+    <tag id="2504437" k="network" o="none" type="relation" v="RATP" />
+    <tag id="2504437" k="operator" o="none" type="relation" v="RATP" />
+    <tag id="2504515" k="ref" o="none" type="relation" v="N21" />
+    <tag id="2504515" k="name" o="none" type="relation" v="Noctilien N21 : Ch&#226;telet &#8594; Chilly-Mazarin&#8211;Lib&#233;ration" />
+    <tag id="2504515" k="type" o="none" type="relation" v="route" />
+    <tag id="2504515" k="color" o="none" type="relation" v="#77C695" />
+    <tag id="2504515" k="route" o="none" type="relation" v="bus" />
+    <tag id="2504515" k="network" o="none" type="relation" v="Noctilien" />
+    <tag id="2504515" k="operator" o="none" type="relation" v="RATP" />
+  </body>
+</changeset>

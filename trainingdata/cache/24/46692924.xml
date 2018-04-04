@@ -1,0 +1,129 @@
+<changeset id="46692924" schema="2">
+  <counts nodesAdded="0" nodesDeleted="865" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="72" waysModified="132" />
+  <meta>
+    <tag k="comment" v="NI: full revert of Cushendall edit 46496897 for incorrectly separating roads+waterways serving as border member; the repair attempt cs 46659194 had to be included in the revert. Following, an attampt will be made to preserve useful additions" />
+    <tag k="created_by" v="reverter;JOSM/1.5 (11415 en_GB)" />
+    <tag k="source" v="Bing; OSM data" />
+  </meta>
+  <body>
+    <tag id="75642977" k="ref" o="none" type="way" v="A2" />
+    <tag id="75642977" k="name" o="none" type="way" v="Coast Road A2" />
+    <tag id="75642977" k="highway" o="none" type="way" v="primary" />
+    <tag id="75642977" k="ncn_ref" o="none" type="way" v="93" />
+    <tag id="75642977" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="114734039" k="name" o="none" type="way" v="Shore Street" />
+    <tag id="114734039" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="139179722" k="ref" o="none" type="way" v="B14" />
+    <tag id="139179722" k="name" o="none" type="way" v="Ballyemon Road" />
+    <tag id="139179722" k="highway" o="none" type="way" v="secondary" />
+    <tag id="148601776" k="highway" o="none" type="way" v="track" />
+    <tag id="196385913" k="highway" o="none" type="way" v="residential" />
+    <tag id="196385914" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="196393551" k="highway" o="none" type="way" v="residential" />
+    <tag id="196394107" k="name" o="none" type="way" v="Shore Street" />
+    <tag id="196394107" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="256537348" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="298693368" k="landuse" o="none" type="way" v="residential" />
+    <tag id="299490786" k="highway" o="none" type="way" v="residential" />
+    <tag id="299490789" k="highway" o="none" type="way" v="residential" />
+    <tag id="299490791" k="highway" o="none" type="way" v="residential" />
+    <tag id="299490792" k="highway" o="none" type="way" v="residential" />
+    <tag id="299490794" k="highway" o="add" type="way" v="service" />
+    <tag id="299490796" k="highway" o="none" type="way" v="track" />
+    <tag id="299490798" k="highway" o="none" type="way" v="residential" />
+    <tag id="299490801" k="highway" o="none" type="way" v="residential" />
+    <tag id="299490803" k="highway" o="none" type="way" v="service" />
+    <tag id="299491923" k="tourism" o="modify" type="way" v="camp_site" />
+    <tag id="316372090" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316372091" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316372587" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316374065" k="source" o="none" type="way" v="PGS" />
+    <tag id="316374065" k="natural" o="none" type="way" v="coastline" />
+    <tag id="316374065" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="316374070" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316374071" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="316374072" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316374073" k="highway" o="add" type="way" v="residential" />
+    <tag id="316374074" k="waterway" o="add" type="way" v="river" />
+    <tag id="316430751" k="name" o="none" type="way" v="Shore Street" />
+    <tag id="316430751" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="316430755" k="name" o="add" type="way" v="River Dall" />
+    <tag id="316430755" k="waterway" o="add" type="way" v="river" />
+    <tag id="316657432" k="waterway" o="none" type="way" v="river" />
+    <tag id="316868306" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="316868306" k="waterway" o="add" type="way" v="stream" />
+    <tag id="316868307" k="name" o="none" type="way" v="Ballyomen River" />
+    <tag id="316868307" k="waterway" o="none" type="way" v="stream" />
+    <tag id="316868309" k="waterway" o="add" type="way" v="river" />
+    <tag id="316868310" k="waterway" o="add" type="way" v="river" />
+    <tag id="316870431" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="316870431" k="waterway" o="add" type="way" v="stream" />
+    <tag id="316982466" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="316982466" k="waterway" o="add" type="way" v="stream" />
+    <tag id="316982609" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="316982609" k="waterway" o="add" type="way" v="stream" />
+    <tag id="317079798" k="waterway" o="add" type="way" v="river" />
+    <tag id="317082020" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="317082020" k="waterway" o="add" type="way" v="river" />
+    <tag id="317082022" k="name" o="add" type="way" v="River Dall" />
+    <tag id="317082022" k="waterway" o="add" type="way" v="river" />
+    <tag id="317082376" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="317082376" k="waterway" o="add" type="way" v="stream" />
+    <tag id="317082377" k="name" o="add" type="way" v="River Dall" />
+    <tag id="317082377" k="waterway" o="add" type="way" v="river" />
+    <tag id="317094387" k="name" o="add" type="way" v="Ballyemon River" />
+    <tag id="317094387" k="waterway" o="add" type="way" v="stream" />
+    <tag id="317094388" k="name" o="add" type="way" v="Ballyomen River" />
+    <tag id="317094388" k="waterway" o="add" type="way" v="stream" />
+    <tag id="317094630" k="name" o="add" type="way" v="Ballyomen River" />
+    <tag id="317094630" k="waterway" o="add" type="way" v="stream" />
+    <tag id="317096066" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="317096936" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="317096940" k="waterway" o="add" type="way" v="stream" />
+    <tag id="317096947" k="name" o="add" type="way" v="River Dall" />
+    <tag id="317096947" k="waterway" o="add" type="way" v="river" />
+    <tag id="317255372" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317255372" k="waterway" o="add" type="way" v="river" />
+    <tag id="317487723" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317487723" k="waterway" o="add" type="way" v="river" />
+    <tag id="317488089" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317488089" k="waterway" o="add" type="way" v="river" />
+    <tag id="317488658" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317488658" k="waterway" o="add" type="way" v="river" />
+    <tag id="317806432" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317806432" k="waterway" o="add" type="way" v="river" />
+    <tag id="317806433" k="name" o="none" type="way" v="Glenaan River" />
+    <tag id="317806433" k="waterway" o="none" type="way" v="river" />
+    <tag id="317806833" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317806833" k="waterway" o="add" type="way" v="river" />
+    <tag id="317806834" k="name" o="add" type="way" v="Glenaan River" />
+    <tag id="317806834" k="waterway" o="add" type="way" v="river" />
+    <tag id="436263746" k="name" o="none" type="way" v="Cushendall Caravan Holiday Park" />
+    <tag id="436263746" k="tents" o="none" type="way" v="yes" />
+    <tag id="436263746" k="tourism" o="modify" type="way" v="camp_site" />
+    <tag id="436263746" k="website" o="none" type="way" v="http://glenscoastcaravanparks.com/cushendall" />
+    <tag id="436263746" k="caravans" o="none" type="way" v="yes" />
+    <tag id="436263746" k="operator" o="none" type="way" v="Glen Coast Caravan Parks" />
+    <tag id="4268711" k="name" o="none" type="relation" v="Mullinaskea" />
+    <tag id="4268711" k="type" o="none" type="relation" v="boundary" />
+    <tag id="4268711" k="place" o="none" type="relation" v="locality" />
+    <tag id="4268711" k="name:ga" o="none" type="relation" v="Muilleann na sceath" />
+    <tag id="4268711" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="4268711" k="locality" o="none" type="relation" v="townland" />
+    <tag id="4268711" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="4268711" k="source:name:ga" o="none" type="relation" v="Joyce iii 522" />
+    <tag id="4270814" k="name" o="none" type="relation" v="Altmore Lower" />
+    <tag id="4270814" k="type" o="none" type="relation" v="boundary" />
+    <tag id="4270814" k="place" o="none" type="relation" v="locality" />
+    <tag id="4270814" k="name:en" o="none" type="relation" v="Altmore Lower" />
+    <tag id="4270814" k="name:ga" o="none" type="relation" v="Alt Mor" />
+    <tag id="4270814" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="4270814" k="locality" o="none" type="relation" v="townland" />
+    <tag id="4270814" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="4270814" k="logainm:ref" o="none" type="relation" v="62385" />
+    <tag id="4270814" k="logainm:url" o="none" type="relation" v="http://www.logainm.ie/62385.aspx" />
+    <tag id="4270814" k="source:name:ga" o="none" type="relation" v="Magill's Antrim 63" />
+    <tag id="4270814" k="placenamesni:ref" o="none" type="relation" v="18626" />
+    <tag id="4270814" k="placenamesni:url" o="none" type="relation" v="http://www.placenamesni.org/resultdetails.php?entry=18626" />
+  </body>
+</changeset>

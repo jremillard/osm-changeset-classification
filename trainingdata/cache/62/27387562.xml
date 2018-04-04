@@ -1,0 +1,356 @@
+<changeset id="27387562" schema="2">
+  <counts nodesAdded="21" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="6" waysDeleted="1" waysModified="82" />
+  <meta>
+    <tag k="build" v="2.3-648-g9cab056" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="4469134" k="name" o="none" type="way" v="School Lane" />
+    <tag id="4469134" k="source" o="none" type="way" v="GPS" />
+    <tag id="4469134" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="4469134" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="4469134" k="FIXME:nsl" o="none" type="way" v="inferred single-carriageway NSL - remove this tag once verified" />
+    <tag id="4469134" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="4469134" k="source:maxspeed" o="none" type="way" v="UK:nsl_single" />
+    <tag id="18674436" k="name" o="none" type="way" v="Station Road" />
+    <tag id="18674436" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="18674436" k="ncn_ref" o="none" type="way" v="64" />
+    <tag id="18676387" k="lit" o="none" type="way" v="yes" />
+    <tag id="18676387" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="18676387" k="width" o="none" type="way" v="3" />
+    <tag id="18676387" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="18676387" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="18676387" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="18676387" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="18676387" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="21819021" k="name" o="none" type="way" v="Chapel Lane" />
+    <tag id="21819021" k="oneway" o="none" type="way" v="yes" />
+    <tag id="21819021" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="21819021" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="21819021" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="24221117" k="name" o="none" type="way" v="Whitemoor Lane" />
+    <tag id="24221117" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="24221117" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="24221118" k="name" o="none" type="way" v="Brough Lane" />
+    <tag id="24221118" k="layer" o="none" type="way" v="1" />
+    <tag id="24221118" k="bridge" o="none" type="way" v="yes" />
+    <tag id="24221118" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27248878" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27248878" k="source" o="none" type="way" v="GPS" />
+    <tag id="27248878" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="27248878" k="operator" o="none" type="way" v="Highways Agency" />
+    <tag id="27248878" k="highways_agency:area" o="none" type="way" v="7" />
+    <tag id="30628551" k="name" o="none" type="way" v="Sand Lane" />
+    <tag id="30628551" k="source" o="none" type="way" v="NPE" />
+    <tag id="30628551" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="30628551" k="history" o="none" type="way" v="Retrieved from v3" />
+    <tag id="30628551" k="source:name" o="none" type="way" v="NaPTAN" />
+    <tag id="30628565" k="name" o="none" type="way" v="Girton Lane" />
+    <tag id="30628565" k="source" o="none" type="way" v="GPS" />
+    <tag id="30628565" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="30628565" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="30628565" k="FIXME:nsl" o="none" type="way" v="inferred single-carriageway NSL - remove this tag once verified" />
+    <tag id="30628565" k="source:maxspeed" o="none" type="way" v="UK:nsl_single" />
+    <tag id="30628587" k="name" o="none" type="way" v="Eagle Road" />
+    <tag id="30628587" k="source" o="none" type="way" v="NPE/GPS" />
+    <tag id="30628587" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="30628587" k="source:name" o="none" type="way" v="NaPTAN" />
+    <tag id="30628620" k="name" o="none" type="way" v="Rabbit Hill Lane" />
+    <tag id="30628620" k="source" o="none" type="way" v="NPE" />
+    <tag id="30628620" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="30628620" k="source:name" o="none" type="way" v="NaPTAN" />
+    <tag id="30771932" k="name" o="none" type="way" v="Shire Lane" />
+    <tag id="30771932" k="oneway" o="none" type="way" v="no" />
+    <tag id="30771932" k="source" o="none" type="way" v="survey" />
+    <tag id="30771932" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="30789970" k="name" o="none" type="way" v="High Street" />
+    <tag id="30789970" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="30790007" k="name" o="none" type="way" v="Sands Lane" />
+    <tag id="30790007" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="30790505" k="name" o="none" type="way" v="Brough Lane" />
+    <tag id="30790505" k="source" o="none" type="way" v="GPS" />
+    <tag id="30790505" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="32202957" k="lit" o="none" type="way" v="yes" />
+    <tag id="32202957" k="name" o="none" type="way" v="Main Street" />
+    <tag id="32202957" k="source" o="none" type="way" v="Bing" />
+    <tag id="32202957" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="32202960" k="name" o="none" type="way" v="Stubton Road" />
+    <tag id="32202960" k="source" o="none" type="way" v="survey" />
+    <tag id="32202960" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="32202960" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="35583671" k="name" o="none" type="way" v="Broadholme Road" />
+    <tag id="35583671" k="source" o="none" type="way" v="NPE" />
+    <tag id="35583671" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="35583671" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="35584463" k="name" o="none" type="way" v="Whisby Road" />
+    <tag id="35584463" k="source" o="none" type="way" v="GPS" />
+    <tag id="35584463" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="38894000" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="38894001" k="name" o="none" type="way" v="Sand Lane" />
+    <tag id="38894001" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="38894001" k="source:name" o="none" type="way" v="OS_opendata_streetview" />
+    <tag id="44052229" k="name" o="none" type="way" v="Spalford Road" />
+    <tag id="44052229" k="source" o="none" type="way" v="NPE" />
+    <tag id="44052229" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="44052229" k="history" o="none" type="way" v="Retrieved from v3" />
+    <tag id="44052229" k="source:name" o="none" type="way" v="NaPTAN" />
+    <tag id="44052230" k="name" o="none" type="way" v="Spalford Road" />
+    <tag id="44052230" k="source" o="none" type="way" v="NPE" />
+    <tag id="44052230" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="44052230" k="history" o="none" type="way" v="Retrieved from v3" />
+    <tag id="45169137" k="name" o="none" type="way" v="Marsh Lane" />
+    <tag id="45169137" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="45169137" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="45169137" k="source:highway" o="none" type="way" v="Bing" />
+    <tag id="46047047" k="name" o="none" type="way" v="High Street" />
+    <tag id="46047047" k="source" o="none" type="way" v="GPS" />
+    <tag id="46047047" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="46047047" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="50836659" k="source" o="none" type="way" v="NPE" />
+    <tag id="50836659" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="50836662" k="name" o="none" type="way" v="Thorpe Road" />
+    <tag id="50836662" k="source" o="none" type="way" v="NPE" />
+    <tag id="50836662" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="50926761" k="name" o="none" type="way" v="Brough Road" />
+    <tag id="50926761" k="source" o="none" type="way" v="GPS" />
+    <tag id="50926761" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="50926764" k="layer" o="none" type="way" v="1" />
+    <tag id="50926764" k="bridge" o="none" type="way" v="yes" />
+    <tag id="50926764" k="source" o="none" type="way" v="GPS" />
+    <tag id="50926764" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="50989779" k="oneway" o="none" type="way" v="yes" />
+    <tag id="50989779" k="source" o="none" type="way" v="GPS" />
+    <tag id="50989779" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="50989779" k="operator" o="none" type="way" v="Highways Agency" />
+    <tag id="50989779" k="highways_agency:area" o="none" type="way" v="7" />
+    <tag id="50989785" k="source" o="none" type="way" v="GPS" />
+    <tag id="50989785" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="50990409" k="source" o="none" type="way" v="NPE" />
+    <tag id="50990409" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="50990409" k="old_ref" o="none" type="way" v="A46" />
+    <tag id="50990409" k="historic" o="none" type="way" v="roman_road" />
+    <tag id="51855517" k="name" o="none" type="way" v="Dycote Lane" />
+    <tag id="51855517" k="source" o="none" type="way" v="GPS" />
+    <tag id="51855517" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="51858404" k="name" o="none" type="way" v="Welbourn Road" />
+    <tag id="51858404" k="source" o="none" type="way" v="GPS" />
+    <tag id="51858404" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="51858404" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="52834757" k="name" o="none" type="way" v="Moor Lane" />
+    <tag id="52834757" k="source" o="none" type="way" v="NPE and view from W end" />
+    <tag id="52834757" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="56062201" k="name" o="none" type="way" v="Brown Wood Lane" />
+    <tag id="56062201" k="source" o="none" type="way" v="os_opendata_streetview" />
+    <tag id="56062201" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="56065850" k="name" o="none" type="way" v="Sand Lane" />
+    <tag id="56065850" k="source" o="none" type="way" v="NPE" />
+    <tag id="56065850" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="56065850" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="79113464" k="name" o="none" type="way" v="School Lane" />
+    <tag id="79113464" k="source" o="none" type="way" v="GPS" />
+    <tag id="79113464" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="79113464" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="79113464" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="79113464" k="source:maxspeed" o="none" type="way" v="survey" />
+    <tag id="129196946" k="name" o="none" type="way" v="Brough Lane" />
+    <tag id="129196946" k="bridge" o="add" type="way" v="T" />
+    <tag id="129196946" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="129196946" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="129197546" k="name" o="none" type="way" v="Stapleford Lane" />
+    <tag id="129197546" k="source" o="none" type="way" v="GPS" />
+    <tag id="129197546" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="129198838" k="name" o="none" type="way" v="Lincoln Road" />
+    <tag id="129198838" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="129198839" k="name" o="none" type="way" v="Linga Lane" />
+    <tag id="129198839" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="129212188" k="name" o="none" type="way" v="Eagle Road" />
+    <tag id="129212188" k="source" o="none" type="way" v="NPE" />
+    <tag id="129212188" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="129212188" k="history" o="none" type="way" v="Retrieved from v3" />
+    <tag id="129212190" k="name" o="none" type="way" v="Scarle Lane" />
+    <tag id="129212190" k="source" o="none" type="way" v="NPE" />
+    <tag id="129212190" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="129212190" k="history" o="none" type="way" v="Retrieved from v3" />
+    <tag id="129213325" k="name" o="none" type="way" v="Moor Lane" />
+    <tag id="129213325" k="source" o="none" type="way" v="NPE and view from W end" />
+    <tag id="129213325" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="141842814" k="source" o="none" type="way" v="Bing" />
+    <tag id="141842814" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="146667019" k="name" o="none" type="way" v="Lincoln Road" />
+    <tag id="146667019" k="source" o="none" type="way" v="GPS;Bing" />
+    <tag id="146667019" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="146667019" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="152190846" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="153709578" k="name" o="none" type="way" v="Stubton Road" />
+    <tag id="153709578" k="source" o="none" type="way" v="survey" />
+    <tag id="153709578" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="153709578" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="153709599" k="name" o="none" type="way" v="Brandon Road" />
+    <tag id="153709599" k="source" o="none" type="way" v="survey" />
+    <tag id="153709599" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="153709599" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="153709681" k="name" o="none" type="way" v="Claypole Road" />
+    <tag id="153709681" k="source" o="none" type="way" v="survey" />
+    <tag id="153709681" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="153709681" k="source:name" o="none" type="way" v="OS_OpenData_StreetView" />
+    <tag id="200343071" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="200343071" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="208112426" k="name" o="none" type="way" v="Whisby Road" />
+    <tag id="208112426" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="208311581" k="name" o="none" type="way" v="Station Road" />
+    <tag id="208311581" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="208311581" k="source:ncn64" o="none" type="way" v="Filling in gap between surveyed bits" />
+    <tag id="223600988" k="name" o="none" type="way" v="Stubton Road" />
+    <tag id="223600988" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="227148603" k="source" o="none" type="way" v="NPE" />
+    <tag id="227148603" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="227148638" k="name" o="none" type="way" v="Saxilby Road" />
+    <tag id="227148638" k="source" o="none" type="way" v="NPE" />
+    <tag id="227148638" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="227148638" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="227633834" k="name" o="none" type="way" v="Station Road" />
+    <tag id="227633834" k="source" o="none" type="way" v="NPE" />
+    <tag id="227633834" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="227633834" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="227633835" k="name" o="none" type="way" v="Eagle Road" />
+    <tag id="227633835" k="source" o="none" type="way" v="NPE" />
+    <tag id="227633835" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="227633835" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="227640130" k="name" o="none" type="way" v="Royal Oak Lane" />
+    <tag id="227640130" k="oneway" o="none" type="way" v="yes" />
+    <tag id="227640130" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="227640130" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="227640130" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="229184544" k="name" o="none" type="way" v="Chapel Lane" />
+    <tag id="229184544" k="source" o="none" type="way" v="NPE" />
+    <tag id="229184544" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="229184544" k="source:name" o="none" type="way" v="NaPTAN;survey" />
+    <tag id="229184545" k="name" o="none" type="way" v="Doddington Road" />
+    <tag id="229184545" k="source" o="none" type="way" v="GPS" />
+    <tag id="229184545" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="229184545" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="229184549" k="name" o="none" type="way" v="Spalford Lane" />
+    <tag id="229184549" k="source" o="none" type="way" v="NPE" />
+    <tag id="229184549" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="229184549" k="source:name" o="none" type="way" v="OS_OpenData_Locator" />
+    <tag id="234913357" k="name" o="none" type="way" v="Main Street" />
+    <tag id="234913357" k="source" o="none" type="way" v="Bing" />
+    <tag id="234913357" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="234913357" k="source:name" o="none" type="way" v="Sign" />
+    <tag id="264373688" k="source" o="none" type="way" v="NPE" />
+    <tag id="264373688" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="264373688" k="old_ref" o="none" type="way" v="A46" />
+    <tag id="264373688" k="historic" o="none" type="way" v="roman_road" />
+    <tag id="264373689" k="source" o="none" type="way" v="NPE" />
+    <tag id="264373689" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="264373689" k="old_ref" o="none" type="way" v="A46" />
+    <tag id="275236928" k="lit" o="none" type="way" v="no" />
+    <tag id="275236928" k="name" o="none" type="way" v="Thorpe Road" />
+    <tag id="275236928" k="width" o="none" type="way" v="6" />
+    <tag id="275236928" k="source" o="none" type="way" v="GPS" />
+    <tag id="275236928" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275236928" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="275236928" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275236928" k="maxweight" o="none" type="way" v="7.5" />
+    <tag id="275236928" k="maxspeed:type" o="none" type="way" v="GB:nsl_single" />
+    <tag id="275236928" k="maxweight:conditional" o="none" type="way" v="none @ destination" />
+    <tag id="275251624" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="275251624" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275251624" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="275360836" k="lit" o="none" type="way" v="no" />
+    <tag id="275360836" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="275360836" k="width" o="none" type="way" v="3" />
+    <tag id="275360836" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275360836" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="275360836" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="275360836" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="275360836" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275360836" k="maxspeed:type" o="none" type="way" v="GB:nsl_single" />
+    <tag id="275364440" k="lit" o="none" type="way" v="no" />
+    <tag id="275364440" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="275364440" k="width" o="none" type="way" v="3" />
+    <tag id="275364440" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275364440" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="275364440" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="275364440" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="275364440" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="275364444" k="lit" o="none" type="way" v="yes" />
+    <tag id="275364444" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="275364444" k="width" o="none" type="way" v="3" />
+    <tag id="275364444" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275364444" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="275364444" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="275364444" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="275364444" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="275364449" k="lit" o="none" type="way" v="no" />
+    <tag id="275364449" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="275364449" k="width" o="none" type="way" v="3" />
+    <tag id="275364449" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275364449" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="275364449" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="275364449" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="275364449" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275380151" k="lit" o="none" type="way" v="no" />
+    <tag id="275380151" k="name" o="none" type="way" v="Eagle Road" />
+    <tag id="275380151" k="width" o="none" type="way" v="4" />
+    <tag id="275380151" k="source" o="none" type="way" v="NPE/GPS" />
+    <tag id="275380151" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275380151" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275380151" k="source:name" o="none" type="way" v="NaPTAN" />
+    <tag id="275479277" k="lit" o="none" type="way" v="yes" />
+    <tag id="275479277" k="name" o="none" type="way" v="Station Road" />
+    <tag id="275479277" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275479277" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="275479279" k="name" o="none" type="way" v="Station Road" />
+    <tag id="275479279" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275480342" k="lit" o="none" type="way" v="yes" />
+    <tag id="275480342" k="name" o="none" type="way" v="Station Road" />
+    <tag id="275480342" k="width" o="none" type="way" v="4" />
+    <tag id="275480342" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275480342" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275482992" k="name" o="none" type="way" v="Cross Lane" />
+    <tag id="275482992" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275482992" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275495052" k="lit" o="none" type="way" v="no" />
+    <tag id="275495052" k="name" o="none" type="way" v="Thorpe Lane" />
+    <tag id="275495052" k="width" o="none" type="way" v="5" />
+    <tag id="275495052" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275495052" k="rcn_ref" o="none" type="way" v="93" />
+    <tag id="275495052" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="275500522" k="name" o="none" type="way" v="Thorpe Road" />
+    <tag id="275500522" k="source" o="none" type="way" v="NPE" />
+    <tag id="275500522" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275500522" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="275500522" k="maxweight" o="none" type="way" v="7.5" />
+    <tag id="275500522" k="maxweight:conditional" o="none" type="way" v="none @ destination" />
+    <tag id="275500525" k="name" o="none" type="way" v="Thorpe Road" />
+    <tag id="275500525" k="source" o="none" type="way" v="NPE" />
+    <tag id="275500525" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275500525" k="maxweight" o="none" type="way" v="7.5" />
+    <tag id="275500525" k="maxweight:conditional" o="none" type="way" v="none @ destination" />
+    <tag id="275500533" k="name" o="none" type="way" v="Thorpe Road" />
+    <tag id="275500533" k="bridge" o="none" type="way" v="yes" />
+    <tag id="275500533" k="source" o="none" type="way" v="NPE" />
+    <tag id="275500533" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="275500533" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="275500533" k="maxweight" o="none" type="way" v="7.5" />
+    <tag id="275500533" k="maxweight:conditional" o="none" type="way" v="none @ destination" />
+    <tag id="316730191" k="name" o="add" type="way" v="Linga Lane" />
+    <tag id="316730191" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="316730316" k="name" o="add" type="way" v="Linga Lane" />
+    <tag id="316730316" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316730397" k="name" o="add" type="way" v="Sands Lane" />
+    <tag id="316730397" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316730400" k="name" o="add" type="way" v="High Street" />
+    <tag id="316730400" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="316730994" k="name" o="add" type="way" v="Marsh Lane" />
+    <tag id="316730994" k="source" o="add" type="way" v="GPS;Bing" />
+    <tag id="316730994" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="316730994" k="source:name" o="add" type="way" v="OS_OpenData_StreetView" />
+    <tag id="316731068" k="name" o="add" type="way" v="High Street" />
+    <tag id="316731068" k="source" o="add" type="way" v="GPS" />
+    <tag id="316731068" k="highway" o="add" type="way" v="residential" />
+    <tag id="316731068" k="source:name" o="add" type="way" v="OS_OpenData_Locator" />
+  </body>
+</changeset>

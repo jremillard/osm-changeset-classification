@@ -1,0 +1,88 @@
+<changeset id="9394788" schema="2">
+  <counts nodesAdded="0" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="8" waysModified="11" />
+  <meta>
+    <tag k="build" v="2.2-41-gec89ae9" />
+    <tag k="comment" v="Cleaned up Vaasankatu by merging" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.2" />
+  </meta>
+  <body>
+    <tag id="249349084" k="name" o="none" type="node" v="Lepakkomies" />
+    <tag id="249349084" k="amenity" o="none" type="node" v="pub" />
+    <tag id="249349084" k="addr:city" o="none" type="node" v="Helsinki" />
+    <tag id="249349084" k="addr:country" o="none" type="node" v="FI" />
+    <tag id="434619502" k="highway" o="none" type="node" v="crossing" />
+    <tag id="434619502" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="434619510" k="highway" o="none" type="node" v="crossing" />
+    <tag id="5079402" k="lit" o="none" type="way" v="yes" />
+    <tag id="5079402" k="name" o="none" type="way" v="Vaasankatu" />
+    <tag id="5079402" k="lanes" o="none" type="way" v="2" />
+    <tag id="5079402" k="highway" o="none" type="way" v="residential" />
+    <tag id="5079402" k="name:sv" o="none" type="way" v="Vasagatan" />
+    <tag id="5079402" k="surface" o="none" type="way" v="paved" />
+    <tag id="5079402" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5079402" k="parking:lane:both" o="modify" type="way" v="no_stopping; parallel; parallel; no_stopping" />
+    <tag id="5079402" k="parking:lane:left" o="add" type="way" v="no_parking" />
+    <tag id="5079402" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="5079402" k="parking:ticket:zone" o="add" type="way" v="3" />
+    <tag id="5079402" k="parking:condition:both" o="add" type="way" v="ticket" />
+    <tag id="5079402" k="parking:condition:right" o="add" type="way" v="ticket" />
+    <tag id="5079402" k="parking:lane:left:inline" o="add" type="way" v="lay_by; on_street" />
+    <tag id="5079402" k="parking:lane:right:inline" o="add" type="way" v="on_street; lay_by" />
+    <tag id="5079402" k="parking:condition:both:residents" o="add" type="way" v="I" />
+    <tag id="5079402" k="parking:condition:right:residents" o="add" type="way" v="I" />
+    <tag id="5079402" k="parking:condition:both:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="5079402" k="parking:condition:right:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="74332918" k="lit" o="none" type="way" v="yes" />
+    <tag id="74332918" k="name" o="none" type="way" v="Porvoonkatu" />
+    <tag id="74332918" k="lanes" o="none" type="way" v="2" />
+    <tag id="74332918" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="74332918" k="name:sv" o="none" type="way" v="Borg&#229;gatan" />
+    <tag id="74332918" k="surface" o="none" type="way" v="paved" />
+    <tag id="74332918" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="74332918" k="snowplowing" o="none" type="way" v="yes" />
+    <tag id="74332918" k="parking:lane:left" o="none" type="way" v="parallel" />
+    <tag id="74332918" k="parking:both:placement" o="none" type="way" v="dedicated" />
+    <tag id="74332918" k="parking:condition:left" o="none" type="way" v="ticket" />
+    <tag id="74332918" k="parking:lane:left:inline" o="none" type="way" v="on_street" />
+    <tag id="74332918" k="parking:condition:left:residents" o="none" type="way" v="I" />
+    <tag id="74332918" k="parking:condition:left:time_interval" o="none" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="79240124" k="lit" o="none" type="way" v="yes" />
+    <tag id="79240124" k="name" o="none" type="way" v="Harjukatu" />
+    <tag id="79240124" k="highway" o="none" type="way" v="residential" />
+    <tag id="79240124" k="incline" o="none" type="way" v="-10.5%" />
+    <tag id="79240124" k="name:sv" o="none" type="way" v="&#197;sgatan" />
+    <tag id="79240124" k="surface" o="none" type="way" v="paved" />
+    <tag id="79240124" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="79240124" k="snowplowing" o="none" type="way" v="yes" />
+    <tag id="79240124" k="parking:lane:both" o="none" type="way" v="parallel" />
+    <tag id="79240124" k="parking:ticket:zone" o="none" type="way" v="3" />
+    <tag id="79240124" k="parking:condition:both" o="none" type="way" v="ticket" />
+    <tag id="79240124" k="parking:condition:both:default" o="none" type="way" v="free" />
+    <tag id="79240124" k="parking:condition:both:residents" o="none" type="way" v="I" />
+    <tag id="79240124" k="parking:condition:both:time_interval" o="none" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="131331906" k="lit" o="add" type="way" v="yes" />
+    <tag id="131331906" k="name" o="add" type="way" v="Vaasankatu" />
+    <tag id="131331906" k="lanes" o="add" type="way" v="2" />
+    <tag id="131331906" k="highway" o="add" type="way" v="residential" />
+    <tag id="131331906" k="name:sv" o="add" type="way" v="Vasagatan" />
+    <tag id="131331906" k="surface" o="add" type="way" v="paved" />
+    <tag id="131331906" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="131331906" k="parking:lane:both" o="add" type="way" v="parallel; parallel; no_stopping" />
+    <tag id="131331906" k="parking:lane:left" o="add" type="way" v="no_parking" />
+    <tag id="131331906" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="131331906" k="parking:ticket:zone" o="add" type="way" v="3" />
+    <tag id="131331906" k="parking:condition:both" o="add" type="way" v="ticket" />
+    <tag id="131331906" k="parking:condition:right" o="add" type="way" v="ticket" />
+    <tag id="131331906" k="parking:lane:left:inline" o="add" type="way" v="lay_by; on_street" />
+    <tag id="131331906" k="parking:lane:right:inline" o="add" type="way" v="on_street; lay_by" />
+    <tag id="131331906" k="parking:condition:both:residents" o="add" type="way" v="I" />
+    <tag id="131331906" k="parking:condition:right:residents" o="add" type="way" v="I" />
+    <tag id="131331906" k="parking:condition:both:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="131331906" k="parking:condition:right:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="50311" k="name" o="none" type="relation" v="Ajo kielletty 23-06" />
+    <tag id="50311" k="time" o="none" type="relation" v="23:00-06:00" />
+    <tag id="50311" k="type" o="none" type="relation" v="access" />
+    <tag id="50311" k="motor_vehicle" o="none" type="relation" v="destination" />
+  </body>
+</changeset>

@@ -1,0 +1,46 @@
+<changeset id="28732432" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="7" />
+  <meta>
+    <tag k="build" v="2.3-650-gad99430" />
+    <tag k="comment" v="The changes I have brought here is added a train station for public use to get to and from the toronto zoo easier." />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="136891193" k="barrier" o="add" type="node" v="gate" />
+    <tag id="842738739" k="name" o="add" type="node" v="train station to the zoo" />
+    <tag id="842738739" k="building" o="add" type="node" v="train_station" />
+    <tag id="14267182" k="name" o="none" type="way" v="Zoomobile" />
+    <tag id="14267182" k="lanes" o="none" type="way" v="2" />
+    <tag id="14267182" k="access" o="none" type="way" v="private" />
+    <tag id="14267182" k="highway" o="modify" type="way" v="footway" />
+    <tag id="14267182" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="14269722" k="lanes" o="none" type="way" v="2" />
+    <tag id="14269722" k="highway" o="none" type="way" v="service" />
+    <tag id="14269722" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="31908771" k="name" o="none" type="way" v="Meadowvale Road" />
+    <tag id="31908771" k="lanes" o="none" type="way" v="2" />
+    <tag id="31908771" k="layer" o="none" type="way" v="1" />
+    <tag id="31908771" k="bridge" o="none" type="way" v="yes" />
+    <tag id="31908771" k="oneway" o="add" type="way" v="no" />
+    <tag id="31908771" k="railway" o="add" type="way" v="tram" />
+    <tag id="31908771" k="surface" o="modify" type="way" v="concrete" />
+    <tag id="31908771" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="31908771" k="maxweight" o="none" type="way" v="15" />
+    <tag id="70635211" k="name" o="add" type="way" v="Walkway to train station" />
+    <tag id="70635211" k="source" o="none" type="way" v="CanVec 6.0 - NRCan" />
+    <tag id="70635211" k="highway" o="add" type="way" v="pedestrian" />
+    <tag id="75309345" k="foot" o="none" type="way" v="yes" />
+    <tag id="75309345" k="name" o="add" type="way" v="Bank at the zoo" />
+    <tag id="75309345" k="access" o="none" type="way" v="no" />
+    <tag id="75309345" k="highway" o="modify" type="way" v="track" />
+    <tag id="75309345" k="motor_vehicle" o="none" type="way" v="permissive" />
+    <tag id="176111712" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="176111712" k="waterway" o="add" type="way" v="weir" />
+    <tag id="229023870" k="name" o="none" type="way" v="Toronto Zoo Domain Ride" />
+    <tag id="229023870" k="status" o="none" type="way" v="disused" />
+    <tag id="229023870" k="railway" o="none" type="way" v="monorail" />
+    <tag id="229023870" k="waterway" o="add" type="way" v="weir" />
+    <tag id="229023870" k="wikipedia" o="none" type="way" v="en:Toronto Zoo Domain Ride" />
+  </body>
+</changeset>

@@ -1,0 +1,296 @@
+<changeset id="27558692" schema="2">
+  <counts nodesAdded="362" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="76" waysDeleted="0" waysModified="50" />
+  <meta>
+    <tag k="comment" v="Livorno (LI) - slightly aligned main hospital buildings to PCN2012; improved access values (access=private =&gt; motor_vehicle=private); added entrances and ways; converted footways inside buildings to corridors" />
+    <tag k="created_by" v="JOSM/1.5 (7777 it)" />
+    <tag k="source" v="survey;GPS;PCN2012 (checked on PCN2006 and Bing too)" />
+  </meta>
+  <body>
+    <tag id="1996878950" k="access" o="none" type="node" v="yes" />
+    <tag id="1996878950" k="entrance" o="none" type="node" v="main" />
+    <tag id="2339264176" k="access" o="none" type="node" v="yes" />
+    <tag id="2339264176" k="entrance" o="none" type="node" v="main" />
+    <tag id="2339264181" k="access" o="none" type="node" v="private" />
+    <tag id="2339264181" k="entrance" o="none" type="node" v="emergency" />
+    <tag id="2339264235" k="barrier" o="none" type="node" v="bollard" />
+    <tag id="3012460966" k="foot" o="add" type="node" v="yes" />
+    <tag id="3012460966" k="entrance" o="add" type="node" v="service" />
+    <tag id="25453988" k="highway" o="none" type="way" v="service" />
+    <tag id="25453988" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="25453993" k="foot" o="none" type="way" v="yes" />
+    <tag id="25453993" k="highway" o="none" type="way" v="service" />
+    <tag id="25453993" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="25458969" k="name" o="none" type="way" v="Via della Meridiana" />
+    <tag id="25458969" k="access" o="add" type="way" v="no" />
+    <tag id="25458969" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="25458969" k="note:it" o="add" type="way" v="Il cancello chiude la sera alle 22:30 e apre la mattina (intorno) alle 08:00; il passaggio pedonale dovrebbe essere garantito dall'apertura a lato" />
+    <tag id="25458969" k="motor_vehicle:conditional" o="add" type="way" v="private @ (08:00-22:30)" />
+    <tag id="28914050" k="name" o="none" type="way" v="Spedali Riuniti" />
+    <tag id="28914050" k="amenity" o="none" type="way" v="hospital" />
+    <tag id="28914050" k="barrier" o="none" type="way" v="wall" />
+    <tag id="28914050" k="operator" o="none" type="way" v="Regione Toscana - USL 6" />
+    <tag id="28914050" k="emergency" o="none" type="way" v="yes" />
+    <tag id="28914050" k="wikipedia" o="none" type="way" v="it:Spedali Riuniti" />
+    <tag id="77519324" k="ref" o="none" type="way" v="3" />
+    <tag id="77519324" k="name" o="none" type="way" v="Terzo Padiglione" />
+    <tag id="77519324" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519324" k="building" o="none" type="way" v="yes" />
+    <tag id="77519324" k="building:levels" o="none" type="way" v="3" />
+    <tag id="77519325" k="ref" o="none" type="way" v="4" />
+    <tag id="77519325" k="name" o="none" type="way" v="Quarto Padiglione" />
+    <tag id="77519325" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519325" k="building" o="none" type="way" v="yes" />
+    <tag id="77519325" k="building:levels" o="none" type="way" v="3" />
+    <tag id="77519326" k="ref" o="none" type="way" v="6" />
+    <tag id="77519326" k="name" o="none" type="way" v="Sesto Padiglione" />
+    <tag id="77519326" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519326" k="building" o="none" type="way" v="yes" />
+    <tag id="77519326" k="building:levels" o="none" type="way" v="3" />
+    <tag id="77519327" k="ref" o="none" type="way" v="1" />
+    <tag id="77519327" k="name" o="none" type="way" v="Primo Padiglione" />
+    <tag id="77519327" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519327" k="building" o="none" type="way" v="yes" />
+    <tag id="77519327" k="building:levels" o="none" type="way" v="3" />
+    <tag id="77519328" k="ref" o="none" type="way" v="5" />
+    <tag id="77519328" k="name" o="none" type="way" v="Quinto Padiglione" />
+    <tag id="77519328" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519328" k="building" o="none" type="way" v="yes" />
+    <tag id="77519328" k="building:levels" o="none" type="way" v="3" />
+    <tag id="77519329" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519329" k="building" o="none" type="way" v="yes" />
+    <tag id="77519329" k="building:levels" o="none" type="way" v="3" />
+    <tag id="77519330" k="ref" o="none" type="way" v="2" />
+    <tag id="77519330" k="name" o="none" type="way" v="Secondo Padiglione" />
+    <tag id="77519330" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="77519330" k="building" o="none" type="way" v="yes" />
+    <tag id="77519330" k="building:levels" o="none" type="way" v="3" />
+    <tag id="78179218" k="building" o="modify" type="way" v="corridor" />
+    <tag id="78179218" k="building:levels" o="add" type="way" v="2" />
+    <tag id="78179218" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="158443518" k="ref" o="none" type="way" v="10" />
+    <tag id="158443518" k="name" o="none" type="way" v="Decimo Padiglione" />
+    <tag id="158443518" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="158443518" k="building" o="none" type="way" v="yes" />
+    <tag id="158443519" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="158443519" k="building" o="none" type="way" v="yes" />
+    <tag id="158443520" k="name" o="none" type="way" v="Chiesa di San Giuseppe" />
+    <tag id="158443520" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="158443520" k="building" o="none" type="way" v="church" />
+    <tag id="158443520" k="religion" o="none" type="way" v="christian" />
+    <tag id="158443520" k="wikipedia" o="none" type="way" v="it:Cappella degli Spedali Riuniti" />
+    <tag id="158443520" k="denomination" o="none" type="way" v="catholic" />
+    <tag id="158443520" k="building:roof" o="none" type="way" v="gabled" />
+    <tag id="158443520" k="description:it" o="none" type="way" v="Cappellania Ospedaliera" />
+    <tag id="158443521" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="158443521" k="building" o="none" type="way" v="yes" />
+    <tag id="158443522" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="158443522" k="building" o="none" type="way" v="yes" />
+    <tag id="158443523" k="ref" o="none" type="way" v="8" />
+    <tag id="158443523" k="name" o="none" type="way" v="Ottavo Padiglione" />
+    <tag id="158443523" k="amenity" o="none" type="way" v="public_building" />
+    <tag id="158443523" k="building" o="none" type="way" v="yes" />
+    <tag id="191126675" k="layer" o="none" type="way" v="-1" />
+    <tag id="191126675" k="covered" o="none" type="way" v="yes" />
+    <tag id="191126675" k="highway" o="none" type="way" v="service" />
+    <tag id="191126684" k="highway" o="modify" type="way" v="corridor_steps" />
+    <tag id="191126695" k="foot" o="none" type="way" v="yes" />
+    <tag id="191126695" k="highway" o="none" type="way" v="service" />
+    <tag id="191126695" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103229" k="name" o="add" type="way" v="S.E.R.T." />
+    <tag id="225103229" k="amenity" o="add" type="way" v="social_facility" />
+    <tag id="225103229" k="building" o="none" type="way" v="yes" />
+    <tag id="225103230" k="building" o="none" type="way" v="yes" />
+    <tag id="225103235" k="building" o="none" type="way" v="tower" />
+    <tag id="225103235" k="man_made" o="modify" type="way" v="water_tower" />
+    <tag id="225103236" k="ref" o="none" type="way" v="7" />
+    <tag id="225103236" k="name" o="none" type="way" v="Settimo Padiglione" />
+    <tag id="225103236" k="alt_name" o="add" type="way" v="Cure Palliative" />
+    <tag id="225103236" k="building" o="none" type="way" v="yes" />
+    <tag id="225103237" k="building" o="none" type="way" v="yes" />
+    <tag id="225103239" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103239" k="highway" o="none" type="way" v="service" />
+    <tag id="225103239" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103241" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103244" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103247" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103247" k="highway" o="none" type="way" v="service" />
+    <tag id="225103247" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103249" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103249" k="highway" o="none" type="way" v="service" />
+    <tag id="225103249" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103251" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103251" k="highway" o="none" type="way" v="service" />
+    <tag id="225103251" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103252" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103252" k="layer" o="none" type="way" v="-1" />
+    <tag id="225103252" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="225103252" k="covered" o="none" type="way" v="yes" />
+    <tag id="225103252" k="highway" o="none" type="way" v="service" />
+    <tag id="225103252" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103253" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103253" k="highway" o="none" type="way" v="service" />
+    <tag id="225103253" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103255" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103255" k="highway" o="none" type="way" v="service" />
+    <tag id="225103255" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103256" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103256" k="highway" o="none" type="way" v="service" />
+    <tag id="225103256" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103257" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103258" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103259" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103262" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103263" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103266" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103267" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103268" k="foot" o="none" type="way" v="yes" />
+    <tag id="225103268" k="highway" o="none" type="way" v="service" />
+    <tag id="225103268" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="225103269" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="225103275" k="access" o="none" type="way" v="private" />
+    <tag id="225103275" k="leisure" o="none" type="way" v="garden" />
+    <tag id="225103276" k="access" o="none" type="way" v="private" />
+    <tag id="225103276" k="leisure" o="none" type="way" v="garden" />
+    <tag id="297371212" k="landcover" o="none" type="way" v="wood" />
+    <tag id="297371312" k="highway" o="none" type="way" v="footway" />
+    <tag id="297371330" k="highway" o="modify" type="way" v="corridor" />
+    <tag id="317854132" k="natural" o="add" type="way" v="tree_row" />
+    <tag id="317854133" k="natural" o="add" type="way" v="tree_row" />
+    <tag id="317854134" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="317854135" k="leisure" o="add" type="way" v="garden" />
+    <tag id="317854136" k="access" o="add" type="way" v="dialysis" />
+    <tag id="317854136" k="amenity" o="add" type="way" v="parking" />
+    <tag id="317854137" k="leisure" o="add" type="way" v="garden" />
+    <tag id="317854138" k="leisure" o="add" type="way" v="garden" />
+    <tag id="317854139" k="leisure" o="add" type="way" v="garden" />
+    <tag id="317854140" k="leisure" o="add" type="way" v="garden" />
+    <tag id="317854141" k="ref" o="add" type="way" v="2" />
+    <tag id="317854141" k="amenity" o="add" type="way" v="public_building" />
+    <tag id="317854141" k="building" o="add" type="way" v="yes" />
+    <tag id="317854141" k="building:levels" o="add" type="way" v="3" />
+    <tag id="317854142" k="name" o="add" type="way" v="Via della Meridiana" />
+    <tag id="317854142" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="317854143" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854143" k="building:levels" o="add" type="way" v="2" />
+    <tag id="317854143" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="317854144" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854145" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854145" k="building:levels" o="add" type="way" v="2" />
+    <tag id="317854145" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="317854146" k="building" o="add" type="way" v="cabinet" />
+    <tag id="317854147" k="building" o="add" type="way" v="yes" />
+    <tag id="317854148" k="building" o="add" type="way" v="yes" />
+    <tag id="317854149" k="building" o="add" type="way" v="yes" />
+    <tag id="317854150" k="building" o="add" type="way" v="yes" />
+    <tag id="317854151" k="building" o="add" type="way" v="yes" />
+    <tag id="317854152" k="building" o="add" type="way" v="yes" />
+    <tag id="317854153" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854153" k="building:levels" o="add" type="way" v="2" />
+    <tag id="317854153" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="317854154" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854155" k="building" o="add" type="way" v="yes" />
+    <tag id="317854156" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854156" k="building:levels" o="add" type="way" v="2" />
+    <tag id="317854156" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="317854157" k="building" o="add" type="way" v="yes" />
+    <tag id="317854158" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854158" k="building:levels" o="add" type="way" v="2" />
+    <tag id="317854158" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="317854159" k="building" o="add" type="way" v="yes" />
+    <tag id="317854160" k="building" o="add" type="way" v="corridor" />
+    <tag id="317854160" k="building:levels" o="add" type="way" v="2" />
+    <tag id="317854160" k="building:levels:underground" o="add" type="way" v="1" />
+    <tag id="317854161" k="building" o="add" type="way" v="yes" />
+    <tag id="317854162" k="building" o="add" type="way" v="yes" />
+    <tag id="317854163" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854164" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854164" k="highway" o="add" type="way" v="service" />
+    <tag id="317854164" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854165" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854165" k="highway" o="add" type="way" v="service" />
+    <tag id="317854165" k="incline" o="add" type="way" v="down" />
+    <tag id="317854165" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854166" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854167" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854168" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854169" k="layer" o="add" type="way" v="-1" />
+    <tag id="317854169" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="317854169" k="covered" o="add" type="way" v="yes" />
+    <tag id="317854169" k="highway" o="add" type="way" v="service" />
+    <tag id="317854170" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854170" k="incline" o="add" type="way" v="up" />
+    <tag id="317854170" k="step_count" o="add" type="way" v="6" />
+    <tag id="317854171" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854172" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854172" k="incline" o="add" type="way" v="down" />
+    <tag id="317854172" k="step_count" o="add" type="way" v="6" />
+    <tag id="317854173" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854174" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854175" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854176" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854177" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854178" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854178" k="highway" o="add" type="way" v="service" />
+    <tag id="317854178" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854179" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854180" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854180" k="incline" o="add" type="way" v="down" />
+    <tag id="317854180" k="step_count" o="add" type="way" v="6" />
+    <tag id="317854181" k="highway" o="add" type="way" v="corridor_steps" />
+    <tag id="317854182" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854183" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854183" k="highway" o="add" type="way" v="service" />
+    <tag id="317854183" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854184" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854185" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854185" k="highway" o="add" type="way" v="service" />
+    <tag id="317854185" k="incline" o="add" type="way" v="up" />
+    <tag id="317854185" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854186" k="highway" o="add" type="way" v="corridor" />
+    <tag id="317854187" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854188" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854188" k="incline" o="add" type="way" v="up" />
+    <tag id="317854189" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854189" k="incline" o="add" type="way" v="up" />
+    <tag id="317854189" k="step_count" o="add" type="way" v="6" />
+    <tag id="317854190" k="highway" o="add" type="way" v="corridor" />
+    <tag id="317854191" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854191" k="incline" o="add" type="way" v="down" />
+    <tag id="317854192" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854192" k="incline" o="add" type="way" v="up" />
+    <tag id="317854193" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854194" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854194" k="highway" o="add" type="way" v="service" />
+    <tag id="317854194" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854195" k="highway" o="add" type="way" v="steps" />
+    <tag id="317854195" k="incline" o="add" type="way" v="down" />
+    <tag id="317854195" k="step_count" o="add" type="way" v="6" />
+    <tag id="317854196" k="highway" o="add" type="way" v="corridor" />
+    <tag id="317854197" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854197" k="highway" o="add" type="way" v="service" />
+    <tag id="317854197" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854198" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854199" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854199" k="highway" o="add" type="way" v="service" />
+    <tag id="317854199" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854200" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854200" k="highway" o="add" type="way" v="service" />
+    <tag id="317854200" k="incline" o="add" type="way" v="up" />
+    <tag id="317854200" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854201" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854202" k="highway" o="add" type="way" v="corridor_steps" />
+    <tag id="317854203" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854203" k="highway" o="add" type="way" v="service" />
+    <tag id="317854203" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854204" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854204" k="highway" o="add" type="way" v="service" />
+    <tag id="317854204" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="317854205" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854207" k="highway" o="add" type="way" v="footway" />
+    <tag id="317854208" k="foot" o="add" type="way" v="yes" />
+    <tag id="317854208" k="highway" o="add" type="way" v="service" />
+    <tag id="317854208" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="1177721" k="name" o="none" type="relation" v="Spedali Riuniti" />
+    <tag id="1177721" k="type" o="none" type="relation" v="multipolygon" />
+  </body>
+</changeset>

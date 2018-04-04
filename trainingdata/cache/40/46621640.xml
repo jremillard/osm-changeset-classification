@@ -1,0 +1,434 @@
+<changeset id="46621640" schema="2">
+  <counts nodesAdded="146" nodesDeleted="25" nodesModified="7" relationsAdded="1" relationsDeleted="0" relationsModified="8" waysAdded="21" waysDeleted="1" waysModified="39" />
+  <meta>
+    <tag k="comment" v="Verwerken notities (foto's) wandeling Weerde aangevuld met luchtfoto's &amp; GRB:  aligneren van objecten,  verfijnen grondplan sommige gebouwen, afsluitingen, correctie landuse, brandkranen, minor power lines, etc." />
+    <tag k="created_by" v="JOSM/1.5 (11526 nl)" />
+    <tag k="source" v="AGIV Flanders 2013-2015 aerial imagery 10cm; Afbeeldingen met geo-tags; survey; GRB" />
+    <tag k="source_ref" v="https://xian.smugmug.com/OSM/OSM-2016/2016-12-24-Weerde" />
+    <tag k="survey:date" v="2016-12-24" />
+  </meta>
+  <body>
+    <tag id="252456717" k="highway" o="none" type="node" v="crossing" />
+    <tag id="252456717" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="252797995" k="highway" o="add" type="node" v="crossing" />
+    <tag id="252797995" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="252797995" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="263265003" k="highway" o="none" type="node" v="crossing" />
+    <tag id="263265003" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="263265003" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="280438401" k="highway" o="none" type="node" v="give_way" />
+    <tag id="280438401" k="direction" o="add" type="node" v="backward" />
+    <tag id="1429245311" k="amenity" o="none" type="node" v="recycling" />
+    <tag id="1429245311" k="operator" o="add" type="node" v="Curitas n.v." />
+    <tag id="1429245311" k="recycling_type" o="none" type="node" v="container" />
+    <tag id="1429245311" k="recycling:clothes" o="none" type="node" v="yes" />
+    <tag id="1429245312" k="bus" o="none" type="node" v="yes" />
+    <tag id="1429245312" k="name" o="none" type="node" v="Weerde Kerk" />
+    <tag id="1429245312" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1429245312" k="network" o="none" type="node" v="DLVB" />
+    <tag id="1429245312" k="operator" o="none" type="node" v="De Lijn" />
+    <tag id="1429245312" k="ref:De_Lijn" o="none" type="node" v="306764" />
+    <tag id="1429245312" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="1429245312" k="route_ref:De_Lijn" o="none" type="node" v="682" />
+    <tag id="1429245313" k="amenity" o="none" type="node" v="post_box" />
+    <tag id="1429245313" k="operator" o="add" type="node" v="bpost" />
+    <tag id="1429245313" k="collection_times" o="add" type="node" v="Mo-Fr 15:30" />
+    <tag id="1962878520" k="priority" o="add" type="node" v="backward" />
+    <tag id="1962878520" k="traffic_calming" o="none" type="node" v="choker" />
+    <tag id="3307599586" k="school" o="none" type="node" v="entrance" />
+    <tag id="3307599586" k="barrier" o="none" type="node" v="gate" />
+    <tag id="3307599586" k="entrance" o="none" type="node" v="yes" />
+    <tag id="4701284362" k="amenity" o="none" type="node" v="recycling" />
+    <tag id="4701284362" k="operator" o="add" type="node" v="Curitas n.v." />
+    <tag id="4701284362" k="recycling_type" o="none" type="node" v="container" />
+    <tag id="4701284362" k="recycling:clothes" o="none" type="node" v="yes" />
+    <tag id="23345643" k="name" o="none" type="way" v="Pastorijstraat" />
+    <tag id="23345643" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23345643" k="highway" o="none" type="way" v="residential" />
+    <tag id="23345643" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="23345643" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23345643" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="23572432" k="lit" o="add" type="way" v="yes" />
+    <tag id="23572432" k="name" o="none" type="way" v="Damstraat" />
+    <tag id="23572432" k="layer" o="none" type="way" v="1" />
+    <tag id="23572432" k="bridge" o="none" type="way" v="yes" />
+    <tag id="23572432" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="23572432" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="23572432" k="cycleway" o="none" type="way" v="track" />
+    <tag id="23572432" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="23572432" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="23572432" k="overtaking" o="add" type="way" v="no" />
+    <tag id="23572433" k="name" o="none" type="way" v="Damstraat" />
+    <tag id="23572433" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="23572433" k="surface" o="add" type="way" v="concrete" />
+    <tag id="23572433" k="cycleway" o="none" type="way" v="track" />
+    <tag id="23572433" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="23572433" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="23572433" k="overtaking" o="add" type="way" v="no" />
+    <tag id="24301504" k="foot" o="none" type="way" v="designated" />
+    <tag id="24301504" k="horse" o="none" type="way" v="no" />
+    <tag id="24301504" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="24301504" k="highway" o="none" type="way" v="path" />
+    <tag id="24301504" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="24301504" k="segregated" o="none" type="way" v="no" />
+    <tag id="25524145" k="name" o="none" type="way" v="Damstraat" />
+    <tag id="25524145" k="width" o="none" type="way" v="6" />
+    <tag id="25524145" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25524145" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="25524145" k="cycleway" o="none" type="way" v="track" />
+    <tag id="25524145" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25524145" k="zone:traffic" o="none" type="way" v="BE:urban" />
+    <tag id="25524145" k="source:maxspeed" o="none" type="way" v="zone30" />
+    <tag id="25524174" k="lit" o="add" type="way" v="yes" />
+    <tag id="25524174" k="name" o="none" type="way" v="Damstraat" />
+    <tag id="25524174" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25524174" k="cycleway" o="none" type="way" v="track" />
+    <tag id="25524174" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="25524174" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="25719138" k="lit" o="add" type="way" v="no" />
+    <tag id="25719138" k="name" o="none" type="way" v="Hauwlandweg" />
+    <tag id="25719138" k="access" o="none" type="way" v="agricultural" />
+    <tag id="25719138" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="25719138" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="25719138" k="surface" o="modify" type="way" v="concrete" />
+    <tag id="25719138" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="25719138" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="25719138" k="zone:traffic" o="add" type="way" v="BE-VLG:rural" />
+    <tag id="25719138" k="source:maxspeed" o="add" type="way" v="BE-VLG:zone50" />
+    <tag id="25875019" k="lit" o="add" type="way" v="yes" />
+    <tag id="25875019" k="name" o="none" type="way" v="Dorpsstraat" />
+    <tag id="25875019" k="highway" o="none" type="way" v="residential" />
+    <tag id="25875019" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25875019" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="25875019" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="25875019" k="oneway:bicycle" o="add" type="way" v="no" />
+    <tag id="25875024" k="name" o="none" type="way" v="Pastorijstraat" />
+    <tag id="25875024" k="oneway" o="none" type="way" v="yes" />
+    <tag id="25875024" k="highway" o="none" type="way" v="residential" />
+    <tag id="25875024" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="25875024" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25875024" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="25875024" k="motor_vehicle:conditional" o="none" type="way" v="no @ (Mo-Fr 08:15-08:30,15:30-15:45)" />
+    <tag id="41961692" k="name" o="none" type="way" v="Dorpsstraat" />
+    <tag id="41961692" k="highway" o="none" type="way" v="residential" />
+    <tag id="41961692" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="41961692" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="41961692" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="106945657" k="source" o="add" type="way" v="GRB" />
+    <tag id="106945657" k="building" o="none" type="way" v="house" />
+    <tag id="106945657" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="106945657" k="addr:housenumber" o="none" type="way" v="7A" />
+    <tag id="106945657" k="source:geometry:date" o="add" type="way" v="2014-05-07" />
+    <tag id="106945657" k="source:geometry:oidn" o="add" type="way" v="269102" />
+    <tag id="106945657" k="source:geometry:uidn" o="add" type="way" v="5416320" />
+    <tag id="106945657" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="106945701" k="source" o="add" type="way" v="GRB" />
+    <tag id="106945701" k="building" o="none" type="way" v="house" />
+    <tag id="106945701" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="106945701" k="addr:housenumber" o="none" type="way" v="7" />
+    <tag id="106945701" k="source:geometry:date" o="add" type="way" v="2015-01-14" />
+    <tag id="106945701" k="source:geometry:oidn" o="add" type="way" v="4998678" />
+    <tag id="106945701" k="source:geometry:uidn" o="add" type="way" v="5873165" />
+    <tag id="106945701" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="106945744" k="name" o="none" type="way" v="Sint-Martinus" />
+    <tag id="106945744" k="image" o="none" type="way" v="https://commons.wikimedia.org/wiki/File:Parochiekerk_Sint-Martinus,_Weerde.jpg" />
+    <tag id="106945744" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="106945744" k="building" o="none" type="way" v="church" />
+    <tag id="106945744" k="historic" o="none" type="way" v="yes" />
+    <tag id="106945744" k="religion" o="none" type="way" v="christian" />
+    <tag id="106945744" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="106945744" k="denomination" o="none" type="way" v="catholic" />
+    <tag id="106945744" k="heritage:website" o="none" type="way" v="https://inventaris.onroerenderfgoed.be/dibe/relict/41026" />
+    <tag id="106945744" k="heritage:operator" o="none" type="way" v="OnroerendErfgoed" />
+    <tag id="106945744" k="ref:OnroerendErfgoed" o="none" type="way" v="41026" />
+    <tag id="106945744" k="source:geometry:date" o="none" type="way" v="2005-11-28" />
+    <tag id="106945744" k="source:geometry:oidn" o="none" type="way" v="263876" />
+    <tag id="106945744" k="source:geometry:uidn" o="none" type="way" v="303532" />
+    <tag id="106945744" k="source:geometry:entity" o="none" type="way" v="Gbg" />
+    <tag id="106945744" k="OnroerendErfgoed:criteria" o="none" type="way" v="M" />
+    <tag id="106945789" k="name" o="none" type="way" v="De Zonnewijzer" />
+    <tag id="106945789" k="amenity" o="none" type="way" v="school" />
+    <tag id="106945789" k="website" o="none" type="way" v="http://www.zonnewijzer.net" />
+    <tag id="106945789" k="building" o="none" type="way" v="school" />
+    <tag id="106945789" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="106945789" k="isced:level" o="add" type="way" v="1" />
+    <tag id="106945789" k="addr:housenumber" o="none" type="way" v="15" />
+    <tag id="106945919" k="source" o="add" type="way" v="GRB" />
+    <tag id="106945919" k="building" o="none" type="way" v="house" />
+    <tag id="106945919" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="106945919" k="addr:housenumber" o="none" type="way" v="5" />
+    <tag id="106945919" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="106945919" k="source:geometry:oidn" o="add" type="way" v="264628" />
+    <tag id="106945919" k="source:geometry:uidn" o="add" type="way" v="304284" />
+    <tag id="106945919" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="114425927" k="lit" o="add" type="way" v="yes" />
+    <tag id="114425927" k="name" o="none" type="way" v="Damstraat" />
+    <tag id="114425927" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="114425927" k="cycleway" o="none" type="way" v="track" />
+    <tag id="114425927" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="114425927" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="186974020" k="amenity" o="none" type="way" v="parking" />
+    <tag id="186974020" k="parking" o="none" type="way" v="surface" />
+    <tag id="186974020" k="surface" o="add" type="way" v="cobblestone" />
+    <tag id="206334528" k="cutting" o="none" type="way" v="yes" />
+    <tag id="206334528" k="highway" o="none" type="way" v="path" />
+    <tag id="206334528" k="surface" o="none" type="way" v="grass" />
+    <tag id="206334528" k="embankment" o="none" type="way" v="yes" />
+    <tag id="206334528" k="trail_visibility" o="none" type="way" v="bad" />
+    <tag id="206342073" k="barrier" o="add" type="way" v="fence" />
+    <tag id="206342073" k="fence_type" o="add" type="way" v="chain_link" />
+    <tag id="207019056" k="source" o="add" type="way" v="GRB" />
+    <tag id="207019056" k="building" o="none" type="way" v="house" />
+    <tag id="207019056" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="207019056" k="addr:housenumber" o="none" type="way" v="9" />
+    <tag id="207019056" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="207019056" k="source:geometry:oidn" o="add" type="way" v="269095" />
+    <tag id="207019056" k="source:geometry:uidn" o="add" type="way" v="308751" />
+    <tag id="207019056" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="207019080" k="source" o="add" type="way" v="GRB" />
+    <tag id="207019080" k="building" o="none" type="way" v="house" />
+    <tag id="207019080" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="207019080" k="addr:housenumber" o="none" type="way" v="7" />
+    <tag id="207019080" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="207019080" k="source:geometry:oidn" o="add" type="way" v="268998" />
+    <tag id="207019080" k="source:geometry:uidn" o="add" type="way" v="308654" />
+    <tag id="207019080" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="207019097" k="source" o="add" type="way" v="GRB" />
+    <tag id="207019097" k="building" o="none" type="way" v="house" />
+    <tag id="207019097" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="207019097" k="addr:housenumber" o="none" type="way" v="11" />
+    <tag id="207019097" k="source:geometry:date" o="add" type="way" v="2014-05-07" />
+    <tag id="207019097" k="source:geometry:oidn" o="add" type="way" v="270624" />
+    <tag id="207019097" k="source:geometry:uidn" o="add" type="way" v="5416626" />
+    <tag id="207019097" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="207019123" k="source" o="add" type="way" v="GRB" />
+    <tag id="207019123" k="building" o="none" type="way" v="house" />
+    <tag id="207019123" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="207019123" k="addr:housenumber" o="none" type="way" v="5" />
+    <tag id="207019123" k="source:geometry:date" o="add" type="way" v="2014-05-07" />
+    <tag id="207019123" k="source:geometry:oidn" o="add" type="way" v="270625" />
+    <tag id="207019123" k="source:geometry:uidn" o="add" type="way" v="5416627" />
+    <tag id="207019123" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="217203136" k="source" o="add" type="way" v="GRB" />
+    <tag id="217203136" k="building" o="none" type="way" v="house" />
+    <tag id="217203136" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="217203136" k="addr:housenumber" o="none" type="way" v="3" />
+    <tag id="217203136" k="source:geometry:date" o="add" type="way" v="2009-09-18" />
+    <tag id="217203136" k="source:geometry:oidn" o="add" type="way" v="1045740" />
+    <tag id="217203136" k="source:geometry:uidn" o="add" type="way" v="1087902" />
+    <tag id="217203136" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="217203141" k="source" o="add" type="way" v="GRB" />
+    <tag id="217203141" k="building" o="none" type="way" v="house" />
+    <tag id="217203141" k="addr:street" o="none" type="way" v="Pastorijstraat" />
+    <tag id="217203141" k="addr:housenumber" o="none" type="way" v="3A" />
+    <tag id="217203141" k="source:geometry:date" o="add" type="way" v="2014-05-07" />
+    <tag id="217203141" k="source:geometry:oidn" o="add" type="way" v="4671275" />
+    <tag id="217203141" k="source:geometry:uidn" o="add" type="way" v="5414542" />
+    <tag id="217203141" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="296540597" k="source" o="add" type="way" v="GRB" />
+    <tag id="296540597" k="building" o="none" type="way" v="house" />
+    <tag id="296540597" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="296540597" k="addr:housenumber" o="none" type="way" v="11" />
+    <tag id="296540597" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="296540597" k="source:geometry:oidn" o="add" type="way" v="262486" />
+    <tag id="296540597" k="source:geometry:uidn" o="add" type="way" v="302142" />
+    <tag id="296540597" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="296540598" k="source" o="add" type="way" v="GRB" />
+    <tag id="296540598" k="building" o="none" type="way" v="house" />
+    <tag id="296540598" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="296540598" k="addr:housenumber" o="none" type="way" v="17" />
+    <tag id="296540598" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="296540598" k="source:geometry:oidn" o="add" type="way" v="271020" />
+    <tag id="296540598" k="source:geometry:uidn" o="add" type="way" v="310676" />
+    <tag id="296540598" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="296540599" k="source" o="add" type="way" v="GRB" />
+    <tag id="296540599" k="building" o="none" type="way" v="house" />
+    <tag id="296540599" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="296540599" k="addr:housenumber" o="none" type="way" v="19" />
+    <tag id="296540599" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="296540599" k="source:geometry:oidn" o="add" type="way" v="270615" />
+    <tag id="296540599" k="source:geometry:uidn" o="add" type="way" v="310271" />
+    <tag id="296540599" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="296540600" k="source" o="add" type="way" v="GRB" />
+    <tag id="296540600" k="building" o="none" type="way" v="house" />
+    <tag id="296540600" k="addr:street" o="none" type="way" v="Dorpsstraat" />
+    <tag id="296540600" k="addr:housenumber" o="none" type="way" v="9" />
+    <tag id="296540600" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="296540600" k="source:geometry:oidn" o="add" type="way" v="262487" />
+    <tag id="296540600" k="source:geometry:uidn" o="add" type="way" v="302143" />
+    <tag id="296540600" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="303523551" k="source" o="add" type="way" v="GRB" />
+    <tag id="303523551" k="building" o="modify" type="way" v="garage" />
+    <tag id="303523551" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="303523551" k="source:geometry:oidn" o="add" type="way" v="268451" />
+    <tag id="303523551" k="source:geometry:uidn" o="add" type="way" v="308107" />
+    <tag id="303523551" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="303523552" k="source" o="add" type="way" v="GRB" />
+    <tag id="303523552" k="building" o="modify" type="way" v="shed" />
+    <tag id="303523552" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="303523552" k="source:geometry:oidn" o="add" type="way" v="267060" />
+    <tag id="303523552" k="source:geometry:uidn" o="add" type="way" v="306716" />
+    <tag id="303523552" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="323998382" k="barrier" o="none" type="way" v="fence" />
+    <tag id="323998382" k="fence_type" o="add" type="way" v="chain_link" />
+    <tag id="324031672" k="amenity" o="none" type="way" v="bench" />
+    <tag id="324031672" k="backrest" o="add" type="way" v="yes" />
+    <tag id="324031674" k="amenity" o="none" type="way" v="parking" />
+    <tag id="324031674" k="parking" o="none" type="way" v="surface" />
+    <tag id="324031674" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="324031677" k="height" o="none" type="way" v="0.85" />
+    <tag id="324031677" k="barrier" o="none" type="way" v="wall" />
+    <tag id="386407063" k="highway" o="none" type="way" v="track" />
+    <tag id="461624549" k="height" o="none" type="way" v="0.85" />
+    <tag id="461624549" k="barrier" o="none" type="way" v="wall" />
+    <tag id="478834373" k="barrier" o="add" type="way" v="wall" />
+    <tag id="478834374" k="barrier" o="add" type="way" v="fence" />
+    <tag id="478834374" k="fence_type" o="add" type="way" v="concrete" />
+    <tag id="478834376" k="building" o="add" type="way" v="shed" />
+    <tag id="478834376" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="478834376" k="source:geometry:oidn" o="add" type="way" v="267834" />
+    <tag id="478834376" k="source:geometry:uidn" o="add" type="way" v="307490" />
+    <tag id="478834376" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834378" k="barrier" o="add" type="way" v="fence" />
+    <tag id="478834378" k="fence_type" o="add" type="way" v="chain_link" />
+    <tag id="478834379" k="building" o="add" type="way" v="shed" />
+    <tag id="478834379" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="478834379" k="source:geometry:oidn" o="add" type="way" v="268997" />
+    <tag id="478834379" k="source:geometry:uidn" o="add" type="way" v="308653" />
+    <tag id="478834379" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834381" k="building" o="add" type="way" v="shed" />
+    <tag id="478834381" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="478834381" k="source:geometry:oidn" o="add" type="way" v="267815" />
+    <tag id="478834381" k="source:geometry:uidn" o="add" type="way" v="307471" />
+    <tag id="478834381" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834383" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="478834384" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="478834385" k="building" o="add" type="way" v="house" />
+    <tag id="478834385" k="addr:street" o="add" type="way" v="Dorpsstraat" />
+    <tag id="478834385" k="addr:housenumber" o="add" type="way" v="5" />
+    <tag id="478834385" k="source:geometry:date" o="add" type="way" v="2014-05-07" />
+    <tag id="478834385" k="source:geometry:oidn" o="add" type="way" v="4671980" />
+    <tag id="478834385" k="source:geometry:uidn" o="add" type="way" v="5415247" />
+    <tag id="478834385" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834386" k="building" o="add" type="way" v="shed" />
+    <tag id="478834386" k="source:geometry:date" o="add" type="way" v="2014-05-07" />
+    <tag id="478834386" k="source:geometry:oidn" o="add" type="way" v="268464" />
+    <tag id="478834386" k="source:geometry:uidn" o="add" type="way" v="5416205" />
+    <tag id="478834386" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834387" k="building" o="add" type="way" v="shed" />
+    <tag id="478834387" k="source:geometry:date" o="add" type="way" v="2015-01-14" />
+    <tag id="478834387" k="source:geometry:oidn" o="add" type="way" v="4998899" />
+    <tag id="478834387" k="source:geometry:uidn" o="add" type="way" v="5873386" />
+    <tag id="478834387" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834388" k="building" o="add" type="way" v="shed" />
+    <tag id="478834389" k="building" o="add" type="way" v="shed" />
+    <tag id="478834389" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="478834389" k="source:geometry:oidn" o="add" type="way" v="267835" />
+    <tag id="478834389" k="source:geometry:uidn" o="add" type="way" v="307491" />
+    <tag id="478834389" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834390" k="building" o="add" type="way" v="garage" />
+    <tag id="478834390" k="source:geometry:date" o="add" type="way" v="2005-11-28" />
+    <tag id="478834390" k="source:geometry:oidn" o="add" type="way" v="267061" />
+    <tag id="478834390" k="source:geometry:uidn" o="add" type="way" v="306717" />
+    <tag id="478834390" k="source:geometry:entity" o="add" type="way" v="Gbg" />
+    <tag id="478834391" k="highway" o="add" type="way" v="footway" />
+    <tag id="478834391" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="478834392" k="name" o="add" type="way" v="Damstraat" />
+    <tag id="478834392" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="478834392" k="cycleway" o="add" type="way" v="track" />
+    <tag id="478834392" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="478834392" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="478834392" k="zone:traffic" o="add" type="way" v="BE-WAL:urban" />
+    <tag id="478834392" k="source:maxspeed" o="add" type="way" v="BE-WAL:zone30" />
+    <tag id="478834393" k="name" o="add" type="way" v="Damstraat" />
+    <tag id="478834393" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="478834393" k="cycleway" o="add" type="way" v="track" />
+    <tag id="478834393" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="478834393" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="478834393" k="zone:traffic" o="add" type="way" v="BE-VLG:urban" />
+    <tag id="478834393" k="source:maxspeed" o="add" type="way" v="BE-VLG:urban" />
+    <tag id="478834394" k="access" o="add" type="way" v="private" />
+    <tag id="478834394" k="highway" o="add" type="way" v="service" />
+    <tag id="478834395" k="layer" o="add" type="way" v="1" />
+    <tag id="478834395" k="man_made" o="add" type="way" v="bridge" />
+    <tag id="478834395" k="start_date" o="add" type="way" v="1967" />
+    <tag id="478834396" k="barrier" o="add" type="way" v="retaining_wall" />
+    <tag id="478834396" k="material" o="add" type="way" v="metal" />
+    <tag id="478834397" k="barrier" o="add" type="way" v="retaining_wall" />
+    <tag id="478834397" k="material" o="add" type="way" v="metal" />
+    <tag id="14813" k="name" o="none" type="relation" v="Witloofroute" />
+    <tag id="14813" k="type" o="none" type="relation" v="route" />
+    <tag id="14813" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="14813" k="symbol" o="none" type="relation" v="Zeshoekig bord met rode opdruk" />
+    <tag id="14813" k="network" o="none" type="relation" v="lcn" />
+    <tag id="14813" k="distance" o="none" type="relation" v="49 km" />
+    <tag id="14813" k="operator" o="none" type="relation" v="Provincie Vlaams Brabant" />
+    <tag id="14813" k="roundtrip" o="none" type="relation" v="yes" />
+    <tag id="20688" k="name" o="none" type="relation" v="De 8 van Zemst" />
+    <tag id="20688" k="type" o="none" type="relation" v="route" />
+    <tag id="20688" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="20688" k="colour" o="none" type="relation" v="red" />
+    <tag id="20688" k="symbol" o="none" type="relation" v="hexagon" />
+    <tag id="20688" k="network" o="none" type="relation" v="lcn" />
+    <tag id="20688" k="operator" o="none" type="relation" v="Toerisme Vlaams-Brabant" />
+    <tag id="20688" k="roundtrip" o="none" type="relation" v="yes" />
+    <tag id="23091" k="name" o="none" type="relation" v="Weerdse Kronkels" />
+    <tag id="23091" k="type" o="none" type="relation" v="route" />
+    <tag id="23091" k="route" o="none" type="relation" v="hiking" />
+    <tag id="23091" k="network" o="none" type="relation" v="lwn" />
+    <tag id="1638149" k="to" o="none" type="relation" v="Zaventem Station" />
+    <tag id="1638149" k="ref" o="none" type="relation" v="682" />
+    <tag id="1638149" k="from" o="none" type="relation" v="Mechelen Station Perron 3" />
+    <tag id="1638149" k="name" o="none" type="relation" v="De Lijn 682 Mechelen Station - Zaventem Station" />
+    <tag id="1638149" k="type" o="none" type="relation" v="route" />
+    <tag id="1638149" k="route" o="none" type="relation" v="bus" />
+    <tag id="1638149" k="colour" o="none" type="relation" v="#FF88AA" />
+    <tag id="1638149" k="network" o="none" type="relation" v="DLVB" />
+    <tag id="1638149" k="operator" o="none" type="relation" v="De Lijn" />
+    <tag id="1638149" k="text_colour" o="none" type="relation" v="#000000" />
+    <tag id="1638149" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="1638150" k="to" o="none" type="relation" v="Mechelen Station Perron 1" />
+    <tag id="1638150" k="ref" o="none" type="relation" v="682" />
+    <tag id="1638150" k="from" o="none" type="relation" v="Zaventem Station" />
+    <tag id="1638150" k="name" o="none" type="relation" v="De Lijn 682 Zaventem Station - Mechelen Station" />
+    <tag id="1638150" k="type" o="none" type="relation" v="route" />
+    <tag id="1638150" k="route" o="none" type="relation" v="bus" />
+    <tag id="1638150" k="colour" o="none" type="relation" v="#FF88AA" />
+    <tag id="1638150" k="network" o="none" type="relation" v="DLVB" />
+    <tag id="1638150" k="operator" o="none" type="relation" v="De Lijn" />
+    <tag id="1638150" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4429746" k="to" o="none" type="relation" v="Zaventem Luchthaven Perron A" />
+    <tag id="4429746" k="ref" o="none" type="relation" v="682" />
+    <tag id="4429746" k="from" o="none" type="relation" v="Mechelen Brusselpoort" />
+    <tag id="4429746" k="name" o="none" type="relation" v="De Lijn 682 Mechelen Brusselpoort - Zaventem Luchthaven Perron A" />
+    <tag id="4429746" k="type" o="none" type="relation" v="route" />
+    <tag id="4429746" k="route" o="none" type="relation" v="bus" />
+    <tag id="4429746" k="network" o="none" type="relation" v="DLVB" />
+    <tag id="4429746" k="operator" o="none" type="relation" v="De Lijn" />
+    <tag id="4429746" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5250899" k="to" o="none" type="relation" v="Tildonk Sint-Angela" />
+    <tag id="5250899" k="bus" o="none" type="relation" v="school" />
+    <tag id="5250899" k="ref" o="none" type="relation" v="510" />
+    <tag id="5250899" k="from" o="none" type="relation" v="Eppegem Station" />
+    <tag id="5250899" k="name" o="none" type="relation" v="De Lijn 510 Eppegem Station - Tildonk Sint-Angela" />
+    <tag id="5250899" k="type" o="none" type="relation" v="route" />
+    <tag id="5250899" k="route" o="none" type="relation" v="bus" />
+    <tag id="5250899" k="colour" o="none" type="relation" v="#1197DD" />
+    <tag id="5250899" k="network" o="none" type="relation" v="DLVB" />
+    <tag id="5250899" k="operator" o="none" type="relation" v="De Lijn" />
+    <tag id="5250899" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5250900" k="to" o="none" type="relation" v="Eppegem Station" />
+    <tag id="5250900" k="bus" o="none" type="relation" v="school" />
+    <tag id="5250900" k="ref" o="none" type="relation" v="510" />
+    <tag id="5250900" k="from" o="none" type="relation" v="Tildonk Sint-Angela" />
+    <tag id="5250900" k="name" o="none" type="relation" v="De Lijn 510 Tildonk Sint-Angela - Eppegem Station" />
+    <tag id="5250900" k="type" o="none" type="relation" v="route" />
+    <tag id="5250900" k="route" o="none" type="relation" v="bus" />
+    <tag id="5250900" k="colour" o="none" type="relation" v="#1197DD" />
+    <tag id="5250900" k="network" o="none" type="relation" v="DLVB" />
+    <tag id="5250900" k="operator" o="none" type="relation" v="De Lijn" />
+    <tag id="5250900" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7039558" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="7039558" k="landuse" o="add" type="relation" v="industrial" />
+  </body>
+</changeset>

@@ -1,0 +1,167 @@
+<changeset id="9397400" schema="2">
+  <counts nodesAdded="21" nodesDeleted="14" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="1" waysDeleted="8" waysModified="26" />
+  <meta>
+    <tag k="build" v="2.2-41-gec89ae9" />
+    <tag k="comment" v="Kaarlenkatu now continues to Viides Linja straight, Viides Linja starts from Agrikolankatu.Latitudinal section " />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.2" />
+  </meta>
+  <body>
+    <tag id="47376729" k="amenity" o="none" type="node" v="parking" />
+    <tag id="316250676" k="highway" o="none" type="node" v="crossing" />
+    <tag id="316250676" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="598558125" k="bicycle" o="none" type="node" v="yes" />
+    <tag id="598558125" k="highway" o="none" type="node" v="crossing" />
+    <tag id="598558125" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="598558126" k="bicycle" o="none" type="node" v="yes" />
+    <tag id="598558126" k="highway" o="none" type="node" v="crossing" />
+    <tag id="598558126" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="5079021" k="name" o="none" type="way" v="Kaarlenkatu" />
+    <tag id="5079021" k="highway" o="none" type="way" v="residential" />
+    <tag id="5079021" k="name:sv" o="none" type="way" v="Karlsgatan" />
+    <tag id="5079021" k="surface" o="none" type="way" v="paved" />
+    <tag id="5079021" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5079021" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="5079021" k="parking:ticket:zone" o="add" type="way" v="3" />
+    <tag id="5079021" k="parking:condition:both" o="add" type="way" v="ticket" />
+    <tag id="5079021" k="parking:lane:both:inline" o="add" type="way" v="on_street" />
+    <tag id="5079021" k="parking:condition:both:default" o="add" type="way" v="free" />
+    <tag id="5079021" k="parking:condition:both:residents" o="add" type="way" v="I" />
+    <tag id="5079021" k="parking:condition:both:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="13416775" k="building" o="none" type="way" v="yes" />
+    <tag id="24304097" k="lit" o="none" type="way" v="yes" />
+    <tag id="24304097" k="lanes" o="none" type="way" v="2" />
+    <tag id="24304097" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="24304097" k="parking" o="none" type="way" v="no" />
+    <tag id="24304097" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="24304097" k="parking:lane:both" o="none" type="way" v="no_parking" />
+    <tag id="24786093" k="lit" o="none" type="way" v="yes" />
+    <tag id="24786093" k="name" o="none" type="way" v="Agricolankatu" />
+    <tag id="24786093" k="highway" o="none" type="way" v="residential" />
+    <tag id="24786093" k="name:sv" o="none" type="way" v="Agricolasgatan" />
+    <tag id="24786093" k="surface" o="none" type="way" v="paved" />
+    <tag id="24786093" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24786093" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="24786093" k="parking:ticket:zone" o="none" type="way" v="3" />
+    <tag id="24786093" k="parking:condition:right" o="none" type="way" v="ticket" />
+    <tag id="24786093" k="parking:right:placement" o="none" type="way" v="dedicated" />
+    <tag id="24786093" k="parking:condition:right:residents" o="none" type="way" v="I" />
+    <tag id="24786093" k="parking:condition:right:time_interval" o="none" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="24786094" k="lit" o="add" type="way" v="yes" />
+    <tag id="24786094" k="name" o="none" type="way" v="Agricolankatu" />
+    <tag id="24786094" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24786094" k="highway" o="none" type="way" v="residential" />
+    <tag id="24786094" k="name:sv" o="none" type="way" v="Agricolasgatan" />
+    <tag id="24786094" k="surface" o="modify" type="way" v="cobblestone; paved" />
+    <tag id="24786094" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24786094" k="snowplowing" o="add" type="way" v="yes" />
+    <tag id="24786094" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="24786094" k="parking:ticket:zone" o="add" type="way" v="3" />
+    <tag id="24786094" k="parking:condition:both" o="add" type="way" v="ticket" />
+    <tag id="24786094" k="parking:lane:both:inline" o="add" type="way" v="on_street" />
+    <tag id="24786094" k="parking:condition:both:default" o="add" type="way" v="free" />
+    <tag id="24786094" k="parking:condition:both:residents" o="add" type="way" v="I" />
+    <tag id="24786094" k="parking:condition:both:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="32687563" k="name" o="none" type="way" v="It&#228;puisto" />
+    <tag id="32687563" k="leisure" o="none" type="way" v="park" />
+    <tag id="37933106" k="lit" o="none" type="way" v="yes" />
+    <tag id="37933106" k="name" o="none" type="way" v="Agricolankatu" />
+    <tag id="37933106" k="lanes" o="none" type="way" v="2" />
+    <tag id="37933106" k="highway" o="none" type="way" v="residential" />
+    <tag id="37933106" k="name:sv" o="none" type="way" v="Agricolasgatan" />
+    <tag id="37933106" k="surface" o="none" type="way" v="paved" />
+    <tag id="37933106" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="37933106" k="parking:lane:left" o="none" type="way" v="parallel" />
+    <tag id="37933106" k="parking:lane:right" o="none" type="way" v="diagonal" />
+    <tag id="37933106" k="parking:both:placement" o="none" type="way" v="dedicated" />
+    <tag id="37933106" k="parking:condition:both" o="none" type="way" v="ticket" />
+    <tag id="37933106" k="parking:lane:left:inline" o="none" type="way" v="on_street" />
+    <tag id="37933106" k="parking:lane:right:diagonal" o="none" type="way" v="painted_area_only" />
+    <tag id="37933106" k="parking:condition:both:residents" o="none" type="way" v="I" />
+    <tag id="37933106" k="parking:condition:both:time_interval" o="none" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="38341712" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="38341712" k="admin_level" o="none" type="way" v="10" />
+    <tag id="40135296" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="41801276" k="foot" o="none" type="way" v="yes" />
+    <tag id="41801276" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="41801277" k="area" o="none" type="way" v="yes" />
+    <tag id="41801277" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="41801277" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="41847197" k="name" o="none" type="way" v="Antinkatu" />
+    <tag id="41847197" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="75718293" k="name" o="add" type="way" v="Viides linja" />
+    <tag id="75718293" k="lanes" o="add" type="way" v="1" />
+    <tag id="75718293" k="oneway" o="add" type="way" v="yes" />
+    <tag id="75718293" k="highway" o="add" type="way" v="residential" />
+    <tag id="75718293" k="name:sv" o="add" type="way" v="Femte Linjen" />
+    <tag id="75718293" k="surface" o="add" type="way" v="paved" />
+    <tag id="75718293" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="75718293" k="parking:lane:right" o="none" type="way" v="diagonal" />
+    <tag id="75718293" k="parking:condition:right" o="none" type="way" v="ticket" />
+    <tag id="75718293" k="parking:lane:right:diagonal" o="none" type="way" v="on_street" />
+    <tag id="75718293" k="parking:condition:right:default" o="none" type="way" v="free" />
+    <tag id="75718293" k="parking:condition:right:residents" o="none" type="way" v="I" />
+    <tag id="75718293" k="parking:condition:right:time_interval" o="none" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="75718296" k="name" o="none" type="way" v="Viides linja" />
+    <tag id="75718296" k="lanes" o="none" type="way" v="1" />
+    <tag id="75718296" k="oneway" o="none" type="way" v="yes" />
+    <tag id="75718296" k="highway" o="none" type="way" v="residential" />
+    <tag id="75718296" k="name:sv" o="none" type="way" v="Femte Linjen" />
+    <tag id="75718296" k="surface" o="none" type="way" v="paved" />
+    <tag id="75718296" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="75718296" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="75718296" k="parking:condition:right" o="add" type="way" v="ticket" />
+    <tag id="75718296" k="parking:right:placement" o="add" type="way" v="dedicated" />
+    <tag id="75718296" k="parking:lane:right:inline" o="add" type="way" v="on_street" />
+    <tag id="75718296" k="parking:condition:right:default" o="add" type="way" v="free" />
+    <tag id="75718296" k="parking:condition:right:residents" o="add" type="way" v="I" />
+    <tag id="75718296" k="parking:condition:right:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="75718527" k="name" o="none" type="way" v="Fleminginkatu" />
+    <tag id="75718527" k="highway" o="none" type="way" v="residential" />
+    <tag id="75718527" k="name:sv" o="none" type="way" v="Flemingsgatan" />
+    <tag id="75718527" k="surface" o="none" type="way" v="paved" />
+    <tag id="75718527" k="loc_name" o="none" type="way" v="Flemari" />
+    <tag id="75718527" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="75718527" k="parking:lane:left" o="add" type="way" v="no_parking" />
+    <tag id="75718527" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="75718527" k="parking:condition:right" o="add" type="way" v="ticket" />
+    <tag id="75718527" k="parking:lane:right:inline" o="add" type="way" v="on_street" />
+    <tag id="75718527" k="parking:condition:right:default" o="add" type="way" v="free" />
+    <tag id="75718527" k="parking:condition:right:residents" o="add" type="way" v="I" />
+    <tag id="75718527" k="parking:condition:right:time_interval" o="add" type="way" v="Mo-Fr 09:00-19:00" />
+    <tag id="86748021" k="barrier" o="none" type="way" v="retaining_wall" />
+    <tag id="86999019" k="lit" o="none" type="way" v="yes" />
+    <tag id="86999019" k="highway" o="none" type="way" v="footway" />
+    <tag id="86999019" k="surface" o="none" type="way" v="paved" />
+    <tag id="87377257" k="lit" o="none" type="way" v="yes" />
+    <tag id="87377257" k="highway" o="none" type="way" v="footway" />
+    <tag id="87377257" k="surface" o="none" type="way" v="paved" />
+    <tag id="131351932" k="name" o="add" type="way" v="Kaarlenkatu" />
+    <tag id="131351932" k="oneway" o="add" type="way" v="yes" />
+    <tag id="131351932" k="highway" o="add" type="way" v="residential" />
+    <tag id="131351932" k="name:sv" o="add" type="way" v="Karlsgatan" />
+    <tag id="131351932" k="surface" o="add" type="way" v="paved" />
+    <tag id="131351932" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="68315" k="to" o="none" type="relation" v="Konala (teollisuusalue)" />
+    <tag id="68315" k="ref" o="none" type="relation" v="51" />
+    <tag id="68315" k="via" o="none" type="relation" v="Maunula" />
+    <tag id="68315" k="from" o="none" type="relation" v="Siltasaari" />
+    <tag id="68315" k="type" o="none" type="relation" v="route" />
+    <tag id="68315" k="route" o="none" type="relation" v="bus" />
+    <tag id="68315" k="network" o="none" type="relation" v="Helsinki" />
+    <tag id="68315" k="operator" o="none" type="relation" v="Helsingin Bussiliikenne" />
+    <tag id="141534" k="ref" o="none" type="relation" v="03N" />
+    <tag id="141534" k="type" o="none" type="relation" v="route" />
+    <tag id="141534" k="route" o="none" type="relation" v="bus" />
+    <tag id="141534" k="network" o="none" type="relation" v="Helsinki" />
+    <tag id="141534" k="operator" o="none" type="relation" v="Nobina Finland" />
+    <tag id="421394" k="to" o="none" type="relation" v="Siltasaari" />
+    <tag id="421394" k="ref" o="none" type="relation" v="51" />
+    <tag id="421394" k="via" o="none" type="relation" v="Maunula" />
+    <tag id="421394" k="from" o="none" type="relation" v="Konala (teollisuusalue)" />
+    <tag id="421394" k="type" o="none" type="relation" v="route" />
+    <tag id="421394" k="route" o="none" type="relation" v="bus" />
+    <tag id="421394" k="network" o="none" type="relation" v="Helsinki" />
+    <tag id="421394" k="operator" o="none" type="relation" v="Helsingin Bussiliikenne" />
+  </body>
+</changeset>

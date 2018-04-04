@@ -1,0 +1,68 @@
+<changeset id="38723433" schema="2">
+  <counts nodesAdded="6" nodesDeleted="11" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="1" waysModified="9" />
+  <meta>
+    <tag k="comment" v="Removing non-existing bus stop &amp; fixing tags on sidewalk/crossing at Holzhauser Str / Schubartstr." />
+    <tag k="created_by" v="iD 1.9.2" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="2184436718" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2184436718" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="2184436721" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2184436721" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="4804117" k="lit" o="none" type="way" v="yes" />
+    <tag id="4804117" k="name" o="none" type="way" v="Holzhauser Stra&#223;e" />
+    <tag id="4804117" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4804117" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4804117" k="cycleway" o="none" type="way" v="track" />
+    <tag id="4804117" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4804117" k="postal_code" o="none" type="way" v="13509" />
+    <tag id="8100317" k="lit" o="none" type="way" v="yes" />
+    <tag id="8100317" k="name" o="none" type="way" v="Breitenbachstra&#223;e" />
+    <tag id="8100317" k="highway" o="none" type="way" v="residential" />
+    <tag id="8100317" k="cycleway" o="none" type="way" v="track" />
+    <tag id="8100317" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="8100317" k="postal_code" o="none" type="way" v="13509" />
+    <tag id="9775030" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="9775030" k="highway" o="none" type="way" v="footway" />
+    <tag id="9775030" k="surface" o="none" type="way" v="paved" />
+    <tag id="27841175" k="lit" o="none" type="way" v="yes" />
+    <tag id="27841175" k="name" o="none" type="way" v="Schubartstra&#223;e" />
+    <tag id="27841175" k="highway" o="none" type="way" v="residential" />
+    <tag id="27841175" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="27841175" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="27841175" k="postal_code" o="none" type="way" v="13509" />
+    <tag id="59920375" k="access" o="none" type="way" v="private" />
+    <tag id="59920375" k="oneway" o="none" type="way" v="yes" />
+    <tag id="59920375" k="highway" o="none" type="way" v="service" />
+    <tag id="205989877" k="foot" o="none" type="way" v="designated" />
+    <tag id="205989877" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="205989877" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="205989877" k="highway" o="modify" type="way" v="footway" />
+    <tag id="205989881" k="foot" o="none" type="way" v="designated" />
+    <tag id="205989881" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="205989881" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="205989881" k="highway" o="modify" type="way" v="footway" />
+    <tag id="205989881" k="segregated" o="none" type="way" v="yes" />
+    <tag id="208123902" k="foot" o="none" type="way" v="designated" />
+    <tag id="208123902" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="208123902" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="208123902" k="highway" o="modify" type="way" v="footway" />
+    <tag id="208123902" k="segregated" o="none" type="way" v="yes" />
+    <tag id="411975137" k="foot" o="add" type="way" v="designated" />
+    <tag id="411975137" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="411975137" k="footway" o="add" type="way" v="crossing" />
+    <tag id="411975137" k="highway" o="add" type="way" v="footway" />
+    <tag id="411975137" k="crossing" o="add" type="way" v="traffic_signals" />
+    <tag id="411975137" k="segregated" o="add" type="way" v="yes" />
+    <tag id="5933977" k="name" o="none" type="relation" v="Holzhauser Stra&#223;e/Schubartstra&#223;e" />
+    <tag id="5933977" k="type" o="none" type="relation" v="public_transport" />
+    <tag id="5933977" k="network" o="none" type="relation" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="5933977" k="operator" o="none" type="relation" v="Berliner Verkehrsbetriebe" />
+    <tag id="5933977" k="network:short" o="none" type="relation" v="VBB" />
+    <tag id="5933977" k="operator:short" o="none" type="relation" v="BVG" />
+    <tag id="5933977" k="public_transport" o="none" type="relation" v="stop_area" />
+  </body>
+</changeset>

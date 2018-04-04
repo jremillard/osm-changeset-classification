@@ -1,0 +1,32 @@
+<changeset id="29761464" schema="2">
+  <counts nodesAdded="4" nodesDeleted="8" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="2" waysDeleted="7" waysModified="10" />
+  <meta>
+    <tag k="build" v="2.3-650-gad99430" />
+    <tag k="comment" v="DATEV IT-Campus Geb&#228;ude und Bariere in der Mendelstra&#223;e (Von F&#252;rtherstra&#223;e aus Sackgasse)" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="2618061409" k="addr:city" o="none" type="node" v="N&#252;rnberg" />
+    <tag id="2618061409" k="addr:street" o="none" type="node" v="F&#252;rther Stra&#223;e" />
+    <tag id="2618061409" k="addr:country" o="none" type="node" v="DE" />
+    <tag id="2618061409" k="addr:postcode" o="none" type="node" v="90429" />
+    <tag id="2618061409" k="addr:housenumber" o="none" type="node" v="111" />
+    <tag id="197463158" k="name" o="none" type="way" v="Mendelstra&#223;e" />
+    <tag id="197463158" k="highway" o="none" type="way" v="residential" />
+    <tag id="197463158" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="197463158" k="zone:maxspeed" o="none" type="way" v="DE:30" />
+    <tag id="256110294" k="name" o="add" type="way" v="DATEV IT-Campus" />
+    <tag id="256110294" k="source" o="none" type="way" v="bing2013;estimated" />
+    <tag id="256110294" k="building" o="add" type="way" v="office" />
+    <tag id="306596591" k="name" o="add" type="way" v="DATEV Parkhaus" />
+    <tag id="306596591" k="building" o="modify" type="way" v="public" />
+    <tag id="306596591" k="description" o="none" type="way" v="Parkhaus der DATEV" />
+    <tag id="334894627" k="building" o="add" type="way" v="yes" />
+    <tag id="334894628" k="oneway" o="add" type="way" v="yes" />
+    <tag id="334894628" k="highway" o="add" type="way" v="residential" />
+    <tag id="4092836" k="name" o="none" type="relation" v="DATEV IT-Campus 111" />
+    <tag id="4092836" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="4092836" k="building" o="none" type="relation" v="construction" />
+  </body>
+</changeset>

@@ -1,0 +1,28 @@
+<changeset id="39675945" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="2" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Add missing turn lanes from satellite imagery in Detroit https://github.com/mapbox/mapping/issues/180" />
+    <tag k="created_by" v="JOSM/1.5 (10168 en)" />
+    <tag k="source" v="Bing; Mapbox Satellite; USGS Large Scale Imagery" />
+  </meta>
+  <body>
+    <tag id="219723831" k="name" o="none" type="way" v="Grand River Avenue" />
+    <tag id="219723831" k="highway" o="none" type="way" v="primary" />
+    <tag id="219723831" k="tiger:zip_left" o="none" type="way" v="48240" />
+    <tag id="421880920" k="name" o="add" type="way" v="Grand River Avenue" />
+    <tag id="421880920" k="highway" o="add" type="way" v="primary" />
+    <tag id="421880920" k="tiger:zip_left" o="add" type="way" v="48240" />
+    <tag id="421880920" k="turn:lanes:forward" o="add" type="way" v="left|||" />
+    <tag id="421880921" k="name" o="add" type="way" v="Grand River Avenue" />
+    <tag id="421880921" k="highway" o="add" type="way" v="primary" />
+    <tag id="421880921" k="tiger:zip_left" o="add" type="way" v="48240" />
+    <tag id="2905954" k="ref" o="none" type="relation" v="21" />
+    <tag id="2905954" k="name" o="none" type="relation" v="Grand River" />
+    <tag id="2905954" k="type" o="none" type="relation" v="route" />
+    <tag id="2905954" k="route" o="none" type="relation" v="bus" />
+    <tag id="2905954" k="operator" o="none" type="relation" v="DDOT" />
+    <tag id="2905954" k="schedule" o="none" type="relation" v="pdf" />
+    <tag id="2905954" k="schedule:pdf" o="none" type="relation" v="http://www.detroitmi.gov/Portals/0/docs/Bus%20Schedules/Green/21GrandRiverMS.pdf" />
+    <tag id="2905954" k="schedule-updated:pdf" o="none" type="relation" v="2014-02-10" />
+  </body>
+</changeset>

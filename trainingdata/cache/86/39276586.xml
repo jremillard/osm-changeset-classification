@@ -1,0 +1,631 @@
+<changeset id="39276586" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="6" waysDeleted="0" waysModified="85" />
+  <meta>
+    <tag k="comment" v="OsmAnd, which uses OSM data, does not give proper voiceover directions if the ramps do not have names.  For example, instead of &quot;Take Exit 40B&quot;, it simply says &quot;Keep Right&quot;.  This could be confusing to a user, being taken as stay in the right lane." />
+    <tag k="created_by" v="iD 1.9.4" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="MAPNIK" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4252059" k="name" o="add" type="way" v="Exit 50A" />
+    <tag id="4252059" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4252059" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4252059" k="destination:ref" o="none" type="way" v="US 22" />
+    <tag id="4252059" k="destination:street" o="none" type="way" v="Jonestown Road" />
+    <tag id="4974483" k="hgv" o="none" type="way" v="designated" />
+    <tag id="4974483" k="ref" o="none" type="way" v="I 83" />
+    <tag id="4974483" k="foot" o="none" type="way" v="no" />
+    <tag id="4974483" k="name" o="none" type="way" v="John Harris Memorial Bridge" />
+    <tag id="4974483" k="horse" o="none" type="way" v="no" />
+    <tag id="4974483" k="lanes" o="modify" type="way" v="4" />
+    <tag id="4974483" k="layer" o="none" type="way" v="1" />
+    <tag id="4974483" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4974483" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4974483" k="bicycle" o="none" type="way" v="no" />
+    <tag id="4974483" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4974483" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="4974483" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="5037185" k="name" o="add" type="way" v="I-81 North To I-78 Hazleton" />
+    <tag id="5037185" k="lanes" o="none" type="way" v="2" />
+    <tag id="5037185" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5037185" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5037185" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="5037185" k="destination" o="none" type="way" v="Hazleton;Allentown" />
+    <tag id="5037185" k="junction:ref" o="none" type="way" v="51B" />
+    <tag id="5037185" k="destination:ref" o="none" type="way" v="I 81 North" />
+    <tag id="5037185" k="destination:ref:to" o="none" type="way" v="I 78" />
+    <tag id="5037210" k="hgv" o="none" type="way" v="designated" />
+    <tag id="5037210" k="ref" o="none" type="way" v="US 322" />
+    <tag id="5037210" k="name" o="add" type="way" v="Exit 70" />
+    <tag id="5037210" k="lanes" o="none" type="way" v="2" />
+    <tag id="5037210" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5037210" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5037210" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="5037210" k="destination" o="none" type="way" v="Hershey;York" />
+    <tag id="5037210" k="destination:ref" o="none" type="way" v="I 83 South;US 322 East" />
+    <tag id="5037210" k="old_ref_legislative" o="none" type="way" v="(ramp)" />
+    <tag id="5037210" k="destination:street:to" o="none" type="way" v="Pennsylvania Turnpike" />
+    <tag id="6648147" k="name" o="add" type="way" v="I-76 East Philadelphia" />
+    <tag id="6648147" k="toll" o="none" type="way" v="yes" />
+    <tag id="6648147" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6648147" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6648147" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6648147" k="destination" o="none" type="way" v="Philadelphia" />
+    <tag id="6648147" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6648147" k="destination:ref" o="none" type="way" v="I 76 East" />
+    <tag id="6648168" k="name" o="add" type="way" v="Exit 39B" />
+    <tag id="6648168" k="toll" o="none" type="way" v="yes" />
+    <tag id="6648168" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6648168" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6648168" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6648168" k="destination" o="none" type="way" v="Pittsburgh;Philadelphia" />
+    <tag id="6648168" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6648168" k="destination:ref" o="none" type="way" v="I 76" />
+    <tag id="6648168" k="destination:street" o="none" type="way" v="Pennsylvania Turnpike" />
+    <tag id="6649584" k="name" o="add" type="way" v="Exit 39A" />
+    <tag id="6649584" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6649584" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6649584" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6649584" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6649584" k="destination:ref" o="none" type="way" v="PA 114" />
+    <tag id="6649584" k="destination:street" o="none" type="way" v="Lewisberry Road" />
+    <tag id="6651358" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="6651358" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6651358" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6651358" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6651358" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6651358" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6651358" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="6651385" k="name" o="add" type="way" v="Exit 36" />
+    <tag id="6651385" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6651385" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6651385" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6651385" k="destination" o="none" type="way" v="Fishing Creek" />
+    <tag id="6651385" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6651385" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6651385" k="destination:ref" o="none" type="way" v="PA 262" />
+    <tag id="6656755" k="name" o="add" type="way" v="Exit 38" />
+    <tag id="6656755" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6656755" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6656755" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6656755" k="destination" o="none" type="way" v="Reesers Summit" />
+    <tag id="6656755" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6656755" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6662543" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="6662543" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6662543" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6662543" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6662543" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6662543" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6662543" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="6662545" k="name" o="add" type="way" v="Exit 38" />
+    <tag id="6662545" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6662545" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6662545" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6662545" k="destination" o="none" type="way" v="Reesers Summit" />
+    <tag id="6662545" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6662545" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6662549" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="6662549" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6662549" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6662549" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6662549" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6662549" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6662549" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="6663946" k="name" o="add" type="way" v="Exit 242" />
+    <tag id="6663946" k="toll" o="none" type="way" v="yes" />
+    <tag id="6663946" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6663946" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6663946" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6663946" k="destination" o="none" type="way" v="York;Baltimore;Harrisburg" />
+    <tag id="6663946" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6663946" k="destination:ref" o="none" type="way" v="I 83" />
+    <tag id="6668470" k="name" o="add" type="way" v="I-83 North Harrisburg" />
+    <tag id="6668470" k="toll" o="none" type="way" v="yes" />
+    <tag id="6668470" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6668470" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6668470" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6668470" k="destination" o="none" type="way" v="Harrisburg" />
+    <tag id="6668470" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6668470" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="6670924" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="6670924" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6670924" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6670924" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6670924" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6670924" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6670924" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="6709440" k="ref" o="none" type="way" v="PA 262" />
+    <tag id="6709440" k="name" o="none" type="way" v="Fishing Creek Road" />
+    <tag id="6709440" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6709440" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="6709440" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="6709440" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6709440" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6709440" k="tiger:zip_left" o="none" type="way" v="17070" />
+    <tag id="6709440" k="tiger:name_base" o="none" type="way" v="Fishing Creek" />
+    <tag id="6709440" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6709440" k="tiger:zip_right" o="none" type="way" v="17070" />
+    <tag id="6709440" k="tiger:name_base_1" o="none" type="way" v="State Route 262" />
+    <tag id="6709440" k="old_ref_legislative" o="none" type="way" v="66003" />
+    <tag id="6719346" k="name" o="none" type="way" v="Steigerwalt Hollow Road" />
+    <tag id="6719346" k="highway" o="none" type="way" v="residential" />
+    <tag id="6719346" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="6719346" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6719346" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6719346" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6719346" k="tiger:zip_left" o="none" type="way" v="17070" />
+    <tag id="6719346" k="tiger:name_base" o="none" type="way" v="Steigerwalt Hollow" />
+    <tag id="6719346" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6719346" k="tiger:zip_right" o="none" type="way" v="17070" />
+    <tag id="6748597" k="ref" o="none" type="way" v="PA 114" />
+    <tag id="6748597" k="name" o="none" type="way" v="Lewisberry Road" />
+    <tag id="6748597" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6748597" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="6748597" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="6748597" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6748597" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6748597" k="tiger:name_base" o="none" type="way" v="Lewisberry" />
+    <tag id="6748597" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6748597" k="tiger:name_base_1" o="none" type="way" v="State Route 382" />
+    <tag id="6748597" k="old_ref_legislative" o="none" type="way" v="250" />
+    <tag id="9059183" k="name" o="add" type="way" v="Exit 3C" />
+    <tag id="9059183" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9059183" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9059183" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="9059183" k="destination" o="none" type="way" v="Hershey" />
+    <tag id="9059183" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="9059183" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="9059183" k="destination:ref" o="none" type="way" v="US 322 East" />
+    <tag id="9059274" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="9059274" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9059274" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9059274" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="9059274" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="9059274" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="9059437" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="9059437" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9059437" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9059444" k="name" o="add" type="way" v="Exit 44B" />
+    <tag id="9059444" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9059444" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9059444" k="destination:street" o="none" type="way" v="17th Street" />
+    <tag id="9059928" k="name" o="add" type="way" v="I-83 North Carlisle" />
+    <tag id="9059928" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9059928" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9059928" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="9059928" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="9059928" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="9060836" k="name" o="add" type="way" v="Exit 45" />
+    <tag id="9060836" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9060836" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9060836" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="9060836" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="9060836" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="9060836" k="destination:street" o="none" type="way" v="Paxton Street" />
+    <tag id="9072265" k="hgv" o="none" type="way" v="designated" />
+    <tag id="9072265" k="ref" o="none" type="way" v="US 322" />
+    <tag id="9072265" k="name" o="add" type="way" v="Exit 47" />
+    <tag id="9072265" k="lanes" o="none" type="way" v="1" />
+    <tag id="9072265" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9072265" k="highway" o="none" type="way" v="motorway" />
+    <tag id="9072265" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="9072265" k="tiger:cfcc" o="none" type="way" v="A25" />
+    <tag id="9072265" k="destination" o="none" type="way" v="Hershey" />
+    <tag id="9072265" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="9072265" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="9072265" k="destination:ref" o="none" type="way" v="US 322 east" />
+    <tag id="9072265" k="tiger:name_base" o="none" type="way" v="United States Highway 322" />
+    <tag id="9072265" k="destination:street" o="modify" type="way" v="Derry Street;Paxton Street" />
+    <tag id="9072265" k="old_ref_legislative" o="none" type="way" v="768" />
+    <tag id="9072265" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="9072265" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="10269716" k="name" o="add" type="way" v="Exit 50B" />
+    <tag id="10269716" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10269716" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10269716" k="destination:ref" o="none" type="way" v="US 22" />
+    <tag id="10269716" k="destination:street" o="none" type="way" v="Jonestown Road" />
+    <tag id="10269842" k="name" o="add" type="way" v="Exit 50" />
+    <tag id="10269842" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10269842" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10269842" k="destination:ref" o="none" type="way" v="US 22" />
+    <tag id="10269842" k="destination:street" o="none" type="way" v="Jonestown Road" />
+    <tag id="10269847" k="name" o="add" type="way" v="I-83 South Airport" />
+    <tag id="10269847" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10269847" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10372069" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="10372069" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10372069" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10372069" k="destination" o="none" type="way" v="Hershey" />
+    <tag id="10372069" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="10372109" k="name" o="add" type="way" v="Exit 44A" />
+    <tag id="10372109" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10372109" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10372109" k="destination:ref" o="none" type="way" v="PA 230" />
+    <tag id="10372109" k="destination:street" o="none" type="way" v="13th Street" />
+    <tag id="10372168" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="10372168" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10372168" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10372168" k="destination" o="none" type="way" v="York" />
+    <tag id="10372168" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="10372211" k="name" o="add" type="way" v="Exit 44A" />
+    <tag id="10372211" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10372211" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10372211" k="destination:ref" o="none" type="way" v="PA 230" />
+    <tag id="10372211" k="destination:street" o="none" type="way" v="13th Street" />
+    <tag id="12285641" k="name" o="add" type="way" v="Exit 40B" />
+    <tag id="12285641" k="oneway" o="none" type="way" v="yes" />
+    <tag id="12285641" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="12285641" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="12285641" k="destination" o="none" type="way" v="New Cumberland" />
+    <tag id="12285641" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="12285641" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12285641" k="destination:street" o="none" type="way" v="Simpson Ferry Road" />
+    <tag id="12288500" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="12288500" k="oneway" o="none" type="way" v="yes" />
+    <tag id="12288500" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="12288500" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="12288500" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="12288500" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12290362" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="12290362" k="oneway" o="none" type="way" v="yes" />
+    <tag id="12290362" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="12290362" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="12290362" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="12290362" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12290362" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="12299250" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="12299250" k="oneway" o="none" type="way" v="yes" />
+    <tag id="12299250" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="12299250" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="12299250" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="12299250" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12299250" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="12315941" k="name" o="add" type="way" v="Exit 40B" />
+    <tag id="12315941" k="oneway" o="none" type="way" v="yes" />
+    <tag id="12315941" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="12315941" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="12315941" k="destination" o="none" type="way" v="New Cumberland" />
+    <tag id="12315941" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="12315941" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12315941" k="destination:street" o="none" type="way" v="Simpson Ferry Road" />
+    <tag id="12326261" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="12326261" k="oneway" o="none" type="way" v="yes" />
+    <tag id="12326261" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="12326261" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="12326261" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="12326261" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12326261" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="37393442" k="name" o="add" type="way" v="I-83 North Hershey" />
+    <tag id="37393442" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37393442" k="source" o="none" type="way" v="Yahoo imagery" />
+    <tag id="37393442" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="37393443" k="name" o="add" type="way" v="Exit 43" />
+    <tag id="37393443" k="layer" o="none" type="way" v="1" />
+    <tag id="37393443" k="bridge" o="none" type="way" v="yes" />
+    <tag id="37393443" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37393443" k="source" o="none" type="way" v="Yahoo imagery" />
+    <tag id="37393443" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="37393443" k="destination" o="none" type="way" v="Capitol" />
+    <tag id="37393443" k="destination:street" o="none" type="way" v="2nd Street" />
+    <tag id="39655163" k="name" o="add" type="way" v="Exit 43" />
+    <tag id="39655163" k="layer" o="none" type="way" v="1" />
+    <tag id="39655163" k="bridge" o="none" type="way" v="yes" />
+    <tag id="39655163" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39655163" k="source" o="none" type="way" v="Yahoo imagery" />
+    <tag id="39655163" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39655163" k="destination" o="none" type="way" v="Capitol" />
+    <tag id="39655163" k="destination:street" o="none" type="way" v="2nd Street" />
+    <tag id="39656309" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="39656309" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39656309" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39656309" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="39656317" k="name" o="add" type="way" v="Exit 40A" />
+    <tag id="39656317" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39656317" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39656317" k="destination:street" o="none" type="way" v="Limekiln Road" />
+    <tag id="39656338" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="39656338" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39656338" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39656338" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="39656549" k="name" o="add" type="way" v="Exit 242" />
+    <tag id="39656549" k="toll" o="none" type="way" v="yes" />
+    <tag id="39656549" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39656549" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39656549" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="39656549" k="destination" o="none" type="way" v="York;Baltimore;Harrisburg" />
+    <tag id="39656549" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="39656549" k="destination:ref" o="none" type="way" v="I 83" />
+    <tag id="39656572" k="name" o="add" type="way" v="I-83 South York Balitmore" />
+    <tag id="39656572" k="toll" o="none" type="way" v="yes" />
+    <tag id="39656572" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39656572" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39656572" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="39656572" k="destination" o="none" type="way" v="York;Baltimore" />
+    <tag id="39656572" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="39656572" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="42065289" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="42065289" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42065289" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="42065290" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42065290" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="42065293" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="42065293" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42065293" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="42065320" k="hgv" o="none" type="way" v="designated" />
+    <tag id="42065320" k="ref" o="none" type="way" v="I 283" />
+    <tag id="42065320" k="foot" o="none" type="way" v="no" />
+    <tag id="42065320" k="name" o="add" type="way" v="Exit 46A" />
+    <tag id="42065320" k="horse" o="none" type="way" v="no" />
+    <tag id="42065320" k="lanes" o="none" type="way" v="1" />
+    <tag id="42065320" k="layer" o="none" type="way" v="1" />
+    <tag id="42065320" k="bridge" o="none" type="way" v="yes" />
+    <tag id="42065320" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42065320" k="bicycle" o="none" type="way" v="no" />
+    <tag id="42065320" k="highway" o="none" type="way" v="motorway" />
+    <tag id="42065320" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="42065320" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="42065320" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="42065320" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="42065451" k="name" o="add" type="way" v="Exit 70" />
+    <tag id="42065451" k="lanes" o="none" type="way" v="2" />
+    <tag id="42065451" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42065451" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43121930" k="name" o="add" type="way" v="Exit 41A" />
+    <tag id="43121930" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43121930" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43121930" k="tiger:cfcc" o="none" type="way" v="A15:A63" />
+    <tag id="43121930" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="43121930" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="43148316" k="name" o="add" type="way" v="Exit 41B" />
+    <tag id="43148316" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43148316" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43148323" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="43148323" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43148323" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43148323" k="destination" o="none" type="way" v="York" />
+    <tag id="43148323" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="43148327" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="43148327" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43148327" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43148327" k="destination" o="none" type="way" v="Hershey" />
+    <tag id="43148327" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="43149204" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="43149204" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43149204" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43615838" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="43615838" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43615838" k="source" o="none" type="way" v="Yahoo imagery" />
+    <tag id="43615838" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43741273" k="NHS" o="none" type="way" v="yes" />
+    <tag id="43741273" k="name" o="add" type="way" v="Exit 46B" />
+    <tag id="43741273" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43741273" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="43741273" k="destination" o="none" type="way" v="Hershey" />
+    <tag id="43741273" k="destination:ref" o="none" type="way" v="US 322 east" />
+    <tag id="43741273" k="old_ref_legislative" o="none" type="way" v="1090" />
+    <tag id="49673318" k="hgv" o="none" type="way" v="designated" />
+    <tag id="49673318" k="ref" o="none" type="way" v="US 322" />
+    <tag id="49673318" k="name" o="add" type="way" v="I-81 South US 322 West Carlisle" />
+    <tag id="49673318" k="lanes" o="none" type="way" v="2" />
+    <tag id="49673318" k="oneway" o="none" type="way" v="yes" />
+    <tag id="49673318" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="49673318" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="49673318" k="destination" o="none" type="way" v="Carlisle;Lewistown" />
+    <tag id="49673318" k="junction:ref" o="none" type="way" v="51A" />
+    <tag id="49673318" k="destination:ref" o="none" type="way" v="I 81 South;US 322 West" />
+    <tag id="50977930" k="name" o="add" type="way" v="I-83 North Carlisle" />
+    <tag id="50977930" k="oneway" o="none" type="way" v="yes" />
+    <tag id="50977930" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="50977944" k="name" o="add" type="way" v="I-83 South Airport" />
+    <tag id="50977944" k="oneway" o="none" type="way" v="yes" />
+    <tag id="50977944" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="76159791" k="name" o="add" type="way" v="Exit 36" />
+    <tag id="76159791" k="oneway" o="none" type="way" v="yes" />
+    <tag id="76159791" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="76159791" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="76159791" k="destination" o="none" type="way" v="Fishing Creek" />
+    <tag id="76159791" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="76159791" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="76159791" k="destination:ref" o="none" type="way" v="PA 262" />
+    <tag id="76159791" k="tiger:name_base" o="none" type="way" v="Locust" />
+    <tag id="76159791" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="81232328" k="name" o="none" type="way" v="Union Deposit Road" />
+    <tag id="81232328" k="oneway" o="none" type="way" v="yes" />
+    <tag id="81232328" k="highway" o="none" type="way" v="secondary" />
+    <tag id="81232328" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="81232328" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="81232328" k="tiger:zip_left" o="none" type="way" v="17111" />
+    <tag id="81232328" k="tiger:name_base" o="none" type="way" v="Union Deposit" />
+    <tag id="81232328" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="81232328" k="tiger:zip_right" o="none" type="way" v="17111" />
+    <tag id="122079459" k="name" o="add" type="way" v="I-76 West Pittsburgh" />
+    <tag id="122079459" k="toll" o="none" type="way" v="yes" />
+    <tag id="122079459" k="oneway" o="none" type="way" v="yes" />
+    <tag id="122079459" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="122079459" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="122079459" k="destination" o="none" type="way" v="Pittsburgh" />
+    <tag id="122079459" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="122079459" k="destination:ref" o="none" type="way" v="I 76 West" />
+    <tag id="122080318" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="122080318" k="oneway" o="none" type="way" v="yes" />
+    <tag id="122080318" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="122080318" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="122080318" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="122080318" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="122080318" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="122080319" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="122080319" k="oneway" o="none" type="way" v="yes" />
+    <tag id="122080319" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="122080319" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="122080319" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="122080319" k="destination:ref" o="none" type="way" v="I 83 North" />
+    <tag id="122080751" k="name" o="add" type="way" v="Exit 40A" />
+    <tag id="122080751" k="oneway" o="none" type="way" v="yes" />
+    <tag id="122080751" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="122080751" k="destination:street" o="none" type="way" v="Limekiln Road" />
+    <tag id="149222710" k="name" o="add" type="way" v="Exit 44B" />
+    <tag id="149222710" k="oneway" o="none" type="way" v="yes" />
+    <tag id="149222710" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="149222710" k="destination:street" o="none" type="way" v="19th Street" />
+    <tag id="149463508" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="149463508" k="oneway" o="none" type="way" v="yes" />
+    <tag id="149463508" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="172514126" k="name" o="add" type="way" v="Exit 46A" />
+    <tag id="172514126" k="oneway" o="none" type="way" v="yes" />
+    <tag id="172514126" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="172514126" k="destination" o="none" type="way" v="Airport;Lancaster" />
+    <tag id="172514126" k="destination:ref" o="none" type="way" v="I 283 South" />
+    <tag id="172514126" k="destination:ref:to" o="none" type="way" v="I 76" />
+    <tag id="172514126" k="destination:street:to" o="none" type="way" v="Pennsylvania Turnpike" />
+    <tag id="175679296" k="name" o="add" type="way" v="I-83 South Lemoyne" />
+    <tag id="175679296" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175679296" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="175679296" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="175679296" k="destination" o="none" type="way" v="York;Baltimore;Lemoyne" />
+    <tag id="175679296" k="junction:ref" o="none" type="way" v="6B-C" />
+    <tag id="175679296" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="175679296" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="175679296" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="175679296" k="destination:ref:to" o="none" type="way" v="I 76" />
+    <tag id="175679296" k="destination:street:to" o="none" type="way" v="Pennsylvania Turnpike" />
+    <tag id="175679298" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="175679298" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175679298" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="175679298" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="175679298" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="175679298" k="tiger:zip_left" o="none" type="way" v="17111" />
+    <tag id="175679308" k="name" o="add" type="way" v="Exit 39A" />
+    <tag id="175679308" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175679308" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="175679308" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="175679308" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="175679308" k="destination:ref" o="none" type="way" v="PA 114" />
+    <tag id="175679308" k="destination:street" o="none" type="way" v="Lewisberry Road" />
+    <tag id="175679315" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="175679315" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175679315" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="175679315" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="175679315" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="175679315" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="175679323" k="name" o="add" type="way" v="Exit 39B" />
+    <tag id="175679323" k="toll" o="none" type="way" v="yes" />
+    <tag id="175679323" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175679323" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="175679323" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="175679323" k="destination" o="none" type="way" v="Pittsburgh;Philadelphia" />
+    <tag id="175679323" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="175679323" k="destination:ref" o="none" type="way" v="I 76" />
+    <tag id="175679323" k="destination:street" o="none" type="way" v="Pennsylvania Turnpike" />
+    <tag id="178550488" k="name" o="add" type="way" v="I-83 South York" />
+    <tag id="178550488" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178550488" k="source" o="none" type="way" v="Yahoo imagery" />
+    <tag id="178550488" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="180401404" k="name" o="add" type="way" v="Exit 45" />
+    <tag id="180401404" k="oneway" o="none" type="way" v="yes" />
+    <tag id="180401404" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="180401404" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="180401404" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="180401404" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="180401404" k="destination:street" o="modify" type="way" v="Paxton Street;Bass Pro Drive" />
+    <tag id="180401404" k="old_ref_legislative" o="none" type="way" v="139 Spur" />
+    <tag id="182397139" k="name" o="add" type="way" v="Exit 3A" />
+    <tag id="182397139" k="oneway" o="none" type="way" v="yes" />
+    <tag id="182397139" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="182397139" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="182397139" k="tiger:cfcc" o="none" type="way" v="A11" />
+    <tag id="182397139" k="destination" o="none" type="way" v="Harrisburg" />
+    <tag id="182397139" k="tiger:county" o="none" type="way" v="Dauphin, PA" />
+    <tag id="182397139" k="tiger:reviewed" o="none" type="way" v="aerial" />
+    <tag id="182397139" k="destination:ref" o="none" type="way" v="I 83 South" />
+    <tag id="337502237" k="name" o="add" type="way" v="Exit 6C" />
+    <tag id="337502237" k="oneway" o="none" type="way" v="yes" />
+    <tag id="337502237" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="337502237" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="337502237" k="tiger:county" o="none" type="way" v="Cumberland, PA" />
+    <tag id="337502237" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="391758178" k="name" o="add" type="way" v="Former Exit 42 (Closed)" />
+    <tag id="391758178" k="access" o="add" type="way" v="no" />
+    <tag id="391758178" k="highway" o="modify" type="way" v="path" />
+    <tag id="410083493" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="410083493" k="oneway" o="none" type="way" v="yes" />
+    <tag id="410083493" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="410083497" k="name" o="add" type="way" v="I-83 South Ramp" />
+    <tag id="410083497" k="oneway" o="none" type="way" v="yes" />
+    <tag id="410083497" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="413903430" k="name" o="add" type="way" v="Exit 48" />
+    <tag id="413903430" k="oneway" o="none" type="way" v="yes" />
+    <tag id="413903430" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="413903430" k="destination:street" o="none" type="way" v="Union Deposit Road" />
+    <tag id="413903431" k="name" o="add" type="way" v="Exit 48" />
+    <tag id="413903431" k="oneway" o="none" type="way" v="yes" />
+    <tag id="413903431" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="413903431" k="destination:street" o="none" type="way" v="Union Deposit Road" />
+    <tag id="417692763" k="name" o="add" type="way" v="Steigerwalt Hollow Road" />
+    <tag id="417692763" k="highway" o="add" type="way" v="residential" />
+    <tag id="417692763" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="417692763" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="417692763" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="417692763" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="417692763" k="tiger:zip_left" o="add" type="way" v="17070" />
+    <tag id="417692763" k="tiger:name_base" o="add" type="way" v="Steigerwalt Hollow" />
+    <tag id="417692763" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="417692763" k="tiger:zip_right" o="add" type="way" v="17070" />
+    <tag id="417692764" k="ref" o="add" type="way" v="PA 262" />
+    <tag id="417692764" k="name" o="add" type="way" v="Fishing Creek Road" />
+    <tag id="417692764" k="highway" o="add" type="way" v="secondary" />
+    <tag id="417692764" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="417692764" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="417692764" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="417692764" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="417692764" k="tiger:zip_left" o="add" type="way" v="17070" />
+    <tag id="417692764" k="tiger:name_base" o="add" type="way" v="Fishing Creek" />
+    <tag id="417692764" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="417692764" k="tiger:zip_right" o="add" type="way" v="17070" />
+    <tag id="417692764" k="tiger:name_base_1" o="add" type="way" v="State Route 262" />
+    <tag id="417692764" k="old_ref_legislative" o="add" type="way" v="66003" />
+    <tag id="417692765" k="hgv" o="add" type="way" v="designated" />
+    <tag id="417692765" k="ref" o="add" type="way" v="I 83" />
+    <tag id="417692765" k="foot" o="add" type="way" v="no" />
+    <tag id="417692765" k="name" o="add" type="way" v="John Harris Memorial Bridge" />
+    <tag id="417692765" k="horse" o="add" type="way" v="no" />
+    <tag id="417692765" k="lanes" o="add" type="way" v="3" />
+    <tag id="417692765" k="layer" o="add" type="way" v="1" />
+    <tag id="417692765" k="bridge" o="add" type="way" v="yes" />
+    <tag id="417692765" k="oneway" o="add" type="way" v="yes" />
+    <tag id="417692765" k="bicycle" o="add" type="way" v="no" />
+    <tag id="417692765" k="highway" o="add" type="way" v="motorway" />
+    <tag id="417692765" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="417692765" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="417692766" k="name" o="add" type="way" v="Union Deposit Road" />
+    <tag id="417692766" k="oneway" o="add" type="way" v="yes" />
+    <tag id="417692766" k="highway" o="add" type="way" v="secondary" />
+    <tag id="417692766" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="417692766" k="tiger:county" o="add" type="way" v="Dauphin, PA" />
+    <tag id="417692766" k="tiger:zip_left" o="add" type="way" v="17111" />
+    <tag id="417692766" k="tiger:name_base" o="add" type="way" v="Union Deposit" />
+    <tag id="417692766" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="417692766" k="tiger:zip_right" o="add" type="way" v="17111" />
+    <tag id="417692767" k="name" o="add" type="way" v="I-83 North Ramp" />
+    <tag id="417692767" k="oneway" o="add" type="way" v="yes" />
+    <tag id="417692767" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="417692768" k="oneway" o="add" type="way" v="yes" />
+    <tag id="417692768" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="417692768" k="destination:ref" o="add" type="way" v="US 22" />
+    <tag id="417692768" k="destination:street" o="add" type="way" v="Jonestown Road" />
+    <tag id="1020973" k="ref" o="none" type="relation" v="262" />
+    <tag id="1020973" k="type" o="none" type="relation" v="route" />
+    <tag id="1020973" k="is_in" o="none" type="relation" v="PA" />
+    <tag id="1020973" k="route" o="none" type="relation" v="road" />
+    <tag id="1020973" k="network" o="none" type="relation" v="US:PA" />
+    <tag id="1216550" k="ref" o="none" type="relation" v="83" />
+    <tag id="1216550" k="name" o="none" type="relation" v="I 83 (PA)" />
+    <tag id="1216550" k="type" o="none" type="relation" v="route" />
+    <tag id="1216550" k="route" o="none" type="relation" v="road" />
+    <tag id="1216550" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/c/c1/I-83.svg" />
+    <tag id="1216550" k="network" o="none" type="relation" v="US:I" />
+    <tag id="1216550" k="wikipedia" o="none" type="relation" v="en:Interstate 83#Pennsylvania" />
+    <tag id="1216550" k="is_in:state" o="none" type="relation" v="PA" />
+  </body>
+</changeset>

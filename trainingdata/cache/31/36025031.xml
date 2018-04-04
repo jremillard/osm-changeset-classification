@@ -1,0 +1,398 @@
+<changeset id="36025031" schema="2">
+  <counts nodesAdded="9" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="15" waysAdded="1" waysDeleted="0" waysModified="41" />
+  <meta>
+    <tag k="comment" v="Spurattribute verbessert; Stra&#223;entyp verbessert;" />
+    <tag k="created_by" v="JOSM/1.5 (9136 de)" />
+    <tag k="source" v="survey; Bing; HiRes arieal imagery" />
+  </meta>
+  <body>
+    <tag id="158754728" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="362231070" k="bicycle" o="none" type="node" v="yes" />
+    <tag id="362231070" k="highway" o="none" type="node" v="crossing" />
+    <tag id="362231070" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="2496030679" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="2496030685" k="bicycle" o="add" type="node" v="yes" />
+    <tag id="2496030685" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2496030685" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="2496030688" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="15805877" k="name" o="none" type="way" v="An den Weiden" />
+    <tag id="15805877" k="lanes" o="add" type="way" v="1" />
+    <tag id="15805877" k="width" o="none" type="way" v="6" />
+    <tag id="15805877" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15805877" k="highway" o="none" type="way" v="residential" />
+    <tag id="15805877" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="15805877" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="15805877" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="15805877" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="15805912" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="15805912" k="lanes" o="add" type="way" v="1" />
+    <tag id="15805912" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15805912" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="15805912" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="15805973" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="15805973" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15805973" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="15973031" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="15973031" k="highway" o="none" type="way" v="footway" />
+    <tag id="28679942" k="ref" o="none" type="way" v="K 36" />
+    <tag id="28679942" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="28679942" k="lanes" o="add" type="way" v="1" />
+    <tag id="28679942" k="oneway" o="add" type="way" v="yes" />
+    <tag id="28679942" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28679942" k="highway" o="none" type="way" v="secondary" />
+    <tag id="28679942" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="28679992" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="28679992" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="59636460" k="ref" o="none" type="way" v="K 36" />
+    <tag id="59636460" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="59636460" k="lanes" o="none" type="way" v="3" />
+    <tag id="59636460" k="oneway" o="none" type="way" v="yes" />
+    <tag id="59636460" k="source" o="none" type="way" v="bing" />
+    <tag id="59636460" k="bicycle" o="none" type="way" v="no" />
+    <tag id="59636460" k="highway" o="none" type="way" v="secondary" />
+    <tag id="59636460" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="59636460" k="turn:lanes" o="none" type="way" v="left|through|through" />
+    <tag id="59636460" k="change:lanes" o="add" type="way" v="yes|yes|yes" />
+    <tag id="85503845" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="85503845" k="oneway" o="none" type="way" v="yes" />
+    <tag id="85503845" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="85503849" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="85503849" k="oneway" o="none" type="way" v="yes" />
+    <tag id="85503849" k="bicycle" o="none" type="way" v="no" />
+    <tag id="85503849" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="85503849" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="85503849" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="85503849" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="85503849" k="destination" o="none" type="way" v="Kassel" />
+    <tag id="85503849" k="destination:to" o="none" type="way" v="Kassel" />
+    <tag id="85503849" k="destination:ref" o="none" type="way" v="B 3" />
+    <tag id="85503849" k="destination:ref:to" o="none" type="way" v="A 7" />
+    <tag id="164952982" k="name" o="add" type="way" v="An den Weiden" />
+    <tag id="164952982" k="lanes" o="add" type="way" v="2" />
+    <tag id="164952982" k="width" o="add" type="way" v="6" />
+    <tag id="164952982" k="oneway" o="add" type="way" v="no" />
+    <tag id="164952982" k="highway" o="add" type="way" v="residential" />
+    <tag id="164952982" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="164952982" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="164952982" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="164952982" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="164952982" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="164952982" k="turn:lanes:backward" o="add" type="way" v="right" />
+    <tag id="165096241" k="name" o="none" type="way" v="An den Weiden" />
+    <tag id="165096241" k="lanes" o="add" type="way" v="1" />
+    <tag id="165096241" k="width" o="none" type="way" v="6" />
+    <tag id="165096241" k="oneway" o="none" type="way" v="yes" />
+    <tag id="165096241" k="highway" o="none" type="way" v="residential" />
+    <tag id="165096241" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="165096241" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="165096241" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="165096241" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="202727017" k="name" o="none" type="way" v="An den Weiden" />
+    <tag id="202727017" k="width" o="none" type="way" v="6" />
+    <tag id="202727017" k="oneway" o="none" type="way" v="no" />
+    <tag id="202727017" k="source" o="none" type="way" v="survey 2015-12-17" />
+    <tag id="202727017" k="highway" o="none" type="way" v="residential" />
+    <tag id="202727017" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="202727017" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="202727017" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="204634133" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="204634133" k="lanes" o="none" type="way" v="2" />
+    <tag id="204634133" k="oneway" o="none" type="way" v="yes" />
+    <tag id="204634133" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="204634134" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="204634134" k="lanes" o="none" type="way" v="2" />
+    <tag id="204634134" k="oneway" o="none" type="way" v="yes" />
+    <tag id="204634134" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="230138209" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="230138209" k="lanes" o="none" type="way" v="2" />
+    <tag id="230138209" k="oneway" o="none" type="way" v="yes" />
+    <tag id="230138209" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="230138209" k="turn:lanes" o="none" type="way" v="left|left;through" />
+    <tag id="230138209" k="destination:lanes" o="none" type="way" v="G&#246;ttingen|G&#246;ttingen;Hannover" />
+    <tag id="230196003" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="230196003" k="lanes" o="none" type="way" v="2" />
+    <tag id="230196003" k="oneway" o="none" type="way" v="yes" />
+    <tag id="230196003" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="238231773" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="238231773" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="240829178" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="240829178" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="240829178" k="maxheight" o="none" type="way" v="4.0 m" />
+    <tag id="240829193" k="ref" o="none" type="way" v="K 36" />
+    <tag id="240829193" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="240829193" k="lanes" o="none" type="way" v="4" />
+    <tag id="240829193" k="oneway" o="none" type="way" v="yes" />
+    <tag id="240829193" k="source" o="none" type="way" v="bing" />
+    <tag id="240829193" k="bicycle" o="none" type="way" v="no" />
+    <tag id="240829193" k="highway" o="none" type="way" v="secondary" />
+    <tag id="240829193" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="240829193" k="turn:lanes" o="none" type="way" v="left|left|through|through" />
+    <tag id="240829193" k="change:lanes" o="add" type="way" v="no|no|no|no" />
+    <tag id="241735428" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="241735428" k="lanes" o="none" type="way" v="3" />
+    <tag id="241735428" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="241735428" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="241735428" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="241994760" k="ref" o="none" type="way" v="K 36" />
+    <tag id="241994760" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="241994760" k="lanes" o="none" type="way" v="2" />
+    <tag id="241994760" k="oneway" o="none" type="way" v="yes" />
+    <tag id="241994760" k="bicycle" o="none" type="way" v="no" />
+    <tag id="241994760" k="highway" o="none" type="way" v="secondary" />
+    <tag id="241994760" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="241994760" k="turn:lanes" o="none" type="way" v="through|merge_to_left" />
+    <tag id="241994760" k="change:lanes" o="add" type="way" v="yes|yes" />
+    <tag id="242008386" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242008386" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242008386" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242008389" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242008389" k="lanes" o="none" type="way" v="2" />
+    <tag id="242008389" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242008389" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242008389" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="242008389" k="turn:lanes" o="none" type="way" v="left|right" />
+    <tag id="242008390" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242008390" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242008390" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242008390" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="242021912" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242021912" k="lanes" o="add" type="way" v="1" />
+    <tag id="242021912" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242021912" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242021912" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="242021912" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="242027702" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242027702" k="lanes" o="none" type="way" v="3" />
+    <tag id="242027702" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242027702" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="242027702" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="242027702" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="242027702" k="placement:backward" o="add" type="way" v="left_of:1" />
+    <tag id="242027702" k="turn:lanes:backward" o="none" type="way" v="left|right" />
+    <tag id="242027702" k="change:lanes:forward" o="add" type="way" v="no" />
+    <tag id="242027702" k="change:lanes:backward" o="add" type="way" v="not_left|yes" />
+    <tag id="242027703" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242027703" k="lanes" o="none" type="way" v="2" />
+    <tag id="242027703" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242027703" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242027703" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="242027703" k="placement" o="add" type="way" v="transition" />
+    <tag id="242027703" k="turn:lanes" o="none" type="way" v="left|right" />
+    <tag id="242027703" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="242027704" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="242027704" k="lanes" o="add" type="way" v="1" />
+    <tag id="242027704" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242027704" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="242027704" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="242027704" k="turn:lanes" o="none" type="way" v="right" />
+    <tag id="242027705" k="ref" o="none" type="way" v="K 36" />
+    <tag id="242027705" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="242027705" k="lanes" o="modify" type="way" v="2" />
+    <tag id="242027705" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242027705" k="bicycle" o="none" type="way" v="no" />
+    <tag id="242027705" k="highway" o="none" type="way" v="secondary" />
+    <tag id="242027705" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="242027705" k="turn:lanes" o="add" type="way" v="through|through" />
+    <tag id="242027705" k="change:lanes" o="add" type="way" v="yes|yes" />
+    <tag id="242027706" k="ref" o="none" type="way" v="K 36" />
+    <tag id="242027706" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="242027706" k="lanes" o="none" type="way" v="2" />
+    <tag id="242027706" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242027706" k="bicycle" o="none" type="way" v="no" />
+    <tag id="242027706" k="highway" o="none" type="way" v="secondary" />
+    <tag id="242027706" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="242027706" k="turn:lanes" o="none" type="way" v="through|right" />
+    <tag id="242027706" k="change:lanes" o="add" type="way" v="yes|yes" />
+    <tag id="242027880" k="ref" o="none" type="way" v="K 36" />
+    <tag id="242027880" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="242027880" k="bicycle" o="none" type="way" v="no" />
+    <tag id="242027880" k="highway" o="none" type="way" v="secondary" />
+    <tag id="242027880" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="243013521" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="243013521" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="243013522" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="243013522" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="243013522" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="243013523" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="243013523" k="lanes" o="add" type="way" v="2" />
+    <tag id="243013523" k="oneway" o="modify" type="way" v="no" />
+    <tag id="243013523" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="243013523" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="243013523" k="turn:lanes" o="add" type="way" v="left" />
+    <tag id="243013523" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="243013524" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="243013524" k="lanes" o="add" type="way" v="1" />
+    <tag id="243013524" k="oneway" o="none" type="way" v="yes" />
+    <tag id="243013524" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="243013524" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="243013524" k="turn:lanes" o="none" type="way" v="left" />
+    <tag id="243013527" k="ref" o="none" type="way" v="K 36" />
+    <tag id="243013527" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="243013527" k="lanes" o="add" type="way" v="1" />
+    <tag id="243013527" k="oneway" o="none" type="way" v="yes" />
+    <tag id="243013527" k="bicycle" o="none" type="way" v="no" />
+    <tag id="243013527" k="highway" o="none" type="way" v="secondary" />
+    <tag id="243013527" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="243013528" k="ref" o="none" type="way" v="K 36" />
+    <tag id="243013528" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="243013528" k="lanes" o="modify" type="way" v="3" />
+    <tag id="243013528" k="oneway" o="add" type="way" v="yes" />
+    <tag id="243013528" k="bicycle" o="none" type="way" v="no" />
+    <tag id="243013528" k="highway" o="none" type="way" v="secondary" />
+    <tag id="243013528" k="sidewalk" o="add" type="way" v="separate" />
+    <tag id="243013528" k="placement" o="add" type="way" v="right_of:2" />
+    <tag id="243013528" k="turn:lanes" o="add" type="way" v="left|through|through" />
+    <tag id="243013528" k="change:lanes" o="add" type="way" v="no|no|no" />
+    <tag id="262450250" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="262450250" k="lanes" o="none" type="way" v="3" />
+    <tag id="262450250" k="oneway" o="none" type="way" v="yes" />
+    <tag id="262450250" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="262450250" k="turn:lanes" o="none" type="way" v="left|left;through|slight_right" />
+    <tag id="262450250" k="destination:lanes" o="none" type="way" v="G&#246;ttingen|G&#246;ttingen;Hannover|Kassel" />
+    <tag id="262450251" k="name" o="none" type="way" v="Am Kauf Park" />
+    <tag id="262450251" k="oneway" o="none" type="way" v="yes" />
+    <tag id="262450251" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="262450281" k="ref" o="none" type="way" v="K 36" />
+    <tag id="262450281" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="262450281" k="lanes" o="none" type="way" v="3" />
+    <tag id="262450281" k="oneway" o="none" type="way" v="yes" />
+    <tag id="262450281" k="bicycle" o="none" type="way" v="no" />
+    <tag id="262450281" k="highway" o="none" type="way" v="secondary" />
+    <tag id="262450281" k="sidewalk" o="none" type="way" v="separate" />
+    <tag id="262450281" k="placement" o="add" type="way" v="right_of:2" />
+    <tag id="262450281" k="turn:lanes" o="none" type="way" v="left|through|through" />
+    <tag id="262450281" k="change:lanes" o="add" type="way" v="yes|yes|yes" />
+    <tag id="262450285" k="ref" o="none" type="way" v="K 36" />
+    <tag id="262450285" k="name" o="none" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="262450285" k="lanes" o="none" type="way" v="5" />
+    <tag id="262450285" k="oneway" o="none" type="way" v="yes" />
+    <tag id="262450285" k="source" o="none" type="way" v="bing" />
+    <tag id="262450285" k="bicycle" o="none" type="way" v="no" />
+    <tag id="262450285" k="highway" o="none" type="way" v="secondary" />
+    <tag id="262450285" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="262450285" k="turn:lanes" o="none" type="way" v="left|left|through|through|right" />
+    <tag id="262450285" k="change:lanes" o="add" type="way" v="yes|yes|yes|yes|yes" />
+    <tag id="386463222" k="ref" o="add" type="way" v="K 36" />
+    <tag id="386463222" k="name" o="add" type="way" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="386463222" k="bicycle" o="add" type="way" v="no" />
+    <tag id="386463222" k="highway" o="add" type="way" v="secondary" />
+    <tag id="386463222" k="sidewalk" o="add" type="way" v="separate" />
+    <tag id="386463222" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="2912814" k="type" o="none" type="relation" v="restriction" />
+    <tag id="2912814" k="restriction" o="modify" type="relation" v="only_straight_on" />
+    <tag id="3133615" k="to" o="none" type="relation" v="St.-Martini-Stra&#223;e" />
+    <tag id="3133615" k="ref" o="none" type="relation" v="5" />
+    <tag id="3133615" k="from" o="none" type="relation" v="Auf der Lieth" />
+    <tag id="3133615" k="name" o="none" type="relation" v="Bus (G2)5 Nikolausberg&gt;Gro&#223; Ellershausen" />
+    <tag id="3133615" k="type" o="none" type="relation" v="route" />
+    <tag id="3133615" k="route" o="none" type="relation" v="abandoned" />
+    <tag id="3133615" k="colour" o="none" type="relation" v="#008659" />
+    <tag id="3133615" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3133615" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3133615" k="abandoned:route" o="none" type="relation" v="bus" />
+    <tag id="3133615" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3249450" k="to" o="none" type="relation" v="Am Winterberg" />
+    <tag id="3249450" k="ref" o="none" type="relation" v="61" />
+    <tag id="3249450" k="from" o="none" type="relation" v="Spickenweg" />
+    <tag id="3249450" k="name" o="none" type="relation" v="Bus (G3)61 Rosdorf&gt;Hetjershausen (Rf, HVZ)" />
+    <tag id="3249450" k="type" o="none" type="relation" v="route" />
+    <tag id="3249450" k="route" o="none" type="relation" v="bus" />
+    <tag id="3249450" k="colour" o="none" type="relation" v="#981568" />
+    <tag id="3249450" k="source" o="none" type="relation" v="goevb.de 2014-10-03" />
+    <tag id="3249450" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3249450" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3249450" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3249451" k="to" o="none" type="relation" v="St.-Martini-Stra&#223;e" />
+    <tag id="3249451" k="ref" o="none" type="relation" v="62" />
+    <tag id="3249451" k="from" o="none" type="relation" v="Liegnitzer Stra&#223;e" />
+    <tag id="3249451" k="name" o="none" type="relation" v="Bus (G3)62 Bovenden&gt;Gro&#223; Ellershausen (Hf, HVZ)" />
+    <tag id="3249451" k="type" o="none" type="relation" v="route" />
+    <tag id="3249451" k="route" o="none" type="relation" v="bus" />
+    <tag id="3249451" k="colour" o="none" type="relation" v="#981568" />
+    <tag id="3249451" k="source" o="none" type="relation" v="goevb.de 2014-10-03" />
+    <tag id="3249451" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3249451" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3249451" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3249743" k="to" o="none" type="relation" v="Kaufpark-West" />
+    <tag id="3249743" k="ref" o="none" type="relation" v="13" />
+    <tag id="3249743" k="from" o="none" type="relation" v="Geismar-S&#252;d" />
+    <tag id="3249743" k="name" o="none" type="relation" v="Bus (G2)13 Geismar-S&#252;d&gt;Kaufpark" />
+    <tag id="3249743" k="type" o="none" type="relation" v="route" />
+    <tag id="3249743" k="route" o="none" type="relation" v="abandoned" />
+    <tag id="3249743" k="colour" o="none" type="relation" v="#e00047" />
+    <tag id="3249743" k="source" o="none" type="relation" v="goevb.de, bahn.de" />
+    <tag id="3249743" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3249743" k="note:de" o="none" type="relation" v="offizieller Weg -- Abk&#252;rzungen im Bereich Kaufpark (z.B. &#252;ber Way 164623444 oder 242027704) sind je nach Fahrer m&#246;glich" />
+    <tag id="3249743" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3249743" k="abandoned:route" o="none" type="relation" v="bus" />
+    <tag id="3249743" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3249744" k="to" o="none" type="relation" v="Geismar-S&#252;d" />
+    <tag id="3249744" k="ref" o="none" type="relation" v="13" />
+    <tag id="3249744" k="from" o="none" type="relation" v="Kaufpark-Ost" />
+    <tag id="3249744" k="name" o="none" type="relation" v="Bus (G2)13 Kaufpark&gt;Geismar-S&#252;d" />
+    <tag id="3249744" k="type" o="none" type="relation" v="route" />
+    <tag id="3249744" k="route" o="none" type="relation" v="abandoned" />
+    <tag id="3249744" k="colour" o="none" type="relation" v="#e00047" />
+    <tag id="3249744" k="source" o="none" type="relation" v="goevb.de, bahn.de" />
+    <tag id="3249744" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3249744" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3249744" k="abandoned:route" o="none" type="relation" v="bus" />
+    <tag id="3249744" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3249749" k="to" o="none" type="relation" v="Grete-Henry-Stra&#223;e" />
+    <tag id="3249749" k="ref" o="none" type="relation" v="72" />
+    <tag id="3249749" k="from" o="none" type="relation" v="Kaufpark-Ost" />
+    <tag id="3249749" k="name" o="none" type="relation" v="Bus (G3)72 Kaufpark&gt;Zietenterrassen (Hf)" />
+    <tag id="3249749" k="type" o="none" type="relation" v="route" />
+    <tag id="3249749" k="route" o="none" type="relation" v="bus" />
+    <tag id="3249749" k="colour" o="none" type="relation" v="#31368d" />
+    <tag id="3249749" k="source" o="none" type="relation" v="goevb.de 2014-10-03" />
+    <tag id="3249749" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3249749" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3249749" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3249750" k="to" o="none" type="relation" v="Kaufpark-Ost" />
+    <tag id="3249750" k="ref" o="none" type="relation" v="72" />
+    <tag id="3249750" k="from" o="none" type="relation" v="Grete-Henry-Stra&#223;e" />
+    <tag id="3249750" k="name" o="none" type="relation" v="Bus (G3)72 Zietenterrassen&gt;Kaufpark (Rf)" />
+    <tag id="3249750" k="type" o="none" type="relation" v="route" />
+    <tag id="3249750" k="route" o="none" type="relation" v="bus" />
+    <tag id="3249750" k="colour" o="none" type="relation" v="#31368d" />
+    <tag id="3249750" k="source" o="none" type="relation" v="survey 2014-11-01" />
+    <tag id="3249750" k="network" o="none" type="relation" v="VSN" />
+    <tag id="3249750" k="note:de" o="none" type="relation" v="offizieller Weg -- Abk&#252;rzungen im Bereich Kaufpark (z.B. &#252;ber Way 164623444 oder 242027704) sind je nach Fahrer m&#246;glich" />
+    <tag id="3249750" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="3249750" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3267294" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3267294" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3462378" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3462378" k="restriction" o="modify" type="relation" v="only_straight_on" />
+    <tag id="3841359" k="name" o="none" type="relation" v="An den Weiden" />
+    <tag id="3841359" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="3841359" k="addr:city" o="none" type="relation" v="G&#246;ttingen" />
+    <tag id="3841359" k="addr:street" o="none" type="relation" v="An den Weiden" />
+    <tag id="3841359" k="addr:suburb" o="none" type="relation" v="Grone" />
+    <tag id="3841359" k="addr:postcode" o="none" type="relation" v="37081" />
+    <tag id="4489112" k="ref" o="none" type="relation" v="K 36" />
+    <tag id="4489112" k="type" o="none" type="relation" v="route" />
+    <tag id="4489112" k="route" o="none" type="relation" v="road" />
+    <tag id="4489112" k="network" o="none" type="relation" v="Kreisstra&#223;en G&#246;ttingen" />
+    <tag id="4581789" k="to" o="none" type="relation" v="Betriebshof" />
+    <tag id="4581789" k="ref" o="none" type="relation" v="E" />
+    <tag id="4581789" k="from" o="none" type="relation" v="Bahnhof" />
+    <tag id="4581789" k="name" o="none" type="relation" v="Bus (G3)E Bahnhof 05:30&gt;Betriebshof" />
+    <tag id="4581789" k="note" o="none" type="relation" v="internal number 31" />
+    <tag id="4581789" k="type" o="none" type="relation" v="route" />
+    <tag id="4581789" k="route" o="none" type="relation" v="bus" />
+    <tag id="4581789" k="colour" o="none" type="relation" v="#ff0000" />
+    <tag id="4581789" k="source" o="none" type="relation" v="goevb.de 2015-02-11" />
+    <tag id="4581789" k="network" o="none" type="relation" v="VSN" />
+    <tag id="4581789" k="operator" o="none" type="relation" v="G&#246;VB" />
+    <tag id="4581789" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4763606" k="name" o="none" type="relation" v="Am Kauf Park" />
+    <tag id="4763606" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="4763606" k="addr:city" o="none" type="relation" v="G&#246;ttingen" />
+    <tag id="4763606" k="addr:postcode" o="none" type="relation" v="37079" />
+    <tag id="5572301" k="name" o="none" type="relation" v="Otto-Brenner-Stra&#223;e" />
+    <tag id="5572301" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="5572301" k="addr:city" o="none" type="relation" v="G&#246;ttingen" />
+  </body>
+</changeset>

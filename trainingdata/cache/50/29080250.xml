@@ -1,0 +1,53 @@
+<changeset id="29080250" schema="2">
+  <counts nodesAdded="30" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="7" waysModified="10" />
+  <meta>
+    <tag k="comment" v="Merged some motorway links and added some house data near I476 &amp; Baltimore Pike" />
+    <tag k="created_by" v="iD 1.7.0" />
+    <tag k="imagery_used" v="Bing" />
+  </meta>
+  <body>
+    <tag id="23092650" k="lanes" o="modify" type="way" v="1;2;3" />
+    <tag id="23092650" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23092650" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="23092650" k="turn:lanes" o="add" type="way" v="none|none|slight_right" />
+    <tag id="23092650" k="destination" o="none" type="way" v="Baltimore Pike;Media;Springfield;Swarthmore" />
+    <tag id="23092650" k="source:lanes" o="add" type="way" v="Bing" />
+    <tag id="23092650" k="destination:lanes" o="add" type="way" v="Media|Swarthmore;Springfield;Media|Media|Swarthmore" />
+    <tag id="322776768" k="lanes" o="modify" type="way" v="2;1" />
+    <tag id="322776768" k="oneway" o="none" type="way" v="yes" />
+    <tag id="322776768" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="322776768" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="322776768" k="turn:lanes" o="add" type="way" v="none|merge_to_left" />
+    <tag id="322776768" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="323119821" k="lanes" o="modify" type="way" v="2;1" />
+    <tag id="323119821" k="oneway" o="none" type="way" v="yes" />
+    <tag id="323119821" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="323119821" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="323119821" k="tunr:lanes" o="add" type="way" v="none|merge_to_left" />
+    <tag id="323119821" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="330146051" k="building" o="add" type="way" v="house" />
+    <tag id="330146051" k="addr:city" o="add" type="way" v="Media" />
+    <tag id="330146051" k="addr:state" o="add" type="way" v="PA" />
+    <tag id="330146051" k="addr:street" o="add" type="way" v="Crestview Circle" />
+    <tag id="330146051" k="addr:postcode" o="add" type="way" v="19063" />
+    <tag id="330146051" k="addr:housenumber" o="add" type="way" v="320" />
+    <tag id="330146052" k="building" o="add" type="way" v="house" />
+    <tag id="330146052" k="addr:city" o="add" type="way" v="Media" />
+    <tag id="330146052" k="addr:state" o="add" type="way" v="PA" />
+    <tag id="330146052" k="addr:street" o="add" type="way" v="Crestview Circle" />
+    <tag id="330146052" k="addr:postcode" o="add" type="way" v="19063" />
+    <tag id="330146052" k="addr:housenumber" o="add" type="way" v="322" />
+    <tag id="330146053" k="building" o="add" type="way" v="house" />
+    <tag id="330146053" k="addr:city" o="add" type="way" v="Media" />
+    <tag id="330146053" k="addr:state" o="add" type="way" v="PA" />
+    <tag id="330146053" k="addr:street" o="add" type="way" v="Crestview Circle" />
+    <tag id="330146053" k="addr:postcode" o="add" type="way" v="19063" />
+    <tag id="330146053" k="addr:housenumber" o="add" type="way" v="324" />
+    <tag id="330146054" k="building" o="add" type="way" v="house" />
+    <tag id="330146054" k="addr:city" o="add" type="way" v="Media" />
+    <tag id="330146054" k="addr:state" o="add" type="way" v="PA" />
+    <tag id="330146054" k="addr:street" o="add" type="way" v="Crestview Circle" />
+    <tag id="330146054" k="addr:postcode" o="add" type="way" v="19063" />
+    <tag id="330146054" k="addr:housenumber" o="add" type="way" v="318" />
+  </body>
+</changeset>

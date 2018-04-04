@@ -1,0 +1,40 @@
+<changeset id="14480384" schema="2">
+  <counts nodesAdded="0" nodesDeleted="6" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="1" waysModified="2" />
+  <meta>
+    <tag k="build" v="2.3-554-ge648197" />
+    <tag k="comment" v="keine Haltestelle" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="33511805" k="bus" o="none" type="node" v="yes" />
+    <tag id="33511805" k="line" o="none" type="node" v="201" />
+    <tag id="33511805" k="name" o="none" type="node" v="Hauptstra&#223;e" />
+    <tag id="33511805" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="33511805" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="364554320" k="bus" o="none" type="node" v="yes" />
+    <tag id="364554320" k="name" o="none" type="node" v="Oberreichenbach Siedlung" />
+    <tag id="364554320" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="364554320" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="5023674" k="ref" o="none" type="way" v="ERH 15" />
+    <tag id="5023674" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="5023674" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="5023674" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="5023674" k="source:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="937843" k="to" o="none" type="relation" v="Erlangen Busbahnhof" />
+    <tag id="937843" k="ref" o="none" type="relation" v="201" />
+    <tag id="937843" k="from" o="none" type="relation" v="Neustadt (an der Aisch) Bahnhof" />
+    <tag id="937843" k="name" o="none" type="relation" v="Regionalbus 201 Neustadt (an der Aisch) Bahnhof - Erlangen Busbahnhof" />
+    <tag id="937843" k="type" o="none" type="relation" v="route" />
+    <tag id="937843" k="route" o="none" type="relation" v="bus" />
+    <tag id="937843" k="network" o="none" type="relation" v="VGN" />
+    <tag id="937843" k="operator" o="none" type="relation" v="Frankenbus" />
+    <tag id="937846" k="to" o="none" type="relation" v="Neustadt (an der Aisch) Bahnhof" />
+    <tag id="937846" k="ref" o="none" type="relation" v="201" />
+    <tag id="937846" k="from" o="none" type="relation" v="Erlangen Busbahnhof" />
+    <tag id="937846" k="name" o="none" type="relation" v="Regionalbus 201 Erlangen Busbahnhof - Neustadt (an der Aisch) Bahnhof" />
+    <tag id="937846" k="type" o="none" type="relation" v="route" />
+    <tag id="937846" k="route" o="none" type="relation" v="bus" />
+    <tag id="937846" k="network" o="none" type="relation" v="VGN" />
+  </body>
+</changeset>

@@ -29,7 +29,7 @@ class ChangeSetCollection:
                     # -1 for OK
                     raise Exception("error for id {}, wrong number of category cells.".format(row[0]))
                     
-                validated =  len(row[2]) > 0 and row[2] == 'Y'
+                validated = len(row[2]) > 0 and row[2] == 'Y'
 
                 label_id = 0 # 'OK'
                 for index in range(3, len(row)):

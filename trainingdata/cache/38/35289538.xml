@@ -1,0 +1,186 @@
+<changeset id="35289538" schema="2">
+  <counts nodesAdded="56" nodesDeleted="3" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="13" waysDeleted="0" waysModified="16" />
+  <meta>
+    <tag k="comment" v="Kreuzung Esslinger/Stuttgarter Stra&#223;e Fellbach" />
+    <tag k="created_by" v="iD 1.7.4" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="de" />
+  </meta>
+  <body>
+    <tag id="29684095" k="bus" o="none" type="node" v="yes" />
+    <tag id="29684095" k="name" o="none" type="node" v="Esslinger Stra&#223;e" />
+    <tag id="29684095" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="302687592" k="highway" o="none" type="node" v="crossing" />
+    <tag id="302687592" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="302687592" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="302687592" k="tactile_paving" o="none" type="node" v="no" />
+    <tag id="302687592" k="button_operated" o="none" type="node" v="yes" />
+    <tag id="335689911" k="bicycle" o="none" type="node" v="lane" />
+    <tag id="335689911" k="highway" o="none" type="node" v="crossing" />
+    <tag id="335689911" k="crossing" o="modify" type="node" v="zebra" />
+    <tag id="335689911" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="3554126012" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3554126013" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3554126013" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="3554126015" k="bicycle" o="none" type="node" v="lane" />
+    <tag id="3554126015" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3554126015" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="3554126015" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="3554126015" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="3554126015" k="tactile_paving" o="none" type="node" v="no" />
+    <tag id="3554126016" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3554126016" k="direction" o="none" type="node" v="195" />
+    <tag id="3655964029" k="highway" o="none" type="node" v="stop" />
+    <tag id="3655964029" k="traffic_sign" o="none" type="node" v="DE:206" />
+    <tag id="10512247" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="10512247" k="lanes" o="none" type="way" v="3" />
+    <tag id="10512247" k="oneway" o="add" type="way" v="yes" />
+    <tag id="10512247" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="10512247" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="10512247" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="10512247" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="10512247" k="cycleway:right" o="add" type="way" v="lane" />
+    <tag id="10512247" k="turn:lanes:forward" o="add" type="way" v="left|through;right" />
+    <tag id="17548232" k="lit" o="none" type="way" v="yes" />
+    <tag id="17548232" k="name" o="none" type="way" v="Stuttgarter Stra&#223;e" />
+    <tag id="17548232" k="highway" o="none" type="way" v="secondary" />
+    <tag id="17548232" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17548232" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="17548232" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="17548232" k="source:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="17548232" k="parking:lane:both" o="none" type="way" v="parallel" />
+    <tag id="17548232" k="destination:backward" o="none" type="way" v="Waiblingen" />
+    <tag id="24666297" k="footway" o="none" type="way" v="crossing" />
+    <tag id="24666297" k="highway" o="none" type="way" v="footway" />
+    <tag id="24666297" k="surface" o="none" type="way" v="paved" />
+    <tag id="27626761" k="highway" o="none" type="way" v="service" />
+    <tag id="27626761" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="48367996" k="name" o="none" type="way" v="Stuttgarter Stra&#223;e" />
+    <tag id="48367996" k="turn" o="none" type="way" v="through;right" />
+    <tag id="48367996" k="lanes" o="none" type="way" v="1" />
+    <tag id="48367996" k="oneway" o="none" type="way" v="yes" />
+    <tag id="48367996" k="highway" o="none" type="way" v="secondary" />
+    <tag id="48367996" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="48367996" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="48367996" k="destination" o="none" type="way" v="Stuttgart-Bad Cannstatt" />
+    <tag id="100771048" k="hgv" o="none" type="way" v="destination" />
+    <tag id="100771048" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="100771048" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="100771048" k="highway" o="none" type="way" v="residential" />
+    <tag id="100771048" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="100771048" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="262033810" k="boundary" o="none" type="way" v="postal_code" />
+    <tag id="349561575" k="name" o="none" type="way" v="Stuttgarter Stra&#223;e" />
+    <tag id="349561575" k="lanes" o="none" type="way" v="3" />
+    <tag id="349561575" k="oneway" o="none" type="way" v="yes" />
+    <tag id="349561575" k="highway" o="none" type="way" v="secondary" />
+    <tag id="349561575" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="349561575" k="turn:lanes" o="none" type="way" v="left|through|right" />
+    <tag id="349561580" k="name" o="none" type="way" v="Stuttgarter Stra&#223;e" />
+    <tag id="349561580" k="lanes" o="none" type="way" v="2" />
+    <tag id="349561580" k="oneway" o="none" type="way" v="yes" />
+    <tag id="349561580" k="highway" o="none" type="way" v="secondary" />
+    <tag id="349561580" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="349561580" k="placement" o="none" type="way" v="middle_of:2" />
+    <tag id="349561580" k="turn:lanes" o="none" type="way" v="left|through" />
+    <tag id="349568312" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="349568312" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="349568312" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="349568312" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="349568312" k="cycleway:left" o="none" type="way" v="lane" />
+    <tag id="349568312" k="cycleway:right:bicycle" o="none" type="way" v="designated" />
+    <tag id="349568320" k="turn" o="none" type="way" v="right" />
+    <tag id="349568320" k="lanes" o="none" type="way" v="1" />
+    <tag id="349568320" k="oneway" o="none" type="way" v="yes" />
+    <tag id="349568320" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="349568320" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="351963521" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="351963521" k="lanes" o="none" type="way" v="3" />
+    <tag id="351963521" k="oneway" o="add" type="way" v="yes" />
+    <tag id="351963521" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="351963521" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="351963521" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="351963521" k="turn:lanes:forward" o="add" type="way" v="left|through;right" />
+    <tag id="361074362" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="361074362" k="lanes" o="none" type="way" v="3" />
+    <tag id="361074362" k="oneway" o="add" type="way" v="yes" />
+    <tag id="361074362" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="361074362" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="361074362" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="361074362" k="cycleway:right" o="none" type="way" v="lane" />
+    <tag id="361074362" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="361074362" k="turn:lanes:backward" o="none" type="way" v="left|through" />
+    <tag id="361074364" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="361074364" k="lanes" o="none" type="way" v="3" />
+    <tag id="361074364" k="oneway" o="add" type="way" v="yes" />
+    <tag id="361074364" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="361074364" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="361074364" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="361074364" k="cycleway:left" o="none" type="way" v="lane" />
+    <tag id="361074364" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="361074364" k="turn:lanes:backward" o="none" type="way" v="left|through" />
+    <tag id="361074366" k="name" o="none" type="way" v="Esslinger Stra&#223;e" />
+    <tag id="361074366" k="oneway" o="add" type="way" v="yes" />
+    <tag id="361074366" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="361074366" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="361074366" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="361074366" k="cycleway:right" o="add" type="way" v="lane" />
+    <tag id="361074371" k="oneway" o="none" type="way" v="yes" />
+    <tag id="361074371" k="highway" o="none" type="way" v="residential" />
+    <tag id="380113228" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113228" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="380113229" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113229" k="highway" o="add" type="way" v="tertiary_link" />
+    <tag id="380113230" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113230" k="highway" o="add" type="way" v="secondary" />
+    <tag id="380113231" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113231" k="highway" o="add" type="way" v="residential" />
+    <tag id="380113233" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113233" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="380113234" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113234" k="highway" o="add" type="way" v="service" />
+    <tag id="380113234" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="380113235" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113235" k="highway" o="add" type="way" v="service" />
+    <tag id="380113235" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="380113236" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113236" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="380113237" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113237" k="highway" o="add" type="way" v="residential" />
+    <tag id="380113238" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113238" k="highway" o="add" type="way" v="residential" />
+    <tag id="380113239" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113239" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="380113240" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113240" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="380113241" k="oneway" o="add" type="way" v="yes" />
+    <tag id="380113241" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="385219" k="to" o="none" type="relation" v="Lutherkirche, Fellbach" />
+    <tag id="385219" k="bus" o="none" type="relation" v="regular" />
+    <tag id="385219" k="ref" o="none" type="relation" v="207" />
+    <tag id="385219" k="from" o="none" type="relation" v="Seestra&#223;e, Korb" />
+    <tag id="385219" k="line" o="none" type="relation" v="bus" />
+    <tag id="385219" k="name" o="none" type="relation" v="De_VVS_207_1" />
+    <tag id="385219" k="type" o="none" type="relation" v="line" />
+    <tag id="385219" k="network" o="none" type="relation" v="VVS" />
+    <tag id="385219" k="by_night" o="none" type="relation" v="no" />
+    <tag id="385219" k="operator" o="none" type="relation" v="OVR" />
+    <tag id="385219" k="alternative" o="none" type="relation" v="no" />
+    <tag id="386128" k="to" o="none" type="relation" v="Lutherkirche, Fellbach" />
+    <tag id="386128" k="bus" o="none" type="relation" v="regular" />
+    <tag id="386128" k="ref" o="none" type="relation" v="207" />
+    <tag id="386128" k="from" o="none" type="relation" v="Seestra&#223;e, Korb" />
+    <tag id="386128" k="line" o="none" type="relation" v="bus" />
+    <tag id="386128" k="name" o="none" type="relation" v="De_VVS_207_3" />
+    <tag id="386128" k="type" o="none" type="relation" v="line" />
+    <tag id="386128" k="network" o="none" type="relation" v="VVS" />
+    <tag id="386128" k="by_night" o="none" type="relation" v="no" />
+    <tag id="386128" k="operator" o="none" type="relation" v="OVR" />
+    <tag id="386128" k="alternative" o="none" type="relation" v="yes" />
+    <tag id="5207058" k="type" o="none" type="relation" v="restriction" />
+    <tag id="5207058" k="restriction" o="none" type="relation" v="no_right_turn" />
+    <tag id="5207059" k="type" o="none" type="relation" v="restriction" />
+    <tag id="5207059" k="restriction" o="none" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

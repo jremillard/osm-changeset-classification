@@ -1,0 +1,741 @@
+<changeset id="44711758" schema="2">
+  <counts nodesAdded="106" nodesDeleted="29" nodesModified="3" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="39" waysDeleted="9" waysModified="139" />
+  <meta>
+    <tag k="comment" v="Lagegenauigkeit verbessert" />
+    <tag k="created_by" v="JOSM/1.5 (11223 de)" />
+    <tag k="source" v="Digitale farbige Orthophotos 2016 (DOP20RGB)" />
+  </meta>
+  <body>
+    <tag id="253943370" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="307179226" k="addr:city" o="none" type="node" v="Sch&#246;neiche bei Berlin" />
+    <tag id="307179226" k="addr:street" o="none" type="node" v="Poststra&#223;e" />
+    <tag id="307179226" k="addr:country" o="none" type="node" v="DE" />
+    <tag id="307179226" k="addr:postcode" o="none" type="node" v="15566" />
+    <tag id="307179226" k="addr:housenumber" o="add" type="node" v="3e" />
+    <tag id="598344835" k="barrier" o="add" type="node" v="gate" />
+    <tag id="606957655" k="waterway" o="none" type="node" v="weir" />
+    <tag id="611181439" k="maxweight" o="none" type="node" v="3 t" />
+    <tag id="611181439" k="traffic_calming" o="none" type="node" v="choker" />
+    <tag id="840517246" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1318189952" k="name" o="none" type="node" v="Bhf. Friedrichshagen" />
+    <tag id="1318189952" k="phone" o="none" type="node" v="+49 (30) 6458961" />
+    <tag id="1318189952" k="amenity" o="none" type="node" v="taxi" />
+    <tag id="1318189952" k="capacity" o="none" type="node" v="3" />
+    <tag id="1318189952" k="addr:city" o="none" type="node" v="Berlin" />
+    <tag id="1318189952" k="addr:street" o="none" type="node" v="Dahlwitzer Landstra&#223;e" />
+    <tag id="1318189952" k="addr:suburb" o="none" type="node" v="Friedrichshagen" />
+    <tag id="1318189952" k="addr:country" o="none" type="node" v="DE" />
+    <tag id="1318189952" k="addr:postcode" o="none" type="node" v="12587" />
+    <tag id="1837548917" k="name" o="none" type="node" v="City Toilette" />
+    <tag id="1837548917" k="amenity" o="none" type="node" v="toilets" />
+    <tag id="1837548917" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="1837548917" k="toilets:wheelchair" o="none" type="node" v="yes" />
+    <tag id="3025007959" k="maxweight" o="none" type="node" v="3 t" />
+    <tag id="3025007959" k="traffic_calming" o="none" type="node" v="choker" />
+    <tag id="3028355109" k="maxweight" o="none" type="node" v="3 t" />
+    <tag id="3028355109" k="traffic_calming" o="none" type="node" v="choker" />
+    <tag id="3986514163" k="bus" o="none" type="node" v="yes" />
+    <tag id="3986514163" k="name" o="none" type="node" v="Sch&#246;neiche, Am Goethepark" />
+    <tag id="3986514163" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="9628124" k="name" o="none" type="way" v="B&#246;lschestra&#223;e" />
+    <tag id="9628124" k="lanes" o="none" type="way" v="3" />
+    <tag id="9628124" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9628124" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="9628124" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="9628124" k="old_name" o="none" type="way" v="Friedrichstra&#223;e" />
+    <tag id="9628124" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="9628124" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="9628124" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="9628124" k="turn:lanes:forward" o="none" type="way" v="left|through;right" />
+    <tag id="9628124" k="maxspeed:conditional" o="none" type="way" v="30 @ (22:00-06:00)" />
+    <tag id="23228635" k="name" o="none" type="way" v="Alter Fischerweg" />
+    <tag id="23228635" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="23228635" k="lanes" o="none" type="way" v="2" />
+    <tag id="23228635" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="23228635" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="23228635" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23228635" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="23406197" k="name" o="none" type="way" v="Hamburger Stra&#223;e" />
+    <tag id="23406197" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="23406197" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="23406199" k="name" o="none" type="way" v="Karl-Liebknecht-Stra&#223;e" />
+    <tag id="23406199" k="highway" o="none" type="way" v="residential" />
+    <tag id="23406199" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="23429729" k="highway" o="modify" type="way" v="path" />
+    <tag id="23429865" k="name" o="none" type="way" v="Akazienstra&#223;e" />
+    <tag id="23429865" k="highway" o="none" type="way" v="residential" />
+    <tag id="23429865" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="23429865" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23429865" k="maxweight" o="add" type="way" v="3" />
+    <tag id="23430627" k="name" o="none" type="way" v="Krummenseestra&#223;e" />
+    <tag id="23430627" k="highway" o="none" type="way" v="residential" />
+    <tag id="23431917" k="ref" o="none" type="way" v="L 302" />
+    <tag id="23431917" k="name" o="none" type="way" v="Friedrichshagener Stra&#223;e" />
+    <tag id="23431917" k="lanes" o="none" type="way" v="2" />
+    <tag id="23431917" k="highway" o="none" type="way" v="secondary" />
+    <tag id="23431917" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="23431917" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="23431917" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="23431917" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="24209409" k="name" o="none" type="way" v="Friedenstra&#223;e" />
+    <tag id="24209409" k="highway" o="none" type="way" v="residential" />
+    <tag id="24305464" k="highway" o="none" type="way" v="track" />
+    <tag id="24305464" k="tracktype" o="none" type="way" v="grade3" />
+    <tag id="24305464" k="motor_vehicle" o="add" type="way" v="forestry" />
+    <tag id="24306901" k="highway" o="none" type="way" v="track" />
+    <tag id="24306901" k="tracktype" o="none" type="way" v="grade3" />
+    <tag id="24394307" k="name" o="none" type="way" v="Triftweg" />
+    <tag id="24394307" k="highway" o="none" type="way" v="track" />
+    <tag id="24394307" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="24578707" k="highway" o="modify" type="way" v="path" />
+    <tag id="24854067" k="highway" o="modify" type="way" v="track" />
+    <tag id="24854067" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="24854067" k="motor_vehicle" o="add" type="way" v="forestry" />
+    <tag id="24854085" k="highway" o="none" type="way" v="track" />
+    <tag id="24854085" k="tracktype" o="none" type="way" v="grade3" />
+    <tag id="24854085" k="motor_vehicle" o="add" type="way" v="forestry" />
+    <tag id="25307868" k="ref" o="none" type="way" v="L 38" />
+    <tag id="25307868" k="name" o="none" type="way" v="F&#252;rstenwalder Damm" />
+    <tag id="25307868" k="lanes" o="none" type="way" v="3" />
+    <tag id="25307868" k="highway" o="none" type="way" v="secondary" />
+    <tag id="25307868" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25307868" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="25307868" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="25307868" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="25307868" k="cycleway:left" o="none" type="way" v="lane" />
+    <tag id="25307868" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="25307868" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="25307868" k="turn:lanes:forward" o="none" type="way" v="left|through;right" />
+    <tag id="25798788" k="highway" o="none" type="way" v="track" />
+    <tag id="25798788" k="tracktype" o="none" type="way" v="grade3" />
+    <tag id="25798952" k="name" o="none" type="way" v="Hinter dem Kurpark" />
+    <tag id="25798952" k="highway" o="none" type="way" v="track" />
+    <tag id="25798952" k="surface" o="modify" type="way" v="gravel" />
+    <tag id="25798952" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="25888412" k="name" o="none" type="way" v="Am Weidensee" />
+    <tag id="25888412" k="highway" o="none" type="way" v="track" />
+    <tag id="25888412" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="25912439" k="name" o="none" type="way" v="Weidensee" />
+    <tag id="25912439" k="natural" o="none" type="way" v="water" />
+    <tag id="25912439" k="wikipedia" o="none" type="way" v="de:Weidensee (Sch&#246;neiche)" />
+    <tag id="25956105" k="name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="25956105" k="lanes" o="none" type="way" v="2" />
+    <tag id="25956105" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25956105" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25956105" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25956105" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="25956105" k="hazmat:water" o="none" type="way" v="no" />
+    <tag id="27170877" k="landuse" o="modify" type="way" v="meadow" />
+    <tag id="27170882" k="landuse" o="modify" type="way" v="meadow" />
+    <tag id="27170887" k="landuse" o="modify" type="way" v="meadow" />
+    <tag id="27170903" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="31022123" k="highway" o="none" type="way" v="bridleway" />
+    <tag id="31022123" k="surface" o="add" type="way" v="sand" />
+    <tag id="31022123" k="tracktype" o="modify" type="way" v="grade5" />
+    <tag id="31022123" k="smoothness" o="add" type="way" v="horrible" />
+    <tag id="31308810" k="name" o="none" type="way" v="Geschwister-Scholl-Stra&#223;e" />
+    <tag id="31308810" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="31308810" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="31343828" k="gauge" o="none" type="way" v="1000" />
+    <tag id="31343828" k="tracks" o="none" type="way" v="1" />
+    <tag id="31343828" k="network" o="none" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="31343828" k="railway" o="none" type="way" v="tram" />
+    <tag id="31343828" k="service" o="none" type="way" v="yard" />
+    <tag id="31343828" k="voltage" o="none" type="way" v="750" />
+    <tag id="31343828" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="31343828" k="workrules" o="none" type="way" v="DE:BOStrab" />
+    <tag id="31343828" k="start_date" o="none" type="way" v="1910" />
+    <tag id="32395484" k="name" o="none" type="way" v="Geschwister-Scholl-Stra&#223;e" />
+    <tag id="32395484" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="32395484" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="32395485" k="name" o="none" type="way" v="Brandenburgische Stra&#223;e" />
+    <tag id="32395485" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="32395485" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="32395485" k="cycleway:right" o="add" type="way" v="track" />
+    <tag id="32396895" k="highway" o="none" type="way" v="track" />
+    <tag id="32396895" k="surface" o="add" type="way" v="grass" />
+    <tag id="32396895" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="32396911" k="highway" o="none" type="way" v="track" />
+    <tag id="32396911" k="surface" o="add" type="way" v="grass" />
+    <tag id="32396911" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="32396920" k="highway" o="none" type="way" v="track" />
+    <tag id="32396920" k="surface" o="add" type="way" v="grass" />
+    <tag id="32396920" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="32396926" k="highway" o="none" type="way" v="track" />
+    <tag id="32396926" k="surface" o="add" type="way" v="grass" />
+    <tag id="32396926" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="32396931" k="highway" o="none" type="way" v="track" />
+    <tag id="32396931" k="surface" o="add" type="way" v="grass" />
+    <tag id="32396931" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="32396935" k="highway" o="modify" type="way" v="service" />
+    <tag id="32396935" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="32397147" k="name" o="none" type="way" v="M&#252;hlenweg" />
+    <tag id="32397147" k="highway" o="none" type="way" v="service" />
+    <tag id="35662905" k="name" o="none" type="way" v="Geschwister-Scholl-Stra&#223;e" />
+    <tag id="35662905" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="35662905" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35662905" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="35662928" k="name" o="none" type="way" v="Raisdorfer Stra&#223;e" />
+    <tag id="35662928" k="highway" o="none" type="way" v="residential" />
+    <tag id="37831014" k="highway" o="none" type="way" v="path" />
+    <tag id="37831352" k="name" o="none" type="way" v="Am Goethepark" />
+    <tag id="37831352" k="highway" o="none" type="way" v="residential" />
+    <tag id="37831352" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="37849716" k="name" o="none" type="way" v="Hinter dem Kurpark" />
+    <tag id="37849716" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="37849716" k="surface" o="add" type="way" v="concrete" />
+    <tag id="37849716" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="38747943" k="name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="38747943" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="38747943" k="lanes" o="add" type="way" v="2" />
+    <tag id="38747943" k="bridge" o="none" type="way" v="yes" />
+    <tag id="38747943" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="38747943" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38747943" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="38747943" k="hazmat:water" o="none" type="way" v="no" />
+    <tag id="38747944" k="name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="38747944" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="38747944" k="lanes" o="add" type="way" v="2" />
+    <tag id="38747944" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="38747944" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38747944" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="38747944" k="hazmat:water" o="none" type="way" v="no" />
+    <tag id="43167434" k="name" o="none" type="way" v="Dahlwitzer Landstra&#223;e" />
+    <tag id="43167434" k="highway" o="none" type="way" v="secondary" />
+    <tag id="43167434" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="43167434" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="43167434" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="43167434" k="maxheight" o="none" type="way" v="3.8" />
+    <tag id="43167434" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="43167434" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="43167434" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="43167434" k="turn:lanes:forward" o="none" type="way" v="left;through|right" />
+    <tag id="43167456" k="name" o="none" type="way" v="Alter Fischerweg" />
+    <tag id="43167456" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="43167456" k="lanes" o="none" type="way" v="2" />
+    <tag id="43167456" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="43167456" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="43167456" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="43167456" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="43167456" k="cycleway:left" o="none" type="way" v="track" />
+    <tag id="43167461" k="highway" o="modify" type="way" v="track" />
+    <tag id="43167461" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="43167461" k="motor_vehicle" o="add" type="way" v="forestry" />
+    <tag id="43169787" k="name" o="none" type="way" v="Hinter dem Kurpark" />
+    <tag id="43169787" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="43169787" k="surface" o="add" type="way" v="concrete" />
+    <tag id="43169787" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="46854041" k="name" o="none" type="way" v="Forstamt Friedrichshagen" />
+    <tag id="46854041" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="46854258" k="landuse" o="none" type="way" v="residential" />
+    <tag id="47698520" k="name" o="none" type="way" v="J&#228;gergraben" />
+    <tag id="47698520" k="layer" o="none" type="way" v="-1" />
+    <tag id="47698520" k="waterway" o="none" type="way" v="stream" />
+    <tag id="47703339" k="name" o="none" type="way" v="Hufeisengraben" />
+    <tag id="47703339" k="layer" o="none" type="way" v="-1" />
+    <tag id="47703339" k="waterway" o="none" type="way" v="drain" />
+    <tag id="47703345" k="url" o="none" type="way" v="http://www.srs-tram.de" />
+    <tag id="47703345" k="name" o="none" type="way" v="Betriebshof der Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn" />
+    <tag id="47703345" k="landuse" o="none" type="way" v="railway" />
+    <tag id="47703345" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn" />
+    <tag id="47703345" k="addr:city" o="none" type="way" v="Sch&#246;neiche bei Berlin" />
+    <tag id="47703345" k="addr:street" o="none" type="way" v="Dorfstra&#223;e" />
+    <tag id="47703345" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="47703345" k="addr:postcode" o="none" type="way" v="15566" />
+    <tag id="47703345" k="addr:housenumber" o="none" type="way" v="15" />
+    <tag id="47703345" k="depot:vehicle:tram" o="none" type="way" v="yes" />
+    <tag id="47703346" k="building" o="none" type="way" v="yes" />
+    <tag id="47703348" k="building" o="none" type="way" v="yes" />
+    <tag id="47703349" k="gauge" o="none" type="way" v="1000" />
+    <tag id="47703349" k="tracks" o="none" type="way" v="1" />
+    <tag id="47703349" k="network" o="none" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="47703349" k="railway" o="none" type="way" v="tram" />
+    <tag id="47703349" k="service" o="none" type="way" v="siding" />
+    <tag id="47703349" k="voltage" o="none" type="way" v="750" />
+    <tag id="47703349" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="47703349" k="workrules" o="none" type="way" v="DE:BOStrab" />
+    <tag id="47703349" k="start_date" o="none" type="way" v="1910" />
+    <tag id="47719865" k="natural" o="none" type="way" v="wood" />
+    <tag id="47719870" k="name" o="none" type="way" v="Giebelpfuhle" />
+    <tag id="47719870" k="natural" o="modify" type="way" v="wetland" />
+    <tag id="47719870" k="wikipedia" o="none" type="way" v="de:Liste_der_Gew&#228;sser_in_Sch&#246;neiche_bei_Berlin" />
+    <tag id="47719875" k="name" o="none" type="way" v="Giebelpfuhle" />
+    <tag id="47719875" k="natural" o="none" type="way" v="water" />
+    <tag id="47719875" k="wikipedia" o="none" type="way" v="de:Liste_der_Gew&#228;sser_in_Sch&#246;neiche_bei_Berlin" />
+    <tag id="47854092" k="ref" o="none" type="way" v="L 338" />
+    <tag id="47854092" k="name" o="none" type="way" v="Rahnsdorfer Stra&#223;e" />
+    <tag id="47854092" k="lanes" o="none" type="way" v="2" />
+    <tag id="47854092" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="47854092" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="47854101" k="ref" o="none" type="way" v="L 302" />
+    <tag id="47854101" k="name" o="none" type="way" v="Dorfstra&#223;e" />
+    <tag id="47854101" k="lanes" o="none" type="way" v="2" />
+    <tag id="47854101" k="highway" o="none" type="way" v="secondary" />
+    <tag id="47854101" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="47854101" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="47854101" k="maxspeed:hgv" o="none" type="way" v="30" />
+    <tag id="47854101" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="47854122" k="landuse" o="none" type="way" v="residential" />
+    <tag id="47854123" k="gauge" o="none" type="way" v="1000" />
+    <tag id="47854123" k="tracks" o="none" type="way" v="1" />
+    <tag id="47854123" k="network" o="none" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="47854123" k="railway" o="none" type="way" v="tram" />
+    <tag id="47854123" k="service" o="none" type="way" v="yard" />
+    <tag id="47854123" k="voltage" o="none" type="way" v="750" />
+    <tag id="47854123" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="47854123" k="workrules" o="none" type="way" v="DE:BOStrab" />
+    <tag id="47854123" k="start_date" o="none" type="way" v="1910" />
+    <tag id="47942704" k="name" o="none" type="way" v="Streuobstwiese" />
+    <tag id="47942704" k="leisure" o="modify" type="way" v="garden" />
+    <tag id="47942706" k="name" o="none" type="way" v="Kleingartenanlage Am M&#252;hlenflie&#223; Sch&#246;neiche e.V." />
+    <tag id="47942706" k="landuse" o="none" type="way" v="allotments" />
+    <tag id="48080437" k="ref" o="none" type="way" v="L 338" />
+    <tag id="48080437" k="name" o="none" type="way" v="Rahnsdorfer Stra&#223;e" />
+    <tag id="48080437" k="lanes" o="none" type="way" v="2" />
+    <tag id="48080437" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="48080437" k="surface" o="add" type="way" v="cobblestone" />
+    <tag id="48080437" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="48080437" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="48080464" k="name" o="none" type="way" v="Lindenstra&#223;e" />
+    <tag id="48080464" k="layer" o="add" type="way" v="1" />
+    <tag id="48080464" k="highway" o="none" type="way" v="residential" />
+    <tag id="48080464" k="maxweight" o="add" type="way" v="3" />
+    <tag id="48080542" k="access" o="add" type="way" v="private" />
+    <tag id="48080542" k="highway" o="none" type="way" v="service" />
+    <tag id="48080542" k="service" o="none" type="way" v="driveway" />
+    <tag id="48080604" k="asb" o="add" type="way" v="649" />
+    <tag id="48080604" k="note" o="add" type="way" v="moved 160m into correct building according to address and local knowledge" />
+    <tag id="48080604" k="onkz" o="add" type="way" v="30" />
+    <tag id="48080604" k="source" o="add" type="way" v="Deutsche Telekom AG" />
+    <tag id="48080604" k="note:de" o="add" type="way" v="http://wiki.openstreetmap.org/index.php/DE:DSL_Hauptverteiler" />
+    <tag id="48080604" k="building" o="none" type="way" v="yes" />
+    <tag id="48080604" k="man_made" o="modify" type="way" v="MDF" />
+    <tag id="48080604" k="operator" o="none" type="way" v="Deutsche Telekom AG" />
+    <tag id="48080604" k="addr:city" o="none" type="way" v="Sch&#246;neiche bei Berlin" />
+    <tag id="48080604" k="addr:street" o="modify" type="way" v="Poststra&#223;e" />
+    <tag id="48080604" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="48080604" k="addr:postcode" o="none" type="way" v="15566" />
+    <tag id="48080604" k="addr:housenumber" o="none" type="way" v="3e" />
+    <tag id="48080604" k="telecommunication" o="none" type="way" v="switch" />
+    <tag id="67746868" k="highway" o="none" type="way" v="track" />
+    <tag id="67746868" k="surface" o="none" type="way" v="sand" />
+    <tag id="67746868" k="tracktype" o="modify" type="way" v="grade3" />
+    <tag id="70452028" k="hgv" o="none" type="way" v="no" />
+    <tag id="70452028" k="foot" o="none" type="way" v="yes" />
+    <tag id="70452028" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="70452028" k="highway" o="none" type="way" v="track" />
+    <tag id="70452028" k="motorcar" o="none" type="way" v="no" />
+    <tag id="70452028" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="70452028" k="motorcycle" o="none" type="way" v="no" />
+    <tag id="83102280" k="name" o="none" type="way" v="Ingeborg-Hunziger-Stra&#223;e" />
+    <tag id="83102280" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="83102280" k="lanes" o="none" type="way" v="2" />
+    <tag id="83102280" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="83102280" k="note:de" o="none" type="way" v="Stra&#223;e am 2015-07-19 umbenannt" />
+    <tag id="83102280" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="83102280" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="83102280" k="old_name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="83102280" k="description" o="none" type="way" v="Ingeborg Hunziger, Bildhauerin aus Rahnsdorf, 1915-02-03 - 2009-07-19" />
+    <tag id="83102280" k="postal_code" o="none" type="way" v="12589" />
+    <tag id="111315983" k="highway" o="modify" type="way" v="path" />
+    <tag id="111315983" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="111367519" k="name" o="none" type="way" v="Mozartstra&#223;e" />
+    <tag id="111367519" k="highway" o="none" type="way" v="residential" />
+    <tag id="111367519" k="postal_code" o="none" type="way" v="15566" />
+    <tag id="122056939" k="width" o="none" type="way" v="1" />
+    <tag id="122056939" k="access" o="add" type="way" v="permissive" />
+    <tag id="122056939" k="highway" o="none" type="way" v="footway" />
+    <tag id="122056939" k="surface" o="none" type="way" v="paved" />
+    <tag id="140656356" k="name" o="none" type="way" v="Ingeborg-Hunziger-Stra&#223;e" />
+    <tag id="140656356" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="140656356" k="lanes" o="none" type="way" v="2" />
+    <tag id="140656356" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="140656356" k="note:de" o="none" type="way" v="Stra&#223;e am 2015-07-19 umbenannt" />
+    <tag id="140656356" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="140656356" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="140656356" k="old_name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="140656356" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="140656356" k="maxheight" o="none" type="way" v="3.7" />
+    <tag id="140656356" k="description" o="none" type="way" v="Ingeborg Hunziger, Bildhauerin aus Rahnsdorf, 1915-02-03 - 2009-07-19" />
+    <tag id="140656356" k="postal_code" o="none" type="way" v="12589" />
+    <tag id="142028508" k="landuse" o="modify" type="way" v="farmyard" />
+    <tag id="142214899" k="access" o="add" type="way" v="private" />
+    <tag id="142214899" k="highway" o="none" type="way" v="service" />
+    <tag id="142214899" k="service" o="none" type="way" v="driveway" />
+    <tag id="142214904" k="access" o="add" type="way" v="private" />
+    <tag id="142214904" k="highway" o="none" type="way" v="service" />
+    <tag id="142214904" k="service" o="none" type="way" v="driveway" />
+    <tag id="142291451" k="foot" o="add" type="way" v="permissive" />
+    <tag id="142291451" k="bicycle" o="add" type="way" v="no" />
+    <tag id="142291451" k="highway" o="modify" type="way" v="footway" />
+    <tag id="142291451" k="service" o="none" type="way" v="driveway" />
+    <tag id="142291451" k="motor_vehicle" o="add" type="way" v="private" />
+    <tag id="142808719" k="name" o="none" type="way" v="Berliner Stra&#223;e" />
+    <tag id="142808719" k="highway" o="none" type="way" v="footway" />
+    <tag id="142808720" k="name" o="none" type="way" v="Berliner Stra&#223;e" />
+    <tag id="142808720" k="highway" o="none" type="way" v="footway" />
+    <tag id="142808722" k="name" o="none" type="way" v="Berliner Stra&#223;e" />
+    <tag id="142808722" k="highway" o="none" type="way" v="footway" />
+    <tag id="143104320" k="name" o="none" type="way" v="R&#252;dersdorfer Stra&#223;e" />
+    <tag id="143104320" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="143104320" k="surface" o="add" type="way" v="concrete" />
+    <tag id="143104334" k="amenity" o="add" type="way" v="parking" />
+    <tag id="150937132" k="ref" o="none" type="way" v="L 302" />
+    <tag id="150937132" k="name" o="none" type="way" v="Sch&#246;neicher Stra&#223;e" />
+    <tag id="150937132" k="lanes" o="none" type="way" v="2" />
+    <tag id="150937132" k="highway" o="none" type="way" v="secondary" />
+    <tag id="150937132" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="150937132" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="150937132" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="150937132" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="150937132" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="150937145" k="highway" o="modify" type="way" v="path" />
+    <tag id="152258332" k="name" o="none" type="way" v="Kalkbergeweg" />
+    <tag id="152258332" k="lanes" o="none" type="way" v="1" />
+    <tag id="152258332" k="highway" o="none" type="way" v="residential" />
+    <tag id="152258332" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="152258332" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="152258332" k="postal_code" o="none" type="way" v="12589" />
+    <tag id="153879693" k="name" o="none" type="way" v="Am Flie&#223;" />
+    <tag id="153879693" k="horse" o="none" type="way" v="yes" />
+    <tag id="153879693" k="access" o="add" type="way" v="private" />
+    <tag id="153879693" k="highway" o="none" type="way" v="service" />
+    <tag id="153879693" k="service" o="none" type="way" v="driveway" />
+    <tag id="153879693" k="surface" o="none" type="way" v="sand" />
+    <tag id="164347901" k="landuse" o="modify" type="way" v="meadow" />
+    <tag id="171091369" k="gauge" o="none" type="way" v="1000" />
+    <tag id="171091369" k="tracks" o="none" type="way" v="1" />
+    <tag id="171091369" k="network" o="none" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="171091369" k="railway" o="none" type="way" v="tram" />
+    <tag id="171091369" k="voltage" o="none" type="way" v="750" />
+    <tag id="171091369" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="171091369" k="workrules" o="none" type="way" v="DE:BOStrab" />
+    <tag id="171091369" k="start_date" o="none" type="way" v="1910" />
+    <tag id="171091369" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="171091370" k="highway" o="modify" type="way" v="path" />
+    <tag id="206798692" k="layer" o="none" type="way" v="-2" />
+    <tag id="206798692" k="level" o="none" type="way" v="0" />
+    <tag id="206798692" k="indoor" o="none" type="way" v="yes" />
+    <tag id="206798692" k="tunnel" o="none" type="way" v="building_passage" />
+    <tag id="206798692" k="highway" o="none" type="way" v="footway" />
+    <tag id="255680330" k="highway" o="none" type="way" v="track" />
+    <tag id="255680330" k="surface" o="none" type="way" v="ground" />
+    <tag id="255680330" k="tracktype" o="modify" type="way" v="grade5" />
+    <tag id="256991461" k="ref" o="none" type="way" v="L 302" />
+    <tag id="256991461" k="name" o="none" type="way" v="Sch&#246;neicher Landstra&#223;e" />
+    <tag id="256991461" k="lanes" o="none" type="way" v="2" />
+    <tag id="256991461" k="highway" o="none" type="way" v="secondary" />
+    <tag id="256991461" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="256991461" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="256991461" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="256991461" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="256991461" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="279321975" k="foot" o="none" type="way" v="yes" />
+    <tag id="279321975" k="horse" o="none" type="way" v="no" />
+    <tag id="279321975" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="279321975" k="highway" o="none" type="way" v="path" />
+    <tag id="283006421" k="ref" o="none" type="way" v="L 302" />
+    <tag id="283006421" k="name" o="none" type="way" v="Sch&#246;neicher Stra&#223;e" />
+    <tag id="283006421" k="lanes" o="none" type="way" v="2" />
+    <tag id="283006421" k="highway" o="none" type="way" v="secondary" />
+    <tag id="283006421" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="283006421" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="283006421" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="283006421" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="283006421" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="298357088" k="gauge" o="none" type="way" v="1000" />
+    <tag id="298357088" k="tracks" o="none" type="way" v="1" />
+    <tag id="298357088" k="network" o="none" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="298357088" k="railway" o="none" type="way" v="tram" />
+    <tag id="298357088" k="voltage" o="none" type="way" v="750" />
+    <tag id="298357088" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="298357088" k="workrules" o="none" type="way" v="DE:BOStrab" />
+    <tag id="298357088" k="start_date" o="none" type="way" v="1910" />
+    <tag id="298357088" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="298357095" k="hgv" o="none" type="way" v="no" />
+    <tag id="298357095" k="name" o="none" type="way" v="M&#252;nchehofer Stra&#223;e" />
+    <tag id="298357095" k="lanes" o="none" type="way" v="1" />
+    <tag id="298357095" k="width" o="none" type="way" v="3" />
+    <tag id="298357095" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="298357095" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="298357095" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="298357095" k="vehicle" o="none" type="way" v="no" />
+    <tag id="298357095" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="298357095" k="motorcar" o="none" type="way" v="no" />
+    <tag id="298357095" k="motorcycle" o="none" type="way" v="no" />
+    <tag id="298357095" k="smoothness" o="none" type="way" v="good" />
+    <tag id="298357095" k="bicycle_road" o="none" type="way" v="yes" />
+    <tag id="298357095" k="traffic_sign" o="none" type="way" v="DE:244.1" />
+    <tag id="298682643" k="natural" o="none" type="way" v="wood" />
+    <tag id="298682656" k="landuse" o="none" type="way" v="residential" />
+    <tag id="298682658" k="landuse" o="none" type="way" v="residential" />
+    <tag id="300117572" k="access" o="add" type="way" v="private" />
+    <tag id="300117572" k="highway" o="none" type="way" v="service" />
+    <tag id="300117572" k="service" o="none" type="way" v="driveway" />
+    <tag id="301101118" k="access" o="add" type="way" v="private" />
+    <tag id="301101118" k="highway" o="none" type="way" v="service" />
+    <tag id="301101118" k="service" o="none" type="way" v="driveway" />
+    <tag id="301134699" k="highway" o="modify" type="way" v="path" />
+    <tag id="301134699" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="303367239" k="amenity" o="add" type="way" v="grave_yard" />
+    <tag id="304398008" k="name" o="none" type="way" v="Waldstra&#223;e" />
+    <tag id="304398008" k="highway" o="none" type="way" v="residential" />
+    <tag id="304398008" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="304398008" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="304398008" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="304398009" k="foot" o="none" type="way" v="designated" />
+    <tag id="304398009" k="width" o="none" type="way" v="2" />
+    <tag id="304398009" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="304398009" k="highway" o="none" type="way" v="path" />
+    <tag id="304398009" k="surface" o="modify" type="way" v="paving_stones" />
+    <tag id="306179921" k="highway" o="modify" type="way" v="path" />
+    <tag id="306180500" k="highway" o="none" type="way" v="track" />
+    <tag id="306180500" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="306180500" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="306180501" k="highway" o="none" type="way" v="track" />
+    <tag id="306180501" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="306180501" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="306180502" k="highway" o="none" type="way" v="track" />
+    <tag id="306180502" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="306180502" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="321554026" k="highway" o="none" type="way" v="service" />
+    <tag id="321554026" k="service" o="modify" type="way" v="parking_aisle" />
+    <tag id="326291820" k="access" o="add" type="way" v="private" />
+    <tag id="326291820" k="highway" o="none" type="way" v="service" />
+    <tag id="326291821" k="access" o="add" type="way" v="private" />
+    <tag id="326291821" k="highway" o="none" type="way" v="service" />
+    <tag id="328399247" k="highway" o="modify" type="way" v="track" />
+    <tag id="328399247" k="tracktype" o="modify" type="way" v="grade3" />
+    <tag id="328399247" k="motor_vehicle" o="add" type="way" v="forestry" />
+    <tag id="328400400" k="name" o="none" type="way" v="Hinter dem Kurpark" />
+    <tag id="328400400" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="328400400" k="surface" o="add" type="way" v="concrete" />
+    <tag id="328400400" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="346389054" k="name" o="none" type="way" v="Platanenstra&#223;e" />
+    <tag id="346389054" k="highway" o="none" type="way" v="residential" />
+    <tag id="353892427" k="gauge" o="none" type="way" v="1000" />
+    <tag id="353892427" k="tracks" o="none" type="way" v="1" />
+    <tag id="353892427" k="network" o="none" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="353892427" k="railway" o="none" type="way" v="tram" />
+    <tag id="353892427" k="service" o="add" type="way" v="yard" />
+    <tag id="353892427" k="voltage" o="none" type="way" v="750" />
+    <tag id="353892427" k="operator" o="none" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="353892427" k="workrules" o="none" type="way" v="DE:BOStrab" />
+    <tag id="353892427" k="start_date" o="none" type="way" v="1910" />
+    <tag id="353892427" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="358701394" k="access" o="add" type="way" v="private" />
+    <tag id="358701394" k="highway" o="none" type="way" v="service" />
+    <tag id="395851868" k="bin" o="none" type="way" v="yes" />
+    <tag id="395851868" k="name" o="none" type="way" v="Sch&#246;neiche, Rahnsdorfer Stra&#223;e" />
+    <tag id="395851868" k="tram" o="none" type="way" v="yes" />
+    <tag id="395851868" k="bench" o="none" type="way" v="yes" />
+    <tag id="395851868" k="highway" o="add" type="way" v="footway" />
+    <tag id="395851868" k="shelter" o="none" type="way" v="yes" />
+    <tag id="395851868" k="tactile_paving" o="none" type="way" v="no" />
+    <tag id="395851868" k="public_transport" o="none" type="way" v="platform" />
+    <tag id="395851868" k="passenger_information_display" o="none" type="way" v="no" />
+    <tag id="395851869" k="bin" o="none" type="way" v="yes" />
+    <tag id="395851869" k="name" o="none" type="way" v="Sch&#246;neiche, Rahnsdorfer Stra&#223;e" />
+    <tag id="395851869" k="tram" o="none" type="way" v="yes" />
+    <tag id="395851869" k="bench" o="none" type="way" v="yes" />
+    <tag id="395851869" k="highway" o="add" type="way" v="footway" />
+    <tag id="395851869" k="shelter" o="none" type="way" v="yes" />
+    <tag id="395851869" k="tactile_paving" o="none" type="way" v="no" />
+    <tag id="395851869" k="public_transport" o="none" type="way" v="platform" />
+    <tag id="395851869" k="passenger_information_display" o="none" type="way" v="no" />
+    <tag id="398767407" k="name" o="none" type="way" v="Ingeborg-Hunziger-Stra&#223;e" />
+    <tag id="398767407" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="398767407" k="lanes" o="none" type="way" v="2" />
+    <tag id="398767407" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="398767407" k="note:de" o="none" type="way" v="Stra&#223;e am 2015-07-19 umbenannt" />
+    <tag id="398767407" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="398767407" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="398767407" k="old_name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="398767407" k="description" o="none" type="way" v="Ingeborg Hunziger, Bildhauerin aus Rahnsdorf, 1915-02-03 - 2009-07-19" />
+    <tag id="398767407" k="postal_code" o="none" type="way" v="12589" />
+    <tag id="398767414" k="name" o="none" type="way" v="Ingeborg-Hunziger-Stra&#223;e" />
+    <tag id="398767414" k="note" o="none" type="way" v="Erg&#228;nzungsstra&#223;e mit besonderer Bedeutung" />
+    <tag id="398767414" k="lanes" o="none" type="way" v="2" />
+    <tag id="398767414" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="398767414" k="note:de" o="none" type="way" v="Stra&#223;e am 2015-07-19 umbenannt" />
+    <tag id="398767414" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="398767414" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="398767414" k="old_name" o="none" type="way" v="Stra&#223;e nach Fichtenau" />
+    <tag id="398767414" k="description" o="none" type="way" v="Ingeborg Hunziger, Bildhauerin aus Rahnsdorf, 1915-02-03 - 2009-07-19" />
+    <tag id="398767414" k="postal_code" o="none" type="way" v="12589" />
+    <tag id="409152593" k="highway" o="none" type="way" v="track" />
+    <tag id="409152593" k="surface" o="add" type="way" v="grass" />
+    <tag id="409152593" k="tracktype" o="add" type="way" v="grade4" />
+    <tag id="456662368" k="highway" o="none" type="way" v="track" />
+    <tag id="456662368" k="tracktype" o="none" type="way" v="grade3" />
+    <tag id="456662368" k="motor_vehicle" o="add" type="way" v="forestry" />
+    <tag id="456662392" k="ref" o="none" type="way" v="L 302" />
+    <tag id="456662392" k="name" o="none" type="way" v="Sch&#246;neicher Stra&#223;e" />
+    <tag id="456662392" k="lanes" o="none" type="way" v="2" />
+    <tag id="456662392" k="highway" o="none" type="way" v="secondary" />
+    <tag id="456662392" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="456662392" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="456662392" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="456662392" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="456662392" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="456662393" k="ref" o="none" type="way" v="L 302" />
+    <tag id="456662393" k="name" o="none" type="way" v="Sch&#246;neicher Stra&#223;e" />
+    <tag id="456662393" k="lanes" o="none" type="way" v="2" />
+    <tag id="456662393" k="highway" o="none" type="way" v="secondary" />
+    <tag id="456662393" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="456662393" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="456662393" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="456662393" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="456662393" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="461015804" k="highway" o="none" type="way" v="footway" />
+    <tag id="462167372" k="access" o="add" type="way" v="agricultural" />
+    <tag id="462167372" k="highway" o="add" type="way" v="track" />
+    <tag id="462167372" k="tracktype" o="add" type="way" v="grade4" />
+    <tag id="462167373" k="landuse" o="add" type="way" v="forest" />
+    <tag id="462167374" k="highway" o="add" type="way" v="track" />
+    <tag id="462167375" k="highway" o="add" type="way" v="bridleway" />
+    <tag id="462167375" k="surface" o="add" type="way" v="sand" />
+    <tag id="462167375" k="tracktype" o="add" type="way" v="grade5" />
+    <tag id="462167375" k="smoothness" o="add" type="way" v="horrible" />
+    <tag id="462167376" k="name" o="add" type="way" v="Revierf&#246;rsterei Rahnsdorf" />
+    <tag id="462167376" k="landuse" o="add" type="way" v="residential" />
+    <tag id="462167377" k="name" o="add" type="way" v="Am Flie&#223;" />
+    <tag id="462167377" k="horse" o="add" type="way" v="yes" />
+    <tag id="462167377" k="layer" o="add" type="way" v="1" />
+    <tag id="462167377" k="bridge" o="add" type="way" v="yes" />
+    <tag id="462167377" k="highway" o="add" type="way" v="service" />
+    <tag id="462167377" k="service" o="add" type="way" v="driveway" />
+    <tag id="462167378" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167378" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167378" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167379" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167379" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167379" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167379" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167380" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167380" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167380" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167382" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167382" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167382" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167382" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167383" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167383" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167383" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167384" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167384" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167384" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167384" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167385" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167385" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167385" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167386" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167386" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167386" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167386" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167387" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167387" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167387" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167388" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167388" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167388" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167388" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167389" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167389" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167389" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167389" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167390" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167390" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167390" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167391" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167391" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167391" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167392" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167392" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167392" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167392" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167393" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167393" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167393" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167394" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167394" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167394" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167394" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167395" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167395" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167395" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167396" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167396" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167396" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167396" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167397" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167397" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167397" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167398" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167398" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167398" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167398" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167399" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167399" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167399" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167400" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167400" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167400" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167400" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167401" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167401" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167401" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167402" k="name" o="add" type="way" v="J&#228;gergraben" />
+    <tag id="462167402" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167402" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167402" k="waterway" o="add" type="way" v="stream" />
+    <tag id="462167403" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167403" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167403" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167404" k="name" o="add" type="way" v="Hufeisengraben" />
+    <tag id="462167404" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167404" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="462167404" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462167405" k="building" o="add" type="way" v="yes" />
+    <tag id="462167406" k="building" o="add" type="way" v="yes" />
+    <tag id="462167407" k="highway" o="add" type="way" v="footway" />
+    <tag id="462167408" k="highway" o="add" type="way" v="footway" />
+    <tag id="462167409" k="gauge" o="add" type="way" v="1000" />
+    <tag id="462167409" k="layer" o="add" type="way" v="-1" />
+    <tag id="462167409" k="tracks" o="add" type="way" v="1" />
+    <tag id="462167409" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="462167409" k="network" o="add" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="462167409" k="railway" o="add" type="way" v="tram" />
+    <tag id="462167409" k="service" o="add" type="way" v="siding" />
+    <tag id="462167409" k="voltage" o="add" type="way" v="750" />
+    <tag id="462167409" k="operator" o="add" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="462167409" k="workrules" o="add" type="way" v="DE:BOStrab" />
+    <tag id="462167409" k="start_date" o="add" type="way" v="1910" />
+    <tag id="462167410" k="gauge" o="add" type="way" v="1000" />
+    <tag id="462167410" k="tracks" o="add" type="way" v="1" />
+    <tag id="462167410" k="network" o="add" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="462167410" k="railway" o="add" type="way" v="tram" />
+    <tag id="462167410" k="service" o="add" type="way" v="yard" />
+    <tag id="462167410" k="voltage" o="add" type="way" v="750" />
+    <tag id="462167410" k="operator" o="add" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="462167410" k="workrules" o="add" type="way" v="DE:BOStrab" />
+    <tag id="462167410" k="start_date" o="add" type="way" v="1910" />
+    <tag id="462167411" k="gauge" o="add" type="way" v="1000" />
+    <tag id="462167411" k="tracks" o="add" type="way" v="1" />
+    <tag id="462167411" k="network" o="add" type="way" v="Verkehrsverbund Berlin-Brandenburg" />
+    <tag id="462167411" k="railway" o="add" type="way" v="tram" />
+    <tag id="462167411" k="service" o="add" type="way" v="yard" />
+    <tag id="462167411" k="voltage" o="add" type="way" v="750" />
+    <tag id="462167411" k="operator" o="add" type="way" v="Sch&#246;neicher-R&#252;dersdorfer Stra&#223;enbahn GmbH" />
+    <tag id="462167411" k="workrules" o="add" type="way" v="DE:BOStrab" />
+    <tag id="462167411" k="start_date" o="add" type="way" v="1910" />
+    <tag id="3001299" k="name" o="none" type="relation" v="M&#252;ggel-Spree-Weg" />
+    <tag id="3001299" k="note" o="none" type="relation" v="Gesamtl&#228;nge soll 140 km betragen" />
+    <tag id="3001299" k="type" o="none" type="relation" v="route" />
+    <tag id="3001299" k="route" o="none" type="relation" v="hiking" />
+    <tag id="3001299" k="symbol" o="none" type="relation" v="Roter Balken auf wei&#223;en Grund" />
+    <tag id="3001299" k="network" o="none" type="relation" v="lwn" />
+    <tag id="3001299" k="operator" o="none" type="relation" v="Regionalparks Brandenburg" />
+    <tag id="3001299" k="osmc:symbol" o="none" type="relation" v="red:white:red_bar" />
+  </body>
+</changeset>

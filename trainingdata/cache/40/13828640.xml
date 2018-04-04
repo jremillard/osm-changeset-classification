@@ -1,0 +1,460 @@
+<changeset id="13828640" schema="2">
+  <counts nodesAdded="101" nodesDeleted="9" nodesModified="3" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="20" waysDeleted="3" waysModified="20" />
+  <meta>
+    <tag k="build" v="2.3-515-gd4558d1" />
+    <tag k="comment" v="Updating accuracy of road system in the Tattershall /Coningsby area, as the present roads are rendering as Dual Carriageways which is VERY inaccurate." />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="244452653" k="name" o="modify" type="node" v="Tattershall Market Place" />
+    <tag id="244452653" k="is_in" o="none" type="node" v="Lincolnshire, England, UK" />
+    <tag id="244452653" k="place" o="none" type="node" v="village" />
+    <tag id="244452653" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="344654239" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="344654240" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="344654241" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="478689907" k="name" o="none" type="node" v="The Fortescue Arms" />
+    <tag id="478689907" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="478689907" k="amenity" o="none" type="node" v="pub" />
+    <tag id="502329538" k="name" o="none" type="node" v="The Old Coachhouse" />
+    <tag id="502329538" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="502329538" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="502329538" k="naptan:Street" o="none" type="node" v="High Street" />
+    <tag id="502329538" k="naptan:Bearing" o="none" type="node" v="NE" />
+    <tag id="502329538" k="naptan:AtcoCode" o="none" type="node" v="270002700338" />
+    <tag id="502329538" k="naptan:Landmark" o="none" type="node" v="The Old Coachhouse" />
+    <tag id="502329538" k="naptan:verified" o="none" type="node" v="no" />
+    <tag id="502329538" k="naptan:Indicator" o="none" type="node" v="o/s" />
+    <tag id="502329538" k="naptan:CommonName" o="none" type="node" v="The Old Coachhouse" />
+    <tag id="502340979" k="name" o="none" type="node" v="Bus Shelter" />
+    <tag id="502340979" k="source" o="none" type="node" v="OS_OpenData _StreetView" />
+    <tag id="502340979" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="502340979" k="naptan:Street" o="none" type="node" v="Market Place" />
+    <tag id="502340979" k="naptan:Bearing" o="none" type="node" v="NE" />
+    <tag id="502340979" k="naptan:AtcoCode" o="none" type="node" v="2700LTMP2814" />
+    <tag id="502340979" k="naptan:Landmark" o="none" type="node" v="Bus Shelter" />
+    <tag id="502340979" k="naptan:verified" o="none" type="node" v="no" />
+    <tag id="502340979" k="naptan:Indicator" o="none" type="node" v="adj" />
+    <tag id="502340979" k="naptan:CommonName" o="none" type="node" v="Bus Shelter" />
+    <tag id="502340979" k="naptan:NaptanCode" o="none" type="node" v="linatptw" />
+    <tag id="741741573" k="fee" o="modify" type="node" v="free" />
+    <tag id="741741573" k="amenity" o="none" type="node" v="parking" />
+    <tag id="741741573" k="parking" o="none" type="node" v="surface" />
+    <tag id="741741573" k="capacity" o="add" type="node" v="13" />
+    <tag id="741741960" k="name" o="modify" type="node" v="Car Park" />
+    <tag id="741741960" k="amenity" o="none" type="node" v="parking" />
+    <tag id="741741960" k="parking" o="none" type="node" v="surface" />
+    <tag id="741741960" k="capacity" o="add" type="node" v="80" />
+    <tag id="910380002" k="tourism" o="none" type="node" v="information" />
+    <tag id="910380002" k="map_size" o="none" type="node" v="city" />
+    <tag id="910380002" k="information" o="none" type="node" v="map" />
+    <tag id="30998403" k="foot" o="none" type="way" v="yes" />
+    <tag id="30998403" k="name" o="none" type="way" v="Marsh Lane" />
+    <tag id="30998403" k="access" o="none" type="way" v="yes" />
+    <tag id="30998403" k="oneway" o="none" type="way" v="no" />
+    <tag id="30998403" k="source" o="none" type="way" v="Bing" />
+    <tag id="30998403" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="30998403" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="30998403" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="30998403" k="cycleway" o="add" type="way" v="no" />
+    <tag id="30998403" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="30998403" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="30998403" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763113" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763113" k="name" o="add" type="way" v="Tomlinson Close" />
+    <tag id="59763113" k="access" o="add" type="way" v="yes" />
+    <tag id="59763113" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763113" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763113" k="highway" o="add" type="way" v="residential" />
+    <tag id="59763113" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763113" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763113" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="59763113" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="59763113" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763114" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763114" k="name" o="add" type="way" v="Castleview" />
+    <tag id="59763114" k="access" o="add" type="way" v="yes" />
+    <tag id="59763114" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763114" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763114" k="highway" o="none" type="way" v="residential" />
+    <tag id="59763114" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763114" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763114" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="59763114" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="59763114" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763124" k="name" o="none" type="way" v="Fortescue close" />
+    <tag id="59763124" k="highway" o="none" type="way" v="residential" />
+    <tag id="59763128" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763128" k="access" o="add" type="way" v="yes" />
+    <tag id="59763128" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763128" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763128" k="highway" o="none" type="way" v="service" />
+    <tag id="59763128" k="service" o="add" type="way" v="driveway" />
+    <tag id="59763128" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763128" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763128" k="maxspeed" o="add" type="way" v="20" />
+    <tag id="59763128" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="59763128" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763132" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763132" k="name" o="add" type="way" v="Castleview" />
+    <tag id="59763132" k="access" o="add" type="way" v="yes" />
+    <tag id="59763132" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763132" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763132" k="highway" o="none" type="way" v="residential" />
+    <tag id="59763132" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763132" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763132" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="59763132" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="59763132" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763137" k="lit" o="none" type="way" v="yes" />
+    <tag id="59763137" k="name" o="add" type="way" v="Market Place" />
+    <tag id="59763137" k="lanes" o="modify" type="way" v="1" />
+    <tag id="59763137" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763137" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="59763137" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="59763155" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763155" k="name" o="none" type="way" v="Harness Drive" />
+    <tag id="59763155" k="access" o="add" type="way" v="yes" />
+    <tag id="59763155" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763155" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763155" k="highway" o="none" type="way" v="residential" />
+    <tag id="59763155" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763155" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763155" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="59763155" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="59763155" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763195" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763195" k="name" o="add" type="way" v="Horseshoe Close" />
+    <tag id="59763195" k="access" o="add" type="way" v="yes" />
+    <tag id="59763195" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763195" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763195" k="highway" o="none" type="way" v="residential" />
+    <tag id="59763195" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763195" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763195" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="59763195" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="59763195" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="59763196" k="lit" o="none" type="way" v="yes" />
+    <tag id="59763196" k="foot" o="add" type="way" v="yes" />
+    <tag id="59763196" k="name" o="add" type="way" v="Blacksmiths Corner" />
+    <tag id="59763196" k="lanes" o="modify" type="way" v="1" />
+    <tag id="59763196" k="access" o="add" type="way" v="yes" />
+    <tag id="59763196" k="oneway" o="add" type="way" v="no" />
+    <tag id="59763196" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="59763196" k="footway" o="none" type="way" v="left" />
+    <tag id="59763196" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="59763196" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="59763196" k="cycleway" o="add" type="way" v="no" />
+    <tag id="59763196" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="59763196" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="59763196" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="77342878" k="lit" o="none" type="way" v="no" />
+    <tag id="77342878" k="foot" o="add" type="way" v="yes" />
+    <tag id="77342878" k="name" o="none" type="way" v="Lodge Road" />
+    <tag id="77342878" k="lanes" o="modify" type="way" v="1" />
+    <tag id="77342878" k="access" o="add" type="way" v="yes" />
+    <tag id="77342878" k="oneway" o="add" type="way" v="no" />
+    <tag id="77342878" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="77342878" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="77342878" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="77342878" k="cycleway" o="add" type="way" v="no" />
+    <tag id="77342878" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="77342878" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="77342878" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="77342890" k="lit" o="none" type="way" v="yes" />
+    <tag id="77342890" k="foot" o="add" type="way" v="yes" />
+    <tag id="77342890" k="name" o="none" type="way" v="Market Place" />
+    <tag id="77342890" k="lanes" o="modify" type="way" v="1" />
+    <tag id="77342890" k="access" o="add" type="way" v="yes" />
+    <tag id="77342890" k="oneway" o="add" type="way" v="no" />
+    <tag id="77342890" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="77342890" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="77342890" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="77342890" k="cycleway" o="add" type="way" v="no" />
+    <tag id="77342890" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="77342890" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="77342890" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="77342896" k="lit" o="none" type="way" v="no" />
+    <tag id="77342896" k="foot" o="add" type="way" v="yes" />
+    <tag id="77342896" k="name" o="none" type="way" v="Lodge Road" />
+    <tag id="77342896" k="lanes" o="modify" type="way" v="1" />
+    <tag id="77342896" k="access" o="add" type="way" v="yes" />
+    <tag id="77342896" k="oneway" o="add" type="way" v="no" />
+    <tag id="77342896" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="77342896" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="77342896" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="77342896" k="cycleway" o="add" type="way" v="no" />
+    <tag id="77342896" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="77342896" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="77342896" k="maxspeed:type" o="none" type="way" v="UK:nsl_single" />
+    <tag id="77342896" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="77342902" k="lit" o="none" type="way" v="yes" />
+    <tag id="77342902" k="foot" o="add" type="way" v="yes" />
+    <tag id="77342902" k="name" o="none" type="way" v="Lodge Road" />
+    <tag id="77342902" k="lanes" o="modify" type="way" v="1" />
+    <tag id="77342902" k="access" o="add" type="way" v="yes" />
+    <tag id="77342902" k="oneway" o="add" type="way" v="no" />
+    <tag id="77342902" k="source" o="modify" type="way" v="Local Knowledge" />
+    <tag id="77342902" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="77342902" k="footway" o="none" type="way" v="left" />
+    <tag id="77342902" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="77342902" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="77342902" k="cycleway" o="add" type="way" v="no" />
+    <tag id="77342902" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="77342902" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="77342902" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="77342906" k="lit" o="none" type="way" v="yes" />
+    <tag id="77342906" k="foot" o="add" type="way" v="yes" />
+    <tag id="77342906" k="name" o="none" type="way" v="Lodge Road" />
+    <tag id="77342906" k="lanes" o="modify" type="way" v="1" />
+    <tag id="77342906" k="access" o="add" type="way" v="yes" />
+    <tag id="77342906" k="oneway" o="add" type="way" v="no" />
+    <tag id="77342906" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="77342906" k="footway" o="none" type="way" v="both" />
+    <tag id="77342906" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="77342906" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="77342906" k="cycleway" o="add" type="way" v="no" />
+    <tag id="77342906" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="77342906" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="77342906" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="150149837" k="lit" o="none" type="way" v="yes" />
+    <tag id="150149837" k="foot" o="add" type="way" v="yes" />
+    <tag id="150149837" k="access" o="add" type="way" v="yes" />
+    <tag id="150149837" k="oneway" o="add" type="way" v="no" />
+    <tag id="150149837" k="source" o="none" type="way" v="Bing" />
+    <tag id="150149837" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="150149837" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="150149837" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="150149837" k="cycleway" o="add" type="way" v="no" />
+    <tag id="150149837" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="150149837" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="150149837" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="150149840" k="lit" o="none" type="way" v="yes" />
+    <tag id="150149840" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="150149840" k="source" o="none" type="way" v="Bing" />
+    <tag id="150149840" k="highway" o="none" type="way" v="tertiary_link" />
+    <tag id="190151147" k="foot" o="add" type="way" v="yes" />
+    <tag id="190151147" k="access" o="add" type="way" v="yes" />
+    <tag id="190151147" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190151147" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190151147" k="highway" o="add" type="way" v="secondary" />
+    <tag id="190151147" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190151147" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190151147" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190151147" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="190151147" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190155045" k="foot" o="add" type="way" v="yes" />
+    <tag id="190155045" k="name" o="add" type="way" v="Market Place" />
+    <tag id="190155045" k="access" o="add" type="way" v="yes" />
+    <tag id="190155045" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190155045" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190155045" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="190155045" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190155045" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190155045" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190155045" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="190155045" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190155864" k="foot" o="add" type="way" v="yes" />
+    <tag id="190155864" k="access" o="add" type="way" v="yes" />
+    <tag id="190155864" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190155864" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190155864" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="190155864" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190155864" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190155864" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190155864" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="190155864" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190155865" k="foot" o="add" type="way" v="yes" />
+    <tag id="190155865" k="name" o="add" type="way" v="Market Place" />
+    <tag id="190155865" k="access" o="add" type="way" v="yes" />
+    <tag id="190155865" k="oneway" o="add" type="way" v="-1" />
+    <tag id="190155865" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190155865" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="190155865" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190155865" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190155865" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190155865" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="190155865" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190155955" k="foot" o="add" type="way" v="yes" />
+    <tag id="190155955" k="access" o="add" type="way" v="yes" />
+    <tag id="190155955" k="oneway" o="add" type="way" v="no" />
+    <tag id="190155955" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190155955" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="190155955" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190155955" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190155955" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190155955" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="190155955" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190156019" k="foot" o="add" type="way" v="yes" />
+    <tag id="190156019" k="oneway" o="add" type="way" v="no" />
+    <tag id="190156019" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190156019" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="190156019" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190156019" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190156019" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190156019" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="190156058" k="foot" o="add" type="way" v="yes" />
+    <tag id="190156058" k="name" o="add" type="way" v="Market Place" />
+    <tag id="190156058" k="access" o="add" type="way" v="yes" />
+    <tag id="190156058" k="oneway" o="add" type="way" v="-1" />
+    <tag id="190156058" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190156058" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="190156058" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190156058" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190156058" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190156058" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="190156058" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190156148" k="foot" o="add" type="way" v="yes" />
+    <tag id="190156148" k="name" o="add" type="way" v="Car Park" />
+    <tag id="190156148" k="access" o="add" type="way" v="yes" />
+    <tag id="190156148" k="oneway" o="add" type="way" v="no" />
+    <tag id="190156148" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190156148" k="highway" o="add" type="way" v="service" />
+    <tag id="190156148" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="190156148" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190156148" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190156148" k="maxspeed" o="add" type="way" v="20" />
+    <tag id="190156148" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="190156148" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190156162" k="foot" o="add" type="way" v="yes" />
+    <tag id="190156162" k="name" o="add" type="way" v="Car Park" />
+    <tag id="190156162" k="access" o="add" type="way" v="yes" />
+    <tag id="190156162" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190156162" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190156162" k="highway" o="add" type="way" v="service" />
+    <tag id="190156162" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="190156162" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190156162" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190156162" k="maxspeed" o="add" type="way" v="20" />
+    <tag id="190156162" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="190156162" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190156509" k="foot" o="add" type="way" v="yes" />
+    <tag id="190156509" k="name" o="add" type="way" v="Fortescue Close" />
+    <tag id="190156509" k="access" o="add" type="way" v="yes" />
+    <tag id="190156509" k="oneway" o="add" type="way" v="no" />
+    <tag id="190156509" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190156509" k="highway" o="add" type="way" v="residential" />
+    <tag id="190156509" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190156509" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190156509" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190156509" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190156509" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190156519" k="foot" o="add" type="way" v="yes" />
+    <tag id="190156519" k="name" o="add" type="way" v="Farriers Way" />
+    <tag id="190156519" k="access" o="add" type="way" v="yes" />
+    <tag id="190156519" k="oneway" o="add" type="way" v="no" />
+    <tag id="190156519" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190156519" k="highway" o="add" type="way" v="residential" />
+    <tag id="190156519" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190156519" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190156519" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190156519" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190156519" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190157940" k="foot" o="add" type="way" v="yes" />
+    <tag id="190157940" k="name" o="add" type="way" v="Farriers Way" />
+    <tag id="190157940" k="access" o="add" type="way" v="yes" />
+    <tag id="190157940" k="oneway" o="add" type="way" v="no" />
+    <tag id="190157940" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190157940" k="highway" o="add" type="way" v="residential" />
+    <tag id="190157940" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190157940" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190157940" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190157940" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190157940" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190158150" k="foot" o="add" type="way" v="yes" />
+    <tag id="190158150" k="name" o="add" type="way" v="Fortescue Close" />
+    <tag id="190158150" k="access" o="add" type="way" v="yes" />
+    <tag id="190158150" k="oneway" o="add" type="way" v="no" />
+    <tag id="190158150" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190158150" k="highway" o="add" type="way" v="residential" />
+    <tag id="190158150" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190158150" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190158150" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190158150" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190158150" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190158151" k="foot" o="add" type="way" v="yes" />
+    <tag id="190158151" k="name" o="add" type="way" v="Fortescue Close" />
+    <tag id="190158151" k="access" o="add" type="way" v="yes" />
+    <tag id="190158151" k="oneway" o="add" type="way" v="no" />
+    <tag id="190158151" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190158151" k="highway" o="add" type="way" v="residential" />
+    <tag id="190158151" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190158151" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190158151" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190158151" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190158151" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190158337" k="foot" o="add" type="way" v="yes" />
+    <tag id="190158337" k="name" o="add" type="way" v="Tomlinson Close" />
+    <tag id="190158337" k="access" o="add" type="way" v="yes" />
+    <tag id="190158337" k="oneway" o="add" type="way" v="no" />
+    <tag id="190158337" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190158337" k="highway" o="add" type="way" v="residential" />
+    <tag id="190158337" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190158337" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190158337" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190158337" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190158337" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190159765" k="foot" o="add" type="way" v="yes" />
+    <tag id="190159765" k="name" o="add" type="way" v="Horseshoe Close" />
+    <tag id="190159765" k="access" o="add" type="way" v="yes" />
+    <tag id="190159765" k="oneway" o="add" type="way" v="no" />
+    <tag id="190159765" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190159765" k="highway" o="add" type="way" v="residential" />
+    <tag id="190159765" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190159765" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190159765" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190159765" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190159765" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190159766" k="foot" o="add" type="way" v="yes" />
+    <tag id="190159766" k="name" o="add" type="way" v="Horseshoe Close" />
+    <tag id="190159766" k="access" o="add" type="way" v="yes" />
+    <tag id="190159766" k="oneway" o="add" type="way" v="no" />
+    <tag id="190159766" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190159766" k="highway" o="add" type="way" v="residential" />
+    <tag id="190159766" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190159766" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190159766" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190159766" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190159766" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190159932" k="foot" o="add" type="way" v="yes" />
+    <tag id="190159932" k="name" o="add" type="way" v="Harness Drive" />
+    <tag id="190159932" k="access" o="add" type="way" v="yes" />
+    <tag id="190159932" k="oneway" o="add" type="way" v="no" />
+    <tag id="190159932" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190159932" k="highway" o="add" type="way" v="residential" />
+    <tag id="190159932" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190159932" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190159932" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190159932" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190159932" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190159933" k="foot" o="add" type="way" v="yes" />
+    <tag id="190159933" k="name" o="add" type="way" v="Harness drive" />
+    <tag id="190159933" k="access" o="add" type="way" v="yes" />
+    <tag id="190159933" k="oneway" o="add" type="way" v="no" />
+    <tag id="190159933" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190159933" k="highway" o="add" type="way" v="residential" />
+    <tag id="190159933" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190159933" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190159933" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190159933" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190159933" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="190161674" k="foot" o="add" type="way" v="yes" />
+    <tag id="190161674" k="name" o="add" type="way" v="Castleview" />
+    <tag id="190161674" k="access" o="add" type="way" v="yes" />
+    <tag id="190161674" k="oneway" o="add" type="way" v="no" />
+    <tag id="190161674" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="190161674" k="highway" o="add" type="way" v="residential" />
+    <tag id="190161674" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="190161674" k="cycleway" o="add" type="way" v="no" />
+    <tag id="190161674" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="190161674" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="190161674" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="2054417" k="ref" o="none" type="relation" v="5" />
+    <tag id="2054417" k="name" o="none" type="relation" v="Interconnect Route 5 (Lincoln - Boston)" />
+    <tag id="2054417" k="type" o="none" type="relation" v="route" />
+    <tag id="2054417" k="route" o="none" type="relation" v="bus" />
+    <tag id="2054417" k="network" o="none" type="relation" v="Interconnect" />
+    <tag id="2054417" k="operator" o="none" type="relation" v="Brylaine Travel" />
+  </body>
+</changeset>

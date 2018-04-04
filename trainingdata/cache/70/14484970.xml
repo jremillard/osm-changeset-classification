@@ -1,0 +1,76 @@
+<changeset id="14484970" schema="2">
+  <counts nodesAdded="1" nodesDeleted="2" nodesModified="3" relationsAdded="3" relationsDeleted="0" relationsModified="4" waysAdded="0" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="build" v="2.3-554-ge648197" />
+    <tag k="comment" v="Brooklyn N, D, and R subway lines edits.  Created new subway routes,  and linked train stations." />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="1270745413" k="name" o="modify" type="node" v="62nd Street / New Utrecht (D,N)" />
+    <tag id="1270745413" k="railway" o="none" type="node" v="station" />
+    <tag id="1270745413" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="1683682278" k="name" o="none" type="node" v="20th Avenue (N)" />
+    <tag id="1683682278" k="railway" o="none" type="node" v="station" />
+    <tag id="1683682278" k="operator" o="add" type="node" v="MTA" />
+    <tag id="1683682278" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="1683730419" k="name" o="none" type="node" v="Coney Island-Stillwell Avenue (D,F,N,Q)" />
+    <tag id="1683730419" k="railway" o="none" type="node" v="station" />
+    <tag id="1683730419" k="platforms" o="add" type="node" v="4" />
+    <tag id="1683730419" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="2013832048" k="name" o="none" type="node" v="Bay Ridge Avenue (R)" />
+    <tag id="2013832048" k="railway" o="none" type="node" v="station" />
+    <tag id="2013832048" k="wheelchair" o="none" type="node" v="no" />
+    <tag id="46340162" k="name" o="none" type="way" v="BMT Sea Beach Line" />
+    <tag id="46340162" k="gauge" o="none" type="way" v="1435" />
+    <tag id="46340162" k="layer" o="add" type="way" v="-2" />
+    <tag id="46340162" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="46340162" k="railway" o="none" type="way" v="subway" />
+    <tag id="46340162" k="voltage" o="none" type="way" v="625" />
+    <tag id="46340162" k="frequency" o="none" type="way" v="0" />
+    <tag id="46340162" k="electrified" o="none" type="way" v="rail" />
+    <tag id="103320602" k="name" o="none" type="way" v="BMT Sea Beach Line" />
+    <tag id="103320602" k="layer" o="modify" type="way" v="-1" />
+    <tag id="103320602" k="tunnel" o="none" type="way" v="no" />
+    <tag id="103320602" k="railway" o="none" type="way" v="subway" />
+    <tag id="103320602" k="voltage" o="add" type="way" v="750" />
+    <tag id="103320602" k="alt_name" o="none" type="way" v="BMT West End Line" />
+    <tag id="103320602" k="electrified" o="add" type="way" v="rail" />
+    <tag id="194911393" k="name" o="none" type="way" v="BMT Sea Beach Line" />
+    <tag id="194911393" k="layer" o="add" type="way" v="-1" />
+    <tag id="194911393" k="tunnel" o="none" type="way" v="no" />
+    <tag id="194911393" k="railway" o="none" type="way" v="subway" />
+    <tag id="194911393" k="voltage" o="add" type="way" v="750" />
+    <tag id="194911393" k="electrified" o="add" type="way" v="rail" />
+    <tag id="366768" k="ref" o="none" type="relation" v="N" />
+    <tag id="366768" k="name" o="none" type="relation" v="NYCS - N Train" />
+    <tag id="366768" k="type" o="none" type="relation" v="route" />
+    <tag id="366768" k="color" o="none" type="relation" v="yellow" />
+    <tag id="366768" k="owner" o="none" type="relation" v="City of New York" />
+    <tag id="366768" k="route" o="none" type="relation" v="subway" />
+    <tag id="366768" k="network" o="none" type="relation" v="NYC Subway" />
+    <tag id="366768" k="alt_name" o="none" type="relation" v="Broadway Local" />
+    <tag id="366768" k="operator" o="none" type="relation" v="Metropolitan Transportation Authority" />
+    <tag id="2673130" k="ref" o="none" type="relation" v="N" />
+    <tag id="2673130" k="name" o="none" type="relation" v="Broadway Local" />
+    <tag id="2673130" k="type" o="none" type="relation" v="route" />
+    <tag id="2673130" k="route" o="none" type="relation" v="train" />
+    <tag id="2673130" k="colour" o="none" type="relation" v="Yellow" />
+    <tag id="2673130" k="network" o="none" type="relation" v="N" />
+    <tag id="2673130" k="operator" o="none" type="relation" v="MTA" />
+    <tag id="2673161" k="ref" o="none" type="relation" v="R" />
+    <tag id="2673161" k="name" o="none" type="relation" v="Queens Blvd / Broadway / 4 Avenue Local" />
+    <tag id="2673161" k="type" o="none" type="relation" v="route" />
+    <tag id="2673161" k="route" o="none" type="relation" v="train" />
+    <tag id="2673161" k="colour" o="none" type="relation" v="Yellow" />
+    <tag id="2673161" k="network" o="none" type="relation" v="R" />
+    <tag id="2673161" k="operator" o="none" type="relation" v="MTA" />
+    <tag id="2673162" k="ref" o="none" type="relation" v="D" />
+    <tag id="2673162" k="name" o="none" type="relation" v="6 Avenue Express" />
+    <tag id="2673162" k="type" o="none" type="relation" v="route" />
+    <tag id="2673162" k="route" o="none" type="relation" v="train" />
+    <tag id="2673162" k="colour" o="none" type="relation" v="Orange" />
+    <tag id="2673162" k="network" o="none" type="relation" v="D" />
+    <tag id="2673162" k="operator" o="none" type="relation" v="MTA" />
+  </body>
+</changeset>

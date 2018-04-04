@@ -1,0 +1,440 @@
+<changeset id="18411848" schema="2">
+  <counts nodesAdded="807" nodesDeleted="28" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="16" waysAdded="119" waysDeleted="0" waysModified="19" />
+  <meta>
+    <tag k="comment" v="Completing first route 116 relation, some other improvements and fixes" />
+    <tag k="created_by" v="JOSM/1.5 (6238 en)" />
+  </meta>
+  <body>
+    <tag id="2462431822" k="name" o="none" type="node" v="Entrada Colonia Primero de Mayo" />
+    <tag id="2462431822" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="2462431822" k="official_status" o="none" type="node" v="IRTRAMMA:bus_stop" />
+    <tag id="2462431822" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="26115493" k="name" o="none" type="way" v="Pista de la Solidaridad" />
+    <tag id="26115493" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26115493" k="highway" o="none" type="way" v="trunk" />
+    <tag id="26233354" k="name" o="none" type="way" v="A 35A Avenida So" />
+    <tag id="26233354" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26233354" k="highway" o="none" type="way" v="trunk" />
+    <tag id="26233467" k="name" o="none" type="way" v="35A Avenida So" />
+    <tag id="26233467" k="highway" o="none" type="way" v="primary" />
+    <tag id="37059036" k="name" o="none" type="way" v="Del Seminario" />
+    <tag id="37059036" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="38752793" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="193415379" k="highway" o="none" type="way" v="secondary" />
+    <tag id="193418257" k="highway" o="none" type="way" v="secondary" />
+    <tag id="193546763" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="193546765" k="name" o="none" type="way" v="Pista La Reynaga" />
+    <tag id="193546765" k="highway" o="none" type="way" v="secondary" />
+    <tag id="193722084" k="highway" o="none" type="way" v="secondary" />
+    <tag id="193800653" k="name" o="none" type="way" v="Pista de la Solidaridad" />
+    <tag id="193800653" k="oneway" o="none" type="way" v="yes" />
+    <tag id="193800653" k="highway" o="none" type="way" v="trunk" />
+    <tag id="203491391" k="name" o="none" type="way" v="Pista La Reynaga" />
+    <tag id="203491391" k="lanes" o="none" type="way" v="2" />
+    <tag id="203491391" k="highway" o="none" type="way" v="secondary" />
+    <tag id="217505412" k="highway" o="none" type="way" v="secondary" />
+    <tag id="222198534" k="name" o="none" type="way" v="Pista La Reynaga" />
+    <tag id="222198534" k="highway" o="none" type="way" v="secondary" />
+    <tag id="222221874" k="name" o="none" type="way" v="Pista La Reynaga" />
+    <tag id="222221874" k="highway" o="none" type="way" v="secondary" />
+    <tag id="229332045" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="230084299" k="name" o="none" type="way" v="Paseo Los Muchachos" />
+    <tag id="230084299" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="233469903" k="highway" o="none" type="way" v="secondary" />
+    <tag id="234829858" k="highway" o="none" type="way" v="secondary" />
+    <tag id="242546596" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546596" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546596" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546597" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546597" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546597" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546598" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546598" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546598" k="highway" o="add" type="way" v="trunk_link" />
+    <tag id="242546599" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546599" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546599" k="highway" o="add" type="way" v="trunk_link" />
+    <tag id="242546600" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546600" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546600" k="highway" o="add" type="way" v="primary" />
+    <tag id="242546601" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546601" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546601" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546602" k="name" o="add" type="way" v="A 35A Avenida So" />
+    <tag id="242546602" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546602" k="highway" o="add" type="way" v="primary" />
+    <tag id="242546603" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546603" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546603" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546603" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546604" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546604" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546604" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546604" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546605" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546605" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546605" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546605" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546606" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546606" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546606" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546606" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546607" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546607" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546607" k="bridge" o="add" type="way" v="yes" />
+    <tag id="242546607" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546607" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546608" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546608" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546608" k="bridge" o="add" type="way" v="yes" />
+    <tag id="242546608" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546608" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546609" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546609" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546609" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546609" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546610" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546610" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546610" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546610" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546611" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546611" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546611" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546611" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546612" k="name" o="add" type="way" v="Calle Colon" />
+    <tag id="242546612" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546612" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546612" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546613" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546613" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546614" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546614" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546615" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546615" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546615" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546616" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546616" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546616" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546617" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546617" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546617" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546618" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546618" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546618" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546619" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546619" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546619" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546620" k="name" o="add" type="way" v="Carretera Sur; Paseo Republica de Chile" />
+    <tag id="242546620" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546620" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546621" k="name" o="add" type="way" v="Del Seminario" />
+    <tag id="242546621" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546622" k="name" o="add" type="way" v="Del Seminario" />
+    <tag id="242546622" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546623" k="name" o="add" type="way" v="Del Seminario" />
+    <tag id="242546623" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546624" k="name" o="add" type="way" v="Paseo Los Muchachos" />
+    <tag id="242546624" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546625" k="name" o="add" type="way" v="Paseo Los Muchachos" />
+    <tag id="242546625" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546626" k="name" o="add" type="way" v="Paseo Los Muchachos" />
+    <tag id="242546626" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546627" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546627" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546628" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546628" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546629" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546629" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546630" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546630" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546631" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546631" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546632" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546632" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546633" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546633" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546633" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546634" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546634" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546634" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546635" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546635" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546635" k="layer" o="add" type="way" v="1" />
+    <tag id="242546635" k="bridge" o="add" type="way" v="yes" />
+    <tag id="242546635" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546636" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546636" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546636" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546637" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546637" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546637" k="layer" o="add" type="way" v="1" />
+    <tag id="242546637" k="bridge" o="add" type="way" v="yes" />
+    <tag id="242546637" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546638" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546638" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546638" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546639" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546639" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546639" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546640" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546640" k="lanes" o="add" type="way" v="2" />
+    <tag id="242546640" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546641" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546641" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546642" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546642" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546643" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546643" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546643" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546644" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546644" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546644" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546645" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546645" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546646" k="name" o="add" type="way" v="Pista La Reynaga" />
+    <tag id="242546646" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546647" k="name" o="add" type="way" v="Pista de la Solidaridad" />
+    <tag id="242546647" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546647" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546648" k="name" o="add" type="way" v="Pista de la Solidaridad" />
+    <tag id="242546648" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546648" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546649" k="name" o="add" type="way" v="Rotonda Hugo Ch&#225;vez" />
+    <tag id="242546649" k="highway" o="add" type="way" v="primary" />
+    <tag id="242546649" k="alt_name" o="add" type="way" v="Rotonda Plaza Inter" />
+    <tag id="242546649" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="242546649" k="old_name" o="add" type="way" v="Plaza Inter" />
+    <tag id="242546649" k="reference_point" o="add" type="way" v="yes" />
+    <tag id="242546650" k="name" o="add" type="way" v="Rotonda Hugo Ch&#225;vez" />
+    <tag id="242546650" k="highway" o="add" type="way" v="primary" />
+    <tag id="242546650" k="alt_name" o="add" type="way" v="Rotonda Plaza Inter" />
+    <tag id="242546650" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="242546650" k="old_name" o="add" type="way" v="Plaza Inter" />
+    <tag id="242546650" k="reference_point" o="add" type="way" v="yes" />
+    <tag id="242546651" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546651" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546652" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546652" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546653" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546654" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546655" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546655" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="242546656" k="highway" o="add" type="way" v="residential" />
+    <tag id="242546657" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546657" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="242546658" k="bridge" o="add" type="way" v="yes" />
+    <tag id="242546658" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546659" k="bridge" o="add" type="way" v="yes" />
+    <tag id="242546659" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546660" k="highway" o="add" type="way" v="residential" />
+    <tag id="242546661" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546662" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546663" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546664" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546665" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546666" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546666" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546667" k="oneway" o="add" type="way" v="no" />
+    <tag id="242546667" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546668" k="oneway" o="add" type="way" v="no" />
+    <tag id="242546668" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546669" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546670" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546670" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546671" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546671" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546672" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546673" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546673" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546674" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546675" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546676" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546676" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546677" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546678" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546678" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546679" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546679" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546680" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546681" k="lanes" o="add" type="way" v="4" />
+    <tag id="242546681" k="highway" o="add" type="way" v="trunk" />
+    <tag id="242546682" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546683" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546684" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546685" k="highway" o="add" type="way" v="residential" />
+    <tag id="242546686" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546687" k="highway" o="add" type="way" v="residential" />
+    <tag id="242546688" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546689" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546689" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="242546690" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546691" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546692" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546693" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546693" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="242546694" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="242546695" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546695" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546695" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546696" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546696" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546696" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546697" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546697" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546697" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546698" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546698" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546699" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546699" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546700" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546700" k="oneway" o="add" type="way" v="yes" />
+    <tag id="242546700" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546701" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546701" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546702" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546702" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546703" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546703" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546704" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546704" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546705" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546705" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546706" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546706" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546707" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546707" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546708" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546708" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546709" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546709" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546710" k="name" o="add" type="way" v="2A CALLE Se" />
+    <tag id="242546710" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546711" k="name" o="add" type="way" v="2A Calle SE" />
+    <tag id="242546711" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546712" k="name" o="add" type="way" v="2A Calle SE" />
+    <tag id="242546712" k="highway" o="add" type="way" v="secondary" />
+    <tag id="242546713" k="name" o="add" type="way" v="35A Avenida So" />
+    <tag id="242546713" k="highway" o="add" type="way" v="primary" />
+    <tag id="242546714" k="name" o="add" type="way" v="35A Avenida So" />
+    <tag id="242546714" k="highway" o="add" type="way" v="primary" />
+    <tag id="2602440" k="to" o="none" type="relation" v="Mercado Mayoreo" />
+    <tag id="2602440" k="ref" o="none" type="relation" v="101" />
+    <tag id="2602440" k="from" o="none" type="relation" v="Las Brisas" />
+    <tag id="2602440" k="name" o="none" type="relation" v="Bus 101" />
+    <tag id="2602440" k="type" o="none" type="relation" v="route" />
+    <tag id="2602440" k="route" o="none" type="relation" v="bus" />
+    <tag id="2602440" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2606806" k="to" o="none" type="relation" v="Acahualinca" />
+    <tag id="2606806" k="ref" o="none" type="relation" v="102" />
+    <tag id="2606806" k="from" o="none" type="relation" v="Mercado Mayoreo" />
+    <tag id="2606806" k="name" o="none" type="relation" v="Bus 102: Mayoreo, Managua =&gt; Acahualinca, Managua" />
+    <tag id="2606806" k="type" o="none" type="relation" v="route" />
+    <tag id="2606806" k="route" o="none" type="relation" v="bus" />
+    <tag id="2606806" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2606880" k="to" o="none" type="relation" v="Embajada de Estados Unidos" />
+    <tag id="2606880" k="ref" o="none" type="relation" v="110" />
+    <tag id="2606880" k="from" o="none" type="relation" v="Mercado Mayoreo" />
+    <tag id="2606880" k="name" o="none" type="relation" v="Bus 110: Mercado Mayoreo, Managua =&gt; Embajada EE.UU., Managua" />
+    <tag id="2606880" k="type" o="none" type="relation" v="route" />
+    <tag id="2606880" k="route" o="none" type="relation" v="bus" />
+    <tag id="2606880" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2606880" k="operator" o="none" type="relation" v="Cooperativa Urbano Unitario R.L." />
+    <tag id="2607516" k="to" o="none" type="relation" v="Embajada de Estados Unidos" />
+    <tag id="2607516" k="ref" o="none" type="relation" v="120" />
+    <tag id="2607516" k="from" o="none" type="relation" v="Mercado Mayoreo" />
+    <tag id="2607516" k="name" o="none" type="relation" v="Bus 120: Mayoreo, Managua =&gt; Embajada EE.UU., Managua" />
+    <tag id="2607516" k="type" o="none" type="relation" v="route" />
+    <tag id="2607516" k="route" o="none" type="relation" v="bus" />
+    <tag id="2607516" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2607516" k="operator" o="none" type="relation" v="Cooperativa Urbano Unitario R.L." />
+    <tag id="2607580" k="ref" o="none" type="relation" v="6" />
+    <tag id="2607580" k="name" o="none" type="relation" v="Bus 6: Managua =&gt; Managua" />
+    <tag id="2607580" k="type" o="none" type="relation" v="route" />
+    <tag id="2607580" k="route" o="none" type="relation" v="bus" />
+    <tag id="2607580" k="network" o="none" type="relation" v="IRTRAMA" />
+    <tag id="2608742" k="to" o="none" type="relation" v="Mercado Iv&#225;n Montenegro" />
+    <tag id="2608742" k="ref" o="none" type="relation" v="154" />
+    <tag id="2608742" k="from" o="none" type="relation" v="Camilo Ortega" />
+    <tag id="2608742" k="name" o="none" type="relation" v="Bus 154: Camilo Ortega, Managua =&gt; Iv&#225;n Montenegro, Managua" />
+    <tag id="2608742" k="type" o="none" type="relation" v="route" />
+    <tag id="2608742" k="route" o="none" type="relation" v="bus" />
+    <tag id="2608742" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2608742" k="operator" o="none" type="relation" v="Cooperativa Camilo Ortega" />
+    <tag id="2614526" k="to" o="none" type="relation" v="Carretera Norte" />
+    <tag id="2614526" k="ref" o="none" type="relation" v="106" />
+    <tag id="2614526" k="from" o="none" type="relation" v="Loma Verde" />
+    <tag id="2614526" k="name" o="none" type="relation" v="Bus 106: Loma Verde, Managua =&gt; Carretera Norte, Managua" />
+    <tag id="2614526" k="type" o="none" type="relation" v="route" />
+    <tag id="2614526" k="route" o="none" type="relation" v="bus" />
+    <tag id="2614526" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2879899" k="to" o="none" type="relation" v="Colonia Independencia" />
+    <tag id="2879899" k="ref" o="none" type="relation" v="112" />
+    <tag id="2879899" k="from" o="none" type="relation" v="Villa Libertad" />
+    <tag id="2879899" k="name" o="none" type="relation" v="Bus 112: Villa Libertad, Managua =&gt; Colonia Independencia, Managua" />
+    <tag id="2879899" k="type" o="none" type="relation" v="route" />
+    <tag id="2879899" k="route" o="none" type="relation" v="bus" />
+    <tag id="2879899" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2879899" k="operator" o="none" type="relation" v="Cooperativa Col&#243;n" />
+    <tag id="2879951" k="to" o="none" type="relation" v="Mercado Oriental" />
+    <tag id="2879951" k="ref" o="none" type="relation" v="163" />
+    <tag id="2879951" k="from" o="none" type="relation" v="Sabana Grande" />
+    <tag id="2879951" k="name" o="none" type="relation" v="Bus 163: Sabana Grande, Managua =&gt; Mercado Oriental, Managua" />
+    <tag id="2879951" k="type" o="none" type="relation" v="route" />
+    <tag id="2879951" k="route" o="none" type="relation" v="bus" />
+    <tag id="2879951" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2879951" k="operator" o="none" type="relation" v="Cooperativa Camilo Sotelo" />
+    <tag id="2941501" k="to" o="none" type="relation" v="Las Brisas" />
+    <tag id="2941501" k="ref" o="none" type="relation" v="118" />
+    <tag id="2941501" k="from" o="none" type="relation" v="Villa Libertad" />
+    <tag id="2941501" k="name" o="none" type="relation" v="Bus 118: Villa Libertad, Managua =&gt; Las Brisas, Managua" />
+    <tag id="2941501" k="type" o="none" type="relation" v="route" />
+    <tag id="2941501" k="route" o="none" type="relation" v="bus" />
+    <tag id="2941501" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2941501" k="operator" o="none" type="relation" v="Parrales Vallejos" />
+    <tag id="2941631" k="to" o="none" type="relation" v="Camilo Ortega" />
+    <tag id="2941631" k="ref" o="none" type="relation" v="105" />
+    <tag id="2941631" k="from" o="none" type="relation" v="Unidad de Prop&#243;sito" />
+    <tag id="2941631" k="name" o="none" type="relation" v="Bus 105: Unidad de Prop&#243;sito, Managua =&gt; Camilo Ortega, Managua" />
+    <tag id="2941631" k="type" o="none" type="relation" v="route" />
+    <tag id="2941631" k="route" o="none" type="relation" v="bus" />
+    <tag id="2941631" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2941631" k="operator" o="none" type="relation" v="Cooperativa Parrales Vallejos" />
+    <tag id="2942229" k="to" o="none" type="relation" v="Unidad de Prop&#243;sito" />
+    <tag id="2942229" k="ref" o="none" type="relation" v="105" />
+    <tag id="2942229" k="from" o="none" type="relation" v="Camilo Ortega" />
+    <tag id="2942229" k="name" o="none" type="relation" v="Bus 105: Camilo Ortega, Managua =&gt; Unidad de Prop&#243;sito, Managua" />
+    <tag id="2942229" k="type" o="none" type="relation" v="route" />
+    <tag id="2942229" k="route" o="none" type="relation" v="bus" />
+    <tag id="2942229" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="2942229" k="operator" o="none" type="relation" v="Cooperativa Parrales Vallejos" />
+    <tag id="3126759" k="to" o="none" type="relation" v="Colonia Independencia" />
+    <tag id="3126759" k="ref" o="none" type="relation" v="112" />
+    <tag id="3126759" k="from" o="none" type="relation" v="Villa Libertad" />
+    <tag id="3126759" k="name" o="none" type="relation" v="Bus 112: Colonia Independencia, Managua =&gt; Villa Libertad, Managua" />
+    <tag id="3126759" k="type" o="none" type="relation" v="route" />
+    <tag id="3126759" k="route" o="none" type="relation" v="bus" />
+    <tag id="3126759" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="3126759" k="operator" o="none" type="relation" v="Cooperativa Col&#243;n" />
+    <tag id="3155254" k="to" o="none" type="relation" v="Costado Sur Colonia Miguel Bonilla" />
+    <tag id="3155254" k="ref" o="none" type="relation" v="168" />
+    <tag id="3155254" k="from" o="none" type="relation" v="Lomas de Guadalupe" />
+    <tag id="3155254" k="name" o="none" type="relation" v="Bus 168: Lomas de Guadalupe, Managua =&gt; Costado Sur Colonia Miguel Bonilla, Managua" />
+    <tag id="3155254" k="type" o="none" type="relation" v="route" />
+    <tag id="3155254" k="route" o="none" type="relation" v="bus" />
+    <tag id="3155254" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="3199877" k="to" o="none" type="relation" v="Sem&#225;foros Seminario 50m al Este" />
+    <tag id="3199877" k="ref" o="none" type="relation" v="116" />
+    <tag id="3199877" k="from" o="none" type="relation" v="Terminal Villa Libertad" />
+    <tag id="3199877" k="name" o="none" type="relation" v="Bus 116: Villa Libertad Managua =&gt; Barrio Miraflores, Managua" />
+    <tag id="3199877" k="type" o="none" type="relation" v="route" />
+    <tag id="3199877" k="route" o="none" type="relation" v="bus" />
+    <tag id="3199877" k="network" o="none" type="relation" v="IRTRAMMA" />
+    <tag id="3199878" k="to" o="none" type="relation" v="Lomas de Guadalupe" />
+    <tag id="3199878" k="ref" o="none" type="relation" v="168" />
+    <tag id="3199878" k="from" o="none" type="relation" v="Costado Sur Colonia Miguel Bonilla" />
+    <tag id="3199878" k="name" o="none" type="relation" v="Bus 168: Costado Sur Colonia Miguel Bonilla, Managua =&gt; Lomas de Guadalupe, Managua" />
+    <tag id="3199878" k="type" o="none" type="relation" v="route" />
+    <tag id="3199878" k="route" o="none" type="relation" v="bus" />
+    <tag id="3199878" k="network" o="none" type="relation" v="IRTRAMMA" />
+  </body>
+</changeset>

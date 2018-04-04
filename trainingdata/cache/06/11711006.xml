@@ -1,0 +1,23 @@
+<changeset id="11711006" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="build" v="2.3-396-g24ec597" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="118262963" k="oneway" o="none" type="way" v="yes" />
+    <tag id="118262963" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="118262963" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="118262963" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="121380323" k="ref" o="none" type="way" v="E-10" />
+    <tag id="121380323" k="lanes" o="none" type="way" v="4" />
+    <tag id="121380323" k="oneway" o="none" type="way" v="true" />
+    <tag id="121380323" k="source" o="none" type="way" v="YWMS" />
+    <tag id="121380323" k="highway" o="none" type="way" v="motorway" />
+    <tag id="121380323" k="maxspeed" o="modify" type="way" v="130" />
+    <tag id="2199798" k="type" o="add" type="relation" v="restriction" />
+    <tag id="2199798" k="except" o="add" type="relation" v="motorcar" />
+    <tag id="2199798" k="restriction" o="add" type="relation" v="no_right_turn" />
+  </body>
+</changeset>

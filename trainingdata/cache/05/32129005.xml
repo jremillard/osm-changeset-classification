@@ -1,0 +1,21 @@
+<changeset id="32129005" schema="2">
+  <counts nodesAdded="5" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="comment" v="Adjust geometry of temporary school campus from rough survey, Winchester St, Lyttelton, New Zealand" />
+    <tag k="created_by" v="JOSM/1.5 (6115 SVN en_GB)" />
+  </meta>
+  <body>
+    <tag id="1727517297" k="entrance" o="add" type="node" v="main" />
+    <tag id="24659997" k="name" o="none" type="way" v="Winchester Street" />
+    <tag id="24659997" k="note" o="none" type="way" v="split way because of bus route relation; if your client/API does not warn about such complications with relations (as mine didn't), do not rejoin" />
+    <tag id="24659997" k="highway" o="none" type="way" v="residential" />
+    <tag id="160713181" k="source" o="none" type="way" v="survey" />
+    <tag id="160713181" k="highway" o="modify" type="way" v="footway" />
+    <tag id="353763779" k="name" o="none" type="way" v="Lyttelton Primary School (Town campus)" />
+    <tag id="353763779" k="note" o="none" type="way" v="temporary site with reconstruction of Oxford St site" />
+    <tag id="353763779" k="layer" o="add" type="way" v="1" />
+    <tag id="353763779" k="amenity" o="none" type="way" v="school" />
+    <tag id="353763779" k="temporary" o="none" type="way" v="yes" />
+    <tag id="353763779" k="source:geometry" o="modify" type="way" v="observation" />
+  </body>
+</changeset>

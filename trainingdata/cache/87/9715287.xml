@@ -1,0 +1,61 @@
+<changeset id="9715287" schema="2">
+  <counts nodesAdded="4" nodesDeleted="3" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="build" v="2.3-88-gc431f56" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="289079882" k="name" o="none" type="node" v="Zentralfriedhof" />
+    <tag id="289079882" k="is_in" o="none" type="node" v="Graz,Graz,Steiermark,&#214;sterreich,Europe" />
+    <tag id="289079882" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="289079882" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="773531356" k="name" o="none" type="node" v="Lauzilgasse" />
+    <tag id="773531356" k="railway" o="add" type="node" v="tram_stop" />
+    <tag id="773531356" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="773531365" k="name" o="none" type="node" v="Lauzilgasse" />
+    <tag id="773531365" k="railway" o="add" type="node" v="tram_stop" />
+    <tag id="773531365" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="60224741" k="name" o="none" type="way" v="Herrgottwiesgasse" />
+    <tag id="60224741" k="is_in" o="none" type="way" v="Graz,Graz,Steiermark,&#214;sterreich,Europe" />
+    <tag id="60224741" k="tracks" o="none" type="way" v="2" />
+    <tag id="60224741" k="highway" o="none" type="way" v="secondary" />
+    <tag id="60224741" k="railway" o="none" type="way" v="tram" />
+    <tag id="60224741" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="108784259" k="highway" o="none" type="way" v="platform" />
+    <tag id="27176" k="to" o="none" type="relation" v="Puntigam" />
+    <tag id="27176" k="ref" o="none" type="relation" v="5" />
+    <tag id="27176" k="from" o="none" type="relation" v="Andritz" />
+    <tag id="27176" k="name" o="none" type="relation" v="Tram 5: Andritz =&gt; Puntigam" />
+    <tag id="27176" k="type" o="none" type="relation" v="route" />
+    <tag id="27176" k="route" o="none" type="relation" v="tram" />
+    <tag id="27176" k="alternate" o="none" type="relation" v="no" />
+    <tag id="103371" k="to" o="none" type="relation" v="Flughafen Graz" />
+    <tag id="103371" k="ref" o="none" type="relation" v="N5" />
+    <tag id="103371" k="from" o="none" type="relation" v="Andritz" />
+    <tag id="103371" k="name" o="none" type="relation" v="Bus N5: Andritz =&gt; Flughafen Graz" />
+    <tag id="103371" k="type" o="none" type="relation" v="route" />
+    <tag id="103371" k="route" o="none" type="relation" v="bus" />
+    <tag id="103371" k="alternate" o="none" type="relation" v="no" />
+    <tag id="945077" k="name" o="none" type="relation" v="Zentralfriedhof" />
+    <tag id="945077" k="type" o="none" type="relation" v="public_transport" />
+    <tag id="945077" k="public_transport" o="none" type="relation" v="stop_area" />
+    <tag id="963680" k="name" o="none" type="relation" v="Lauzilgasse" />
+    <tag id="963680" k="type" o="none" type="relation" v="public_transport" />
+    <tag id="963680" k="public_transport" o="none" type="relation" v="stop_area" />
+    <tag id="963683" k="to" o="none" type="relation" v="Andritz" />
+    <tag id="963683" k="ref" o="none" type="relation" v="5" />
+    <tag id="963683" k="from" o="none" type="relation" v="Puntigam" />
+    <tag id="963683" k="name" o="none" type="relation" v="Tram 5: Puntigam =&gt; Andritz" />
+    <tag id="963683" k="type" o="none" type="relation" v="route" />
+    <tag id="963683" k="route" o="none" type="relation" v="tram" />
+    <tag id="963683" k="alternate" o="none" type="relation" v="no" />
+    <tag id="964411" k="to" o="none" type="relation" v="Andritz" />
+    <tag id="964411" k="ref" o="none" type="relation" v="N5" />
+    <tag id="964411" k="from" o="none" type="relation" v="Flughafen Graz" />
+    <tag id="964411" k="name" o="none" type="relation" v="Bus N5: Flughafen Graz =&gt; Andritz" />
+    <tag id="964411" k="type" o="none" type="relation" v="route" />
+    <tag id="964411" k="route" o="none" type="relation" v="bus" />
+    <tag id="964411" k="alternate" o="none" type="relation" v="no" />
+  </body>
+</changeset>

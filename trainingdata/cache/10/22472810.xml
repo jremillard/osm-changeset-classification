@@ -1,0 +1,132 @@
+<changeset id="22472810" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="12" waysAdded="2" waysDeleted="3" waysModified="11" />
+  <meta>
+    <tag k="build" v="2.3-605-gbec0ea7" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="6244409" k="ref" o="none" type="way" v="L 599" />
+    <tag id="6244409" k="name" o="none" type="way" v="Hockenheimer Stra&#223;e" />
+    <tag id="6244409" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6244409" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="6244418" k="ref" o="none" type="way" v="L 599" />
+    <tag id="6244418" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6244418" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="8057606" k="ref" o="none" type="way" v="L 599" />
+    <tag id="8057606" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="8057606" k="source" o="none" type="way" v="survey" />
+    <tag id="8057606" k="highway" o="none" type="way" v="secondary" />
+    <tag id="8057606" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="8057606" k="source:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="29139295" k="name" o="none" type="way" v="Am Dorfgraben" />
+    <tag id="29139295" k="highway" o="modify" type="way" v="living_street" />
+    <tag id="29139297" k="name" o="none" type="way" v="Kleiner Hertenweg" />
+    <tag id="29139297" k="highway" o="none" type="way" v="residential" />
+    <tag id="29139297" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="39745975" k="ref" o="none" type="way" v="L 599" />
+    <tag id="39745975" k="highway" o="none" type="way" v="secondary" />
+    <tag id="39745975" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="88376396" k="ref" o="none" type="way" v="L 599" />
+    <tag id="88376396" k="source" o="none" type="way" v="survey" />
+    <tag id="88376396" k="highway" o="none" type="way" v="secondary" />
+    <tag id="88376396" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="88376396" k="maxspeed:forward" o="none" type="way" v="50" />
+    <tag id="88376396" k="maxspeed:backward" o="none" type="way" v="100" />
+    <tag id="88376396" k="source:maxspeed:forward" o="none" type="way" v="sign" />
+    <tag id="88376396" k="source:maxspeed:backward" o="none" type="way" v="DE:rural" />
+    <tag id="197990817" k="name" o="none" type="way" v="Am Dorfgraben" />
+    <tag id="197990817" k="highway" o="modify" type="way" v="living_street" />
+    <tag id="283472514" k="highway" o="add" type="way" v="service" />
+    <tag id="283472514" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="283472515" k="amenity" o="add" type="way" v="parking" />
+    <tag id="174048" k="ref" o="none" type="relation" v="L 599" />
+    <tag id="174048" k="type" o="none" type="relation" v="route" />
+    <tag id="174048" k="route" o="none" type="relation" v="road" />
+    <tag id="174048" k="operator" o="none" type="relation" v="Baden-W&#252;rttemberg" />
+    <tag id="222866" k="ref" o="none" type="relation" v="S1" />
+    <tag id="222866" k="name" o="none" type="relation" v="Sparkassen-Route 1" />
+    <tag id="222866" k="type" o="none" type="relation" v="route" />
+    <tag id="222866" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="222866" k="network" o="none" type="relation" v="lcn" />
+    <tag id="222866" k="distance" o="none" type="relation" v="13 km" />
+    <tag id="223109" k="ref" o="none" type="relation" v="OMW" />
+    <tag id="223109" k="name" o="none" type="relation" v="Odenwald-Madonnen-Weg" />
+    <tag id="223109" k="note" o="none" type="relation" v="This should be the only relation for the &quot;Odenwald-Madonnen-Weg&quot;" />
+    <tag id="223109" k="type" o="none" type="relation" v="route" />
+    <tag id="223109" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="223109" k="network" o="none" type="relation" v="rcn" />
+    <tag id="223109" k="wikipedia" o="none" type="relation" v="de:Odenwald-Madonnen-Weg" />
+    <tag id="299337" k="name" o="none" type="relation" v="Badische Spargelstra&#223;e" />
+    <tag id="299337" k="type" o="none" type="relation" v="route" />
+    <tag id="299337" k="route" o="none" type="relation" v="road" />
+    <tag id="299337" k="tourism" o="none" type="relation" v="yes" />
+    <tag id="1176864" k="to" o="none" type="relation" v="Heidelberg Stadtwerke" />
+    <tag id="1176864" k="ref" o="none" type="relation" v="717" />
+    <tag id="1176864" k="from" o="none" type="relation" v="Speyer Domplatz" />
+    <tag id="1176864" k="name" o="none" type="relation" v="Bus 717: Speyer =&gt; Heidelberg (Regelweg)" />
+    <tag id="1176864" k="type" o="none" type="relation" v="route" />
+    <tag id="1176864" k="fixme" o="none" type="relation" v="Ortsdurchfahrt Ketsch; Gewerbegebiet S&#252;d" />
+    <tag id="1176864" k="route" o="none" type="relation" v="bus" />
+    <tag id="1858378" k="to" o="none" type="relation" v="Speyer Domplatz" />
+    <tag id="1858378" k="ref" o="none" type="relation" v="717" />
+    <tag id="1858378" k="from" o="none" type="relation" v="Heidelberg Hauptbahnhof" />
+    <tag id="1858378" k="name" o="none" type="relation" v="Bus 717: Heidelberg =&gt; Speyer (Regelweg)" />
+    <tag id="1858378" k="type" o="none" type="relation" v="route" />
+    <tag id="1858378" k="fixme" o="none" type="relation" v="Ortsdurchfahrt Ketsch; Gewerbegebiet S&#252;d" />
+    <tag id="1858378" k="route" o="none" type="relation" v="bus" />
+    <tag id="1876104" k="to" o="none" type="relation" v="Walldorf Schulzentrum" />
+    <tag id="1876104" k="ref" o="none" type="relation" v="718" />
+    <tag id="1876104" k="via" o="none" type="relation" v="Reilingen Rathaus, Walldorf Nahversorgungszentrum" />
+    <tag id="1876104" k="from" o="none" type="relation" v="Altlu&#223;heim Raiffeisenbank" />
+    <tag id="1876104" k="name" o="none" type="relation" v="Bus 718: Altlussheim =&gt; Walldorf" />
+    <tag id="1876104" k="type" o="none" type="relation" v="route" />
+    <tag id="1876104" k="fixme" o="none" type="relation" v="Walldorf Kirche (Steig D); Astoria-Halle; Halteplatz und Fahrtweg Schulzentrum (Wende, max. ca. 3 min)" />
+    <tag id="1876104" k="route" o="none" type="relation" v="bus" />
+    <tag id="1876105" k="to" o="none" type="relation" v="Altlu&#223;heim Rebst&#246;ckl" />
+    <tag id="1876105" k="ref" o="none" type="relation" v="718" />
+    <tag id="1876105" k="via" o="none" type="relation" v="Walldorf Nahversorgungszentrum, Reilingen Rathaus" />
+    <tag id="1876105" k="from" o="none" type="relation" v="Walldorf Schulzentrum" />
+    <tag id="1876105" k="name" o="none" type="relation" v="Bus 718: Walldorf =&gt; Altlussheim" />
+    <tag id="1876105" k="type" o="none" type="relation" v="route" />
+    <tag id="1876105" k="fixme" o="none" type="relation" v="Walldorf Kirche (Steig A); Astoria-Halle; Halteplatz und Fahrtweg Schulzentrum (Wende, max. ca. 3 min)" />
+    <tag id="1876105" k="route" o="none" type="relation" v="bus" />
+    <tag id="2070281" k="ref" o="none" type="relation" v="PAN" />
+    <tag id="2070281" k="name" o="none" type="relation" v="Paneuropa-Radweg Segment 2" />
+    <tag id="2070281" k="note" o="none" type="relation" v="Segment Deutschland-Baden-W&#252;rtemberg" />
+    <tag id="2070281" k="type" o="none" type="relation" v="route" />
+    <tag id="2070281" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="2070281" k="network" o="none" type="relation" v="icn" />
+    <tag id="2070281" k="website" o="none" type="relation" v="http://www.paneuropa-radweg.de" />
+    <tag id="2070281" k="description" o="none" type="relation" v="Route Paris-Prag" />
+    <tag id="2890812" k="to" o="none" type="relation" v="Mannheim" />
+    <tag id="2890812" k="via" o="none" type="relation" v="Bruchsal" />
+    <tag id="2890812" k="from" o="none" type="relation" v="Pforzheim" />
+    <tag id="2890812" k="name" o="none" type="relation" v="Bertha Benz Memorial Route (N)" />
+    <tag id="2890812" k="type" o="none" type="relation" v="route" />
+    <tag id="2890812" k="route" o="none" type="relation" v="road" />
+    <tag id="2890812" k="symbol" o="none" type="relation" v="Wei&#223;e Raute mit stilisiertem Benz-Patenwagen auf braunem Grund" />
+    <tag id="2890812" k="network" o="none" type="relation" v="ERIH" />
+    <tag id="2890812" k="website" o="none" type="relation" v="http://www.bertha-benz.de/" />
+    <tag id="2890812" k="roundtrip" o="none" type="relation" v="no" />
+    <tag id="2890812" k="wikipedia:de" o="none" type="relation" v="Bertha Benz Memorial Route" />
+    <tag id="3182427" k="to" o="none" type="relation" v="Walldorf Schulzentrum" />
+    <tag id="3182427" k="ref" o="none" type="relation" v="718" />
+    <tag id="3182427" k="via" o="none" type="relation" v="Reilingen Rathaus" />
+    <tag id="3182427" k="from" o="none" type="relation" v="Altlu&#223;heim Raiffeisenbank" />
+    <tag id="3182427" k="name" o="none" type="relation" v="Bus 718: Altlussheim =&gt; Walldorf (Schnellbus)" />
+    <tag id="3182427" k="type" o="none" type="relation" v="route" />
+    <tag id="3182427" k="fixme" o="none" type="relation" v="Halteplatz und Fahrtweg Schulzentrum" />
+    <tag id="3182427" k="route" o="none" type="relation" v="bus" />
+    <tag id="3182427" k="service" o="none" type="relation" v="peak" />
+    <tag id="3182428" k="to" o="none" type="relation" v="Altlu&#223;heim Rebst&#246;ckl" />
+    <tag id="3182428" k="ref" o="none" type="relation" v="718" />
+    <tag id="3182428" k="via" o="none" type="relation" v="Reilingen Rathaus" />
+    <tag id="3182428" k="from" o="none" type="relation" v="Walldorf Schulzentrum" />
+    <tag id="3182428" k="name" o="none" type="relation" v="Bus 718: Walldorf =&gt; Altlussheim (Schnellbus)" />
+    <tag id="3182428" k="type" o="none" type="relation" v="route" />
+    <tag id="3182428" k="fixme" o="none" type="relation" v="Halteplatz und Fahrtweg Schulzentrum (Wende, max. ca. 3 min)" />
+    <tag id="3182428" k="route" o="none" type="relation" v="bus" />
+    <tag id="3182428" k="service" o="none" type="relation" v="peak" />
+  </body>
+</changeset>

@@ -1,0 +1,654 @@
+<changeset id="50360860" schema="2">
+  <counts nodesAdded="14" nodesDeleted="1" nodesModified="22" relationsAdded="1" relationsDeleted="0" relationsModified="32" waysAdded="30" waysDeleted="1" waysModified="19" />
+  <meta>
+    <tag k="comment" v="converted some route relations in Winterthur, with the idea of demonstrating what PT_Assistant can do, but apparently I forgot to switch on screen sharing..." />
+    <tag k="created_by" v="JOSM/1.5 (12481 en)" />
+    <tag k="source" v="Kanton Z&#252;rich Orthophotos 2014/2015 10cm" />
+  </meta>
+  <body>
+    <tag id="97802667" k="bus" o="add" type="node" v="yes" />
+    <tag id="97802667" k="ele" o="none" type="node" v="580" />
+    <tag id="97802667" k="line" o="none" type="node" v="662" />
+    <tag id="97802667" k="name" o="none" type="node" v="Kleinikon" />
+    <tag id="97802667" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="97802667" k="uic_ref" o="none" type="node" v="8588502" />
+    <tag id="97802667" k="operator" o="none" type="node" v="VBG" />
+    <tag id="97802667" k="uic_name" o="none" type="node" v="Kleinikon" />
+    <tag id="97802667" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="114306563" k="bus" o="add" type="node" v="yes" />
+    <tag id="114306563" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="401881015" k="bus" o="none" type="node" v="yes" />
+    <tag id="401881015" k="ele" o="none" type="node" v="386" />
+    <tag id="401881015" k="name" o="none" type="node" v="Kaserne" />
+    <tag id="401881015" k="is_in" o="none" type="node" v="Bremgarten AG" />
+    <tag id="401881015" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="401881015" k="uic_ref" o="none" type="node" v="8580846" />
+    <tag id="401881015" k="operator" o="none" type="node" v="PostAuto Schweiz AG" />
+    <tag id="401881015" k="uic_name" o="none" type="node" v="Bremgarten AG, Kaserne" />
+    <tag id="401881015" k="operator:de" o="none" type="node" v="PostAuto Schweiz AG" />
+    <tag id="401881015" k="operator:fr" o="none" type="node" v="CarPostal Suisse SA" />
+    <tag id="401881015" k="operator:it" o="none" type="node" v="AutoPostale Svizzera SA" />
+    <tag id="401881015" k="public_transport" o="modify" type="node" v="stop_position" />
+    <tag id="441310477" k="bus" o="add" type="node" v="yes" />
+    <tag id="441310477" k="ele" o="none" type="node" v="560" />
+    <tag id="441310477" k="name" o="none" type="node" v="Langhag" />
+    <tag id="441310477" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="441310477" k="uic_ref" o="none" type="node" v="8575940" />
+    <tag id="441310477" k="operator" o="none" type="node" v="VBG" />
+    <tag id="441310477" k="uic_name" o="none" type="node" v="Effretikon, Langhag" />
+    <tag id="441310477" k="route_ref" o="none" type="node" v="655" />
+    <tag id="441310477" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="558514593" k="highway" o="none" type="node" v="crossing" />
+    <tag id="634289376" k="bus" o="none" type="node" v="yes" />
+    <tag id="634289376" k="ele" o="none" type="node" v="457" />
+    <tag id="634289376" k="name" o="none" type="node" v="Orb&#252;hl" />
+    <tag id="634289376" k="lines" o="none" type="node" v="5,14" />
+    <tag id="634289376" k="shelter" o="none" type="node" v="yes" />
+    <tag id="634289376" k="uic_ref" o="none" type="node" v="8590981" />
+    <tag id="634289376" k="operator" o="none" type="node" v="SBW" />
+    <tag id="634289376" k="uic_name" o="none" type="node" v="Winterthur, Ohrb&#252;hl" />
+    <tag id="634289376" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="656346656" k="bus" o="none" type="node" v="yes" />
+    <tag id="656346656" k="ele" o="none" type="node" v="505" />
+    <tag id="656346656" k="name" o="none" type="node" v="Chr&#252;zstrasse" />
+    <tag id="656346656" k="uic_ref" o="none" type="node" v="8576167" />
+    <tag id="656346656" k="operator" o="none" type="node" v="SBW" />
+    <tag id="656346656" k="uic_name" o="none" type="node" v="N&#252;rensdorf, Chr&#252;zstrass" />
+    <tag id="656346656" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="660139272" k="bus" o="add" type="node" v="yes" />
+    <tag id="660139272" k="ele" o="none" type="node" v="452" />
+    <tag id="660139272" k="name" o="none" type="node" v="Industriepark" />
+    <tag id="660139272" k="lines" o="none" type="node" v="14" />
+    <tag id="660139272" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="660139272" k="shelter" o="none" type="node" v="yes" />
+    <tag id="660139272" k="uic_ref" o="none" type="node" v="8590964" />
+    <tag id="660139272" k="operator" o="none" type="node" v="SBW" />
+    <tag id="660139272" k="uic_name" o="none" type="node" v="Winterthur, Industriepark" />
+    <tag id="660139272" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="660139324" k="bus" o="add" type="node" v="yes" />
+    <tag id="660139324" k="ele" o="none" type="node" v="458" />
+    <tag id="660139324" k="name" o="none" type="node" v="Else Z&#252;blin" />
+    <tag id="660139324" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="660139324" k="uic_ref" o="none" type="node" v="8591006" />
+    <tag id="660139324" k="operator" o="none" type="node" v="SBW" />
+    <tag id="660139324" k="uic_name" o="none" type="node" v="Winterthur, Sulzerpark" />
+    <tag id="660139324" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="660139326" k="bus" o="add" type="node" v="yes" />
+    <tag id="660139326" k="ele" o="none" type="node" v="458" />
+    <tag id="660139326" k="name" o="none" type="node" v="Else Z&#252;blin" />
+    <tag id="660139326" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="660139326" k="uic_ref" o="none" type="node" v="8591006" />
+    <tag id="660139326" k="operator" o="none" type="node" v="SBW" />
+    <tag id="660139326" k="uic_name" o="none" type="node" v="Winterthur, Sulzerpark" />
+    <tag id="660139326" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="660139392" k="bus" o="add" type="node" v="yes" />
+    <tag id="660139392" k="ele" o="none" type="node" v="460" />
+    <tag id="660139392" k="name" o="none" type="node" v="Hegi" />
+    <tag id="660139392" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="660139392" k="uic_ref" o="none" type="node" v="8590919" />
+    <tag id="660139392" k="operator" o="none" type="node" v="SBW" />
+    <tag id="660139392" k="uic_name" o="none" type="node" v="Winterthur Hegi, Bahnhof" />
+    <tag id="660139392" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="669212000" k="bus" o="none" type="node" v="yes" />
+    <tag id="669212000" k="ele" o="none" type="node" v="462" />
+    <tag id="669212000" k="name" o="none" type="node" v="Steig" />
+    <tag id="669212000" k="lines" o="none" type="node" v="660" />
+    <tag id="669212000" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="669212000" k="uic_ref" o="none" type="node" v="8591002" />
+    <tag id="669212000" k="operator" o="none" type="node" v="SBW" />
+    <tag id="669212000" k="uic_name" o="none" type="node" v="Winterthur, Steig" />
+    <tag id="669212000" k="public_transport" o="modify" type="node" v="platform" />
+    <tag id="669212002" k="bus" o="none" type="node" v="yes" />
+    <tag id="669212002" k="ele" o="none" type="node" v="439" />
+    <tag id="669212002" k="name" o="none" type="node" v="Steigm&#252;hle" />
+    <tag id="669212002" k="lines" o="none" type="node" v="11,660" />
+    <tag id="669212002" k="uic_ref" o="none" type="node" v="8506961" />
+    <tag id="669212002" k="operator" o="none" type="node" v="SBW" />
+    <tag id="669212002" k="uic_name" o="none" type="node" v="Winterthur, Steigm&#252;hle" />
+    <tag id="669212002" k="public_transport" o="modify" type="node" v="platform" />
+    <tag id="684323923" k="highway" o="none" type="node" v="crossing" />
+    <tag id="684323923" k="crossing" o="none" type="node" v="island" />
+    <tag id="684323924" k="highway" o="none" type="node" v="crossing" />
+    <tag id="684323924" k="crossing" o="none" type="node" v="island" />
+    <tag id="684323925" k="highway" o="none" type="node" v="crossing" />
+    <tag id="684323925" k="crossing" o="none" type="node" v="island" />
+    <tag id="684323926" k="highway" o="none" type="node" v="crossing" />
+    <tag id="684323926" k="crossing" o="none" type="node" v="island" />
+    <tag id="696024962" k="bus" o="none" type="node" v="yes" />
+    <tag id="696024962" k="name" o="none" type="node" v="Effretikon, Bahnhof" />
+    <tag id="696024962" k="bench" o="none" type="node" v="yes" />
+    <tag id="696024962" k="covered" o="none" type="node" v="yes" />
+    <tag id="696024962" k="highway" o="none" type="node" v="no" />
+    <tag id="696024962" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="767930614" k="bus" o="none" type="node" v="yes" />
+    <tag id="767930614" k="ele" o="none" type="node" v="457" />
+    <tag id="767930614" k="name" o="none" type="node" v="Orb&#252;hl" />
+    <tag id="767930614" k="lines" o="none" type="node" v="5,14" />
+    <tag id="767930614" k="uic_ref" o="none" type="node" v="8590981" />
+    <tag id="767930614" k="operator" o="none" type="node" v="SBW" />
+    <tag id="767930614" k="uic_name" o="none" type="node" v="Winterthur, Ohrb&#252;hl" />
+    <tag id="767930614" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="984760867" k="bus" o="none" type="node" v="yes" />
+    <tag id="984760867" k="name" o="none" type="node" v="Tagelswangen, Gerenhalde" />
+    <tag id="984760867" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="984761377" k="bus" o="none" type="node" v="yes" />
+    <tag id="984761377" k="ele" o="none" type="node" v="612" />
+    <tag id="984761377" k="name" o="none" type="node" v="Br&#252;tten, Zentrum" />
+    <tag id="984761377" k="source" o="none" type="node" v="Bundesamt f&#252;r Verkehr (BAV), DIDOK 2009" />
+    <tag id="984761377" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="984761377" k="uic_ref" o="none" type="node" v="8506960" />
+    <tag id="984761377" k="operator" o="none" type="node" v="SBW" />
+    <tag id="984761377" k="uic_name" o="none" type="node" v="Br&#252;tten, Zentrum" />
+    <tag id="984761377" k="public_transport" o="modify" type="node" v="platform" />
+    <tag id="984761474" k="bus" o="none" type="node" v="yes" />
+    <tag id="984761474" k="ele" o="none" type="node" v="612" />
+    <tag id="984761474" k="name" o="none" type="node" v="Br&#252;tten, Hofacher" />
+    <tag id="984761474" k="source" o="none" type="node" v="Bundesamt f&#252;r Verkehr (BAV), DIDOK 2009" />
+    <tag id="984761474" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="984761474" k="uic_ref" o="none" type="node" v="8576174" />
+    <tag id="984761474" k="operator" o="none" type="node" v="SBW" />
+    <tag id="984761474" k="uic_name" o="none" type="node" v="Br&#252;tten, Hofacher" />
+    <tag id="984761474" k="public_transport" o="modify" type="node" v="platform" />
+    <tag id="984762377" k="ele" o="none" type="node" v="517" />
+    <tag id="984762377" k="name" o="none" type="node" v="Illnau, Bahnhof" />
+    <tag id="984762377" k="source" o="none" type="node" v="Bundesamt f&#252;r Verkehr (BAV), DIDOK 2009" />
+    <tag id="984762377" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="984762377" k="uic_ref" o="none" type="node" v="8575927" />
+    <tag id="984762377" k="operator" o="none" type="node" v="VBG" />
+    <tag id="984762377" k="uic_name" o="none" type="node" v="Illnau, Bahnhof" />
+    <tag id="984762377" k="wheelchair" o="none" type="node" v="limited" />
+    <tag id="984762377" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="984762738" k="bus" o="none" type="node" v="yes" />
+    <tag id="984762738" k="ele" o="none" type="node" v="515" />
+    <tag id="984762738" k="name" o="none" type="node" v="Tagelswangen, Buckstrasse" />
+    <tag id="984762738" k="source" o="none" type="node" v="Bundesamt f&#252;r Verkehr (BAV), DIDOK 2009" />
+    <tag id="984762738" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="984762738" k="uic_ref" o="none" type="node" v="8575938" />
+    <tag id="984762738" k="operator" o="none" type="node" v="VBG" />
+    <tag id="984762738" k="uic_name" o="none" type="node" v="Tagelswangen, Buckstrasse" />
+    <tag id="984762738" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="984762781" k="bus" o="none" type="node" v="yes" />
+    <tag id="984762781" k="ele" o="none" type="node" v="469" />
+    <tag id="984762781" k="name" o="none" type="node" v="Kemptthal, Bahnhof" />
+    <tag id="984762781" k="source" o="none" type="node" v="Bundesamt f&#252;r Verkehr (BAV), DIDOK 2009" />
+    <tag id="984762781" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="984762781" k="uic_ref" o="none" type="node" v="8575944" />
+    <tag id="984762781" k="operator" o="none" type="node" v="VBG" />
+    <tag id="984762781" k="uic_name" o="none" type="node" v="Kemptthal, Bahnhof" />
+    <tag id="984762781" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="1276938871" k="bus" o="add" type="node" v="yes" />
+    <tag id="1276938871" k="ele" o="none" type="node" v="460" />
+    <tag id="1276938871" k="name" o="none" type="node" v="Hegi" />
+    <tag id="1276938871" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1276938871" k="shelter" o="none" type="node" v="yes" />
+    <tag id="1276938871" k="uic_ref" o="none" type="node" v="8590919" />
+    <tag id="1276938871" k="operator" o="none" type="node" v="SBW" />
+    <tag id="1276938871" k="uic_name" o="none" type="node" v="Winterthur Hegi, Bahnhof" />
+    <tag id="1276938871" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="1493834914" k="bus" o="add" type="node" v="yes" />
+    <tag id="1493834914" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="1507924242" k="ref" o="none" type="node" v="7" />
+    <tag id="1507924242" k="name" o="none" type="node" v="Kreuzlingen Nord" />
+    <tag id="1507924242" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="1903606707" k="bus" o="none" type="node" v="yes" />
+    <tag id="1903606707" k="name" o="none" type="node" v="Riedingerstra&#223;e" />
+    <tag id="1903606707" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="1907241410" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3454343588" k="bin" o="none" type="node" v="yes" />
+    <tag id="3454343588" k="bus" o="none" type="node" v="yes" />
+    <tag id="3454343588" k="name" o="none" type="node" v="Tagelswangen, Gerenhalde" />
+    <tag id="3454343588" k="bench" o="none" type="node" v="no" />
+    <tag id="3454343588" k="shelter" o="none" type="node" v="no" />
+    <tag id="3454343588" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="3896885796" k="bus" o="none" type="node" v="yes" />
+    <tag id="3896885796" k="name" o="none" type="node" v="Chr&#252;zstrasse" />
+    <tag id="3896885796" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="3896885797" k="bus" o="none" type="node" v="yes" />
+    <tag id="3896885797" k="name" o="none" type="node" v="Chr&#252;zstrasse" />
+    <tag id="3896885797" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="3954369815" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3954369815" k="crossing" o="none" type="node" v="island" />
+    <tag id="3970049719" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3970049719" k="crossing" o="none" type="node" v="zebra" />
+    <tag id="4297108105" k="highway" o="none" type="node" v="crossing" />
+    <tag id="4447979091" k="bus" o="add" type="node" v="yes" />
+    <tag id="4447979091" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4447979091" k="name:en" o="none" type="node" v="Br&#252;tten, Hofacher" />
+    <tag id="4447979091" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="4447979091" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4448067989" k="bus" o="add" type="node" v="yes" />
+    <tag id="4448067989" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4448067989" k="name:en" o="none" type="node" v="Br&#252;tten, Harossen" />
+    <tag id="4448067989" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="4448067989" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4448068089" k="bus" o="add" type="node" v="yes" />
+    <tag id="4448068089" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4448068089" k="name:en" o="none" type="node" v="Br&#252;tten, Zentrum" />
+    <tag id="4448068089" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="4448068089" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4782369827" k="bus" o="add" type="node" v="yes" />
+    <tag id="4782369827" k="name" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782369827" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4782369827" k="name:de" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782369827" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4782369828" k="bus" o="add" type="node" v="yes" />
+    <tag id="4782369828" k="name" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782369828" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4782369828" k="name:de" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782369828" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4782370022" k="bus" o="add" type="node" v="yes" />
+    <tag id="4782370022" k="name" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782370022" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4782370022" k="name:de" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782370022" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4782372829" k="bus" o="add" type="node" v="yes" />
+    <tag id="4782372829" k="name" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782372829" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="4782372829" k="name:de" o="none" type="node" v="Hauptbahnhof" />
+    <tag id="4782372829" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="4249178" k="name" o="none" type="way" v="Seenerstrasse" />
+    <tag id="4249178" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4249178" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="4249178" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4249350" k="name" o="none" type="way" v="Bahnhofplatz" />
+    <tag id="4249350" k="highway" o="none" type="way" v="residential" />
+    <tag id="4249350" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4249350" k="motorcar" o="none" type="way" v="delivery" />
+    <tag id="4249350" k="motorcycle" o="none" type="way" v="delivery" />
+    <tag id="4249350" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="4249767" k="name" o="none" type="way" v="Ohrb&#252;hlstrasse" />
+    <tag id="4249767" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4249767" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="4249767" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4249768" k="name" o="none" type="way" v="Hofackerstrasse" />
+    <tag id="4249768" k="highway" o="none" type="way" v="residential" />
+    <tag id="4249768" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="10590417" k="name" o="none" type="way" v="Winterthurerstrasse" />
+    <tag id="10590417" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10590417" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="10590417" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="10590420" k="name" o="none" type="way" v="Winterthurerstrasse" />
+    <tag id="10590420" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10590420" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="10590769" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10590769" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="10590769" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="10634189" k="highway" o="none" type="way" v="service" />
+    <tag id="10971699" k="name" o="none" type="way" v="Chr&#252;zstrasse" />
+    <tag id="10971699" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="10971699" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="10971699" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="12541023" k="name" o="none" type="way" v="Gernstrasse" />
+    <tag id="12541023" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="12544953" k="name" o="none" type="way" v="Buckstrasse" />
+    <tag id="12544953" k="highway" o="none" type="way" v="residential" />
+    <tag id="35050229" k="name" o="none" type="way" v="Grundacherstrasse" />
+    <tag id="35050229" k="highway" o="none" type="way" v="residential" />
+    <tag id="113952358" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="128879904" k="name" o="none" type="way" v="Bahnhofplatz" />
+    <tag id="128879904" k="highway" o="none" type="way" v="residential" />
+    <tag id="128879904" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="128879904" k="motorcar" o="none" type="way" v="delivery" />
+    <tag id="128879904" k="motorcycle" o="none" type="way" v="delivery" />
+    <tag id="128879904" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="168559081" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="168559081" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="168559081" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="320867984" k="lanes" o="none" type="way" v="1" />
+    <tag id="320867984" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="320867984" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="320867984" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="320867984" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="327076987" k="name" o="none" type="way" v="Unterdorfstrasse" />
+    <tag id="327076987" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="327076987" k="turn:lanes:forward" o="none" type="way" v="left|through" />
+    <tag id="416479429" k="FIXME" o="none" type="way" v="position approximate needs resurveying" />
+    <tag id="416479429" k="highway" o="none" type="way" v="secondary" />
+    <tag id="416479429" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="508261794" k="name" o="add" type="way" v="Hofackerstrasse" />
+    <tag id="508261794" k="highway" o="add" type="way" v="residential" />
+    <tag id="508261794" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261795" k="name" o="add" type="way" v="Hofackerstrasse" />
+    <tag id="508261795" k="highway" o="add" type="way" v="residential" />
+    <tag id="508261795" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261796" k="name" o="add" type="way" v="Ohrb&#252;hlstrasse" />
+    <tag id="508261796" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261796" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261796" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261797" k="name" o="add" type="way" v="Ohrb&#252;hlstrasse" />
+    <tag id="508261797" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261797" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261797" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261798" k="name" o="add" type="way" v="Bahnhofplatz" />
+    <tag id="508261798" k="highway" o="add" type="way" v="residential" />
+    <tag id="508261798" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261798" k="motorcar" o="add" type="way" v="delivery" />
+    <tag id="508261798" k="motorcycle" o="add" type="way" v="delivery" />
+    <tag id="508261798" k="trolley_wire" o="add" type="way" v="yes" />
+    <tag id="508261799" k="amenity" o="add" type="way" v="shelter" />
+    <tag id="508261799" k="shelter_type" o="add" type="way" v="public_transport" />
+    <tag id="508261800" k="name" o="add" type="way" v="Seenerstrasse" />
+    <tag id="508261800" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261800" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261800" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261801" k="name" o="add" type="way" v="Seenerstrasse" />
+    <tag id="508261801" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261801" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261801" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261802" k="highway" o="add" type="way" v="service" />
+    <tag id="508261803" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="508261804" k="name" o="add" type="way" v="Gernstrasse" />
+    <tag id="508261804" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261805" k="name" o="add" type="way" v="Unterdorfstrasse" />
+    <tag id="508261805" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261805" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="508261806" k="amenity" o="add" type="way" v="shelter" />
+    <tag id="508261806" k="shelter_type" o="add" type="way" v="public_transport" />
+    <tag id="508261807" k="name" o="add" type="way" v="Bahnhofplatz" />
+    <tag id="508261807" k="highway" o="add" type="way" v="residential" />
+    <tag id="508261807" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261807" k="motorcar" o="add" type="way" v="delivery" />
+    <tag id="508261807" k="motorcycle" o="add" type="way" v="delivery" />
+    <tag id="508261807" k="trolley_wire" o="add" type="way" v="yes" />
+    <tag id="508261808" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261808" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261808" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261809" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261809" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261809" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261810" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261810" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261810" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261811" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261811" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261811" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261812" k="name" o="add" type="way" v="Winterthurerstrasse" />
+    <tag id="508261812" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261812" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261812" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261813" k="name" o="add" type="way" v="Winterthurerstrasse" />
+    <tag id="508261813" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261813" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261813" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261814" k="amenity" o="add" type="way" v="shelter" />
+    <tag id="508261814" k="shelter_type" o="add" type="way" v="public_transport" />
+    <tag id="508261815" k="name" o="add" type="way" v="Chr&#252;zstrasse" />
+    <tag id="508261815" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261815" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261815" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261816" k="FIXME" o="add" type="way" v="position approximate needs resurveying" />
+    <tag id="508261816" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261816" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261817" k="FIXME" o="add" type="way" v="position approximate needs resurveying" />
+    <tag id="508261817" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261817" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261818" k="FIXME" o="add" type="way" v="position approximate needs resurveying" />
+    <tag id="508261818" k="highway" o="add" type="way" v="secondary" />
+    <tag id="508261818" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261819" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261819" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261819" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261820" k="name" o="add" type="way" v="Gestenrietstrasse" />
+    <tag id="508261820" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261820" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261820" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261821" k="lanes" o="add" type="way" v="1" />
+    <tag id="508261821" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261821" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="508261821" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261821" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261822" k="lanes" o="add" type="way" v="1" />
+    <tag id="508261822" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261822" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="508261822" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261822" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="508261823" k="lanes" o="add" type="way" v="1" />
+    <tag id="508261823" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="508261823" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="508261823" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="508261823" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="66866" k="to" o="none" type="relation" v="Hegi/St&#228;ffelistrasse" />
+    <tag id="66866" k="ref" o="none" type="relation" v="14" />
+    <tag id="66866" k="from" o="add" type="relation" v="Bahnhof" />
+    <tag id="66866" k="name" o="none" type="relation" v="Bus 14: Bahnhof =&gt; Hegi/St&#228;ffelistrasse" />
+    <tag id="66866" k="type" o="none" type="relation" v="route" />
+    <tag id="66866" k="route" o="none" type="relation" v="bus" />
+    <tag id="66866" k="colour" o="none" type="relation" v="#F7E229" />
+    <tag id="66866" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="66866" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="66866" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="103192" k="ref" o="none" type="relation" v="15" />
+    <tag id="103192" k="type" o="none" type="relation" v="route" />
+    <tag id="103192" k="route" o="none" type="relation" v="bus" />
+    <tag id="103192" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="148022" k="ref" o="none" type="relation" v="45" />
+    <tag id="148022" k="name" o="none" type="relation" v="rcn 45 - Etappe 2 (Winterthur-Z&#252;rich)" />
+    <tag id="148022" k="note" o="none" type="relation" v="imported from rcn_ref=45" />
+    <tag id="148022" k="type" o="none" type="relation" v="route" />
+    <tag id="148022" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="148022" k="network" o="none" type="relation" v="rcn" />
+    <tag id="148022" k="operator" o="none" type="relation" v="Veloland Schweiz" />
+    <tag id="312284" k="ref" o="none" type="relation" v="765" />
+    <tag id="312284" k="name" o="none" type="relation" v="Bus 765: Br&#252;ttisellen, Bahnhof/Bad - Z&#252;rich Flughafen, Bahnhof" />
+    <tag id="312284" k="type" o="none" type="relation" v="route" />
+    <tag id="312284" k="fixme" o="none" type="relation" v="Route bei Bassersdorf Bahnhof" />
+    <tag id="312284" k="route" o="none" type="relation" v="bus" />
+    <tag id="312284" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="312284" k="operator" o="none" type="relation" v="VBG" />
+    <tag id="312284" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="312284" k="public_transport:version" o="add" type="relation" v="1" />
+    <tag id="405080" k="to" o="none" type="relation" v="D&#228;ttnau" />
+    <tag id="405080" k="ref" o="none" type="relation" v="5" />
+    <tag id="405080" k="from" o="none" type="relation" v="Technorama" />
+    <tag id="405080" k="name" o="none" type="relation" v="Bus 5: Technorama =&gt; D&#228;ttnau" />
+    <tag id="405080" k="type" o="none" type="relation" v="route" />
+    <tag id="405080" k="route" o="none" type="relation" v="bus" />
+    <tag id="405080" k="colour" o="none" type="relation" v="#0086C6" />
+    <tag id="405080" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="405080" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="405080" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="552459" k="name" o="none" type="relation" v="Z&#252;rich Seebach-Opfikon-Bassersdorf-N&#252;rensdorf-Winterthur" />
+    <tag id="552459" k="type" o="none" type="relation" v="route" />
+    <tag id="552459" k="route" o="none" type="relation" v="hiking" />
+    <tag id="552459" k="symbol" o="none" type="relation" v="gelber Diamant" />
+    <tag id="552459" k="network" o="none" type="relation" v="lwn" />
+    <tag id="552459" k="operator" o="none" type="relation" v="Z&#252;rcher Wanderwege ZAW" />
+    <tag id="552459" k="osmc:symbol" o="none" type="relation" v="yellow::yellow_diamond" />
+    <tag id="934315" k="to" o="none" type="relation" v="Bruderhaus" />
+    <tag id="934315" k="ref" o="none" type="relation" v="12" />
+    <tag id="934315" k="from" o="none" type="relation" v="Hauptbahnhof" />
+    <tag id="934315" k="type" o="none" type="relation" v="route" />
+    <tag id="934315" k="route" o="none" type="relation" v="bus" />
+    <tag id="934315" k="colour" o="none" type="relation" v="#855B37" />
+    <tag id="934315" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="934315" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="1147603" k="ref" o="none" type="relation" v="733" />
+    <tag id="1147603" k="name" o="none" type="relation" v="Bus 733: Z&#252;rich Flughafen, Bahnhof - Kloten, Graswinkel" />
+    <tag id="1147603" k="type" o="none" type="relation" v="route" />
+    <tag id="1147603" k="route" o="none" type="relation" v="bus" />
+    <tag id="1147603" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="1147603" k="operator" o="none" type="relation" v="VBG" />
+    <tag id="1147603" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="1189102" k="name" o="none" type="relation" v="Hofackerstrasse" />
+    <tag id="1189102" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="1577079" k="name" o="none" type="relation" v="Seenerstrasse" />
+    <tag id="1577079" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="1577080" k="name" o="none" type="relation" v="Ohrb&#252;hlstrasse" />
+    <tag id="1577080" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="2223109" k="to" o="none" type="relation" v="Technorama" />
+    <tag id="2223109" k="ref" o="none" type="relation" v="5" />
+    <tag id="2223109" k="from" o="none" type="relation" v="D&#228;ttnau" />
+    <tag id="2223109" k="name" o="none" type="relation" v="Bus 5: D&#228;ttnau =&gt; Technorama (abend)" />
+    <tag id="2223109" k="type" o="none" type="relation" v="route" />
+    <tag id="2223109" k="route" o="none" type="relation" v="bus" />
+    <tag id="2223109" k="colour" o="none" type="relation" v="#0086C6" />
+    <tag id="2223109" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2223109" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="2223109" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2223110" k="to" o="none" type="relation" v="Technorama" />
+    <tag id="2223110" k="ref" o="none" type="relation" v="5" />
+    <tag id="2223110" k="from" o="none" type="relation" v="D&#228;ttnau" />
+    <tag id="2223110" k="name" o="none" type="relation" v="Bus 5: D&#228;ttnau =&gt; Technorama" />
+    <tag id="2223110" k="type" o="none" type="relation" v="route" />
+    <tag id="2223110" k="route" o="none" type="relation" v="bus" />
+    <tag id="2223110" k="colour" o="none" type="relation" v="#0086C6" />
+    <tag id="2223110" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2223110" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="2223110" k="colour_code" o="none" type="relation" v="#00A4DB" />
+    <tag id="2223110" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2841832" k="to" o="none" type="relation" v="Breite b. N., Winterthurerstrasse" />
+    <tag id="2841832" k="ref" o="none" type="relation" v="658" />
+    <tag id="2841832" k="from" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2841832" k="type" o="none" type="relation" v="route" />
+    <tag id="2841832" k="route" o="none" type="relation" v="bus" />
+    <tag id="2841832" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2841832" k="operator" o="none" type="relation" v="Stadtbus Winterthur" />
+    <tag id="2841832" k="description" o="none" type="relation" v="Effretikon, Bahnhof =&gt; Breite b. N., Winterthurerstrasse" />
+    <tag id="2841832" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2882627" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2882627" k="ref" o="none" type="relation" v="650" />
+    <tag id="2882627" k="from" o="none" type="relation" v="Kemptthal, Bahnhof" />
+    <tag id="2882627" k="name" o="none" type="relation" v="650 Kemptthal, Bhf - Effretikon, Bhf via Lindau - Tagelswangen, Dorf" />
+    <tag id="2882627" k="type" o="none" type="relation" v="route" />
+    <tag id="2882627" k="route" o="none" type="relation" v="bus" />
+    <tag id="2882627" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2883770" k="to" o="none" type="relation" v="Kemptthal, Bahnhof" />
+    <tag id="2883770" k="ref" o="none" type="relation" v="650" />
+    <tag id="2883770" k="from" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2883770" k="name" o="none" type="relation" v="650 Effretikon, Bahnhof - Kemptthal, Bahnhof via Lindau" />
+    <tag id="2883770" k="type" o="none" type="relation" v="route" />
+    <tag id="2883770" k="route" o="none" type="relation" v="bus" />
+    <tag id="2883770" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2884257" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2884257" k="ref" o="none" type="relation" v="652" />
+    <tag id="2884257" k="from" o="none" type="relation" v="Illnau, Bahnhof" />
+    <tag id="2884257" k="type" o="none" type="relation" v="route" />
+    <tag id="2884257" k="route" o="none" type="relation" v="bus" />
+    <tag id="2884257" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2884257" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2884257" k="description" o="none" type="relation" v="Illnau, Bahnhof =&gt; Effretikon, Bahnhof" />
+    <tag id="2884257" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2893460" k="to" o="none" type="relation" v="Illnau, Bahnhof" />
+    <tag id="2893460" k="ref" o="none" type="relation" v="652" />
+    <tag id="2893460" k="from" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2893460" k="type" o="none" type="relation" v="route" />
+    <tag id="2893460" k="route" o="none" type="relation" v="bus" />
+    <tag id="2893460" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2893460" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2893460" k="description" o="none" type="relation" v="Effretikon, Bahnhof =&gt; Illnau, BAhnhof" />
+    <tag id="2893460" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2893948" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2893948" k="ref" o="none" type="relation" v="658" />
+    <tag id="2893948" k="from" o="none" type="relation" v="Breite b. N., Sternen" />
+    <tag id="2893948" k="type" o="none" type="relation" v="route" />
+    <tag id="2893948" k="route" o="none" type="relation" v="bus" />
+    <tag id="2893948" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2893948" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2893948" k="description" o="none" type="relation" v="Breite b. N., Sternen =&gt; Effretikon, Bahnhof" />
+    <tag id="2893948" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2894071" k="ref" o="modify" type="relation" v="660" />
+    <tag id="2894071" k="name" o="none" type="relation" v="Bus 660: Bassersdorf, Bahnhof =&gt; Winterthur, Hauptbahnhof" />
+    <tag id="2894071" k="type" o="none" type="relation" v="route" />
+    <tag id="2894071" k="route" o="none" type="relation" v="bus" />
+    <tag id="2894071" k="operator" o="none" type="relation" v="SBW" />
+    <tag id="2894071" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2896448" k="ref" o="none" type="relation" v="Bus 660" />
+    <tag id="2896448" k="name" o="none" type="relation" v="Bus 660: Winterthur, Hauptbahnhof =&gt; Bassersdorf, Bahnhof" />
+    <tag id="2896448" k="type" o="none" type="relation" v="route" />
+    <tag id="2896448" k="route" o="none" type="relation" v="bus" />
+    <tag id="2896448" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2896448" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2896448" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2896551" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2896551" k="ref" o="none" type="relation" v="662" />
+    <tag id="2896551" k="from" o="none" type="relation" v="Br&#252;tten, Harossen" />
+    <tag id="2896551" k="type" o="none" type="relation" v="route" />
+    <tag id="2896551" k="route" o="none" type="relation" v="bus" />
+    <tag id="2896551" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2896551" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2896551" k="description" o="none" type="relation" v="Br&#252;tten, Harossen =&gt; Effretikon, Bahnhof" />
+    <tag id="2896551" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2896581" k="to" o="none" type="relation" v="Br&#252;tten, Harossen" />
+    <tag id="2896581" k="ref" o="none" type="relation" v="662" />
+    <tag id="2896581" k="from" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="2896581" k="type" o="none" type="relation" v="route" />
+    <tag id="2896581" k="route" o="none" type="relation" v="bus" />
+    <tag id="2896581" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2896581" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2896581" k="description" o="none" type="relation" v="Effretikon, Bahnhof =&gt; Br&#252;tten, Harossen" />
+    <tag id="2896581" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2926371" k="ref" o="none" type="relation" v="Bus 766" />
+    <tag id="2926371" k="name" o="none" type="relation" v="Bus 766: Bassersdorf, Bahnhof =&gt; Kloten, Bahnhof" />
+    <tag id="2926371" k="type" o="none" type="relation" v="route" />
+    <tag id="2926371" k="route" o="none" type="relation" v="bus" />
+    <tag id="2926371" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2926371" k="operator" o="none" type="relation" v="VBG" />
+    <tag id="2926371" k="public_transport" o="none" type="relation" v="2" />
+    <tag id="2926392" k="ref" o="none" type="relation" v="766" />
+    <tag id="2926392" k="name" o="none" type="relation" v="Bus 766: Kloten, Bahnhof =&gt; Bassersdorf, Bahnhof" />
+    <tag id="2926392" k="type" o="none" type="relation" v="route" />
+    <tag id="2926392" k="route" o="none" type="relation" v="bus" />
+    <tag id="2926392" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2926392" k="operator" o="none" type="relation" v="VBG" />
+    <tag id="2926392" k="public_transport" o="none" type="relation" v="2" />
+    <tag id="2926560" k="ref" o="none" type="relation" v="Bus 767" />
+    <tag id="2926560" k="name" o="none" type="relation" v="Bus 767: Bassersdorf, Bahnhof =&gt; Br&#252;tten, Hofacher" />
+    <tag id="2926560" k="type" o="none" type="relation" v="route" />
+    <tag id="2926560" k="route" o="none" type="relation" v="bus" />
+    <tag id="2926560" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2926560" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2926560" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2926604" k="ref" o="none" type="relation" v="Bus 767" />
+    <tag id="2926604" k="name" o="none" type="relation" v="Bus 767: Br&#252;tten, Zelgli =&gt; Bassersdorf, Bahnhof" />
+    <tag id="2926604" k="type" o="none" type="relation" v="route" />
+    <tag id="2926604" k="route" o="none" type="relation" v="bus" />
+    <tag id="2926604" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="2926604" k="operator" o="none" type="relation" v="PAG" />
+    <tag id="2926604" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4781344" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="4781344" k="ref" o="none" type="relation" v="650" />
+    <tag id="4781344" k="from" o="none" type="relation" v="Kemptthal, Bahnhof" />
+    <tag id="4781344" k="name" o="none" type="relation" v="650 Kemptthal, Bhf - Effretikon, Bhf via Lindau - Tagelswangen, Herdlen" />
+    <tag id="4781344" k="type" o="none" type="relation" v="route" />
+    <tag id="4781344" k="route" o="none" type="relation" v="bus" />
+    <tag id="4781344" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5746933" k="to" o="none" type="relation" v="Breite bei N&#252;rensdorf" />
+    <tag id="5746933" k="ref" o="none" type="relation" v="656" />
+    <tag id="5746933" k="from" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="5746933" k="type" o="none" type="relation" v="route" />
+    <tag id="5746933" k="route" o="none" type="relation" v="bus" />
+    <tag id="5746933" k="network" o="none" type="relation" v="ZVV" />
+    <tag id="5746933" k="operator" o="none" type="relation" v="VBG" />
+    <tag id="5746933" k="description" o="none" type="relation" v="Effretikon, Bahnhof =&gt; Breite b. N." />
+    <tag id="5746933" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5746934" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="5746934" k="ref" o="none" type="relation" v="656" />
+    <tag id="5746934" k="from" o="none" type="relation" v="Breite bei N&#252;rensdorf" />
+    <tag id="5746934" k="type" o="none" type="relation" v="route" />
+    <tag id="5746934" k="route" o="none" type="relation" v="bus" />
+    <tag id="5746934" k="description" o="none" type="relation" v="Breite b. N. =&gt; Effretikon, Bahnhof" />
+    <tag id="5746934" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5748960" k="to" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="5748960" k="ref" o="none" type="relation" v="655" />
+    <tag id="5748960" k="from" o="none" type="relation" v="Kyburg, Gemeindehaus" />
+    <tag id="5748960" k="type" o="none" type="relation" v="route" />
+    <tag id="5748960" k="route" o="none" type="relation" v="bus" />
+    <tag id="5748960" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5748961" k="to" o="none" type="relation" v="Kyburg, Gemeindehaus" />
+    <tag id="5748961" k="ref" o="none" type="relation" v="655" />
+    <tag id="5748961" k="from" o="none" type="relation" v="Effretikon, Bahnhof" />
+    <tag id="5748961" k="type" o="none" type="relation" v="route" />
+    <tag id="5748961" k="route" o="none" type="relation" v="bus" />
+    <tag id="5748961" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7401220" k="to" o="add" type="relation" v="Bahnhof" />
+    <tag id="7401220" k="ref" o="add" type="relation" v="14" />
+    <tag id="7401220" k="from" o="add" type="relation" v="Hegi/St&#228;ffelistrasse" />
+    <tag id="7401220" k="name" o="add" type="relation" v="Bus 14: Hegi/St&#228;ffelistrasse =&gt; Bahnhof" />
+    <tag id="7401220" k="type" o="add" type="relation" v="route" />
+    <tag id="7401220" k="route" o="add" type="relation" v="bus" />
+    <tag id="7401220" k="colour" o="add" type="relation" v="#F7E229" />
+    <tag id="7401220" k="network" o="add" type="relation" v="ZVV" />
+    <tag id="7401220" k="operator" o="add" type="relation" v="Stadtbus Winterthur" />
+    <tag id="7401220" k="public_transport:version" o="add" type="relation" v="2" />
+  </body>
+</changeset>

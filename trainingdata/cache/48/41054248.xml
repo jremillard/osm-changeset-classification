@@ -1,0 +1,411 @@
+<changeset id="41054248" schema="2">
+  <counts nodesAdded="0" nodesDeleted="53" nodesModified="0" relationsAdded="0" relationsDeleted="1" relationsModified="1" waysAdded="0" waysDeleted="1" waysModified="60" />
+  <meta>
+    <tag k="comment" v="Moved addresses to buildings, fixed bugs." />
+    <tag k="created_by" v="Vespucci 0.9.7.1.1141" />
+  </meta>
+  <body>
+    <tag id="40297173" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297173" k="building" o="none" type="way" v="yes" />
+    <tag id="40297173" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297173" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40297173" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297173" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297173" k="addr:housenumber" o="add" type="way" v="6" />
+    <tag id="40297174" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297174" k="building" o="none" type="way" v="garages" />
+    <tag id="40297174" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297174" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="40297174" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297174" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297174" k="addr:housenumber" o="add" type="way" v="26a" />
+    <tag id="40297179" k="name" o="add" type="way" v="Tiefgarage" />
+    <tag id="40297179" k="layer" o="add" type="way" v="-1" />
+    <tag id="40297179" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297179" k="amenity" o="add" type="way" v="parking_entrance" />
+    <tag id="40297179" k="parking" o="add" type="way" v="underground" />
+    <tag id="40297179" k="building" o="none" type="way" v="roof" />
+    <tag id="40297179" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297179" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="40297179" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297179" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297179" k="addr:housenumber" o="add" type="way" v="4a" />
+    <tag id="40297181" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297181" k="building" o="none" type="way" v="residential" />
+    <tag id="40297181" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297181" k="addr:street" o="add" type="way" v="Wernerstrasse" />
+    <tag id="40297181" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297181" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297181" k="addr:housenumber" o="add" type="way" v="17" />
+    <tag id="40297182" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297182" k="building" o="none" type="way" v="yes" />
+    <tag id="40297182" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297182" k="addr:street" o="add" type="way" v="Wernerstrasse" />
+    <tag id="40297182" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297182" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297182" k="addr:housenumber" o="add" type="way" v="15" />
+    <tag id="40297183" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297183" k="building" o="none" type="way" v="residential" />
+    <tag id="40297183" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297183" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="40297183" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297183" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297183" k="addr:housenumber" o="add" type="way" v="10" />
+    <tag id="40297184" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297184" k="building" o="none" type="way" v="yes" />
+    <tag id="40297184" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297184" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="40297184" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297184" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297184" k="addr:housenumber" o="add" type="way" v="12a" />
+    <tag id="40297186" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297186" k="building" o="none" type="way" v="yes" />
+    <tag id="40297186" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297186" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="40297186" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297186" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297186" k="addr:housenumber" o="add" type="way" v="24a" />
+    <tag id="40297188" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40297188" k="building" o="none" type="way" v="yes" />
+    <tag id="40297188" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40297188" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40297188" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40297188" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40297188" k="addr:housenumber" o="add" type="way" v="7" />
+    <tag id="40323191" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40323191" k="building" o="none" type="way" v="garages" />
+    <tag id="40323191" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40323191" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="40323191" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40323191" k="addr:postcode" o="add" type="way" v="3600" />
+    <tag id="40323191" k="addr:housenumber" o="add" type="way" v="34a" />
+    <tag id="40323193" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40323193" k="building" o="none" type="way" v="residential" />
+    <tag id="40323193" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40323193" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="40323193" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40323193" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40323193" k="addr:housenumber" o="add" type="way" v="36a" />
+    <tag id="40324453" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324453" k="building" o="none" type="way" v="yes" />
+    <tag id="40324453" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324453" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324453" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324453" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324453" k="addr:housenumber" o="add" type="way" v="22" />
+    <tag id="40324456" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324456" k="building" o="none" type="way" v="yes" />
+    <tag id="40324456" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324456" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324456" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324456" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324456" k="addr:housenumber" o="add" type="way" v="20" />
+    <tag id="40324461" k="name" o="none" type="way" v="Residenz Brasilien" />
+    <tag id="40324461" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324461" k="amenity" o="none" type="way" v="embassy" />
+    <tag id="40324461" k="country" o="none" type="way" v="BR" />
+    <tag id="40324461" k="building" o="none" type="way" v="yes" />
+    <tag id="40324461" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324461" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324461" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324461" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324461" k="addr:housenumber" o="add" type="way" v="14" />
+    <tag id="40324465" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324465" k="building" o="none" type="way" v="yes" />
+    <tag id="40324465" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324465" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324465" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324465" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324465" k="addr:housenumber" o="add" type="way" v="10b" />
+    <tag id="40324466" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324466" k="building" o="none" type="way" v="yes" />
+    <tag id="40324466" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324466" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324466" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324466" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324466" k="addr:housenumber" o="add" type="way" v="10a" />
+    <tag id="40324469" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324469" k="building" o="none" type="way" v="yes" />
+    <tag id="40324469" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324469" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324469" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324469" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324469" k="addr:housenumber" o="add" type="way" v="8a" />
+    <tag id="40324470" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324470" k="building" o="none" type="way" v="yes" />
+    <tag id="40324470" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324470" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324470" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324470" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324470" k="addr:housenumber" o="add" type="way" v="8" />
+    <tag id="40324471" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324471" k="building" o="none" type="way" v="yes" />
+    <tag id="40324471" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324471" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324471" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324471" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324471" k="addr:housenumber" o="add" type="way" v="8b" />
+    <tag id="40324685" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324685" k="building" o="none" type="way" v="yes" />
+    <tag id="40324685" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324685" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324685" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324685" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324685" k="addr:housenumber" o="add" type="way" v="9" />
+    <tag id="40324686" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324686" k="building" o="none" type="way" v="yes" />
+    <tag id="40324686" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324686" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324686" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324686" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324686" k="addr:housenumber" o="add" type="way" v="11" />
+    <tag id="40324688" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324688" k="building" o="none" type="way" v="yes" />
+    <tag id="40324688" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324688" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324688" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324688" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324688" k="addr:housenumber" o="add" type="way" v="21" />
+    <tag id="40324689" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40324689" k="building" o="none" type="way" v="yes" />
+    <tag id="40324689" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40324689" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="40324689" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40324689" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40324689" k="addr:housenumber" o="add" type="way" v="23" />
+    <tag id="40347117" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347117" k="building" o="none" type="way" v="yes" />
+    <tag id="40347117" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347117" k="addr:street" o="add" type="way" v="Thunstrasse" />
+    <tag id="40347117" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347117" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347117" k="addr:housenumber" o="add" type="way" v="60a" />
+    <tag id="40347118" k="name" o="none" type="way" v="Botschaft Vatikan" />
+    <tag id="40347118" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347118" k="amenity" o="none" type="way" v="embassy" />
+    <tag id="40347118" k="country" o="none" type="way" v="VA" />
+    <tag id="40347118" k="building" o="none" type="way" v="yes" />
+    <tag id="40347118" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347118" k="addr:street" o="add" type="way" v="Thunstrasse" />
+    <tag id="40347118" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347118" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347118" k="addr:housenumber" o="add" type="way" v="60" />
+    <tag id="40347128" k="name" o="none" type="way" v="Botschaft Iran" />
+    <tag id="40347128" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347128" k="amenity" o="none" type="way" v="embassy" />
+    <tag id="40347128" k="country" o="none" type="way" v="IR" />
+    <tag id="40347128" k="building" o="none" type="way" v="yes" />
+    <tag id="40347128" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347128" k="addr:street" o="add" type="way" v="Thunstrasse" />
+    <tag id="40347128" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347128" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347128" k="addr:housenumber" o="add" type="way" v="68" />
+    <tag id="40347138" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347138" k="building" o="none" type="way" v="yes" />
+    <tag id="40347138" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347138" k="addr:street" o="add" type="way" v="Beatusstrasse" />
+    <tag id="40347138" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347138" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347138" k="addr:housenumber" o="add" type="way" v="18" />
+    <tag id="40347139" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347139" k="building" o="none" type="way" v="yes" />
+    <tag id="40347139" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347139" k="addr:street" o="add" type="way" v="Beatusstrasse" />
+    <tag id="40347139" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347139" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347139" k="addr:housenumber" o="add" type="way" v="18a" />
+    <tag id="40347140" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347140" k="building" o="none" type="way" v="yes" />
+    <tag id="40347140" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347140" k="addr:street" o="add" type="way" v="Beatusstrasse" />
+    <tag id="40347140" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347140" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347140" k="addr:housenumber" o="add" type="way" v="19" />
+    <tag id="40347141" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347141" k="building" o="none" type="way" v="yes" />
+    <tag id="40347141" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347141" k="addr:street" o="add" type="way" v="Beatusstrasse" />
+    <tag id="40347141" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347141" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347141" k="addr:housenumber" o="add" type="way" v="17" />
+    <tag id="40347142" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347142" k="building" o="none" type="way" v="yes" />
+    <tag id="40347142" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347142" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="40347142" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347142" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347142" k="addr:housenumber" o="add" type="way" v="27" />
+    <tag id="40347145" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347145" k="building" o="none" type="way" v="yes" />
+    <tag id="40347145" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347145" k="addr:street" o="add" type="way" v="Thunstrasse" />
+    <tag id="40347145" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347145" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347145" k="addr:housenumber" o="add" type="way" v="94a" />
+    <tag id="40347149" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347149" k="building" o="none" type="way" v="yes" />
+    <tag id="40347149" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347149" k="addr:street" o="add" type="way" v="Elfenstrasse" />
+    <tag id="40347149" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347149" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347149" k="addr:housenumber" o="add" type="way" v="19" />
+    <tag id="40347152" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347152" k="building" o="none" type="way" v="yes" />
+    <tag id="40347152" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347152" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="40347152" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347152" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347152" k="addr:housenumber" o="add" type="way" v="35" />
+    <tag id="40347153" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347153" k="building" o="none" type="way" v="yes" />
+    <tag id="40347153" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347153" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="40347153" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347153" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347153" k="addr:housenumber" o="add" type="way" v="33" />
+    <tag id="40347157" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40347157" k="building" o="none" type="way" v="yes" />
+    <tag id="40347157" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40347157" k="addr:street" o="add" type="way" v="Beatusstrasse" />
+    <tag id="40347157" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40347157" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40347157" k="addr:housenumber" o="add" type="way" v="32a" />
+    <tag id="40353839" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40353839" k="building" o="none" type="way" v="garage" />
+    <tag id="40353839" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40353839" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="40353839" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40353839" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="40353839" k="addr:housenumber" o="add" type="way" v="32b" />
+    <tag id="40886751" k="is_in" o="add" type="way" v="Tierpark D&#228;hlh&#246;lzli Bern" />
+    <tag id="40886751" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40886751" k="building" o="none" type="way" v="yes" />
+    <tag id="40886751" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40886751" k="addr:street" o="add" type="way" v="Tierparkweg" />
+    <tag id="40886751" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40886751" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="40886751" k="addr:housenumber" o="add" type="way" v="3t" />
+    <tag id="40886752" k="is_in" o="add" type="way" v="Tierpark D&#228;hlh&#246;lzli Bern" />
+    <tag id="40886752" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40886752" k="building" o="none" type="way" v="yes" />
+    <tag id="40886752" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40886752" k="addr:street" o="add" type="way" v="Tierparkweg" />
+    <tag id="40886752" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40886752" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="40886752" k="addr:housenumber" o="add" type="way" v="3l" />
+    <tag id="40886753" k="is_in" o="modify" type="way" v="Tierpark D&#228;hlh&#246;lzli Bern" />
+    <tag id="40886753" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="40886753" k="building" o="none" type="way" v="yes" />
+    <tag id="40886753" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="40886753" k="addr:street" o="add" type="way" v="Tierparkweg" />
+    <tag id="40886753" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="40886753" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="40886753" k="addr:housenumber" o="add" type="way" v="3m" />
+    <tag id="40913867" k="name" o="none" type="way" v="Jubil&#228;umsstrasse" />
+    <tag id="40913867" k="highway" o="none" type="way" v="residential" />
+    <tag id="40913870" k="name" o="modify" type="way" v="Jubil&#228;umsstrasse" />
+    <tag id="40913870" k="highway" o="none" type="way" v="residential" />
+    <tag id="114689368" k="source" o="none" type="way" v="Orthophoto Bing" />
+    <tag id="114689368" k="building" o="none" type="way" v="yes" />
+    <tag id="114689368" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="114689368" k="addr:street" o="add" type="way" v="Tierparkweg" />
+    <tag id="114689368" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="114689368" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="114689368" k="addr:housenumber" o="add" type="way" v="3x" />
+    <tag id="115214305" k="bicycle" o="none" type="way" v="no" />
+    <tag id="115214305" k="highway" o="none" type="way" v="footway" />
+    <tag id="115214305" k="surface" o="none" type="way" v="paved" />
+    <tag id="116270677" k="source" o="none" type="way" v="Orthofoto bing" />
+    <tag id="116270677" k="building" o="none" type="way" v="yes" />
+    <tag id="116270677" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="116270677" k="addr:street" o="add" type="way" v="Jubil&#228;umsstrasse" />
+    <tag id="116270677" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="116270677" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="116270677" k="addr:housenumber" o="add" type="way" v="101b" />
+    <tag id="168349026" k="highway" o="none" type="way" v="footway" />
+    <tag id="168349026" k="surface" o="none" type="way" v="paved" />
+    <tag id="210620599" k="area" o="none" type="way" v="yes" />
+    <tag id="210620599" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="210627187" k="is_in" o="add" type="way" v="Tierpark D&#228;hlh&#246;lzli Bern" />
+    <tag id="210627187" k="source" o="none" type="way" v="bing, local knowledge" />
+    <tag id="210627187" k="building" o="none" type="way" v="yes" />
+    <tag id="210627187" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="210627187" k="addr:street" o="add" type="way" v="Tierparkweg" />
+    <tag id="210627187" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="210627187" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="210627187" k="addr:housenumber" o="add" type="way" v="3z" />
+    <tag id="210642170" k="area" o="none" type="way" v="yes" />
+    <tag id="210642170" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="251834920" k="building" o="none" type="way" v="yes" />
+    <tag id="251834920" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="251834920" k="addr:street" o="add" type="way" v="Thunplatz" />
+    <tag id="251834920" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="251834920" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="251834920" k="addr:housenumber" o="add" type="way" v="1" />
+    <tag id="253390869" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="253390869" k="building" o="none" type="way" v="roof" />
+    <tag id="253390869" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="253390869" k="addr:street" o="add" type="way" v="Tierparkweg" />
+    <tag id="253390869" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="253390869" k="addr:postcode" o="add" type="way" v="3005" />
+    <tag id="253390869" k="addr:housenumber" o="add" type="way" v="1b" />
+    <tag id="268290102" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="268290102" k="building" o="none" type="way" v="yes" />
+    <tag id="268290102" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="268290102" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="268290102" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="268290102" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="268290102" k="addr:housenumber" o="add" type="way" v="12a" />
+    <tag id="268290119" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="268290119" k="building" o="none" type="way" v="yes" />
+    <tag id="268290119" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="268290119" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="268290119" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="268290119" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="268290119" k="addr:housenumber" o="add" type="way" v="14b" />
+    <tag id="305465806" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="305465806" k="amenity" o="none" type="way" v="shelter" />
+    <tag id="305465806" k="building" o="none" type="way" v="roof" />
+    <tag id="305465806" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="305465806" k="addr:street" o="add" type="way" v="Brunnadernstrasse" />
+    <tag id="305465806" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="305465806" k="shelter_type" o="none" type="way" v="public_transport" />
+    <tag id="305465806" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="305465806" k="addr:housenumber" o="add" type="way" v="40a" />
+    <tag id="329799882" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="329799882" k="building" o="none" type="way" v="garages" />
+    <tag id="329799882" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="329799882" k="addr:street" o="add" type="way" v="Wernerstrasse" />
+    <tag id="329799882" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="329799882" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="329799882" k="addr:housenumber" o="add" type="way" v="6a" />
+    <tag id="329799883" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="329799883" k="building" o="none" type="way" v="garage" />
+    <tag id="329799883" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="329799883" k="addr:street" o="add" type="way" v="Kalcheggweg" />
+    <tag id="329799883" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="329799883" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="329799883" k="addr:housenumber" o="add" type="way" v="7a" />
+    <tag id="329799884" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="329799884" k="building" o="none" type="way" v="yes" />
+    <tag id="329799884" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="329799884" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="329799884" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="329799884" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="329799884" k="addr:housenumber" o="add" type="way" v="30" />
+    <tag id="329799886" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="329799886" k="building" o="none" type="way" v="yes" />
+    <tag id="329799886" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="329799886" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="329799886" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="329799886" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="329799886" k="addr:housenumber" o="add" type="way" v="26" />
+    <tag id="329799887" k="source" o="none" type="way" v="Orthofotos Bern" />
+    <tag id="329799887" k="building" o="none" type="way" v="yes" />
+    <tag id="329799887" k="addr:city" o="add" type="way" v="Bern" />
+    <tag id="329799887" k="addr:street" o="add" type="way" v="Staufferstrasse" />
+    <tag id="329799887" k="addr:country" o="add" type="way" v="CH" />
+    <tag id="329799887" k="addr:postcode" o="add" type="way" v="3006" />
+    <tag id="329799887" k="addr:housenumber" o="add" type="way" v="26" />
+  </body>
+</changeset>

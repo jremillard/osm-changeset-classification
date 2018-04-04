@@ -1,0 +1,283 @@
+<changeset id="35223510" schema="2">
+  <counts nodesAdded="6" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="2" waysDeleted="3" waysModified="32" />
+  <meta>
+    <tag k="build" v="2.4-12-g7158c69" />
+    <tag k="comment" v="Einbahn Eignerstra&#223;e nach falscher Wisepilot-Navigation" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.4" />
+  </meta>
+  <body>
+    <tag id="26041383" k="name" o="none" type="node" v="Linz" />
+    <tag id="26041383" k="traffic_sign" o="none" type="node" v="city_limit" />
+    <tag id="5934196" k="name" o="add" type="way" v="A7 Wien Salzburg Linz-SW" />
+    <tag id="5934196" k="lanes" o="none" type="way" v="1" />
+    <tag id="5934196" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5934196" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5934196" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="5936265" k="name" o="add" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="5936265" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="5936265" k="lanes" o="none" type="way" v="1" />
+    <tag id="5936265" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5936265" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5936265" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="5936265" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="5936266" k="name" o="add" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="5936266" k="lanes" o="none" type="way" v="1" />
+    <tag id="5936266" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5936266" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5936266" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="8011084" k="name" o="add" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="8011084" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="8011084" k="lanes" o="none" type="way" v="2" />
+    <tag id="8011084" k="layer" o="none" type="way" v="-1" />
+    <tag id="8011084" k="oneway" o="none" type="way" v="yes" />
+    <tag id="8011084" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="8011084" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="8011084" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="8011084" k="turn:lanes" o="none" type="way" v="none|merge_to_left" />
+    <tag id="15091951" k="name" o="none" type="way" v="Perg + voestalpine Nord" />
+    <tag id="15091951" k="lanes" o="none" type="way" v="1" />
+    <tag id="15091951" k="layer" o="add" type="way" v="1" />
+    <tag id="15091951" k="bridge" o="add" type="way" v="yes" />
+    <tag id="15091951" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15091951" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="15091951" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="15277829" k="name" o="modify" type="way" v="Mitarbeiter-Werkseinfahrt C" />
+    <tag id="15277829" k="is_in" o="none" type="way" v="Linz, Ober&#246;sterreich, &#214;sterreich, Europe" />
+    <tag id="15277829" k="lanes" o="none" type="way" v="1" />
+    <tag id="15277829" k="access" o="none" type="way" v="yes" />
+    <tag id="15277829" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15277829" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="15277829" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="15277829" k="alt_name" o="none" type="way" v="Werkseinfahrt Nord | voestalpine" />
+    <tag id="15277829" k="int_name" o="none" type="way" v="Gate C (with permission) voestalpine" />
+    <tag id="15277829" k="maxspeed" o="none" type="way" v="10" />
+    <tag id="15277829" k="old_name" o="none" type="way" v="Mitarbeiter-Werkstor C" />
+    <tag id="15277829" k="addr:city" o="none" type="way" v="Linz" />
+    <tag id="15277829" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="15277831" k="name" o="modify" type="way" v="Mitarbeiter-Werksausfahrt C" />
+    <tag id="15277831" k="lanes" o="none" type="way" v="1" />
+    <tag id="15277831" k="access" o="none" type="way" v="yes" />
+    <tag id="15277831" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15277831" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="15277831" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="15277831" k="alt_name" o="none" type="way" v="Mitarbeiter-Werksausfahrt Nord voestalpine" />
+    <tag id="15277831" k="int_name" o="none" type="way" v="Gate C for voestalpine-employees " />
+    <tag id="15277831" k="maxspeed" o="none" type="way" v="10" />
+    <tag id="15277831" k="addr:city" o="none" type="way" v="Linz" />
+    <tag id="15277831" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="15802668" k="name" o="add" type="way" v="160 Asten / St. Florian" />
+    <tag id="15802668" k="lanes" o="none" type="way" v="1" />
+    <tag id="15802668" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15802668" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="15802668" k="destination" o="none" type="way" v="Asten;St. Florian" />
+    <tag id="15802668" k="destination:ref" o="none" type="way" v="B1" />
+    <tag id="15802676" k="name" o="add" type="way" v="160 Asten / St. Florian" />
+    <tag id="15802676" k="lanes" o="none" type="way" v="1" />
+    <tag id="15802676" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15802676" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="15802676" k="destination" o="none" type="way" v="Asten;St. Florian" />
+    <tag id="15802676" k="destination:ref" o="none" type="way" v="B1" />
+    <tag id="15802684" k="name" o="add" type="way" v="-&gt; Sankt Florian" />
+    <tag id="15802684" k="lanes" o="none" type="way" v="1" />
+    <tag id="15802684" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15802684" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="15802689" k="name" o="add" type="way" v="A1 Wien St. P&#246;lten Enns" />
+    <tag id="15802689" k="lanes" o="none" type="way" v="1" />
+    <tag id="15802689" k="oneway" o="none" type="way" v="yes" />
+    <tag id="15802689" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="15802689" k="destination" o="none" type="way" v="Wien" />
+    <tag id="15802689" k="destination:ref" o="none" type="way" v="A1" />
+    <tag id="29578220" k="name" o="none" type="way" v="Eignerstra&#223;e" />
+    <tag id="29578220" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="29578220" k="lanes" o="none" type="way" v="1" />
+    <tag id="29578220" k="oneway" o="add" type="way" v="yes" />
+    <tag id="29578220" k="highway" o="none" type="way" v="residential" />
+    <tag id="29578220" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29578220" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="30713061" k="name" o="add" type="way" v="-&gt; Sankt Florian" />
+    <tag id="30713061" k="turn" o="none" type="way" v="through" />
+    <tag id="30713061" k="lanes" o="none" type="way" v="1" />
+    <tag id="30713061" k="oneway" o="none" type="way" v="yes" />
+    <tag id="30713061" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="30713403" k="name" o="add" type="way" v="A1 Wien St. P&#246;lten Enns" />
+    <tag id="30713403" k="lanes" o="none" type="way" v="1" />
+    <tag id="30713403" k="oneway" o="none" type="way" v="yes" />
+    <tag id="30713403" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="30713403" k="destination" o="none" type="way" v="Wien" />
+    <tag id="30713403" k="destination:ref" o="none" type="way" v="A1" />
+    <tag id="48279011" k="name" o="add" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="48279011" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="48279011" k="lanes" o="none" type="way" v="2" />
+    <tag id="48279011" k="layer" o="none" type="way" v="1" />
+    <tag id="48279011" k="bridge" o="none" type="way" v="yes" />
+    <tag id="48279011" k="oneway" o="none" type="way" v="yes" />
+    <tag id="48279011" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="48279011" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="49713916" k="foot" o="none" type="way" v="no" />
+    <tag id="49713916" k="name" o="modify" type="way" v="Aigengutstra&#223;e" />
+    <tag id="49713916" k="horse" o="none" type="way" v="no" />
+    <tag id="49713916" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="49713916" k="lanes" o="none" type="way" v="2" />
+    <tag id="49713916" k="oneway" o="none" type="way" v="yes" />
+    <tag id="49713916" k="bicycle" o="none" type="way" v="no" />
+    <tag id="49713916" k="highway" o="none" type="way" v="primary" />
+    <tag id="49713916" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="49713916" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="92388316" k="ref" o="none" type="way" v="A7" />
+    <tag id="92388316" k="name" o="add" type="way" v="A7 Prag Leonfelden voestalpine" />
+    <tag id="92388316" k="lanes" o="none" type="way" v="1" />
+    <tag id="92388316" k="oneway" o="none" type="way" v="yes" />
+    <tag id="92388316" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="92388316" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="92388316" k="destination" o="none" type="way" v="Praha - Freistadt" />
+    <tag id="125884925" k="ref" o="none" type="way" v="A7" />
+    <tag id="125884925" k="name" o="modify" type="way" v="A7 Wien Salzburg Linz SW" />
+    <tag id="125884925" k="lanes" o="none" type="way" v="3" />
+    <tag id="125884925" k="layer" o="none" type="way" v="1" />
+    <tag id="125884925" k="oneway" o="none" type="way" v="yes" />
+    <tag id="125884925" k="highway" o="none" type="way" v="motorway" />
+    <tag id="125884925" k="int_ref" o="none" type="way" v="E 55" />
+    <tag id="125884925" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="125884925" k="turn:lanes" o="none" type="way" v="through|none|none" />
+    <tag id="125884925" k="change:lanes" o="none" type="way" v="no|yes|yes" />
+    <tag id="125884925" k="maxspeed:variable" o="none" type="way" v="yes" />
+    <tag id="125884925" k="osmarender:renderRef" o="none" type="way" v="false" />
+    <tag id="125884925" k="osmarender:renderName" o="none" type="way" v="false" />
+    <tag id="180560704" k="ref" o="none" type="way" v="A7" />
+    <tag id="180560704" k="name" o="modify" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="180560704" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="180560704" k="lanes" o="none" type="way" v="3" />
+    <tag id="180560704" k="layer" o="none" type="way" v="1" />
+    <tag id="180560704" k="bridge" o="none" type="way" v="yes" />
+    <tag id="180560704" k="oneway" o="none" type="way" v="yes" />
+    <tag id="180560704" k="highway" o="none" type="way" v="motorway" />
+    <tag id="180560704" k="int_ref" o="none" type="way" v="E 55" />
+    <tag id="180560704" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="180560704" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="180560704" k="placement" o="none" type="way" v="right_of:1" />
+    <tag id="180560704" k="maxspeed:variable" o="none" type="way" v="yes" />
+    <tag id="180560704" k="osmarender:renderRef" o="none" type="way" v="false" />
+    <tag id="180560704" k="osmarender:renderName" o="none" type="way" v="false" />
+    <tag id="186092028" k="name" o="add" type="way" v="-&gt; Asten" />
+    <tag id="186092028" k="turn" o="none" type="way" v="left" />
+    <tag id="186092028" k="lanes" o="none" type="way" v="1" />
+    <tag id="186092028" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186092028" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="186092519" k="name" o="add" type="way" v="-&gt; Asten" />
+    <tag id="186092519" k="lanes" o="none" type="way" v="1" />
+    <tag id="186092519" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186092519" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="317100769" k="foot" o="none" type="way" v="no" />
+    <tag id="317100769" k="name" o="modify" type="way" v="Aigengutstra&#223;e" />
+    <tag id="317100769" k="horse" o="none" type="way" v="no" />
+    <tag id="317100769" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="317100769" k="lanes" o="none" type="way" v="4" />
+    <tag id="317100769" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317100769" k="bicycle" o="none" type="way" v="no" />
+    <tag id="317100769" k="highway" o="none" type="way" v="primary" />
+    <tag id="317100769" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="317100769" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="317100769" k="turn:lanes" o="none" type="way" v="left|none|none|none" />
+    <tag id="317100771" k="foot" o="none" type="way" v="no" />
+    <tag id="317100771" k="name" o="modify" type="way" v="Aigengutstra&#223;e" />
+    <tag id="317100771" k="horse" o="none" type="way" v="no" />
+    <tag id="317100771" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="317100771" k="lanes" o="none" type="way" v="3" />
+    <tag id="317100771" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317100771" k="bicycle" o="none" type="way" v="no" />
+    <tag id="317100771" k="highway" o="none" type="way" v="primary" />
+    <tag id="317100771" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="317100771" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="317100772" k="foot" o="none" type="way" v="no" />
+    <tag id="317100772" k="name" o="modify" type="way" v="Aigengutstra&#223;e" />
+    <tag id="317100772" k="horse" o="none" type="way" v="no" />
+    <tag id="317100772" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="317100772" k="lanes" o="none" type="way" v="3" />
+    <tag id="317100772" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317100772" k="bicycle" o="none" type="way" v="no" />
+    <tag id="317100772" k="highway" o="none" type="way" v="primary" />
+    <tag id="317100772" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="317100772" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="317451077" k="ref" o="none" type="way" v="A7" />
+    <tag id="317451077" k="name" o="modify" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="317451077" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="317451077" k="lanes" o="none" type="way" v="3" />
+    <tag id="317451077" k="layer" o="none" type="way" v="-1" />
+    <tag id="317451077" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317451077" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="317451077" k="highway" o="none" type="way" v="motorway" />
+    <tag id="317451077" k="int_ref" o="none" type="way" v="E 55" />
+    <tag id="317451077" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="317451077" k="placement" o="none" type="way" v="right_of:1" />
+    <tag id="317451077" k="turn:lanes" o="none" type="way" v="none|none|merge_to_left" />
+    <tag id="317451077" k="maxspeed:variable" o="none" type="way" v="yes" />
+    <tag id="317451098" k="name" o="add" type="way" v="A7 Wien Salzburg Linz-Zentrum" />
+    <tag id="317451098" k="note" o="none" type="way" v="Hier sind &quot;leicht links&quot; Bodenmarkierungen" />
+    <tag id="317451098" k="is_in" o="none" type="way" v="Linz,Linz,Ober&#246;sterreich,&#214;sterreich,Europe" />
+    <tag id="317451098" k="lanes" o="none" type="way" v="1" />
+    <tag id="317451098" k="layer" o="none" type="way" v="-1" />
+    <tag id="317451098" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317451098" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="317451098" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="317451098" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="317451098" k="placement" o="none" type="way" v="transition" />
+    <tag id="317451099" k="name" o="add" type="way" v="6 Linz-Zentrum" />
+    <tag id="317451099" k="lanes" o="none" type="way" v="1" />
+    <tag id="317451099" k="layer" o="none" type="way" v="-1" />
+    <tag id="317451099" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317451099" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="317451099" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="317451099" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="317451099" k="placement" o="none" type="way" v="transition" />
+    <tag id="317451108" k="name" o="add" type="way" v="7 Wiener Stra&#223;e" />
+    <tag id="317451108" k="lanes" o="none" type="way" v="2" />
+    <tag id="317451108" k="layer" o="none" type="way" v="-1" />
+    <tag id="317451108" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317451108" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="317451108" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="317451108" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="317451108" k="placement" o="none" type="way" v="transition" />
+    <tag id="317451108" k="turn:lanes" o="none" type="way" v="slight_right|slight_right" />
+    <tag id="378437712" k="name" o="none" type="way" v="Kokereistra&#223;e" />
+    <tag id="378437712" k="is_in" o="none" type="way" v="Linz, Ober&#246;sterreich, &#214;sterreich, Europe" />
+    <tag id="378437712" k="lanes" o="none" type="way" v="2" />
+    <tag id="378437712" k="access" o="none" type="way" v="yes" />
+    <tag id="378437712" k="oneway" o="none" type="way" v="no" />
+    <tag id="378437712" k="covered" o="none" type="way" v="yes" />
+    <tag id="378437712" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="378437712" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="378437712" k="maxspeed" o="modify" type="way" v="50" />
+    <tag id="378437712" k="embankment" o="none" type="way" v="yes" />
+    <tag id="378437712" k="addr:street" o="none" type="way" v="Kokereistra&#223;e" />
+    <tag id="378437712" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="378437712" k="addr:housenumber" o="none" type="way" v="33" />
+    <tag id="379635038" k="name" o="add" type="way" v="Werkseinfahrt voestalpine Nord" />
+    <tag id="379635038" k="lanes" o="add" type="way" v="2" />
+    <tag id="379635038" k="access" o="add" type="way" v="yes" />
+    <tag id="379635038" k="oneway" o="add" type="way" v="yes" />
+    <tag id="379635038" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="379635038" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="379635038" k="alt_name" o="add" type="way" v="Stahlstra&#223;e" />
+    <tag id="379635038" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="379635038" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="379641330" k="name" o="add" type="way" v="Kokereistra&#223;e" />
+    <tag id="379641330" k="is_in" o="add" type="way" v="Linz, Ober&#246;sterreich, &#214;sterreich, Europe" />
+    <tag id="379641330" k="lanes" o="add" type="way" v="2" />
+    <tag id="379641330" k="access" o="add" type="way" v="yes" />
+    <tag id="379641330" k="oneway" o="add" type="way" v="no" />
+    <tag id="379641330" k="covered" o="add" type="way" v="yes" />
+    <tag id="379641330" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="379641330" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="379641330" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="379641330" k="embankment" o="add" type="way" v="yes" />
+    <tag id="379641330" k="addr:street" o="add" type="way" v="Kokereistra&#223;e" />
+    <tag id="379641330" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="379641330" k="addr:housenumber" o="add" type="way" v="33" />
+    <tag id="2404935" k="ref" o="none" type="relation" v="360" />
+    <tag id="2404935" k="name" o="none" type="relation" v="361 Linz-Mauthausen" />
+    <tag id="2404935" k="type" o="none" type="relation" v="route" />
+    <tag id="2404935" k="route" o="none" type="relation" v="bus" />
+    <tag id="2404935" k="network" o="none" type="relation" v="O&#214;VV" />
+  </body>
+</changeset>

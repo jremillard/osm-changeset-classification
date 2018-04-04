@@ -1,0 +1,952 @@
+<changeset id="46560231" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="18" waysAdded="7" waysDeleted="31" waysModified="101" />
+  <meta>
+    <tag k="comment" v="Reclassifying roads in Jersey City on NJDOT traffic data and personal knowledge" />
+    <tag k="created_by" v="iD 2.1.3" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="11629718" k="name" o="none" type="way" v="Stockton Avenue" />
+    <tag id="11629718" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11629718" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11629718" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="11629718" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11629718" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11629718" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11629718" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="11629718" k="tiger:name_base" o="none" type="way" v="Stockton" />
+    <tag id="11629718" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11629718" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="11630698" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="11630698" k="name" o="none" type="way" v="Pavonia Avenue" />
+    <tag id="11630698" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11630698" k="NJDOT_SRI" o="none" type="way" v="09061565" />
+    <tag id="11630698" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11630698" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11630698" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11630698" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="11630698" k="tiger:name_base" o="none" type="way" v="Pavonia" />
+    <tag id="11630698" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11630698" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="11631201" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11631201" k="name" o="none" type="way" v="Hudson Street" />
+    <tag id="11631201" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11631201" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="11631201" k="NJDOT_SRI" o="none" type="way" v="09000624" />
+    <tag id="11631201" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11631201" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11631201" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11631201" k="tiger:name_base" o="none" type="way" v="Hudson" />
+    <tag id="11631201" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11632001" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11632001" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="11632001" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11632001" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11632001" k="NJDOT_SRI" o="none" type="way" v="09000639" />
+    <tag id="11632001" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11632001" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11632001" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="11632001" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11632001" k="tiger:name_base" o="none" type="way" v="Newark" />
+    <tag id="11632001" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11632001" k="tiger:name_base_1" o="none" type="way" v="County Road 639" />
+    <tag id="11632248" k="HFCS" o="none" type="way" v="Urban Local" />
+    <tag id="11632248" k="name" o="none" type="way" v="8th Street" />
+    <tag id="11632248" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11632248" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11632248" k="NJDOT_SRI" o="none" type="way" v="09000630" />
+    <tag id="11632248" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11632248" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11632283" k="HFCS" o="none" type="way" v="Urban Local" />
+    <tag id="11632283" k="name" o="none" type="way" v="Monticello Avenue" />
+    <tag id="11632283" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11632283" k="NJDOT_SRI" o="none" type="way" v="09000615" />
+    <tag id="11632283" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11632283" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11632283" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11632283" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="11632283" k="tiger:name_base" o="none" type="way" v="Monticello" />
+    <tag id="11632283" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11632283" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="11632323" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="11632323" k="HFCS" o="none" type="way" v="Urban Local" />
+    <tag id="11632323" k="name" o="none" type="way" v="Hoboken Avenue" />
+    <tag id="11632323" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11632323" k="NJDOT_SRI" o="none" type="way" v="09000644" />
+    <tag id="11632323" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11632323" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11632323" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11632323" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="11632323" k="tiger:name_base" o="none" type="way" v="Hoboken" />
+    <tag id="11632323" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11632323" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="11632323" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="11632627" k="name" o="none" type="way" v="18th Street" />
+    <tag id="11632627" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11632627" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11632627" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11632627" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11632627" k="tiger:zip_left" o="none" type="way" v="07310" />
+    <tag id="11632627" k="tiger:name_base" o="none" type="way" v="18th" />
+    <tag id="11632627" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11632627" k="tiger:zip_right" o="none" type="way" v="07310" />
+    <tag id="11632638" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11632638" k="name" o="none" type="way" v="Duncan Avenue" />
+    <tag id="11632638" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11632638" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11632638" k="NJDOT_SRI" o="none" type="way" v="09000607" />
+    <tag id="11632638" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11632638" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11632638" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11632638" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="11632638" k="tiger:name_base" o="none" type="way" v="Duncan" />
+    <tag id="11632638" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11632638" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="11633495" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11633495" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="11633495" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11633495" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="11633495" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11633495" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11633495" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11633495" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="11633495" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="11633495" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11633495" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="11633497" k="name" o="none" type="way" v="Jordan Avenue" />
+    <tag id="11633497" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11633497" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11633497" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11633497" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="11633497" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11633497" k="tiger:name_base" o="none" type="way" v="Jordan" />
+    <tag id="11633497" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="26738580" k="name" o="none" type="way" v="18th Street" />
+    <tag id="26738580" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26738580" k="highway" o="modify" type="way" v="residential" />
+    <tag id="26738580" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="26738580" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="26738580" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="26738580" k="tiger:zip_left" o="none" type="way" v="07310" />
+    <tag id="26738580" k="tiger:name_base" o="none" type="way" v="18th" />
+    <tag id="26738580" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="26738580" k="tiger:zip_right" o="none" type="way" v="07310" />
+    <tag id="27074251" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="27074251" k="name" o="none" type="way" v="Hudson Street" />
+    <tag id="27074251" k="highway" o="modify" type="way" v="residential" />
+    <tag id="27074251" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27074251" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="27074251" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27074251" k="tiger:name_base" o="none" type="way" v="Hudson" />
+    <tag id="27074251" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="27501223" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="27501223" k="name" o="none" type="way" v="Jersey Avenue" />
+    <tag id="27501223" k="highway" o="modify" type="way" v="residential" />
+    <tag id="27501223" k="NJDOT_SRI" o="none" type="way" v="09000631" />
+    <tag id="27501223" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27501223" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="27501223" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27501223" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="27501223" k="tiger:name_base" o="none" type="way" v="Jersey" />
+    <tag id="27501223" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="27501223" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="27501223" k="tiger:name_base_1" o="none" type="way" v="County Road 631" />
+    <tag id="27522529" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="27522529" k="name" o="none" type="way" v="Duncan Avenue" />
+    <tag id="27522529" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27522529" k="NJDOT_SRI" o="none" type="way" v="09000605" />
+    <tag id="27522529" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27522529" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="27522529" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27522529" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="27522529" k="tiger:name_base" o="none" type="way" v="Duncan" />
+    <tag id="27522529" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="27522529" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="27522529" k="turn:lanes:backward" o="none" type="way" v="left|right" />
+    <tag id="27522530" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="27522530" k="name" o="none" type="way" v="Duncan Avenue" />
+    <tag id="27522530" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27522530" k="NJDOT_SRI" o="none" type="way" v="09000605" />
+    <tag id="27522530" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27522530" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="27522530" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27522530" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="27522530" k="tiger:name_base" o="none" type="way" v="Duncan" />
+    <tag id="27522530" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="27522530" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="27522631" k="HFCS" o="none" type="way" v="Urban Local" />
+    <tag id="27522631" k="name" o="none" type="way" v="Monticello Avenue" />
+    <tag id="27522631" k="highway" o="modify" type="way" v="residential" />
+    <tag id="27522631" k="NJDOT_SRI" o="none" type="way" v="09000615" />
+    <tag id="27522631" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27522631" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="27522631" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27522631" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="27522631" k="tiger:name_base" o="none" type="way" v="Monticello" />
+    <tag id="27522631" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="27522631" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="27523177" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="27523177" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="27523177" k="name" o="none" type="way" v="Hoboken Avenue" />
+    <tag id="27523177" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="27523177" k="NJDOT_SRI" o="none" type="way" v="09000644" />
+    <tag id="27523177" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="27523177" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="27523177" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27523177" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="27523177" k="tiger:name_base" o="none" type="way" v="Hoboken" />
+    <tag id="27523177" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="27523177" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="27523177" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="32738948" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="32738948" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="32738948" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="32738948" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="32738948" k="NJDOT_SRI" o="none" type="way" v="09061562" />
+    <tag id="32738948" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32738948" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="32738948" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32738948" k="tiger:name_base" o="none" type="way" v="County Road 639;Newark" />
+    <tag id="32738948" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="32738948" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="32738948" k="turn:lanes:backward" o="none" type="way" v="left;through|right" />
+    <tag id="32739010" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="32739010" k="name" o="none" type="way" v="Duncan Avenue" />
+    <tag id="32739010" k="oneway" o="none" type="way" v="yes" />
+    <tag id="32739010" k="highway" o="modify" type="way" v="residential" />
+    <tag id="32739010" k="NJDOT_SRI" o="none" type="way" v="09061555" />
+    <tag id="32739010" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="32739010" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="51775159" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51775159" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="56054760" k="name" o="none" type="way" v="Coles Street" />
+    <tag id="56054760" k="highway" o="modify" type="way" v="residential" />
+    <tag id="56054760" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="56054760" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="56054760" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="56054760" k="tiger:zip_left" o="none" type="way" v="07310" />
+    <tag id="56054760" k="tiger:name_base" o="none" type="way" v="Coles" />
+    <tag id="56054760" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="56054760" k="tiger:zip_right" o="none" type="way" v="07310" />
+    <tag id="60356190" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60356190" k="name" o="none" type="way" v="Grove Street" />
+    <tag id="60356190" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60356190" k="NJDOT_SRI" o="none" type="way" v="09000635" />
+    <tag id="60356190" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60356190" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60356190" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60356190" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="60356190" k="tiger:name_base" o="none" type="way" v="Grove" />
+    <tag id="60356190" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60356190" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="60356190" k="tiger:name_base_1" o="none" type="way" v="County Road 635" />
+    <tag id="60356199" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="60356199" k="name" o="none" type="way" v="Brunswick Street" />
+    <tag id="60356199" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60356199" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60356199" k="NJDOT_SRI" o="none" type="way" v="09000629" />
+    <tag id="60356199" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60356199" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60356199" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60356199" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="60356199" k="tiger:name_base" o="none" type="way" v="Brunswick:County Road 629" />
+    <tag id="60356199" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60356199" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="60356199" k="tiger:name_base_1" o="none" type="way" v="County Road 629" />
+    <tag id="60419757" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60419757" k="name" o="none" type="way" v="Grand Street" />
+    <tag id="60419757" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60419757" k="NJDOT_SRI" o="none" type="way" v="09061546" />
+    <tag id="60419757" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60419757" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60419757" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60419757" k="tiger:zip_left" o="none" type="way" v="07304" />
+    <tag id="60419757" k="tiger:name_base" o="none" type="way" v="Grand" />
+    <tag id="60419757" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60419757" k="tiger:zip_right" o="none" type="way" v="07304" />
+    <tag id="60419757" k="tiger:name_base_1" o="none" type="way" v="County Road 622" />
+    <tag id="60420496" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="60420496" k="name" o="none" type="way" v="Christopher Columbus Drive" />
+    <tag id="60420496" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="60420496" k="NJDOT_SRI" o="none" type="way" v="09061559" />
+    <tag id="60420496" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60420496" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60420496" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60420496" k="tiger:name_base" o="none" type="way" v="Christopher Columbus" />
+    <tag id="60420496" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="60420498" k="name" o="none" type="way" v="Greene Street" />
+    <tag id="60420498" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60420498" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60420498" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60420498" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60420498" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="60420498" k="tiger:name_base" o="none" type="way" v="Greene" />
+    <tag id="60420498" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60420498" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="60420500" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60420500" k="name" o="none" type="way" v="Grove Street" />
+    <tag id="60420500" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60420500" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="60420500" k="NJDOT_SRI" o="none" type="way" v="09000635" />
+    <tag id="60420500" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60420500" k="turn:lanes" o="none" type="way" v="left||right" />
+    <tag id="60420500" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60420500" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60420500" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="60420500" k="tiger:name_base" o="none" type="way" v="Grove" />
+    <tag id="60420500" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60420500" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="60420500" k="tiger:name_base_1" o="none" type="way" v="County Road 635" />
+    <tag id="60420508" k="HFCS" o="none" type="way" v="Urban Local" />
+    <tag id="60420508" k="name" o="none" type="way" v="Washington Street" />
+    <tag id="60420508" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60420508" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="60420508" k="NJDOT_SRI" o="none" type="way" v="09000627" />
+    <tag id="60420508" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60420508" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60420508" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60420508" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="60420508" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60424231" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60424231" k="name" o="none" type="way" v="Grand Street" />
+    <tag id="60424231" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60424231" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60424231" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60424231" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60424231" k="tiger:zip_left" o="none" type="way" v="07304" />
+    <tag id="60424231" k="tiger:name_base" o="none" type="way" v="Grand" />
+    <tag id="60424231" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60424231" k="tiger:zip_right" o="none" type="way" v="07304" />
+    <tag id="60424231" k="tiger:name_base_1" o="none" type="way" v="County Road 622" />
+    <tag id="60428553" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60428553" k="name" o="none" type="way" v="Montgomery Street" />
+    <tag id="60428553" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="60428553" k="NJDOT_SRI" o="none" type="way" v="09000624" />
+    <tag id="60428553" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428553" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60428553" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60428553" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="60428553" k="tiger:name_base" o="none" type="way" v="Montgomery" />
+    <tag id="60428553" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60428553" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="60428616" k="name" o="none" type="way" v="Orchard Street" />
+    <tag id="60428616" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60428616" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60428616" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60428616" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60428616" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60428616" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="60428616" k="tiger:name_base" o="none" type="way" v="Orchard" />
+    <tag id="60428616" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="60428616" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="60429715" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="60429715" k="name" o="none" type="way" v="Hoboken Avenue" />
+    <tag id="60429715" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60429715" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60429715" k="tiger:cfcc" o="none" type="way" v="A15" />
+    <tag id="60429715" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60429715" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60429715" k="tiger:name_base" o="none" type="way" v="Hoboken" />
+    <tag id="60429715" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="60429715" k="tiger:name_base_1" o="none" type="way" v="State Route 139" />
+    <tag id="60436735" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60436735" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="60436735" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60436735" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="60436735" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60436735" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60436735" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60436735" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="60436735" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="60436735" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="60436735" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="60436736" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="60436736" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="60436736" k="layer" o="none" type="way" v="1" />
+    <tag id="60436736" k="bridge" o="none" type="way" v="yes" />
+    <tag id="60436736" k="highway" o="modify" type="way" v="residential" />
+    <tag id="60436736" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="60436736" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="60436736" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="60436736" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="60436736" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="60436736" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="60436736" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="60436736" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="132500821" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="132500821" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="132500821" k="highway" o="modify" type="way" v="residential" />
+    <tag id="132500821" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="132500821" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="132500821" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="132500821" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="132500821" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="132500821" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="132500821" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="132500821" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="132500899" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="132500899" k="name" o="none" type="way" v="Pavonia Avenue" />
+    <tag id="132500899" k="highway" o="modify" type="way" v="residential" />
+    <tag id="132500899" k="NJDOT_SRI" o="none" type="way" v="09061565" />
+    <tag id="132500899" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="132500899" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="132500899" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="132500899" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="132500899" k="tiger:name_base" o="none" type="way" v="Pavonia" />
+    <tag id="132500899" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="132500899" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="132500912" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="132500912" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="132500912" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="132500912" k="highway" o="modify" type="way" v="residential" />
+    <tag id="132500912" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="132500912" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="132500912" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="132500912" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="132500912" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="132500913" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="132500913" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="132500913" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="132500913" k="oneway" o="add" type="way" v="yes" />
+    <tag id="132500913" k="highway" o="modify" type="way" v="residential" />
+    <tag id="132500913" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="132500913" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="132500913" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="132500913" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="132500913" k="tiger:zip_left" o="add" type="way" v="07087" />
+    <tag id="132500913" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="132500913" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="132500913" k="tiger:zip_right" o="add" type="way" v="07087" />
+    <tag id="132500913" k="tiger:zip_left_1" o="add" type="way" v="07087" />
+    <tag id="132500913" k="tiger:zip_left_2" o="add" type="way" v="07087" />
+    <tag id="132500913" k="tiger:zip_right_1" o="add" type="way" v="07087" />
+    <tag id="132500914" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="132500914" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="132500914" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="132500914" k="highway" o="modify" type="way" v="residential" />
+    <tag id="132500914" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="132500914" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="132500914" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="132500914" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="132500914" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="148910964" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="148910964" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="148910964" k="highway" o="modify" type="way" v="residential" />
+    <tag id="148910964" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="148910964" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="148910964" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="148910964" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="148910964" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="148910964" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="148910964" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="148910964" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="148910965" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="148910965" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="148910965" k="layer" o="none" type="way" v="1" />
+    <tag id="148910965" k="bridge" o="none" type="way" v="yes" />
+    <tag id="148910965" k="highway" o="modify" type="way" v="residential" />
+    <tag id="148910965" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="148910965" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="148910965" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="148910965" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="148910965" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="148910965" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="148910965" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="148910965" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="148910966" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="148910966" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="148910966" k="highway" o="modify" type="way" v="residential" />
+    <tag id="148910966" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="148910966" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="148910966" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="148910966" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="148910966" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="148910966" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="148910966" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="148910966" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="148910967" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="148910967" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="148910967" k="layer" o="none" type="way" v="1" />
+    <tag id="148910967" k="bridge" o="none" type="way" v="yes" />
+    <tag id="148910967" k="highway" o="modify" type="way" v="residential" />
+    <tag id="148910967" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="148910967" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="148910967" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="148910967" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="148910967" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="148910967" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="148910967" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="148910967" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="222857192" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="222857192" k="name" o="none" type="way" v="Christopher Columbus Drive" />
+    <tag id="222857192" k="highway" o="modify" type="way" v="residential" />
+    <tag id="222857192" k="NJDOT_SRI" o="none" type="way" v="09061559" />
+    <tag id="222857192" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="222857192" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="222857192" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="222857192" k="tiger:name_base" o="none" type="way" v="Christopher Columbus" />
+    <tag id="222857192" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="222857199" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="222857199" k="name" o="none" type="way" v="Grand Street" />
+    <tag id="222857199" k="highway" o="modify" type="way" v="residential" />
+    <tag id="222857199" k="NJDOT_SRI" o="none" type="way" v="09061546" />
+    <tag id="222857199" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="222857199" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="222857199" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="222857199" k="tiger:zip_left" o="none" type="way" v="07304" />
+    <tag id="222857199" k="tiger:name_base" o="none" type="way" v="Grand" />
+    <tag id="222857199" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="222857199" k="tiger:zip_right" o="none" type="way" v="07304" />
+    <tag id="222857199" k="tiger:name_base_1" o="none" type="way" v="County Road 622" />
+    <tag id="222857200" k="name" o="none" type="way" v="Greene Street" />
+    <tag id="222857200" k="highway" o="modify" type="way" v="residential" />
+    <tag id="222857200" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="222857200" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="222857200" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="222857200" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="222857200" k="tiger:name_base" o="none" type="way" v="Greene" />
+    <tag id="222857200" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="222857200" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="222857234" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="222857234" k="name" o="none" type="way" v="Jersey Avenue" />
+    <tag id="222857234" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="222857234" k="NJDOT_SRI" o="none" type="way" v="09000631" />
+    <tag id="222857234" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="222857234" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="222857234" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="222857234" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="222857234" k="tiger:name_base" o="none" type="way" v="Jersey" />
+    <tag id="222857234" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="222857234" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="222857234" k="tiger:name_base_1" o="none" type="way" v="County Road 631" />
+    <tag id="222857269" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="222857269" k="name" o="none" type="way" v="Montgomery Street" />
+    <tag id="222857269" k="highway" o="modify" type="way" v="residential" />
+    <tag id="222857269" k="NJDOT_SRI" o="none" type="way" v="09000624" />
+    <tag id="222857269" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="222857269" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="222857269" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="222857269" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="222857269" k="tiger:name_base" o="none" type="way" v="Montgomery" />
+    <tag id="222857269" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="222857269" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="222857298" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="222857298" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="222857298" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="222857298" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="222857298" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="222857298" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="222857298" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="222857298" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="222857298" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="222857298" k="turn:lanes:backward" o="none" type="way" v="|right" />
+    <tag id="224940602" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="224940602" k="name" o="none" type="way" v="Baldwin Avenue" />
+    <tag id="224940602" k="highway" o="modify" type="way" v="residential" />
+    <tag id="224940602" k="NJDOT_SRI" o="none" type="way" v="09061560" />
+    <tag id="224940602" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="224940602" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="224940602" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="224940602" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="224940602" k="tiger:name_base" o="none" type="way" v="Baldwin" />
+    <tag id="224940602" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="224940602" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="256661310" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="256661310" k="name" o="none" type="way" v="Montgomery Street" />
+    <tag id="256661310" k="highway" o="modify" type="way" v="residential" />
+    <tag id="256661310" k="NJDOT_SRI" o="none" type="way" v="09000624" />
+    <tag id="256661310" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="256661310" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="256661310" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="256661310" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="256661310" k="tiger:name_base" o="none" type="way" v="Montgomery" />
+    <tag id="256661310" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="256661310" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="273895445" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="273895445" k="name" o="none" type="way" v="Pavonia Avenue" />
+    <tag id="273895445" k="highway" o="modify" type="way" v="residential" />
+    <tag id="273895445" k="NJDOT_SRI" o="none" type="way" v="09061565" />
+    <tag id="273895445" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="273895445" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="273895445" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="273895445" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="273895445" k="tiger:name_base" o="none" type="way" v="Pavonia" />
+    <tag id="273895445" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="273895445" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="275350179" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="275350179" k="name" o="none" type="way" v="Avenue C" />
+    <tag id="275350179" k="highway" o="none" type="way" v="secondary" />
+    <tag id="275350179" k="NJDOT_SRI" o="none" type="way" v="09011543" />
+    <tag id="275350179" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="275350179" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="275350179" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="275350179" k="tiger:zip_left" o="none" type="way" v="07305" />
+    <tag id="275350179" k="tiger:name_base" o="none" type="way" v="Avenue C; Avenue C; North" />
+    <tag id="275350179" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="275350179" k="tiger:zip_right" o="none" type="way" v="07305" />
+    <tag id="416488555" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="416488555" k="name" o="none" type="way" v="Brunswick Street" />
+    <tag id="416488555" k="note" o="none" type="way" v="SLD calls this Urban Local" />
+    <tag id="416488555" k="oneway" o="none" type="way" v="yes" />
+    <tag id="416488555" k="highway" o="modify" type="way" v="residential" />
+    <tag id="416488555" k="NJDOT_SRI" o="none" type="way" v="09000629" />
+    <tag id="416488555" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416488555" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="416488555" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="416488555" k="tiger:zip_left" o="none" type="way" v="07302" />
+    <tag id="416488555" k="tiger:name_base" o="none" type="way" v="Brunswick:County Road 629" />
+    <tag id="416488555" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416488555" k="tiger:zip_right" o="none" type="way" v="07302" />
+    <tag id="416488555" k="tiger:name_base_1" o="none" type="way" v="County Road 629" />
+    <tag id="416824257" k="HFCS" o="none" type="way" v="Urban Local" />
+    <tag id="416824257" k="name" o="none" type="way" v="Saint Paul's Avenue" />
+    <tag id="416824257" k="name_2" o="none" type="way" v="Saint Pauls Avenue" />
+    <tag id="416824257" k="highway" o="modify" type="way" v="residential" />
+    <tag id="416824257" k="NJDOT_SRI" o="none" type="way" v="09000646" />
+    <tag id="416824257" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416824257" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="416824257" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="416824257" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="416824257" k="tiger:name_base" o="none" type="way" v="County Road 646:Saint Pauls; St Pauls" />
+    <tag id="416824257" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="416824257" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="416824257" k="tiger:name_base_1" o="none" type="way" v="County Road 646" />
+    <tag id="416824257" k="tiger:name_base_2" o="none" type="way" v="Saint Pauls" />
+    <tag id="416824257" k="tiger:name_type_2" o="none" type="way" v="Ave" />
+    <tag id="420595310" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420595310" k="name" o="none" type="way" v="Montgomery Street" />
+    <tag id="420595310" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420595310" k="NJDOT_SRI" o="none" type="way" v="09061556" />
+    <tag id="420595310" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420595310" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420595310" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420595310" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="420595310" k="tiger:name_base" o="none" type="way" v="Montgomery" />
+    <tag id="420595310" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="420595310" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="420595310" k="turn:lanes:forward" o="none" type="way" v="left|right" />
+    <tag id="420595310" k="turn:lanes:backward" o="add" type="way" v="left|" />
+    <tag id="420596618" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420596618" k="name" o="none" type="way" v="West Side Avenue" />
+    <tag id="420596618" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420596618" k="NJDOT_SRI" o="none" type="way" v="09061575" />
+    <tag id="420596618" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420596618" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420596618" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420596618" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="420596618" k="tiger:name_base" o="none" type="way" v="Side" />
+    <tag id="420596618" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420596618" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="420596618" k="tiger:name_base_1" o="none" type="way" v="County Road 641" />
+    <tag id="420596618" k="turn:lanes:forward" o="none" type="way" v="|right" />
+    <tag id="420596618" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="420596622" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420596622" k="name" o="none" type="way" v="West Side Avenue" />
+    <tag id="420596622" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420596622" k="NJDOT_SRI" o="none" type="way" v="09000605" />
+    <tag id="420596622" k="tiger:zip_left" o="none" type="way" v="07304:07306" />
+    <tag id="420596622" k="tiger:zip_right" o="none" type="way" v="07304:07306" />
+    <tag id="420596622" k="turn:lanes:backward" o="none" type="way" v="|right" />
+    <tag id="420599703" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="420599703" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420599703" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="420599703" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420599703" k="NJDOT_SRI" o="none" type="way" v="09061562" />
+    <tag id="420599703" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420599703" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420599703" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420599703" k="tiger:name_base" o="none" type="way" v="County Road 639;Newark" />
+    <tag id="420599703" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420599703" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="420599703" k="turn:lanes:forward" o="none" type="way" v="left|" />
+    <tag id="420599719" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="420599719" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420599719" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="420599719" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420599719" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="420599719" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420599719" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420599719" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="420599719" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420599719" k="turn:lanes:forward" o="none" type="way" v="left;through|through|through;right" />
+    <tag id="420599723" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="420599723" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420599723" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="420599723" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420599723" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="420599723" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420599723" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420599723" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="420599723" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420599723" k="turn:lanes:forward" o="none" type="way" v="left|" />
+    <tag id="420599728" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="420599728" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420599728" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="420599728" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420599728" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="420599728" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420599728" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420599728" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="420599728" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420617495" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420617495" k="name" o="none" type="way" v="Montgomery Street" />
+    <tag id="420617495" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420617495" k="NJDOT_SRI" o="none" type="way" v="09061556" />
+    <tag id="420617495" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420617495" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420617495" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420617495" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="420617495" k="tiger:name_base" o="none" type="way" v="Montgomery" />
+    <tag id="420617495" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="420617495" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="420617495" k="turn:lanes:forward" o="none" type="way" v="through|through;right" />
+    <tag id="420617495" k="turn:lanes:backward" o="add" type="way" v="left|through|right" />
+    <tag id="420617503" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420617503" k="name" o="none" type="way" v="Montgomery Street" />
+    <tag id="420617503" k="highway" o="none" type="way" v="secondary" />
+    <tag id="420617503" k="NJDOT_SRI" o="none" type="way" v="09061556" />
+    <tag id="420617503" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420617503" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420617503" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420617503" k="tiger:zip_left" o="none" type="way" v="07306" />
+    <tag id="420617503" k="tiger:name_base" o="none" type="way" v="Montgomery" />
+    <tag id="420617503" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="420617503" k="tiger:zip_right" o="none" type="way" v="07306" />
+    <tag id="420901037" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="420901037" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420901037" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="420901037" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="420901037" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420901037" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420901037" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420901037" k="tiger:name_base" o="none" type="way" v="County Road 639;Newark" />
+    <tag id="420901037" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420901037" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="420901037" k="turn:lanes:forward" o="add" type="way" v="left|right" />
+    <tag id="420901037" k="turn:lanes:backward" o="add" type="way" v="left|" />
+    <tag id="420902801" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="420902801" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="420902801" k="highway" o="modify" type="way" v="residential" />
+    <tag id="420902801" k="NJDOT_SRI" o="none" type="way" v="09000639" />
+    <tag id="420902801" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="420902801" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="420902801" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="420902801" k="tiger:name_base" o="none" type="way" v="Newark" />
+    <tag id="420902801" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="420902801" k="tiger:name_base_1" o="none" type="way" v="County Road 639" />
+    <tag id="420902801" k="turn:lanes:backward" o="none" type="way" v="right" />
+    <tag id="421165046" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="421165046" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="421165046" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="421165046" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="421165046" k="NJDOT_SRI" o="none" type="way" v="09061562" />
+    <tag id="421165046" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="421165046" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="421165046" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="421165046" k="tiger:name_base" o="none" type="way" v="County Road 639;Newark" />
+    <tag id="421165046" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="421165046" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="421165050" k="ref" o="none" type="way" v="CR 644" />
+    <tag id="421165050" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="421165050" k="name" o="none" type="way" v="Newark Avenue" />
+    <tag id="421165050" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="421165050" k="NJDOT_SRI" o="none" type="way" v="09000644" />
+    <tag id="421165050" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="421165050" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="421165050" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="421165050" k="tiger:name_base" o="none" type="way" v="County Road 639;Newark" />
+    <tag id="421165050" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="421165050" k="tiger:name_base_1" o="none" type="way" v="County Road 644" />
+    <tag id="421165050" k="turn:lanes:forward" o="add" type="way" v="left|" />
+    <tag id="421165050" k="turn:lanes:backward" o="none" type="way" v="left|" />
+    <tag id="421165066" k="ref" o="none" type="way" v="CR 617" />
+    <tag id="421165066" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="421165066" k="name" o="none" type="way" v="Summit Avenue" />
+    <tag id="421165066" k="layer" o="none" type="way" v="1" />
+    <tag id="421165066" k="bridge" o="none" type="way" v="yes" />
+    <tag id="421165066" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="421165066" k="NJDOT_SRI" o="none" type="way" v="09000617" />
+    <tag id="421165066" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="421165066" k="tiger:county" o="none" type="way" v="Hudson, NJ" />
+    <tag id="421165066" k="tiger:name_base" o="none" type="way" v="Summit" />
+    <tag id="421165066" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="421165066" k="turn:lanes:backward" o="add" type="way" v="|right" />
+    <tag id="478349231" k="oneway" o="add" type="way" v="yes" />
+    <tag id="478349231" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="478349235" k="HFCS" o="add" type="way" v="Urban Minor Arterial" />
+    <tag id="478349235" k="name" o="add" type="way" v="Avenue C" />
+    <tag id="478349235" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="478349235" k="NJDOT_SRI" o="add" type="way" v="09011543" />
+    <tag id="478349235" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="478349235" k="tiger:county" o="add" type="way" v="Hudson, NJ" />
+    <tag id="478349235" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="478349235" k="tiger:zip_left" o="add" type="way" v="07305" />
+    <tag id="478349235" k="tiger:name_base" o="add" type="way" v="Avenue C; Avenue C; North" />
+    <tag id="478349235" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="478349235" k="tiger:zip_right" o="add" type="way" v="07305" />
+    <tag id="478349244" k="HFCS" o="add" type="way" v="Urban Local" />
+    <tag id="478349244" k="name" o="add" type="way" v="Saint Paul's Avenue" />
+    <tag id="478349244" k="name_2" o="add" type="way" v="Saint Pauls Avenue" />
+    <tag id="478349244" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="478349244" k="NJDOT_SRI" o="add" type="way" v="09000646" />
+    <tag id="478349244" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="478349244" k="tiger:county" o="add" type="way" v="Hudson, NJ" />
+    <tag id="478349244" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="478349244" k="tiger:zip_left" o="add" type="way" v="07306" />
+    <tag id="478349244" k="tiger:name_base" o="add" type="way" v="County Road 646:Saint Pauls; St Pauls" />
+    <tag id="478349244" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="478349244" k="tiger:zip_right" o="add" type="way" v="07306" />
+    <tag id="478349244" k="tiger:name_base_1" o="add" type="way" v="County Road 646" />
+    <tag id="478349244" k="tiger:name_base_2" o="add" type="way" v="Saint Pauls" />
+    <tag id="478349244" k="tiger:name_type_2" o="add" type="way" v="Ave" />
+    <tag id="478349255" k="ref" o="add" type="way" v="CR 617" />
+    <tag id="478349255" k="HFCS" o="add" type="way" v="Urban Minor Arterial" />
+    <tag id="478349255" k="name" o="add" type="way" v="Summit Avenue" />
+    <tag id="478349255" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="478349255" k="NJDOT_SRI" o="add" type="way" v="09000617" />
+    <tag id="478349255" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="478349255" k="tiger:county" o="add" type="way" v="Hudson, NJ" />
+    <tag id="478349255" k="tiger:name_base" o="add" type="way" v="Summit" />
+    <tag id="478349255" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="478349258" k="HFCS" o="add" type="way" v="Urban Minor Arterial" />
+    <tag id="478349258" k="name" o="add" type="way" v="Montgomery Street" />
+    <tag id="478349258" k="highway" o="add" type="way" v="secondary" />
+    <tag id="478349258" k="NJDOT_SRI" o="add" type="way" v="09061556" />
+    <tag id="478349258" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="478349258" k="tiger:county" o="add" type="way" v="Hudson, NJ" />
+    <tag id="478349258" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="478349258" k="tiger:zip_left" o="add" type="way" v="07306" />
+    <tag id="478349258" k="tiger:name_base" o="add" type="way" v="Montgomery" />
+    <tag id="478349258" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="478349258" k="tiger:zip_right" o="add" type="way" v="07306" />
+    <tag id="478349262" k="HFCS" o="add" type="way" v="Urban Local" />
+    <tag id="478349262" k="name" o="add" type="way" v="Washington Street" />
+    <tag id="478349262" k="oneway" o="add" type="way" v="yes" />
+    <tag id="478349262" k="highway" o="add" type="way" v="residential" />
+    <tag id="478349262" k="NJDOT_SRI" o="add" type="way" v="09000627" />
+    <tag id="478349262" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="478349262" k="tiger:county" o="add" type="way" v="Hudson, NJ" />
+    <tag id="478349262" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="478349262" k="tiger:name_base" o="add" type="way" v="Washington" />
+    <tag id="478349262" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="478349267" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="478349267" k="name" o="add" type="way" v="Christopher Columbus Drive" />
+    <tag id="478349267" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="478349267" k="NJDOT_SRI" o="add" type="way" v="09061559" />
+    <tag id="478349267" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="478349267" k="tiger:county" o="add" type="way" v="Hudson, NJ" />
+    <tag id="478349267" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="478349267" k="tiger:name_base" o="add" type="way" v="Christopher Columbus" />
+    <tag id="478349267" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="568502" k="ref" o="none" type="relation" v="605" />
+    <tag id="568502" k="type" o="none" type="relation" v="route" />
+    <tag id="568502" k="route" o="none" type="relation" v="road" />
+    <tag id="568502" k="network" o="none" type="relation" v="US:NJ:Hudson" />
+    <tag id="1778315" k="ref" o="none" type="relation" v="ECG" />
+    <tag id="1778315" k="name" o="none" type="relation" v="East Coast Greenway (PA/NJ/NY)" />
+    <tag id="1778315" k="type" o="none" type="relation" v="route" />
+    <tag id="1778315" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1778315" k="source" o="none" type="relation" v="http://www.greenway.org/cues.aspx" />
+    <tag id="1778315" k="network" o="none" type="relation" v="ncn" />
+    <tag id="1778315" k="operator" o="none" type="relation" v="East Coast Greenway Alliance" />
+    <tag id="1778315" k="wikidata" o="none" type="relation" v="Q5328119" />
+    <tag id="1778315" k="wikipedia" o="none" type="relation" v="en:East Coast Greenway" />
+    <tag id="2956520" k="ref" o="none" type="relation" v="1" />
+    <tag id="2956520" k="name" o="none" type="relation" v="NJTB - 1" />
+    <tag id="2956520" k="type" o="none" type="relation" v="route" />
+    <tag id="2956520" k="route" o="none" type="relation" v="bus" />
+    <tag id="2956520" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2956521" k="ref" o="none" type="relation" v="10" />
+    <tag id="2956521" k="name" o="none" type="relation" v="NJ Transit Bus 10 - Bayonne to Jersey City" />
+    <tag id="2956521" k="type" o="none" type="relation" v="route" />
+    <tag id="2956521" k="route" o="none" type="relation" v="bus" />
+    <tag id="2956521" k="network" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2956521" k="operator" o="none" type="relation" v="Academy Bus" />
+    <tag id="2956521" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2956522" k="ref" o="none" type="relation" v="2" />
+    <tag id="2956522" k="name" o="none" type="relation" v="NJTB - 2" />
+    <tag id="2956522" k="type" o="none" type="relation" v="route" />
+    <tag id="2956522" k="route" o="none" type="relation" v="bus" />
+    <tag id="2956522" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2956526" k="ref" o="none" type="relation" v="82" />
+    <tag id="2956526" k="name" o="none" type="relation" v="NJTB - 82" />
+    <tag id="2956526" k="type" o="none" type="relation" v="route" />
+    <tag id="2956526" k="route" o="none" type="relation" v="bus" />
+    <tag id="2956526" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2968031" k="ref" o="none" type="relation" v="83" />
+    <tag id="2968031" k="name" o="none" type="relation" v="NJTB - 83" />
+    <tag id="2968031" k="type" o="none" type="relation" v="route" />
+    <tag id="2968031" k="route" o="none" type="relation" v="bus" />
+    <tag id="2968031" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2968032" k="ref" o="none" type="relation" v="84" />
+    <tag id="2968032" k="name" o="none" type="relation" v="NJTB - 84" />
+    <tag id="2968032" k="type" o="none" type="relation" v="route" />
+    <tag id="2968032" k="route" o="none" type="relation" v="bus" />
+    <tag id="2968032" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2968034" k="ref" o="none" type="relation" v="87" />
+    <tag id="2968034" k="name" o="none" type="relation" v="NJTB - 87" />
+    <tag id="2968034" k="type" o="none" type="relation" v="route" />
+    <tag id="2968034" k="route" o="none" type="relation" v="bus" />
+    <tag id="2968034" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="2990190" k="ref" o="none" type="relation" v="6" />
+    <tag id="2990190" k="name" o="none" type="relation" v="NJTB - 6" />
+    <tag id="2990190" k="type" o="none" type="relation" v="route" />
+    <tag id="2990190" k="route" o="none" type="relation" v="bus" />
+    <tag id="2990190" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3440270" k="ref" o="none" type="relation" v="81 N" />
+    <tag id="3440270" k="name" o="none" type="relation" v="81 N" />
+    <tag id="3440270" k="type" o="none" type="relation" v="route" />
+    <tag id="3440270" k="route" o="none" type="relation" v="bus" />
+    <tag id="3440270" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3440270" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="3440282" k="ref" o="none" type="relation" v="81 S" />
+    <tag id="3440282" k="name" o="none" type="relation" v="81 S" />
+    <tag id="3440282" k="type" o="none" type="relation" v="route" />
+    <tag id="3440282" k="route" o="none" type="relation" v="bus" />
+    <tag id="3440282" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3440282" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="3440294" k="ref" o="none" type="relation" v="81X N" />
+    <tag id="3440294" k="name" o="none" type="relation" v="81X N" />
+    <tag id="3440294" k="type" o="none" type="relation" v="route" />
+    <tag id="3440294" k="route" o="none" type="relation" v="bus" />
+    <tag id="3440294" k="operator" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3440294" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="3648833" k="ref" o="none" type="relation" v="119" />
+    <tag id="3648833" k="name" o="none" type="relation" v="NJ Transit Bus 119 - Bayonne to New York" />
+    <tag id="3648833" k="type" o="none" type="relation" v="route" />
+    <tag id="3648833" k="route" o="none" type="relation" v="bus" />
+    <tag id="3648833" k="network" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3648833" k="operator" o="none" type="relation" v="Academy Bus" />
+    <tag id="3648833" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3648834" k="ref" o="none" type="relation" v="119" />
+    <tag id="3648834" k="name" o="none" type="relation" v="NJ Transit Bus 119 - New York to Bayonne" />
+    <tag id="3648834" k="type" o="none" type="relation" v="route" />
+    <tag id="3648834" k="route" o="none" type="relation" v="bus" />
+    <tag id="3648834" k="network" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3648834" k="operator" o="none" type="relation" v="Academy Bus" />
+    <tag id="3648834" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3672042" k="ref" o="none" type="relation" v="88" />
+    <tag id="3672042" k="name" o="none" type="relation" v="NJ Transit Bus 88 - Journal Square to North Bergen via Central Avenue" />
+    <tag id="3672042" k="type" o="none" type="relation" v="route" />
+    <tag id="3672042" k="route" o="none" type="relation" v="bus" />
+    <tag id="3672042" k="network" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3672042" k="operator" o="none" type="relation" v="Academy Bus" />
+    <tag id="3672042" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3672043" k="ref" o="none" type="relation" v="88" />
+    <tag id="3672043" k="name" o="none" type="relation" v="NJ Transit Bus 88 - North Bergen to Journal Square" />
+    <tag id="3672043" k="type" o="none" type="relation" v="route" />
+    <tag id="3672043" k="route" o="none" type="relation" v="bus" />
+    <tag id="3672043" k="network" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3672043" k="operator" o="none" type="relation" v="Academy Bus" />
+    <tag id="3672043" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3672045" k="ref" o="none" type="relation" v="88" />
+    <tag id="3672045" k="name" o="none" type="relation" v="NJ Transit Bus 88 - North Bergen to Journal Square via Central Avenue" />
+    <tag id="3672045" k="type" o="none" type="relation" v="route" />
+    <tag id="3672045" k="route" o="none" type="relation" v="bus" />
+    <tag id="3672045" k="network" o="none" type="relation" v="New Jersey Transit" />
+    <tag id="3672045" k="operator" o="none" type="relation" v="Academy Bus" />
+    <tag id="3672045" k="public_transport:version" o="none" type="relation" v="2" />
+  </body>
+</changeset>

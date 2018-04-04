@@ -15,19 +15,20 @@ changesets = []
 texts = []  # list of text samples
 labels = None
 
+conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
+
 if len(sys.argv) > 1:
 
     for arg in sys.argv[1:]:
         cs = osmcsclassify.ChangeSet.ChangeSet(arg)
-        if ( cs.cached() ):
+        if ( cs.cached()  ):
             cs.read()
-        else :
-            conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
-            
+        else :            
             #cs.download()
             cs.extractFromPlanet(conn)
             #cs.saveFile(cs.cacheRuntimeFileName())
 
+        #print(cs.textDump(1)[0])            
         texts.extend( cs.textDump(1) )
         changesets.append(cs)
 
@@ -39,10 +40,18 @@ else :
     cachedChangeSets = [ cs for cs in changeSets.rows if cs['cs'].cached() ]
 
     for cs in cachedChangeSets:
-        cs['cs'].read()
-        texts.extend( cs['cs'].textDump(1) )
-        changesets.append(cs['cs'])
-        labels.append( cs['labelIndex'])
+
+        if ( cs['validated'] == False):
+
+            if ( cs['cs'].cached()  ):
+                cs['cs'].read()
+            else:
+                cs['cs'].extractFromPlanet(conn)
+
+            #print(cs['cs'].textDump(1)[0])            
+            texts.extend( cs['cs'].textDump(1) )
+            changesets.append(cs['cs'])
+            labels.append( cs['labelIndex'])
 
 labels_index ={}
 maximumSeqLength = 0
@@ -56,6 +65,7 @@ with open('osmcsclassify/V0-model.pickle', 'rb') as f:
 model = load_model('osmcsclassify/V0-model.h5') 
                             
 sequences = tokenizer.texts_to_sequences(texts)
+#print(sequences[0])
 
 data = pad_sequences(sequences, maxlen=maximumSeqLength,truncating='post',padding='post')
 
@@ -66,6 +76,7 @@ print("ID             " + "\t".join(labels_index) + "\tStatus")
 if ( not labels is None ):
     with open("toreview.txt","wt") as toReview :
         for i,row in enumerate(y):
+            #print(row)
             bad = False
             close = False
             if ( np.argmax(row) != labels[i]):
@@ -76,6 +87,10 @@ if ( not labels is None ):
                 close = False
             
             if ( bad or close ):
+
+                if ( changesets[i].cached() == False):
+                    changesets[i].save()
+
                 print("{:15}".format(changesets[i].id),end='')
                 print("{} ".format(changesets[i].id),end='',file=toReview)
                 for label in labels_index:

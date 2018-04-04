@@ -1,0 +1,23 @@
+<changeset id="50091683" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="1" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Adding turn restrictions in SF" />
+    <tag k="created_by" v="JOSM/1.5 (12275 en)" />
+    <tag k="source" v="Street levele; Bing" />
+  </meta>
+  <body>
+    <tag id="397025530" k="name" o="none" type="way" v="Oak Grove Avenue" />
+    <tag id="397025530" k="lanes" o="add" type="way" v="2" />
+    <tag id="397025530" k="highway" o="none" type="way" v="residential" />
+    <tag id="397025530" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="397025530" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="397025530" k="tiger:county" o="none" type="way" v="San Mateo, CA" />
+    <tag id="397025530" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="397025530" k="tiger:name_base" o="none" type="way" v="Oak Grove" />
+    <tag id="397025530" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="397025530" k="turn:lanes:backward" o="add" type="way" v="left|through;right" />
+    <tag id="7379095" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7379095" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="7379095" k="restriction:conditional" o="add" type="relation" v="no_right_turn @ (Mo-Fr 07:30-09:30,13:30-15:30)" />
+  </body>
+</changeset>

@@ -1,0 +1,1247 @@
+<changeset id="12886700" schema="2">
+  <counts nodesAdded="375" nodesDeleted="123" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="53" waysDeleted="21" waysModified="99" />
+  <meta>
+    <tag k="build" v="2.3-443-g151b833" />
+    <tag k="comment" v="Harford Road fix divided and non-divided sections." />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="37531831" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="37686245" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="37686418" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="37705575" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="37747020" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="358242938" k="ele" o="none" type="node" v="130" />
+    <tag id="358242938" k="name" o="none" type="node" v="Fork Post Office" />
+    <tag id="358242938" k="amenity" o="none" type="node" v="post_office" />
+    <tag id="358242938" k="gnis:created" o="none" type="node" v="08/01/1994" />
+    <tag id="358242938" k="gnis:state_id" o="none" type="node" v="24" />
+    <tag id="358242938" k="gnis:county_id" o="none" type="node" v="005" />
+    <tag id="358242938" k="gnis:feature_id" o="none" type="node" v="593956" />
+    <tag id="358248108" k="ele" o="none" type="node" v="132" />
+    <tag id="358248108" k="name" o="none" type="node" v="Benson Post Office" />
+    <tag id="358248108" k="amenity" o="none" type="node" v="post_office" />
+    <tag id="358248108" k="gnis:created" o="none" type="node" v="05/09/1996" />
+    <tag id="358248108" k="gnis:state_id" o="none" type="node" v="24" />
+    <tag id="358248108" k="gnis:county_id" o="none" type="node" v="025" />
+    <tag id="358248108" k="gnis:feature_id" o="none" type="node" v="1698412" />
+    <tag id="5258229" k="highway" o="modify" type="way" v="track" />
+    <tag id="5258229" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5258229" k="tiger:tlid" o="none" type="way" v="191575815:191532570:191532573" />
+    <tag id="5258229" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5258229" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5258229" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5258229" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5258229" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5258254" k="r" o="add" type="way" v="Baltimore, MD" />
+    <tag id="5258254" k="highway" o="modify" type="way" v="service" />
+    <tag id="5258254" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5258254" k="tiger:tlid" o="modify" type="way" v="191565448:191565451" />
+    <tag id="5258254" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5258254" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5258254" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5258254" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5258254" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5271993" k="lanes" o="none" type="way" v="1" />
+    <tag id="5271993" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5271993" k="source" o="none" type="way" v="USGS Ortho" />
+    <tag id="5271993" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5271993" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="5271993" k="tiger:tlid" o="none" type="way" v="191571434:191571435" />
+    <tag id="5271993" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5271993" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5271993" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5273145" k="highway" o="modify" type="way" v="service" />
+    <tag id="5273145" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5273145" k="tiger:tlid" o="none" type="way" v="191577333:191532289:191532589:191532592:191532245" />
+    <tag id="5273145" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5273145" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5273145" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5273145" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5273145" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5273498" k="highway" o="modify" type="way" v="track" />
+    <tag id="5273498" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5273498" k="tiger:tlid" o="none" type="way" v="191518622:191518625" />
+    <tag id="5273498" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5273498" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5273498" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5273498" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5273498" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5274414" k="highway" o="modify" type="way" v="service" />
+    <tag id="5274414" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5274414" k="tiger:tlid" o="none" type="way" v="191565448:191565451" />
+    <tag id="5274414" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5274414" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5274414" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5274414" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5274414" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5274837" k="highway" o="modify" type="way" v="service" />
+    <tag id="5274837" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5274837" k="tiger:tlid" o="none" type="way" v="191516400:191516401" />
+    <tag id="5274837" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5274837" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5274837" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5274837" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5274837" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5276953" k="highway" o="modify" type="way" v="service" />
+    <tag id="5276953" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5276953" k="tiger:tlid" o="none" type="way" v="191565932:191565535" />
+    <tag id="5276953" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5276953" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5276953" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5276953" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5276953" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5276977" k="highway" o="modify" type="way" v="track" />
+    <tag id="5276977" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5276977" k="tiger:tlid" o="none" type="way" v="191565939:191565553" />
+    <tag id="5276977" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5276977" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5276977" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5276977" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5276977" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5277175" k="highway" o="modify" type="way" v="service" />
+    <tag id="5277175" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5277175" k="tiger:tlid" o="modify" type="way" v="191532604" />
+    <tag id="5277175" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5277175" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5277175" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5277175" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5277175" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5277181" k="highway" o="modify" type="way" v="service" />
+    <tag id="5277181" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5277181" k="tiger:tlid" o="modify" type="way" v="191532604" />
+    <tag id="5277181" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5277181" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5277181" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5277181" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5277181" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5278913" k="highway" o="modify" type="way" v="service" />
+    <tag id="5278913" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5278913" k="tiger:tlid" o="none" type="way" v="191532585" />
+    <tag id="5278913" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5278913" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5278913" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5278913" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5278913" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5278929" k="highway" o="modify" type="way" v="service" />
+    <tag id="5278929" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5278929" k="tiger:tlid" o="none" type="way" v="191532588" />
+    <tag id="5278929" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5278929" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5278929" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5278929" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5278929" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5279219" k="highway" o="modify" type="way" v="service" />
+    <tag id="5279219" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5279219" k="tiger:tlid" o="none" type="way" v="191517769:191517772:191517775:191517776" />
+    <tag id="5279219" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5279219" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5279219" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5279219" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5279219" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5283082" k="highway" o="modify" type="way" v="service" />
+    <tag id="5283082" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5283082" k="tiger:tlid" o="modify" type="way" v="191577333:191532289:191532589:191532592:191532245" />
+    <tag id="5283082" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5283082" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5283082" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5283082" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5283082" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5289137" k="highway" o="none" type="way" v="residential" />
+    <tag id="5289137" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5289137" k="tiger:tlid" o="none" type="way" v="191525599:191525410:191525407" />
+    <tag id="5289137" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5289137" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5289137" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5289137" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5289137" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5289571" k="highway" o="modify" type="way" v="service" />
+    <tag id="5289571" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5289571" k="tiger:tlid" o="none" type="way" v="191525201" />
+    <tag id="5289571" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5289571" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5289571" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5289571" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5289571" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5289600" k="highway" o="modify" type="way" v="track" />
+    <tag id="5289600" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5289600" k="tiger:tlid" o="modify" type="way" v="191575815:191532570:191532573" />
+    <tag id="5289600" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5289600" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5289600" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5289600" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5289600" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5289919" k="highway" o="modify" type="way" v="service" />
+    <tag id="5289919" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5289919" k="tiger:tlid" o="modify" type="way" v="191565540:191565543" />
+    <tag id="5289919" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5289919" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5289919" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5289919" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5289919" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5290384" k="highway" o="modify" type="way" v="service" />
+    <tag id="5290384" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5290384" k="tiger:tlid" o="modify" type="way" v="191516400:191516401" />
+    <tag id="5290384" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5290384" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5290384" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5290384" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5290384" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5291247" k="highway" o="none" type="way" v="service" />
+    <tag id="5291247" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5291247" k="tiger:tlid" o="none" type="way" v="191534972" />
+    <tag id="5291247" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5291247" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5291247" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5291247" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5291590" k="name" o="none" type="way" v="Glen Arm Road" />
+    <tag id="5291590" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="5291590" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5291590" k="tiger:tlid" o="none" type="way" v="191514290" />
+    <tag id="5291590" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5291590" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5291590" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5291590" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5291590" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5292100" k="highway" o="modify" type="way" v="track" />
+    <tag id="5292100" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5292100" k="tiger:tlid" o="none" type="way" v="191525471" />
+    <tag id="5292100" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5292100" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5292100" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5292100" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5292100" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5292581" k="highway" o="modify" type="way" v="service" />
+    <tag id="5292581" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5292581" k="tiger:tlid" o="none" type="way" v="191565540:191565543" />
+    <tag id="5292581" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5292581" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5292581" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5292581" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5292581" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5292586" k="highway" o="modify" type="way" v="service" />
+    <tag id="5292586" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5292586" k="tiger:tlid" o="none" type="way" v="191565546:191565547" />
+    <tag id="5292586" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5292586" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5292586" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5292586" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5292586" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5292587" k="highway" o="modify" type="way" v="track" />
+    <tag id="5292587" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5292587" k="tiger:tlid" o="modify" type="way" v="191525471" />
+    <tag id="5292587" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5292587" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5292587" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5292587" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5292587" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5294184" k="highway" o="modify" type="way" v="service" />
+    <tag id="5294184" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5294184" k="tiger:tlid" o="none" type="way" v="191517245:191517246" />
+    <tag id="5294184" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5294184" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5294184" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5294184" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5294184" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5294838" k="highway" o="modify" type="way" v="service" />
+    <tag id="5294838" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5294838" k="tiger:tlid" o="modify" type="way" v="191577333:191532289:191532589:191532592:191532245" />
+    <tag id="5294838" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5294838" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5294838" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5294838" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5294838" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5294977" k="lanes" o="none" type="way" v="1" />
+    <tag id="5294977" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5294977" k="source" o="none" type="way" v="USGS Ortho" />
+    <tag id="5294977" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5294977" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="5294977" k="tiger:tlid" o="none" type="way" v="191477073" />
+    <tag id="5294977" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5294977" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5294977" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5295142" k="highway" o="modify" type="way" v="service" />
+    <tag id="5295142" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5295142" k="tiger:tlid" o="none" type="way" v="191565556:191565559" />
+    <tag id="5295142" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5295142" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5295142" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5295142" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5295142" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5296634" k="highway" o="modify" type="way" v="service" />
+    <tag id="5296634" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5296634" k="tiger:tlid" o="none" type="way" v="191532604" />
+    <tag id="5296634" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5296634" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5296634" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5296634" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5296634" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5296644" k="r" o="add" type="way" v="Baltimore, MD" />
+    <tag id="5296644" k="highway" o="modify" type="way" v="service" />
+    <tag id="5296644" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5296644" k="tiger:tlid" o="modify" type="way" v="191565448:191565451" />
+    <tag id="5296644" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5296644" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5296644" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5296644" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5296644" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5296651" k="lanes" o="none" type="way" v="1" />
+    <tag id="5296651" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5296651" k="source" o="none" type="way" v="USGS Ortho" />
+    <tag id="5296651" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="5296651" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="5296651" k="tiger:tlid" o="none" type="way" v="191571428:191571429" />
+    <tag id="5296651" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5296651" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5296651" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5297575" k="highway" o="modify" type="way" v="service" />
+    <tag id="5297575" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5297575" k="tiger:tlid" o="none" type="way" v="191565560:191565563" />
+    <tag id="5297575" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5297575" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5297575" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5297575" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5297575" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5299095" k="name" o="modify" type="way" v="Park Forrest Lane" />
+    <tag id="5299095" k="highway" o="modify" type="way" v="service" />
+    <tag id="5299095" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5299095" k="tiger:tlid" o="none" type="way" v="191565568:191565569" />
+    <tag id="5299095" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5299095" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5299095" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5299095" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="5299095" k="tiger:name_base" o="none" type="way" v="Park Forrest" />
+    <tag id="5299095" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="5299095" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5299095" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="5299095" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5299687" k="name" o="none" type="way" v="Glen Arm Road" />
+    <tag id="5299687" k="name_1" o="none" type="way" v="Glen Arm Rd E" />
+    <tag id="5299687" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="5299687" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5299687" k="tiger:tlid" o="none" type="way" v="191525605:191525606:191496347:191518193:191518194" />
+    <tag id="5299687" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5299687" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5299687" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5299687" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5299687" k="tiger:name_base" o="none" type="way" v="Glen Arm" />
+    <tag id="5299687" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5299687" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5299687" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5299687" k="tiger:name_base_1" o="none" type="way" v="Glen Arm" />
+    <tag id="5299687" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="5299687" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5299687" k="tiger:name_direction_suffix_1" o="none" type="way" v="E" />
+    <tag id="5299690" k="name" o="none" type="way" v="Glen Arm Road" />
+    <tag id="5299690" k="name_1" o="none" type="way" v="Glen Arm Rd E" />
+    <tag id="5299690" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="5299690" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5299690" k="tiger:tlid" o="none" type="way" v="191525380:191525389:191525649:191525650" />
+    <tag id="5299690" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5299690" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5299690" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5299690" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="5299690" k="tiger:name_base" o="none" type="way" v="Glen Arm" />
+    <tag id="5299690" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5299690" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5299690" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5299690" k="tiger:name_base_1" o="none" type="way" v="Glen Arm" />
+    <tag id="5299690" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="5299690" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5299690" k="tiger:name_direction_suffix_1" o="none" type="way" v="E" />
+    <tag id="5303960" k="name" o="none" type="way" v="Long Green Pike" />
+    <tag id="5303960" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="5303960" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5303960" k="tiger:tlid" o="none" type="way" v="191525308:191525309:191525339:191525855:191525856:191525826:191525827:191525772:191525747:191525774:191525775:191525720:191525721:191525724:191525725:191525687:191525688:191525749:191565975:191565976:191525784:191525836:191525837" />
+    <tag id="5303960" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5303960" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5303960" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5303960" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="5303960" k="tiger:name_base" o="none" type="way" v="Long Green" />
+    <tag id="5303960" k="tiger:name_type" o="none" type="way" v="Pike" />
+    <tag id="5303960" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5303960" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="5303960" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5304499" k="name" o="modify" type="way" v="Sharon Drive" />
+    <tag id="5304499" k="highway" o="none" type="way" v="residential" />
+    <tag id="5304499" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5304499" k="tiger:tlid" o="none" type="way" v="191478966:191505479" />
+    <tag id="5304499" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5304499" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5304499" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5304499" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5304499" k="tiger:name_base" o="none" type="way" v="Sharon" />
+    <tag id="5304499" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="5304499" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5304499" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5304499" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5304744" k="name" o="modify" type="way" v="Marc Lane" />
+    <tag id="5304744" k="highway" o="none" type="way" v="residential" />
+    <tag id="5304744" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5304744" k="tiger:tlid" o="none" type="way" v="191514341" />
+    <tag id="5304744" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5304744" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5304744" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5304744" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5304744" k="tiger:name_base" o="none" type="way" v="Marc" />
+    <tag id="5304744" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="5304744" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5304744" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5304744" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5306099" k="name" o="modify" type="way" v="Country Hill Court" />
+    <tag id="5306099" k="highway" o="none" type="way" v="residential" />
+    <tag id="5306099" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5306099" k="tiger:tlid" o="none" type="way" v="191496253" />
+    <tag id="5306099" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5306099" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5306099" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5306099" k="tiger:zip_left" o="none" type="way" v="21087" />
+    <tag id="5306099" k="tiger:name_base" o="none" type="way" v="Country Hill" />
+    <tag id="5306099" k="tiger:name_type" o="none" type="way" v="Ct" />
+    <tag id="5306099" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5306099" k="tiger:zip_right" o="none" type="way" v="21087" />
+    <tag id="5306099" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5306558" k="name" o="none" type="way" v="Glen Arm Road" />
+    <tag id="5306558" k="name_1" o="none" type="way" v="Glen Arm Rd" />
+    <tag id="5306558" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="5306558" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5306558" k="tiger:tlid" o="none" type="way" v="191478945" />
+    <tag id="5306558" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5306558" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5306558" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5306558" k="tiger:name_base" o="none" type="way" v="Glen Arm" />
+    <tag id="5306558" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5306558" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5306558" k="tiger:name_base_1" o="none" type="way" v="Glen Arm" />
+    <tag id="5306558" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="5306558" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5306558" k="tiger:name_direction_suffix" o="none" type="way" v="E" />
+    <tag id="5309170" k="name" o="none" type="way" v="Duncan Lane" />
+    <tag id="5309170" k="highway" o="none" type="way" v="service" />
+    <tag id="5309170" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5309170" k="tiger:tlid" o="none" type="way" v="191476880" />
+    <tag id="5309170" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5309170" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5309170" k="tiger:zip_left" o="none" type="way" v="21234" />
+    <tag id="5309170" k="tiger:name_base" o="none" type="way" v="Duncan" />
+    <tag id="5309170" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="5309170" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5309170" k="tiger:zip_right" o="none" type="way" v="21234" />
+    <tag id="5309170" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5310341" k="name" o="none" type="way" v="Scherer Avenue" />
+    <tag id="5310341" k="highway" o="none" type="way" v="residential" />
+    <tag id="5310341" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5310341" k="tiger:tlid" o="none" type="way" v="191534968:191534969" />
+    <tag id="5310341" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5310341" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5310341" k="tiger:zip_left" o="none" type="way" v="21234" />
+    <tag id="5310341" k="tiger:name_base" o="none" type="way" v="Scherer" />
+    <tag id="5310341" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="5310341" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5310341" k="tiger:zip_right" o="none" type="way" v="21234" />
+    <tag id="5310341" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5312633" k="name" o="none" type="way" v="Fork Road" />
+    <tag id="5312633" k="lanes" o="add" type="way" v="2" />
+    <tag id="5312633" k="highway" o="none" type="way" v="secondary" />
+    <tag id="5312633" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="5312633" k="tiger:tlid" o="none" type="way" v="191525896:191525897:191520358:191478881:191478884:191517858:191478886:191525800:191525799:191525738:191525739:191525791:191525792:191478898" />
+    <tag id="5312633" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5312633" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5312633" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5312633" k="tiger:zip_left" o="none" type="way" v="21013" />
+    <tag id="5312633" k="tiger:name_base" o="none" type="way" v="Fork" />
+    <tag id="5312633" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5312633" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5312633" k="tiger:zip_right" o="none" type="way" v="21013" />
+    <tag id="5312633" k="tiger:name_base_1" o="none" type="way" v="State Highway 165" />
+    <tag id="5312633" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5314112" k="name" o="modify" type="way" v="Hartley Mill Road" />
+    <tag id="5314112" k="highway" o="none" type="way" v="residential" />
+    <tag id="5314112" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5314112" k="tiger:tlid" o="none" type="way" v="191513687:191478975:191478940" />
+    <tag id="5314112" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5314112" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5314112" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5314112" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5314112" k="tiger:name_base" o="none" type="way" v="Hartley Mill" />
+    <tag id="5314112" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5314112" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5314112" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5314112" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5314116" k="name" o="modify" type="way" v="Hartley Mill Road" />
+    <tag id="5314116" k="highway" o="none" type="way" v="residential" />
+    <tag id="5314116" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5314116" k="tiger:tlid" o="none" type="way" v="191478927:191514385:191478932" />
+    <tag id="5314116" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5314116" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5314116" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5314116" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5314116" k="tiger:name_base" o="none" type="way" v="Hartley Mill" />
+    <tag id="5314116" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5314116" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5314116" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5314116" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5318706" k="name" o="none" type="way" v="3rd Avenue" />
+    <tag id="5318706" k="highway" o="none" type="way" v="residential" />
+    <tag id="5318706" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5318706" k="tiger:tlid" o="none" type="way" v="191534965:191534966:191518710" />
+    <tag id="5318706" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5318706" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5318706" k="tiger:zip_left" o="none" type="way" v="21234" />
+    <tag id="5318706" k="tiger:name_base" o="none" type="way" v="3rd" />
+    <tag id="5318706" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="5318706" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5318706" k="tiger:zip_right" o="none" type="way" v="21234" />
+    <tag id="5318706" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5321029" k="name" o="modify" type="way" v="Glenview Road" />
+    <tag id="5321029" k="highway" o="none" type="way" v="residential" />
+    <tag id="5321029" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5321029" k="tiger:tlid" o="none" type="way" v="191532561:191532564:191532565" />
+    <tag id="5321029" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5321029" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5321029" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5321029" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5321029" k="tiger:name_base" o="none" type="way" v="Glenview" />
+    <tag id="5321029" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5321029" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5321029" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5321029" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5321159" k="name" o="none" type="way" v="5th Avenue" />
+    <tag id="5321159" k="highway" o="none" type="way" v="residential" />
+    <tag id="5321159" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5321159" k="tiger:tlid" o="none" type="way" v="191517280:191518716:191477050:191477059" />
+    <tag id="5321159" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5321159" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5321159" k="tiger:zip_left" o="none" type="way" v="21234" />
+    <tag id="5321159" k="tiger:name_base" o="none" type="way" v="5th" />
+    <tag id="5321159" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="5321159" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5321159" k="tiger:zip_right" o="none" type="way" v="21234" />
+    <tag id="5321159" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5321508" k="name" o="none" type="way" v="Factory Road" />
+    <tag id="5321508" k="highway" o="none" type="way" v="residential" />
+    <tag id="5321508" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5321508" k="tiger:tlid" o="none" type="way" v="191526859:191526790:191527013:191527014" />
+    <tag id="5321508" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5321508" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5321508" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5321508" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="5321508" k="tiger:name_base" o="none" type="way" v="Factory" />
+    <tag id="5321508" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="5321508" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5321508" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="5321508" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5322470" k="name" o="none" type="way" v="Sunshine Avenue" />
+    <tag id="5322470" k="lanes" o="add" type="way" v="2" />
+    <tag id="5322470" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="5322470" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5322470" k="tiger:tlid" o="none" type="way" v="191533667:191533856:191533857:191533663:191533664:191525395:191525579:191479157:191525580:191568636:191568637:191479146:191525630:191525631:191479139:191525633:191479166:191525174:191525175:191533818:191533819" />
+    <tag id="5322470" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5322470" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5322470" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5322470" k="tiger:zip_left" o="none" type="way" v="21087" />
+    <tag id="5322470" k="tiger:name_base" o="none" type="way" v="Sunshine" />
+    <tag id="5322470" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="5322470" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5322470" k="tiger:zip_right" o="none" type="way" v="21087" />
+    <tag id="5322470" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="5324231" k="name" o="none" type="way" v="4th Avenue" />
+    <tag id="5324231" k="highway" o="none" type="way" v="residential" />
+    <tag id="5324231" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5324231" k="tiger:tlid" o="none" type="way" v="191477130:191518713" />
+    <tag id="5324231" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="5324231" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="5324231" k="tiger:zip_left" o="none" type="way" v="21234" />
+    <tag id="5324231" k="tiger:name_base" o="none" type="way" v="4th" />
+    <tag id="5324231" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="5324231" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="5324231" k="tiger:zip_right" o="none" type="way" v="21234" />
+    <tag id="5324231" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="17658422" k="highway" o="modify" type="way" v="service" />
+    <tag id="17658422" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="17658422" k="tiger:tlid" o="none" type="way" v="191666465" />
+    <tag id="17658422" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="17658422" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="17658422" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="17658422" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="17658422" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="17671429" k="name" o="none" type="way" v="Connolly Farms Road" />
+    <tag id="17671429" k="highway" o="none" type="way" v="service" />
+    <tag id="17671429" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="17671429" k="tiger:tlid" o="none" type="way" v="191659618" />
+    <tag id="17671429" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="17671429" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="17671429" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="17671429" k="tiger:zip_left" o="none" type="way" v="21047" />
+    <tag id="17671429" k="tiger:name_base" o="none" type="way" v="Connolly Farms" />
+    <tag id="17671429" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="17671429" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="17671429" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="17672077" k="name" o="modify" type="way" v="Graybeal Road" />
+    <tag id="17672077" k="highway" o="none" type="way" v="residential" />
+    <tag id="17672077" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="17672077" k="tiger:tlid" o="none" type="way" v="191662271:191662272" />
+    <tag id="17672077" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="17672077" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="17672077" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="17672077" k="tiger:name_base" o="none" type="way" v="Graybeal" />
+    <tag id="17672077" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="17672077" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="17672077" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="17674118" k="name" o="none" type="way" v="Connolly Road" />
+    <tag id="17674118" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="17674118" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="17674118" k="tiger:tlid" o="none" type="way" v="191666653:191640046:191640048" />
+    <tag id="17674118" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="17674118" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="17674118" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="17674118" k="tiger:zip_left" o="none" type="way" v="21047" />
+    <tag id="17674118" k="tiger:name_base" o="none" type="way" v="Connolly" />
+    <tag id="17674118" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="17674118" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="17674118" k="tiger:zip_right" o="none" type="way" v="21047" />
+    <tag id="17674118" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="33833021" k="lanes" o="none" type="way" v="1" />
+    <tag id="33833021" k="oneway" o="none" type="way" v="yes" />
+    <tag id="33833021" k="source" o="none" type="way" v="USGS Ortho" />
+    <tag id="33833021" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="34315634" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="34315634" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="34315634" k="admin_level" o="none" type="way" v="8" />
+    <tag id="43316079" k="NHS" o="none" type="way" v="yes" />
+    <tag id="43316079" k="ref" o="none" type="way" v="US 1" />
+    <tag id="43316079" k="name" o="none" type="way" v="Belair Road" />
+    <tag id="43316079" k="lanes" o="modify" type="way" v="5" />
+    <tag id="43316079" k="name_1" o="none" type="way" v="Bel Air Road" />
+    <tag id="43316079" k="highway" o="none" type="way" v="primary" />
+    <tag id="43316079" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="43316079" k="tiger:tlid" o="none" type="way" v="191640070:191666527:191658718" />
+    <tag id="43316079" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="43316079" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="43316079" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="43316079" k="tiger:zip_left" o="none" type="way" v="21047" />
+    <tag id="43316079" k="tiger:name_base" o="none" type="way" v="Bel Air" />
+    <tag id="43316079" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="43316079" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="43316079" k="tiger:zip_right" o="none" type="way" v="21047" />
+    <tag id="43316079" k="tiger:name_base_1" o="none" type="way" v="United States Highway 1" />
+    <tag id="43316079" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="47286813" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="47286813" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="47286813" k="lanes" o="none" type="way" v="4" />
+    <tag id="47286813" k="oneway" o="add" type="way" v="yes" />
+    <tag id="47286813" k="highway" o="none" type="way" v="primary" />
+    <tag id="47286813" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="47286813" k="tiger:tlid" o="none" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="47286813" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="47286813" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="47286813" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="47286813" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="47286813" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="47286813" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="47286813" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="47286813" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="47286813" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="47286814" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="47286814" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="47286814" k="lanes" o="modify" type="way" v="2" />
+    <tag id="47286814" k="layer" o="none" type="way" v="1" />
+    <tag id="47286814" k="bridge" o="none" type="way" v="yes" />
+    <tag id="47286814" k="oneway" o="add" type="way" v="yes" />
+    <tag id="47286814" k="highway" o="none" type="way" v="primary" />
+    <tag id="47286814" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="47286814" k="tiger:tlid" o="none" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="47286814" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="47286814" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="47286814" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="47286814" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="47286814" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="47286814" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="47286814" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="47286814" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="47286814" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="51728502" k="name" o="none" type="way" v="Glen Arm Road" />
+    <tag id="51728502" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="51728502" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="51728502" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="51728502" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="51728502" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="51728502" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="51728502" k="tiger:name_base" o="none" type="way" v="Glen Arm" />
+    <tag id="51728502" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="51728502" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="51728502" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="51728502" k="tiger:name_base_1" o="none" type="way" v="Glen Arm" />
+    <tag id="51728502" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="51728502" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="51728502" k="tiger:name_direction_suffix" o="none" type="way" v="E" />
+    <tag id="54304616" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="54304616" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="54304616" k="lanes" o="add" type="way" v="2" />
+    <tag id="54304616" k="highway" o="none" type="way" v="secondary" />
+    <tag id="54304616" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="54304616" k="tiger:tlid" o="none" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="54304616" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="54304616" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="54304616" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="54304616" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="54304616" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="54304616" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="54304616" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="54304616" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="54304616" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="54304904" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="54304904" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="54304904" k="lanes" o="add" type="way" v="2" />
+    <tag id="54304904" k="layer" o="none" type="way" v="1" />
+    <tag id="54304904" k="bridge" o="none" type="way" v="yes" />
+    <tag id="54304904" k="highway" o="none" type="way" v="secondary" />
+    <tag id="54304904" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="54304904" k="tiger:tlid" o="none" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="54304904" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="54304904" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="54304904" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="54304904" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="54304904" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="54304904" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="54304904" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="54304904" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="54304904" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="85584772" k="name" o="none" type="way" v="Reckord Road" />
+    <tag id="85584772" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="85584772" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="85584772" k="tiger:tlid" o="none" type="way" v="191652156:191666594:191666590:191666591:191666530:191639973:191660039:191660040" />
+    <tag id="85584772" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="85584772" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="85584772" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="85584772" k="tiger:zip_left" o="none" type="way" v="21047" />
+    <tag id="85584772" k="tiger:name_base" o="none" type="way" v="Reckord" />
+    <tag id="85584772" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="85584772" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="85584772" k="tiger:zip_right" o="none" type="way" v="21047" />
+    <tag id="85584772" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="88510047" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="88510047" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="88510047" k="layer" o="none" type="way" v="1" />
+    <tag id="88510047" k="bridge" o="none" type="way" v="yes" />
+    <tag id="88510047" k="highway" o="none" type="way" v="secondary" />
+    <tag id="88510047" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="88510047" k="tiger:tlid" o="none" type="way" v="191479132:191565564:191565565:191574866:191639976:191650580:191650581:191666463:191666464" />
+    <tag id="88510047" k="tiger:county" o="none" type="way" v="Baltimore, MD:Harford, MD" />
+    <tag id="88510047" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.6_20070813" />
+    <tag id="88510047" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="88510047" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="88510047" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="88510047" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="88510047" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="88510047" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="88510047" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8:bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="89528429" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="89528429" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="89528429" k="lanes" o="add" type="way" v="2" />
+    <tag id="89528429" k="highway" o="none" type="way" v="secondary" />
+    <tag id="89528429" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="89528429" k="tiger:tlid" o="none" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="89528429" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="89528429" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="89528429" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="89528429" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="89528429" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="89528429" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="89528429" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="89528429" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="89528814" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="89528814" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="89528814" k="lanes" o="add" type="way" v="3" />
+    <tag id="89528814" k="highway" o="none" type="way" v="secondary" />
+    <tag id="89528814" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="89528814" k="tiger:tlid" o="none" type="way" v="191650580:191650581:191666463:191666464:191639976" />
+    <tag id="89528814" k="tiger:county" o="none" type="way" v="Harford, MD" />
+    <tag id="89528814" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="89528814" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="89528814" k="tiger:zip_left" o="none" type="way" v="21082" />
+    <tag id="89528814" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="89528814" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="89528814" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="89528814" k="tiger:zip_right" o="none" type="way" v="21082" />
+    <tag id="89528814" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="89528814" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="91597112" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="91597112" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="91597112" k="admin_level" o="none" type="way" v="8" />
+    <tag id="96652671" k="name" o="none" type="way" v="Old Joppa Road" />
+    <tag id="96652671" k="highway" o="none" type="way" v="residential" />
+    <tag id="98166061" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="98166061" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="98166061" k="lanes" o="add" type="way" v="5" />
+    <tag id="98166061" k="highway" o="add" type="way" v="primary" />
+    <tag id="98166061" k="railway" o="none" type="way" v="dismantled" />
+    <tag id="98166061" k="tiger:cfcc" o="add" type="way" v="A35" />
+    <tag id="98166061" k="tiger:tlid" o="add" type="way" v="191518750:191518751:191535346:191518718:191575334:191534314:191577436:191577437:191518722" />
+    <tag id="98166061" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="98166061" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="98166061" k="tiger:zip_left" o="add" type="way" v="21234" />
+    <tag id="98166061" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="98166061" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="98166061" k="tiger:separated" o="add" type="way" v="yes" />
+    <tag id="98166061" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="98166061" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="98166061" k="old_railway_operator" o="none" type="way" v="UR&amp;E" />
+    <tag id="144688806" k="ref" o="none" type="way" v="MD 147" />
+    <tag id="144688806" k="name" o="none" type="way" v="Harford Road" />
+    <tag id="144688806" k="lanes" o="none" type="way" v="4" />
+    <tag id="144688806" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="144688806" k="highway" o="none" type="way" v="primary" />
+    <tag id="144688806" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="144688806" k="tiger:tlid" o="none" type="way" v="191479132:191565564:191565565:191574866:206410907:206410910:206410953:206410960:206434148" />
+    <tag id="144688806" k="tiger:county" o="none" type="way" v="Baltimore, MD:Baltimore-City, MD" />
+    <tag id="144688806" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.7_20070910" />
+    <tag id="144688806" k="tiger:zip_left" o="none" type="way" v="21082:21234" />
+    <tag id="144688806" k="tiger:name_base" o="none" type="way" v="Harford" />
+    <tag id="144688806" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="144688806" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="144688806" k="tiger:zip_right" o="none" type="way" v="21082:21234" />
+    <tag id="144688806" k="tiger:name_base_1" o="none" type="way" v="State Highway 147" />
+    <tag id="144688806" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8:bulk_upload.pl-afd246be-b4ab-4255-b6a0-8915ecf35e56" />
+    <tag id="161257951" k="oneway" o="none" type="way" v="yes" />
+    <tag id="161257951" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="161257954" k="oneway" o="none" type="way" v="yes" />
+    <tag id="161257954" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="164023790" k="name" o="none" type="way" v="Glen Arm Road" />
+    <tag id="164023790" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="164023790" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="164023790" k="tiger:tlid" o="none" type="way" v="191525423:191525560:191565774:191565775:191478929:191505388:191529972:191529973:191529974:191529975:191475065" />
+    <tag id="164023790" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="164023790" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="164023790" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="164023790" k="tiger:zip_left" o="none" type="way" v="21057" />
+    <tag id="164023790" k="tiger:name_base" o="none" type="way" v="Glen Arm" />
+    <tag id="164023790" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="164023790" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="164023790" k="tiger:zip_right" o="none" type="way" v="21057" />
+    <tag id="164023790" k="tiger:name_base_1" o="none" type="way" v="Glen Arm" />
+    <tag id="164023790" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="164023790" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="164023790" k="tiger:name_direction_suffix" o="none" type="way" v="E" />
+    <tag id="178248050" k="name" o="none" type="way" v="East Joppa Road" />
+    <tag id="178248050" k="lanes" o="none" type="way" v="3" />
+    <tag id="178248050" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178248050" k="highway" o="none" type="way" v="primary" />
+    <tag id="178248050" k="old_ref" o="none" type="way" v="MD 148" />
+    <tag id="178248050" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="178248050" k="tiger:tlid" o="none" type="way" v="191534293:191534294:191534295:191534296:191534297:191534298:191577541" />
+    <tag id="178248050" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="178248050" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178248050" k="tiger:name_base" o="none" type="way" v="Joppa" />
+    <tag id="178248050" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="178248050" k="tiger:separated" o="none" type="way" v="yes" />
+    <tag id="178248050" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178248050" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="178248068" k="name" o="none" type="way" v="East Joppa Road" />
+    <tag id="178248068" k="lanes" o="none" type="way" v="3" />
+    <tag id="178248068" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178248068" k="highway" o="none" type="way" v="primary" />
+    <tag id="178248068" k="old_ref" o="none" type="way" v="MD 148" />
+    <tag id="178248068" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="178248068" k="tiger:tlid" o="none" type="way" v="191534293:191534294:191534295:191534296:191534297:191534298:191577541" />
+    <tag id="178248068" k="tiger:county" o="none" type="way" v="Baltimore, MD" />
+    <tag id="178248068" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178248068" k="tiger:name_base" o="none" type="way" v="Joppa" />
+    <tag id="178248068" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="178248068" k="tiger:separated" o="none" type="way" v="yes" />
+    <tag id="178248068" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178248068" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="178251767" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251767" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251767" k="lanes" o="add" type="way" v="4" />
+    <tag id="178251767" k="highway" o="add" type="way" v="secondary" />
+    <tag id="178251767" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251767" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178251767" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251767" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251767" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178251767" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251767" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251767" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251767" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178251767" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251767" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251768" k="name" o="add" type="way" v="6th Avenue" />
+    <tag id="178251768" k="highway" o="add" type="way" v="residential" />
+    <tag id="178251768" k="old_ref" o="add" type="way" v="MD 721" />
+    <tag id="178251768" k="ref_old" o="add" type="way" v="721" />
+    <tag id="178251768" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178251768" k="tiger:tlid" o="add" type="way" v="191518719:191518720" />
+    <tag id="178251768" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251768" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251768" k="tiger:name_base" o="add" type="way" v="Joppa Road" />
+    <tag id="178251768" k="tiger:name_type" o="add" type="way" v="Byp" />
+    <tag id="178251768" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251768" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251768" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="178251769" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251769" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251769" k="lanes" o="add" type="way" v="2" />
+    <tag id="178251769" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178251769" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="178251769" k="highway" o="add" type="way" v="primary" />
+    <tag id="178251769" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251769" k="tiger:tlid" o="add" type="way" v="191479132:191565564:191565565:191574866:206410907:206410910:206410953:206410960:206434148" />
+    <tag id="178251769" k="tiger:county" o="add" type="way" v="Baltimore, MD:Baltimore-City, MD" />
+    <tag id="178251769" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.7_20070910" />
+    <tag id="178251769" k="tiger:zip_left" o="add" type="way" v="21082:21234" />
+    <tag id="178251769" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251769" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251769" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251769" k="tiger:zip_right" o="add" type="way" v="21082:21234" />
+    <tag id="178251769" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251769" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8:bulk_upload.pl-afd246be-b4ab-4255-b6a0-8915ecf35e56" />
+    <tag id="178251770" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251770" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251770" k="lanes" o="add" type="way" v="2" />
+    <tag id="178251770" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178251770" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="178251770" k="highway" o="add" type="way" v="primary" />
+    <tag id="178251770" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251770" k="tiger:tlid" o="add" type="way" v="191479132:191565564:191565565:191574866:206410907:206410910:206410953:206410960:206434148" />
+    <tag id="178251770" k="tiger:county" o="add" type="way" v="Baltimore, MD:Baltimore-City, MD" />
+    <tag id="178251770" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.7_20070910" />
+    <tag id="178251770" k="tiger:zip_left" o="add" type="way" v="21082:21234" />
+    <tag id="178251770" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251770" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251770" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251770" k="tiger:zip_right" o="add" type="way" v="21082:21234" />
+    <tag id="178251770" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251770" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8:bulk_upload.pl-afd246be-b4ab-4255-b6a0-8915ecf35e56" />
+    <tag id="178251771" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251771" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251771" k="lanes" o="add" type="way" v="2" />
+    <tag id="178251771" k="layer" o="add" type="way" v="1" />
+    <tag id="178251771" k="bridge" o="add" type="way" v="yes" />
+    <tag id="178251771" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178251771" k="highway" o="add" type="way" v="primary" />
+    <tag id="178251771" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251771" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178251771" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251771" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251771" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178251771" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251771" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251771" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251771" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178251771" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251771" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251772" k="lanes" o="add" type="way" v="2" />
+    <tag id="178251772" k="layer" o="add" type="way" v="1" />
+    <tag id="178251772" k="bridge" o="add" type="way" v="yes" />
+    <tag id="178251772" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178251772" k="source" o="add" type="way" v="USGS Ortho" />
+    <tag id="178251772" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="178251772" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="178251772" k="tiger:tlid" o="add" type="way" v="191574008" />
+    <tag id="178251772" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251772" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251772" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251773" k="lanes" o="add" type="way" v="1" />
+    <tag id="178251773" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178251773" k="source" o="add" type="way" v="USGS Ortho" />
+    <tag id="178251773" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="178251773" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="178251773" k="tiger:tlid" o="add" type="way" v="191577414" />
+    <tag id="178251773" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251773" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251773" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251775" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251775" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251775" k="lanes" o="add" type="way" v="3" />
+    <tag id="178251775" k="highway" o="add" type="way" v="secondary" />
+    <tag id="178251775" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251775" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178251775" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251775" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251775" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178251775" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251775" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251775" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251775" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178251775" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251775" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251776" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251776" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251776" k="lanes" o="add" type="way" v="4" />
+    <tag id="178251776" k="highway" o="add" type="way" v="primary" />
+    <tag id="178251776" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251776" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178251776" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251776" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251776" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178251776" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251776" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251776" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251776" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178251776" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251776" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251777" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251777" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251777" k="lanes" o="add" type="way" v="4" />
+    <tag id="178251777" k="highway" o="add" type="way" v="secondary" />
+    <tag id="178251777" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251777" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178251777" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251777" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251777" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178251777" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251777" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251777" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251777" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178251777" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251777" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178251778" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251778" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251778" k="lanes" o="add" type="way" v="2" />
+    <tag id="178251778" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178251778" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="178251778" k="highway" o="add" type="way" v="primary" />
+    <tag id="178251778" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178251778" k="tiger:tlid" o="add" type="way" v="191479132:191565564:191565565:191574866:206410907:206410910:206410953:206410960:206434148" />
+    <tag id="178251778" k="tiger:county" o="add" type="way" v="Baltimore, MD:Baltimore-City, MD" />
+    <tag id="178251778" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809:tiger_import_dch_v0.7_20070910" />
+    <tag id="178251778" k="tiger:zip_left" o="add" type="way" v="21082:21234" />
+    <tag id="178251778" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251778" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251778" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178251778" k="tiger:zip_right" o="add" type="way" v="21082:21234" />
+    <tag id="178251778" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251778" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8:bulk_upload.pl-afd246be-b4ab-4255-b6a0-8915ecf35e56" />
+    <tag id="178251779" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178251779" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178251779" k="lanes" o="add" type="way" v="5" />
+    <tag id="178251779" k="highway" o="add" type="way" v="primary" />
+    <tag id="178251779" k="tiger:cfcc" o="add" type="way" v="A35" />
+    <tag id="178251779" k="tiger:tlid" o="add" type="way" v="191518750:191518751:191535346:191518718:191575334:191534314:191577436:191577437:191518722" />
+    <tag id="178251779" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178251779" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178251779" k="tiger:zip_left" o="add" type="way" v="21234" />
+    <tag id="178251779" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178251779" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178251779" k="tiger:separated" o="add" type="way" v="yes" />
+    <tag id="178251779" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178251779" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252533" k="highway" o="add" type="way" v="track" />
+    <tag id="178252533" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252533" k="tiger:tlid" o="add" type="way" v="191575815:191532570:191532573" />
+    <tag id="178252533" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252533" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252533" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252533" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252533" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252534" k="highway" o="add" type="way" v="service" />
+    <tag id="178252535" k="highway" o="add" type="way" v="service" />
+    <tag id="178252536" k="highway" o="add" type="way" v="service" />
+    <tag id="178252537" k="highway" o="add" type="way" v="service" />
+    <tag id="178252854" k="highway" o="add" type="way" v="service" />
+    <tag id="178252854" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252854" k="tiger:tlid" o="add" type="way" v="191532604" />
+    <tag id="178252854" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252854" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252854" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252854" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252854" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252855" k="highway" o="add" type="way" v="service" />
+    <tag id="178252855" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252855" k="tiger:tlid" o="add" type="way" v="191532604" />
+    <tag id="178252855" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252855" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252855" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252855" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252855" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252856" k="highway" o="add" type="way" v="service" />
+    <tag id="178252856" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252856" k="tiger:tlid" o="add" type="way" v="191532604" />
+    <tag id="178252856" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252856" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252856" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252856" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252856" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252857" k="highway" o="add" type="way" v="service" />
+    <tag id="178252858" k="natural" o="add" type="way" v="water" />
+    <tag id="178252859" k="highway" o="add" type="way" v="service" />
+    <tag id="178252859" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252859" k="tiger:tlid" o="add" type="way" v="191532604" />
+    <tag id="178252859" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252859" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252859" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252859" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252859" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252860" k="highway" o="add" type="way" v="service" />
+    <tag id="178252860" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252860" k="tiger:tlid" o="add" type="way" v="191516400:191516401" />
+    <tag id="178252860" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252860" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252860" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252860" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252860" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252861" k="highway" o="add" type="way" v="service" />
+    <tag id="178252861" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252861" k="tiger:tlid" o="add" type="way" v="191532604" />
+    <tag id="178252861" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252861" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252861" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252861" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252861" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252862" k="natural" o="add" type="way" v="water" />
+    <tag id="178252863" k="highway" o="add" type="way" v="service" />
+    <tag id="178252863" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252863" k="tiger:tlid" o="add" type="way" v="191532588" />
+    <tag id="178252863" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252863" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252863" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252863" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252863" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178252864" k="highway" o="add" type="way" v="service" />
+    <tag id="178252865" k="highway" o="add" type="way" v="service" />
+    <tag id="178252865" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178252865" k="tiger:tlid" o="add" type="way" v="191577333:191532289:191532589:191532592:191532245" />
+    <tag id="178252865" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178252865" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178252865" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178252865" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178252865" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178253833" k="highway" o="add" type="way" v="service" />
+    <tag id="178253834" k="highway" o="add" type="way" v="service" />
+    <tag id="178253835" k="highway" o="add" type="way" v="track" />
+    <tag id="178253836" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178253836" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178253836" k="lanes" o="add" type="way" v="2" />
+    <tag id="178253836" k="highway" o="add" type="way" v="secondary" />
+    <tag id="178253836" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178253836" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178253836" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178253836" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178253836" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178253836" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178253836" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178253836" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178253836" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178253836" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178253836" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178253843" k="highway" o="add" type="way" v="service" />
+    <tag id="178253844" k="highway" o="add" type="way" v="service" />
+    <tag id="178253845" k="highway" o="add" type="way" v="service" />
+    <tag id="178253846" k="highway" o="add" type="way" v="service" />
+    <tag id="178253847" k="highway" o="add" type="way" v="service" />
+    <tag id="178253848" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178253848" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178253848" k="lanes" o="add" type="way" v="2" />
+    <tag id="178253848" k="layer" o="add" type="way" v="1" />
+    <tag id="178253848" k="bridge" o="add" type="way" v="yes" />
+    <tag id="178253848" k="highway" o="add" type="way" v="secondary" />
+    <tag id="178253848" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178253848" k="tiger:tlid" o="add" type="way" v="191479132:191574866:191565564:191565565" />
+    <tag id="178253848" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178253848" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178253848" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178253848" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178253848" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178253848" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178253848" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178253848" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178253848" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178253849" k="NHS" o="add" type="way" v="yes" />
+    <tag id="178253849" k="ref" o="add" type="way" v="US 1" />
+    <tag id="178253849" k="name" o="add" type="way" v="Belair Road" />
+    <tag id="178253849" k="lanes" o="add" type="way" v="4" />
+    <tag id="178253849" k="name_1" o="add" type="way" v="Bel Air Road" />
+    <tag id="178253849" k="highway" o="add" type="way" v="primary" />
+    <tag id="178253849" k="tiger:cfcc" o="add" type="way" v="A21" />
+    <tag id="178253849" k="tiger:tlid" o="add" type="way" v="191640070:191666527:191658718" />
+    <tag id="178253849" k="tiger:county" o="add" type="way" v="Harford, MD" />
+    <tag id="178253849" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="178253849" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178253849" k="tiger:zip_left" o="add" type="way" v="21047" />
+    <tag id="178253849" k="tiger:name_base" o="add" type="way" v="Bel Air" />
+    <tag id="178253849" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178253849" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178253849" k="tiger:zip_right" o="add" type="way" v="21047" />
+    <tag id="178253849" k="tiger:name_base_1" o="add" type="way" v="United States Highway 1" />
+    <tag id="178253849" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="178253850" k="highway" o="add" type="way" v="service" />
+    <tag id="178253851" k="oneway" o="add" type="way" v="yes" />
+    <tag id="178253851" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="178253852" k="highway" o="add" type="way" v="service" />
+    <tag id="178253853" k="highway" o="add" type="way" v="service" />
+    <tag id="178253854" k="name" o="add" type="way" v="Connolly Road" />
+    <tag id="178253854" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="178253854" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178253854" k="tiger:tlid" o="add" type="way" v="191666653:191640046:191640048" />
+    <tag id="178253854" k="tiger:county" o="add" type="way" v="Harford, MD" />
+    <tag id="178253854" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="178253854" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178253854" k="tiger:zip_left" o="add" type="way" v="21047" />
+    <tag id="178253854" k="tiger:name_base" o="add" type="way" v="Connolly" />
+    <tag id="178253854" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178253854" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178253854" k="tiger:zip_right" o="add" type="way" v="21047" />
+    <tag id="178253854" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="178253855" k="highway" o="add" type="way" v="service" />
+    <tag id="178253856" k="ref" o="add" type="way" v="MD 147" />
+    <tag id="178253856" k="name" o="add" type="way" v="Harford Road" />
+    <tag id="178253856" k="lanes" o="add" type="way" v="2" />
+    <tag id="178253856" k="highway" o="add" type="way" v="secondary" />
+    <tag id="178253856" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="178253856" k="tiger:tlid" o="add" type="way" v="191650580:191650581:191666463:191666464:191639976" />
+    <tag id="178253856" k="tiger:county" o="add" type="way" v="Harford, MD" />
+    <tag id="178253856" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070813" />
+    <tag id="178253856" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178253856" k="tiger:zip_left" o="add" type="way" v="21082" />
+    <tag id="178253856" k="tiger:name_base" o="add" type="way" v="Harford" />
+    <tag id="178253856" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="178253856" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178253856" k="tiger:zip_right" o="add" type="way" v="21082" />
+    <tag id="178253856" k="tiger:name_base_1" o="add" type="way" v="State Highway 147" />
+    <tag id="178253856" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-e208f422-03d8-4037-b6dc-2dfbe62a474e" />
+    <tag id="178253857" k="highway" o="add" type="way" v="service" />
+    <tag id="178253858" k="highway" o="add" type="way" v="service" />
+    <tag id="178253859" k="name" o="add" type="way" v="Bonaparte Avenue" />
+    <tag id="178253859" k="highway" o="add" type="way" v="residential" />
+    <tag id="178253859" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="178253859" k="tiger:tlid" o="add" type="way" v="191479002" />
+    <tag id="178253859" k="tiger:county" o="add" type="way" v="Baltimore, MD" />
+    <tag id="178253859" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="178253859" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="178253859" k="tiger:zip_left" o="add" type="way" v="21057" />
+    <tag id="178253859" k="tiger:name_base" o="add" type="way" v="Bonaparte" />
+    <tag id="178253859" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="178253859" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="178253859" k="tiger:zip_right" o="add" type="way" v="21057" />
+    <tag id="178253859" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-287da949-18be-4db7-8647-b2ae61abe4c8" />
+    <tag id="178253860" k="highway" o="add" type="way" v="service" />
+    <tag id="178253861" k="landuse" o="add" type="way" v="retail" />
+    <tag id="968697" k="ref" o="none" type="relation" v="1" />
+    <tag id="968697" k="name" o="none" type="relation" v="US 1 (DC/MD)" />
+    <tag id="968697" k="type" o="none" type="relation" v="route" />
+    <tag id="968697" k="route" o="none" type="relation" v="road" />
+    <tag id="968697" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/8/80/US_1.svg" />
+    <tag id="968697" k="network" o="none" type="relation" v="US:US" />
+    <tag id="968697" k="wikipedia" o="none" type="relation" v="U.S. Route 1" />
+    <tag id="968697" k="is_in:state" o="none" type="relation" v="DC;MD" />
+    <tag id="1320653" k="ref" o="none" type="relation" v="147" />
+    <tag id="1320653" k="type" o="none" type="relation" v="route" />
+    <tag id="1320653" k="is_in" o="none" type="relation" v="US:MD" />
+    <tag id="1320653" k="route" o="none" type="relation" v="road" />
+    <tag id="1320653" k="network" o="none" type="relation" v="US:MD" />
+    <tag id="1407282" k="ref" o="none" type="relation" v="19" />
+    <tag id="1407282" k="name" o="none" type="relation" v="Harford Avenue Line" />
+    <tag id="1407282" k="note" o="none" type="relation" v="route from 1929 to 1948" />
+    <tag id="1407282" k="type" o="none" type="relation" v="route" />
+    <tag id="1407282" k="FIXME" o="none" type="relation" v="Exactly where was the north end?" />
+    <tag id="1407282" k="route" o="none" type="relation" v="railway" />
+    <tag id="1407282" k="railway" o="none" type="relation" v="dismantled" />
+    <tag id="1407282" k="old_railway_operator" o="none" type="relation" v="UR&amp;E" />
+    <tag id="2188238" k="name" o="none" type="relation" v="Horses and Hounds Scenic Byway" />
+    <tag id="2188238" k="type" o="none" type="relation" v="route" />
+    <tag id="2188238" k="route" o="none" type="relation" v="road" />
+    <tag id="2188238" k="network" o="none" type="relation" v="US:MD" />
+  </body>
+</changeset>

@@ -1,0 +1,971 @@
+<changeset id="40790511" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="5" waysDeleted="0" waysModified="141" />
+  <meta>
+    <tag k="build" v="2.4-21-g233799c" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.4" />
+  </meta>
+  <body>
+    <tag id="16897734" k="lit" o="none" type="way" v="yes" />
+    <tag id="16897734" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="16897734" k="lanes" o="none" type="way" v="2" />
+    <tag id="16897734" k="oneway" o="none" type="way" v="yes" />
+    <tag id="16897734" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="16897734" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="16897734" k="maxspeed:practical" o="none" type="way" v="40" />
+    <tag id="16897856" k="lit" o="none" type="way" v="yes" />
+    <tag id="16897856" k="lanes" o="none" type="way" v="2" />
+    <tag id="16897856" k="oneway" o="none" type="way" v="yes" />
+    <tag id="16897856" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="16897856" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="16897856" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="17191681" k="lit" o="none" type="way" v="yes" />
+    <tag id="17191681" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="17191681" k="lanes" o="none" type="way" v="3" />
+    <tag id="17191681" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17191681" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="17191681" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17191681" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="17191681" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="17503718" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="17503718" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="17503718" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17503718" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="17503718" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="17503718" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17503718" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="17503720" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="17503720" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="17503720" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17503720" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="17503720" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17503720" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="17503738" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="17503738" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="17503738" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17503738" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="17503738" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17503738" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="17503738" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="17503750" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="17503750" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="17503750" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17503750" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="17503750" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="17503750" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17503750" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="17503750" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="17503751" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="17503751" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="17503751" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17503751" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="17503751" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17503751" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="17503751" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="17503782" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="17503782" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="17503782" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17503782" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="17503782" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="17503782" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="17503782" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="20549031" k="lanes" o="none" type="way" v="2" />
+    <tag id="20549031" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="20549031" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="20549031" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="20549059" k="oneway" o="none" type="way" v="yes" />
+    <tag id="20549059" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="20549059" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="21451558" k="lit" o="none" type="way" v="yes" />
+    <tag id="21451558" k="oneway" o="none" type="way" v="yes" />
+    <tag id="21451558" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="21451558" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="21451598" k="lit" o="none" type="way" v="yes" />
+    <tag id="21451598" k="oneway" o="none" type="way" v="yes" />
+    <tag id="21451598" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="21451598" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="21451625" k="lit" o="none" type="way" v="yes" />
+    <tag id="21451625" k="oneway" o="none" type="way" v="yes" />
+    <tag id="21451625" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="21451625" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="21451769" k="lit" o="none" type="way" v="yes" />
+    <tag id="21451769" k="oneway" o="none" type="way" v="yes" />
+    <tag id="21451769" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="21451769" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="21452182" k="lit" o="none" type="way" v="yes" />
+    <tag id="21452182" k="lanes" o="none" type="way" v="2" />
+    <tag id="21452182" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="21452182" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="22729923" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="22729923" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22729923" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="22729923" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="22729923" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="22741880" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="22741880" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="22741880" k="lanes" o="none" type="way" v="2" />
+    <tag id="22741880" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22741880" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="22741880" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="22741880" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="22741880" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="22741880" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="23170251" k="lit" o="none" type="way" v="yes" />
+    <tag id="23170251" k="lanes" o="none" type="way" v="2" />
+    <tag id="23170251" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23170251" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="23170251" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="23170252" k="lit" o="none" type="way" v="yes" />
+    <tag id="23170252" k="lanes" o="none" type="way" v="2" />
+    <tag id="23170252" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23170252" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="23170252" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="23170252" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="29082070" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="29082070" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="29082070" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29082070" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="29082070" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="29082070" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29082070" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="29082072" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="29082072" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="29082072" k="layer" o="none" type="way" v="1" />
+    <tag id="29082072" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29082072" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29082072" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="29082072" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="29082072" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29082072" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="29082143" k="layer" o="none" type="way" v="1" />
+    <tag id="29082143" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29082143" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="29082143" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29082143" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="29082146" k="lanes" o="none" type="way" v="2" />
+    <tag id="29082146" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="29082146" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29082146" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="35143642" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143642" k="lanes" o="none" type="way" v="2" />
+    <tag id="35143642" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35143642" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="35143642" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35143642" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="35143644" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143644" k="lanes" o="none" type="way" v="4" />
+    <tag id="35143644" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="35143644" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35143644" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="35143645" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143645" k="lanes" o="none" type="way" v="4" />
+    <tag id="35143645" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="35143645" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35143645" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="35143647" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143647" k="lanes" o="none" type="way" v="4" />
+    <tag id="35143647" k="layer" o="none" type="way" v="1" />
+    <tag id="35143647" k="bridge" o="none" type="way" v="yes" />
+    <tag id="35143647" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="35143647" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35143647" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="35143648" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143648" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="35143648" k="lanes" o="none" type="way" v="2" />
+    <tag id="35143648" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35143648" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="35143648" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35143648" k="maxspeed:practical" o="none" type="way" v="40" />
+    <tag id="35143649" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143649" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="35143649" k="lanes" o="none" type="way" v="4" />
+    <tag id="35143649" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="35143649" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35143650" k="lit" o="none" type="way" v="yes" />
+    <tag id="35143650" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="35143650" k="lanes" o="none" type="way" v="4" />
+    <tag id="35143650" k="layer" o="none" type="way" v="1" />
+    <tag id="35143650" k="bridge" o="none" type="way" v="yes" />
+    <tag id="35143650" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="35143650" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35681247" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35681247" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692213" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692213" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692214" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692214" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692215" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692215" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692601" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692601" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692601" k="maxspeed:practical" o="none" type="way" v="40" />
+    <tag id="36692604" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692604" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692607" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692607" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692610" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692610" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692615" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692615" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36692881" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36692881" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36693338" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="36693338" k="lanes" o="none" type="way" v="2" />
+    <tag id="36693338" k="layer" o="none" type="way" v="1" />
+    <tag id="36693338" k="bridge" o="none" type="way" v="yes" />
+    <tag id="36693338" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36693338" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="36693338" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="36693338" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36693338" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="36693338" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="36693339" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="36693339" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="36693339" k="lanes" o="none" type="way" v="2" />
+    <tag id="36693339" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36693339" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="36693339" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="36693339" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36693339" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="36693339" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="36693340" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="36693340" k="lanes" o="none" type="way" v="2" />
+    <tag id="36693340" k="layer" o="none" type="way" v="1" />
+    <tag id="36693340" k="bridge" o="none" type="way" v="yes" />
+    <tag id="36693340" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36693340" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="36693340" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="36693340" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36693340" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="36693340" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="36902367" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36902367" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="36902367" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37112553" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="37112553" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37112553" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="37112553" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="37112560" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="37112560" k="layer" o="none" type="way" v="1" />
+    <tag id="37112560" k="bridge" o="none" type="way" v="yes" />
+    <tag id="37112560" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37112560" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="37112560" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37112560" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="37112560" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="37112561" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="37112561" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37112561" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="37112561" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37112561" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="37112561" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="37112577" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="37112577" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37112577" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="37112578" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="37112578" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37112578" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="37112578" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="37112581" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="37112581" k="layer" o="none" type="way" v="1" />
+    <tag id="37112581" k="bridge" o="none" type="way" v="yes" />
+    <tag id="37112581" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37112581" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="37114551" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37114551" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="37114610" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37114610" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="37125148" k="layer" o="none" type="way" v="1" />
+    <tag id="37125148" k="bridge" o="none" type="way" v="yes" />
+    <tag id="37125148" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="37140812" k="lit" o="none" type="way" v="yes" />
+    <tag id="37140812" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="37140812" k="lanes" o="none" type="way" v="2" />
+    <tag id="37140812" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37140812" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="37140812" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37140812" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="37140812" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="37140823" k="lit" o="none" type="way" v="yes" />
+    <tag id="37140823" k="name" o="none" type="way" v="&#1045;&#1075;&#1086;&#1088;&#1096;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081; &#1087;&#1086;&#1076;&#1093;&#1086;&#1076;" />
+    <tag id="37140823" k="lanes" o="none" type="way" v="3" />
+    <tag id="37140823" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37140823" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="37140823" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37140823" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="37143343" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="37143343" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="37143343" k="lanes" o="none" type="way" v="2" />
+    <tag id="37143343" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37143343" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="37143343" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37143343" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="37143343" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="37143343" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="37143343" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="37143371" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="37143371" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="37143371" k="lanes" o="none" type="way" v="3" />
+    <tag id="37143371" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37143371" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="37143371" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37143371" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="37143371" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="37143371" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="37143371" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="37183360" k="oneway" o="none" type="way" v="no" />
+    <tag id="37183360" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="37183360" k="embankment" o="none" type="way" v="yes" />
+    <tag id="37183361" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37183361" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="38706640" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="38706640" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="38706640" k="lanes" o="none" type="way" v="2" />
+    <tag id="38706640" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38706640" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="38706640" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="38706640" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38706640" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="38706640" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="38706640" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="38706641" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="38706641" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="38706641" k="lanes" o="none" type="way" v="2" />
+    <tag id="38706641" k="layer" o="none" type="way" v="1" />
+    <tag id="38706641" k="bridge" o="none" type="way" v="yes" />
+    <tag id="38706641" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38706641" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="38706641" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="38706641" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38706641" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="38706641" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="38706641" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="38706641" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="38745800" k="lit" o="none" type="way" v="yes" />
+    <tag id="38745800" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="38745800" k="lanes" o="none" type="way" v="3" />
+    <tag id="38745800" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38745800" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="38745800" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38745800" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="38745800" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="38752578" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="38752578" k="lanes" o="none" type="way" v="3" />
+    <tag id="38752578" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38752578" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="38752578" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38752578" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="38752578" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="38752578" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="38752578" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="38752599" k="lit" o="none" type="way" v="yes" />
+    <tag id="38752599" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="38752599" k="lanes" o="none" type="way" v="3" />
+    <tag id="38752599" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38752599" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="38752599" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38752599" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="38752599" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="38752599" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="39621837" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="39621837" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="39621837" k="lanes" o="none" type="way" v="2" />
+    <tag id="39621837" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39621837" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="39621837" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="39621837" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="39621837" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="39621837" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="39621837" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="39621837" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="39621838" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="39621838" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="39621838" k="lanes" o="none" type="way" v="2" />
+    <tag id="39621838" k="layer" o="none" type="way" v="1" />
+    <tag id="39621838" k="bridge" o="none" type="way" v="yes" />
+    <tag id="39621838" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39621838" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="39621838" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="39621838" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="39621838" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="39621838" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="39621838" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="39621838" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="42445075" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="42445075" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="42445075" k="lanes" o="none" type="way" v="2" />
+    <tag id="42445075" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42445075" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="42445075" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="42445075" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42445075" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42445075" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="42445077" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="42445077" k="lanes" o="none" type="way" v="2" />
+    <tag id="42445077" k="layer" o="none" type="way" v="1" />
+    <tag id="42445077" k="bridge" o="none" type="way" v="yes" />
+    <tag id="42445077" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42445077" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="42445077" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="42445077" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42445077" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42445077" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="42445080" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="42445080" k="lanes" o="none" type="way" v="2" />
+    <tag id="42445080" k="layer" o="none" type="way" v="1" />
+    <tag id="42445080" k="bridge" o="none" type="way" v="yes" />
+    <tag id="42445080" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42445080" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="42445080" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="42445080" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42445080" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42445080" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="42879149" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="42879149" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42879149" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="42879149" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42879149" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42879149" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="42879150" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="42879150" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42879150" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="42879150" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42879150" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42879150" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="42879151" k="ref" o="none" type="way" v="&#1056;-354" />
+    <tag id="42879151" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42879151" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="42879151" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42879151" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42879152" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="42879152" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="42879152" k="lanes" o="none" type="way" v="2" />
+    <tag id="42879152" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42879152" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="42879152" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="42879152" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42914122" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="42914122" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="42914122" k="lanes" o="none" type="way" v="2" />
+    <tag id="42914122" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42914122" k="highway" o="none" type="way" v="trunk" />
+    <tag id="42914122" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="42914122" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="46896502" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="46896502" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="46896502" k="lanes" o="none" type="way" v="2" />
+    <tag id="46896502" k="oneway" o="none" type="way" v="yes" />
+    <tag id="46896502" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="46896502" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="46896502" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="46896502" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="46896502" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="46896502" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="46896504" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="46896504" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="46896504" k="lanes" o="none" type="way" v="2" />
+    <tag id="46896504" k="oneway" o="none" type="way" v="yes" />
+    <tag id="46896504" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="46896504" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="46896504" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="46896504" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="46896504" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="50897372" k="lanes" o="none" type="way" v="1" />
+    <tag id="50897372" k="oneway" o="none" type="way" v="yes" />
+    <tag id="50897372" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="50897372" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="50897373" k="lit" o="none" type="way" v="yes" />
+    <tag id="50897373" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="50897373" k="lanes" o="none" type="way" v="3" />
+    <tag id="50897373" k="oneway" o="none" type="way" v="yes" />
+    <tag id="50897373" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="50897373" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="50897373" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="50897373" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="51156961" k="lit" o="none" type="way" v="yes" />
+    <tag id="51156961" k="name" o="none" type="way" v="&#1045;&#1075;&#1086;&#1088;&#1096;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081; &#1087;&#1086;&#1076;&#1093;&#1086;&#1076;" />
+    <tag id="51156961" k="lanes" o="none" type="way" v="3" />
+    <tag id="51156961" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51156961" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="51156961" k="name:en" o="none" type="way" v="Egorshinskiy Passage" />
+    <tag id="51156961" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="51156961" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="51677502" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51677502" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="51677564" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51677564" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="51677565" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="51993456" k="lanes" o="none" type="way" v="2" />
+    <tag id="51993456" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51993456" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="51993456" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="51993456" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="51993459" k="lit" o="none" type="way" v="yes" />
+    <tag id="51993459" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="51993459" k="lanes" o="none" type="way" v="3" />
+    <tag id="51993459" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51993459" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="51993459" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="51993459" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="51993459" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="51995382" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51995382" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="51995387" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51995387" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="54519482" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="54519482" k="lanes" o="none" type="way" v="3" />
+    <tag id="54519482" k="oneway" o="none" type="way" v="yes" />
+    <tag id="54519482" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="54519482" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="54519482" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="54519482" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="54519482" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="54519483" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="54519483" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="54519483" k="lanes" o="none" type="way" v="2" />
+    <tag id="54519483" k="oneway" o="none" type="way" v="yes" />
+    <tag id="54519483" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="54519483" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="54519483" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="54519483" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="54519484" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="54519484" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="54519484" k="lanes" o="none" type="way" v="2" />
+    <tag id="54519484" k="oneway" o="none" type="way" v="yes" />
+    <tag id="54519484" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="54519484" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="54519484" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="54519484" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="54519484" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="54519484" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="61744674" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61744674" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="61981041" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="61981041" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="61981041" k="lanes" o="none" type="way" v="2" />
+    <tag id="61981041" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61981041" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="61981041" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="61981041" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="61981041" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="61981041" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="61981041" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="61981042" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="61981042" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="61981042" k="lanes" o="none" type="way" v="2" />
+    <tag id="61981042" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61981042" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="61981042" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="61981042" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="61981042" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="61981042" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="61981042" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="63260010" k="ref" o="none" type="way" v="65&#1050;-0003440" />
+    <tag id="63260010" k="name" o="none" type="way" v="&#1055;&#1086;&#1076;&#1098;&#1077;&#1079;&#1076; &#1082; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="63260010" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="64979329" k="lit" o="none" type="way" v="yes" />
+    <tag id="64979329" k="name" o="none" type="way" v="&#1045;&#1075;&#1086;&#1088;&#1096;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081; &#1087;&#1086;&#1076;&#1093;&#1086;&#1076;" />
+    <tag id="64979329" k="lanes" o="none" type="way" v="3" />
+    <tag id="64979329" k="oneway" o="none" type="way" v="yes" />
+    <tag id="64979329" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="64979329" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="64979329" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="69218094" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="69218094" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="69218094" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="73251733" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="73251733" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="73251733" k="lanes" o="none" type="way" v="2" />
+    <tag id="73251733" k="oneway" o="none" type="way" v="yes" />
+    <tag id="73251733" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="73251733" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="73251733" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="73251733" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="73251733" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="73251733" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="73251733" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="73252133" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="73252133" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="73252133" k="lanes" o="none" type="way" v="2" />
+    <tag id="73252133" k="oneway" o="none" type="way" v="yes" />
+    <tag id="73252133" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="73252133" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="73252133" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="73252133" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="73252133" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="73252133" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="73252133" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="74210677" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="74210677" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="74210677" k="oneway" o="none" type="way" v="yes" />
+    <tag id="74210677" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="74210677" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="74210677" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="74210677" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="74210687" k="oneway" o="none" type="way" v="yes" />
+    <tag id="74210687" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="74210687" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="82103158" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="82103158" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="82103158" k="lanes" o="none" type="way" v="2" />
+    <tag id="82103158" k="oneway" o="none" type="way" v="yes" />
+    <tag id="82103158" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="82103158" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="82103158" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="82103158" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="82103158" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="84657892" k="lit" o="none" type="way" v="yes" />
+    <tag id="84657892" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="84657892" k="lanes" o="none" type="way" v="4" />
+    <tag id="84657892" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="84657892" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="84657892" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="98621267" k="lanes" o="none" type="way" v="2" />
+    <tag id="98621267" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="98621267" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="98621267" k="loc_name" o="none" type="way" v="&#1041;&#1091;&#1093;&#1072;&#1088;&#1072;-&#1059;&#1088;&#1072;&#1083;" />
+    <tag id="98621267" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="102698602" k="ref" o="none" type="way" v="65&#1050;-0003440" />
+    <tag id="102698602" k="name" o="none" type="way" v="&#1055;&#1086;&#1076;&#1098;&#1077;&#1079;&#1076; &#1082; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="102698602" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="102698604" k="oneway" o="none" type="way" v="yes" />
+    <tag id="102698604" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="107024604" k="ref" o="none" type="way" v="65&#1050;-4108000" />
+    <tag id="107024604" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1072;&#1103; &#1082;&#1086;&#1083;&#1100;&#1094;&#1077;&#1074;&#1072;&#1103; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1072;&#1103; &#1076;&#1086;&#1088;&#1086;&#1075;&#1072;" />
+    <tag id="107024604" k="oneway" o="none" type="way" v="yes" />
+    <tag id="107024604" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="107024604" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="107024604" k="loc_name" o="none" type="way" v="&#1045;&#1050;&#1040;&#1044;" />
+    <tag id="130640258" k="lit" o="none" type="way" v="yes" />
+    <tag id="130640258" k="name" o="none" type="way" v="&#1045;&#1075;&#1086;&#1088;&#1096;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081; &#1087;&#1086;&#1076;&#1093;&#1086;&#1076;" />
+    <tag id="130640258" k="lanes" o="none" type="way" v="2" />
+    <tag id="130640258" k="oneway" o="none" type="way" v="yes" />
+    <tag id="130640258" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="130640258" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="130640258" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="148213198" k="lit" o="none" type="way" v="yes" />
+    <tag id="148213198" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="148213198" k="lanes" o="none" type="way" v="3" />
+    <tag id="148213198" k="oneway" o="none" type="way" v="yes" />
+    <tag id="148213198" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="148213198" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="148213198" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="148213198" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="148213198" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="150731427" k="lit" o="none" type="way" v="yes" />
+    <tag id="150731427" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="150731427" k="lanes" o="none" type="way" v="3" />
+    <tag id="150731427" k="oneway" o="none" type="way" v="yes" />
+    <tag id="150731427" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="150731427" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="150731427" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="150731427" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="162918587" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162918587" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="168209105" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="168209105" k="embankment" o="none" type="way" v="yes" />
+    <tag id="183070039" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="183070039" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="183070039" k="lanes" o="none" type="way" v="2" />
+    <tag id="183070039" k="oneway" o="none" type="way" v="yes" />
+    <tag id="183070039" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="183070039" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="183070039" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="183070039" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="183070039" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="183070039" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="183070039" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="183070040" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="183070040" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="183070040" k="lanes" o="none" type="way" v="2" />
+    <tag id="183070040" k="oneway" o="none" type="way" v="yes" />
+    <tag id="183070040" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="183070040" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="183070040" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="183070040" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="183070040" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="183070040" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="263955967" k="lit" o="none" type="way" v="yes" />
+    <tag id="263955967" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="263955967" k="lanes" o="none" type="way" v="3" />
+    <tag id="263955967" k="oneway" o="none" type="way" v="yes" />
+    <tag id="263955967" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="263955967" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="263955967" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="263955967" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="263955968" k="lit" o="none" type="way" v="yes" />
+    <tag id="263955968" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="263955968" k="lanes" o="none" type="way" v="3" />
+    <tag id="263955968" k="oneway" o="none" type="way" v="yes" />
+    <tag id="263955968" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="263955968" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="263955968" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="263955968" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="294042442" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="294042442" k="lanes" o="none" type="way" v="3" />
+    <tag id="294042442" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042442" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042442" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042442" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="294042442" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="294042442" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="294042442" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="294042446" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="294042446" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="294042446" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042446" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042446" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042446" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="294042446" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042446" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="294042446" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="294042446" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="294042447" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="294042447" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="294042447" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042447" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042447" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042447" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="294042447" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042447" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="294042447" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="294042448" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="294042448" k="lanes" o="none" type="way" v="3" />
+    <tag id="294042448" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042448" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042448" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042448" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="294042448" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="294042448" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="294042448" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="294042458" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="294042458" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="294042458" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042458" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042458" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042458" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="294042458" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042458" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="294042458" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="294042459" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="294042459" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="294042459" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042459" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042459" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042459" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="294042459" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042459" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="294042459" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="294042460" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="294042460" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="294042460" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042460" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042460" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042460" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042460" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="294042460" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="294042460" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="294042461" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="294042461" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="294042461" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042461" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042461" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042461" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="294042461" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042461" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="294042461" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="294042462" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="294042462" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="294042462" k="lanes" o="none" type="way" v="2" />
+    <tag id="294042462" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294042462" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="294042462" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="294042462" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="294042462" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="294042462" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="296170952" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="296170952" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="296170952" k="lanes" o="none" type="way" v="2" />
+    <tag id="296170952" k="oneway" o="none" type="way" v="yes" />
+    <tag id="296170952" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="296170952" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="296170952" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="296170952" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="296170952" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="296170956" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="296170956" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="296170956" k="lanes" o="none" type="way" v="2" />
+    <tag id="296170956" k="oneway" o="none" type="way" v="yes" />
+    <tag id="296170956" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="296170956" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="296170956" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="296170956" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="296170956" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="306031213" k="oneway" o="none" type="way" v="yes" />
+    <tag id="306031213" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="306031215" k="oneway" o="none" type="way" v="yes" />
+    <tag id="306031215" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="306031215" k="embankment" o="none" type="way" v="yes" />
+    <tag id="313456030" k="lanes" o="none" type="way" v="2" />
+    <tag id="313456030" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="313456030" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="313456030" k="loc_name" o="none" type="way" v="&#1041;&#1091;&#1093;&#1072;&#1088;&#1072;-&#1059;&#1088;&#1072;&#1083;" />
+    <tag id="313456030" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="313456031" k="lanes" o="none" type="way" v="2" />
+    <tag id="313456031" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="313456031" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="313456031" k="loc_name" o="none" type="way" v="&#1041;&#1091;&#1093;&#1072;&#1088;&#1072;-&#1059;&#1088;&#1072;&#1083;" />
+    <tag id="313456031" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="325860083" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="325860083" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="325860083" k="lanes" o="none" type="way" v="2" />
+    <tag id="325860083" k="oneway" o="none" type="way" v="yes" />
+    <tag id="325860083" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="325860083" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="325860083" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="325860083" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="325860083" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="325860083" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="325860083" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="365868840" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="365868840" k="lanes" o="none" type="way" v="3" />
+    <tag id="365868840" k="oneway" o="none" type="way" v="yes" />
+    <tag id="365868840" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="365868840" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="365868840" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="365868840" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="365868840" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="365868840" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="365868841" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="365868841" k="lanes" o="none" type="way" v="3" />
+    <tag id="365868841" k="oneway" o="none" type="way" v="yes" />
+    <tag id="365868841" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="365868841" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="365868841" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="365868841" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="365868841" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="365868841" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="365868896" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="365868896" k="lanes" o="none" type="way" v="3" />
+    <tag id="365868896" k="oneway" o="none" type="way" v="yes" />
+    <tag id="365868896" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="365868896" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="365868896" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="365868896" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="365868896" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="365868896" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="383244906" k="lit" o="none" type="way" v="yes" />
+    <tag id="383244906" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="383244906" k="lanes" o="none" type="way" v="3" />
+    <tag id="383244906" k="oneway" o="none" type="way" v="yes" />
+    <tag id="383244906" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="383244906" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="383244906" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="383244906" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="383244907" k="lit" o="none" type="way" v="yes" />
+    <tag id="383244907" k="name" o="none" type="way" v="&#1044;&#1091;&#1073;&#1083;&#1105;&#1088; &#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1082;&#1090;&#1072;" />
+    <tag id="383244907" k="lanes" o="none" type="way" v="3" />
+    <tag id="383244907" k="oneway" o="none" type="way" v="yes" />
+    <tag id="383244907" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="383244907" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="383244907" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="383244907" k="kladr:user" o="none" type="way" v="66000001000148000" />
+    <tag id="384236563" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="384236563" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="384236563" k="lanes" o="none" type="way" v="2" />
+    <tag id="384236563" k="oneway" o="none" type="way" v="yes" />
+    <tag id="384236563" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="384236563" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="384236563" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="384236563" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="384236563" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="384236563" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="384426128" k="ref" o="none" type="way" v="65&#1050;-4107000" />
+    <tag id="384426128" k="name" o="none" type="way" v="&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="384426128" k="lanes" o="none" type="way" v="3" />
+    <tag id="384426128" k="oneway" o="none" type="way" v="yes" />
+    <tag id="384426128" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="384426128" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="384426128" k="loc_name" o="none" type="way" v="&#1058;&#1102;&#1084;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="384426128" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="384426128" k="postal_code" o="none" type="way" v="620000" />
+    <tag id="413728464" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="413728464" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="413728464" k="lanes" o="none" type="way" v="2" />
+    <tag id="413728464" k="oneway" o="none" type="way" v="yes" />
+    <tag id="413728464" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="413728464" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="413728464" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="413728464" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="413728464" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="413728465" k="ref" o="none" type="way" v="&#1056;-351" />
+    <tag id="413728465" k="name" o="none" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="413728465" k="lanes" o="none" type="way" v="2" />
+    <tag id="413728465" k="oneway" o="none" type="way" v="yes" />
+    <tag id="413728465" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="413728465" k="int_ref" o="none" type="way" v="E 22" />
+    <tag id="413728465" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="413728465" k="maxspeed" o="none" type="way" v="RU:rural" />
+    <tag id="413728465" k="source:maxspeed" o="none" type="way" v="implicit" />
+    <tag id="414801089" k="lanes" o="none" type="way" v="1" />
+    <tag id="414801089" k="oneway" o="none" type="way" v="yes" />
+    <tag id="414801089" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="414801089" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="431480450" k="ref" o="add" type="way" v="65&#1050;-0003440" />
+    <tag id="431480450" k="name" o="add" type="way" v="&#1055;&#1086;&#1076;&#1098;&#1077;&#1079;&#1076; &#1082; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086;" />
+    <tag id="431480450" k="highway" o="add" type="way" v="secondary" />
+    <tag id="431480451" k="ref" o="add" type="way" v="&#1056;-351" />
+    <tag id="431480451" k="name" o="add" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="431480451" k="lanes" o="add" type="way" v="2" />
+    <tag id="431480451" k="oneway" o="add" type="way" v="yes" />
+    <tag id="431480451" k="highway" o="add" type="way" v="trunk" />
+    <tag id="431480451" k="int_ref" o="add" type="way" v="E 22" />
+    <tag id="431480451" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="431480452" k="ref" o="add" type="way" v="&#1056;-351" />
+    <tag id="431480452" k="name" o="add" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="431480452" k="lanes" o="add" type="way" v="2" />
+    <tag id="431480452" k="oneway" o="add" type="way" v="yes" />
+    <tag id="431480452" k="highway" o="add" type="way" v="trunk" />
+    <tag id="431480452" k="int_ref" o="add" type="way" v="E 22" />
+    <tag id="431480452" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="431480453" k="ref" o="add" type="way" v="&#1056;-351" />
+    <tag id="431480453" k="name" o="add" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="431480453" k="lanes" o="add" type="way" v="2" />
+    <tag id="431480453" k="oneway" o="add" type="way" v="yes" />
+    <tag id="431480453" k="highway" o="add" type="way" v="trunk" />
+    <tag id="431480453" k="int_ref" o="add" type="way" v="E 22" />
+    <tag id="431480453" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="431480454" k="ref" o="add" type="way" v="&#1056;-351" />
+    <tag id="431480454" k="name" o="add" type="way" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8211; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="431480454" k="lanes" o="add" type="way" v="2" />
+    <tag id="431480454" k="oneway" o="add" type="way" v="yes" />
+    <tag id="431480454" k="highway" o="add" type="way" v="motorway" />
+    <tag id="431480454" k="int_ref" o="add" type="way" v="E 22" />
+    <tag id="431480454" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="1226190" k="ref" o="none" type="relation" v="&#1056;-351" />
+    <tag id="1226190" k="name" o="none" type="relation" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8212; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="1226190" k="note" o="none" type="relation" v="&#1056;&#1072;&#1079;&#1088;&#1099;&#1074;&#1099; &#1074; &#1084;&#1072;&#1088;&#1096;&#1088;&#1091;&#1090;&#1077; &#1080; &#1076;&#1080;&#1089;&#1090;&#1072;&#1085;&#1094;&#1080;&#1103; &#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090; &#1076;&#1072;&#1085;&#1085;&#1099;&#1084; &#1056;&#1086;&#1089;&#1072;&#1074;&#1090;&#1086;&#1076;&#1086;&#1088;&#1072;." />
+    <tag id="1226190" k="type" o="none" type="relation" v="route" />
+    <tag id="1226190" k="route" o="none" type="relation" v="road" />
+    <tag id="1226190" k="network" o="none" type="relation" v="ru:national" />
+    <tag id="1226190" k="surface" o="none" type="relation" v="asphalt" />
+    <tag id="1226190" k="distance" o="none" type="relation" v="285.021 km" />
+    <tag id="1226190" k="loc_name" o="none" type="relation" v="&#1057;&#1080;&#1073;&#1080;&#1088;&#1089;&#1082;&#1080;&#1081; &#1090;&#1088;&#1072;&#1082;&#1090;" />
+    <tag id="1226190" k="wikipedia" o="none" type="relation" v="ru:&#1056;351 (&#1072;&#1074;&#1090;&#1086;&#1076;&#1086;&#1088;&#1086;&#1075;&#1072;)" />
+    <tag id="1226190" k="description" o="none" type="relation" v="&#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8212; &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;" />
+    <tag id="5682220" k="ref" o="none" type="relation" v="65&#1050;-0003440" />
+    <tag id="5682220" k="name" o="none" type="relation" v="&#1055;&#1086;&#1076;&#1098;&#1077;&#1079;&#1076; &#1082; &#1089;. &#1050;&#1086;&#1089;&#1091;&#1083;&#1080;&#1085;&#1086; &#1086;&#1090; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1085;&#1086;&#1081; &#1088;&#1072;&#1079;&#1074;&#1103;&#1079;&#1082;&#1080; &#1085;&#1072; &#1082;&#1084; 28+660 &#1072;/&#1076; &#171;&#1075;. &#1045;&#1082;&#1072;&#1090;&#1077;&#1088;&#1080;&#1085;&#1073;&#1091;&#1088;&#1075; &#8212; &#1075;. &#1058;&#1102;&#1084;&#1077;&#1085;&#1100;&#187;" />
+    <tag id="5682220" k="type" o="none" type="relation" v="route" />
+    <tag id="5682220" k="route" o="none" type="relation" v="road" />
+    <tag id="5682220" k="network" o="none" type="relation" v="ru:regional" />
+    <tag id="5682220" k="distance" o="none" type="relation" v="1.229 km" />
+    <tag id="6179650" k="ref" o="none" type="relation" v="E 22" />
+    <tag id="6179650" k="name" o="none" type="relation" v="E 22 Russia East" />
+    <tag id="6179650" k="type" o="none" type="relation" v="route" />
+    <tag id="6179650" k="route" o="none" type="relation" v="road" />
+    <tag id="6179650" k="name:ru" o="none" type="relation" v="&#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080;&#1081; &#1084;&#1072;&#1088;&#1096;&#1088;&#1091;&#1090; E 22" />
+    <tag id="6179650" k="network" o="none" type="relation" v="e-road" />
+    <tag id="6179650" k="description" o="none" type="relation" v="stretch of route Perm &#8212; Yekaterinburg &#8212; Tyumen" />
+    <tag id="6179650" k="wikipedia:ru" o="none" type="relation" v="&#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080;&#1081; &#1084;&#1072;&#1088;&#1096;&#1088;&#1091;&#1090; E22" />
+  </body>
+</changeset>

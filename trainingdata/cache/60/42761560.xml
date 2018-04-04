@@ -1,0 +1,44 @@
+<changeset id="42761560" schema="2">
+  <counts nodesAdded="20" nodesDeleted="3" nodesModified="2" relationsAdded="1" relationsDeleted="0" relationsModified="1" waysAdded="9" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="build" v="2.4-21-g233799c" />
+    <tag k="comment" v="Rathaus, Heiligenwald Schiffweiler" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.4" />
+  </meta>
+  <body>
+    <tag id="582171680" k="bus" o="none" type="node" v="yes" />
+    <tag id="582171680" k="name" o="modify" type="node" v="Rathaus, Heiligenwald Schiffweiler" />
+    <tag id="582171680" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="582171680" k="stop_id" o="none" type="node" v="34705" />
+    <tag id="582171680" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="582171681" k="bus" o="none" type="node" v="yes" />
+    <tag id="582171681" k="name" o="modify" type="node" v="Rathaus, Heiligenwald Schiffweiler" />
+    <tag id="582171681" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="582171681" k="stop_id" o="none" type="node" v="34705" />
+    <tag id="582171681" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="148251818" k="lit" o="add" type="way" v="yes" />
+    <tag id="148251818" k="name" o="none" type="way" v="Langgasse" />
+    <tag id="148251818" k="lanes" o="add" type="way" v="1" />
+    <tag id="148251818" k="oneway" o="none" type="way" v="yes" />
+    <tag id="148251818" k="highway" o="none" type="way" v="living_street" />
+    <tag id="148251818" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="148264641" k="area" o="add" type="way" v="yes" />
+    <tag id="148264641" k="access" o="add" type="way" v="yes" />
+    <tag id="148264641" k="amenity" o="none" type="way" v="parking" />
+    <tag id="148264641" k="parking" o="add" type="way" v="surface" />
+    <tag id="148264641" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="446723410" k="barrier" o="add" type="way" v="fence" />
+    <tag id="446723412" k="barrier" o="add" type="way" v="fence" />
+    <tag id="446723413" k="barrier" o="add" type="way" v="fence" />
+    <tag id="446723415" k="barrier" o="add" type="way" v="fence" />
+    <tag id="446723416" k="barrier" o="add" type="way" v="fence" />
+    <tag id="446723809" k="barrier" o="add" type="way" v="fence" />
+    <tag id="446723810" k="barrier" o="add" type="way" v="fence" />
+    <tag id="6623966" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="6623966" k="landuse" o="none" type="relation" v="residential" />
+    <tag id="6637539" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6637539" k="leisure" o="add" type="relation" v="garden" />
+    <tag id="6637539" k="garden:type" o="add" type="relation" v="private" />
+  </body>
+</changeset>

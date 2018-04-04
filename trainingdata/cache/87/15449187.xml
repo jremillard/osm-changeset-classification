@@ -1,0 +1,300 @@
+<changeset id="15449187" schema="2">
+  <counts nodesAdded="26" nodesDeleted="52" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="7" waysModified="50" />
+  <meta>
+    <tag k="build" v="2.3-554-ge648197" />
+    <tag k="comment" v="Holy heck!  A lot of street data in Parksville is seriously out of alignment - If you're going to import CanVec road data, make sure you adjust it to match the available aerial imagery" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="286095059" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="465531698" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="25482654" k="ref" o="none" type="way" v="4A" />
+    <tag id="25482654" k="name" o="none" type="way" v="Alberni Highway" />
+    <tag id="25482654" k="highway" o="none" type="way" v="primary" />
+    <tag id="26131677" k="name" o="none" type="way" v="Corfield Street" />
+    <tag id="26131677" k="highway" o="none" type="way" v="residential" />
+    <tag id="26131679" k="name" o="none" type="way" v="Jensen Avenue" />
+    <tag id="26131679" k="highway" o="none" type="way" v="residential" />
+    <tag id="26131682" k="name" o="none" type="way" v="Craig Street" />
+    <tag id="26131682" k="is_in" o="add" type="way" v="Parksville,British Columbia" />
+    <tag id="26131682" k="lanes" o="add" type="way" v="2" />
+    <tag id="26131682" k="source" o="add" type="way" v="Geobase_Import_2009" />
+    <tag id="26131682" k="highway" o="none" type="way" v="residential" />
+    <tag id="26131682" k="attribution" o="add" type="way" v="GeoBase&#174;" />
+    <tag id="26131682" k="geobase:acquisitionTechnique" o="add" type="way" v="GPS" />
+    <tag id="26132652" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26132652" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="26151858" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26151858" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="39369612" k="ref" o="none" type="way" v="19A" />
+    <tag id="39369612" k="name" o="none" type="way" v="Old Island Highway" />
+    <tag id="39369612" k="highway" o="none" type="way" v="primary" />
+    <tag id="39505095" k="name" o="none" type="way" v="McMillan Street" />
+    <tag id="39505095" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40559208" k="name" o="none" type="way" v="Woodland Drive" />
+    <tag id="40559208" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40559208" k="lanes" o="none" type="way" v="2" />
+    <tag id="40559208" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40559208" k="highway" o="none" type="way" v="residential" />
+    <tag id="40559208" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40559208" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40559486" k="name" o="none" type="way" v="Mills Street" />
+    <tag id="40559486" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40559486" k="lanes" o="none" type="way" v="2" />
+    <tag id="40559486" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40559486" k="highway" o="none" type="way" v="residential" />
+    <tag id="40559486" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40559486" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40560628" k="name" o="none" type="way" v="Pioneer Crescent" />
+    <tag id="40560628" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40560628" k="lanes" o="none" type="way" v="2" />
+    <tag id="40560628" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40560628" k="highway" o="none" type="way" v="residential" />
+    <tag id="40560628" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40560628" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40560644" k="name" o="none" type="way" v="Jensen Avenue West" />
+    <tag id="40560644" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40560644" k="lanes" o="none" type="way" v="2" />
+    <tag id="40560644" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40560644" k="highway" o="none" type="way" v="residential" />
+    <tag id="40560644" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40560644" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40561218" k="name" o="none" type="way" v="Beachside Drive" />
+    <tag id="40561218" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40561218" k="lanes" o="none" type="way" v="2" />
+    <tag id="40561218" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40561218" k="highway" o="none" type="way" v="residential" />
+    <tag id="40561218" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40561218" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40561866" k="ref" o="none" type="way" v="19A" />
+    <tag id="40561866" k="name" o="none" type="way" v="Old Island Highway West" />
+    <tag id="40561866" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40561866" k="lanes" o="none" type="way" v="2" />
+    <tag id="40561866" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40561866" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40561866" k="highway" o="none" type="way" v="primary" />
+    <tag id="40561866" k="alt_name:en" o="none" type="way" v="Island Highway" />
+    <tag id="40561866" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40561866" k="geobase:routeName1:en" o="none" type="way" v="Island Highway" />
+    <tag id="40561866" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40563944" k="name" o="none" type="way" v="Mills Street" />
+    <tag id="40563944" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40563944" k="lanes" o="none" type="way" v="2" />
+    <tag id="40563944" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40563944" k="highway" o="none" type="way" v="residential" />
+    <tag id="40563944" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40563944" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40564670" k="name" o="none" type="way" v="Morison Avenue" />
+    <tag id="40564670" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40564670" k="lanes" o="none" type="way" v="2" />
+    <tag id="40564670" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40564670" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40564670" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40564670" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40565995" k="name" o="none" type="way" v="Heath Avenue" />
+    <tag id="40565995" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40565995" k="lanes" o="none" type="way" v="2" />
+    <tag id="40565995" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40565995" k="highway" o="none" type="way" v="residential" />
+    <tag id="40565995" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40565995" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40566319" k="name" o="none" type="way" v="Moilliet Street North" />
+    <tag id="40566319" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40566319" k="lanes" o="none" type="way" v="2" />
+    <tag id="40566319" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40566319" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40566319" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40566319" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40566552" k="name" o="none" type="way" v="Corfield Street" />
+    <tag id="40566552" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40566552" k="lanes" o="none" type="way" v="4" />
+    <tag id="40566552" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40566552" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40566552" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40566552" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40566650" k="name" o="none" type="way" v="Hirst Avenue East" />
+    <tag id="40566650" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40566650" k="lanes" o="none" type="way" v="2" />
+    <tag id="40566650" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40566650" k="highway" o="none" type="way" v="residential" />
+    <tag id="40566650" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40566650" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40566998" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40566998" k="lanes" o="none" type="way" v="2" />
+    <tag id="40566998" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40566998" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="40566998" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40566998" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40567048" k="ref" o="none" type="way" v="19A" />
+    <tag id="40567048" k="name" o="none" type="way" v="Old Island Highway West" />
+    <tag id="40567048" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40567048" k="lanes" o="none" type="way" v="2" />
+    <tag id="40567048" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40567048" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40567048" k="highway" o="none" type="way" v="primary" />
+    <tag id="40567048" k="alt_name:en" o="none" type="way" v="Island Highway" />
+    <tag id="40567048" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40567048" k="geobase:routeName1:en" o="none" type="way" v="Island Highway" />
+    <tag id="40567048" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40567647" k="name" o="none" type="way" v="Jensen Avenue West" />
+    <tag id="40567647" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40567647" k="lanes" o="none" type="way" v="2" />
+    <tag id="40567647" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40567647" k="highway" o="none" type="way" v="residential" />
+    <tag id="40567647" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40567647" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40567672" k="ref" o="none" type="way" v="19A" />
+    <tag id="40567672" k="name" o="none" type="way" v="Old Island Highway West" />
+    <tag id="40567672" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40567672" k="lanes" o="none" type="way" v="2" />
+    <tag id="40567672" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40567672" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40567672" k="highway" o="none" type="way" v="primary" />
+    <tag id="40567672" k="alt_name:en" o="none" type="way" v="Island Highway" />
+    <tag id="40567672" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40567672" k="geobase:routeName1:en" o="none" type="way" v="Island Highway" />
+    <tag id="40567672" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40568201" k="name" o="none" type="way" v="Pioneer Crescent" />
+    <tag id="40568201" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40568201" k="lanes" o="none" type="way" v="2" />
+    <tag id="40568201" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40568201" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40568201" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40568201" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40568696" k="name" o="none" type="way" v="Orchard Street" />
+    <tag id="40568696" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40568696" k="lanes" o="none" type="way" v="2" />
+    <tag id="40568696" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40568696" k="highway" o="none" type="way" v="residential" />
+    <tag id="40568696" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40568696" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40570122" k="name" o="none" type="way" v="Stanford Avenue East" />
+    <tag id="40570122" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40570122" k="lanes" o="none" type="way" v="2" />
+    <tag id="40570122" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40570122" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40570122" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40570122" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40570824" k="name" o="none" type="way" v="Birch Avenue" />
+    <tag id="40570824" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40570824" k="lanes" o="none" type="way" v="2" />
+    <tag id="40570824" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40570824" k="highway" o="none" type="way" v="residential" />
+    <tag id="40570824" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40570824" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40571078" k="name" o="none" type="way" v="Pioneer Crescent" />
+    <tag id="40571078" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40571078" k="lanes" o="none" type="way" v="2" />
+    <tag id="40571078" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40571078" k="highway" o="none" type="way" v="residential" />
+    <tag id="40571078" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40571078" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40571272" k="name" o="none" type="way" v="Stanford Avenue West" />
+    <tag id="40571272" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40571272" k="lanes" o="none" type="way" v="2" />
+    <tag id="40571272" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40571272" k="highway" o="none" type="way" v="residential" />
+    <tag id="40571272" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40571272" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40571968" k="name" o="none" type="way" v="Moss Avenue" />
+    <tag id="40571968" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40571968" k="lanes" o="none" type="way" v="1" />
+    <tag id="40571968" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40571968" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40571968" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40571968" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40572668" k="name" o="none" type="way" v="Corfield Street North" />
+    <tag id="40572668" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40572668" k="lanes" o="none" type="way" v="2" />
+    <tag id="40572668" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40572668" k="highway" o="none" type="way" v="residential" />
+    <tag id="40572668" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40572668" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40573836" k="name" o="none" type="way" v="Dogwood Street" />
+    <tag id="40573836" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40573836" k="lanes" o="none" type="way" v="2" />
+    <tag id="40573836" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40573836" k="highway" o="none" type="way" v="residential" />
+    <tag id="40573836" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40573836" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40574691" k="ref" o="none" type="way" v="19A" />
+    <tag id="40574691" k="name" o="none" type="way" v="Old Island Highway West" />
+    <tag id="40574691" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40574691" k="lanes" o="none" type="way" v="2" />
+    <tag id="40574691" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40574691" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40574691" k="highway" o="none" type="way" v="primary" />
+    <tag id="40574691" k="alt_name:en" o="none" type="way" v="Island Highway" />
+    <tag id="40574691" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40574691" k="geobase:routeName1:en" o="none" type="way" v="Island Highway" />
+    <tag id="40574691" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40574938" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40574938" k="lanes" o="none" type="way" v="2" />
+    <tag id="40574938" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40574938" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="40574938" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40574938" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40575068" k="ref" o="none" type="way" v="19A" />
+    <tag id="40575068" k="name" o="none" type="way" v="Old Island Highway West" />
+    <tag id="40575068" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40575068" k="lanes" o="none" type="way" v="2" />
+    <tag id="40575068" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40575068" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40575068" k="highway" o="none" type="way" v="primary" />
+    <tag id="40575068" k="alt_name:en" o="none" type="way" v="Island Highway" />
+    <tag id="40575068" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40575068" k="geobase:routeName1:en" o="none" type="way" v="Island Highway" />
+    <tag id="40575068" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40575931" k="name" o="none" type="way" v="Roscow Street" />
+    <tag id="40575931" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40575931" k="lanes" o="none" type="way" v="2" />
+    <tag id="40575931" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40575931" k="highway" o="none" type="way" v="residential" />
+    <tag id="40575931" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40575931" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40576192" k="ref" o="none" type="way" v="19A" />
+    <tag id="40576192" k="name" o="none" type="way" v="Old Island Highway West" />
+    <tag id="40576192" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40576192" k="lanes" o="none" type="way" v="2" />
+    <tag id="40576192" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40576192" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40576192" k="highway" o="none" type="way" v="primary" />
+    <tag id="40576192" k="alt_name:en" o="none" type="way" v="Island Highway" />
+    <tag id="40576192" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40576192" k="geobase:routeName1:en" o="none" type="way" v="Island Highway" />
+    <tag id="40576192" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40576543" k="name" o="none" type="way" v="Mills Street" />
+    <tag id="40576543" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40576543" k="lanes" o="none" type="way" v="2" />
+    <tag id="40576543" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40576543" k="highway" o="none" type="way" v="residential" />
+    <tag id="40576543" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40576543" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40577112" k="name" o="none" type="way" v="Moilliet Street South" />
+    <tag id="40577112" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40577112" k="lanes" o="none" type="way" v="2" />
+    <tag id="40577112" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40577112" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40577112" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40577112" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="40577208" k="name" o="none" type="way" v="Stanford Avenue East" />
+    <tag id="40577208" k="is_in" o="none" type="way" v="Parksville,British Columbia" />
+    <tag id="40577208" k="lanes" o="none" type="way" v="2" />
+    <tag id="40577208" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="40577208" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40577208" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="40577208" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="76074319" k="ref" o="none" type="way" v="19A" />
+    <tag id="76074319" k="name" o="none" type="way" v="Old Island Highway" />
+    <tag id="76074319" k="bridge" o="add" type="way" v="yes" />
+    <tag id="76074319" k="highway" o="none" type="way" v="primary" />
+    <tag id="76074322" k="ref" o="none" type="way" v="19A" />
+    <tag id="76074322" k="name" o="none" type="way" v="Old Island Highway" />
+    <tag id="76074322" k="oneway" o="none" type="way" v="true" />
+    <tag id="76074322" k="highway" o="none" type="way" v="primary" />
+    <tag id="211376783" k="ref" o="add" type="way" v="19A" />
+    <tag id="211376783" k="name" o="add" type="way" v="Old Island Highway" />
+    <tag id="211376783" k="highway" o="add" type="way" v="primary" />
+  </body>
+</changeset>

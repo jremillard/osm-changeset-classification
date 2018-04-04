@@ -1,0 +1,934 @@
+<changeset id="20427386" schema="2">
+  <counts nodesAdded="381" nodesDeleted="98" nodesModified="8" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="141" waysDeleted="42" waysModified="142" />
+  <meta>
+    <tag k="build" v="2.3-605-gbec0ea7" />
+    <tag k="comment" v="Deer Park to Melton M8 upgrade" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="36405114" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="1412733158" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="1412762795" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="2262433187" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="2383103647" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="2596576863" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="2596576869" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="2657164861" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="5085511" k="ref" o="none" type="way" v="M8" />
+    <tag id="5085511" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="5085511" k="lanes" o="none" type="way" v="2" />
+    <tag id="5085511" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5085511" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="5085511" k="highway" o="none" type="way" v="motorway" />
+    <tag id="5085511" k="network" o="none" type="way" v="NH" />
+    <tag id="5085511" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="5085511" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="27650361" k="ref" o="none" type="way" v="M8" />
+    <tag id="27650361" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="27650361" k="lanes" o="none" type="way" v="2" />
+    <tag id="27650361" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27650361" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="27650361" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27650361" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="27650361" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="29441163" k="name" o="none" type="way" v="Buangor - Ben Nevis Road" />
+    <tag id="29441163" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="32812616" k="name" o="none" type="way" v="Palm Springs Road" />
+    <tag id="32812616" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="39023166" k="ref" o="none" type="way" v="A8" />
+    <tag id="39023166" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="39023166" k="lanes" o="none" type="way" v="3" />
+    <tag id="39023166" k="oneway" o="none" type="way" v="no" />
+    <tag id="39023166" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="39023166" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="39023166" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="39023167" k="ref" o="none" type="way" v="A8" />
+    <tag id="39023167" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="39023167" k="lanes" o="none" type="way" v="3" />
+    <tag id="39023167" k="layer" o="none" type="way" v="1" />
+    <tag id="39023167" k="bridge" o="none" type="way" v="yes" />
+    <tag id="39023167" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="39023167" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="39023167" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="39287495" k="name" o="none" type="way" v="Westcott Parade" />
+    <tag id="39287495" k="lanes" o="none" type="way" v="2" />
+    <tag id="39287495" k="oneway" o="none" type="way" v="no" />
+    <tag id="39287495" k="source" o="none" type="way" v="nearmap" />
+    <tag id="39287495" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="39287495" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="39287495" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="43832032" k="name" o="none" type="way" v="Ferntree Gully Road" />
+    <tag id="43832032" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="43832032" k="surface" o="none" type="way" v="gravel" />
+    <tag id="46815082" k="name" o="none" type="way" v="Eurambeen - Streatham Road" />
+    <tag id="46815082" k="oneway" o="none" type="way" v="no" />
+    <tag id="46815082" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="46829407" k="ref" o="none" type="way" v="C172" />
+    <tag id="46829407" k="name" o="none" type="way" v="Beaufort - Lexton Road" />
+    <tag id="46829407" k="source" o="none" type="way" v="survey, osm gps tracks" />
+    <tag id="46829407" k="highway" o="none" type="way" v="secondary" />
+    <tag id="46829407" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="57755884" k="source" o="none" type="way" v="nearmap" />
+    <tag id="57755884" k="highway" o="modify" type="way" v="residential" />
+    <tag id="63521653" k="name" o="none" type="way" v="Leakes Road" />
+    <tag id="63521653" k="oneway" o="none" type="way" v="yes" />
+    <tag id="63521653" k="source" o="none" type="way" v="nearmap" />
+    <tag id="63521653" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="63521653" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="63521662" k="name" o="none" type="way" v="Leakes Road" />
+    <tag id="63521662" k="oneway" o="none" type="way" v="yes" />
+    <tag id="63521662" k="source" o="none" type="way" v="nearmap" />
+    <tag id="63521662" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="63521662" k="maxspeed" o="modify" type="way" v="40" />
+    <tag id="63521806" k="oneway" o="none" type="way" v="yes" />
+    <tag id="63521806" k="source" o="none" type="way" v="nearmap" />
+    <tag id="63521806" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="63521806" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="63521807" k="oneway" o="none" type="way" v="yes" />
+    <tag id="63521807" k="source" o="none" type="way" v="nearmap" />
+    <tag id="63521807" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="63521807" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="67187064" k="ref" o="none" type="way" v="M8" />
+    <tag id="67187064" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="67187064" k="lanes" o="none" type="way" v="2" />
+    <tag id="67187064" k="layer" o="none" type="way" v="1" />
+    <tag id="67187064" k="oneway" o="none" type="way" v="yes" />
+    <tag id="67187064" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="67187064" k="highway" o="none" type="way" v="motorway" />
+    <tag id="81152281" k="ref" o="none" type="way" v="M8" />
+    <tag id="81152281" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="81152281" k="lanes" o="none" type="way" v="2" />
+    <tag id="81152281" k="oneway" o="none" type="way" v="yes" />
+    <tag id="81152281" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="81152281" k="highway" o="none" type="way" v="motorway" />
+    <tag id="81152281" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="93168063" k="name" o="none" type="way" v="High Street" />
+    <tag id="93168063" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="93168063" k="old_name" o="none" type="way" v="Western Highway" />
+    <tag id="105664811" k="name" o="none" type="way" v="Modesty Lane" />
+    <tag id="105664811" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="109932147" k="name" o="none" type="way" v="Dowling Road" />
+    <tag id="109932147" k="highway" o="none" type="way" v="residential" />
+    <tag id="109932147" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="109936064" k="name" o="none" type="way" v="Blind Creek Road" />
+    <tag id="109936064" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="109936064" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="109936066" k="name" o="none" type="way" v="Powells Road" />
+    <tag id="109936066" k="oneway" o="none" type="way" v="no" />
+    <tag id="109936066" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="109936066" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="123313877" k="name" o="none" type="way" v="Gravel Route Road" />
+    <tag id="123313877" k="oneway" o="none" type="way" v="no" />
+    <tag id="123313877" k="highway" o="modify" type="way" v="primary" />
+    <tag id="127693409" k="name" o="none" type="way" v="Mount Cottrell Road" />
+    <tag id="127693409" k="lanes" o="none" type="way" v="2" />
+    <tag id="127693409" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="127693409" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="127693409" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="127696517" k="name" o="none" type="way" v="Mount Cottrell Road" />
+    <tag id="127696517" k="lanes" o="none" type="way" v="2" />
+    <tag id="127696517" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="127696517" k="surface" o="none" type="way" v="dirt" />
+    <tag id="127696517" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="127696520" k="name" o="none" type="way" v="Paynes Road" />
+    <tag id="127696520" k="lanes" o="none" type="way" v="2" />
+    <tag id="127696520" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="127696520" k="surface" o="none" type="way" v="dirt" />
+    <tag id="127696520" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="127699471" k="highway" o="none" type="way" v="service" />
+    <tag id="127699472" k="ref" o="none" type="way" v="M8" />
+    <tag id="127699472" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="127699472" k="lanes" o="none" type="way" v="2" />
+    <tag id="127699472" k="oneway" o="none" type="way" v="yes" />
+    <tag id="127699472" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="127699472" k="highway" o="none" type="way" v="motorway" />
+    <tag id="127699472" k="network" o="none" type="way" v="NH" />
+    <tag id="127699472" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="127699472" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="127699476" k="name" o="none" type="way" v="Western Freeway Onramp" />
+    <tag id="127699476" k="oneway" o="none" type="way" v="yes" />
+    <tag id="127699476" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="127699476" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="128068399" k="name" o="none" type="way" v="Draffins Road" />
+    <tag id="128068399" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="128214005" k="name" o="none" type="way" v="Powells Road" />
+    <tag id="128214005" k="oneway" o="none" type="way" v="no" />
+    <tag id="128214005" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="128214005" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="128214006" k="name" o="none" type="way" v="Powells Road" />
+    <tag id="128214006" k="oneway" o="none" type="way" v="no" />
+    <tag id="128214006" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="128214006" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="129030862" k="name" o="none" type="way" v="Davenport Road" />
+    <tag id="129030862" k="oneway" o="none" type="way" v="no" />
+    <tag id="129030862" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="130073529" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="130074285" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="146013041" k="access" o="none" type="way" v="permissive" />
+    <tag id="146013041" k="oneway" o="none" type="way" v="no" />
+    <tag id="146013041" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="146013041" k="service" o="none" type="way" v="drive-through" />
+    <tag id="146013041" k="surface" o="none" type="way" v="gravel" />
+    <tag id="146013083" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="146013083" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="158623749" k="name" o="none" type="way" v="Goulds Lane" />
+    <tag id="158623749" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="165157530" k="name" o="none" type="way" v="Station Street" />
+    <tag id="165157530" k="highway" o="none" type="way" v="residential" />
+    <tag id="165159261" k="name" o="none" type="way" v="Cockpit Logoon Road" />
+    <tag id="165159261" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="166197391" k="name" o="none" type="way" v="Smiths Lane" />
+    <tag id="166197391" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="166197391" k="source:name" o="none" type="way" v="survey" />
+    <tag id="166424751" k="name" o="none" type="way" v="Stars Road" />
+    <tag id="166424751" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="166424892" k="name" o="none" type="way" v="Aherns Road" />
+    <tag id="166424892" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="166429539" k="name" o="none" type="way" v="Middle Creek Road" />
+    <tag id="166429539" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="174323470" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="174324094" k="highway" o="none" type="way" v="track" />
+    <tag id="174609699" k="landuse" o="none" type="way" v="farmyard" />
+    <tag id="192671671" k="ref" o="none" type="way" v="A8" />
+    <tag id="192671671" k="name" o="none" type="way" v="Neill Street" />
+    <tag id="192671671" k="oneway" o="none" type="way" v="no" />
+    <tag id="192671671" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="192671671" k="alt_name" o="none" type="way" v="Western Highway" />
+    <tag id="192671671" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="192888587" k="name" o="none" type="way" v="Main Lead Road" />
+    <tag id="192888587" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="192888587" k="source:name" o="none" type="way" v="survey" />
+    <tag id="193061127" k="ref" o="none" type="way" v="A8" />
+    <tag id="193061127" k="name" o="none" type="way" v="Neill Street" />
+    <tag id="193061127" k="oneway" o="none" type="way" v="no" />
+    <tag id="193061127" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="193061127" k="alt_name" o="none" type="way" v="Western Highway" />
+    <tag id="193061127" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="193063563" k="ref" o="none" type="way" v="A8" />
+    <tag id="193063563" k="name" o="none" type="way" v="High Street" />
+    <tag id="193063563" k="oneway" o="none" type="way" v="no" />
+    <tag id="193063563" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="193063563" k="alt_name" o="none" type="way" v="Western Highway" />
+    <tag id="193063563" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="193063564" k="ref" o="none" type="way" v="A8" />
+    <tag id="193063564" k="name" o="none" type="way" v="Neill Street" />
+    <tag id="193063564" k="oneway" o="none" type="way" v="no" />
+    <tag id="193063564" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="193063564" k="alt_name" o="none" type="way" v="Western Highway" />
+    <tag id="193063564" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="193063565" k="ref" o="none" type="way" v="A8" />
+    <tag id="193063565" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="193063565" k="oneway" o="none" type="way" v="no" />
+    <tag id="193063565" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="193063565" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="194385197" k="name" o="none" type="way" v="Raglan Road" />
+    <tag id="194385197" k="note" o="none" type="way" v="This road is not gazetted with a name, but is a continuation of Raglan Road, and named as such" />
+    <tag id="194385197" k="source" o="none" type="way" v="bing" />
+    <tag id="194385197" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="194385197" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="201044305" k="ref" o="none" type="way" v="M8" />
+    <tag id="201044305" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="201044305" k="lanes" o="none" type="way" v="2" />
+    <tag id="201044305" k="oneway" o="none" type="way" v="yes" />
+    <tag id="201044305" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="201044305" k="highway" o="none" type="way" v="motorway" />
+    <tag id="201044305" k="network" o="none" type="way" v="NH" />
+    <tag id="201044305" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="201044305" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="201044307" k="ref" o="none" type="way" v="M8" />
+    <tag id="201044307" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="201044307" k="lanes" o="none" type="way" v="2" />
+    <tag id="201044307" k="oneway" o="none" type="way" v="yes" />
+    <tag id="201044307" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="201044307" k="highway" o="none" type="way" v="motorway" />
+    <tag id="201044307" k="network" o="none" type="way" v="NH" />
+    <tag id="201044307" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="201044307" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="208357775" k="name" o="none" type="way" v="Ballarat Road Service Road" />
+    <tag id="208357775" k="oneway" o="none" type="way" v="no" />
+    <tag id="208357775" k="highway" o="modify" type="way" v="residential" />
+    <tag id="208357775" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208357785" k="name" o="none" type="way" v="Westcott Parade" />
+    <tag id="208357785" k="lanes" o="none" type="way" v="2" />
+    <tag id="208357785" k="oneway" o="none" type="way" v="no" />
+    <tag id="208357785" k="source" o="none" type="way" v="nearmap" />
+    <tag id="208357785" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="208357785" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208357785" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="208357787" k="name" o="none" type="way" v="Westcott Parade" />
+    <tag id="208357787" k="lanes" o="none" type="way" v="2" />
+    <tag id="208357787" k="oneway" o="none" type="way" v="no" />
+    <tag id="208357787" k="source" o="none" type="way" v="nearmap" />
+    <tag id="208357787" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="208357787" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208357787" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="208357789" k="name" o="none" type="way" v="Westcott Parade" />
+    <tag id="208357789" k="lanes" o="none" type="way" v="2" />
+    <tag id="208357789" k="oneway" o="none" type="way" v="-1" />
+    <tag id="208357789" k="source" o="none" type="way" v="nearmap" />
+    <tag id="208357789" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="208357789" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208357789" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="208357791" k="name" o="none" type="way" v="Westcott Parade" />
+    <tag id="208357791" k="lanes" o="none" type="way" v="2" />
+    <tag id="208357791" k="oneway" o="none" type="way" v="yes" />
+    <tag id="208357791" k="source" o="none" type="way" v="nearmap" />
+    <tag id="208357791" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="208357791" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208357791" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="208357795" k="name" o="none" type="way" v="Troups Road North" />
+    <tag id="208357795" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="208357795" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="208357800" k="name" o="none" type="way" v="Westcott Parade" />
+    <tag id="208357800" k="lanes" o="none" type="way" v="2" />
+    <tag id="208357800" k="oneway" o="none" type="way" v="no" />
+    <tag id="208357800" k="source" o="none" type="way" v="nearmap" />
+    <tag id="208357800" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="208357800" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="208357800" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="208357809" k="name" o="none" type="way" v="Ballarat Road" />
+    <tag id="208357809" k="oneway" o="none" type="way" v="no" />
+    <tag id="208357809" k="highway" o="none" type="way" v="residential" />
+    <tag id="208357809" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="209721338" k="ref" o="none" type="way" v="M8" />
+    <tag id="209721338" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="209721338" k="note" o="none" type="way" v="Western Highway Duplication 1B" />
+    <tag id="209721338" k="lanes" o="none" type="way" v="2" />
+    <tag id="209721338" k="oneway" o="none" type="way" v="yes" />
+    <tag id="209721338" k="highway" o="none" type="way" v="motorway" />
+    <tag id="209721338" k="website" o="none" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="209721338" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="209721338" k="construction" o="none" type="way" v="motorway" />
+    <tag id="209721341" k="ref" o="none" type="way" v="M8" />
+    <tag id="209721341" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="209721341" k="note" o="none" type="way" v="Western Highway Duplication 1B" />
+    <tag id="209721341" k="lanes" o="none" type="way" v="2" />
+    <tag id="209721341" k="oneway" o="none" type="way" v="yes" />
+    <tag id="209721341" k="highway" o="none" type="way" v="motorway" />
+    <tag id="209721341" k="website" o="none" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="209721341" k="construction" o="none" type="way" v="motorway" />
+    <tag id="209722578" k="ref" o="none" type="way" v="M8" />
+    <tag id="209722578" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="209722578" k="note" o="none" type="way" v="Western Highway Duplication 1B" />
+    <tag id="209722578" k="lanes" o="none" type="way" v="2" />
+    <tag id="209722578" k="oneway" o="none" type="way" v="yes" />
+    <tag id="209722578" k="highway" o="none" type="way" v="motorway" />
+    <tag id="209722578" k="website" o="none" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="209722578" k="construction" o="none" type="way" v="motorway" />
+    <tag id="216928515" k="ref" o="none" type="way" v="A8" />
+    <tag id="216928515" k="name" o="none" type="way" v="High Street" />
+    <tag id="216928515" k="oneway" o="none" type="way" v="no" />
+    <tag id="216928515" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="216928515" k="alt_name" o="none" type="way" v="Western Highway" />
+    <tag id="216928515" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="216928517" k="ref" o="none" type="way" v="M8" />
+    <tag id="216928517" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="216928517" k="lanes" o="none" type="way" v="2" />
+    <tag id="216928517" k="oneway" o="none" type="way" v="-1" />
+    <tag id="216928517" k="highway" o="none" type="way" v="motorway" />
+    <tag id="216928517" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="216928517" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="216928517" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="216928518" k="ref" o="none" type="way" v="M8" />
+    <tag id="216928518" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="216928518" k="oneway" o="none" type="way" v="-1" />
+    <tag id="216928518" k="highway" o="none" type="way" v="motorway" />
+    <tag id="216928518" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="216928520" k="ref" o="none" type="way" v="A8" />
+    <tag id="216928520" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="216928520" k="oneway" o="none" type="way" v="no" />
+    <tag id="216928520" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="216928520" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="216928523" k="ref" o="none" type="way" v="A8" />
+    <tag id="216928523" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="216928523" k="lanes" o="none" type="way" v="3" />
+    <tag id="216928523" k="oneway" o="none" type="way" v="no" />
+    <tag id="216928523" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="216928523" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="216928523" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="216928527" k="name" o="none" type="way" v="Yerrabbin Road" />
+    <tag id="216928527" k="source" o="none" type="way" v="bing" />
+    <tag id="216928527" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="216928527" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="229758112" k="ref" o="none" type="way" v="M8" />
+    <tag id="229758112" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="229758112" k="note" o="none" type="way" v="Western Highway Duplication 1B" />
+    <tag id="229758112" k="lanes" o="none" type="way" v="2" />
+    <tag id="229758112" k="layer" o="add" type="way" v="1" />
+    <tag id="229758112" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229758112" k="highway" o="none" type="way" v="motorway" />
+    <tag id="229758112" k="website" o="none" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="229758112" k="construction" o="none" type="way" v="motorway" />
+    <tag id="229758114" k="ref" o="none" type="way" v="M8" />
+    <tag id="229758114" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="229758114" k="note" o="none" type="way" v="Western Highway Duplication 1B" />
+    <tag id="229758114" k="lanes" o="none" type="way" v="2" />
+    <tag id="229758114" k="layer" o="add" type="way" v="1" />
+    <tag id="229758114" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229758114" k="highway" o="none" type="way" v="motorway" />
+    <tag id="229758114" k="website" o="none" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="229758114" k="construction" o="none" type="way" v="motorway" />
+    <tag id="229758116" k="ref" o="none" type="way" v="M8" />
+    <tag id="229758116" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="229758116" k="note" o="none" type="way" v="Western Highway Duplication 1B" />
+    <tag id="229758116" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229758116" k="highway" o="none" type="way" v="motorway" />
+    <tag id="229758116" k="website" o="none" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="229758116" k="construction" o="none" type="way" v="motorway" />
+    <tag id="229758135" k="name" o="none" type="way" v="Avenue Road" />
+    <tag id="229758135" k="highway" o="none" type="way" v="secondary" />
+    <tag id="229758135" k="construction" o="none" type="way" v="unclassified" />
+    <tag id="231913556" k="ref" o="none" type="way" v="A8" />
+    <tag id="231913556" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="231913556" k="oneway" o="none" type="way" v="no" />
+    <tag id="231913556" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="231913556" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="233624316" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="233624325" k="ref" o="none" type="way" v="M8" />
+    <tag id="233624325" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="233624325" k="lanes" o="none" type="way" v="2" />
+    <tag id="233624325" k="oneway" o="none" type="way" v="yes" />
+    <tag id="233624325" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="233624325" k="highway" o="none" type="way" v="motorway" />
+    <tag id="233624325" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="233624328" k="ref" o="none" type="way" v="M8" />
+    <tag id="233624328" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="233624328" k="lanes" o="none" type="way" v="2" />
+    <tag id="233624328" k="oneway" o="none" type="way" v="yes" />
+    <tag id="233624328" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="233624328" k="highway" o="none" type="way" v="motorway" />
+    <tag id="233624328" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="241576203" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="241576203" k="lanes" o="none" type="way" v="2" />
+    <tag id="241576203" k="oneway" o="none" type="way" v="yes" />
+    <tag id="241576203" k="highway" o="none" type="way" v="motorway" />
+    <tag id="241576203" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="241576203" k="construction" o="none" type="way" v="motorway" />
+    <tag id="252124076" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="255216417" k="name" o="none" type="way" v="Peacocks Road" />
+    <tag id="255216417" k="oneway" o="none" type="way" v="no" />
+    <tag id="255216417" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="255216417" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="260051964" k="ref" o="none" type="way" v="M8" />
+    <tag id="260051964" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="260051964" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260051964" k="source" o="none" type="way" v="http://www.vicroads.vic.gov.au/NR/rdonlyres/82BBEA0D-9C4D-4247-9BB5-417268DE2846/0/VicRoadsMapBtoA_20DEC13.pdf" />
+    <tag id="260051964" k="highway" o="none" type="way" v="motorway" />
+    <tag id="260051964" k="maxspeed" o="none" type="way" v="110" />
+    <tag id="260051964" k="proposed" o="none" type="way" v="trunk" />
+    <tag id="260051970" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260051970" k="oneway" o="none" type="way" v="-1" />
+    <tag id="260051970" k="source" o="none" type="way" v="http://www.vicroads.vic.gov.au/NR/rdonlyres/82BBEA0D-9C4D-4247-9BB5-417268DE2846/0/VicRoadsMapBtoA_20DEC13.pdf" />
+    <tag id="260051970" k="highway" o="none" type="way" v="motorway" />
+    <tag id="260051970" k="proposed" o="none" type="way" v="trunk" />
+    <tag id="260092106" k="ref" o="none" type="way" v="M8" />
+    <tag id="260092106" k="name" o="none" type="way" v="Western Freeway" />
+    <tag id="260092106" k="oneway" o="none" type="way" v="-1" />
+    <tag id="260092106" k="highway" o="none" type="way" v="motorway" />
+    <tag id="260097910" k="ref" o="none" type="way" v="A8" />
+    <tag id="260097910" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260097910" k="oneway" o="none" type="way" v="no" />
+    <tag id="260097910" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097911" k="ref" o="none" type="way" v="A8" />
+    <tag id="260097911" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260097911" k="bridge" o="none" type="way" v="yes" />
+    <tag id="260097911" k="oneway" o="none" type="way" v="no" />
+    <tag id="260097911" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097912" k="ref" o="none" type="way" v="A8" />
+    <tag id="260097912" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260097912" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260097912" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097913" k="layer" o="none" type="way" v="-2" />
+    <tag id="260097913" k="bridge" o="none" type="way" v="viaduct" />
+    <tag id="260097913" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260097913" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097914" k="ref" o="none" type="way" v="A8" />
+    <tag id="260097914" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260097914" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260097914" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097915" k="ref" o="none" type="way" v="A8" />
+    <tag id="260097915" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260097915" k="oneway" o="none" type="way" v="no" />
+    <tag id="260097915" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097916" k="oneway" o="none" type="way" v="-1" />
+    <tag id="260097916" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097917" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260097917" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260097918" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260097918" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="260232636" k="ref" o="none" type="way" v="A8" />
+    <tag id="260232636" k="name" o="none" type="way" v="Western Highway" />
+    <tag id="260232636" k="oneway" o="none" type="way" v="no" />
+    <tag id="260232636" k="highway" o="none" type="way" v="trunk" />
+    <tag id="260232762" k="lanes" o="none" type="way" v="2" />
+    <tag id="260232762" k="layer" o="add" type="way" v="1" />
+    <tag id="260232762" k="bridge" o="none" type="way" v="yes" />
+    <tag id="260232762" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260232762" k="highway" o="modify" type="way" v="primary" />
+    <tag id="260232828" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260232828" k="highway" o="modify" type="way" v="primary" />
+    <tag id="260232829" k="oneway" o="none" type="way" v="yes" />
+    <tag id="260232829" k="highway" o="modify" type="way" v="primary" />
+    <tag id="260428893" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428893" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="260428894" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428894" k="highway" o="add" type="way" v="service" />
+    <tag id="260428895" k="highway" o="add" type="way" v="residential" />
+    <tag id="260428896" k="highway" o="add" type="way" v="road" />
+    <tag id="260428897" k="name" o="add" type="way" v="Leakes Road" />
+    <tag id="260428897" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428897" k="source" o="add" type="way" v="nearmap" />
+    <tag id="260428897" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260428897" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="260428898" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428898" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428899" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428899" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428899" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="260428900" k="name" o="add" type="way" v="Troups Road North" />
+    <tag id="260428900" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428900" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="260428901" k="highway" o="add" type="way" v="service" />
+    <tag id="260428902" k="highway" o="add" type="way" v="service" />
+    <tag id="260428903" k="name" o="add" type="way" v="Paynes Road" />
+    <tag id="260428903" k="lanes" o="add" type="way" v="1" />
+    <tag id="260428903" k="layer" o="add" type="way" v="1" />
+    <tag id="260428903" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260428903" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260428903" k="surface" o="add" type="way" v="dirt" />
+    <tag id="260428903" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="260428904" k="name" o="add" type="way" v="Leakes Road" />
+    <tag id="260428904" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428904" k="source" o="add" type="way" v="nearmap" />
+    <tag id="260428904" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428904" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="260428905" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428905" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428906" k="name" o="add" type="way" v="High Street" />
+    <tag id="260428906" k="layer" o="add" type="way" v="1" />
+    <tag id="260428906" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260428906" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428906" k="old_name" o="add" type="way" v="Western Highway" />
+    <tag id="260428907" k="name" o="add" type="way" v="High Street" />
+    <tag id="260428907" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260428907" k="old_name" o="add" type="way" v="Western Highway" />
+    <tag id="260428908" k="highway" o="add" type="way" v="service" />
+    <tag id="260428909" k="highway" o="add" type="way" v="road" />
+    <tag id="260428910" k="name" o="add" type="way" v="Leakes Road" />
+    <tag id="260428910" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260428910" k="source" o="add" type="way" v="nearmap" />
+    <tag id="260428910" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260428910" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="260428911" k="name" o="add" type="way" v="Mount Cottrell Road" />
+    <tag id="260428911" k="lanes" o="add" type="way" v="1" />
+    <tag id="260428911" k="layer" o="add" type="way" v="1" />
+    <tag id="260428911" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260428911" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260428911" k="surface" o="add" type="way" v="dirt" />
+    <tag id="260428911" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="260433404" k="layer" o="add" type="way" v="1" />
+    <tag id="260433404" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433404" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433405" k="name" o="add" type="way" v="Burrumbeet Road" />
+    <tag id="260433405" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433406" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433406" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433407" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433408" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433409" k="name" o="add" type="way" v="Black Bottom Road" />
+    <tag id="260433409" k="layer" o="add" type="way" v="1" />
+    <tag id="260433409" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433409" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433410" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433410" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433412" k="layer" o="add" type="way" v="1" />
+    <tag id="260433412" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433412" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260433412" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433417" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433417" k="source" o="add" type="way" v="Bing" />
+    <tag id="260433417" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="260433417" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="260433419" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433419" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433420" k="name" o="add" type="way" v="Kayleys Lane" />
+    <tag id="260433420" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433421" k="name" o="add" type="way" v="Draffins Road" />
+    <tag id="260433421" k="layer" o="add" type="way" v="1" />
+    <tag id="260433421" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433421" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260433422" k="layer" o="add" type="way" v="1" />
+    <tag id="260433422" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433422" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260433423" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433423" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433424" k="layer" o="add" type="way" v="1" />
+    <tag id="260433424" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433424" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260433425" k="name" o="add" type="way" v="Black Bottom Road" />
+    <tag id="260433425" k="layer" o="add" type="way" v="1" />
+    <tag id="260433425" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433425" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433426" k="name" o="add" type="way" v="Station Street" />
+    <tag id="260433426" k="layer" o="add" type="way" v="1" />
+    <tag id="260433426" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433426" k="highway" o="add" type="way" v="residential" />
+    <tag id="260433427" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433427" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433428" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433429" k="highway" o="add" type="way" v="residential" />
+    <tag id="260433430" k="ref" o="add" type="way" v="C806" />
+    <tag id="260433430" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433431" k="name" o="add" type="way" v="Blind Creek Road" />
+    <tag id="260433431" k="layer" o="add" type="way" v="1" />
+    <tag id="260433431" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433431" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433431" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260433432" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433432" k="highway" o="add" type="way" v="residential" />
+    <tag id="260433433" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433433" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433434" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433434" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433435" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433435" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433436" k="name" o="add" type="way" v="Avenue Road" />
+    <tag id="260433436" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433436" k="construction" o="add" type="way" v="unclassified" />
+    <tag id="260433437" k="name" o="add" type="way" v="Dowling Road" />
+    <tag id="260433437" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260433437" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260433438" k="name" o="add" type="way" v="Draffins Road" />
+    <tag id="260433438" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260433439" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433439" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433440" k="name" o="add" type="way" v="Black Bottom Road" />
+    <tag id="260433440" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433441" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260433441" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433442" k="layer" o="add" type="way" v="1" />
+    <tag id="260433442" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433442" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433443" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433444" k="highway" o="add" type="way" v="trunk" />
+    <tag id="260433445" k="ref" o="add" type="way" v="C806" />
+    <tag id="260433445" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433446" k="name" o="add" type="way" v="Black Bottom Road" />
+    <tag id="260433446" k="layer" o="add" type="way" v="1" />
+    <tag id="260433446" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433447" k="ref" o="add" type="way" v="C806" />
+    <tag id="260433447" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433448" k="name" o="add" type="way" v="Blind Creek Road" />
+    <tag id="260433448" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260433448" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260433449" k="layer" o="add" type="way" v="1" />
+    <tag id="260433449" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433449" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433450" k="layer" o="add" type="way" v="1" />
+    <tag id="260433450" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433450" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260433451" k="name" o="add" type="way" v="Powells Road" />
+    <tag id="260433451" k="layer" o="add" type="way" v="1" />
+    <tag id="260433451" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433451" k="oneway" o="add" type="way" v="no" />
+    <tag id="260433451" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260433451" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260433452" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260433452" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433453" k="ref" o="add" type="way" v="M8" />
+    <tag id="260433453" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260433453" k="lanes" o="add" type="way" v="2" />
+    <tag id="260433453" k="layer" o="add" type="way" v="1" />
+    <tag id="260433453" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433453" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433453" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="260433453" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433454" k="layer" o="add" type="way" v="1" />
+    <tag id="260433454" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260433454" k="highway" o="add" type="way" v="residential" />
+    <tag id="260433455" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260433455" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433456" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260433456" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260433458" k="landuse" o="add" type="way" v="farmland" />
+    <tag id="260439541" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439542" k="name" o="add" type="way" v="Goulds Lane" />
+    <tag id="260439542" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439543" k="ref" o="add" type="way" v="M8" />
+    <tag id="260439543" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260439543" k="note" o="add" type="way" v="Western Highway Duplication 1B" />
+    <tag id="260439543" k="lanes" o="add" type="way" v="2" />
+    <tag id="260439543" k="layer" o="add" type="way" v="1" />
+    <tag id="260439543" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439543" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439543" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439543" k="website" o="add" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="260439543" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260439543" k="construction" o="add" type="way" v="motorway" />
+    <tag id="260439544" k="source" o="add" type="way" v="bing" />
+    <tag id="260439544" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439545" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260439545" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439546" k="name" o="add" type="way" v="Smiths Lane" />
+    <tag id="260439546" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439546" k="source:name" o="add" type="way" v="survey" />
+    <tag id="260439547" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439547" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439548" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260439548" k="lanes" o="add" type="way" v="2" />
+    <tag id="260439548" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439548" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439548" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260439548" k="construction" o="add" type="way" v="motorway" />
+    <tag id="260439549" k="layer" o="add" type="way" v="1" />
+    <tag id="260439549" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439549" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439550" k="layer" o="add" type="way" v="1" />
+    <tag id="260439550" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439550" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439551" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439552" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439552" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439553" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439554" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439555" k="ref" o="add" type="way" v="C172" />
+    <tag id="260439555" k="name" o="add" type="way" v="Beaufort - Lexton Road" />
+    <tag id="260439555" k="source" o="add" type="way" v="survey, osm gps tracks" />
+    <tag id="260439555" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439555" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="260439556" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439556" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439557" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439557" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439558" k="name" o="add" type="way" v="Main Lead Road" />
+    <tag id="260439558" k="layer" o="add" type="way" v="1" />
+    <tag id="260439558" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439558" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260439558" k="source:name" o="add" type="way" v="survey" />
+    <tag id="260439559" k="name" o="add" type="way" v="Ferntree Gully Road" />
+    <tag id="260439559" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439559" k="surface" o="add" type="way" v="gravel" />
+    <tag id="260439560" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439560" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439561" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439562" k="ref" o="add" type="way" v="M8" />
+    <tag id="260439562" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260439562" k="note" o="add" type="way" v="Western Highway Duplication 1B" />
+    <tag id="260439562" k="lanes" o="add" type="way" v="2" />
+    <tag id="260439562" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439562" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439562" k="website" o="add" type="way" v="http://www.vicroads.vic.gov.au/Home/RoadProjects/RegionalVictoriaRoadProjects/WesternHighwayBallaratToStawell/BallaratToBeaufort.htm" />
+    <tag id="260439562" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260439562" k="construction" o="add" type="way" v="motorway" />
+    <tag id="260439563" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439564" k="name" o="add" type="way" v="Main Lead Road" />
+    <tag id="260439564" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260439564" k="source:name" o="add" type="way" v="survey" />
+    <tag id="260439565" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439565" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439566" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260439566" k="lanes" o="add" type="way" v="2" />
+    <tag id="260439566" k="layer" o="add" type="way" v="1" />
+    <tag id="260439566" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439566" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439566" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439566" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260439566" k="construction" o="add" type="way" v="motorway" />
+    <tag id="260439567" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260439567" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260439567" k="source" o="add" type="way" v="http://www.vicroads.vic.gov.au/NR/rdonlyres/82BBEA0D-9C4D-4247-9BB5-417268DE2846/0/VicRoadsMapBtoA_20DEC13.pdf" />
+    <tag id="260439567" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439567" k="proposed" o="add" type="way" v="trunk" />
+    <tag id="260439568" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439569" k="name" o="add" type="way" v="Goulds Lane" />
+    <tag id="260439569" k="layer" o="add" type="way" v="1" />
+    <tag id="260439569" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439569" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439570" k="layer" o="add" type="way" v="-1" />
+    <tag id="260439570" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="260439570" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439571" k="layer" o="add" type="way" v="1" />
+    <tag id="260439571" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439571" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439572" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439572" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439573" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439574" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260439574" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439575" k="name" o="add" type="way" v="Goulds Lane" />
+    <tag id="260439575" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439576" k="name" o="add" type="way" v="Raglan Road" />
+    <tag id="260439576" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260439577" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439577" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439578" k="name" o="add" type="way" v="Smiths Lane" />
+    <tag id="260439578" k="layer" o="add" type="way" v="-1" />
+    <tag id="260439578" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="260439578" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439578" k="source:name" o="add" type="way" v="survey" />
+    <tag id="260439579" k="source" o="add" type="way" v="bing" />
+    <tag id="260439579" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439579" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="260439580" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439581" k="source" o="add" type="way" v="bing" />
+    <tag id="260439581" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439582" k="name" o="add" type="way" v="Goulds Lane" />
+    <tag id="260439582" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260439583" k="ref" o="add" type="way" v="C172" />
+    <tag id="260439583" k="name" o="add" type="way" v="Beaufort - Lexton Road" />
+    <tag id="260439583" k="layer" o="add" type="way" v="1" />
+    <tag id="260439583" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439583" k="source" o="add" type="way" v="survey, osm gps tracks" />
+    <tag id="260439583" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439583" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="260439584" k="highway" o="add" type="way" v="secondary" />
+    <tag id="260439585" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260439585" k="layer" o="add" type="way" v="1" />
+    <tag id="260439585" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260439585" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260439585" k="source" o="add" type="way" v="http://www.vicroads.vic.gov.au/NR/rdonlyres/82BBEA0D-9C4D-4247-9BB5-417268DE2846/0/VicRoadsMapBtoA_20DEC13.pdf" />
+    <tag id="260439585" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260439585" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260439585" k="proposed" o="add" type="way" v="trunk" />
+    <tag id="260439586" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260439586" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260442229" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260442229" k="highway" o="add" type="way" v="service" />
+    <tag id="260442229" k="service" o="add" type="way" v="drive-through" />
+    <tag id="260442230" k="name" o="add" type="way" v="Dobsons Lane" />
+    <tag id="260442230" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260442231" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260442231" k="highway" o="add" type="way" v="service" />
+    <tag id="260442232" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260442232" k="highway" o="add" type="way" v="service" />
+    <tag id="260442232" k="service" o="add" type="way" v="drive-through" />
+    <tag id="260442233" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260442233" k="highway" o="add" type="way" v="service" />
+    <tag id="260442233" k="service" o="add" type="way" v="drive-through" />
+    <tag id="260442234" k="highway" o="add" type="way" v="service" />
+    <tag id="260444351" k="name" o="add" type="way" v="Gravel Route Road" />
+    <tag id="260444351" k="oneway" o="add" type="way" v="no" />
+    <tag id="260444351" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260444352" k="ref" o="add" type="way" v="M8" />
+    <tag id="260444352" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260444352" k="lanes" o="add" type="way" v="2" />
+    <tag id="260444352" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260444352" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260444352" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260444353" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444353" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444354" k="ref" o="add" type="way" v="A8" />
+    <tag id="260444354" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260444354" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444354" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444355" k="name" o="add" type="way" v="Peacocks Road" />
+    <tag id="260444355" k="oneway" o="add" type="way" v="no" />
+    <tag id="260444355" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260444355" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260444356" k="name" o="add" type="way" v="Anderson Road" />
+    <tag id="260444356" k="layer" o="add" type="way" v="1" />
+    <tag id="260444356" k="source" o="add" type="way" v="bing" />
+    <tag id="260444356" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260444356" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260444357" k="ref" o="add" type="way" v="M8" />
+    <tag id="260444357" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260444357" k="lanes" o="add" type="way" v="2" />
+    <tag id="260444357" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444357" k="highway" o="add" type="way" v="motorway" />
+    <tag id="260444357" k="maxspeed" o="add" type="way" v="110" />
+    <tag id="260444358" k="name" o="add" type="way" v="Buangor - Ben Nevis Road" />
+    <tag id="260444358" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260444359" k="name" o="add" type="way" v="Peacocks Road" />
+    <tag id="260444359" k="layer" o="add" type="way" v="1" />
+    <tag id="260444359" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260444359" k="oneway" o="add" type="way" v="no" />
+    <tag id="260444359" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260444359" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260444360" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444360" k="highway" o="add" type="way" v="trunk" />
+    <tag id="260444361" k="name" o="add" type="way" v="Anderson Road" />
+    <tag id="260444361" k="layer" o="add" type="way" v="1" />
+    <tag id="260444361" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260444361" k="source" o="add" type="way" v="bing" />
+    <tag id="260444361" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260444361" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260444362" k="name" o="add" type="way" v="Buangor - Ben Nevis Road" />
+    <tag id="260444362" k="layer" o="add" type="way" v="1" />
+    <tag id="260444362" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260444362" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="260444363" k="ref" o="add" type="way" v="A8" />
+    <tag id="260444363" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260444363" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444363" k="highway" o="add" type="way" v="trunk" />
+    <tag id="260444364" k="ref" o="add" type="way" v="M8" />
+    <tag id="260444364" k="name" o="add" type="way" v="Western Freeway" />
+    <tag id="260444364" k="oneway" o="add" type="way" v="yes" />
+    <tag id="260444364" k="source" o="add" type="way" v="http://www.vicroads.vic.gov.au/NR/rdonlyres/82BBEA0D-9C4D-4247-9BB5-417268DE2846/0/VicRoadsMapBtoA_20DEC13.pdf" />
+    <tag id="260444364" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444364" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="260444364" k="proposed" o="add" type="way" v="trunk" />
+    <tag id="260444365" k="ref" o="add" type="way" v="A8" />
+    <tag id="260444365" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260444365" k="oneway" o="add" type="way" v="no" />
+    <tag id="260444365" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444366" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444367" k="layer" o="add" type="way" v="1" />
+    <tag id="260444367" k="bridge" o="add" type="way" v="yes" />
+    <tag id="260444367" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444367" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444368" k="ref" o="add" type="way" v="A8" />
+    <tag id="260444368" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260444368" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444368" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444369" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444369" k="highway" o="add" type="way" v="primary" />
+    <tag id="260444370" k="name" o="add" type="way" v="Anderson Road" />
+    <tag id="260444370" k="layer" o="add" type="way" v="1" />
+    <tag id="260444370" k="source" o="add" type="way" v="bing" />
+    <tag id="260444370" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="260444370" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="260444371" k="ref" o="add" type="way" v="A8" />
+    <tag id="260444371" k="name" o="add" type="way" v="Western Highway" />
+    <tag id="260444371" k="oneway" o="add" type="way" v="-1" />
+    <tag id="260444371" k="highway" o="add" type="way" v="primary" />
+    <tag id="543659" k="ref" o="none" type="relation" v="M8" />
+    <tag id="543659" k="type" o="none" type="relation" v="route" />
+    <tag id="543659" k="route" o="none" type="relation" v="road" />
+    <tag id="543659" k="network" o="none" type="relation" v="NH" />
+    <tag id="543659" k="addr:state" o="none" type="relation" v="VIC" />
+    <tag id="543659" k="addr:country" o="none" type="relation" v="AU" />
+    <tag id="2701351" k="ref" o="none" type="relation" v="456" />
+    <tag id="2701351" k="name" o="none" type="relation" v="Sunshine - Melton" />
+    <tag id="2701351" k="type" o="none" type="relation" v="route" />
+    <tag id="2701351" k="route" o="none" type="relation" v="bus" />
+    <tag id="2701351" k="network" o="none" type="relation" v="PTV - Metropolitan Buses" />
+    <tag id="2701351" k="operator" o="none" type="relation" v="Sita" />
+    <tag id="2788546" k="ref" o="none" type="relation" v="943" />
+    <tag id="2788546" k="name" o="none" type="relation" v="Deer Park - Melton" />
+    <tag id="2788546" k="type" o="none" type="relation" v="route" />
+    <tag id="2788546" k="route" o="none" type="relation" v="bus" />
+    <tag id="2788546" k="network" o="none" type="relation" v="PTV - Metropolitan Buses" />
+    <tag id="2788546" k="alt_name" o="none" type="relation" v="Melton NightRider" />
+    <tag id="2788546" k="operator" o="none" type="relation" v="Dyson's" />
+    <tag id="2788546" k="designation" o="none" type="relation" v="NightRider" />
+    <tag id="2898638" k="ref" o="none" type="relation" v="1575" />
+    <tag id="2898638" k="name" o="none" type="relation" v="Wendouree - Ballarat Station - Stawell via Ararat" />
+    <tag id="2898638" k="type" o="none" type="relation" v="route" />
+    <tag id="2898638" k="route" o="none" type="relation" v="bus" />
+    <tag id="2898638" k="network" o="none" type="relation" v="PTV - Regional Buses" />
+    <tag id="2898638" k="operator" o="none" type="relation" v="Sandlant" />
+    <tag id="3291903" k="name" o="none" type="relation" v="Shire of Pyrenees" />
+    <tag id="3291903" k="type" o="none" type="relation" v="boundary" />
+    <tag id="3291903" k="place" o="none" type="relation" v="municipality" />
+    <tag id="3291903" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="3291903" k="wikipedia" o="none" type="relation" v="en:Pyrenees Shire" />
+    <tag id="3291903" k="admin_level" o="none" type="relation" v="6" />
+    <tag id="3347614" k="name" o="none" type="relation" v="Rural City of Ararat" />
+    <tag id="3347614" k="type" o="none" type="relation" v="boundary" />
+    <tag id="3347614" k="place" o="none" type="relation" v="municipality" />
+    <tag id="3347614" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="3347614" k="wikipedia" o="none" type="relation" v="en:Rural City of Ararat" />
+    <tag id="3347614" k="admin_level" o="none" type="relation" v="6" />
+  </body>
+</changeset>

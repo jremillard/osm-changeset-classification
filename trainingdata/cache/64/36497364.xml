@@ -1,0 +1,21 @@
+<changeset id="36497364" schema="2">
+  <counts nodesAdded="0" nodesDeleted="114" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="6" waysModified="9" />
+  <meta>
+    <tag k="comment" v="Building and Road Fixes (Remove building/road/details in military/restricted area)" />
+    <tag k="created_by" v="iD 1.8.4" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="313930459" k="barrier" o="none" type="node" v="gate" />
+    <tag id="75636882" k="landuse" o="none" type="way" v="residential" />
+    <tag id="76823748" k="name" o="none" type="way" v="Phoenix Avenue" />
+    <tag id="76823748" k="highway" o="none" type="way" v="residential" />
+    <tag id="389141187" k="name" o="modify" type="way" v="MINDEF" />
+    <tag id="389141187" k="landuse" o="none" type="way" v="military" />
+    <tag id="390779466" k="access" o="add" type="way" v="private" />
+    <tag id="390779466" k="highway" o="add" type="way" v="service" />
+    <tag id="390779466" k="motor_vehicle" o="add" type="way" v="private" />
+  </body>
+</changeset>

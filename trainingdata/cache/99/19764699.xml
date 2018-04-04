@@ -1,0 +1,64 @@
+<changeset id="19764699" schema="2">
+  <counts nodesAdded="3" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="5" waysAdded="1" waysDeleted="1" waysModified="2" />
+  <meta>
+    <tag k="build" v="2.3-605-gbec0ea7" />
+    <tag k="comment" v="Zone 30 km/h neu" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="248413454" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="841990266" k="name" o="none" type="node" v="Neufundlandstra&#223;e" />
+    <tag id="841990266" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="120936555" k="name" o="none" type="way" v="Am Lunedeich" />
+    <tag id="120936555" k="oneway" o="add" type="way" v="no" />
+    <tag id="120936555" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="120936555" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="120936555" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="120936555" k="maxspeed" o="modify" type="way" v="30" />
+    <tag id="254797409" k="oneway" o="add" type="way" v="no" />
+    <tag id="254797409" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="254797409" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="140135" k="to" o="none" type="relation" v="Fischereihafen" />
+    <tag id="140135" k="ref" o="none" type="relation" v="504" />
+    <tag id="140135" k="from" o="none" type="relation" v="Hauptbahnhof" />
+    <tag id="140135" k="name" o="none" type="relation" v="De_BHV_504_Hauptbahnhof_Fischereihafen" />
+    <tag id="140135" k="type" o="none" type="relation" v="route" />
+    <tag id="140135" k="route" o="none" type="relation" v="bus" />
+    <tag id="140135" k="network" o="none" type="relation" v="VBN" />
+    <tag id="140135" k="operator" o="none" type="relation" v="BremerhavenBus" />
+    <tag id="140135" k="roundtrip" o="none" type="relation" v="no" />
+    <tag id="140135" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="1247145" k="to" o="none" type="relation" v="Hauptbahnhof" />
+    <tag id="1247145" k="ref" o="none" type="relation" v="504" />
+    <tag id="1247145" k="from" o="none" type="relation" v="Fischereihafen" />
+    <tag id="1247145" k="name" o="none" type="relation" v="De_BHV_504_Fischereihafen_Hauptbahnhof" />
+    <tag id="1247145" k="type" o="none" type="relation" v="route" />
+    <tag id="1247145" k="route" o="none" type="relation" v="bus" />
+    <tag id="1247145" k="network" o="none" type="relation" v="VBN" />
+    <tag id="1247145" k="operator" o="none" type="relation" v="BremerhavenBus" />
+    <tag id="1247145" k="roundtrip" o="none" type="relation" v="no" />
+    <tag id="1247145" k="wheelchair" o="none" type="relation" v="yes" />
+    <tag id="1656785" k="ref" o="none" type="relation" v="R21" />
+    <tag id="1656785" k="name" o="none" type="relation" v="Seestadt-Route R21" />
+    <tag id="1656785" k="type" o="none" type="relation" v="route" />
+    <tag id="1656785" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1656785" k="length" o="none" type="relation" v="80" />
+    <tag id="1656785" k="source" o="none" type="relation" v="gps" />
+    <tag id="1656785" k="network" o="none" type="relation" v="lcn" />
+    <tag id="1656785" k="website" o="none" type="relation" v="http://www.cuxland.de/aktuelles/Radwandern.html" />
+    <tag id="1656785" k="operator" o="none" type="relation" v="Cuxland-Tourismus" />
+    <tag id="2089113" k="ref" o="none" type="relation" v="Post" />
+    <tag id="2089113" k="name" o="none" type="relation" v="Alter Postweg s&#252;dlicher Teil" />
+    <tag id="2089113" k="type" o="none" type="relation" v="route" />
+    <tag id="2089113" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="2089113" k="length" o="none" type="relation" v="85.5" />
+    <tag id="2089113" k="network" o="none" type="relation" v="rcn" />
+    <tag id="2089113" k="wikipedia" o="none" type="relation" v="de:Alter_Postweg_(Landkreis_Cuxhaven)" />
+    <tag id="2094852" k="ref" o="none" type="relation" v="W" />
+    <tag id="2094852" k="name" o="none" type="relation" v="Westroute" />
+    <tag id="2094852" k="type" o="none" type="relation" v="route" />
+    <tag id="2094852" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="2094852" k="network" o="none" type="relation" v="lcn" />
+  </body>
+</changeset>

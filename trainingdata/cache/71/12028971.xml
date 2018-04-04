@@ -1,0 +1,18 @@
+<changeset id="12028971" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="build" v="2.3-401-g5359f3d" />
+    <tag k="comment" v="&#196;nderung: Keplerbr&#252;cke -&gt; Lendkai (ausgenommen GVB-Busse 00:00-04:00) !" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.3" />
+  </meta>
+  <body>
+    <tag id="30022" k="type" o="none" type="relation" v="restriction" />
+    <tag id="30022" k="except" o="none" type="relation" v="psv" />
+    <tag id="30022" k="hour_on" o="add" type="relation" v="00:00" />
+    <tag id="30022" k="hour_off" o="add" type="relation" v="04:00" />
+    <tag id="30022" k="restriction" o="none" type="relation" v="no_left_turn" />
+    <tag id="30022" k="except:hour_on" o="none" type="relation" v="00:00" />
+    <tag id="30022" k="except:hour_off" o="none" type="relation" v="04:00" />
+  </body>
+</changeset>

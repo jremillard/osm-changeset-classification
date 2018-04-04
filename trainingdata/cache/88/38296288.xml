@@ -1,0 +1,33 @@
+<changeset id="38296288" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="5" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="DE: revert unnecessary turn restrictions from CS 38062689, the road has access tags already" />
+    <tag k="created_by" v="Level0 v1.2" />
+  </meta>
+  <body>
+    <tag id="43167434" k="foot" o="none" type="way" v="yes" />
+    <tag id="43167434" k="name" o="none" type="way" v="Dahlwitzer Landstra&#223;e" />
+    <tag id="43167434" k="access" o="none" type="way" v="no" />
+    <tag id="43167434" k="oneway" o="none" type="way" v="no" />
+    <tag id="43167434" k="bicycle" o="none" type="way" v="dismount" />
+    <tag id="43167434" k="highway" o="none" type="way" v="secondary" />
+    <tag id="43167434" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="43167434" k="sidewalk" o="none" type="way" v="left" />
+    <tag id="43167434" k="maxheight" o="none" type="way" v="3.8" />
+    <tag id="43167434" k="postal_code" o="none" type="way" v="12587" />
+    <tag id="43167434" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="43167434" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="43167434" k="highway:conditional" o="none" type="way" v="closure @ (2016 Mar 23-2016 Nov 30 00:00-24:00)" />
+    <tag id="43167434" k="turn:lanes:backward" o="none" type="way" v="left;through|right" />
+    <tag id="6105177" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6105177" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6105178" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6105178" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6105179" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6105179" k="restriction" o="add" type="relation" v="no_straight_on" />
+    <tag id="6105180" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6105180" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6105181" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6105181" k="restriction" o="add" type="relation" v="no_straight_on" />
+  </body>
+</changeset>

@@ -1,0 +1,61 @@
+<changeset id="44586820" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="1" relationsDeleted="0" relationsModified="3" waysAdded="0" waysDeleted="0" waysModified="10" />
+  <meta>
+    <tag k="comment" v="fixed multipolygons and polygons" />
+    <tag k="created_by" v="JOSM/1.5 (11223 de)" />
+    <tag k="source" v="OSM" />
+  </meta>
+  <body>
+    <tag id="4554549797" k="noexit" o="add" type="node" v="yes" />
+    <tag id="4560263592" k="note" o="add" type="node" v="Is this really the end of the way? If not please terminate it with noexit=yes or something similar" />
+    <tag id="4560263592" k="fixme" o="add" type="node" v="stub" />
+    <tag id="93699017" k="building" o="none" type="way" v="yes" />
+    <tag id="139155525" k="building" o="none" type="way" v="apartments" />
+    <tag id="139155525" k="addr:city" o="none" type="way" v="Neu-Isenburg" />
+    <tag id="139155525" k="addr:street" o="none" type="way" v="Ernst-Reuter-Stra&#223;e" />
+    <tag id="139155525" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="139155525" k="addr:postcode" o="none" type="way" v="63263" />
+    <tag id="139155525" k="building:levels" o="none" type="way" v="6" />
+    <tag id="139155525" k="addr:housenumber" o="none" type="way" v="27" />
+    <tag id="192163748" k="building" o="none" type="way" v="yes" />
+    <tag id="252251985" k="highway" o="none" type="way" v="service" />
+    <tag id="252251985" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="458700357" k="amenity" o="none" type="way" v="parking" />
+    <tag id="459658287" k="building" o="none" type="way" v="yes" />
+    <tag id="459971100" k="building" o="none" type="way" v="yes" />
+    <tag id="460738712" k="building" o="none" type="way" v="residential" />
+    <tag id="460843188" k="building" o="none" type="way" v="yes" />
+    <tag id="62368" k="name" o="none" type="relation" v="Lahn-Dill-Kreis" />
+    <tag id="62368" k="type" o="none" type="relation" v="boundary" />
+    <tag id="62368" k="source" o="none" type="relation" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005" />
+    <tag id="62368" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="62368" k="de:place" o="none" type="relation" v="county" />
+    <tag id="62368" k="wikidata" o="none" type="relation" v="Q7905" />
+    <tag id="62368" k="wikipedia" o="none" type="relation" v="de:Lahn-Dill-Kreis" />
+    <tag id="62368" k="admin_level" o="none" type="relation" v="6" />
+    <tag id="62368" k="de:regionalschluessel" o="none" type="relation" v="06532" />
+    <tag id="62368" k="TMC:cid_58:tabcd_1:Class" o="none" type="relation" v="Area" />
+    <tag id="62368" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="relation" v="8.00" />
+    <tag id="62368" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="relation" v="498" />
+    <tag id="62368" k="de:amtlicher_gemeindeschluessel" o="none" type="relation" v="06532" />
+    <tag id="3146250" k="ref" o="none" type="relation" v="172" />
+    <tag id="3146250" k="name" o="none" type="relation" v="Lahn-Dill" />
+    <tag id="3146250" k="type" o="none" type="relation" v="boundary" />
+    <tag id="3146250" k="boundary" o="none" type="relation" v="political" />
+    <tag id="3146250" k="political" o="none" type="relation" v="election" />
+    <tag id="3146250" k="wikipedia" o="none" type="relation" v="de:Bundestagswahlkreis Lahn-Dill" />
+    <tag id="3146250" k="election:part" o="none" type="relation" v="Wahlkreis" />
+    <tag id="3146250" k="election:year" o="none" type="relation" v="2013" />
+    <tag id="3146250" k="is_in:state_code" o="none" type="relation" v="HE" />
+    <tag id="3146250" k="election:parliament" o="none" type="relation" v="Deutscher Bundestag" />
+    <tag id="3158897" k="name" o="none" type="relation" v="&#220;bergangsgebiet RMV-&gt;VAB" />
+    <tag id="3158897" k="type" o="none" type="relation" v="boundary" />
+    <tag id="3158897" k="network" o="none" type="relation" v="RMV" />
+    <tag id="3158897" k="boundary" o="none" type="relation" v="public_transport" />
+    <tag id="3158897" k="public_transport" o="none" type="relation" v="transitional_area" />
+    <tag id="3158897" k="public_transport:transitional_area:to" o="none" type="relation" v="Verkehrsgemeinschaft am Bayerischen Untermain" />
+    <tag id="3158897" k="public_transport:transitional_area:from" o="none" type="relation" v="Rhein-Main-Verkehrsverbund" />
+    <tag id="6812175" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6812175" k="amenity" o="add" type="relation" v="parking" />
+  </body>
+</changeset>

@@ -1,0 +1,84 @@
+<changeset id="51693091" schema="2">
+  <counts nodesAdded="51" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="7" waysDeleted="0" waysModified="15" />
+  <meta>
+    <tag k="changesets_count" v="968" />
+    <tag k="comment" v="+ way &amp; POI info (maxspeed, give_way, waste_basket, excrement_bags, fire_hydrant, bust_stop, playground, swing_gate, guidepost, bench, etc.) |AUT|Gro&#223;mittel, Felixdorf, Matzendorf, H&#246;lles" />
+    <tag k="created_by" v="iD 2.4.1" />
+    <tag k="host" v="http://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="basemap.at Orthofoto;Local GPX" />
+    <tag k="locale" v="de" />
+  </meta>
+  <body>
+    <tag id="53450148" k="name" o="add" type="node" v="H&#246;lles" />
+    <tag id="53450148" k="traffic_sign" o="add" type="node" v="city_limit" />
+    <tag id="3251896221" k="emergency" o="none" type="node" v="fire_hydrant" />
+    <tag id="3251896221" k="fire_hydrant:type" o="none" type="node" v="pillar" />
+    <tag id="3251896221" k="fire_hydrant:position" o="none" type="node" v="green" />
+    <tag id="4949452753" k="fee" o="none" type="node" v="no" />
+    <tag id="4949452753" k="amenity" o="none" type="node" v="vending_machine" />
+    <tag id="4949452753" k="vending" o="none" type="node" v="excrement_bags" />
+    <tag id="4949452753" k="amenity_1" o="none" type="node" v="waste_basket" />
+    <tag id="4949452753" k="payment:none" o="none" type="node" v="yes" />
+    <tag id="5058169160" k="power" o="none" type="node" v="pole" />
+    <tag id="5058169161" k="power" o="none" type="node" v="pole" />
+    <tag id="6648808" k="name" o="none" type="way" v="H&#246;llesstra&#223;e" />
+    <tag id="6648808" k="source" o="none" type="way" v="survey" />
+    <tag id="6648808" k="highway" o="none" type="way" v="residential" />
+    <tag id="6648808" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="6648808" k="source:maxspeed" o="add" type="way" v="AT:urban" />
+    <tag id="6648821" k="source" o="none" type="way" v="survey" />
+    <tag id="6648821" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="6648821" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="6648821" k="source:maxspeed" o="add" type="way" v="AT:urban" />
+    <tag id="6652732" k="name" o="none" type="way" v="Schie&#223;platzstra&#223;e" />
+    <tag id="6652732" k="highway" o="none" type="way" v="residential" />
+    <tag id="6652732" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="6652732" k="source:maxspeed" o="add" type="way" v="AT:urban" />
+    <tag id="7764813" k="name" o="none" type="way" v="Badener Stra&#223;e" />
+    <tag id="7764813" k="source" o="none" type="way" v="survey" />
+    <tag id="7764813" k="highway" o="none" type="way" v="residential" />
+    <tag id="7767777" k="name" o="none" type="way" v="Bahngasse" />
+    <tag id="7767777" k="source" o="none" type="way" v="survey" />
+    <tag id="7767777" k="highway" o="none" type="way" v="residential" />
+    <tag id="7767777" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="7767777" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="30512376" k="name" o="none" type="way" v="Bahnstra&#223;e" />
+    <tag id="30512376" k="source" o="none" type="way" v="plan.at 2009,bing" />
+    <tag id="30512376" k="highway" o="none" type="way" v="residential" />
+    <tag id="35580472" k="name" o="none" type="way" v="Mohrstra&#223;e" />
+    <tag id="35580472" k="highway" o="modify" type="way" v="33" />
+    <tag id="35580472" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="35580472" k="source:maxspeed" o="none" type="way" v="AT:urban" />
+    <tag id="45182843" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="85652244" k="source" o="none" type="way" v="survey" />
+    <tag id="85652244" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="85652244" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="85652244" k="source:maxspeed" o="add" type="way" v="AT:urban" />
+    <tag id="139538326" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="139538326" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="139538326" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="139539504" k="building" o="none" type="way" v="yes" />
+    <tag id="139539504" k="addr:city" o="add" type="way" v="H&#246;lles" />
+    <tag id="139539504" k="addr:street" o="add" type="way" v="Waldstra&#223;e" />
+    <tag id="139539504" k="addr:country" o="add" type="way" v="AT" />
+    <tag id="139539504" k="addr:postcode" o="add" type="way" v="2751" />
+    <tag id="139539504" k="addr:housenumber" o="add" type="way" v="19" />
+    <tag id="146226230" k="highway" o="none" type="way" v="service" />
+    <tag id="146226235" k="oneway" o="add" type="way" v="yes" />
+    <tag id="146226235" k="highway" o="none" type="way" v="service" />
+    <tag id="285453729" k="source" o="none" type="way" v="survey" />
+    <tag id="285453729" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="285453729" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="504842920" k="name" o="none" type="way" v="Waldstra&#223;e" />
+    <tag id="504842920" k="highway" o="none" type="way" v="residential" />
+    <tag id="504842920" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="504842920" k="source:maxspeed" o="add" type="way" v="AT:urban" />
+    <tag id="521011566" k="building" o="add" type="way" v="yes" />
+    <tag id="521011567" k="highway" o="add" type="way" v="service" />
+    <tag id="521011568" k="building" o="add" type="way" v="yes" />
+    <tag id="521011569" k="building" o="add" type="way" v="yes" />
+    <tag id="521011570" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="521011571" k="building" o="add" type="way" v="yes" />
+    <tag id="521011572" k="building" o="add" type="way" v="yes" />
+  </body>
+</changeset>

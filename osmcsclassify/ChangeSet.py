@@ -565,9 +565,9 @@ class ChangeSet:
             if ( tag['o'] == 'add'):
                 line = "  " + tag['o'] + " "
                 firstKey = tag['k'].split(':')[0]
-                if ( re.match(r'[a-z]+',firstKey) is None):
+                if ( re.match('[a-z]+',firstKey) is None):
                     line += "BAD "
-                if ( re.search(r'[A-Z]+',firstKey) is not None):
+                if ( re.search('[A-Z]+',firstKey) is not None):
                     line += "caps "                    
                 line += "{}={}\n".format(tag['k'],tag['v'])
                 if ( ret.find(line) < 0 ):
@@ -582,10 +582,31 @@ class ChangeSet:
         
         return ret
 
+    def processKey( self, key):
+        ret = ""
+
+        keyCount = 0
+        for subkey in key.split(':'):
+
+            if ( keyCount > 0):
+                ret += " colon "
+            
+            if ( re.search('[A-Z]+',subkey) is not None):
+                ret += "capital "  
+            if ( re.search('_',subkey) is not None):
+                ret += "under "  
+            if ( re.search('[0-9]',subkey) is not None):
+                ret += "digit "  
+
+            ret += subkey
+
+            keyCount += 1
+                
+        return ret + " equals "
 
     def textDump(self, maxCount):
 
-        ret = ''
+        ret = ""
 
         ret += "Added {},{},{}\n".format(self.nodesAdded,self.waysAdded,self.relationsAdded   ) 
         ret += "Modified {},{},{}\n".format(self.nodesModified,self.waysModified,self.relationsModified)
@@ -593,8 +614,8 @@ class ChangeSet:
 
         for tag in sorted(self.metaTags) :
             ret += "meta "
-            ret += ' '.join(re.split(r"[-_:]+", tag)) + " "
-            ret += ' '.join(re.split(r"[-_:\"'`]+", self.metaTags[tag])) + " \n"
+            ret += self.processKey(tag)
+            ret += self.metaTags[tag] + " \n"
 
         retList = []
 
@@ -613,15 +634,9 @@ class ChangeSet:
             for i in sortIndex:
                 tag = usedTags[i]                
                 retCycle += tag['o'] + " "
-
-                firstKey = tag['k'].split(':')[0]
-                if ( re.match(r'[a-z_]+',firstKey) is None):
-                    retCycle += "bad "
-                if ( re.search(r'[A-Z]+',firstKey) is not None):
-                    retCycle += "capital "                    
                 
                 #ret += tag['type'] + " "
-                retCycle += tag['k'] + " " 
+                retCycle += self.processKey(tag['k'])
                 retCycle += tag['v'] + " \n"
             
             retCycle += "\n"

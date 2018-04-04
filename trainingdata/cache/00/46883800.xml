@@ -1,0 +1,1828 @@
+<changeset id="46883800" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="5" waysDeleted="0" waysModified="189" />
+  <meta>
+    <tag k="comment" v="Reclassifying roads in  Phillipsburg area on NJDOT traffic data and personal knowledge. Also downgraded parts of US 22 because of their low speed limits, frequent access points, and sharp curves" />
+    <tag k="created_by" v="iD 2.1.3" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4308310" k="NHS" o="none" type="way" v="yes" />
+    <tag id="4308310" k="hgv" o="none" type="way" v="designated" />
+    <tag id="4308310" k="ref" o="none" type="way" v="US 22" />
+    <tag id="4308310" k="name" o="none" type="way" v="Easton-Phillipsburg Toll Bridge" />
+    <tag id="4308310" k="toll" o="none" type="way" v="yes" />
+    <tag id="4308310" k="lanes" o="none" type="way" v="2" />
+    <tag id="4308310" k="layer" o="none" type="way" v="1" />
+    <tag id="4308310" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4308310" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4308310" k="source" o="none" type="way" v="survey" />
+    <tag id="4308310" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="4308310" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="4308310" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="4308310" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="4308310" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="4716662" k="NHS" o="none" type="way" v="yes" />
+    <tag id="4716662" k="hgv" o="none" type="way" v="designated" />
+    <tag id="4716662" k="ref" o="none" type="way" v="US 22" />
+    <tag id="4716662" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="4716662" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="4716662" k="lanes" o="none" type="way" v="4" />
+    <tag id="4716662" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4716662" k="highway" o="modify" type="way" v="primary" />
+    <tag id="4716662" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="4716662" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="4716662" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="4716662" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="4716671" k="name" o="none" type="way" v="Dumont Road" />
+    <tag id="4716671" k="lanes" o="none" type="way" v="4" />
+    <tag id="4716671" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="4716671" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="4716671" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="4716671" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="4716671" k="tiger:name_base" o="none" type="way" v="Hillcrest" />
+    <tag id="4716671" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="4716674" k="NHS" o="none" type="way" v="yes" />
+    <tag id="4716674" k="hgv" o="none" type="way" v="designated" />
+    <tag id="4716674" k="ref" o="none" type="way" v="US 22" />
+    <tag id="4716674" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="4716674" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="4716674" k="lanes" o="none" type="way" v="2" />
+    <tag id="4716674" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4716674" k="highway" o="modify" type="way" v="primary" />
+    <tag id="4716674" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="4716674" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="4716674" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="4716674" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="4716675" k="hgv" o="none" type="way" v="designated" />
+    <tag id="4716675" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="4716675" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="4716675" k="lanes" o="none" type="way" v="2" />
+    <tag id="4716675" k="highway" o="modify" type="way" v="primary" />
+    <tag id="4716675" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="4716675" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="4716675" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="4716675" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="4716675" k="tiger:name_base" o="none" type="way" v="State Route 173" />
+    <tag id="4716675" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="4716675" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="4788977" k="lanes" o="none" type="way" v="1" />
+    <tag id="4788977" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4788977" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="4788977" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="4789136" k="lanes" o="none" type="way" v="1" />
+    <tag id="4789136" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4789136" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="4789136" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="4789137" k="lanes" o="none" type="way" v="1" />
+    <tag id="4789137" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4789137" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="4789137" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="4789138" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4789138" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="4894862" k="name" o="none" type="way" v="Free Bridge" />
+    <tag id="4894862" k="lanes" o="none" type="way" v="2" />
+    <tag id="4894862" k="layer" o="none" type="way" v="1" />
+    <tag id="4894862" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4894862" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="4894862" k="old_ref" o="none" type="way" v="US 22" />
+    <tag id="4894863" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="4894863" k="name" o="none" type="way" v="South Main Street" />
+    <tag id="4894863" k="lanes" o="none" type="way" v="2" />
+    <tag id="4894863" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="4894863" k="old_ref" o="none" type="way" v="US 22" />
+    <tag id="4894863" k="NJDOT_SRI" o="none" type="way" v="21191211" />
+    <tag id="11286514" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11286514" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11286514" k="ref" o="none" type="way" v="US 22" />
+    <tag id="11286514" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="11286514" k="name" o="none" type="way" v="Easton-Phillipsburg Toll Bridge" />
+    <tag id="11286514" k="toll" o="none" type="way" v="no" />
+    <tag id="11286514" k="lanes" o="none" type="way" v="2" />
+    <tag id="11286514" k="layer" o="none" type="way" v="1" />
+    <tag id="11286514" k="bridge" o="none" type="way" v="yes" />
+    <tag id="11286514" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11286514" k="source" o="none" type="way" v="survey" />
+    <tag id="11286514" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="11286514" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="11286514" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="11286514" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11286514" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11286520" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11286520" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11286520" k="ref" o="none" type="way" v="US 22" />
+    <tag id="11286520" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="11286520" k="name" o="none" type="way" v="Easton-Phillipsburg Toll Bridge" />
+    <tag id="11286520" k="toll" o="none" type="way" v="yes" />
+    <tag id="11286520" k="lanes" o="none" type="way" v="2" />
+    <tag id="11286520" k="layer" o="none" type="way" v="1" />
+    <tag id="11286520" k="bridge" o="none" type="way" v="yes" />
+    <tag id="11286520" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11286520" k="source" o="none" type="way" v="survey" />
+    <tag id="11286520" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="11286520" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="11286520" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="11286520" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11286520" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11780526" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11780526" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11781352" k="toll" o="none" type="way" v="yes" />
+    <tag id="11781352" k="lanes" o="none" type="way" v="1" />
+    <tag id="11781352" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11781352" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11782783" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11782783" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11782783" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11782783" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11782783" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11782783" k="tiger:name_base" o="none" type="way" v="Lincoln" />
+    <tag id="11782783" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11782895" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11782895" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11782895" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="11783796" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11783796" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11783796" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="11785042" k="name" o="none" type="way" v="Fairview Avenue" />
+    <tag id="11785042" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11785042" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785042" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785042" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785042" k="tiger:name_base" o="none" type="way" v="Fairview" />
+    <tag id="11785042" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11785278" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11785278" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11785278" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11785278" k="name" o="none" type="way" v="Uniontown Road" />
+    <tag id="11785278" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11785278" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11785278" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785278" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785278" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785278" k="tiger:name_base" o="none" type="way" v="Uniontown" />
+    <tag id="11785278" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11785278" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11785278" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11785278" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11785558" k="name" o="none" type="way" v="Broad Street" />
+    <tag id="11785558" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11785558" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785558" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785558" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785558" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="11785558" k="tiger:name_base" o="none" type="way" v="Broad" />
+    <tag id="11785558" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11785558" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="11785706" k="name" o="none" type="way" v="Dumont Road" />
+    <tag id="11785706" k="lanes" o="none" type="way" v="2" />
+    <tag id="11785706" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11785706" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11785706" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11785706" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11785706" k="tiger:name_base" o="none" type="way" v="Dumont" />
+    <tag id="11785706" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11786760" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11786760" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11786760" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11786760" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11786760" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11786760" k="tiger:name_base" o="none" type="way" v="Lincoln" />
+    <tag id="11786760" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11786858" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11786858" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="11786858" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="11786858" k="name" o="none" type="way" v="Saint James Avenue" />
+    <tag id="11786858" k="lanes" o="none" type="way" v="2" />
+    <tag id="11786858" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11786858" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="11786858" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="11786858" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11786858" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11786858" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11786858" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="11786858" k="tiger:name_base" o="none" type="way" v="Saint James" />
+    <tag id="11786858" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11786858" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11786858" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11786858" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11788110" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11788110" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11788359" k="name" o="none" type="way" v="Chestnut Street" />
+    <tag id="11788359" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11788359" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11788359" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11788359" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11788359" k="tiger:name_base" o="none" type="way" v="Chestnut" />
+    <tag id="11788359" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11788555" k="ref" o="none" type="way" v="CR 646" />
+    <tag id="11788555" k="name" o="none" type="way" v="Lincoln Road" />
+    <tag id="11788555" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11788555" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="11788555" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11788555" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11788555" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11788555" k="tiger:name_base" o="none" type="way" v="Lincoln" />
+    <tag id="11788555" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11789825" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="11789825" k="name" o="none" type="way" v="South Main St" />
+    <tag id="11789825" k="lanes" o="none" type="way" v="2" />
+    <tag id="11789825" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11789825" k="NJDOT_SRI" o="none" type="way" v="21191211" />
+    <tag id="11789825" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11790850" k="name" o="none" type="way" v="Belvidere Road" />
+    <tag id="11790850" k="name_1" o="none" type="way" v="County Road 519" />
+    <tag id="11790850" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11790850" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11790850" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11790850" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11790850" k="tiger:name_base" o="none" type="way" v="Belvidere" />
+    <tag id="11790850" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11790850" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="11791007" k="toll" o="none" type="way" v="yes" />
+    <tag id="11791007" k="lanes" o="none" type="way" v="1" />
+    <tag id="11791007" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11791007" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11791180" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11791180" k="ref" o="modify" type="way" v="NJ 122;CR 519" />
+    <tag id="11791180" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="11791180" k="name" o="modify" type="way" v="New Brunswick Avenue" />
+    <tag id="11791180" k="lanes" o="none" type="way" v="2" />
+    <tag id="11791180" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11791180" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="11791180" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="11791180" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791180" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791180" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11791180" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11791180" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11791191" k="ref" o="none" type="way" v="CR 638" />
+    <tag id="11791191" k="name" o="none" type="way" v="Greenwich Street" />
+    <tag id="11791191" k="lanes" o="none" type="way" v="2" />
+    <tag id="11791191" k="name_1" o="none" type="way" v="County Road 638" />
+    <tag id="11791191" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791191" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791191" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791191" k="tiger:zip_left" o="none" type="way" v="08886" />
+    <tag id="11791191" k="tiger:name_base" o="none" type="way" v="Greenwich" />
+    <tag id="11791191" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11791191" k="tiger:zip_right" o="none" type="way" v="08886" />
+    <tag id="11791191" k="tiger:name_base_1" o="none" type="way" v="County Road 638" />
+    <tag id="11791775" k="ref" o="modify" type="way" v="CR 621" />
+    <tag id="11791775" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="11791775" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791775" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791775" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791775" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791775" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="11791775" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11791775" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="11791877" k="name" o="none" type="way" v="Maple Avenue" />
+    <tag id="11791877" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11791877" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11791877" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791877" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11791877" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791877" k="tiger:name_base" o="none" type="way" v="Maple" />
+    <tag id="11791877" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11792134" k="name" o="none" type="way" v="Hudson Street" />
+    <tag id="11792134" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792134" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792134" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792134" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792134" k="tiger:name_base" o="none" type="way" v="Hudson" />
+    <tag id="11792134" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11792271" k="ref" o="none" type="way" v="(637)" />
+    <tag id="11792271" k="name" o="none" type="way" v="Liberty Road" />
+    <tag id="11792271" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11792271" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792271" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11792271" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792271" k="tiger:name_base" o="none" type="way" v="Liberty" />
+    <tag id="11792271" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11793185" k="name" o="none" type="way" v="Heckman Street" />
+    <tag id="11793185" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793185" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793185" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793185" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793185" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="11793185" k="tiger:name_base" o="none" type="way" v="Heckman" />
+    <tag id="11793185" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11793185" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="11793753" k="name" o="none" type="way" v="Red School Lane" />
+    <tag id="11793753" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793753" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793753" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793753" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793753" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="11793753" k="tiger:name_base" o="none" type="way" v="Red School" />
+    <tag id="11793753" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="11793753" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="11793774" k="ref" o="none" type="way" v="CR 621" />
+    <tag id="11793774" k="name" o="none" type="way" v="County Road 621" />
+    <tag id="11793774" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11793774" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793774" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11793774" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793774" k="tiger:name_base" o="none" type="way" v="County Road 621" />
+    <tag id="11794275" k="ref" o="none" type="way" v="CR 621" />
+    <tag id="11794275" k="name" o="none" type="way" v="River Road" />
+    <tag id="11794275" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11794275" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11794275" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11794275" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="11794275" k="tiger:name_base" o="none" type="way" v="River" />
+    <tag id="11794275" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11794275" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="11794461" k="lanes" o="none" type="way" v="1" />
+    <tag id="11794461" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11794461" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11795534" k="name" o="none" type="way" v="Morris Street" />
+    <tag id="11795534" k="lanes" o="none" type="way" v="2" />
+    <tag id="11795534" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11795534" k="old_ref" o="none" type="way" v="US 22" />
+    <tag id="11795534" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11795534" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11795534" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11795534" k="tiger:name_base" o="none" type="way" v="Morris" />
+    <tag id="11795534" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11796082" k="hgv" o="none" type="way" v="designated" />
+    <tag id="11796082" k="ref" o="none" type="way" v="NJ 122" />
+    <tag id="11796082" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="11796082" k="name" o="none" type="way" v="New Brunswick Avenue" />
+    <tag id="11796082" k="lanes" o="none" type="way" v="2" />
+    <tag id="11796082" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="11796082" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="11796082" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="11796082" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11796082" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11796082" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11796082" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="11796082" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="11796417" k="lanes" o="none" type="way" v="1" />
+    <tag id="11796417" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11796417" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="11796617" k="name" o="none" type="way" v="Stryker Road" />
+    <tag id="11796617" k="highway" o="modify" type="way" v="residential" />
+    <tag id="11796617" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11796617" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="11796617" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11796617" k="tiger:name_base" o="none" type="way" v="Stryker" />
+    <tag id="11796617" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="13728318" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13728318" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="13728391" k="fixme" o="none" type="way" v="Should be motorway_link?" />
+    <tag id="13728391" k="lanes" o="none" type="way" v="1" />
+    <tag id="13728391" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13728391" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="13728444" k="lanes" o="none" type="way" v="1" />
+    <tag id="13728444" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13728444" k="highway" o="modify" type="way" v="residential" />
+    <tag id="13728499" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13728499" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="13728499" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="13728531" k="name" o="none" type="way" v="South 1st Street" />
+    <tag id="13728531" k="highway" o="modify" type="way" v="residential" />
+    <tag id="13728531" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="13728531" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="13728531" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="13728531" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="13728531" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="13728531" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="13728531" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="13728531" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="13728559" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13728559" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="13728559" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="13728566" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13728566" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="13728566" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="16543732" k="name" o="none" type="way" v="Logan Street" />
+    <tag id="16543732" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16543732" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16543732" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="16543732" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16543732" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="16543732" k="tiger:name_base" o="none" type="way" v="Logan" />
+    <tag id="16543732" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16543732" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="16544541" k="name" o="none" type="way" v="Lock Street" />
+    <tag id="16544541" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16544541" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16544541" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="16544541" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16544541" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="16544541" k="tiger:name_base" o="none" type="way" v="Lock" />
+    <tag id="16544541" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16544541" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="17726406" k="lanes" o="none" type="way" v="1" />
+    <tag id="17726406" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17726406" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="17726577" k="lanes" o="none" type="way" v="1" />
+    <tag id="17726577" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17726577" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="17727559" k="oneway" o="none" type="way" v="yes" />
+    <tag id="17727559" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="20662413" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="20662639" k="fixme" o="none" type="way" v="Should be motorway_link?" />
+    <tag id="20662639" k="lanes" o="none" type="way" v="1" />
+    <tag id="20662639" k="layer" o="none" type="way" v="1" />
+    <tag id="20662639" k="bridge" o="none" type="way" v="yes" />
+    <tag id="20662639" k="oneway" o="none" type="way" v="yes" />
+    <tag id="20662639" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="27232500" k="hgv" o="none" type="way" v="designated" />
+    <tag id="27232500" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="27232500" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="27232500" k="lanes" o="none" type="way" v="2" />
+    <tag id="27232500" k="layer" o="none" type="way" v="1" />
+    <tag id="27232500" k="bridge" o="none" type="way" v="yes" />
+    <tag id="27232500" k="highway" o="modify" type="way" v="primary" />
+    <tag id="27232500" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="27232500" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="27232500" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="27232500" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="27232501" k="hgv" o="none" type="way" v="designated" />
+    <tag id="27232501" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="27232501" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="27232501" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="27232501" k="lanes" o="none" type="way" v="1" />
+    <tag id="27232501" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27232501" k="highway" o="modify" type="way" v="primary" />
+    <tag id="27232501" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="27232501" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="27232501" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="29260632" k="ref" o="none" type="way" v="(677)" />
+    <tag id="29260632" k="name" o="none" type="way" v="Morris Street" />
+    <tag id="29260632" k="lanes" o="none" type="way" v="2" />
+    <tag id="29260632" k="highway" o="modify" type="way" v="residential" />
+    <tag id="29260632" k="old_ref" o="none" type="way" v="US 22" />
+    <tag id="29260632" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="29260632" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="29260632" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="29260632" k="tiger:name_base" o="none" type="way" v="Morris" />
+    <tag id="29260632" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="29260679" k="name" o="none" type="way" v="Hillcrest Boulevard" />
+    <tag id="29260679" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29260679" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="29260724" k="ref" o="none" type="way" v="CR 646" />
+    <tag id="29260724" k="name" o="none" type="way" v="North 1st Street" />
+    <tag id="29260724" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="29260724" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="29260724" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="29260724" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="29260724" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="29260724" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="29260724" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="29260724" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="29260724" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="29260726" k="ref" o="none" type="way" v="CR 646" />
+    <tag id="29260726" k="name" o="none" type="way" v="Belvidere Road" />
+    <tag id="29260726" k="name_1" o="none" type="way" v="County Road 519" />
+    <tag id="29260726" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="29260726" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="29260726" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="29260726" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="29260726" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="29260726" k="tiger:name_base" o="none" type="way" v="Belvidere" />
+    <tag id="29260726" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="29260726" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="31293599" k="hgv" o="none" type="way" v="designated" />
+    <tag id="31293599" k="ref" o="none" type="way" v="NJ 122" />
+    <tag id="31293599" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="31293599" k="name" o="none" type="way" v="South Main Street" />
+    <tag id="31293599" k="lanes" o="none" type="way" v="2" />
+    <tag id="31293599" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="31293599" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="31293599" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="31293599" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="31293599" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="31293599" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="32505827" k="hgv" o="none" type="way" v="designated" />
+    <tag id="32505827" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="32505827" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="32505827" k="name" o="none" type="way" v="Uniontown Road" />
+    <tag id="32505827" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="32505827" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="32505827" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32505827" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="32505827" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32505827" k="tiger:name_base" o="none" type="way" v="Uniontown" />
+    <tag id="32505827" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="32505827" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="32505827" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="32505827" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="33537196" k="fixme" o="none" type="way" v="Should be motorway_link?" />
+    <tag id="33537196" k="lanes" o="none" type="way" v="1" />
+    <tag id="33537196" k="oneway" o="none" type="way" v="yes" />
+    <tag id="33537196" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="33537248" k="oneway" o="none" type="way" v="yes" />
+    <tag id="33537248" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="33537260" k="oneway" o="none" type="way" v="yes" />
+    <tag id="33537260" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="42979345" k="NHS" o="none" type="way" v="yes" />
+    <tag id="42979345" k="hgv" o="none" type="way" v="designated" />
+    <tag id="42979345" k="ref" o="none" type="way" v="US 22" />
+    <tag id="42979345" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="42979345" k="toll" o="none" type="way" v="no" />
+    <tag id="42979345" k="lanes" o="none" type="way" v="2" />
+    <tag id="42979345" k="layer" o="none" type="way" v="1" />
+    <tag id="42979345" k="bridge" o="none" type="way" v="yes" />
+    <tag id="42979345" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42979345" k="source" o="none" type="way" v="survey" />
+    <tag id="42979345" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="42979345" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="42979345" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="42979345" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="42979348" k="NHS" o="none" type="way" v="yes" />
+    <tag id="42979348" k="hgv" o="none" type="way" v="designated" />
+    <tag id="42979348" k="ref" o="none" type="way" v="US 22" />
+    <tag id="42979348" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="42979348" k="toll" o="none" type="way" v="no" />
+    <tag id="42979348" k="lanes" o="none" type="way" v="2" />
+    <tag id="42979348" k="layer" o="none" type="way" v="1" />
+    <tag id="42979348" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42979348" k="source" o="none" type="way" v="survey" />
+    <tag id="42979348" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="42979348" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="42979348" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="42979348" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="42979348" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="42979350" k="NHS" o="none" type="way" v="yes" />
+    <tag id="42979350" k="hgv" o="none" type="way" v="designated" />
+    <tag id="42979350" k="ref" o="none" type="way" v="US 22" />
+    <tag id="42979350" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="42979350" k="toll" o="none" type="way" v="no" />
+    <tag id="42979350" k="lanes" o="none" type="way" v="2" />
+    <tag id="42979350" k="layer" o="none" type="way" v="1" />
+    <tag id="42979350" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42979350" k="source" o="none" type="way" v="survey" />
+    <tag id="42979350" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="42979350" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="42979350" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="42979350" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="42979351" k="NHS" o="none" type="way" v="yes" />
+    <tag id="42979351" k="hgv" o="none" type="way" v="designated" />
+    <tag id="42979351" k="ref" o="none" type="way" v="US 22" />
+    <tag id="42979351" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="42979351" k="toll" o="none" type="way" v="no" />
+    <tag id="42979351" k="lanes" o="none" type="way" v="2" />
+    <tag id="42979351" k="layer" o="none" type="way" v="1" />
+    <tag id="42979351" k="bridge" o="none" type="way" v="yes" />
+    <tag id="42979351" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42979351" k="source" o="none" type="way" v="survey" />
+    <tag id="42979351" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="42979351" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="42979351" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="42979351" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="42979351" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="43328746" k="hgv" o="none" type="way" v="designated" />
+    <tag id="43328746" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="43328746" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="43328746" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="43328746" k="lanes" o="none" type="way" v="2" />
+    <tag id="43328746" k="oneway" o="none" type="way" v="yes" />
+    <tag id="43328746" k="highway" o="modify" type="way" v="primary" />
+    <tag id="43328746" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="43328746" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="43328746" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="51372999" k="NHS" o="none" type="way" v="yes" />
+    <tag id="51372999" k="hgv" o="none" type="way" v="designated" />
+    <tag id="51372999" k="ref" o="none" type="way" v="US 22" />
+    <tag id="51372999" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="51372999" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="51372999" k="toll" o="none" type="way" v="yes" />
+    <tag id="51372999" k="lanes" o="none" type="way" v="2" />
+    <tag id="51372999" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51372999" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="51372999" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="51372999" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="51372999" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="51373005" k="ref" o="modify" type="way" v="CR 621" />
+    <tag id="51373005" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="51373005" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373005" k="highway" o="modify" type="way" v="residential" />
+    <tag id="51373005" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="51373005" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="51373005" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="51373005" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="51373005" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="51373005" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="51373010" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373010" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="51373015" k="toll" o="none" type="way" v="no" />
+    <tag id="51373015" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373015" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="51373041" k="lanes" o="none" type="way" v="2" />
+    <tag id="51373041" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="51373042" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373042" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="51373044" k="NHS" o="none" type="way" v="yes" />
+    <tag id="51373044" k="hgv" o="none" type="way" v="designated" />
+    <tag id="51373044" k="ref" o="none" type="way" v="US 22" />
+    <tag id="51373044" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="51373044" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="51373044" k="toll" o="none" type="way" v="no" />
+    <tag id="51373044" k="lanes" o="none" type="way" v="2" />
+    <tag id="51373044" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373044" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="51373044" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="51373044" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="51373044" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="51373044" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="51373045" k="NHS" o="none" type="way" v="yes" />
+    <tag id="51373045" k="hgv" o="none" type="way" v="designated" />
+    <tag id="51373045" k="ref" o="none" type="way" v="US 22" />
+    <tag id="51373045" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="51373045" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="51373045" k="lanes" o="none" type="way" v="3" />
+    <tag id="51373045" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373045" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="51373045" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="51373045" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="51373045" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="51373045" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="51373055" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373055" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="51373057" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373057" k="highway" o="modify" type="way" v="residential" />
+    <tag id="51373057" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="51373077" k="name" o="none" type="way" v="Dumont Road" />
+    <tag id="51373077" k="lanes" o="none" type="way" v="2" />
+    <tag id="51373077" k="oneway" o="none" type="way" v="no" />
+    <tag id="51373077" k="highway" o="modify" type="way" v="residential" />
+    <tag id="51373077" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="51373077" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="51373077" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="51373077" k="tiger:name_base" o="none" type="way" v="Hillcrest" />
+    <tag id="51373077" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="51373079" k="name" o="none" type="way" v="Dumont Road" />
+    <tag id="51373079" k="lanes" o="none" type="way" v="2" />
+    <tag id="51373079" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373079" k="highway" o="modify" type="way" v="residential" />
+    <tag id="51373079" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="51373079" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="51373079" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="51373079" k="tiger:name_base" o="none" type="way" v="Hillcrest" />
+    <tag id="51373079" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="51373081" k="name" o="none" type="way" v="Dumont Road" />
+    <tag id="51373081" k="lanes" o="none" type="way" v="2" />
+    <tag id="51373081" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51373081" k="highway" o="modify" type="way" v="residential" />
+    <tag id="51373081" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="51373081" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="51373081" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="51373081" k="tiger:name_base" o="none" type="way" v="Hillcrest" />
+    <tag id="51373081" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="60958885" k="ref" o="none" type="way" v="CR 678" />
+    <tag id="60958885" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="60958885" k="name" o="none" type="way" v="South Main Street" />
+    <tag id="60958885" k="lanes" o="none" type="way" v="2" />
+    <tag id="60958885" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="60958885" k="NJDOT_SRI" o="none" type="way" v="21000678" />
+    <tag id="60958885" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699548" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699548" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699548" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699548" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699548" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699548" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699548" k="layer" o="none" type="way" v="1" />
+    <tag id="61699548" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699548" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699548" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61699548" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699548" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699548" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699549" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699549" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699549" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699549" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699549" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699549" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699549" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699549" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61699549" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61699549" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699549" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699549" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699550" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699550" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699550" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699550" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699550" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699550" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699550" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699550" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699550" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61699550" k="surface" o="none" type="way" v="paved" />
+    <tag id="61699550" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61699550" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699550" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699550" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699551" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699551" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699551" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699551" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699551" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699551" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699551" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699551" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61699551" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699551" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699551" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699552" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699552" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699552" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699552" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699552" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699552" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699552" k="layer" o="none" type="way" v="1" />
+    <tag id="61699552" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699552" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699552" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61699552" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61699552" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699552" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699552" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699566" k="name" o="none" type="way" v="Dumont Road" />
+    <tag id="61699566" k="lanes" o="none" type="way" v="4" />
+    <tag id="61699566" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699566" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699566" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699566" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699566" k="tiger:name_base" o="none" type="way" v="Hillcrest" />
+    <tag id="61699566" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="61699567" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699567" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="61699567" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="61699567" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699567" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61699567" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="61699567" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699567" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699628" k="name" o="none" type="way" v="Free Bridge" />
+    <tag id="61699628" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699628" k="layer" o="none" type="way" v="1" />
+    <tag id="61699628" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699628" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="61699628" k="old_ref" o="none" type="way" v="US 22" />
+    <tag id="61699628" k="ref:penndot" o="none" type="way" v="SR2022" />
+    <tag id="61699628" k="old_ref_legislative" o="none" type="way" v="175" />
+    <tag id="61699630" k="name" o="none" type="way" v="Free Bridge" />
+    <tag id="61699630" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699630" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="61699630" k="ref:penndot" o="none" type="way" v="SR2022" />
+    <tag id="61699630" k="old_ref_legislative" o="none" type="way" v="175" />
+    <tag id="61699634" k="name" o="none" type="way" v="Chambers Street" />
+    <tag id="61699634" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699634" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699634" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699634" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699634" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61699634" k="tiger:name_base" o="none" type="way" v="Chambers" />
+    <tag id="61699634" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699634" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61699635" k="name" o="none" type="way" v="Stockton Street" />
+    <tag id="61699635" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699635" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699635" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699635" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699635" k="tiger:name_base" o="none" type="way" v="Stockton" />
+    <tag id="61699635" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699638" k="fixme" o="none" type="way" v="Should be motorway_link?" />
+    <tag id="61699638" k="lanes" o="none" type="way" v="1" />
+    <tag id="61699638" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699638" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="61699639" k="name" o="none" type="way" v="3rd Street" />
+    <tag id="61699639" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="61699639" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699639" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699639" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699639" k="tiger:name_base" o="none" type="way" v="3rd" />
+    <tag id="61699639" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699643" k="ref" o="modify" type="way" v="CR 621" />
+    <tag id="61699643" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="61699643" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699643" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699643" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699643" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699643" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699643" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="61699643" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699643" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="61699644" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699644" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="61699647" k="lanes" o="none" type="way" v="1" />
+    <tag id="61699647" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699647" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="61699649" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699649" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699649" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699649" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699649" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699649" k="toll" o="none" type="way" v="yes" />
+    <tag id="61699649" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699649" k="layer" o="none" type="way" v="1" />
+    <tag id="61699649" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699649" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699649" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699649" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699649" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699649" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699650" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699650" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699650" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699650" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61699650" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61699650" k="toll" o="none" type="way" v="yes" />
+    <tag id="61699650" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699650" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699650" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699650" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="61699650" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61699650" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61699650" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61699651" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699651" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="61699652" k="foot" o="none" type="way" v="yes" />
+    <tag id="61699652" k="name" o="none" type="way" v="Baltimore Street" />
+    <tag id="61699652" k="access" o="none" type="way" v="yes" />
+    <tag id="61699652" k="oneway" o="none" type="way" v="no" />
+    <tag id="61699652" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="61699652" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699652" k="surface" o="none" type="way" v="paved" />
+    <tag id="61699652" k="cycleway" o="none" type="way" v="no" />
+    <tag id="61699652" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699652" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699652" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="61699652" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699652" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61699652" k="tiger:name_base" o="none" type="way" v="Baltimore" />
+    <tag id="61699652" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699652" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61699654" k="name" o="none" type="way" v="South 3rd Street" />
+    <tag id="61699654" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699654" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699654" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699654" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699654" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61699654" k="tiger:name_base" o="none" type="way" v="3rd" />
+    <tag id="61699654" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699654" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61699654" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="61699655" k="name" o="none" type="way" v="2nd Street" />
+    <tag id="61699655" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61699655" k="junction" o="none" type="way" v="jughandle" />
+    <tag id="61699655" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61699655" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61699655" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61699655" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61699655" k="tiger:name_base" o="none" type="way" v="2nd" />
+    <tag id="61699655" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61699655" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61699688" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699688" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699688" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699688" k="name" o="none" type="way" v="Easton-Phillipsburg Toll Bridge" />
+    <tag id="61699688" k="toll" o="none" type="way" v="no" />
+    <tag id="61699688" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699688" k="layer" o="none" type="way" v="1" />
+    <tag id="61699688" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699688" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699688" k="source" o="none" type="way" v="survey" />
+    <tag id="61699688" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699688" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="61699688" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="61699688" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="61699688" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="61699748" k="toll" o="none" type="way" v="no" />
+    <tag id="61699748" k="lanes" o="none" type="way" v="1" />
+    <tag id="61699748" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="61699749" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699749" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699749" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699749" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="61699749" k="toll" o="none" type="way" v="no" />
+    <tag id="61699749" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699749" k="layer" o="none" type="way" v="1" />
+    <tag id="61699749" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699749" k="source" o="none" type="way" v="survey" />
+    <tag id="61699749" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699749" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="61699749" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="61699749" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="61699749" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="61699750" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699750" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699750" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699750" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="61699750" k="toll" o="none" type="way" v="no" />
+    <tag id="61699750" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699750" k="layer" o="none" type="way" v="1" />
+    <tag id="61699750" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699750" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699750" k="source" o="none" type="way" v="survey" />
+    <tag id="61699750" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699750" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="61699750" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="61699750" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="61699750" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="61699751" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699751" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699751" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699751" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="61699751" k="toll" o="none" type="way" v="no" />
+    <tag id="61699751" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699751" k="layer" o="none" type="way" v="1" />
+    <tag id="61699751" k="bridge" o="none" type="way" v="yes" />
+    <tag id="61699751" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699751" k="source" o="none" type="way" v="survey" />
+    <tag id="61699751" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699751" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="61699751" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="61699751" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="61699752" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61699752" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61699752" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61699752" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="61699752" k="toll" o="none" type="way" v="no" />
+    <tag id="61699752" k="lanes" o="none" type="way" v="2" />
+    <tag id="61699752" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61699752" k="source" o="none" type="way" v="survey" />
+    <tag id="61699752" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="61699752" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="61699752" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="61699752" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="61699752" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="61700899" k="name" o="none" type="way" v="Bliss Boulevard" />
+    <tag id="61700899" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61700899" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61700899" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61700899" k="tiger:name_base" o="none" type="way" v="Bliss" />
+    <tag id="61700899" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="61700912" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61700912" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="61700912" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="61700912" k="name" o="none" type="way" v="Uniontown Road" />
+    <tag id="61700912" k="lanes" o="none" type="way" v="2" />
+    <tag id="61700912" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="61700912" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="61700912" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61700912" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61700912" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61700912" k="tiger:name_base" o="none" type="way" v="Uniontown" />
+    <tag id="61700912" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="61700912" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61700912" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="61700912" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61700946" k="name" o="none" type="way" v="Hunt Avenue" />
+    <tag id="61700946" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61700946" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61700946" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61700946" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61700946" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61700946" k="tiger:name_base" o="none" type="way" v="Hunt" />
+    <tag id="61700946" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="61700971" k="name" o="none" type="way" v="Center Street" />
+    <tag id="61700971" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61700971" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61700971" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61700971" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61700971" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61700971" k="tiger:name_base" o="none" type="way" v="Center" />
+    <tag id="61700971" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61700971" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61700978" k="name" o="none" type="way" v="Green Street" />
+    <tag id="61700978" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61700978" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61700978" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61700978" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61700978" k="tiger:name_base" o="none" type="way" v="Green" />
+    <tag id="61700978" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61728139" k="name" o="none" type="way" v="South 1st Street" />
+    <tag id="61728139" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61728139" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61728139" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61728139" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61728139" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61728139" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="61728139" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61728139" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61728139" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="61728140" k="name" o="none" type="way" v="Roseberry Street" />
+    <tag id="61728140" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="61728140" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61728140" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61728140" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61728140" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61728140" k="tiger:name_base" o="none" type="way" v="Roseberry" />
+    <tag id="61728140" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61728140" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61728141" k="name" o="none" type="way" v="South 1st Street" />
+    <tag id="61728141" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61728141" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61728141" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61728141" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61728141" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61728141" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="61728141" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61728141" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61728141" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="61728142" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728142" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728142" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728142" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728142" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728142" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728142" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728142" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728142" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728142" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728142" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728142" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728143" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728143" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728143" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728143" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728143" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728143" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728143" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728143" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728143" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728143" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728143" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728143" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728144" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728144" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728144" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728144" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728144" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728144" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728144" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728144" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728144" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728144" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728144" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728144" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728145" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728145" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728145" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728145" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728145" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728145" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728145" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728145" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728145" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="61728145" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728145" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728145" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728146" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728146" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728146" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728146" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728146" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728146" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728146" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728146" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728146" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728146" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728146" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728146" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728147" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728147" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728147" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728147" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728147" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728147" k="lanes" o="none" type="way" v="2" />
+    <tag id="61728147" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728147" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728147" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="61728147" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="61728147" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728147" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728147" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728148" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728148" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728148" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728148" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728148" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728148" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728148" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728148" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728148" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728148" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728148" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728148" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728151" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728151" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728151" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728151" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728151" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728151" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728151" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728151" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728151" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728151" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728151" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728151" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728152" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728152" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728152" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728152" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728152" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728152" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728152" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728152" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728152" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="61728152" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728152" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728152" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728153" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728153" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728153" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728153" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728153" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728153" k="lanes" o="none" type="way" v="4" />
+    <tag id="61728153" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728153" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728153" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="61728153" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="61728153" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728153" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728153" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728154" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728154" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728154" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728154" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728154" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728154" k="lanes" o="none" type="way" v="3" />
+    <tag id="61728154" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728154" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728154" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="61728154" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728154" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728154" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728156" k="NHS" o="none" type="way" v="yes" />
+    <tag id="61728156" k="hgv" o="none" type="way" v="designated" />
+    <tag id="61728156" k="ref" o="none" type="way" v="US 22" />
+    <tag id="61728156" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="61728156" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="61728156" k="lanes" o="none" type="way" v="2" />
+    <tag id="61728156" k="oneway" o="none" type="way" v="yes" />
+    <tag id="61728156" k="highway" o="modify" type="way" v="primary" />
+    <tag id="61728156" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="61728156" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="61728156" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="61728157" k="name" o="none" type="way" v="South 3rd Street" />
+    <tag id="61728157" k="highway" o="modify" type="way" v="residential" />
+    <tag id="61728157" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="61728157" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="61728157" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="61728157" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="61728157" k="tiger:name_base" o="none" type="way" v="3rd" />
+    <tag id="61728157" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="61728157" k="tiger:zip_right" o="none" type="way" v="08865" />
+    <tag id="61728157" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="116565939" k="hgv" o="none" type="way" v="designated" />
+    <tag id="116565939" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="116565939" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="116565939" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="116565939" k="lanes" o="none" type="way" v="1" />
+    <tag id="116565939" k="oneway" o="none" type="way" v="yes" />
+    <tag id="116565939" k="highway" o="modify" type="way" v="primary" />
+    <tag id="116565939" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="116565939" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="116565939" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="116565961" k="hgv" o="none" type="way" v="designated" />
+    <tag id="116565961" k="ref" o="none" type="way" v="NJ 173" />
+    <tag id="116565961" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="116565961" k="lanes" o="none" type="way" v="2" />
+    <tag id="116565961" k="highway" o="modify" type="way" v="primary" />
+    <tag id="116565961" k="NJDOT_SRI" o="none" type="way" v="00000173" />
+    <tag id="116565961" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="116565961" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="116565961" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="116565961" k="tiger:name_base" o="none" type="way" v="State Route 173" />
+    <tag id="116565961" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="116565961" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="116645637" k="NHS" o="none" type="way" v="yes" />
+    <tag id="116645637" k="hgv" o="none" type="way" v="designated" />
+    <tag id="116645637" k="ref" o="none" type="way" v="US 22" />
+    <tag id="116645637" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="116645637" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="116645637" k="lanes" o="none" type="way" v="2" />
+    <tag id="116645637" k="oneway" o="none" type="way" v="yes" />
+    <tag id="116645637" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="116645637" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="116645637" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="116645637" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="116645641" k="NHS" o="none" type="way" v="yes" />
+    <tag id="116645641" k="hgv" o="none" type="way" v="designated" />
+    <tag id="116645641" k="ref" o="none" type="way" v="US 22" />
+    <tag id="116645641" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="116645641" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="116645641" k="lanes" o="none" type="way" v="2" />
+    <tag id="116645641" k="oneway" o="none" type="way" v="yes" />
+    <tag id="116645641" k="highway" o="modify" type="way" v="primary" />
+    <tag id="116645641" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="116645641" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="116645641" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="116645641" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="116645646" k="NHS" o="none" type="way" v="yes" />
+    <tag id="116645646" k="hgv" o="none" type="way" v="designated" />
+    <tag id="116645646" k="ref" o="none" type="way" v="US 22" />
+    <tag id="116645646" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="116645646" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="116645646" k="lanes" o="none" type="way" v="2" />
+    <tag id="116645646" k="oneway" o="none" type="way" v="yes" />
+    <tag id="116645646" k="highway" o="modify" type="way" v="primary" />
+    <tag id="116645646" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="116645646" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="116645646" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="116645646" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="116645652" k="NHS" o="none" type="way" v="yes" />
+    <tag id="116645652" k="hgv" o="none" type="way" v="designated" />
+    <tag id="116645652" k="ref" o="none" type="way" v="US 22" />
+    <tag id="116645652" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="116645652" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="116645652" k="lanes" o="none" type="way" v="3" />
+    <tag id="116645652" k="oneway" o="none" type="way" v="yes" />
+    <tag id="116645652" k="highway" o="modify" type="way" v="primary" />
+    <tag id="116645652" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="116645652" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="116645652" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="116645652" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="145302763" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145302763" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145302763" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145302763" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145302763" k="lanes" o="none" type="way" v="2" />
+    <tag id="145302763" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145302763" k="source" o="none" type="way" v="survey" />
+    <tag id="145302763" k="highway" o="none" type="way" v="motorway" />
+    <tag id="145302763" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="145302763" k="turn:lanes" o="none" type="way" v="through|through" />
+    <tag id="145302763" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145302763" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145302763" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305626" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305626" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305626" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305626" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305626" k="toll" o="none" type="way" v="no" />
+    <tag id="145305626" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305626" k="layer" o="none" type="way" v="1" />
+    <tag id="145305626" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305626" k="source" o="none" type="way" v="survey" />
+    <tag id="145305626" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305626" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305626" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305626" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305627" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305627" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305627" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305627" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305627" k="toll" o="none" type="way" v="no" />
+    <tag id="145305627" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305627" k="layer" o="none" type="way" v="1" />
+    <tag id="145305627" k="bridge" o="none" type="way" v="yes" />
+    <tag id="145305627" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305627" k="source" o="none" type="way" v="survey" />
+    <tag id="145305627" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305627" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="145305627" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305627" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305627" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305628" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305628" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305628" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305628" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305628" k="toll" o="none" type="way" v="no" />
+    <tag id="145305628" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305628" k="layer" o="none" type="way" v="1" />
+    <tag id="145305628" k="bridge" o="none" type="way" v="yes" />
+    <tag id="145305628" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305628" k="source" o="none" type="way" v="survey" />
+    <tag id="145305628" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305628" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305628" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305628" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305629" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305629" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305629" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305629" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305629" k="toll" o="none" type="way" v="no" />
+    <tag id="145305629" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305629" k="layer" o="none" type="way" v="1" />
+    <tag id="145305629" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305629" k="source" o="none" type="way" v="survey" />
+    <tag id="145305629" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305629" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305629" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305629" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305630" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305630" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305630" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305630" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305630" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305630" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305630" k="source" o="none" type="way" v="survey" />
+    <tag id="145305630" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305630" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305630" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305630" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305631" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305631" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305631" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305631" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305631" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305631" k="layer" o="none" type="way" v="1" />
+    <tag id="145305631" k="level" o="none" type="way" v="1" />
+    <tag id="145305631" k="bridge" o="none" type="way" v="yes" />
+    <tag id="145305631" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305631" k="source" o="none" type="way" v="survey" />
+    <tag id="145305631" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305631" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="145305631" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305631" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305631" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305632" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305632" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305632" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305632" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305632" k="toll" o="none" type="way" v="no" />
+    <tag id="145305632" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305632" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305632" k="source" o="none" type="way" v="survey" />
+    <tag id="145305632" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305632" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="145305632" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305632" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305632" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305633" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305633" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305633" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305633" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305633" k="toll" o="none" type="way" v="no" />
+    <tag id="145305633" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305633" k="layer" o="none" type="way" v="1" />
+    <tag id="145305633" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305633" k="source" o="none" type="way" v="survey" />
+    <tag id="145305633" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305633" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="145305633" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305633" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305633" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305634" k="NHS" o="none" type="way" v="yes" />
+    <tag id="145305634" k="hgv" o="none" type="way" v="designated" />
+    <tag id="145305634" k="ref" o="none" type="way" v="US 22" />
+    <tag id="145305634" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="145305634" k="lanes" o="none" type="way" v="2" />
+    <tag id="145305634" k="layer" o="none" type="way" v="1" />
+    <tag id="145305634" k="level" o="none" type="way" v="1" />
+    <tag id="145305634" k="bridge" o="none" type="way" v="yes" />
+    <tag id="145305634" k="oneway" o="none" type="way" v="yes" />
+    <tag id="145305634" k="source" o="none" type="way" v="survey" />
+    <tag id="145305634" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="145305634" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="145305634" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="145305634" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="145305634" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="145305636" k="toll" o="none" type="way" v="no" />
+    <tag id="145305636" k="lanes" o="none" type="way" v="1" />
+    <tag id="145305636" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="145305638" k="toll" o="none" type="way" v="no" />
+    <tag id="145305638" k="lanes" o="none" type="way" v="1" />
+    <tag id="145305638" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="145305639" k="toll" o="none" type="way" v="yes" />
+    <tag id="145305639" k="lanes" o="none" type="way" v="1" />
+    <tag id="145305639" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="145305640" k="toll" o="none" type="way" v="yes" />
+    <tag id="145305640" k="lanes" o="none" type="way" v="1" />
+    <tag id="145305640" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="145305641" k="toll" o="none" type="way" v="no" />
+    <tag id="145305641" k="lanes" o="none" type="way" v="1" />
+    <tag id="145305641" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="157862674" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="157862674" k="lanes" o="none" type="way" v="2" />
+    <tag id="157862674" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="157862674" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="157862674" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="157862674" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="157862674" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="157862674" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="157862674" k="tiger:name_base_1" o="none" type="way" v="United States Highway 22 (Alt)" />
+    <tag id="157862674" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="158028855" k="NHS" o="none" type="way" v="yes" />
+    <tag id="158028855" k="hgv" o="none" type="way" v="designated" />
+    <tag id="158028855" k="ref" o="none" type="way" v="US 22" />
+    <tag id="158028855" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="158028855" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="158028855" k="toll" o="none" type="way" v="yes" />
+    <tag id="158028855" k="lanes" o="none" type="way" v="2" />
+    <tag id="158028855" k="oneway" o="none" type="way" v="yes" />
+    <tag id="158028855" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="158028855" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="158028855" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="158028855" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="158028855" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="168514653" k="hgv" o="none" type="way" v="designated" />
+    <tag id="168514653" k="ref" o="none" type="way" v="NJ 122" />
+    <tag id="168514653" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="168514653" k="name" o="none" type="way" v="South Main Street" />
+    <tag id="168514653" k="lanes" o="none" type="way" v="2" />
+    <tag id="168514653" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="168514653" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="168514653" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="168514653" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="168514653" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="168514653" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="168514654" k="hgv" o="none" type="way" v="designated" />
+    <tag id="168514654" k="ref" o="none" type="way" v="NJ 122" />
+    <tag id="168514654" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="168514654" k="name" o="none" type="way" v="New Brunswick Avenue" />
+    <tag id="168514654" k="lanes" o="none" type="way" v="2" />
+    <tag id="168514654" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="168514654" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="168514654" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="168514654" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="168514654" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="168514654" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="168514654" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="168518261" k="NHS" o="none" type="way" v="yes" />
+    <tag id="168518261" k="hgv" o="none" type="way" v="designated" />
+    <tag id="168518261" k="ref" o="none" type="way" v="NJ 57" />
+    <tag id="168518261" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="168518261" k="name" o="none" type="way" v="West Washington Avenue" />
+    <tag id="168518261" k="lanes" o="none" type="way" v="2" />
+    <tag id="168518261" k="highway" o="none" type="way" v="primary" />
+    <tag id="168518261" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="168518261" k="NJDOT_SRI" o="none" type="way" v="00000057" />
+    <tag id="168518261" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="168518261" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="168518261" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="168518261" k="tiger:zip_left" o="none" type="way" v="07882" />
+    <tag id="168518261" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="168518261" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="168518261" k="tiger:zip_right" o="none" type="way" v="07882" />
+    <tag id="168518261" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="168518261" k="tiger:name_base_1" o="none" type="way" v="State Route 57" />
+    <tag id="168518261" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="168518261" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="168579257" k="ref" o="none" type="way" v="CR 646" />
+    <tag id="168579257" k="name" o="none" type="way" v="Belvidere Road" />
+    <tag id="168579257" k="name_1" o="none" type="way" v="County Road 519" />
+    <tag id="168579257" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="168579257" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="168579257" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="168579257" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="168579257" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="168579257" k="tiger:name_base" o="none" type="way" v="Belvidere" />
+    <tag id="168579257" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="168579257" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="168579258" k="ref" o="none" type="way" v="CR 646" />
+    <tag id="168579258" k="name" o="none" type="way" v="Belvidere Road" />
+    <tag id="168579258" k="name_1" o="none" type="way" v="County Road 519" />
+    <tag id="168579258" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="168579258" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="168579258" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="168579258" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="168579258" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="168579258" k="tiger:name_base" o="none" type="way" v="Belvidere" />
+    <tag id="168579258" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="168579258" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="169405140" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="169405140" k="name" o="none" type="way" v="South Main St" />
+    <tag id="169405140" k="lanes" o="none" type="way" v="2" />
+    <tag id="169405140" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="169405140" k="NJDOT_SRI" o="none" type="way" v="21191211" />
+    <tag id="169405140" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="169405146" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="169405146" k="name" o="none" type="way" v="South Main St" />
+    <tag id="169405146" k="lanes" o="none" type="way" v="2" />
+    <tag id="169405146" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="169405146" k="NJDOT_SRI" o="none" type="way" v="21191211" />
+    <tag id="169405146" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="169405147" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="169405147" k="name" o="none" type="way" v="South Main St" />
+    <tag id="169405147" k="lanes" o="none" type="way" v="2" />
+    <tag id="169405147" k="layer" o="none" type="way" v="1" />
+    <tag id="169405147" k="bridge" o="none" type="way" v="yes" />
+    <tag id="169405147" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="169405147" k="NJDOT_SRI" o="none" type="way" v="21191211" />
+    <tag id="169405147" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="169405150" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="169405150" k="name" o="none" type="way" v="South Main St" />
+    <tag id="169405150" k="lanes" o="none" type="way" v="2" />
+    <tag id="169405150" k="layer" o="none" type="way" v="1" />
+    <tag id="169405150" k="bridge" o="none" type="way" v="yes" />
+    <tag id="169405150" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="169405150" k="NJDOT_SRI" o="none" type="way" v="21191211" />
+    <tag id="169405150" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="178548714" k="lanes" o="none" type="way" v="1" />
+    <tag id="178548714" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178548714" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="178548717" k="NHS" o="none" type="way" v="yes" />
+    <tag id="178548717" k="hgv" o="none" type="way" v="designated" />
+    <tag id="178548717" k="ref" o="none" type="way" v="US 22" />
+    <tag id="178548717" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="178548717" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="178548717" k="lanes" o="none" type="way" v="3" />
+    <tag id="178548717" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178548717" k="highway" o="modify" type="way" v="primary" />
+    <tag id="178548717" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="178548717" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="178548717" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="178548717" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="178548718" k="name" o="none" type="way" v="Hillcrest Boulevard" />
+    <tag id="178548718" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178548718" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="178548718" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="178548718" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="178548718" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="178548718" k="tiger:name_base" o="none" type="way" v="Hillcrest" />
+    <tag id="178548718" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="201311171" k="NHS" o="none" type="way" v="yes" />
+    <tag id="201311171" k="hgv" o="none" type="way" v="designated" />
+    <tag id="201311171" k="ref" o="none" type="way" v="US 22" />
+    <tag id="201311171" k="name" o="none" type="way" v="Lehigh Valley Thruway" />
+    <tag id="201311171" k="lanes" o="none" type="way" v="2" />
+    <tag id="201311171" k="oneway" o="none" type="way" v="yes" />
+    <tag id="201311171" k="source" o="none" type="way" v="survey" />
+    <tag id="201311171" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="201311171" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="201311171" k="old_ref_legislative" o="none" type="way" v="773" />
+    <tag id="201311171" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="201311171" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="203295526" k="NHS" o="none" type="way" v="yes" />
+    <tag id="203295526" k="hgv" o="none" type="way" v="designated" />
+    <tag id="203295526" k="ref" o="none" type="way" v="US 22" />
+    <tag id="203295526" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="203295526" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="203295526" k="lanes" o="none" type="way" v="3" />
+    <tag id="203295526" k="oneway" o="none" type="way" v="yes" />
+    <tag id="203295526" k="highway" o="modify" type="way" v="primary" />
+    <tag id="203295526" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="203295526" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="203295526" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="203295526" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="203295526" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061404" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061404" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="205061404" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="205061404" k="name" o="none" type="way" v="Saint James Avenue" />
+    <tag id="205061404" k="lanes" o="none" type="way" v="4" />
+    <tag id="205061404" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="205061404" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="205061404" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="205061404" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="205061404" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="205061404" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="205061404" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="205061404" k="tiger:name_base" o="none" type="way" v="Saint James" />
+    <tag id="205061404" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="205061404" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061404" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="205061404" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061405" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061405" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="205061405" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="205061405" k="name" o="none" type="way" v="Uniontown Road" />
+    <tag id="205061405" k="lanes" o="none" type="way" v="4" />
+    <tag id="205061405" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="205061405" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="205061405" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="205061405" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="205061405" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="205061405" k="tiger:name_base" o="none" type="way" v="Uniontown" />
+    <tag id="205061405" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="205061405" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061405" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="205061405" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061406" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061406" k="ref" o="none" type="way" v="NJ 122" />
+    <tag id="205061406" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="205061406" k="name" o="none" type="way" v="New Brunswick Avenue" />
+    <tag id="205061406" k="lanes" o="none" type="way" v="4" />
+    <tag id="205061406" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="205061406" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="205061406" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="205061406" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="205061406" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="205061406" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="205061406" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061406" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061407" k="ref" o="none" type="way" v="CR 638" />
+    <tag id="205061407" k="name" o="none" type="way" v="Greenwich Street" />
+    <tag id="205061407" k="lanes" o="none" type="way" v="4" />
+    <tag id="205061407" k="name_1" o="none" type="way" v="County Road 638" />
+    <tag id="205061407" k="highway" o="modify" type="way" v="residential" />
+    <tag id="205061407" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="205061407" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="205061407" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="205061407" k="tiger:zip_left" o="none" type="way" v="08886" />
+    <tag id="205061407" k="tiger:name_base" o="none" type="way" v="Greenwich" />
+    <tag id="205061407" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="205061407" k="tiger:zip_right" o="none" type="way" v="08886" />
+    <tag id="205061407" k="tiger:name_base_1" o="none" type="way" v="County Road 638" />
+    <tag id="205061408" k="ref" o="none" type="way" v="CR 638" />
+    <tag id="205061408" k="name" o="none" type="way" v="Greenwich Street" />
+    <tag id="205061408" k="lanes" o="none" type="way" v="2" />
+    <tag id="205061408" k="name_1" o="none" type="way" v="County Road 638" />
+    <tag id="205061408" k="highway" o="modify" type="way" v="residential" />
+    <tag id="205061408" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="205061408" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="205061408" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="205061408" k="tiger:zip_left" o="none" type="way" v="08886" />
+    <tag id="205061408" k="tiger:name_base" o="none" type="way" v="Greenwich" />
+    <tag id="205061408" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="205061408" k="tiger:zip_right" o="none" type="way" v="08886" />
+    <tag id="205061408" k="tiger:name_base_1" o="none" type="way" v="County Road 638" />
+    <tag id="205061409" k="NHS" o="none" type="way" v="yes" />
+    <tag id="205061409" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061409" k="ref" o="none" type="way" v="US 22" />
+    <tag id="205061409" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="205061409" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="205061409" k="lanes" o="none" type="way" v="2" />
+    <tag id="205061409" k="oneway" o="none" type="way" v="yes" />
+    <tag id="205061409" k="highway" o="modify" type="way" v="primary" />
+    <tag id="205061409" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="205061409" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="205061409" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061409" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061410" k="NHS" o="none" type="way" v="yes" />
+    <tag id="205061410" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061410" k="ref" o="none" type="way" v="US 22" />
+    <tag id="205061410" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="205061410" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="205061410" k="lanes" o="none" type="way" v="3" />
+    <tag id="205061410" k="oneway" o="none" type="way" v="yes" />
+    <tag id="205061410" k="highway" o="modify" type="way" v="primary" />
+    <tag id="205061410" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="205061410" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="205061410" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061410" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061411" k="NHS" o="none" type="way" v="yes" />
+    <tag id="205061411" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061411" k="ref" o="none" type="way" v="US 22" />
+    <tag id="205061411" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="205061411" k="name" o="none" type="way" v="Memorial Parkway" />
+    <tag id="205061411" k="lanes" o="none" type="way" v="3" />
+    <tag id="205061411" k="oneway" o="none" type="way" v="yes" />
+    <tag id="205061411" k="highway" o="modify" type="way" v="primary" />
+    <tag id="205061411" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="205061411" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="205061411" k="NJDOT_SRI" o="none" type="way" v="00000022" />
+    <tag id="205061411" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061411" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="205061412" k="hgv" o="none" type="way" v="designated" />
+    <tag id="205061412" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="205061412" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="205061412" k="name" o="none" type="way" v="Saint James Avenue" />
+    <tag id="205061412" k="lanes" o="none" type="way" v="6" />
+    <tag id="205061412" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="205061412" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="205061412" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="205061412" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="205061412" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="205061412" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="205061412" k="tiger:zip_left" o="none" type="way" v="08865" />
+    <tag id="205061412" k="tiger:name_base" o="none" type="way" v="Saint James" />
+    <tag id="205061412" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="205061412" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="205061412" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="205061412" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="206314401" k="hgv" o="none" type="way" v="designated" />
+    <tag id="206314401" k="ref" o="none" type="way" v="NJ 122" />
+    <tag id="206314401" k="HFCS" o="none" type="way" v="Urban Principal Arterial" />
+    <tag id="206314401" k="name" o="none" type="way" v="New Brunswick Avenue" />
+    <tag id="206314401" k="lanes" o="none" type="way" v="4" />
+    <tag id="206314401" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="206314401" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="206314401" k="NJDOT_SRI" o="none" type="way" v="00000122" />
+    <tag id="206314401" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="206314401" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="206314401" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="206314401" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="206314401" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="252564251" k="name" o="none" type="way" v="Stryker Road" />
+    <tag id="252564251" k="bridge" o="none" type="way" v="yes" />
+    <tag id="252564251" k="highway" o="modify" type="way" v="residential" />
+    <tag id="252564251" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="252564251" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="252564251" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="252564251" k="tiger:name_base" o="none" type="way" v="Stryker" />
+    <tag id="252564251" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="252564252" k="name" o="none" type="way" v="Stryker Road" />
+    <tag id="252564252" k="highway" o="modify" type="way" v="residential" />
+    <tag id="252564252" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="252564252" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="252564252" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="252564252" k="tiger:name_base" o="none" type="way" v="Stryker" />
+    <tag id="252564252" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="319401127" k="hgv" o="none" type="way" v="designated" />
+    <tag id="319401127" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="319401127" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="319401127" k="name" o="none" type="way" v="Uniontown Road" />
+    <tag id="319401127" k="lanes" o="none" type="way" v="2" />
+    <tag id="319401127" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="319401127" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="319401127" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="319401127" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="319401127" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="319401127" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="319401127" k="tiger:name_base" o="none" type="way" v="Uniontown" />
+    <tag id="319401127" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="319401127" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="319401127" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="319401127" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="319401128" k="hgv" o="none" type="way" v="designated" />
+    <tag id="319401128" k="ref" o="none" type="way" v="CR 519" />
+    <tag id="319401128" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="319401128" k="name" o="none" type="way" v="Uniontown Road" />
+    <tag id="319401128" k="lanes" o="none" type="way" v="2" />
+    <tag id="319401128" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="319401128" k="NJDOT_SRI" o="none" type="way" v="00000519" />
+    <tag id="319401128" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="319401128" k="tiger:county" o="none" type="way" v="Warren, NJ" />
+    <tag id="319401128" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="319401128" k="tiger:name_base" o="none" type="way" v="Uniontown" />
+    <tag id="319401128" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="319401128" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="319401128" k="tiger:name_base_1" o="none" type="way" v="County Road 519" />
+    <tag id="319401128" k="source:hgv:state_network" o="none" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="480753708" k="NHS" o="add" type="way" v="yes" />
+    <tag id="480753708" k="hgv" o="add" type="way" v="designated" />
+    <tag id="480753708" k="ref" o="add" type="way" v="NJ 57" />
+    <tag id="480753708" k="HFCS" o="add" type="way" v="Urban Principal Arterial" />
+    <tag id="480753708" k="name" o="add" type="way" v="West Washington Avenue" />
+    <tag id="480753708" k="lanes" o="add" type="way" v="2" />
+    <tag id="480753708" k="highway" o="add" type="way" v="primary" />
+    <tag id="480753708" k="maxspeed" o="add" type="way" v="50 mph" />
+    <tag id="480753708" k="NJDOT_SRI" o="add" type="way" v="00000057" />
+    <tag id="480753708" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="480753708" k="tiger:county" o="add" type="way" v="Warren, NJ" />
+    <tag id="480753708" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="480753708" k="tiger:zip_left" o="add" type="way" v="07882" />
+    <tag id="480753708" k="tiger:name_base" o="add" type="way" v="Washington" />
+    <tag id="480753708" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="480753708" k="tiger:zip_right" o="add" type="way" v="07882" />
+    <tag id="480753708" k="hgv:state_network" o="add" type="way" v="yes" />
+    <tag id="480753708" k="tiger:name_base_1" o="add" type="way" v="State Route 57" />
+    <tag id="480753708" k="source:hgv:state_network" o="add" type="way" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf" />
+    <tag id="480753708" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="480753709" k="name" o="add" type="way" v="Stryker Road" />
+    <tag id="480753709" k="highway" o="add" type="way" v="residential" />
+    <tag id="480753709" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="480753709" k="tiger:county" o="add" type="way" v="Warren, NJ" />
+    <tag id="480753709" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="480753709" k="tiger:name_base" o="add" type="way" v="Stryker" />
+    <tag id="480753709" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="480753710" k="name" o="add" type="way" v="Roseberry Street" />
+    <tag id="480753710" k="highway" o="add" type="way" v="residential" />
+    <tag id="480753710" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="480753710" k="tiger:county" o="add" type="way" v="Warren, NJ" />
+    <tag id="480753710" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="480753710" k="tiger:zip_left" o="add" type="way" v="08865" />
+    <tag id="480753710" k="tiger:name_base" o="add" type="way" v="Roseberry" />
+    <tag id="480753710" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="480753710" k="tiger:zip_right" o="add" type="way" v="08865" />
+    <tag id="480753713" k="NHS" o="add" type="way" v="yes" />
+    <tag id="480753713" k="hgv" o="add" type="way" v="designated" />
+    <tag id="480753713" k="ref" o="add" type="way" v="US 22" />
+    <tag id="480753713" k="name" o="add" type="way" v="Lehigh Valley Thruway" />
+    <tag id="480753713" k="lanes" o="add" type="way" v="2" />
+    <tag id="480753713" k="oneway" o="add" type="way" v="yes" />
+    <tag id="480753713" k="source" o="add" type="way" v="survey" />
+    <tag id="480753713" k="highway" o="add" type="way" v="trunk" />
+    <tag id="480753713" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="480753713" k="turn:lanes" o="add" type="way" v="through|through" />
+    <tag id="480753713" k="old_ref_legislative" o="add" type="way" v="773" />
+    <tag id="480753713" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="480753713" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="480753714" k="NHS" o="add" type="way" v="yes" />
+    <tag id="480753714" k="hgv" o="add" type="way" v="designated" />
+    <tag id="480753714" k="ref" o="add" type="way" v="US 22" />
+    <tag id="480753714" k="name" o="add" type="way" v="Lehigh Valley Thruway" />
+    <tag id="480753714" k="lanes" o="add" type="way" v="2" />
+    <tag id="480753714" k="oneway" o="add" type="way" v="yes" />
+    <tag id="480753714" k="source" o="add" type="way" v="survey" />
+    <tag id="480753714" k="highway" o="add" type="way" v="motorway" />
+    <tag id="480753714" k="old_ref_legislative" o="add" type="way" v="773" />
+    <tag id="480753714" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="480753714" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="419218" k="ref" o="none" type="relation" v="57" />
+    <tag id="419218" k="type" o="none" type="relation" v="route" />
+    <tag id="419218" k="route" o="none" type="relation" v="road" />
+    <tag id="419218" k="network" o="none" type="relation" v="US:NJ" />
+    <tag id="442751" k="ref" o="none" type="relation" v="22" />
+    <tag id="442751" k="name" o="none" type="relation" v="US 22 (PA)" />
+    <tag id="442751" k="type" o="none" type="relation" v="route" />
+    <tag id="442751" k="route" o="none" type="relation" v="road" />
+    <tag id="442751" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/6/6e/US_22.svg" />
+    <tag id="442751" k="network" o="none" type="relation" v="US:US" />
+    <tag id="442751" k="wikidata" o="none" type="relation" v="Q934952" />
+    <tag id="442751" k="wikipedia" o="none" type="relation" v="en:U.S. Route 22 in Pennsylvania" />
+    <tag id="442751" k="is_in:state" o="none" type="relation" v="PA" />
+  </body>
+</changeset>

@@ -1,0 +1,515 @@
+<changeset id="9316798" schema="2">
+  <counts nodesAdded="79" nodesDeleted="3323" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="34" waysAdded="16" waysDeleted="234" waysModified="237" />
+  <meta>
+    <tag k="build" v="2.2-41-gec89ae9" />
+    <tag k="comment" v="Stratenplan Gemeente Voeren" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.2" />
+  </meta>
+  <body>
+    <tag id="44225367" k="source" o="none" type="way" v="3dShapes" />
+    <tag id="44225367" k="building" o="none" type="way" v="yes" />
+    <tag id="44225367" k="3dshapes:ggmodelk" o="none" type="way" v="22" />
+    <tag id="80311692" k="source" o="none" type="way" v="3dShapes" />
+    <tag id="80311692" k="landuse" o="none" type="way" v="farm" />
+    <tag id="80311692" k="3dshapes:ggmodelk" o="none" type="way" v="10" />
+    <tag id="80311784" k="source" o="none" type="way" v="3dShapes" />
+    <tag id="80311784" k="landuse" o="none" type="way" v="orchard" />
+    <tag id="80311784" k="3dshapes:ggmodelk" o="none" type="way" v="16" />
+    <tag id="130149017" k="name" o="add" type="way" v="Elzen" />
+    <tag id="130149017" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="130149018" k="name" o="add" type="way" v="Schansweg" />
+    <tag id="130149018" k="highway" o="add" type="way" v="secondary" />
+    <tag id="130149019" k="name" o="add" type="way" v="Winkel" />
+    <tag id="130149019" k="highway" o="add" type="way" v="secondary" />
+    <tag id="130149020" k="name" o="add" type="way" v="Dorpsstraat" />
+    <tag id="130149020" k="highway" o="add" type="way" v="secondary" />
+    <tag id="130149021" k="name" o="add" type="way" v="Vis&#233;weg" />
+    <tag id="130149021" k="highway" o="add" type="way" v="secondary" />
+    <tag id="130149022" k="name" o="add" type="way" v="Mescherstraat" />
+    <tag id="130149022" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="130149023" k="name" o="add" type="way" v="Berwijnstraat" />
+    <tag id="130149023" k="oneway" o="add" type="way" v="no" />
+    <tag id="130149023" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="130149024" k="name" o="add" type="way" v="Bijsstraat" />
+    <tag id="130149024" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="130149025" k="name" o="add" type="way" v="Getske" />
+    <tag id="130149025" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="130149026" k="name" o="add" type="way" v="Withuisstraat" />
+    <tag id="130149026" k="highway" o="add" type="way" v="secondary" />
+    <tag id="130149027" k="name" o="add" type="way" v="Driesch" />
+    <tag id="130149027" k="highway" o="add" type="way" v="residential" />
+    <tag id="130149028" k="name" o="add" type="way" v="Elvenschans" />
+    <tag id="130149028" k="highway" o="add" type="way" v="track" />
+    <tag id="130149029" k="name" o="add" type="way" v="Roosenstraat" />
+    <tag id="130149029" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="130161626" k="name" o="add" type="way" v="Withuis" />
+    <tag id="130161626" k="highway" o="add" type="way" v="secondary" />
+    <tag id="130161628" k="name" o="add" type="way" v="Voerengraaf" />
+    <tag id="130161628" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="130161631" k="name" o="add" type="way" v="Batticestraat" />
+    <tag id="130161631" k="highway" o="add" type="way" v="secondary" />
+    <tag id="47793" k="name" o="none" type="relation" v="Limburg" />
+    <tag id="47793" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="47793" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="47793" k="admin_level" o="none" type="relation" v="4" />
+    <tag id="47796" k="name" o="none" type="relation" v="Nederland" />
+    <tag id="47796" k="note" o="none" type="relation" v="Do NOT change to the unnecessary and obsolete type=boundary" />
+    <tag id="47796" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="47796" k="name:cs" o="none" type="relation" v="Nizozemsko" />
+    <tag id="47796" k="name:da" o="none" type="relation" v="Holland" />
+    <tag id="47796" k="name:de" o="none" type="relation" v="Die Niederlande" />
+    <tag id="47796" k="name:en" o="none" type="relation" v="The Netherlands" />
+    <tag id="47796" k="name:es" o="none" type="relation" v="Pa&#237;ses Bajos" />
+    <tag id="47796" k="name:fr" o="none" type="relation" v="Les Pays-Bas" />
+    <tag id="47796" k="name:fy" o="none" type="relation" v="Nederl&#226;n" />
+    <tag id="47796" k="name:hr" o="none" type="relation" v="Nizozemska" />
+    <tag id="47796" k="name:it" o="none" type="relation" v="Paesi Bassi" />
+    <tag id="47796" k="name:nl" o="none" type="relation" v="Nederland" />
+    <tag id="47796" k="name:ru" o="none" type="relation" v="&#1053;&#1080;&#1076;&#1077;&#1088;&#1083;&#1072;&#1085;&#1076;&#1099;" />
+    <tag id="47796" k="name:sr" o="none" type="relation" v="&#1061;&#1086;&#1083;&#1072;&#1085;&#1076;&#1080;&#1112;&#1072;" />
+    <tag id="47796" k="name:sv" o="none" type="relation" v="Nederl&#228;nderna" />
+    <tag id="47796" k="name:uk" o="none" type="relation" v="&#1053;&#1110;&#1076;&#1077;&#1088;&#1083;&#1072;&#1085;&#1076;&#1080;" />
+    <tag id="47796" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="47796" k="currency" o="none" type="relation" v="EUR" />
+    <tag id="47796" k="name:ast" o="none" type="relation" v="Los Pa&#237;ses Baxos" />
+    <tag id="47796" k="name:hsb" o="none" type="relation" v="Ni&#382;ozemska" />
+    <tag id="47796" k="timezone" o="none" type="relation" v="Europe/Amsterdam" />
+    <tag id="47796" k="ISO3166-1" o="none" type="relation" v="nl" />
+    <tag id="47796" k="admin_level" o="none" type="relation" v="2" />
+    <tag id="47796" k="TMC:cid_58:tabcd_1:Class" o="none" type="relation" v="Area" />
+    <tag id="47796" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="relation" v="8.00" />
+    <tag id="47796" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="relation" v="4" />
+    <tag id="52411" k="name" o="none" type="relation" v="Belgi&#235; - Belgique - Belgien" />
+    <tag id="52411" k="type" o="none" type="relation" v="boundary" />
+    <tag id="52411" k="name:af" o="none" type="relation" v="Belgi&#235;" />
+    <tag id="52411" k="name:an" o="none" type="relation" v="Belchica" />
+    <tag id="52411" k="name:ar" o="none" type="relation" v="&#1576;&#1604;&#1580;&#1610;&#1603;&#1575;" />
+    <tag id="52411" k="name:ay" o="none" type="relation" v="Bilkiya" />
+    <tag id="52411" k="name:az" o="none" type="relation" v="Bel&#231;ika" />
+    <tag id="52411" k="name:ba" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:be" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1110;&#1103;" />
+    <tag id="52411" k="name:bg" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:bn" o="none" type="relation" v="&#2476;&#2503;&#2482;&#2460;&#2495;&#2479;&#2492;&#2494;&#2478;" />
+    <tag id="52411" k="name:br" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:bs" o="none" type="relation" v="Belgija" />
+    <tag id="52411" k="name:ca" o="none" type="relation" v="B&#232;lgica" />
+    <tag id="52411" k="name:ce" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;" />
+    <tag id="52411" k="name:co" o="none" type="relation" v="Belgica" />
+    <tag id="52411" k="name:cs" o="none" type="relation" v="Belgie" />
+    <tag id="52411" k="name:cu" o="none" type="relation" v="&#1041;&#1108;&#1083;&#1075;&#1111;&#1125;" />
+    <tag id="52411" k="name:cv" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;" />
+    <tag id="52411" k="name:cy" o="none" type="relation" v="Gwlad Belg" />
+    <tag id="52411" k="name:da" o="none" type="relation" v="Belgien" />
+    <tag id="52411" k="name:de" o="none" type="relation" v="Belgien" />
+    <tag id="52411" k="name:el" o="none" type="relation" v="&#914;&#941;&#955;&#947;&#953;&#959;" />
+    <tag id="52411" k="name:en" o="none" type="relation" v="Belgium" />
+    <tag id="52411" k="name:eo" o="none" type="relation" v="Belgio" />
+    <tag id="52411" k="name:es" o="none" type="relation" v="B&#233;lgica" />
+    <tag id="52411" k="name:et" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:eu" o="none" type="relation" v="Belgika" />
+    <tag id="52411" k="name:fa" o="none" type="relation" v="&#1576;&#1604;&#1688;&#1740;&#1705;" />
+    <tag id="52411" k="name:fi" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:fo" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:fr" o="none" type="relation" v="Belgique" />
+    <tag id="52411" k="name:fy" o="none" type="relation" v="Belgje" />
+    <tag id="52411" k="name:ga" o="none" type="relation" v="An Bheilg" />
+    <tag id="52411" k="name:gd" o="none" type="relation" v="A' Bheilg" />
+    <tag id="52411" k="name:gl" o="none" type="relation" v="B&#233;lxica" />
+    <tag id="52411" k="name:gv" o="none" type="relation" v="Velg" />
+    <tag id="52411" k="name:he" o="none" type="relation" v="&#1489;&#1500;&#1490;&#1497;&#1492;" />
+    <tag id="52411" k="name:hi" o="none" type="relation" v="&#2348;&#2375;&#2354;&#2381;&#2332;&#2367;&#2351;&#2350;" />
+    <tag id="52411" k="name:hr" o="none" type="relation" v="Belgija" />
+    <tag id="52411" k="name:ht" o="none" type="relation" v="B&#232;ljik" />
+    <tag id="52411" k="name:hu" o="none" type="relation" v="Belgium" />
+    <tag id="52411" k="name:hy" o="none" type="relation" v="&#1330;&#1381;&#1388;&#1379;&#1387;&#1377;" />
+    <tag id="52411" k="name:ia" o="none" type="relation" v="Belgica" />
+    <tag id="52411" k="name:id" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:ie" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:io" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:is" o="none" type="relation" v="Belg&#237;a" />
+    <tag id="52411" k="name:it" o="none" type="relation" v="Belgio" />
+    <tag id="52411" k="name:ja" o="none" type="relation" v="&#12505;&#12523;&#12462;&#12540;" />
+    <tag id="52411" k="name:jv" o="none" type="relation" v="B&#232;lgia" />
+    <tag id="52411" k="name:ka" o="none" type="relation" v="&#4305;&#4308;&#4314;&#4306;&#4312;&#4304;" />
+    <tag id="52411" k="name:kg" o="none" type="relation" v="Belezi" />
+    <tag id="52411" k="name:kk" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:kl" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:ko" o="none" type="relation" v="&#48296;&#44592;&#50640;" />
+    <tag id="52411" k="name:ks" o="none" type="relation" v="&#2348;&#2375;&#2354;&#2381;&#2332;&#2367;&#2351;&#2350;" />
+    <tag id="52411" k="name:ku" o="none" type="relation" v="Belgiya" />
+    <tag id="52411" k="name:kv" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:ky" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:la" o="none" type="relation" v="Belgica" />
+    <tag id="52411" k="name:lb" o="none" type="relation" v="Belsch" />
+    <tag id="52411" k="name:li" o="none" type="relation" v="Belsj" />
+    <tag id="52411" k="name:ln" o="none" type="relation" v="B&#603;&#769;ljika" />
+    <tag id="52411" k="name:lt" o="none" type="relation" v="Belgija" />
+    <tag id="52411" k="name:lv" o="none" type="relation" v="Be&#316;&#291;ija" />
+    <tag id="52411" k="name:mg" o="none" type="relation" v="Belzika" />
+    <tag id="52411" k="name:mi" o="none" type="relation" v="Pehiamu" />
+    <tag id="52411" k="name:mk" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1080;&#1112;&#1072;" />
+    <tag id="52411" k="name:mn" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;" />
+    <tag id="52411" k="name:mr" o="none" type="relation" v="&#2348;&#2375;&#2354;&#2381;&#2332;&#2367;&#2351;&#2350;" />
+    <tag id="52411" k="name:ms" o="none" type="relation" v="Belgium" />
+    <tag id="52411" k="name:mt" o="none" type="relation" v="Bel&#289;ju" />
+    <tag id="52411" k="name:ne" o="none" type="relation" v="&#2348;&#2375;&#2354;&#2381;&#2332;&#2367;&#2351;&#2350;" />
+    <tag id="52411" k="name:nl" o="none" type="relation" v="Belgi&#235;" />
+    <tag id="52411" k="name:nn" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:no" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:oc" o="none" type="relation" v="Belgica" />
+    <tag id="52411" k="name:os" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;" />
+    <tag id="52411" k="name:pl" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:ps" o="none" type="relation" v="&#1576;&#1604;&#1580;&#1740;&#1605;" />
+    <tag id="52411" k="name:pt" o="none" type="relation" v="B&#233;lgica" />
+    <tag id="52411" k="name:qu" o="none" type="relation" v="Bilhika" />
+    <tag id="52411" k="name:rm" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:ro" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:ru" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:rw" o="none" type="relation" v="Ububiligi" />
+    <tag id="52411" k="name:sa" o="none" type="relation" v="&#2348;&#2375;&#2354;&#2381;&#2332;&#2367;&#2351;&#2350;" />
+    <tag id="52411" k="name:se" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:sg" o="none" type="relation" v="B&#234;leze" />
+    <tag id="52411" k="name:sh" o="none" type="relation" v="Belgija" />
+    <tag id="52411" k="name:sk" o="none" type="relation" v="Belgicko" />
+    <tag id="52411" k="name:sl" o="none" type="relation" v="Belgija" />
+    <tag id="52411" k="name:so" o="none" type="relation" v="Beljim" />
+    <tag id="52411" k="name:sq" o="none" type="relation" v="Belgjika" />
+    <tag id="52411" k="name:sr" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1080;&#1112;&#1072;" />
+    <tag id="52411" k="name:su" o="none" type="relation" v="B&#233;lgia" />
+    <tag id="52411" k="name:sv" o="none" type="relation" v="Belgien" />
+    <tag id="52411" k="name:sw" o="none" type="relation" v="Ubelgiji" />
+    <tag id="52411" k="name:ta" o="none" type="relation" v="&#2986;&#3014;&#2994;&#3021;&#2972;&#3007;&#2991;&#2990;&#3021;" />
+    <tag id="52411" k="name:tg" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:th" o="none" type="relation" v="&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3648;&#3610;&#3621;&#3648;&#3618;&#3637;&#3618;&#3617;" />
+    <tag id="52411" k="name:tk" o="none" type="relation" v="Belgi&#253;a" />
+    <tag id="52411" k="name:tl" o="none" type="relation" v="Belhika" />
+    <tag id="52411" k="name:tr" o="none" type="relation" v="Bel&#231;ika" />
+    <tag id="52411" k="name:tt" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:ug" o="none" type="relation" v="&#1576;&#1744;&#1604;&#1711;&#1609;&#1610;&#1749;" />
+    <tag id="52411" k="name:uk" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1110;&#1103;" />
+    <tag id="52411" k="name:ur" o="none" type="relation" v="&#1576;&#1604;&#1580;&#1574;&#1740;&#1605;" />
+    <tag id="52411" k="name:uz" o="none" type="relation" v="Belgiya" />
+    <tag id="52411" k="name:vi" o="none" type="relation" v="B&#7881;" />
+    <tag id="52411" k="name:vo" o="none" type="relation" v="Belg&#228;n" />
+    <tag id="52411" k="name:wa" o="none" type="relation" v="Beldjike" />
+    <tag id="52411" k="name:wo" o="none" type="relation" v="Belsik" />
+    <tag id="52411" k="name:yi" o="none" type="relation" v="&#1489;&#1506;&#1500;&#1490;&#1497;&#1506;" />
+    <tag id="52411" k="name:yo" o="none" type="relation" v="B&#7865;&#769;lj&#237;&#7885;&#768;m" />
+    <tag id="52411" k="name:zh" o="none" type="relation" v="&#27604;&#21033;&#26102;" />
+    <tag id="52411" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="52411" k="currency" o="none" type="relation" v="EUR" />
+    <tag id="52411" k="name:ace" o="none" type="relation" v="B&#232;lgia" />
+    <tag id="52411" k="name:als" o="none" type="relation" v="Belgie" />
+    <tag id="52411" k="name:ang" o="none" type="relation" v="Belgice" />
+    <tag id="52411" k="name:arc" o="none" type="relation" v="&#1810;&#1824;&#1811;&#1821;&#1833;&#1808;" />
+    <tag id="52411" k="name:arz" o="none" type="relation" v="&#1576;&#1604;&#1580;&#1610;&#1603;&#1575;" />
+    <tag id="52411" k="name:ast" o="none" type="relation" v="B&#233;lxica" />
+    <tag id="52411" k="name:bar" o="none" type="relation" v="B&#228;igien" />
+    <tag id="52411" k="name:bcl" o="none" type="relation" v="Belhika" />
+    <tag id="52411" k="name:bpy" o="none" type="relation" v="&#2476;&#2503;&#2482;&#2460;&#2495;&#2479;&#2492;&#2494;&#2478;" />
+    <tag id="52411" k="name:ceb" o="none" type="relation" v="Belhika" />
+    <tag id="52411" k="name:ckb" o="none" type="relation" v="&#1576;&#1749;&#1604;&#1580;&#1740;&#1705;&#1575;" />
+    <tag id="52411" k="name:crh" o="none" type="relation" v="Bel&#231;ika" />
+    <tag id="52411" k="name:csb" o="none" type="relation" v="Belgijsk&#244;" />
+    <tag id="52411" k="name:diq" o="none" type="relation" v="Bel&#231;&#305;ka" />
+    <tag id="52411" k="name:dsb" o="none" type="relation" v="Belgiska" />
+    <tag id="52411" k="name:eml" o="none" type="relation" v="B&#233;lgi" />
+    <tag id="52411" k="name:ext" o="none" type="relation" v="B&#233;lgica" />
+    <tag id="52411" k="name:frp" o="none" type="relation" v="B&#232;lg&#183;ique" />
+    <tag id="52411" k="name:frr" o="none" type="relation" v="B&#228;lgien" />
+    <tag id="52411" k="name:fur" o="none" type="relation" v="Belgjo" />
+    <tag id="52411" k="name:gag" o="none" type="relation" v="Belgiya" />
+    <tag id="52411" k="name:hak" o="none" type="relation" v="P&#237;-li-s&#7795;&#768;" />
+    <tag id="52411" k="name:haw" o="none" type="relation" v="Pelekiuma" />
+    <tag id="52411" k="name:hsb" o="none" type="relation" v="Belgiska" />
+    <tag id="52411" k="name:jbo" o="none" type="relation" v="beldjym" />
+    <tag id="52411" k="name:kaa" o="none" type="relation" v="Belgiya" />
+    <tag id="52411" k="name:kab" o="none" type="relation" v="Biljik" />
+    <tag id="52411" k="name:kbd" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1101;" />
+    <tag id="52411" k="name:koi" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:krc" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:ksh" o="none" type="relation" v="Beljie" />
+    <tag id="52411" k="name:lad" o="none" type="relation" v="Beljika" />
+    <tag id="52411" k="name:lij" o="none" type="relation" v="Belgi&#242;" />
+    <tag id="52411" k="name:ltg" o="none" type="relation" v="Be&#316;geja" />
+    <tag id="52411" k="name:mdf" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1077;" />
+    <tag id="52411" k="name:mhr" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1081;" />
+    <tag id="52411" k="name:nap" o="none" type="relation" v="Belge" />
+    <tag id="52411" k="name:nds" o="none" type="relation" v="Belgien" />
+    <tag id="52411" k="name:nov" o="none" type="relation" v="Belgia" />
+    <tag id="52411" k="name:nrm" o="none" type="relation" v="Belgique" />
+    <tag id="52411" k="name:pap" o="none" type="relation" v="B&#233;lgika" />
+    <tag id="52411" k="name:pcd" o="none" type="relation" v="Bergike" />
+    <tag id="52411" k="name:pdc" o="none" type="relation" v="Belgien" />
+    <tag id="52411" k="name:pih" o="none" type="relation" v="Beljum" />
+    <tag id="52411" k="name:pms" o="none" type="relation" v="Belgi" />
+    <tag id="52411" k="name:pnb" o="none" type="relation" v="&#1576;&#1740;&#1604;&#1580;&#1740;&#1605;" />
+    <tag id="52411" k="name:pnt" o="none" type="relation" v="&#914;&#941;&#955;&#947;&#953;&#959;&#957;" />
+    <tag id="52411" k="name:rmy" o="none" type="relation" v="Beljiya" />
+    <tag id="52411" k="name:rue" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1169;&#1110;&#1103;" />
+    <tag id="52411" k="name:sah" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:scn" o="none" type="relation" v="Belgiu" />
+    <tag id="52411" k="name:sco" o="none" type="relation" v="Belgium" />
+    <tag id="52411" k="name:srn" o="none" type="relation" v="Belgikondre" />
+    <tag id="52411" k="name:stq" o="none" type="relation" v="Belgien" />
+    <tag id="52411" k="name:szl" o="none" type="relation" v="Belgijo" />
+    <tag id="52411" k="name:tet" o="none" type="relation" v="B&#233;ljika" />
+    <tag id="52411" k="name:tpi" o="none" type="relation" v="Beljiam" />
+    <tag id="52411" k="name:udm" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="name:vec" o="none" type="relation" v="Belgio" />
+    <tag id="52411" k="name:vls" o="none" type="relation" v="Belgi&#235;" />
+    <tag id="52411" k="name:war" o="none" type="relation" v="Belhika" />
+    <tag id="52411" k="name:wuu" o="none" type="relation" v="&#27604;&#21033;&#26102;" />
+    <tag id="52411" k="name:xmf" o="none" type="relation" v="&#4305;&#4308;&#4314;&#4306;&#4312;&#4304;" />
+    <tag id="52411" k="name:zea" o="none" type="relation" v="Belhi&#235;" />
+    <tag id="52411" k="timezone" o="none" type="relation" v="Europe/Brussels" />
+    <tag id="52411" k="ISO3166-1" o="none" type="relation" v="be" />
+    <tag id="52411" k="admin_level" o="none" type="relation" v="2" />
+    <tag id="52411" k="name:nds-nl" o="none" type="relation" v="Belgi&#235;" />
+    <tag id="52411" k="name:zh-yue" o="none" type="relation" v="&#27604;&#21033;&#26178;" />
+    <tag id="52411" k="name:bat-smg" o="none" type="relation" v="Belg&#279;j&#279;" />
+    <tag id="52411" k="name:fiu-vro" o="none" type="relation" v="Belgi&#228;" />
+    <tag id="52411" k="name:roa-rup" o="none" type="relation" v="Belghia" />
+    <tag id="52411" k="name:be-x-old" o="none" type="relation" v="&#1041;&#1101;&#1083;&#1100;&#1075;&#1110;&#1103;" />
+    <tag id="52411" k="native_name:af" o="none" type="relation" v="Koninkryk van Belgi&#235;" />
+    <tag id="52411" k="native_name:ay" o="none" type="relation" v="Bilhika Qhapaqsuyu" />
+    <tag id="52411" k="native_name:az" o="none" type="relation" v="Bel&#231;ika Krall&#305;&#287;&#305;" />
+    <tag id="52411" k="native_name:ba" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1083;&#1077;&#1075;&#1077;" />
+    <tag id="52411" k="native_name:be" o="none" type="relation" v="&#1050;&#1072;&#1088;&#1072;&#1083;&#1077;&#1118;&#1089;&#1090;&#1074;&#1072; &#1041;&#1077;&#1083;&#1100;&#1075;&#1110;&#1103;" />
+    <tag id="52411" k="native_name:bs" o="none" type="relation" v="Kraljevina Belgija" />
+    <tag id="52411" k="native_name:ca" o="none" type="relation" v="Regne de B&#232;lgica" />
+    <tag id="52411" k="native_name:co" o="none" type="relation" v="Regnu di Belgica" />
+    <tag id="52411" k="native_name:cs" o="none" type="relation" v="Belgick&#233; kr&#225;lovstv&#237;" />
+    <tag id="52411" k="native_name:cu" o="none" type="relation" v="&#1050;&#1088;&#1072;&#1083;&#1125;&#769;&#1074;&#1100;&#1089;&#1090;&#1074;&#1086; &#1041;&#1108;&#1083;&#1075;&#1111;&#1125;" />
+    <tag id="52411" k="native_name:cy" o="none" type="relation" v="Teyrnas Gwlad Belg" />
+    <tag id="52411" k="native_name:da" o="none" type="relation" v="Kongeriget Belgien" />
+    <tag id="52411" k="native_name:de" o="none" type="relation" v="K&#246;nigreich Belgien" />
+    <tag id="52411" k="native_name:el" o="none" type="relation" v="&#914;&#945;&#963;&#943;&#955;&#949;&#953;&#959; &#964;&#959;&#965; &#914;&#949;&#955;&#947;&#943;&#959;&#965;" />
+    <tag id="52411" k="native_name:en" o="none" type="relation" v="Kingdom of Belgium" />
+    <tag id="52411" k="native_name:eo" o="none" type="relation" v="Re&#285;lando Belgio" />
+    <tag id="52411" k="native_name:es" o="none" type="relation" v="Reino de B&#233;lgica" />
+    <tag id="52411" k="native_name:et" o="none" type="relation" v="Belgia Kuningriik" />
+    <tag id="52411" k="native_name:fi" o="none" type="relation" v="Belgian kuningaskunta" />
+    <tag id="52411" k="native_name:fr" o="none" type="relation" v="Royaume de Belgique" />
+    <tag id="52411" k="native_name:ga" o="none" type="relation" v="R&#237;ocht na Beilge" />
+    <tag id="52411" k="native_name:gd" o="none" type="relation" v="R&#236;oghachd na Beilge" />
+    <tag id="52411" k="native_name:gl" o="none" type="relation" v="Reino de B&#233;lxica" />
+    <tag id="52411" k="native_name:gv" o="none" type="relation" v="Reeriaght ny Belg" />
+    <tag id="52411" k="native_name:he" o="none" type="relation" v="&#1502;&#1502;&#1500;&#1499;&#1514; &#1489;&#1500;&#1490;&#1497;&#1492;" />
+    <tag id="52411" k="native_name:hr" o="none" type="relation" v="Kraljevina Belgija" />
+    <tag id="52411" k="native_name:hu" o="none" type="relation" v="Belga Kir&#225;lys&#225;g" />
+    <tag id="52411" k="native_name:hy" o="none" type="relation" v="&#1330;&#1381;&#1388;&#1379;&#1387;&#1377;&#1397;&#1387; &#1337;&#1377;&#1379;&#1377;&#1406;&#1400;&#1408;&#1400;&#1410;&#1385;&#1397;&#1400;&#1410;&#1398;" />
+    <tag id="52411" k="native_name:ia" o="none" type="relation" v="Regno de Belgica" />
+    <tag id="52411" k="native_name:id" o="none" type="relation" v="Kerajaan Belgia" />
+    <tag id="52411" k="native_name:is" o="none" type="relation" v="Konungsr&#237;ki&#240; Belg&#237;a" />
+    <tag id="52411" k="native_name:ka" o="none" type="relation" v="&#4305;&#4308;&#4314;&#4306;&#4312;&#4312;&#4321; &#4321;&#4304;&#4315;&#4308;&#4324;&#4317;" />
+    <tag id="52411" k="native_name:kg" o="none" type="relation" v="Nsi ya ntotila ya Belezi" />
+    <tag id="52411" k="native_name:kk" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1080;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1100;&#1076;&#1110;&#1075;&#1110;" />
+    <tag id="52411" k="native_name:kl" o="none" type="relation" v="Kunngeqarfik Belgia" />
+    <tag id="52411" k="native_name:ku" o="none" type="relation" v="Keyaniya Belgiyay&#234;" />
+    <tag id="52411" k="native_name:kv" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1100;&#1091;&#1074;" />
+    <tag id="52411" k="native_name:lb" o="none" type="relation" v="Kinnekr&#228;ich Belsch" />
+    <tag id="52411" k="native_name:li" o="none" type="relation" v="Keuninkriek Belsj" />
+    <tag id="52411" k="native_name:ln" o="none" type="relation" v="Mani ya B&#603;&#769;ljika" />
+    <tag id="52411" k="native_name:lv" o="none" type="relation" v="Be&#316;&#291;ijas Karaliste" />
+    <tag id="52411" k="native_name:mk" o="none" type="relation" v="&#1050;&#1088;&#1072;&#1083;&#1089;&#1090;&#1074;&#1086; &#1041;&#1077;&#1083;&#1075;&#1080;&#1112;&#1072;" />
+    <tag id="52411" k="native_name:mn" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1081;&#1085; &#1042;&#1072;&#1085;&#1090; &#1059;&#1083;&#1089;" />
+    <tag id="52411" k="native_name:mr" o="none" type="relation" v="&#2348;&#2375;&#2354;&#2381;&#2332;&#2367;&#2351;&#2350;&#2330;&#2375; &#2352;&#2366;&#2332;&#2340;&#2306;&#2340;&#2381;&#2352;" />
+    <tag id="52411" k="native_name:ms" o="none" type="relation" v="Kerajaan Belgium" />
+    <tag id="52411" k="native_name:mt" o="none" type="relation" v="Renju tal-Bel&#289;ju" />
+    <tag id="52411" k="native_name:nl" o="none" type="relation" v="Koninkrijk Belgi&#235;" />
+    <tag id="52411" k="native_name:nn" o="none" type="relation" v="Kongeriket Belgia" />
+    <tag id="52411" k="native_name:no" o="none" type="relation" v="Kongeriket Belgia" />
+    <tag id="52411" k="native_name:pl" o="none" type="relation" v="Kr&#243;lestwo Belgii" />
+    <tag id="52411" k="native_name:pt" o="none" type="relation" v="Reino da B&#233;lgica" />
+    <tag id="52411" k="native_name:qu" o="none" type="relation" v="Bilhika Qhapaqsuyu" />
+    <tag id="52411" k="native_name:ro" o="none" type="relation" v="Regatul Belgiei" />
+    <tag id="52411" k="native_name:sh" o="none" type="relation" v="Kraljevina Belgija" />
+    <tag id="52411" k="native_name:sl" o="none" type="relation" v="Kraljev&#237;na B&#233;lgija" />
+    <tag id="52411" k="native_name:sr" o="none" type="relation" v="&#1050;&#1088;&#1072;&#1113;&#1077;&#1074;&#1080;&#1085;&#1072; &#1041;&#1077;&#1083;&#1075;&#1080;&#1112;&#1072;" />
+    <tag id="52411" k="native_name:su" o="none" type="relation" v="Karajaan B&#233;lgia" />
+    <tag id="52411" k="native_name:sv" o="none" type="relation" v="Konungariket Belgien" />
+    <tag id="52411" k="native_name:tk" o="none" type="relation" v="Belgi&#253;a korollygy" />
+    <tag id="52411" k="native_name:tl" o="none" type="relation" v="Kaharian ng Belhika" />
+    <tag id="52411" k="native_name:tr" o="none" type="relation" v="Bel&#231;ika Krall&#305;&#287;&#305;" />
+    <tag id="52411" k="native_name:uk" o="none" type="relation" v="&#1050;&#1086;&#1088;&#1086;&#1083;&#1110;&#1074;&#1089;&#1090;&#1074;&#1086; &#1041;&#1077;&#1083;&#1100;&#1075;&#1110;&#1103;" />
+    <tag id="52411" k="native_name:ur" o="none" type="relation" v="&#1605;&#1605;&#1604;&#1705;&#1578;&#1616; &#1576;&#1604;&#1580;&#1574;&#1740;&#1605;" />
+    <tag id="52411" k="native_name:vi" o="none" type="relation" v="V&#432;&#417;ng qu&#7889;c B&#7881;" />
+    <tag id="52411" k="native_name:wo" o="none" type="relation" v="Ruwaayom bu Beljik" />
+    <tag id="52411" k="native_name:als" o="none" type="relation" v="K&#246;nigriich Belgie" />
+    <tag id="52411" k="native_name:bar" o="none" type="relation" v="Kinigraich B&#228;igien" />
+    <tag id="52411" k="native_name:crh" o="none" type="relation" v="Bel&#231;ika Q&#305;rall&#305;&#287;&#305;" />
+    <tag id="52411" k="native_name:dsb" o="none" type="relation" v="Kralojstwo Belgiskej" />
+    <tag id="52411" k="native_name:eml" o="none" type="relation" v="Regno dal B&#232;lgi" />
+    <tag id="52411" k="native_name:frp" o="none" type="relation" v="Roy&#244;mo de B&#232;lg&#183;ique" />
+    <tag id="52411" k="native_name:kbd" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1075;&#1101; &#1055;&#1101;&#1096;&#1090;&#1099;&#1093;&#1100;&#1077;&#1081;" />
+    <tag id="52411" k="native_name:koi" o="none" type="relation" v="&#1050;&#1086;&#1088;&#1086;&#1083;&#1103; &#1041;&#1077;&#1083;&#1075;&#1080;&#1103;" />
+    <tag id="52411" k="native_name:krc" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1077;&#1074;&#1089;&#1090;&#1074;&#1086;" />
+    <tag id="52411" k="native_name:pap" o="none" type="relation" v="Reino B&#233;lgika" />
+    <tag id="52411" k="native_name:pcd" o="none" type="relation" v="Ro&#233;y&#244;me d&#8217; Bergike" />
+    <tag id="52411" k="native_name:sah" o="none" type="relation" v="&#1041;&#1077;&#1083;&#1100;&#1075;&#1080;&#1103; &#1061;&#1086;&#1088;&#1091;&#1086;&#1083;&#1083;&#1091;&#1075;&#1072;" />
+    <tag id="52411" k="native_name:sco" o="none" type="relation" v="Kinrick o Belgium" />
+    <tag id="52411" k="native_name:vls" o="none" type="relation" v="Keunienkryk Belgi&#235;" />
+    <tag id="52411" k="native_name:nds-nl" o="none" type="relation" v="Koninkriek Belgi&#235;" />
+    <tag id="52411" k="native_name:fiu-vro" o="none" type="relation" v="Belgi&#228; Kuningriik" />
+    <tag id="52411" k="TMC:cid_58:tabcd_1:Class" o="none" type="relation" v="Area" />
+    <tag id="52411" k="TMC:cid_58:tabcd_1:LCLversion" o="none" type="relation" v="8.00" />
+    <tag id="52411" k="TMC:cid_58:tabcd_1:LocationCode" o="none" type="relation" v="3" />
+    <tag id="53134" k="name" o="none" type="relation" v="Vlaanderen" />
+    <tag id="53134" k="type" o="none" type="relation" v="boundary" />
+    <tag id="53134" k="name:de" o="none" type="relation" v="Flandern" />
+    <tag id="53134" k="name:el" o="none" type="relation" v="&#934;&#955;&#940;&#957;&#948;&#961;&#945;" />
+    <tag id="53134" k="name:en" o="none" type="relation" v="Flanders" />
+    <tag id="53134" k="name:es" o="none" type="relation" v="Flandes" />
+    <tag id="53134" k="name:fr" o="none" type="relation" v="Flandre" />
+    <tag id="53134" k="name:nl" o="none" type="relation" v="Vlaanderen" />
+    <tag id="53134" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="53134" k="nat_name" o="none" type="relation" v="Vlaams Gewest" />
+    <tag id="53134" k="admin_level" o="none" type="relation" v="4" />
+    <tag id="53134" k="nat_name:de" o="none" type="relation" v="Fl&#228;mische Region" />
+    <tag id="53134" k="nat_name:el" o="none" type="relation" v="&#934;&#955;&#945;&#956;&#945;&#957;&#948;&#953;&#954;&#942; &#928;&#949;&#961;&#953;&#959;&#967;&#942;" />
+    <tag id="53134" k="nat_name:en" o="none" type="relation" v="Flemish Region" />
+    <tag id="53134" k="nat_name:fr" o="none" type="relation" v="R&#233;gion flamande" />
+    <tag id="53134" k="nat_name:nl" o="none" type="relation" v="Vlaams Gewest" />
+    <tag id="53136" k="name" o="none" type="relation" v="Vlaamse Gemeenschap" />
+    <tag id="53136" k="type" o="none" type="relation" v="boundary" />
+    <tag id="53136" k="name:de" o="none" type="relation" v="Fl&#228;mische Gemeinschaft" />
+    <tag id="53136" k="name:en" o="none" type="relation" v="Flemish Community" />
+    <tag id="53136" k="name:fr" o="none" type="relation" v="Communaut&#233; flamande" />
+    <tag id="53136" k="name:nl" o="none" type="relation" v="Vlaamse Gemeenschap" />
+    <tag id="53136" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="53136" k="admin_level" o="none" type="relation" v="5" />
+    <tag id="72927" k="ref" o="none" type="relation" v="E 25" />
+    <tag id="72927" k="note" o="none" type="relation" v="v722 retrieved from v720" />
+    <tag id="72927" k="type" o="none" type="relation" v="route" />
+    <tag id="72927" k="route" o="none" type="relation" v="road" />
+    <tag id="72927" k="source" o="none" type="relation" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2009" />
+    <tag id="72927" k="network" o="none" type="relation" v="e-road" />
+    <tag id="102406" k="ref" o="none" type="relation" v="A25" />
+    <tag id="102406" k="type" o="none" type="relation" v="route" />
+    <tag id="102406" k="route" o="none" type="relation" v="road" />
+    <tag id="102406" k="network" o="none" type="relation" v="BE:A-road" />
+    <tag id="102406" k="operator" o="none" type="relation" v="Belgium" />
+    <tag id="108444" k="ref" o="none" type="relation" v="40" />
+    <tag id="108444" k="type" o="none" type="relation" v="route" />
+    <tag id="108444" k="route" o="none" type="relation" v="rail" />
+    <tag id="108444" k="operator" o="none" type="relation" v="infrabel" />
+    <tag id="155047" k="name" o="none" type="relation" v="Fietsknooppuntennetwerk Limburg" />
+    <tag id="155047" k="type" o="none" type="relation" v="network" />
+    <tag id="155047" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="155047" k="network" o="none" type="relation" v="rcn" />
+    <tag id="155047" k="operator" o="none" type="relation" v="Toerisme Limburg" />
+    <tag id="170256" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170256" k="type" o="none" type="relation" v="route" />
+    <tag id="170256" k="route" o="none" type="relation" v="foot" />
+    <tag id="170256" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170265" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170265" k="type" o="none" type="relation" v="route" />
+    <tag id="170265" k="route" o="none" type="relation" v="foot" />
+    <tag id="170265" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170356" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170356" k="type" o="none" type="relation" v="route" />
+    <tag id="170356" k="route" o="none" type="relation" v="foot" />
+    <tag id="170356" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170386" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170386" k="type" o="none" type="relation" v="route" />
+    <tag id="170386" k="route" o="none" type="relation" v="foot" />
+    <tag id="170386" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170389" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170389" k="type" o="none" type="relation" v="route" />
+    <tag id="170389" k="route" o="none" type="relation" v="foot" />
+    <tag id="170389" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170394" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170394" k="type" o="none" type="relation" v="route" />
+    <tag id="170394" k="route" o="none" type="relation" v="foot" />
+    <tag id="170394" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170408" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170408" k="type" o="none" type="relation" v="route" />
+    <tag id="170408" k="route" o="none" type="relation" v="foot" />
+    <tag id="170408" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170433" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170433" k="type" o="none" type="relation" v="route" />
+    <tag id="170433" k="route" o="none" type="relation" v="foot" />
+    <tag id="170433" k="network" o="none" type="relation" v="rwn" />
+    <tag id="170442" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="170442" k="type" o="none" type="relation" v="route" />
+    <tag id="170442" k="route" o="none" type="relation" v="foot" />
+    <tag id="170442" k="network" o="none" type="relation" v="rwn" />
+    <tag id="192684" k="name" o="none" type="relation" v="Fietsroutenetwerk Limburg 77-420" />
+    <tag id="192684" k="note" o="none" type="relation" v="77-420" />
+    <tag id="192684" k="type" o="none" type="relation" v="route" />
+    <tag id="192684" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="192684" k="source" o="none" type="relation" v="gpsfietsroutes.nl" />
+    <tag id="192684" k="network" o="none" type="relation" v="rcn" />
+    <tag id="251542" k="ref" o="none" type="relation" v="IC O" />
+    <tag id="251542" k="name" o="none" type="relation" v="B Brussel - Maastricht" />
+    <tag id="251542" k="type" o="none" type="relation" v="route" />
+    <tag id="251542" k="route" o="none" type="relation" v="train" />
+    <tag id="251542" k="network" o="none" type="relation" v="IC" />
+    <tag id="251542" k="operator" o="none" type="relation" v="NMBS/SNCB" />
+    <tag id="255399" k="name" o="none" type="relation" v="Wandelknooppuntennetwerk Voerstreek" />
+    <tag id="255399" k="type" o="none" type="relation" v="route" />
+    <tag id="255399" k="route" o="none" type="relation" v="hiking" />
+    <tag id="305282" k="name" o="none" type="relation" v="Eijsden-Margraten" />
+    <tag id="305282" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="305282" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="305282" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="305282" k="authoritative" o="none" type="relation" v="yes" />
+    <tag id="305282" k="ref:gemeentecode" o="none" type="relation" v="1903" />
+    <tag id="308425" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="308425" k="type" o="none" type="relation" v="route" />
+    <tag id="308425" k="route" o="none" type="relation" v="foot" />
+    <tag id="308425" k="network" o="none" type="relation" v="rwn" />
+    <tag id="308430" k="note" o="none" type="relation" v="www.voerstreek.be" />
+    <tag id="308430" k="type" o="none" type="relation" v="route" />
+    <tag id="308430" k="route" o="none" type="relation" v="foot" />
+    <tag id="308430" k="network" o="none" type="relation" v="rwn" />
+    <tag id="377995" k="name" o="none" type="relation" v="Fietsknooppuntennetwerk B Limburg: Voerstreek" />
+    <tag id="377995" k="type" o="none" type="relation" v="network" />
+    <tag id="377995" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="377995" k="network" o="none" type="relation" v="rcn" />
+    <tag id="377995" k="operator" o="none" type="relation" v="Toerisme Limburg" />
+    <tag id="379688" k="name" o="none" type="relation" v="Fietsroutenetwerk Limburg 421-422" />
+    <tag id="379688" k="note" o="none" type="relation" v="421-422" />
+    <tag id="379688" k="type" o="none" type="relation" v="route" />
+    <tag id="379688" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="379688" k="network" o="none" type="relation" v="rcn" />
+    <tag id="379692" k="name" o="none" type="relation" v="Fietsroutenetwerk Limburg 420-421" />
+    <tag id="379692" k="note" o="none" type="relation" v="420-421" />
+    <tag id="379692" k="type" o="none" type="relation" v="route" />
+    <tag id="379692" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="379692" k="network" o="none" type="relation" v="rcn" />
+    <tag id="404525" k="name" o="none" type="relation" v="Voeren" />
+    <tag id="404525" k="type" o="none" type="relation" v="boundary" />
+    <tag id="404525" k="name:fr" o="none" type="relation" v="Fourons" />
+    <tag id="404525" k="name:li" o="none" type="relation" v="Voere" />
+    <tag id="404525" k="name:nl" o="none" type="relation" v="Voeren" />
+    <tag id="404525" k="name:wa" o="none" type="relation" v="Foron" />
+    <tag id="404525" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="404525" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="937244" k="note" o="none" type="relation" v="Belgium land mass" />
+    <tag id="937244" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="1110272" k="name" o="none" type="relation" v="Fietsknooppuntennetwerk NL Maastricht" />
+    <tag id="1110272" k="type" o="none" type="relation" v="network" />
+    <tag id="1110272" k="network" o="none" type="relation" v="rcn" />
+    <tag id="1171634" k="name" o="none" type="relation" v="Bloso Blauwe MTB-route 's Gravenvoeren" />
+    <tag id="1171634" k="type" o="none" type="relation" v="route" />
+    <tag id="1171634" k="route" o="none" type="relation" v="mtb" />
+    <tag id="1171634" k="network" o="none" type="relation" v="lcn" />
+    <tag id="1206248" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="1206248" k="source" o="none" type="relation" v="3dShapes" />
+    <tag id="1206248" k="landuse" o="none" type="relation" v="grass" />
+    <tag id="1206248" k="3dshapes:ggmodelk" o="none" type="relation" v="12" />
+    <tag id="1419294" k="name" o="none" type="relation" v="Eijsden" />
+    <tag id="1419294" k="type" o="none" type="relation" v="boundary" />
+    <tag id="1419294" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="1419294" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="1419294" k="authoritative" o="none" type="relation" v="no" />
+    <tag id="1728767" k="name" o="none" type="relation" v="Fietsroutenetwerk Limburg 414-420" />
+    <tag id="1728767" k="note" o="none" type="relation" v="414-420" />
+    <tag id="1728767" k="type" o="none" type="relation" v="route" />
+    <tag id="1728767" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1728767" k="network" o="none" type="relation" v="rcn" />
+  </body>
+</changeset>

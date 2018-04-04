@@ -32,6 +32,7 @@ getch = _find_getch()
 def validateChangeset(i, row, changesetsCsv, cs, note):
     print("-------------------------------------------------")   
     print(cs.textDumpHuman())
+    #print(cs.textDump(1)[0])
     print(",".join(row))
     if ( len(note) > 0 ):
         print(note)
@@ -78,6 +79,7 @@ def validateChangeset(i, row, changesetsCsv, cs, note):
 
 changesetsCsv = []
 
+
 with open('trainingdata/changesets.csv', newline='',encoding='utf-8') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',')
 
@@ -111,7 +113,8 @@ else:
     # looking for non-validated but downloaded changesets
     validated = 0
     for i,row in enumerate(changesetsCsv):
-        if ( len(row[2]) == 0 or row[2] != 'Y' ):
+        notValidated = len(row[2]) == 0 or row[2] != 'Y'
+        if (  not notValidated):
             cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
             if ( cs.cached() ):
                 cs.read()

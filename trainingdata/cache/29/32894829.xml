@@ -1,0 +1,463 @@
+<changeset id="32894829" schema="2">
+  <counts nodesAdded="32" nodesDeleted="13" nodesModified="0" relationsAdded="5" relationsDeleted="0" relationsModified="10" waysAdded="33" waysDeleted="4" waysModified="34" />
+  <meta>
+    <tag k="comment" v="lanes, turn:lanes, change:lanes, placements, turn:restrictions" />
+    <tag k="created_by" v="JOSM/1.5 (8491 nl)" />
+    <tag k="source" v="SPW" />
+  </meta>
+  <body>
+    <tag id="253145825" k="ref" o="none" type="node" v="50" />
+    <tag id="253145825" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="1607083410" k="ref" o="none" type="node" v="50" />
+    <tag id="1607083410" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="5055987" k="lit" o="none" type="way" v="yes" />
+    <tag id="5055987" k="ref" o="none" type="way" v="E25" />
+    <tag id="5055987" k="name" o="none" type="way" v="E 25" />
+    <tag id="5055987" k="lanes" o="none" type="way" v="2" />
+    <tag id="5055987" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5055987" k="highway" o="none" type="way" v="motorway" />
+    <tag id="5055987" k="int_ref" o="none" type="way" v="E 25" />
+    <tag id="5055987" k="nat_ref" o="none" type="way" v="A26" />
+    <tag id="5055987" k="maxspeed" o="none" type="way" v="120" />
+    <tag id="5055987" k="source:maxspeed" o="none" type="way" v="BE:motorway" />
+    <tag id="23380319" k="lanes" o="none" type="way" v="1" />
+    <tag id="23380319" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23380319" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="23380322" k="highway" o="none" type="way" v="service" />
+    <tag id="27415952" k="ref" o="none" type="way" v="N89" />
+    <tag id="27415952" k="lanes" o="add" type="way" v="2" />
+    <tag id="27415952" k="highway" o="none" type="way" v="primary" />
+    <tag id="27415952" k="overtaking" o="add" type="way" v="no" />
+    <tag id="27415952" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="27415958" k="ref" o="none" type="way" v="N30" />
+    <tag id="27415958" k="lanes" o="add" type="way" v="1" />
+    <tag id="27415958" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27415958" k="highway" o="none" type="way" v="primary" />
+    <tag id="47029658" k="ref" o="none" type="way" v="N89" />
+    <tag id="47029658" k="layer" o="none" type="way" v="1" />
+    <tag id="47029658" k="bridge" o="none" type="way" v="yes" />
+    <tag id="47029658" k="oneway" o="none" type="way" v="yes" />
+    <tag id="47029658" k="highway" o="none" type="way" v="primary" />
+    <tag id="47029659" k="ref" o="none" type="way" v="N89" />
+    <tag id="47029659" k="lanes" o="add" type="way" v="1" />
+    <tag id="47029659" k="oneway" o="none" type="way" v="yes" />
+    <tag id="47029659" k="highway" o="none" type="way" v="primary" />
+    <tag id="115105534" k="ref" o="none" type="way" v="N89" />
+    <tag id="115105534" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="115105534" k="lanes" o="add" type="way" v="1" />
+    <tag id="115105534" k="oneway" o="none" type="way" v="yes" />
+    <tag id="115105534" k="highway" o="none" type="way" v="primary" />
+    <tag id="115105534" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="115105538" k="ref" o="none" type="way" v="N89" />
+    <tag id="115105538" k="lanes" o="add" type="way" v="2" />
+    <tag id="115105538" k="highway" o="none" type="way" v="primary" />
+    <tag id="115105538" k="overtaking" o="add" type="way" v="no" />
+    <tag id="115105538" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="115105538" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="115105538" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="115105542" k="ref" o="none" type="way" v="N89" />
+    <tag id="115105542" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="115105542" k="lanes" o="add" type="way" v="1" />
+    <tag id="115105542" k="oneway" o="none" type="way" v="yes" />
+    <tag id="115105542" k="highway" o="none" type="way" v="primary" />
+    <tag id="115105542" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="136632590" k="ref" o="none" type="way" v="N89" />
+    <tag id="136632590" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="136632590" k="lanes" o="add" type="way" v="2" />
+    <tag id="136632590" k="oneway" o="none" type="way" v="yes" />
+    <tag id="136632590" k="highway" o="none" type="way" v="primary" />
+    <tag id="136632590" k="placement" o="add" type="way" v="middle_of:2" />
+    <tag id="136632590" k="turn:lanes" o="add" type="way" v="left|none" />
+    <tag id="136632592" k="ref" o="none" type="way" v="N89" />
+    <tag id="136632592" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="136632592" k="layer" o="none" type="way" v="1" />
+    <tag id="136632592" k="bridge" o="none" type="way" v="yes" />
+    <tag id="136632592" k="oneway" o="none" type="way" v="yes" />
+    <tag id="136632592" k="highway" o="none" type="way" v="primary" />
+    <tag id="136632592" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="147327108" k="ref" o="none" type="way" v="N89" />
+    <tag id="147327108" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="147327108" k="highway" o="none" type="way" v="primary" />
+    <tag id="147327108" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="147495688" k="lanes" o="none" type="way" v="1" />
+    <tag id="147495688" k="oneway" o="none" type="way" v="yes" />
+    <tag id="147495688" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="179190251" k="lit" o="none" type="way" v="yes" />
+    <tag id="179190251" k="ref" o="none" type="way" v="E25" />
+    <tag id="179190251" k="name" o="none" type="way" v="E 25" />
+    <tag id="179190251" k="lanes" o="none" type="way" v="2" />
+    <tag id="179190251" k="oneway" o="none" type="way" v="yes" />
+    <tag id="179190251" k="highway" o="none" type="way" v="motorway" />
+    <tag id="179190251" k="int_ref" o="none" type="way" v="E 25" />
+    <tag id="179190251" k="nat_ref" o="none" type="way" v="A26" />
+    <tag id="179190251" k="maxspeed" o="none" type="way" v="120" />
+    <tag id="179190251" k="source:maxspeed" o="none" type="way" v="BE:motorway" />
+    <tag id="192892911" k="ref" o="none" type="way" v="N89" />
+    <tag id="192892911" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="192892911" k="lanes" o="add" type="way" v="1" />
+    <tag id="192892911" k="oneway" o="none" type="way" v="yes" />
+    <tag id="192892911" k="highway" o="none" type="way" v="primary" />
+    <tag id="211964620" k="ref" o="none" type="way" v="N30" />
+    <tag id="211964620" k="lanes" o="add" type="way" v="1" />
+    <tag id="211964620" k="oneway" o="none" type="way" v="yes" />
+    <tag id="211964620" k="highway" o="none" type="way" v="primary" />
+    <tag id="211964620" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="211964621" k="ref" o="none" type="way" v="N30" />
+    <tag id="211964621" k="lanes" o="add" type="way" v="1" />
+    <tag id="211964621" k="oneway" o="none" type="way" v="yes" />
+    <tag id="211964621" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="211964621" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="211964628" k="ref" o="none" type="way" v="N30" />
+    <tag id="211964628" k="lanes" o="add" type="way" v="2" />
+    <tag id="211964628" k="highway" o="none" type="way" v="primary" />
+    <tag id="211964628" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="211964628" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="228290338" k="ref" o="none" type="way" v="N89" />
+    <tag id="228290338" k="lanes" o="add" type="way" v="2" />
+    <tag id="228290338" k="highway" o="none" type="way" v="primary" />
+    <tag id="228290338" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="228290338" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="228290338" k="change:lanes:forward" o="add" type="way" v="yes" />
+    <tag id="228290338" k="change:lanes:backward" o="add" type="way" v="no" />
+    <tag id="251469202" k="ref" o="none" type="way" v="N89" />
+    <tag id="251469202" k="oneway" o="none" type="way" v="yes" />
+    <tag id="251469202" k="highway" o="none" type="way" v="primary" />
+    <tag id="251469203" k="ref" o="none" type="way" v="N89" />
+    <tag id="251469203" k="name" o="none" type="way" v="Rue de Cielle" />
+    <tag id="251469203" k="lanes" o="add" type="way" v="1" />
+    <tag id="251469203" k="oneway" o="none" type="way" v="yes" />
+    <tag id="251469203" k="highway" o="none" type="way" v="primary" />
+    <tag id="251469203" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="295305607" k="ref" o="none" type="way" v="N89" />
+    <tag id="295305607" k="lanes" o="add" type="way" v="3" />
+    <tag id="295305607" k="highway" o="none" type="way" v="primary" />
+    <tag id="295305607" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="295305607" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="295305607" k="placement:forward" o="add" type="way" v="left_of:1" />
+    <tag id="295305607" k="change:lanes:forward" o="add" type="way" v="no|no" />
+    <tag id="295305607" k="change:lanes:backward" o="add" type="way" v="no" />
+    <tag id="295305607" k="transit:lanes:forward" o="add" type="way" v="join_with_right|join_with_left" />
+    <tag id="350459497" k="ref" o="none" type="way" v="N30" />
+    <tag id="350459497" k="lanes" o="add" type="way" v="1" />
+    <tag id="350459497" k="oneway" o="none" type="way" v="yes" />
+    <tag id="350459497" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="350459497" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="350459499" k="ref" o="none" type="way" v="N89" />
+    <tag id="350459499" k="lanes" o="add" type="way" v="1" />
+    <tag id="350459499" k="oneway" o="none" type="way" v="yes" />
+    <tag id="350459499" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="354301193" k="ref" o="none" type="way" v="N30-N89" />
+    <tag id="354301193" k="lanes" o="add" type="way" v="1" />
+    <tag id="354301193" k="oneway" o="none" type="way" v="yes" />
+    <tag id="354301193" k="highway" o="none" type="way" v="primary" />
+    <tag id="354301193" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="354301194" k="ref" o="none" type="way" v="N30-N89" />
+    <tag id="354301194" k="lanes" o="add" type="way" v="1" />
+    <tag id="354301194" k="oneway" o="none" type="way" v="yes" />
+    <tag id="354301194" k="highway" o="none" type="way" v="primary" />
+    <tag id="354301194" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="354301196" k="ref" o="none" type="way" v="N30-N89" />
+    <tag id="354301196" k="lanes" o="add" type="way" v="1" />
+    <tag id="354301196" k="oneway" o="none" type="way" v="yes" />
+    <tag id="354301196" k="highway" o="none" type="way" v="primary" />
+    <tag id="354301196" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="361342389" k="ref" o="none" type="way" v="N30-N89" />
+    <tag id="361342389" k="lanes" o="add" type="way" v="1" />
+    <tag id="361342389" k="oneway" o="none" type="way" v="yes" />
+    <tag id="361342389" k="highway" o="none" type="way" v="primary" />
+    <tag id="361342389" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="361342390" k="ref" o="none" type="way" v="N30-N89" />
+    <tag id="361342390" k="lanes" o="add" type="way" v="2" />
+    <tag id="361342390" k="highway" o="none" type="way" v="primary" />
+    <tag id="362443340" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443340" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443340" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443340" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443340" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443340" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443340" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443340" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443340" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443340" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443341" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443341" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443341" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443341" k="lanes" o="add" type="way" v="3" />
+    <tag id="362443341" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443341" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443341" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443341" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443341" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443341" k="placement" o="add" type="way" v="right_of:1" />
+    <tag id="362443341" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="362443341" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443342" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443342" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443342" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443342" k="lanes" o="add" type="way" v="3" />
+    <tag id="362443342" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443342" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443342" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443342" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443342" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443342" k="placement" o="add" type="way" v="right_of:1" />
+    <tag id="362443342" k="turn:lanes" o="add" type="way" v="none|none|slight_right" />
+    <tag id="362443342" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443343" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443343" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443343" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443343" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443343" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443343" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443343" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443343" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443343" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443343" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443344" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443344" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443344" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443344" k="lanes" o="add" type="way" v="3" />
+    <tag id="362443344" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443344" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443344" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443344" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443344" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443344" k="placement" o="add" type="way" v="right_of:1" />
+    <tag id="362443344" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="362443344" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443345" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443345" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443345" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443345" k="lanes" o="add" type="way" v="3" />
+    <tag id="362443345" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443345" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443345" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443345" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443345" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443345" k="placement" o="add" type="way" v="right_of:1" />
+    <tag id="362443345" k="turn:lanes" o="add" type="way" v="none|none|slight_right" />
+    <tag id="362443345" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443350" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443350" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443350" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443350" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443350" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443350" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443350" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443350" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443350" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443350" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443351" k="lit" o="add" type="way" v="yes" />
+    <tag id="362443351" k="ref" o="add" type="way" v="E25" />
+    <tag id="362443351" k="name" o="add" type="way" v="E 25" />
+    <tag id="362443351" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443351" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443351" k="highway" o="add" type="way" v="motorway" />
+    <tag id="362443351" k="int_ref" o="add" type="way" v="E 25" />
+    <tag id="362443351" k="nat_ref" o="add" type="way" v="A26" />
+    <tag id="362443351" k="maxspeed" o="add" type="way" v="120" />
+    <tag id="362443351" k="source:maxspeed" o="add" type="way" v="BE:motorway" />
+    <tag id="362443352" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443352" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443352" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443352" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443352" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443353" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443353" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443353" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443353" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443353" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443354" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443354" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443354" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443354" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443354" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443355" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443355" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443355" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443355" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443355" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443356" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443356" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443356" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443356" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443356" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443357" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443357" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443357" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443357" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443357" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443358" k="ref" o="add" type="way" v="N30-N89" />
+    <tag id="362443358" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443358" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443358" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443358" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="362443359" k="ref" o="add" type="way" v="N30" />
+    <tag id="362443359" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443359" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443359" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="362443360" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443360" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443360" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443360" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443360" k="placement" o="add" type="way" v="transition" />
+    <tag id="362443361" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443361" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443361" k="layer" o="add" type="way" v="1" />
+    <tag id="362443361" k="bridge" o="add" type="way" v="yes" />
+    <tag id="362443361" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443361" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443361" k="placement" o="add" type="way" v="middle_of:2" />
+    <tag id="362443361" k="turn:lanes" o="add" type="way" v="left|none" />
+    <tag id="362443362" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443362" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443362" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443362" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443362" k="placement" o="add" type="way" v="middle_of:1" />
+    <tag id="362443362" k="turn:lanes" o="add" type="way" v="none|merge_to_left" />
+    <tag id="362443363" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443363" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443363" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443363" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443364" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443364" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443364" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443364" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443364" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443365" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443365" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443365" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443365" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443365" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="362443365" k="overtaking" o="add" type="way" v="no" />
+    <tag id="362443365" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="362443366" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443366" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443366" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443366" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443366" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443366" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="362443366" k="placement" o="add" type="way" v="middle_of:1" />
+    <tag id="362443366" k="turn:lanes" o="add" type="way" v="none|slight_right" />
+    <tag id="362443367" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443367" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443367" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443367" k="layer" o="add" type="way" v="1" />
+    <tag id="362443367" k="bridge" o="add" type="way" v="yes" />
+    <tag id="362443367" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443367" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443367" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="362443367" k="placement" o="add" type="way" v="middle_of:2" />
+    <tag id="362443367" k="turn:lanes" o="add" type="way" v="left|none" />
+    <tag id="362443368" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443368" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443368" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443368" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443368" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443370" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443370" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443370" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443370" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443370" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443370" k="placement" o="add" type="way" v="middle_of:1" />
+    <tag id="362443370" k="turn:lanes" o="add" type="way" v="none|merge_to_left" />
+    <tag id="362443372" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443372" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443372" k="lanes" o="add" type="way" v="2" />
+    <tag id="362443372" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443372" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443372" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="362443372" k="placement" o="add" type="way" v="middle_of:1" />
+    <tag id="362443372" k="turn:lanes" o="add" type="way" v="none|slight_right" />
+    <tag id="362443373" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443373" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443373" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443373" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443373" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443373" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="362443374" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443374" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443374" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443374" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443374" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443374" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="362443375" k="ref" o="add" type="way" v="N89" />
+    <tag id="362443375" k="name" o="add" type="way" v="Rue de Cielle" />
+    <tag id="362443375" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443375" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443375" k="highway" o="add" type="way" v="primary" />
+    <tag id="362443375" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="362443376" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443376" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443376" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="362443377" k="highway" o="add" type="way" v="service" />
+    <tag id="362443377" k="service" o="add" type="way" v="driveway" />
+    <tag id="362443378" k="lanes" o="add" type="way" v="1" />
+    <tag id="362443378" k="oneway" o="add" type="way" v="yes" />
+    <tag id="362443378" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="102392" k="ref" o="none" type="relation" v="A26" />
+    <tag id="102392" k="type" o="none" type="relation" v="route" />
+    <tag id="102392" k="route" o="none" type="relation" v="road" />
+    <tag id="102392" k="network" o="none" type="relation" v="BE:A-road" />
+    <tag id="102392" k="operator" o="none" type="relation" v="R&#233;gion wallonne" />
+    <tag id="2625913" k="ref" o="none" type="relation" v="E 25" />
+    <tag id="2625913" k="type" o="none" type="relation" v="route" />
+    <tag id="2625913" k="route" o="none" type="relation" v="road" />
+    <tag id="2625913" k="network" o="none" type="relation" v="e-road" />
+    <tag id="2625913" k="section" o="none" type="relation" v="Benelux south (south)" />
+    <tag id="2625913" k="wikipedia" o="none" type="relation" v="en:European route E25" />
+    <tag id="3048038" k="name" o="none" type="relation" v="Fraiture Jaune" />
+    <tag id="3048038" k="type" o="none" type="relation" v="route" />
+    <tag id="3048038" k="route" o="none" type="relation" v="foot" />
+    <tag id="3048038" k="colour" o="none" type="relation" v="yellow" />
+    <tag id="3048038" k="symbol" o="none" type="relation" v="rectangle" />
+    <tag id="3048038" k="network" o="none" type="relation" v="lwn" />
+    <tag id="3048038" k="operator" o="none" type="relation" v="Office du Tourisme Vielsalm" />
+    <tag id="3048038" k="osmc:symbol" o="none" type="relation" v="yellow:white:yellow_rectangle" />
+    <tag id="3374328" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3374328" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3374331" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3374331" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3374332" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3374332" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3374334" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3374334" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3925769" k="to" o="none" type="relation" v="Li&#232;ge Op&#233;ra" />
+    <tag id="3925769" k="ref" o="none" type="relation" v="1011" />
+    <tag id="3925769" k="from" o="none" type="relation" v="Athus Gare" />
+    <tag id="3925769" k="name" o="none" type="relation" v="TEC 1011 Athus Gare - Li&#232;ge Op&#233;ra" />
+    <tag id="3925769" k="type" o="none" type="relation" v="route" />
+    <tag id="3925769" k="route" o="none" type="relation" v="bus" />
+    <tag id="3925769" k="network" o="none" type="relation" v="TECX" />
+    <tag id="3925769" k="operator" o="none" type="relation" v="TEC" />
+    <tag id="3925769" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3925770" k="to" o="none" type="relation" v="Li&#232;ge Op&#233;ra" />
+    <tag id="3925770" k="ref" o="none" type="relation" v="1011" />
+    <tag id="3925770" k="from" o="none" type="relation" v="Bastogne Gare du Sud - Quai 4" />
+    <tag id="3925770" k="name" o="none" type="relation" v="TEC 1011 Bastogne Gare du Sud - Quai 4 - Li&#232;ge Op&#233;ra" />
+    <tag id="3925770" k="type" o="none" type="relation" v="route" />
+    <tag id="3925770" k="route" o="none" type="relation" v="bus" />
+    <tag id="3925770" k="network" o="none" type="relation" v="TECX" />
+    <tag id="3925770" k="operator" o="none" type="relation" v="TEC" />
+    <tag id="3925770" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3925772" k="to" o="none" type="relation" v="Athus Gare" />
+    <tag id="3925772" k="ref" o="none" type="relation" v="1011" />
+    <tag id="3925772" k="from" o="none" type="relation" v="Li&#232;ge Op&#233;ra" />
+    <tag id="3925772" k="name" o="none" type="relation" v="TEC 1011 Li&#232;ge Op&#233;ra - Athus Gare" />
+    <tag id="3925772" k="type" o="none" type="relation" v="route" />
+    <tag id="3925772" k="route" o="none" type="relation" v="bus" />
+    <tag id="3925772" k="network" o="none" type="relation" v="TECX" />
+    <tag id="3925772" k="operator" o="none" type="relation" v="TEC" />
+    <tag id="3925772" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5393304" k="type" o="add" type="relation" v="restriction" />
+    <tag id="5393304" k="restriction" o="add" type="relation" v="only_right_turn" />
+    <tag id="5393305" k="type" o="add" type="relation" v="restriction" />
+    <tag id="5393305" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="5393306" k="type" o="add" type="relation" v="restriction" />
+    <tag id="5393306" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="5393307" k="type" o="add" type="relation" v="restriction" />
+    <tag id="5393307" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="5393308" k="type" o="add" type="relation" v="restriction" />
+    <tag id="5393308" k="restriction" o="add" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

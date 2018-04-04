@@ -1,0 +1,536 @@
+<changeset id="43158775" schema="2">
+  <counts nodesAdded="167" nodesDeleted="5" nodesModified="4" relationsAdded="7" relationsDeleted="0" relationsModified="17" waysAdded="35" waysDeleted="5" waysModified="36" />
+  <meta>
+    <tag k="comment" v="Added &#22564;&#38914;&#22823;&#36947;&#20108;&#27573; parallel roads &amp; (conditional time domain) turn restrictions, split &#27138;&#32676;&#20108;&#36335; (capturing it as a double line), Landuse" />
+    <tag k="created_by" v="iD 1.9.7" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Mapbox;Local GPX" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="313701811" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="313701816" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="313703917" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="313704016" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="313704369" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="618881031" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="773904373" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="773904373" k="traffic_signals" o="add" type="node" v="signal" />
+    <tag id="942566448" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="942566499" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="942566542" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="942566602" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1709412093" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="1709412093" k="traffic_signals" o="add" type="node" v="signal" />
+    <tag id="1709412095" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1720014732" k="name" o="none" type="node" v="&#20116;&#35282;&#33337;&#29256;" />
+    <tag id="1720014732" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="1720014732" k="history" o="none" type="node" v="retrieved using undelete JOSM plugin" />
+    <tag id="2499039235" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="2515878477" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="2517390817" k="bus" o="none" type="node" v="yes" />
+    <tag id="2517390817" k="name" o="none" type="node" v="&#28657;&#27743;&#22283;&#20013;" />
+    <tag id="2517390817" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="2517390817" k="network" o="none" type="node" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="2517390817" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="2562348435" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3154358423" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="4341345904" k="name" o="none" type="node" v="&#20013;&#27833;" />
+    <tag id="4341345904" k="amenity" o="none" type="node" v="fuel" />
+    <tag id="4341345904" k="name:en" o="add" type="node" v="CPC Gas" />
+    <tag id="23766386" k="name" o="none" type="way" v="&#22522;&#28246;&#36335;" />
+    <tag id="23766386" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="24836054" k="name" o="none" type="way" v="&#27138;&#32676;&#19968;&#36335;" />
+    <tag id="24836054" k="lanes" o="add" type="way" v="2" />
+    <tag id="24836054" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24836054" k="highway" o="none" type="way" v="secondary" />
+    <tag id="24836054" k="name:en" o="none" type="way" v="Lequn 1st Road" />
+    <tag id="24836054" k="name:zh" o="none" type="way" v="&#27138;&#32676;&#19968;&#36335;" />
+    <tag id="24836054" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="24836054" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="26790156" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="26790156" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26790156" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="26790156" k="name:en" o="none" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="26790156" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="26790156" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="28555484" k="name" o="none" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="28555484" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="28555484" k="name:en" o="none" type="way" v="Lequn 2nd Road" />
+    <tag id="28555484" k="name:zh" o="none" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="28555646" k="name" o="none" type="way" v="&#26893;&#31119;&#36335;" />
+    <tag id="28555646" k="highway" o="none" type="way" v="residential" />
+    <tag id="28555646" k="name:en" o="none" type="way" v="Zhifu Road" />
+    <tag id="48769264" k="name" o="add" type="way" v="&#28207;&#22680;&#36335;" />
+    <tag id="48769264" k="oneway" o="none" type="way" v="yes" />
+    <tag id="48769264" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="48769264" k="name:en" o="add" type="way" v="Ganqian Road" />
+    <tag id="48769264" k="name:zh" o="add" type="way" v="&#28207;&#22680;&#36335;" />
+    <tag id="62080907" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;470&#24055;" />
+    <tag id="62080907" k="highway" o="none" type="way" v="residential" />
+    <tag id="158758848" k="name" o="none" type="way" v="&#29790;&#20809;&#36335;478&#24055;" />
+    <tag id="158758848" k="oneway" o="none" type="way" v="yes" />
+    <tag id="158758848" k="highway" o="none" type="way" v="residential" />
+    <tag id="158758848" k="name:en" o="none" type="way" v="Lane 478, RuiGuang Road" />
+    <tag id="158758848" k="name:zh" o="none" type="way" v="&#29790;&#20809;&#36335;478&#24055;" />
+    <tag id="158807850" k="name" o="none" type="way" v="&#27138;&#32676;&#20108;&#36335;265&#24055;" />
+    <tag id="158807850" k="highway" o="none" type="way" v="residential" />
+    <tag id="158807855" k="foot" o="add" type="way" v="no" />
+    <tag id="158807855" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="158807855" k="horse" o="add" type="way" v="no" />
+    <tag id="158807855" k="lanes" o="add" type="way" v="2" />
+    <tag id="158807855" k="oneway" o="none" type="way" v="yes" />
+    <tag id="158807855" k="bicycle" o="add" type="way" v="no" />
+    <tag id="158807855" k="highway" o="none" type="way" v="secondary" />
+    <tag id="158807855" k="name:en" o="none" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="158807855" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="158807855" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="158807855" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="158807855" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="158807857" k="name" o="none" type="way" v="&#20839;&#28246;&#36335;&#19968;&#27573;32&#24055;" />
+    <tag id="158807857" k="highway" o="none" type="way" v="residential" />
+    <tag id="158900128" k="foot" o="add" type="way" v="yes" />
+    <tag id="158900128" k="horse" o="add" type="way" v="no" />
+    <tag id="158900128" k="lanes" o="add" type="way" v="1" />
+    <tag id="158900128" k="oneway" o="none" type="way" v="yes" />
+    <tag id="158900128" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="158900128" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="158900128" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="158900128" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="158900128" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="173165153" k="name" o="none" type="way" v="&#39321;&#27193;&#33457;&#22290;&#37202;&#24215;" />
+    <tag id="173165153" k="tourism" o="none" type="way" v="hotel" />
+    <tag id="173165153" k="building" o="none" type="way" v="commercial" />
+    <tag id="184723338" k="name" o="none" type="way" v="&#25964;&#26989;&#19968;&#36335;" />
+    <tag id="184723338" k="highway" o="none" type="way" v="residential" />
+    <tag id="241811776" k="name" o="none" type="way" v="&#25964;&#26989;&#20108;&#36335;" />
+    <tag id="241811776" k="highway" o="none" type="way" v="residential" />
+    <tag id="244421750" k="name" o="none" type="way" v="&#25964;&#26989;&#22235;&#36335;" />
+    <tag id="244421750" k="highway" o="none" type="way" v="residential" />
+    <tag id="244421750" k="name:en" o="none" type="way" v="Jingye 4th Road" />
+    <tag id="244421750" k="name:zh" o="none" type="way" v="&#25964;&#26989;&#22235;&#36335;" />
+    <tag id="244421756" k="name" o="none" type="way" v="&#27138;&#32676;&#19968;&#36335;" />
+    <tag id="244421756" k="lanes" o="add" type="way" v="2" />
+    <tag id="244421756" k="oneway" o="none" type="way" v="yes" />
+    <tag id="244421756" k="highway" o="none" type="way" v="secondary" />
+    <tag id="244421756" k="name:en" o="none" type="way" v="Lequn 1st Road" />
+    <tag id="244421756" k="name:zh" o="none" type="way" v="&#27138;&#32676;&#19968;&#36335;" />
+    <tag id="244421756" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="244421756" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="244421762" k="foot" o="add" type="way" v="yes" />
+    <tag id="244421762" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="244421762" k="horse" o="add" type="way" v="no" />
+    <tag id="244421762" k="lanes" o="add" type="way" v="1" />
+    <tag id="244421762" k="oneway" o="none" type="way" v="yes" />
+    <tag id="244421762" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="244421762" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="244421762" k="name:en" o="none" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="244421762" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="244421762" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="244421762" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="244421762" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="244421763" k="foot" o="add" type="way" v="yes" />
+    <tag id="244421763" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="244421763" k="horse" o="add" type="way" v="no" />
+    <tag id="244421763" k="lanes" o="add" type="way" v="1" />
+    <tag id="244421763" k="oneway" o="none" type="way" v="yes" />
+    <tag id="244421763" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="244421763" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="244421763" k="name:en" o="none" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="244421763" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="244421763" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="244421763" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="244421763" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="244421764" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="244421764" k="lanes" o="add" type="way" v="1" />
+    <tag id="244421764" k="oneway" o="none" type="way" v="yes" />
+    <tag id="244421764" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="244421764" k="name:en" o="none" type="way" v="Section 2, Tiding Boulevard" />
+    <tag id="244421764" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="244421764" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="244421764" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="244421767" k="name" o="none" type="way" v="&#25964;&#26989;&#19977;&#36335;" />
+    <tag id="244421767" k="lanes" o="none" type="way" v="2" />
+    <tag id="244421767" k="oneway" o="none" type="way" v="yes" />
+    <tag id="244421767" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="244421767" k="name:en" o="none" type="way" v="Jingye 3rd Road" />
+    <tag id="244421767" k="name:zh" o="none" type="way" v="&#25964;&#26989;&#19977;&#36335;" />
+    <tag id="244421771" k="name" o="none" type="way" v="&#27138;&#32676;&#19977;&#36335;" />
+    <tag id="244421771" k="highway" o="none" type="way" v="residential" />
+    <tag id="244421771" k="name:en" o="none" type="way" v="Lequn 3rd Road" />
+    <tag id="244421771" k="name:zh" o="none" type="way" v="&#27138;&#32676;&#19977;&#36335;" />
+    <tag id="310085609" k="name" o="none" type="way" v="&#25964;&#26989;&#19977;&#36335;" />
+    <tag id="310085609" k="lanes" o="none" type="way" v="2" />
+    <tag id="310085609" k="oneway" o="none" type="way" v="yes" />
+    <tag id="310085609" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="310085609" k="name:en" o="none" type="way" v="Jingye 3rd Road" />
+    <tag id="310085609" k="name:zh" o="none" type="way" v="&#25964;&#26989;&#19977;&#36335;" />
+    <tag id="324294403" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="324294403" k="horse" o="add" type="way" v="no" />
+    <tag id="324294403" k="lanes" o="add" type="way" v="2" />
+    <tag id="324294403" k="oneway" o="none" type="way" v="yes" />
+    <tag id="324294403" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="324294403" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="324294403" k="name:en" o="none" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="324294403" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="324294403" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="324294403" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="324294403" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="324318768" k="name" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#19968;&#27573;" />
+    <tag id="324318768" k="oneway" o="none" type="way" v="yes" />
+    <tag id="324318768" k="highway" o="none" type="way" v="secondary" />
+    <tag id="324318768" k="name:en" o="none" type="way" v="Section 1, Tiding BoulevaRoad" />
+    <tag id="324318768" k="name:zh" o="none" type="way" v="&#22564;&#38914;&#22823;&#36947;&#19968;&#27573;" />
+    <tag id="330466882" k="highway" o="none" type="way" v="residential" />
+    <tag id="330466883" k="name" o="none" type="way" v="&#26893;&#31119;&#36335;" />
+    <tag id="330466883" k="highway" o="none" type="way" v="residential" />
+    <tag id="330466883" k="name:en" o="none" type="way" v="Zhifu Road" />
+    <tag id="338923679" k="name" o="none" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="338923679" k="lanes" o="add" type="way" v="4" />
+    <tag id="338923679" k="oneway" o="add" type="way" v="yes" />
+    <tag id="338923679" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="338923679" k="name:en" o="none" type="way" v="Lequn 2nd Road" />
+    <tag id="338923679" k="name:zh" o="none" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="338923679" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="401628858" k="name" o="none" type="way" v="&#28207;&#22680;&#36335;" />
+    <tag id="401628858" k="oneway" o="none" type="way" v="yes" />
+    <tag id="401628858" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="401628858" k="name:zh" o="none" type="way" v="&#28207;&#22680;&#36335;" />
+    <tag id="420511978" k="highway" o="none" type="way" v="footway" />
+    <tag id="436494967" k="name" o="add" type="way" v="Mitac" />
+    <tag id="436494967" k="building" o="none" type="way" v="commercial" />
+    <tag id="449379839" k="name" o="add" type="way" v="&#20116;&#35282;&#33337;&#29256;&#20572;&#36554;&#22580;" />
+    <tag id="449379839" k="access" o="add" type="way" v="customers" />
+    <tag id="449379839" k="amenity" o="add" type="way" v="parking" />
+    <tag id="449379839" k="parking" o="add" type="way" v="surface" />
+    <tag id="449379839" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379840" k="building" o="add" type="way" v="yes" />
+    <tag id="449379841" k="amenity" o="add" type="way" v="parking" />
+    <tag id="449379842" k="highway" o="add" type="way" v="service" />
+    <tag id="449379842" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="449379843" k="highway" o="add" type="way" v="service" />
+    <tag id="449379843" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="449379844" k="building" o="add" type="way" v="yes" />
+    <tag id="449379845" k="building" o="add" type="way" v="yes" />
+    <tag id="449379846" k="building" o="add" type="way" v="yes" />
+    <tag id="449379847" k="building" o="add" type="way" v="yes" />
+    <tag id="449379848" k="amenity" o="add" type="way" v="parking" />
+    <tag id="449379849" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379849" k="horse" o="add" type="way" v="no" />
+    <tag id="449379849" k="lanes" o="add" type="way" v="1" />
+    <tag id="449379849" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379849" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="449379849" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379849" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379849" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="449379849" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379850" k="foot" o="add" type="way" v="no" />
+    <tag id="449379850" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379850" k="horse" o="add" type="way" v="no" />
+    <tag id="449379850" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379850" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379850" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379850" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379850" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379850" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379850" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379851" k="foot" o="add" type="way" v="no" />
+    <tag id="449379851" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379851" k="horse" o="add" type="way" v="no" />
+    <tag id="449379851" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379851" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379851" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379851" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379851" k="name:en" o="add" type="way" v="Section 2, Tiding Boulevard" />
+    <tag id="449379851" k="name:zh" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379851" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379851" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379852" k="foot" o="add" type="way" v="no" />
+    <tag id="449379852" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379852" k="horse" o="add" type="way" v="no" />
+    <tag id="449379852" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379852" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379852" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379852" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379852" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379852" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379852" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379853" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379853" k="horse" o="add" type="way" v="no" />
+    <tag id="449379853" k="lanes" o="add" type="way" v="1" />
+    <tag id="449379853" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379853" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="449379853" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379853" k="name:en" o="add" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="449379853" k="name:zh" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379853" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379853" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="449379853" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379854" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379854" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379855" k="foot" o="add" type="way" v="no" />
+    <tag id="449379855" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379855" k="horse" o="add" type="way" v="no" />
+    <tag id="449379855" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379855" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379855" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379855" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379855" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379855" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379855" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379856" k="foot" o="add" type="way" v="no" />
+    <tag id="449379856" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379856" k="horse" o="add" type="way" v="no" />
+    <tag id="449379856" k="lanes" o="add" type="way" v="3" />
+    <tag id="449379856" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379856" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379856" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379856" k="name:en" o="add" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="449379856" k="name:zh" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379856" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379856" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379856" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379857" k="building" o="add" type="way" v="yes" />
+    <tag id="449379858" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379858" k="highway" o="add" type="way" v="service" />
+    <tag id="449379858" k="service" o="add" type="way" v="drive-through" />
+    <tag id="449379859" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379859" k="highway" o="add" type="way" v="service" />
+    <tag id="449379859" k="service" o="add" type="way" v="drive-through" />
+    <tag id="449379860" k="foot" o="add" type="way" v="no" />
+    <tag id="449379860" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379860" k="horse" o="add" type="way" v="no" />
+    <tag id="449379860" k="lanes" o="add" type="way" v="1" />
+    <tag id="449379860" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379860" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379860" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379860" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379860" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="449379860" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379861" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379861" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="449379862" k="building" o="add" type="way" v="yes" />
+    <tag id="449379863" k="highway" o="add" type="way" v="service" />
+    <tag id="449379863" k="service" o="add" type="way" v="driveway" />
+    <tag id="449379864" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379864" k="highway" o="add" type="way" v="service" />
+    <tag id="449379864" k="service" o="add" type="way" v="driveway" />
+    <tag id="449379865" k="foot" o="add" type="way" v="no" />
+    <tag id="449379865" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379865" k="horse" o="add" type="way" v="no" />
+    <tag id="449379865" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379865" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379865" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379865" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379865" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379865" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379865" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379866" k="name" o="add" type="way" v="&#28207;&#22680;&#36335;" />
+    <tag id="449379866" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379866" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379866" k="name:zh" o="add" type="way" v="&#28207;&#22680;&#36335;" />
+    <tag id="449379867" k="foot" o="add" type="way" v="no" />
+    <tag id="449379867" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379867" k="horse" o="add" type="way" v="no" />
+    <tag id="449379867" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379867" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379867" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379867" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379867" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379867" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379867" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379868" k="name" o="add" type="way" v="&#22522;&#28246;&#36335;" />
+    <tag id="449379868" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379869" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379869" k="horse" o="add" type="way" v="no" />
+    <tag id="449379869" k="lanes" o="add" type="way" v="1" />
+    <tag id="449379869" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379869" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="449379869" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379869" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379869" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="449379869" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379870" k="foot" o="add" type="way" v="no" />
+    <tag id="449379870" k="name" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379870" k="horse" o="add" type="way" v="no" />
+    <tag id="449379870" k="lanes" o="add" type="way" v="2" />
+    <tag id="449379870" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379870" k="bicycle" o="add" type="way" v="no" />
+    <tag id="449379870" k="highway" o="add" type="way" v="secondary" />
+    <tag id="449379870" k="name:en" o="add" type="way" v="Section 2, Tiding Blvd" />
+    <tag id="449379870" k="name:zh" o="add" type="way" v="&#22564;&#38914;&#22823;&#36947;&#20108;&#27573;" />
+    <tag id="449379870" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="449379870" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="449379870" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="449379871" k="name" o="add" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="449379871" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379871" k="name:en" o="add" type="way" v="Lequn 2nd Road" />
+    <tag id="449379871" k="name:zh" o="add" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="449379873" k="highway" o="add" type="way" v="footway" />
+    <tag id="449379874" k="name" o="add" type="way" v="&#27138;&#32676;&#20108;&#36335;" />
+    <tag id="449379874" k="oneway" o="add" type="way" v="yes" />
+    <tag id="449379874" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="449379874" k="name:en" o="add" type="way" v="Lequn 2nd Road" />
+    <tag id="3257863" k="to" o="none" type="relation" v="&#20013;&#21644;" />
+    <tag id="3257863" k="ref" o="none" type="relation" v="208" />
+    <tag id="3257863" k="from" o="none" type="relation" v="&#22823;&#30452;" />
+    <tag id="3257863" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 208 &#20013;&#21644;-&#22823;&#30452; (&#36820;&#31243;)" />
+    <tag id="3257863" k="type" o="none" type="relation" v="route" />
+    <tag id="3257863" k="route" o="none" type="relation" v="bus" />
+    <tag id="3257863" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="3257863" k="operator" o="none" type="relation" v="&#25351;&#21335;&#23458;&#36939;" />
+    <tag id="3257863" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3262781" k="to" o="none" type="relation" v="&#22823;&#30452;" />
+    <tag id="3262781" k="ref" o="none" type="relation" v="208" />
+    <tag id="3262781" k="from" o="none" type="relation" v="&#20013;&#21644;" />
+    <tag id="3262781" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 208 &#20013;&#21644;-&#22823;&#30452; (&#24448;&#31243;)" />
+    <tag id="3262781" k="type" o="none" type="relation" v="route" />
+    <tag id="3262781" k="route" o="none" type="relation" v="bus" />
+    <tag id="3262781" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="3262781" k="operator" o="none" type="relation" v="&#25351;&#21335;&#23458;&#36939;" />
+    <tag id="3262781" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3304466" k="to" o="none" type="relation" v="&#25925;&#23470;&#21338;&#29289;&#38498;" />
+    <tag id="3304466" k="ref" o="none" type="relation" v="&#26837;20" />
+    <tag id="3304466" k="from" o="none" type="relation" v="&#20839;&#28246;&#31449;" />
+    <tag id="3304466" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; &#26837;20 (BR20) &#20839;&#28246;&#31185;&#25216;&#22290;&#21312;-&#25925;&#23470;&#21338;&#29289;&#38498; (&#24448;&#31243;)" />
+    <tag id="3304466" k="type" o="none" type="relation" v="route" />
+    <tag id="3304466" k="route" o="none" type="relation" v="bus" />
+    <tag id="3304466" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="3304466" k="operator" o="none" type="relation" v="&#22823;&#21335;&#27773;&#36554;" />
+    <tag id="3304466" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3304467" k="to" o="none" type="relation" v="&#20839;&#28246;&#31449;" />
+    <tag id="3304467" k="ref" o="none" type="relation" v="&#26837;20" />
+    <tag id="3304467" k="from" o="none" type="relation" v="&#25925;&#23470;&#21338;&#29289;&#38498;" />
+    <tag id="3304467" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; &#26837;20 (BR20) &#20839;&#28246;&#31185;&#25216;&#22290;&#21312;-&#25925;&#23470;&#21338;&#29289;&#38498; (&#36820;&#31243;)" />
+    <tag id="3304467" k="type" o="none" type="relation" v="route" />
+    <tag id="3304467" k="route" o="none" type="relation" v="bus" />
+    <tag id="3304467" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="3304467" k="operator" o="none" type="relation" v="&#22823;&#21335;&#23458;&#36939;" />
+    <tag id="3304467" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4172486" k="to" o="none" type="relation" v="&#33290;&#33674;" />
+    <tag id="4172486" k="ref" o="none" type="relation" v="645" />
+    <tag id="4172486" k="from" o="none" type="relation" v="&#25463;&#36939;&#30707;&#29260;&#31449;" />
+    <tag id="4172486" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 645 &#33290;&#33674;-&#25463;&#36939;&#30707;&#29260;&#31449; (&#24448;&#31243;)" />
+    <tag id="4172486" k="type" o="none" type="relation" v="route" />
+    <tag id="4172486" k="route" o="none" type="relation" v="bus" />
+    <tag id="4172486" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="4172486" k="operator" o="none" type="relation" v="&#19977;&#37325;&#23458;&#36939;" />
+    <tag id="4172486" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4176886" k="to" o="none" type="relation" v="&#25463;&#36939;&#30707;&#29260;&#31449;" />
+    <tag id="4176886" k="ref" o="none" type="relation" v="645" />
+    <tag id="4176886" k="from" o="none" type="relation" v="&#33290;&#33674;" />
+    <tag id="4176886" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 645 &#33290;&#33674;-&#25463;&#36939;&#30707;&#29260;&#31449; (&#36820;&#31243;)" />
+    <tag id="4176886" k="type" o="none" type="relation" v="route" />
+    <tag id="4176886" k="route" o="none" type="relation" v="bus" />
+    <tag id="4176886" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="4176886" k="operator" o="none" type="relation" v="&#19977;&#37325;&#23458;&#36939;" />
+    <tag id="4176886" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4286313" k="to" o="none" type="relation" v="&#20013;&#21644;" />
+    <tag id="4286313" k="ref" o="none" type="relation" v="208&#30452;" />
+    <tag id="4286313" k="from" o="none" type="relation" v="&#22823;&#30452;" />
+    <tag id="4286313" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 208&#30452; &#22823;&#30452;-&#20013;&#21644;" />
+    <tag id="4286313" k="type" o="none" type="relation" v="route" />
+    <tag id="4286313" k="route" o="none" type="relation" v="bus" />
+    <tag id="4286313" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="4286313" k="operator" o="none" type="relation" v="&#25351;&#21335;&#23458;&#36939;" />
+    <tag id="4286313" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4428392" k="to" o="none" type="relation" v="&#33290;&#33674;" />
+    <tag id="4428392" k="ref" o="none" type="relation" v="645" />
+    <tag id="4428392" k="from" o="none" type="relation" v="&#25463;&#36939;&#30707;&#29260;&#31449;" />
+    <tag id="4428392" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 645 &#33290;&#33674;-&#25463;&#36939;&#30707;&#29260;&#31449; &#19981;&#32147;&#19977;&#32317; (&#24448;&#31243;)" />
+    <tag id="4428392" k="type" o="none" type="relation" v="route" />
+    <tag id="4428392" k="route" o="none" type="relation" v="bus" />
+    <tag id="4428392" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="4428392" k="operator" o="none" type="relation" v="&#19977;&#37325;&#23458;&#36939;" />
+    <tag id="4428392" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4428393" k="to" o="none" type="relation" v="&#25463;&#36939;&#30707;&#29260;&#31449;" />
+    <tag id="4428393" k="ref" o="none" type="relation" v="645" />
+    <tag id="4428393" k="from" o="none" type="relation" v="&#33290;&#33674;" />
+    <tag id="4428393" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 645 &#33290;&#33674;-&#25463;&#36939;&#30707;&#29260;&#31449; &#19981;&#32147;&#19977;&#32317; (&#36820;&#31243;)" />
+    <tag id="4428393" k="type" o="none" type="relation" v="route" />
+    <tag id="4428393" k="route" o="none" type="relation" v="bus" />
+    <tag id="4428393" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="4428393" k="operator" o="none" type="relation" v="&#19977;&#37325;&#23458;&#36939;" />
+    <tag id="4428393" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4511474" k="ref" o="none" type="relation" v="9005" />
+    <tag id="4511474" k="name" o="none" type="relation" v="9005 &#26691;&#22290;&#24066;&#35199;&#21271;&#21312;-&#20013;&#23665;&#39640;-&#21488;&#21271;&#24066;&#25919;&#24220; (&#24448;&#33274;&#21271;)" />
+    <tag id="4511474" k="type" o="none" type="relation" v="route" />
+    <tag id="4511474" k="route" o="none" type="relation" v="bus" />
+    <tag id="4511474" k="operator" o="none" type="relation" v="&#19977;&#37325;&#23458;&#36939;;&#26691;&#22290;&#23458;&#36939;" />
+    <tag id="4511474" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4519663" k="ref" o="none" type="relation" v="9005" />
+    <tag id="4519663" k="name" o="none" type="relation" v="9005 &#26691;&#22290;&#24066;&#35199;&#21271;&#21312;-&#20013;&#23665;&#39640;-&#21488;&#21271;&#24066;&#25919;&#24220; (&#24448;&#26691;&#22290;)" />
+    <tag id="4519663" k="type" o="none" type="relation" v="route" />
+    <tag id="4519663" k="route" o="none" type="relation" v="bus" />
+    <tag id="4519663" k="operator" o="none" type="relation" v="&#19977;&#37325;&#23458;&#36939;;&#26691;&#22290;&#23458;&#36939;" />
+    <tag id="4519663" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4800005" k="to" o="none" type="relation" v="&#22823;&#30452;" />
+    <tag id="4800005" k="ref" o="none" type="relation" v="72" />
+    <tag id="4800005" k="from" o="none" type="relation" v="&#40607;&#20809;" />
+    <tag id="4800005" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 72 &#40607;&#20809;-&#22823;&#30452; (&#24448;&#31243;)" />
+    <tag id="4800005" k="type" o="none" type="relation" v="route" />
+    <tag id="4800005" k="route" o="none" type="relation" v="bus" />
+    <tag id="4800005" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="4800005" k="operator" o="none" type="relation" v="&#20809;&#33775;&#24052;&#22763;" />
+    <tag id="4800005" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6099023" k="to" o="none" type="relation" v="&#22823;&#30452;&#32654;&#40599;&#33775;" />
+    <tag id="6099023" k="ref" o="none" type="relation" v="33" />
+    <tag id="6099023" k="from" o="none" type="relation" v="&#27704;&#26149;&#39640;&#20013;" />
+    <tag id="6099023" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 33 &#27704;&#26149;&#39640;&#20013;-&#22823;&#30452;&#32654;&#40599;&#33775; (&#24448;&#22823;&#30452;&#32654;&#40599;&#33775;)" />
+    <tag id="6099023" k="type" o="none" type="relation" v="route" />
+    <tag id="6099023" k="route" o="none" type="relation" v="bus" />
+    <tag id="6099023" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="6099023" k="operator" o="none" type="relation" v="&#22823;&#37117;&#26371;&#23458;&#36939;" />
+    <tag id="6099023" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6099024" k="to" o="none" type="relation" v="&#27704;&#26149;&#39640;&#20013;" />
+    <tag id="6099024" k="ref" o="none" type="relation" v="33" />
+    <tag id="6099024" k="from" o="none" type="relation" v="&#22823;&#30452;&#32654;&#40599;&#33775;" />
+    <tag id="6099024" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 33 &#27704;&#26149;&#39640;&#20013;-&#22823;&#30452;&#32654;&#40599;&#33775; (&#24448;&#27704;&#26149;&#39640;&#20013;)" />
+    <tag id="6099024" k="type" o="none" type="relation" v="route" />
+    <tag id="6099024" k="route" o="none" type="relation" v="bus" />
+    <tag id="6099024" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="6099024" k="operator" o="none" type="relation" v="&#22823;&#37117;&#26371;&#23458;&#36939;" />
+    <tag id="6099024" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6099068" k="to" o="none" type="relation" v="&#40607;&#20809;" />
+    <tag id="6099068" k="ref" o="none" type="relation" v="72" />
+    <tag id="6099068" k="from" o="none" type="relation" v="&#22823;&#30452;" />
+    <tag id="6099068" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; 72 &#40607;&#20809;-&#22823;&#30452; (&#36820;&#31243;)" />
+    <tag id="6099068" k="type" o="none" type="relation" v="route" />
+    <tag id="6099068" k="route" o="none" type="relation" v="bus" />
+    <tag id="6099068" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="6099068" k="operator" o="none" type="relation" v="&#20809;&#33775;&#24052;&#22763;" />
+    <tag id="6099068" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6590471" k="to" o="none" type="relation" v="&#25463;&#36939;&#21133;&#21335;&#36335;&#31449;" />
+    <tag id="6590471" k="ref" o="none" type="relation" v="&#32160;16" />
+    <tag id="6590471" k="from" o="none" type="relation" v="&#26494;&#24503;&#31449;" />
+    <tag id="6590471" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; &#32160;16 &#26494;&#24503;&#31449;-&#25463;&#36939;&#21133;&#21335;&#36335;&#31449; (&#24448;&#25463;&#36939;&#21133;&#21335;&#36335;&#31449;)" />
+    <tag id="6590471" k="type" o="none" type="relation" v="route" />
+    <tag id="6590471" k="route" o="none" type="relation" v="bus" />
+    <tag id="6590471" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="6590471" k="operator" o="none" type="relation" v="&#22823;&#37117;&#26371;&#23458;&#36939;" />
+    <tag id="6590471" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6590472" k="to" o="none" type="relation" v="&#26494;&#24503;&#31449;" />
+    <tag id="6590472" k="ref" o="none" type="relation" v="&#32160;16" />
+    <tag id="6590472" k="from" o="none" type="relation" v="&#25463;&#36939;&#21133;&#21335;&#36335;&#31449;" />
+    <tag id="6590472" k="name" o="none" type="relation" v="&#33274;&#21271;&#24066; &#32160;16 &#26494;&#24503;&#31449;-&#25463;&#36939;&#21133;&#21335;&#36335;&#31449; (&#24448;&#26494;&#24503;&#31449;)" />
+    <tag id="6590472" k="type" o="none" type="relation" v="route" />
+    <tag id="6590472" k="route" o="none" type="relation" v="bus" />
+    <tag id="6590472" k="network" o="none" type="relation" v="&#33274;&#21271;&#24066;&#20844;&#36554;" />
+    <tag id="6590472" k="operator" o="none" type="relation" v="&#22823;&#37117;&#26371;&#23458;&#36939;" />
+    <tag id="6590472" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6667659" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667659" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6667660" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667660" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6667661" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667661" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (07:00-09:00,17:00-19:00)" />
+    <tag id="6667662" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667662" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6667663" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667663" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (07:00-09:00,17:00-19:00)" />
+    <tag id="6667664" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667664" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6667665" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6667665" k="restriction" o="add" type="relation" v="no_left_turn" />
+  </body>
+</changeset>

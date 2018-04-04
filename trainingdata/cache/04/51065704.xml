@@ -1,0 +1,19 @@
+<changeset id="51065704" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Buiten de Veerpoort: {oneway=yes} + {oneway:*=no} &gt; no routing north-south &gt; SET [oneway:motorcar=yes] + DELETE ({oneway=yes} + {oneway:*=no})" />
+    <tag k="created_by" v="JOSM/1.5 (12542 en)" />
+    <tag k="source" v="OpenStreetMap" />
+  </meta>
+  <body>
+    <tag id="233044446" k="name" o="none" type="way" v="Buiten de Veerpoort" />
+    <tag id="233044446" k="note" o="none" type="way" v="[traffic_sign=NL:C6] on north side only: [motorcar in direction south-north = yes], [motorcar in direction north-south = no]; (oneway=yes) is not correct; motorcycle/moped/mofa/bicycle is not restricted" />
+    <tag id="233044446" k="tunnel" o="none" type="way" v="building_passage" />
+    <tag id="233044446" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="233044446" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="233044446" k="maxwidth" o="none" type="way" v="2" />
+    <tag id="233044446" k="maxheight" o="none" type="way" v="2" />
+    <tag id="233044446" k="oneway:motorcar" o="add" type="way" v="yes" />
+    <tag id="233044446" k="traffic_sign:backward" o="none" type="way" v="NL:C6" />
+  </body>
+</changeset>

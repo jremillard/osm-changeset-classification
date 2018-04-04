@@ -1,0 +1,87 @@
+<changeset id="48514216" schema="2">
+  <counts nodesAdded="0" nodesDeleted="31" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="3" waysModified="8" />
+  <meta>
+    <tag k="comment" v="AT: revert CS 44549442 44549263,  for large-scale renaming of churches and related objects without specifying a source; moving place nodes for the renderer; moving objects without reason;" />
+    <tag k="created_by" v="RevertUI 1.0" />
+  </meta>
+  <body>
+    <tag id="240041964" k="name" o="none" type="node" v="Mathon" />
+    <tag id="240041964" k="is_in" o="none" type="node" v="Ischgl,Landeck,Tirol,&#214;sterreich,Europe" />
+    <tag id="240041964" k="place" o="none" type="node" v="village" />
+    <tag id="240041964" k="population" o="none" type="node" v="334" />
+    <tag id="240041964" k="openGeoDB:name" o="none" type="node" v="Mathon" />
+    <tag id="240041964" k="openGeoDB:type" o="none" type="node" v="Ort" />
+    <tag id="240041964" k="openGeoDB:is_in" o="none" type="node" v="Ischgl,Landeck,Tirol,&#214;sterreich,Europe" />
+    <tag id="240041964" k="openGeoDB:layer" o="none" type="node" v="7" />
+    <tag id="240041964" k="openGeoDB:loc_id" o="none" type="node" v="77805" />
+    <tag id="240041964" k="openGeoDB:version" o="none" type="node" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/" />
+    <tag id="240041964" k="openGeoDB:location" o="none" type="node" v="locality" />
+    <tag id="240041964" k="openGeoDB:sort_name" o="none" type="node" v="MATHON" />
+    <tag id="240041964" k="openGeoDB:population" o="none" type="node" v="334" />
+    <tag id="240041964" k="openGeoDB:auto_update" o="none" type="node" v="population,place,name,is_in" />
+    <tag id="240041964" k="openGeoDB:is_in_loc_id" o="none" type="node" v="77804" />
+    <tag id="240041964" k="openGeoDB:postal_codes" o="none" type="node" v="6562" />
+    <tag id="240041964" k="openGeoDB:community_identification_number" o="none" type="node" v="7060802" />
+    <tag id="614238530" k="name" o="none" type="node" v="Inneregg" />
+    <tag id="614238530" k="place" o="none" type="node" v="hamlet" />
+    <tag id="1575632810" k="ele" o="none" type="node" v="1258" />
+    <tag id="1575632810" k="name" o="none" type="node" v="Kappl" />
+    <tag id="1575632810" k="note" o="none" type="node" v="see relation" />
+    <tag id="1575632810" k="is_in" o="none" type="node" v="Kappl,Landeck,Tirol,&#214;sterreich,Europe" />
+    <tag id="1575632810" k="place" o="none" type="node" v="village" />
+    <tag id="1575632810" k="source" o="none" type="node" v="geoimage.at" />
+    <tag id="1575632810" k="population" o="none" type="node" v="2608" />
+    <tag id="1575632810" k="postal_code" o="none" type="node" v="6555" />
+    <tag id="1575632810" k="openGeoDB:loc_id" o="none" type="node" v="29549" />
+    <tag id="1575632810" k="openGeoDB:population" o="none" type="node" v="2033" />
+    <tag id="1575632810" k="openGeoDB:community_identification_number" o="none" type="node" v="7060901" />
+    <tag id="2072610491" k="name" o="none" type="node" v="Pfarre" />
+    <tag id="2072610491" k="addr:city" o="none" type="node" v="Kappl" />
+    <tag id="2072610491" k="addr:street" o="none" type="node" v="Innerlangesthei" />
+    <tag id="2072610491" k="addr:country" o="none" type="node" v="AT" />
+    <tag id="2072610491" k="addr:postcode" o="none" type="node" v="6553" />
+    <tag id="2072610491" k="addr:housenumber" o="none" type="node" v="31" />
+    <tag id="2561478548" k="name" o="modify" type="node" v="Kappl" />
+    <tag id="2561478548" k="amenity" o="none" type="node" v="townhall" />
+    <tag id="2561478548" k="contact:fax" o="none" type="node" v="+43 5445 6210-15" />
+    <tag id="2561478548" k="contact:email" o="none" type="node" v="gemeinde@kappl.tirol.gv.at" />
+    <tag id="2561478548" k="contact:phone" o="none" type="node" v="+43 5445 6210" />
+    <tag id="2561478548" k="opening_hours" o="none" type="node" v="Mo-We 07:30-12:00,13:00-17:00; Th 07:3-12:00,13:30-17:30; Fr 07:30-12:00" />
+    <tag id="2561478548" k="townhall:type" o="none" type="node" v="village" />
+    <tag id="2561478548" k="name:prefix:at" o="none" type="node" v="Gemeindeamt" />
+    <tag id="2561478548" k="contact:website" o="none" type="node" v="http://www.kappl.at/gemeinde" />
+    <tag id="3050499134" k="name" o="modify" type="node" v="Galt&#252;r" />
+    <tag id="3050499134" k="amenity" o="none" type="node" v="townhall" />
+    <tag id="3050499134" k="contact:fax" o="none" type="node" v="+43 5443 8210-9" />
+    <tag id="3050499134" k="contact:email" o="none" type="node" v="gemeinde@galtuer.gv.at" />
+    <tag id="3050499134" k="contact:phone" o="none" type="node" v="+43 5443 8210" />
+    <tag id="3050499134" k="opening_hours" o="none" type="node" v="Mo-Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00" />
+    <tag id="3050499134" k="townhall:type" o="none" type="node" v="village" />
+    <tag id="3050499134" k="name:prefix:at" o="none" type="node" v="Gemeindeamt" />
+    <tag id="3050499134" k="contact:website" o="none" type="node" v="http://www.galtuer.gv.at/" />
+    <tag id="157731927" k="name" o="modify" type="way" v="Pfarrkirche" />
+    <tag id="157731927" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="157731927" k="website" o="none" type="way" v="https://www.galtuer.gv.at/index.php/kirche/33-pfarrkirche" />
+    <tag id="157731927" k="building" o="none" type="way" v="church" />
+    <tag id="157731927" k="religion" o="none" type="way" v="christian" />
+    <tag id="157731927" k="full_name" o="none" type="way" v="Wallfahrtskirche Mari&#228; GEburt" />
+    <tag id="157731927" k="holy_name" o="none" type="way" v="Mari&#228; Geburt" />
+    <tag id="157731927" k="denomination" o="none" type="way" v="catholic" />
+    <tag id="179974707" k="name" o="modify" type="way" v="Pfarrkirche Hl. Magnus Tobadill" />
+    <tag id="179974707" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="179974707" k="building" o="none" type="way" v="church" />
+    <tag id="179974707" k="religion" o="none" type="way" v="christian" />
+    <tag id="179974707" k="denomination" o="none" type="way" v="roman_catholic" />
+    <tag id="245346936" k="name" o="modify" type="way" v="Filialkirche Hl. Hieronymus" />
+    <tag id="245346936" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="245346936" k="building" o="none" type="way" v="church" />
+    <tag id="245346936" k="religion" o="none" type="way" v="christian" />
+    <tag id="245346936" k="denomination" o="none" type="way" v="roman_catholic" />
+    <tag id="426392286" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="426392286" k="historic" o="none" type="way" v="wayside_shrine" />
+    <tag id="426392286" k="religion" o="add" type="way" v="christian" />
+    <tag id="426392286" k="denomination" o="none" type="way" v="roman_catholic" />
+    <tag id="454106565" k="sport" o="none" type="way" v="soccer" />
+    <tag id="454106565" k="leisure" o="none" type="way" v="pitch" />
+  </body>
+</changeset>

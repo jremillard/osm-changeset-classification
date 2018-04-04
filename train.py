@@ -19,7 +19,7 @@ from keras.models import Model
 
 BASE_DIR = ''
 GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
-MAX_SEQUENCE_LENGTH = 600
+MAX_SEQUENCE_LENGTH = 1200
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
 VALIDATION_SPLIT = 0.40
@@ -224,7 +224,7 @@ print(model.summary())
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=5,
+          epochs=6,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')
