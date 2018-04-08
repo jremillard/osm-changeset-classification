@@ -217,7 +217,7 @@ class ChangeSet:
                 # self.nodesModified += 1
                 self.diffObjectDb(conn, str(prevRev) ,lastRev ,id,'node')
             else:
-                tags = self.getObjectTagsDb(conn,'relation', id,lastRev )                
+                tags = self.getObjectTagsDb(conn,'node', id,lastRev )                
                 for key in tags:
                     self.addAddTag( id,'node',key,tags[key])
                                 

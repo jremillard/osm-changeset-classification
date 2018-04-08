@@ -9,10 +9,9 @@ conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
 errorCount = 0
 # first make sure validated changeset are downloaded
 for cs in changeSets.rows:
-    if ( cs['note'] == 'changeset id mentioned in revert changeset' or cs['validated'] == False):
-        if ( cs['cs'].cached() == False):        
-            cs['cs'].extractFromPlanet(conn)
-            cs['cs'].save()
+    if ( True or cs['cs'].cached() == False):        
+        cs['cs'].extractFromPlanet(conn)
+        cs['cs'].save()
 
 
 ''''

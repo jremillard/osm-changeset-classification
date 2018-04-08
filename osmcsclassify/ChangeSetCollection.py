@@ -54,5 +54,30 @@ class ChangeSetCollection:
 
                 self.rows.append( { 'cs':cs,'labels':labels,'validated':validated, 'note':row[1]  })
 
+    def save(self):
+
+        with open('trainingdata/changesets.csv', 'w', encoding='utf-8') as csvfile:
+            changesetIds = {}
+            csvfile.write("changeset,From,Validated,SPAM,Import,Tagging Error\n")
+            for row in self.rows:
+                changesetId = row['cs'].id
+
+                if ( changesetId not in changesetIds):
+                    validatedY = ''
+                    if ( row['validated'] ):
+                        validatedY = 'Y'
+
+                    wrow = [ changesetId, row['note'], validatedY ]
+
+                    # 1=skip OK
+                    for i in range( 1, len(self.indexToLabels)):
+                        if ( row['labels'][i] > 0.5):
+                            wrow.append('Y')
+                        else:
+                            wrow.append('N')
+                            
+                    csvfile.write(",".join(wrow) + "\n")
+
+                    changesetIds[changesetId] = 1
 
         
