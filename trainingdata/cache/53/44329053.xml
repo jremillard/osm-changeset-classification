@@ -1,0 +1,79 @@
+<changeset id="44329053" schema="2">
+  <counts nodesAdded="67" nodesDeleted="6" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="0" waysModified="11" />
+  <meta>
+    <tag k="comment" v="Naming buildings, adding local fire station and naming residential areas from local knowledge. Fire station boundaries based on bing maps, to be fixed in future." />
+    <tag k="created_by" v="iD 2.0.1" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-GB" />
+  </meta>
+  <body>
+    <tag id="2135100108" k="name" o="add" type="node" v="Premier Inn" />
+    <tag id="2135100108" k="tourism" o="none" type="node" v="motel" />
+    <tag id="2135100109" k="name" o="add" type="node" v="Costa Coffee" />
+    <tag id="2135100109" k="amenity" o="none" type="node" v="cafe" />
+    <tag id="2135100109" k="cuisine" o="add" type="node" v="coffee_shop" />
+    <tag id="100448125" k="lit" o="none" type="way" v="yes" />
+    <tag id="100448125" k="lanes" o="none" type="way" v="2" />
+    <tag id="100448125" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="100448125" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="119311344" k="ref" o="none" type="way" v="A813" />
+    <tag id="119311344" k="name" o="none" type="way" v="Stirling Road" />
+    <tag id="119311344" k="lanes" o="none" type="way" v="2" />
+    <tag id="119311344" k="source" o="none" type="way" v="survey" />
+    <tag id="119311344" k="highway" o="none" type="way" v="primary" />
+    <tag id="119311344" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="123643715" k="name" o="add" type="way" v="Dumbarton Academy" />
+    <tag id="123643715" k="source" o="modify" type="way" v="survey;bing" />
+    <tag id="123643715" k="amenity" o="none" type="way" v="school" />
+    <tag id="162310333" k="layer" o="none" type="way" v="-1" />
+    <tag id="162310333" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="162310333" k="highway" o="none" type="way" v="footway" />
+    <tag id="162459701" k="name" o="none" type="way" v="Nobleston" />
+    <tag id="162459701" k="highway" o="none" type="way" v="residential" />
+    <tag id="162459702" k="lit" o="none" type="way" v="yes" />
+    <tag id="162459702" k="name" o="none" type="way" v="Nobleston" />
+    <tag id="162459702" k="highway" o="none" type="way" v="residential" />
+    <tag id="162459702" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="162459702" k="maxspeed:advised" o="none" type="way" v="20 mph" />
+    <tag id="162459703" k="lit" o="none" type="way" v="yes" />
+    <tag id="162459703" k="name" o="none" type="way" v="Nobleston" />
+    <tag id="162459703" k="highway" o="none" type="way" v="residential" />
+    <tag id="162459703" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="162459703" k="maxspeed:advised" o="none" type="way" v="20 mph" />
+    <tag id="203460891" k="name" o="add" type="way" v="West Dunbartonshire Council Offices" />
+    <tag id="203460891" k="amenity" o="modify" type="way" v="townhall" />
+    <tag id="203460891" k="building" o="none" type="way" v="yes" />
+    <tag id="203460891" k="operator" o="add" type="way" v="West Dunbartonshire Council" />
+    <tag id="229809420" k="name" o="add" type="way" v="Dumbarton Municipal Buildings" />
+    <tag id="229809420" k="source" o="none" type="way" v="bing" />
+    <tag id="229809420" k="amenity" o="add" type="way" v="townhall" />
+    <tag id="229809420" k="building" o="none" type="way" v="yes" />
+    <tag id="229809420" k="operator" o="add" type="way" v="West Dunbartonshire Council" />
+    <tag id="258542653" k="name" o="none" type="way" v="Arnold Clark" />
+    <tag id="258542653" k="shop" o="none" type="way" v="car" />
+    <tag id="258542653" k="source" o="none" type="way" v="Bing" />
+    <tag id="258542653" k="building" o="none" type="way" v="commercial" />
+    <tag id="258542653" k="second_hand" o="add" type="way" v="yes" />
+    <tag id="316610761" k="name" o="add" type="way" v="KFC" />
+    <tag id="316610761" k="source" o="none" type="way" v="Bing" />
+    <tag id="316610761" k="building" o="none" type="way" v="yes" />
+    <tag id="459045258" k="name" o="add" type="way" v="Dumbarton Fire Station" />
+    <tag id="459045258" k="phone" o="add" type="way" v="+44 1389 762222" />
+    <tag id="459045258" k="source" o="add" type="way" v="bing" />
+    <tag id="459045258" k="amenity" o="add" type="way" v="fire_station" />
+    <tag id="459045258" k="website" o="add" type="way" v="http://www.firescotland.gov.uk/your-area/west/local-stations/dumbarton.aspx" />
+    <tag id="459045258" k="building" o="add" type="way" v="yes" />
+    <tag id="459045258" k="operator" o="add" type="way" v="Scottish Fire and Rescue Service" />
+    <tag id="459045258" k="addr:city" o="add" type="way" v="Dumbarton" />
+    <tag id="459045258" k="addr:street" o="add" type="way" v="Castlegreen Street" />
+    <tag id="459045258" k="addr:postcode" o="add" type="way" v="G82 1EA" />
+    <tag id="459045258" k="addr:housenumber" o="add" type="way" v="2" />
+    <tag id="459045259" k="name" o="add" type="way" v="Strathleven Park" />
+    <tag id="459045259" k="source" o="add" type="way" v="bing" />
+    <tag id="459045259" k="landuse" o="add" type="way" v="residential" />
+    <tag id="459045260" k="name" o="add" type="way" v="Nobleston" />
+    <tag id="459045260" k="source" o="add" type="way" v="bing" />
+    <tag id="459045260" k="landuse" o="add" type="way" v="residential" />
+  </body>
+</changeset>

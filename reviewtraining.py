@@ -114,7 +114,7 @@ else:
     validated = 0
     for i,row in enumerate(changesetsCsv):
         notValidated = len(row[2]) == 0 or row[2] != 'Y'
-        if (  not notValidated):
+        if (  notValidated):
             cs = osmcsclassify.ChangeSet.ChangeSet(row[0])
             if ( cs.cached() ):
                 cs.read()

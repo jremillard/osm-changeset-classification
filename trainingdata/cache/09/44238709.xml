@@ -1,0 +1,842 @@
+<changeset id="44238709" schema="2">
+  <counts nodesAdded="1035" nodesDeleted="118" nodesModified="5" relationsAdded="7" relationsDeleted="0" relationsModified="2" waysAdded="177" waysDeleted="21" waysModified="137" />
+  <meta>
+    <tag k="comment" v="ajustement + limite de vitesse + batiments" />
+    <tag k="created_by" v="JOSM/1.5 (11223 fr)" />
+    <tag k="source" v="osmand + bing + cadastre" />
+  </meta>
+  <body>
+    <tag id="1289420871" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1294041642" k="traffic_calming" o="add" type="node" v="hump" />
+    <tag id="1381608507" k="name" o="modify" type="node" v="Le Marquisat" />
+    <tag id="1381608507" k="place" o="none" type="node" v="locality" />
+    <tag id="1423766166" k="amenity" o="none" type="node" v="recycling" />
+    <tag id="1423766166" k="recycling_type" o="add" type="node" v="container" />
+    <tag id="1423766166" k="recycling:glass" o="add" type="node" v="yes" />
+    <tag id="2365050256" k="man_made" o="none" type="node" v="water_well" />
+    <tag id="3101922289" k="highway" o="add" type="node" v="give_way" />
+    <tag id="33538877" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="33538877" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="33538877" k="admin_level" o="none" type="way" v="8" />
+    <tag id="71244200" k="lit" o="add" type="way" v="yes" />
+    <tag id="71244200" k="ref" o="none" type="way" v="D 204" />
+    <tag id="71244200" k="name" o="none" type="way" v="Rue de Cassagne" />
+    <tag id="71244200" k="note" o="none" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="71244200" k="lanes" o="none" type="way" v="2" />
+    <tag id="71244200" k="source" o="none" type="way" v="survey" />
+    <tag id="71244200" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="71244200" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="103646303" k="note" o="none" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="103646303" k="source" o="none" type="way" v="survey" />
+    <tag id="103646303" k="highway" o="none" type="way" v="track" />
+    <tag id="106568767" k="lit" o="none" type="way" v="yes" />
+    <tag id="106568767" k="foot" o="none" type="way" v="yes" />
+    <tag id="106568767" k="name" o="none" type="way" v="Rue des Canons" />
+    <tag id="106568767" k="note" o="none" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="106568767" k="lanes" o="none" type="way" v="1" />
+    <tag id="106568767" k="oneway" o="none" type="way" v="yes" />
+    <tag id="106568767" k="source" o="none" type="way" v="survey" />
+    <tag id="106568767" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="106568767" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="106568767" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="106568770" k="lit" o="add" type="way" v="yes" />
+    <tag id="106568770" k="note" o="none" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="106568770" k="lanes" o="add" type="way" v="2" />
+    <tag id="106568770" k="source" o="none" type="way" v="survey" />
+    <tag id="106568770" k="highway" o="none" type="way" v="residential" />
+    <tag id="106568770" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="107422867" k="lit" o="add" type="way" v="yes" />
+    <tag id="107422867" k="name" o="none" type="way" v="Rue des Deux Moulins" />
+    <tag id="107422867" k="note" o="none" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="107422867" k="lanes" o="add" type="way" v="2" />
+    <tag id="107422867" k="source" o="none" type="way" v="survey" />
+    <tag id="107422867" k="highway" o="none" type="way" v="residential" />
+    <tag id="107422867" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="107422870" k="note" o="none" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="107422870" k="lanes" o="add" type="way" v="2" />
+    <tag id="107422870" k="source" o="none" type="way" v="survey" />
+    <tag id="107422870" k="highway" o="none" type="way" v="residential" />
+    <tag id="113737267" k="lit" o="add" type="way" v="yes" />
+    <tag id="113737267" k="name" o="none" type="way" v="Rue des Alouettes" />
+    <tag id="113737267" k="lanes" o="add" type="way" v="2" />
+    <tag id="113737267" k="oneway" o="none" type="way" v="no" />
+    <tag id="113737267" k="highway" o="none" type="way" v="residential" />
+    <tag id="113737267" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113738641" k="lit" o="add" type="way" v="yes" />
+    <tag id="113738641" k="lanes" o="add" type="way" v="2" />
+    <tag id="113738641" k="highway" o="none" type="way" v="residential" />
+    <tag id="113738641" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113738646" k="lit" o="add" type="way" v="yes" />
+    <tag id="113738646" k="name" o="none" type="way" v="Rue des Moquaises" />
+    <tag id="113738646" k="lanes" o="add" type="way" v="2" />
+    <tag id="113738646" k="highway" o="none" type="way" v="residential" />
+    <tag id="113738646" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113738647" k="lit" o="add" type="way" v="yes" />
+    <tag id="113738647" k="name" o="none" type="way" v="Rue du Ch&#226;teau d'Eau" />
+    <tag id="113738647" k="lanes" o="add" type="way" v="2" />
+    <tag id="113738647" k="highway" o="none" type="way" v="residential" />
+    <tag id="113738647" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113738649" k="lit" o="add" type="way" v="yes" />
+    <tag id="113738649" k="name" o="none" type="way" v="Rue du Clos aux &#201;rables" />
+    <tag id="113738649" k="lanes" o="add" type="way" v="2" />
+    <tag id="113738649" k="highway" o="none" type="way" v="residential" />
+    <tag id="113738649" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113738651" k="lit" o="add" type="way" v="yes" />
+    <tag id="113738651" k="name" o="none" type="way" v="Rue des Moquaises" />
+    <tag id="113738651" k="lanes" o="add" type="way" v="2" />
+    <tag id="113738651" k="highway" o="none" type="way" v="residential" />
+    <tag id="113738651" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741394" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741394" k="name" o="none" type="way" v="Rue des Pernelles" />
+    <tag id="113741394" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741394" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741394" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741395" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741395" k="name" o="none" type="way" v="Rue des Bergeronnettes" />
+    <tag id="113741395" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741395" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741395" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741398" k="lit" o="none" type="way" v="yes" />
+    <tag id="113741398" k="lanes" o="none" type="way" v="1" />
+    <tag id="113741398" k="oneway" o="none" type="way" v="yes" />
+    <tag id="113741398" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741398" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="113741402" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741402" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741402" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741402" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="113741404" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741404" k="name" o="none" type="way" v="Rue des Colombes" />
+    <tag id="113741404" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741404" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741404" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="113741407" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741407" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741407" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741407" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741409" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741409" k="name" o="modify" type="way" v="R&#233;sidence des Marronniers" />
+    <tag id="113741409" k="lanes" o="none" type="way" v="2" />
+    <tag id="113741409" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741409" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="113741411" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741411" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741411" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741411" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741412" k="lit" o="none" type="way" v="yes" />
+    <tag id="113741412" k="name" o="none" type="way" v="Rue de la Gendarmerie" />
+    <tag id="113741412" k="lanes" o="none" type="way" v="1" />
+    <tag id="113741412" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741412" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="113741413" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741413" k="name" o="add" type="way" v="R&#233;sidence des Marronniers" />
+    <tag id="113741413" k="lanes" o="none" type="way" v="2" />
+    <tag id="113741413" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741413" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="113741414" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741414" k="name" o="none" type="way" v="Rue des Perdrix" />
+    <tag id="113741414" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741414" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741414" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741415" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741415" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741415" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741415" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="113741416" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741416" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741416" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741416" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113741418" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741418" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741418" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741418" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="113741419" k="lit" o="add" type="way" v="yes" />
+    <tag id="113741419" k="lanes" o="add" type="way" v="2" />
+    <tag id="113741419" k="highway" o="none" type="way" v="residential" />
+    <tag id="113741419" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113745468" k="lit" o="add" type="way" v="yes" />
+    <tag id="113745468" k="name" o="none" type="way" v="Rue du Grand Moulin" />
+    <tag id="113745468" k="lanes" o="add" type="way" v="2" />
+    <tag id="113745468" k="highway" o="none" type="way" v="residential" />
+    <tag id="113745468" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113745470" k="lit" o="add" type="way" v="yes" />
+    <tag id="113745470" k="lanes" o="add" type="way" v="2" />
+    <tag id="113745470" k="highway" o="none" type="way" v="residential" />
+    <tag id="113745470" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="113745471" k="highway" o="none" type="way" v="track" />
+    <tag id="113745473" k="lanes" o="none" type="way" v="1" />
+    <tag id="113745473" k="highway" o="modify" type="way" v="residential" />
+    <tag id="113745473" k="service" o="none" type="way" v="alley" />
+    <tag id="113745475" k="name" o="none" type="way" v="Rue du Moulin d'Amour" />
+    <tag id="113745475" k="lanes" o="none" type="way" v="2" />
+    <tag id="113745475" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="113745475" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="113747977" k="lit" o="none" type="way" v="yes" />
+    <tag id="113747977" k="lanes" o="none" type="way" v="1" />
+    <tag id="113747977" k="highway" o="none" type="way" v="residential" />
+    <tag id="113747977" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="113747979" k="name" o="add" type="way" v="Rue Carrigue" />
+    <tag id="113747979" k="lanes" o="add" type="way" v="2" />
+    <tag id="113747979" k="highway" o="modify" type="way" v="living_street" />
+    <tag id="113748792" k="lit" o="none" type="way" v="yes" />
+    <tag id="113748792" k="highway" o="none" type="way" v="residential" />
+    <tag id="113748792" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="114213917" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="114215248" k="name" o="none" type="way" v="Ruelle des Marronniers" />
+    <tag id="114215248" k="highway" o="none" type="way" v="footway" />
+    <tag id="114216114" k="lanes" o="none" type="way" v="2" />
+    <tag id="114216114" k="highway" o="none" type="way" v="residential" />
+    <tag id="114216358" k="highway" o="none" type="way" v="track" />
+    <tag id="114696175" k="lit" o="add" type="way" v="yes" />
+    <tag id="114696175" k="area" o="none" type="way" v="yes" />
+    <tag id="114696175" k="lanes" o="add" type="way" v="2" />
+    <tag id="114696175" k="highway" o="none" type="way" v="residential" />
+    <tag id="114696175" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="114697919" k="lit" o="add" type="way" v="yes" />
+    <tag id="114697919" k="name" o="none" type="way" v="Rue de l'Aurore" />
+    <tag id="114697919" k="lanes" o="none" type="way" v="1" />
+    <tag id="114697919" k="oneway" o="none" type="way" v="yes" />
+    <tag id="114697919" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114697919" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="114697919" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="116637398" k="lit" o="add" type="way" v="yes" />
+    <tag id="116637398" k="name" o="add" type="way" v="R&#233;sidence des Marronniers" />
+    <tag id="116637398" k="lanes" o="none" type="way" v="2" />
+    <tag id="116637398" k="highway" o="none" type="way" v="residential" />
+    <tag id="116637398" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="116637931" k="highway" o="none" type="way" v="footway" />
+    <tag id="117222938" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117222938" k="building" o="none" type="way" v="yes" />
+    <tag id="117222948" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117222948" k="building" o="none" type="way" v="yes" />
+    <tag id="117223086" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117223086" k="building" o="none" type="way" v="yes" />
+    <tag id="117223189" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117223189" k="building" o="none" type="way" v="yes" />
+    <tag id="117223194" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117223194" k="building" o="none" type="way" v="yes" />
+    <tag id="117223239" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117223239" k="building" o="none" type="way" v="yes" />
+    <tag id="117223376" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117223376" k="building" o="none" type="way" v="yes" />
+    <tag id="117223896" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117223896" k="building" o="none" type="way" v="yes" />
+    <tag id="117224740" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117224740" k="building" o="none" type="way" v="yes" />
+    <tag id="117224978" k="wall" o="none" type="way" v="no" />
+    <tag id="117224978" k="access" o="add" type="way" v="private" />
+    <tag id="117224978" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117224978" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="117224978" k="building" o="none" type="way" v="yes" />
+    <tag id="117225253" k="name" o="none" type="way" v="&#201;cole Maternelle les Marronniers" />
+    <tag id="117225253" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225253" k="building" o="modify" type="way" v="school" />
+    <tag id="117225253" k="school:FR" o="none" type="way" v="maternelle" />
+    <tag id="117225363" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225363" k="building" o="none" type="way" v="yes" />
+    <tag id="117225402" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225402" k="building" o="none" type="way" v="yes" />
+    <tag id="117225404" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225404" k="building" o="none" type="way" v="yes" />
+    <tag id="117225405" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225405" k="building" o="none" type="way" v="yes" />
+    <tag id="117225505" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225505" k="building" o="none" type="way" v="yes" />
+    <tag id="117225543" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225543" k="building" o="none" type="way" v="yes" />
+    <tag id="117225663" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225663" k="building" o="none" type="way" v="yes" />
+    <tag id="117225782" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225782" k="building" o="none" type="way" v="yes" />
+    <tag id="117225809" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225809" k="building" o="none" type="way" v="yes" />
+    <tag id="117225815" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117225815" k="building" o="none" type="way" v="yes" />
+    <tag id="117226012" k="name" o="none" type="way" v="M&#233;diath&#232;que" />
+    <tag id="117226012" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117226012" k="amenity" o="modify" type="way" v="library" />
+    <tag id="117226012" k="building" o="modify" type="way" v="public" />
+    <tag id="117226012" k="addr:city" o="none" type="way" v="La Jarrie" />
+    <tag id="117226012" k="school:FR" o="none" type="way" v="primaire" />
+    <tag id="117226012" k="addr:street" o="none" type="way" v="Rue de L'Alerte" />
+    <tag id="117226012" k="addr:postcode" o="none" type="way" v="17220" />
+    <tag id="117226012" k="addr:housenumber" o="none" type="way" v="1" />
+    <tag id="117226122" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117226122" k="building" o="none" type="way" v="yes" />
+    <tag id="117226275" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117226275" k="building" o="none" type="way" v="yes" />
+    <tag id="117226509" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117226509" k="building" o="none" type="way" v="yes" />
+    <tag id="117226559" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117226559" k="building" o="none" type="way" v="yes" />
+    <tag id="117226565" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="117226565" k="building" o="none" type="way" v="yes" />
+    <tag id="120236458" k="ref" o="none" type="way" v="D 939" />
+    <tag id="120236458" k="name" o="add" type="way" v="Grand'Rue" />
+    <tag id="120236458" k="lanes" o="add" type="way" v="1" />
+    <tag id="120236458" k="oneway" o="none" type="way" v="yes" />
+    <tag id="120236458" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="120236458" k="highway" o="none" type="way" v="primary" />
+    <tag id="120236458" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="120236461" k="highway" o="none" type="way" v="steps" />
+    <tag id="121377314" k="name" o="none" type="way" v="Ruelle de la Garenne" />
+    <tag id="121377314" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="122661077" k="highway" o="none" type="way" v="footway" />
+    <tag id="124047810" k="lanes" o="add" type="way" v="2" />
+    <tag id="124047810" k="highway" o="none" type="way" v="residential" />
+    <tag id="124047810" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="124047811" k="lanes" o="add" type="way" v="2" />
+    <tag id="124047811" k="highway" o="none" type="way" v="residential" />
+    <tag id="124047811" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="124047813" k="highway" o="none" type="way" v="track" />
+    <tag id="124048160" k="lanes" o="add" type="way" v="2" />
+    <tag id="124048160" k="highway" o="none" type="way" v="residential" />
+    <tag id="124048160" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="128961363" k="lit" o="add" type="way" v="yes" />
+    <tag id="128961363" k="lanes" o="add" type="way" v="2" />
+    <tag id="128961363" k="highway" o="none" type="way" v="residential" />
+    <tag id="128961363" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="130094642" k="lit" o="add" type="way" v="yes" />
+    <tag id="130094642" k="name" o="none" type="way" v="Rue des Colombes" />
+    <tag id="130094642" k="lanes" o="add" type="way" v="2" />
+    <tag id="130094642" k="highway" o="none" type="way" v="residential" />
+    <tag id="130094642" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="131113271" k="lit" o="add" type="way" v="yes" />
+    <tag id="131113271" k="ref" o="add" type="way" v="D 109" />
+    <tag id="131113271" k="name" o="none" type="way" v="Rue de Ch&#226;telaillon" />
+    <tag id="131113271" k="lanes" o="none" type="way" v="2" />
+    <tag id="131113271" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="131113271" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="131113272" k="lit" o="add" type="way" v="yes" />
+    <tag id="131113272" k="ref" o="none" type="way" v="D 109" />
+    <tag id="131113272" k="lanes" o="none" type="way" v="2" />
+    <tag id="131113272" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="131113272" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="131113272" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="131113273" k="lit" o="none" type="way" v="yes" />
+    <tag id="131113273" k="name" o="none" type="way" v="Rue de la Madeleine" />
+    <tag id="131113273" k="lanes" o="none" type="way" v="1" />
+    <tag id="131113273" k="oneway" o="none" type="way" v="yes" />
+    <tag id="131113273" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="131113273" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="172283671" k="landuse" o="none" type="way" v="residential" />
+    <tag id="176081519" k="lanes" o="add" type="way" v="2" />
+    <tag id="176081519" k="highway" o="none" type="way" v="residential" />
+    <tag id="176081519" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="176081525" k="lanes" o="add" type="way" v="2" />
+    <tag id="176081525" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="227879607" k="ref" o="none" type="way" v="D 109" />
+    <tag id="227879607" k="lanes" o="none" type="way" v="2" />
+    <tag id="227879607" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="227879607" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="227879607" k="maxspeed" o="modify" type="way" v="90" />
+    <tag id="227879612" k="name" o="none" type="way" v="Impasse du Petit Coutre" />
+    <tag id="227879612" k="highway" o="none" type="way" v="service" />
+    <tag id="227879615" k="lit" o="none" type="way" v="yes" />
+    <tag id="227879615" k="ref" o="add" type="way" v="D 109" />
+    <tag id="227879615" k="name" o="none" type="way" v="Rue de Ch&#226;telaillon" />
+    <tag id="227879615" k="lanes" o="none" type="way" v="2" />
+    <tag id="227879615" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="227879615" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="227879649" k="access" o="none" type="way" v="private" />
+    <tag id="227879649" k="leisure" o="none" type="way" v="swimming_pool" />
+    <tag id="227879652" k="access" o="none" type="way" v="private" />
+    <tag id="227879652" k="leisure" o="none" type="way" v="swimming_pool" />
+    <tag id="255654108" k="access" o="none" type="way" v="private" />
+    <tag id="255654108" k="source" o="none" type="way" v="bing" />
+    <tag id="255654108" k="leisure" o="none" type="way" v="swimming_pool" />
+    <tag id="255654110" k="access" o="none" type="way" v="private" />
+    <tag id="255654110" k="source" o="none" type="way" v="bing" />
+    <tag id="255654110" k="leisure" o="none" type="way" v="swimming_pool" />
+    <tag id="257566048" k="lit" o="none" type="way" v="yes" />
+    <tag id="257566048" k="name" o="none" type="way" v="Rue du Moulin d'Amour" />
+    <tag id="257566048" k="lanes" o="none" type="way" v="2" />
+    <tag id="257566048" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="257566048" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="305536495" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305536495" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="305536495" k="lanes" o="none" type="way" v="2" />
+    <tag id="305536495" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305536495" k="highway" o="none" type="way" v="primary" />
+    <tag id="305536495" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="305546818" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305546818" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="305546818" k="lanes" o="none" type="way" v="1" />
+    <tag id="305546818" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305546818" k="highway" o="none" type="way" v="primary" />
+    <tag id="305546818" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="305550179" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="305550179" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="305550179" k="admin_level" o="none" type="way" v="8" />
+    <tag id="305550181" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305550181" k="name" o="add" type="way" v="Grand'Rue" />
+    <tag id="305550181" k="lanes" o="add" type="way" v="1" />
+    <tag id="305550181" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305550181" k="highway" o="none" type="way" v="primary" />
+    <tag id="305550181" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305550182" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305550182" k="name" o="add" type="way" v="Grand'Rue" />
+    <tag id="305550182" k="lanes" o="add" type="way" v="1" />
+    <tag id="305550182" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305550182" k="highway" o="none" type="way" v="primary" />
+    <tag id="305550182" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305550183" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="305550183" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="305550183" k="admin_level" o="none" type="way" v="8" />
+    <tag id="305550184" k="ref" o="none" type="way" v="D 939" />
+    <tag id="305550184" k="name" o="none" type="way" v="Grand'Rue" />
+    <tag id="305550184" k="lanes" o="add" type="way" v="2" />
+    <tag id="305550184" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="305550184" k="highway" o="none" type="way" v="primary" />
+    <tag id="305550184" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305550185" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305550185" k="name" o="add" type="way" v="Grand'Rue" />
+    <tag id="305550185" k="lanes" o="add" type="way" v="1" />
+    <tag id="305550185" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305550185" k="highway" o="none" type="way" v="primary" />
+    <tag id="305550185" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="307680614" k="lit" o="add" type="way" v="yes" />
+    <tag id="307680614" k="ref" o="none" type="way" v="D 109" />
+    <tag id="307680614" k="name" o="none" type="way" v="Rue de Clavette" />
+    <tag id="307680614" k="lanes" o="add" type="way" v="2" />
+    <tag id="307680614" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="307680614" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="307680614" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="333091360" k="ref" o="none" type="way" v="D 939" />
+    <tag id="333091360" k="name" o="none" type="way" v="Grand'Rue" />
+    <tag id="333091360" k="lanes" o="none" type="way" v="2" />
+    <tag id="333091360" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="333091360" k="highway" o="none" type="way" v="primary" />
+    <tag id="333091360" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="333470096" k="name" o="none" type="way" v="Impasse de l'Aumonerie" />
+    <tag id="333470096" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2015" />
+    <tag id="333470096" k="highway" o="modify" type="way" v="service" />
+    <tag id="333470096" k="service" o="add" type="way" v="alley" />
+    <tag id="398317491" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="400425709" k="ref" o="none" type="way" v="D 109" />
+    <tag id="400425709" k="lanes" o="none" type="way" v="2" />
+    <tag id="400425709" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="400425709" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="400425709" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="400425710" k="ref" o="none" type="way" v="D 109" />
+    <tag id="400425710" k="lanes" o="none" type="way" v="2" />
+    <tag id="400425710" k="layer" o="none" type="way" v="-1" />
+    <tag id="400425710" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="400425710" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="400425710" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="400425710" k="maxspeed" o="modify" type="way" v="90" />
+    <tag id="403622245" k="ref" o="none" type="way" v="D 939" />
+    <tag id="403622245" k="name" o="none" type="way" v="Grand'Rue" />
+    <tag id="403622245" k="lanes" o="none" type="way" v="1" />
+    <tag id="403622245" k="oneway" o="none" type="way" v="yes" />
+    <tag id="403622245" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="403622245" k="highway" o="none" type="way" v="primary" />
+    <tag id="403622245" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="403622255" k="name" o="none" type="way" v="Rue de la Pierre Taill&#233;e" />
+    <tag id="403622255" k="lanes" o="none" type="way" v="1" />
+    <tag id="403622255" k="oneway" o="none" type="way" v="yes" />
+    <tag id="403622255" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="403622255" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="458262966" k="ref" o="add" type="way" v="D 939" />
+    <tag id="458262966" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="458262966" k="lanes" o="none" type="way" v="2" />
+    <tag id="458262966" k="oneway" o="none" type="way" v="yes" />
+    <tag id="458262966" k="highway" o="none" type="way" v="primary" />
+    <tag id="458262966" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="458262966" k="turn:lanes" o="none" type="way" v="left|through" />
+    <tag id="458262969" k="ref" o="add" type="way" v="D 939" />
+    <tag id="458262969" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="458262969" k="lanes" o="none" type="way" v="1" />
+    <tag id="458262969" k="oneway" o="none" type="way" v="yes" />
+    <tag id="458262969" k="highway" o="none" type="way" v="primary" />
+    <tag id="458262969" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="458262978" k="ref" o="add" type="way" v="D 939" />
+    <tag id="458262978" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="458262978" k="lanes" o="none" type="way" v="1" />
+    <tag id="458262978" k="oneway" o="none" type="way" v="yes" />
+    <tag id="458262978" k="highway" o="none" type="way" v="primary" />
+    <tag id="458262978" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="458262978" k="traffic_calming" o="none" type="way" v="table" />
+    <tag id="458262979" k="ref" o="add" type="way" v="D 939" />
+    <tag id="458262979" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="458262979" k="lanes" o="none" type="way" v="1" />
+    <tag id="458262979" k="oneway" o="none" type="way" v="yes" />
+    <tag id="458262979" k="highway" o="none" type="way" v="primary" />
+    <tag id="458262979" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="458265645" k="access" o="none" type="way" v="private" />
+    <tag id="458265645" k="highway" o="none" type="way" v="service" />
+    <tag id="458265645" k="service" o="none" type="way" v="alley" />
+    <tag id="458305798" k="highway" o="add" type="way" v="service" />
+    <tag id="458305798" k="service" o="add" type="way" v="alley" />
+    <tag id="458305799" k="access" o="add" type="way" v="private" />
+    <tag id="458305799" k="highway" o="add" type="way" v="service" />
+    <tag id="458305799" k="service" o="add" type="way" v="alley" />
+    <tag id="458305800" k="highway" o="add" type="way" v="pedestrian" />
+    <tag id="458305801" k="highway" o="add" type="way" v="pedestrian" />
+    <tag id="458305802" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305803" k="access" o="add" type="way" v="private" />
+    <tag id="458305803" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305804" k="access" o="add" type="way" v="private" />
+    <tag id="458305804" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305805" k="access" o="add" type="way" v="private" />
+    <tag id="458305805" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305806" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305807" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305808" k="building" o="add" type="way" v="yes" />
+    <tag id="458305809" k="access" o="add" type="way" v="private" />
+    <tag id="458305809" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305810" k="building" o="add" type="way" v="yes" />
+    <tag id="458305811" k="name" o="add" type="way" v="Rue Carrigue" />
+    <tag id="458305811" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305811" k="highway" o="add" type="way" v="living_street" />
+    <tag id="458305812" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305813" k="access" o="add" type="way" v="private" />
+    <tag id="458305813" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305814" k="access" o="add" type="way" v="private" />
+    <tag id="458305814" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305815" k="access" o="add" type="way" v="private" />
+    <tag id="458305815" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305816" k="access" o="add" type="way" v="private" />
+    <tag id="458305816" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305817" k="access" o="add" type="way" v="private" />
+    <tag id="458305817" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305818" k="access" o="add" type="way" v="private" />
+    <tag id="458305818" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305819" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305820" k="access" o="add" type="way" v="private" />
+    <tag id="458305820" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305821" k="access" o="add" type="way" v="private" />
+    <tag id="458305821" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305822" k="building" o="add" type="way" v="yes" />
+    <tag id="458305823" k="access" o="add" type="way" v="private" />
+    <tag id="458305823" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305824" k="access" o="add" type="way" v="private" />
+    <tag id="458305824" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305825" k="access" o="add" type="way" v="private" />
+    <tag id="458305825" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305826" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305827" k="access" o="add" type="way" v="private" />
+    <tag id="458305827" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305828" k="access" o="add" type="way" v="private" />
+    <tag id="458305828" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305829" k="access" o="add" type="way" v="private" />
+    <tag id="458305829" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305830" k="access" o="add" type="way" v="private" />
+    <tag id="458305830" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305831" k="access" o="add" type="way" v="private" />
+    <tag id="458305831" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305832" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2011" />
+    <tag id="458305832" k="building" o="add" type="way" v="yes" />
+    <tag id="458305833" k="building" o="add" type="way" v="yes" />
+    <tag id="458305834" k="highway" o="add" type="way" v="service" />
+    <tag id="458305834" k="service" o="add" type="way" v="alley" />
+    <tag id="458305835" k="amenity" o="add" type="way" v="parking" />
+    <tag id="458305835" k="parking" o="add" type="way" v="surface" />
+    <tag id="458305836" k="lit" o="add" type="way" v="yes" />
+    <tag id="458305836" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305836" k="highway" o="add" type="way" v="residential" />
+    <tag id="458305836" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="458305837" k="access" o="add" type="way" v="private" />
+    <tag id="458305837" k="highway" o="add" type="way" v="service" />
+    <tag id="458305837" k="service" o="add" type="way" v="alley" />
+    <tag id="458305838" k="access" o="add" type="way" v="private" />
+    <tag id="458305838" k="highway" o="add" type="way" v="service" />
+    <tag id="458305838" k="service" o="add" type="way" v="alley" />
+    <tag id="458305839" k="access" o="add" type="way" v="private" />
+    <tag id="458305839" k="highway" o="add" type="way" v="service" />
+    <tag id="458305839" k="service" o="add" type="way" v="alley" />
+    <tag id="458305840" k="access" o="add" type="way" v="private" />
+    <tag id="458305840" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305841" k="access" o="add" type="way" v="private" />
+    <tag id="458305841" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305842" k="building" o="add" type="way" v="yes" />
+    <tag id="458305843" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305844" k="access" o="add" type="way" v="private" />
+    <tag id="458305844" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305845" k="building" o="add" type="way" v="yes" />
+    <tag id="458305846" k="building" o="add" type="way" v="residential" />
+    <tag id="458305847" k="access" o="add" type="way" v="private" />
+    <tag id="458305847" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305848" k="building" o="add" type="way" v="yes" />
+    <tag id="458305849" k="access" o="add" type="way" v="private" />
+    <tag id="458305849" k="highway" o="add" type="way" v="service" />
+    <tag id="458305849" k="service" o="add" type="way" v="alley" />
+    <tag id="458305850" k="access" o="add" type="way" v="private" />
+    <tag id="458305850" k="highway" o="add" type="way" v="track" />
+    <tag id="458305851" k="building" o="add" type="way" v="residential" />
+    <tag id="458305852" k="building" o="add" type="way" v="residential" />
+    <tag id="458305853" k="building" o="add" type="way" v="residential" />
+    <tag id="458305854" k="building" o="add" type="way" v="residential" />
+    <tag id="458305855" k="building" o="add" type="way" v="residential" />
+    <tag id="458305856" k="building" o="add" type="way" v="residential" />
+    <tag id="458305857" k="access" o="add" type="way" v="private" />
+    <tag id="458305857" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305858" k="building" o="add" type="way" v="residential" />
+    <tag id="458305859" k="building" o="add" type="way" v="residential" />
+    <tag id="458305860" k="building" o="add" type="way" v="residential" />
+    <tag id="458305861" k="building" o="add" type="way" v="residential" />
+    <tag id="458305862" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305863" k="building" o="add" type="way" v="residential" />
+    <tag id="458305864" k="building" o="add" type="way" v="residential" />
+    <tag id="458305865" k="building" o="add" type="way" v="residential" />
+    <tag id="458305866" k="building" o="add" type="way" v="residential" />
+    <tag id="458305867" k="building" o="add" type="way" v="residential" />
+    <tag id="458305868" k="building" o="add" type="way" v="residential" />
+    <tag id="458305869" k="building" o="add" type="way" v="residential" />
+    <tag id="458305870" k="building" o="add" type="way" v="residential" />
+    <tag id="458305871" k="building" o="add" type="way" v="residential" />
+    <tag id="458305872" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305873" k="access" o="add" type="way" v="private" />
+    <tag id="458305873" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305874" k="building" o="add" type="way" v="residential" />
+    <tag id="458305875" k="building" o="add" type="way" v="residential" />
+    <tag id="458305876" k="building" o="add" type="way" v="residential" />
+    <tag id="458305877" k="building" o="add" type="way" v="residential" />
+    <tag id="458305878" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305879" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305880" k="access" o="add" type="way" v="private" />
+    <tag id="458305880" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305881" k="access" o="add" type="way" v="private" />
+    <tag id="458305881" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305882" k="building" o="add" type="way" v="yes" />
+    <tag id="458305883" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305884" k="building" o="add" type="way" v="yes" />
+    <tag id="458305885" k="access" o="add" type="way" v="private" />
+    <tag id="458305885" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305886" k="highway" o="add" type="way" v="service" />
+    <tag id="458305886" k="service" o="add" type="way" v="alley" />
+    <tag id="458305887" k="highway" o="add" type="way" v="service" />
+    <tag id="458305887" k="service" o="add" type="way" v="alley" />
+    <tag id="458305888" k="access" o="add" type="way" v="private" />
+    <tag id="458305888" k="highway" o="add" type="way" v="service" />
+    <tag id="458305888" k="service" o="add" type="way" v="alley" />
+    <tag id="458305889" k="highway" o="add" type="way" v="service" />
+    <tag id="458305889" k="service" o="add" type="way" v="alley" />
+    <tag id="458305890" k="highway" o="add" type="way" v="service" />
+    <tag id="458305890" k="service" o="add" type="way" v="alley" />
+    <tag id="458305891" k="name" o="add" type="way" v="Ruelle du Canon" />
+    <tag id="458305891" k="highway" o="add" type="way" v="pedestrian" />
+    <tag id="458305892" k="access" o="add" type="way" v="private" />
+    <tag id="458305892" k="highway" o="add" type="way" v="service" />
+    <tag id="458305892" k="service" o="add" type="way" v="alley" />
+    <tag id="458305893" k="access" o="add" type="way" v="private" />
+    <tag id="458305893" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305894" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305895" k="access" o="add" type="way" v="private" />
+    <tag id="458305895" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305896" k="access" o="add" type="way" v="private" />
+    <tag id="458305896" k="highway" o="add" type="way" v="service" />
+    <tag id="458305896" k="service" o="add" type="way" v="alley" />
+    <tag id="458305897" k="access" o="add" type="way" v="private" />
+    <tag id="458305897" k="highway" o="add" type="way" v="service" />
+    <tag id="458305897" k="service" o="add" type="way" v="alley" />
+    <tag id="458305898" k="access" o="add" type="way" v="private" />
+    <tag id="458305898" k="highway" o="add" type="way" v="service" />
+    <tag id="458305898" k="service" o="add" type="way" v="alley" />
+    <tag id="458305899" k="access" o="add" type="way" v="private" />
+    <tag id="458305899" k="highway" o="add" type="way" v="service" />
+    <tag id="458305899" k="service" o="add" type="way" v="alley" />
+    <tag id="458305900" k="access" o="add" type="way" v="private" />
+    <tag id="458305900" k="highway" o="add" type="way" v="service" />
+    <tag id="458305900" k="service" o="add" type="way" v="alley" />
+    <tag id="458305901" k="access" o="add" type="way" v="private" />
+    <tag id="458305901" k="highway" o="add" type="way" v="service" />
+    <tag id="458305901" k="service" o="add" type="way" v="alley" />
+    <tag id="458305902" k="access" o="add" type="way" v="private" />
+    <tag id="458305902" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305903" k="access" o="add" type="way" v="private" />
+    <tag id="458305903" k="highway" o="add" type="way" v="service" />
+    <tag id="458305903" k="service" o="add" type="way" v="alley" />
+    <tag id="458305904" k="highway" o="add" type="way" v="track" />
+    <tag id="458305905" k="lit" o="add" type="way" v="yes" />
+    <tag id="458305905" k="name" o="add" type="way" v="R&#233;sidence des Marronniers" />
+    <tag id="458305905" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305905" k="highway" o="add" type="way" v="residential" />
+    <tag id="458305905" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="458305906" k="access" o="add" type="way" v="private" />
+    <tag id="458305906" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305907" k="building" o="add" type="way" v="yes" />
+    <tag id="458305908" k="building" o="add" type="way" v="yes" />
+    <tag id="458305909" k="building" o="add" type="way" v="yes" />
+    <tag id="458305910" k="access" o="add" type="way" v="private" />
+    <tag id="458305910" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305911" k="building" o="add" type="way" v="yes" />
+    <tag id="458305912" k="access" o="add" type="way" v="private" />
+    <tag id="458305912" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305913" k="access" o="add" type="way" v="customers" />
+    <tag id="458305913" k="amenity" o="add" type="way" v="parking" />
+    <tag id="458305913" k="parking" o="add" type="way" v="surface" />
+    <tag id="458305914" k="highway" o="add" type="way" v="footway" />
+    <tag id="458305915" k="highway" o="add" type="way" v="footway" />
+    <tag id="458305916" k="access" o="add" type="way" v="private" />
+    <tag id="458305916" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305917" k="access" o="add" type="way" v="private" />
+    <tag id="458305917" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305918" k="access" o="add" type="way" v="private" />
+    <tag id="458305918" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305919" k="access" o="add" type="way" v="private" />
+    <tag id="458305919" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305920" k="building" o="add" type="way" v="yes" />
+    <tag id="458305921" k="access" o="add" type="way" v="private" />
+    <tag id="458305921" k="highway" o="add" type="way" v="service" />
+    <tag id="458305921" k="service" o="add" type="way" v="alley" />
+    <tag id="458305922" k="note" o="add" type="way" v="GPS + relev&#233; terrain" />
+    <tag id="458305922" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305922" k="source" o="add" type="way" v="survey" />
+    <tag id="458305922" k="highway" o="add" type="way" v="residential" />
+    <tag id="458305922" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="458305923" k="access" o="add" type="way" v="private" />
+    <tag id="458305923" k="highway" o="add" type="way" v="service" />
+    <tag id="458305923" k="service" o="add" type="way" v="alley" />
+    <tag id="458305924" k="waterway" o="add" type="way" v="ditch" />
+    <tag id="458305925" k="access" o="add" type="way" v="private" />
+    <tag id="458305925" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305926" k="access" o="add" type="way" v="private" />
+    <tag id="458305926" k="highway" o="add" type="way" v="service" />
+    <tag id="458305926" k="service" o="add" type="way" v="alley" />
+    <tag id="458305927" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="458305928" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="458305929" k="building" o="add" type="way" v="yes" />
+    <tag id="458305930" k="building" o="add" type="way" v="yes" />
+    <tag id="458305931" k="access" o="add" type="way" v="private" />
+    <tag id="458305931" k="highway" o="add" type="way" v="service" />
+    <tag id="458305931" k="service" o="add" type="way" v="alley" />
+    <tag id="458305932" k="access" o="add" type="way" v="private" />
+    <tag id="458305932" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305933" k="access" o="add" type="way" v="private" />
+    <tag id="458305933" k="highway" o="add" type="way" v="service" />
+    <tag id="458305933" k="service" o="add" type="way" v="alley" />
+    <tag id="458305934" k="access" o="add" type="way" v="private" />
+    <tag id="458305934" k="highway" o="add" type="way" v="service" />
+    <tag id="458305934" k="service" o="add" type="way" v="alley" />
+    <tag id="458305935" k="access" o="add" type="way" v="private" />
+    <tag id="458305935" k="highway" o="add" type="way" v="service" />
+    <tag id="458305935" k="service" o="add" type="way" v="alley" />
+    <tag id="458305936" k="access" o="add" type="way" v="private" />
+    <tag id="458305936" k="highway" o="add" type="way" v="service" />
+    <tag id="458305936" k="service" o="add" type="way" v="alley" />
+    <tag id="458305938" k="access" o="add" type="way" v="private" />
+    <tag id="458305938" k="highway" o="add" type="way" v="service" />
+    <tag id="458305938" k="service" o="add" type="way" v="alley" />
+    <tag id="458305939" k="access" o="add" type="way" v="private" />
+    <tag id="458305939" k="highway" o="add" type="way" v="service" />
+    <tag id="458305939" k="service" o="add" type="way" v="alley" />
+    <tag id="458305940" k="highway" o="add" type="way" v="service" />
+    <tag id="458305940" k="service" o="add" type="way" v="alley" />
+    <tag id="458305941" k="access" o="add" type="way" v="private" />
+    <tag id="458305941" k="highway" o="add" type="way" v="service" />
+    <tag id="458305941" k="service" o="add" type="way" v="alley" />
+    <tag id="458305942" k="access" o="add" type="way" v="private" />
+    <tag id="458305942" k="highway" o="add" type="way" v="service" />
+    <tag id="458305942" k="service" o="add" type="way" v="alley" />
+    <tag id="458305943" k="access" o="add" type="way" v="private" />
+    <tag id="458305943" k="highway" o="add" type="way" v="service" />
+    <tag id="458305943" k="service" o="add" type="way" v="alley" />
+    <tag id="458305944" k="access" o="add" type="way" v="private" />
+    <tag id="458305944" k="highway" o="add" type="way" v="service" />
+    <tag id="458305944" k="service" o="add" type="way" v="alley" />
+    <tag id="458305945" k="access" o="add" type="way" v="private" />
+    <tag id="458305945" k="highway" o="add" type="way" v="service" />
+    <tag id="458305945" k="service" o="add" type="way" v="alley" />
+    <tag id="458305946" k="access" o="add" type="way" v="private" />
+    <tag id="458305946" k="highway" o="add" type="way" v="service" />
+    <tag id="458305946" k="service" o="add" type="way" v="alley" />
+    <tag id="458305947" k="access" o="add" type="way" v="private" />
+    <tag id="458305947" k="highway" o="add" type="way" v="service" />
+    <tag id="458305947" k="service" o="add" type="way" v="alley" />
+    <tag id="458305948" k="access" o="add" type="way" v="private" />
+    <tag id="458305948" k="highway" o="add" type="way" v="service" />
+    <tag id="458305948" k="service" o="add" type="way" v="alley" />
+    <tag id="458305949" k="waterway" o="add" type="way" v="ditch" />
+    <tag id="458305950" k="waterway" o="add" type="way" v="ditch" />
+    <tag id="458305951" k="ref" o="add" type="way" v="D 109" />
+    <tag id="458305951" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305951" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="458305951" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="458305951" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="458305952" k="highway" o="add" type="way" v="service" />
+    <tag id="458305952" k="service" o="add" type="way" v="alley" />
+    <tag id="458305953" k="access" o="add" type="way" v="private" />
+    <tag id="458305953" k="highway" o="add" type="way" v="service" />
+    <tag id="458305953" k="service" o="add" type="way" v="alley" />
+    <tag id="458305954" k="access" o="add" type="way" v="private" />
+    <tag id="458305954" k="highway" o="add" type="way" v="service" />
+    <tag id="458305954" k="service" o="add" type="way" v="alley" />
+    <tag id="458305955" k="access" o="add" type="way" v="private" />
+    <tag id="458305955" k="highway" o="add" type="way" v="service" />
+    <tag id="458305955" k="service" o="add" type="way" v="alley" />
+    <tag id="458305956" k="access" o="add" type="way" v="private" />
+    <tag id="458305956" k="highway" o="add" type="way" v="service" />
+    <tag id="458305956" k="service" o="add" type="way" v="alley" />
+    <tag id="458305957" k="access" o="add" type="way" v="private" />
+    <tag id="458305957" k="highway" o="add" type="way" v="service" />
+    <tag id="458305957" k="service" o="add" type="way" v="alley" />
+    <tag id="458305958" k="landuse" o="add" type="way" v="forest" />
+    <tag id="458305959" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305959" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458305960" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305961" k="building:part" o="add" type="way" v="yes" />
+    <tag id="458305962" k="access" o="add" type="way" v="private" />
+    <tag id="458305962" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305963" k="building" o="add" type="way" v="residential" />
+    <tag id="458305964" k="building" o="add" type="way" v="residential" />
+    <tag id="458305965" k="access" o="add" type="way" v="private" />
+    <tag id="458305965" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305967" k="access" o="add" type="way" v="private" />
+    <tag id="458305967" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305970" k="access" o="add" type="way" v="private" />
+    <tag id="458305970" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="458305971" k="ref" o="add" type="way" v="D 939" />
+    <tag id="458305971" k="name" o="add" type="way" v="Grand'Rue" />
+    <tag id="458305971" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305971" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458305971" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="458305971" k="highway" o="add" type="way" v="primary" />
+    <tag id="458305971" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="458305971" k="turn:lanes" o="add" type="way" v="left|through" />
+    <tag id="458305972" k="name" o="add" type="way" v="Rue des Mouettes" />
+    <tag id="458305972" k="lanes" o="add" type="way" v="1" />
+    <tag id="458305972" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458305972" k="highway" o="add" type="way" v="residential" />
+    <tag id="458305972" k="service" o="add" type="way" v="alley" />
+    <tag id="458305972" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="458305973" k="highway" o="add" type="way" v="track" />
+    <tag id="458305974" k="access" o="add" type="way" v="private" />
+    <tag id="458305974" k="highway" o="add" type="way" v="track" />
+    <tag id="458305975" k="access" o="add" type="way" v="private" />
+    <tag id="458305975" k="highway" o="add" type="way" v="track" />
+    <tag id="458305976" k="access" o="add" type="way" v="private" />
+    <tag id="458305976" k="highway" o="add" type="way" v="service" />
+    <tag id="458305976" k="service" o="add" type="way" v="alley" />
+    <tag id="458305977" k="highway" o="add" type="way" v="track" />
+    <tag id="458305978" k="ref" o="add" type="way" v="D 939" />
+    <tag id="458305978" k="name" o="add" type="way" v="Grand'Rue" />
+    <tag id="458305978" k="lanes" o="add" type="way" v="2" />
+    <tag id="458305978" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="458305978" k="highway" o="add" type="way" v="primary" />
+    <tag id="458305978" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="4075223" k="ref" o="none" type="relation" v="19" />
+    <tag id="4075223" k="name" o="none" type="relation" v="19" />
+    <tag id="4075223" k="type" o="none" type="relation" v="route" />
+    <tag id="4075223" k="route" o="none" type="relation" v="bus" />
+    <tag id="4075223" k="network" o="none" type="relation" v="Y&#233;lo" />
+    <tag id="4075223" k="operator" o="none" type="relation" v="RTCR" />
+    <tag id="4682289" k="name" o="none" type="relation" v="Grand'Rue" />
+    <tag id="4682289" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="4682289" k="ref:FR:FANTOIR" o="none" type="relation" v="174200112R" />
+    <tag id="6775260" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775260" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6775261" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775261" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6775262" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775262" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6775263" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775263" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6775264" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775264" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6775265" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775265" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6775266" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6775266" k="restriction" o="add" type="relation" v="no_left_turn" />
+  </body>
+</changeset>

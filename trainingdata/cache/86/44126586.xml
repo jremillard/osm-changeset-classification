@@ -1,0 +1,1556 @@
+<changeset id="44126586" schema="2">
+  <counts nodesAdded="8" nodesDeleted="55" nodesModified="12" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="7" waysDeleted="11" waysModified="365" />
+  <meta>
+    <tag k="comment" v="fixing various validation errors" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="Bing" />
+  </meta>
+  <body>
+    <tag id="224488027" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1195954922" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="1318534235" k="name" o="none" type="node" v="Telfair Central Pool" />
+    <tag id="1318534235" k="leisure" o="add" type="node" v="swimming_pool" />
+    <tag id="1616913429" k="name" o="none" type="node" v="Club Sienna Swimming Pool" />
+    <tag id="1616913429" k="leisure" o="add" type="node" v="swimming_pool" />
+    <tag id="2169567912" k="highway" o="modify" type="node" v="turning_loop" />
+    <tag id="2169568083" k="highway" o="modify" type="node" v="turning_loop" />
+    <tag id="2896436015" k="entrance" o="add" type="node" v="yes" />
+    <tag id="3519972883" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3645302888" k="name" o="add" type="node" v="West Airport Blvd Mainline Gantry" />
+    <tag id="3645302888" k="toll" o="add" type="node" v="transponder" />
+    <tag id="3645302888" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3645303298" k="name" o="add" type="node" v="West Airport Blvd Mainline Gantry" />
+    <tag id="3645303298" k="toll" o="add" type="node" v="transponder" />
+    <tag id="3645303298" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3646020284" k="name" o="none" type="node" v="US 90 ALT Mainline Gantry" />
+    <tag id="3646020284" k="toll" o="none" type="node" v="transponder" />
+    <tag id="3646020284" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3646020286" k="name" o="none" type="node" v="US.90 ALT Mainline Gantry" />
+    <tag id="3646020286" k="toll" o="none" type="node" v="transponder" />
+    <tag id="3646020286" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3646020286" k="motor_vehicle" o="none" type="node" v="yes" />
+    <tag id="15403186" k="name" o="none" type="way" v="Erin Drive" />
+    <tag id="15403186" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="15403186" k="highway" o="none" type="way" v="residential" />
+    <tag id="15403186" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="15403186" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="15403186" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="15403186" k="tiger:zip_left" o="none" type="way" v="77071" />
+    <tag id="15403186" k="tiger:name_base" o="none" type="way" v="Erin" />
+    <tag id="15403186" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="15403186" k="tiger:zip_right" o="none" type="way" v="77071" />
+    <tag id="15435065" k="name" o="none" type="way" v="Fondren Meadow Drive" />
+    <tag id="15435065" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="15435065" k="highway" o="none" type="way" v="residential" />
+    <tag id="15435065" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="15435065" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="15435065" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="15435065" k="tiger:zip_left" o="none" type="way" v="77071" />
+    <tag id="15435065" k="tiger:name_base" o="none" type="way" v="Fondren Meadow" />
+    <tag id="15435065" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="15435065" k="tiger:zip_right" o="none" type="way" v="77071" />
+    <tag id="20863956" k="noname" o="add" type="way" v="yes" />
+    <tag id="20863956" k="highway" o="none" type="way" v="residential" />
+    <tag id="20863956" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20863956" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20863956" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20863971" k="noname" o="add" type="way" v="yes" />
+    <tag id="20863971" k="highway" o="none" type="way" v="residential" />
+    <tag id="20863971" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20863971" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20863971" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20866766" k="foot" o="none" type="way" v="yes" />
+    <tag id="20866766" k="access" o="none" type="way" v="designated" />
+    <tag id="20866766" k="oneway" o="none" type="way" v="no" />
+    <tag id="20866766" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="20866766" k="highway" o="none" type="way" v="service" />
+    <tag id="20866766" k="service" o="none" type="way" v="driveway" />
+    <tag id="20866766" k="surface" o="none" type="way" v="paved" />
+    <tag id="20866766" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20866766" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20866766" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20866777" k="foot" o="none" type="way" v="yes" />
+    <tag id="20866777" k="oneway" o="none" type="way" v="no" />
+    <tag id="20866777" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="20866777" k="highway" o="none" type="way" v="service" />
+    <tag id="20866777" k="service" o="none" type="way" v="driveway" />
+    <tag id="20866777" k="surface" o="none" type="way" v="paved" />
+    <tag id="20866777" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20866777" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20866777" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20868517" k="foot" o="none" type="way" v="yes" />
+    <tag id="20868517" k="access" o="none" type="way" v="designated" />
+    <tag id="20868517" k="oneway" o="none" type="way" v="no" />
+    <tag id="20868517" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="20868517" k="highway" o="none" type="way" v="service" />
+    <tag id="20868517" k="surface" o="none" type="way" v="paved" />
+    <tag id="20868517" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20868517" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20868517" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20868531" k="foot" o="none" type="way" v="yes" />
+    <tag id="20868531" k="oneway" o="none" type="way" v="no" />
+    <tag id="20868531" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="20868531" k="highway" o="none" type="way" v="service" />
+    <tag id="20868531" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="20868531" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20868531" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20868531" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20870731" k="foot" o="none" type="way" v="yes" />
+    <tag id="20870731" k="oneway" o="none" type="way" v="no" />
+    <tag id="20870731" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="20870731" k="highway" o="none" type="way" v="service" />
+    <tag id="20870731" k="service" o="none" type="way" v="driveway" />
+    <tag id="20870731" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="20870731" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20870731" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20870731" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20875316" k="name" o="add" type="way" v="Glenn Lakes Lane" />
+    <tag id="20875316" k="oneway" o="none" type="way" v="yes" />
+    <tag id="20875316" k="highway" o="none" type="way" v="residential" />
+    <tag id="20875316" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20875316" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20875316" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20876762" k="noname" o="add" type="way" v="yes" />
+    <tag id="20876762" k="highway" o="none" type="way" v="residential" />
+    <tag id="20876762" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20876762" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20876762" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20882447" k="name" o="none" type="way" v="Knightsbridge Boulevard" />
+    <tag id="20882447" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20882447" k="highway" o="none" type="way" v="residential" />
+    <tag id="20882447" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="20882447" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20882447" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="20882447" k="tiger:name_base" o="none" type="way" v="Knightsbridge" />
+    <tag id="20882447" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="20882447" k="tiger:zip_right" o="add" type="way" v="77479" />
+    <tag id="20886131" k="name" o="none" type="way" v="Oyster Creek Place" />
+    <tag id="20886131" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20886131" k="highway" o="none" type="way" v="residential" />
+    <tag id="20886131" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20886131" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20886131" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20886131" k="tiger:name_base" o="none" type="way" v="Oyster Creek" />
+    <tag id="20886131" k="tiger:name_type" o="none" type="way" v="Pl" />
+    <tag id="20887123" k="name" o="none" type="way" v="Steep Bank Trace" />
+    <tag id="20887123" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20887123" k="highway" o="none" type="way" v="residential" />
+    <tag id="20887123" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20887123" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20887123" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20887123" k="tiger:name_base" o="none" type="way" v="Steep Bank" />
+    <tag id="20887123" k="tiger:name_type" o="none" type="way" v="Trce" />
+    <tag id="20890421" k="name" o="none" type="way" v="Glenn Lakes Drive" />
+    <tag id="20890421" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20890421" k="highway" o="none" type="way" v="residential" />
+    <tag id="20890421" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="20890421" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20890421" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20890421" k="tiger:name_base" o="none" type="way" v="Glenn Lakes" />
+    <tag id="20890421" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20892136" k="name" o="none" type="way" v="River Crossing" />
+    <tag id="20892136" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20892136" k="highway" o="none" type="way" v="residential" />
+    <tag id="20892136" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20892136" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20892136" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="20892136" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="20892136" k="tiger:name_base" o="none" type="way" v="River" />
+    <tag id="20892136" k="tiger:name_type" o="none" type="way" v="Xing" />
+    <tag id="20892136" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="20892568" k="name" o="none" type="way" v="Greatwood Parkway" />
+    <tag id="20892568" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20892568" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="20892568" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20892568" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20892568" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20892568" k="tiger:name_base" o="none" type="way" v="Greatwood" />
+    <tag id="20892568" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="20892619" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="20892619" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20892619" k="highway" o="none" type="way" v="secondary" />
+    <tag id="20892619" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20892619" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20892619" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20892619" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="20892619" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="20892619" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="20892619" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="20893923" k="name" o="none" type="way" v="Frenchman's Creek Drive" />
+    <tag id="20893923" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20893923" k="highway" o="none" type="way" v="residential" />
+    <tag id="20893923" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20893923" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20893923" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20893923" k="tiger:name_base" o="none" type="way" v="Peninsulas" />
+    <tag id="20893923" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20893923" k="tiger:name_base_1" o="none" type="way" v="Frenchman's Creek" />
+    <tag id="20893923" k="tiger:name_type_1" o="none" type="way" v="Dr" />
+    <tag id="20895180" k="name" o="none" type="way" v="Cameray Pass" />
+    <tag id="20895180" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20895180" k="highway" o="none" type="way" v="residential" />
+    <tag id="20895180" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20895180" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20895180" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20895180" k="tiger:name_base" o="none" type="way" v="Cameray" />
+    <tag id="20895180" k="tiger:name_type" o="none" type="way" v="Pass" />
+    <tag id="20895406" k="name" o="none" type="way" v="South Post Oak Road" />
+    <tag id="20895406" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20895406" k="highway" o="none" type="way" v="secondary" />
+    <tag id="20895406" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20895406" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20895406" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20895406" k="tiger:zip_left" o="none" type="way" v="77053" />
+    <tag id="20895406" k="tiger:name_base" o="none" type="way" v="Post Oak" />
+    <tag id="20895406" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20895406" k="tiger:zip_right" o="none" type="way" v="77053" />
+    <tag id="20895406" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="20899528" k="name" o="none" type="way" v="Greatwood Lake Drive" />
+    <tag id="20899528" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20899528" k="highway" o="none" type="way" v="residential" />
+    <tag id="20899528" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20899528" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20899528" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20899528" k="tiger:name_base" o="none" type="way" v="Greatwood Lake" />
+    <tag id="20899528" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20903000" k="name" o="none" type="way" v="Winding Brook West Drive" />
+    <tag id="20903000" k="oneway" o="none" type="way" v="no" />
+    <tag id="20903000" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="20903000" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20903000" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20903000" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20903000" k="tiger:name_base" o="none" type="way" v="Winding Brook West" />
+    <tag id="20903000" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20903344" k="name" o="none" type="way" v="Warwick" />
+    <tag id="20903344" k="highway" o="none" type="way" v="residential" />
+    <tag id="20903344" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20903344" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20903344" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20903344" k="tiger:name_base" o="none" type="way" v="Warwick" />
+    <tag id="20903903" k="name" o="none" type="way" v="Arborview Drive" />
+    <tag id="20903903" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20903903" k="highway" o="none" type="way" v="residential" />
+    <tag id="20903903" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20903903" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20903903" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20903903" k="tiger:name_base" o="none" type="way" v="Arborview" />
+    <tag id="20903903" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20906282" k="name" o="none" type="way" v="Monarch Drive" />
+    <tag id="20906282" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20906282" k="highway" o="none" type="way" v="residential" />
+    <tag id="20906282" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20906282" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20906282" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20906282" k="tiger:name_base" o="none" type="way" v="Monarch" />
+    <tag id="20906282" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20907326" k="name" o="none" type="way" v="Kings Pass" />
+    <tag id="20907326" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20907326" k="highway" o="none" type="way" v="residential" />
+    <tag id="20907326" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20907326" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20907326" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="20907326" k="tiger:name_base" o="none" type="way" v="Kings" />
+    <tag id="20907326" k="tiger:name_type" o="none" type="way" v="Pass" />
+    <tag id="20908654" k="name" o="none" type="way" v="Carriage Drive" />
+    <tag id="20908654" k="highway" o="none" type="way" v="residential" />
+    <tag id="20908654" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20908654" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="20908654" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20908654" k="tiger:zip_left" o="none" type="way" v="77469" />
+    <tag id="20908654" k="tiger:name_base" o="none" type="way" v="Carriage" />
+    <tag id="20908654" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20908654" k="tiger:zip_right" o="none" type="way" v="77469" />
+    <tag id="20909257" k="name" o="none" type="way" v="Trinity Drive" />
+    <tag id="20909257" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="20909257" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="46849402" k="name" o="modify" type="way" v="Fisher Lake Drive" />
+    <tag id="46849402" k="highway" o="none" type="way" v="residential" />
+    <tag id="47229146" k="name" o="modify" type="way" v="Shire Green Lane" />
+    <tag id="47229146" k="highway" o="none" type="way" v="residential" />
+    <tag id="48730572" k="name" o="modify" type="way" v="Stonebury Court" />
+    <tag id="48730572" k="highway" o="none" type="way" v="residential" />
+    <tag id="98667085" k="foot" o="none" type="way" v="yes" />
+    <tag id="98667085" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="98667085" k="highway" o="none" type="way" v="service" />
+    <tag id="98667085" k="service" o="none" type="way" v="driveway" />
+    <tag id="98667085" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="98667085" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="98667085" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="98667085" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="99899128" k="power" o="modify" type="way" v="substation" />
+    <tag id="99899128" k="barrier" o="none" type="way" v="fence" />
+    <tag id="105553393" k="name" o="none" type="way" v="Peninsulas Drive" />
+    <tag id="105553393" k="name_1" o="none" type="way" v="Frenchman's Creek Drive" />
+    <tag id="105553393" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="105553393" k="highway" o="none" type="way" v="residential" />
+    <tag id="105553393" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="105553393" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="105553393" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="105553393" k="tiger:name_base" o="none" type="way" v="Peninsulas" />
+    <tag id="105553393" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="105553393" k="tiger:name_base_1" o="none" type="way" v="Frenchman's Creek" />
+    <tag id="105553393" k="tiger:name_type_1" o="none" type="way" v="Dr" />
+    <tag id="107394328" k="name" o="none" type="way" v="Pheasant Creek Drive" />
+    <tag id="107394328" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="107394328" k="highway" o="none" type="way" v="residential" />
+    <tag id="107394328" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="107394328" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="107394328" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="107394328" k="tiger:name_base" o="none" type="way" v="Pheasant Creek" />
+    <tag id="107394328" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="107641187" k="amenity" o="none" type="way" v="parking" />
+    <tag id="107641189" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="107641189" k="highway" o="none" type="way" v="service" />
+    <tag id="148619103" k="name" o="none" type="way" v="Sanctuary Trail" />
+    <tag id="148619103" k="access" o="none" type="way" v="private" />
+    <tag id="148619103" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="148619103" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541426" k="name" o="modify" type="way" v="Roller Mill Lane" />
+    <tag id="156541426" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541426" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541433" k="name" o="modify" type="way" v="Ashland Bridge Lane" />
+    <tag id="156541433" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541433" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541510" k="name" o="modify" type="way" v="Sugarhollow Drive" />
+    <tag id="156541510" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541510" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541536" k="name" o="modify" type="way" v="Wooddale Bridge Court" />
+    <tag id="156541536" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541536" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541622" k="name" o="modify" type="way" v="Black Falls Court" />
+    <tag id="156541622" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541622" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541639" k="name" o="modify" type="way" v="Sugarhollow Court" />
+    <tag id="156541639" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541639" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541670" k="name" o="modify" type="way" v="Coldwater Bridge Court" />
+    <tag id="156541670" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541670" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541677" k="name" o="modify" type="way" v="Centennial Bridge Court" />
+    <tag id="156541677" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541677" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541686" k="name" o="modify" type="way" v="Newport Bridge Court" />
+    <tag id="156541686" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541686" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541709" k="name" o="modify" type="way" v="Wildcat Bridge Lane" />
+    <tag id="156541709" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541709" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541716" k="name" o="modify" type="way" v="Grant Mills Lane" />
+    <tag id="156541716" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541716" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541746" k="name" o="modify" type="way" v="Little Gap Court" />
+    <tag id="156541746" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541746" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541820" k="name" o="modify" type="way" v="Pinetown Bridge Lane" />
+    <tag id="156541820" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541820" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541825" k="name" o="modify" type="way" v="Beech Fork Lane" />
+    <tag id="156541825" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541825" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541829" k="name" o="modify" type="way" v="Rock Mill Lane" />
+    <tag id="156541829" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541829" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541833" k="name" o="modify" type="way" v="Gates Farm Lane" />
+    <tag id="156541833" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541833" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541837" k="name" o="modify" type="way" v="Newfield Bridge Lane" />
+    <tag id="156541837" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541837" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541849" k="name" o="modify" type="way" v="Sugar Mist Lane" />
+    <tag id="156541849" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541849" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541852" k="name" o="modify" type="way" v="Gold Brook Lane" />
+    <tag id="156541852" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541852" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541859" k="name" o="modify" type="way" v="Oldtown Bridge Court" />
+    <tag id="156541859" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541859" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156541873" k="name" o="modify" type="way" v="Newport Bridge Circle" />
+    <tag id="156541873" k="highway" o="none" type="way" v="residential" />
+    <tag id="156541873" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="156964702" k="name" o="modify" type="way" v="Winter Sky Lane" />
+    <tag id="156964702" k="highway" o="none" type="way" v="residential" />
+    <tag id="156964769" k="name" o="modify" type="way" v="Emerald Run Lane" />
+    <tag id="156964769" k="highway" o="none" type="way" v="residential" />
+    <tag id="162451735" k="name" o="modify" type="way" v="Lavender Field Drive" />
+    <tag id="162451735" k="access" o="none" type="way" v="yes" />
+    <tag id="162451735" k="oneway" o="none" type="way" v="no" />
+    <tag id="162451735" k="highway" o="none" type="way" v="residential" />
+    <tag id="162451735" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="162452293" k="name" o="modify" type="way" v="Morningstar Drive" />
+    <tag id="162452293" k="access" o="none" type="way" v="yes" />
+    <tag id="162452293" k="oneway" o="none" type="way" v="no" />
+    <tag id="162452293" k="highway" o="none" type="way" v="residential" />
+    <tag id="162452293" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="162456992" k="name" o="modify" type="way" v="Stoneleigh Drive" />
+    <tag id="162456992" k="oneway" o="none" type="way" v="no" />
+    <tag id="162456992" k="highway" o="none" type="way" v="residential" />
+    <tag id="162456993" k="name" o="modify" type="way" v="Rockwall Court" />
+    <tag id="162456993" k="oneway" o="none" type="way" v="no" />
+    <tag id="162456993" k="highway" o="none" type="way" v="residential" />
+    <tag id="162456994" k="name" o="modify" type="way" v="Carriage Point Drive" />
+    <tag id="162456994" k="highway" o="none" type="way" v="residential" />
+    <tag id="162457378" k="name" o="modify" type="way" v="Shadow Leaf Drive" />
+    <tag id="162457378" k="oneway" o="none" type="way" v="no" />
+    <tag id="162457378" k="highway" o="none" type="way" v="residential" />
+    <tag id="162458082" k="name" o="modify" type="way" v="Stoneleigh Court" />
+    <tag id="162458082" k="oneway" o="none" type="way" v="no" />
+    <tag id="162458082" k="highway" o="none" type="way" v="residential" />
+    <tag id="162458365" k="name" o="modify" type="way" v="Lavender Field Drive" />
+    <tag id="162458365" k="access" o="none" type="way" v="yes" />
+    <tag id="162458365" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162458365" k="highway" o="none" type="way" v="residential" />
+    <tag id="162458365" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="162458366" k="name" o="modify" type="way" v="Lavender Field Drive" />
+    <tag id="162458366" k="access" o="none" type="way" v="yes" />
+    <tag id="162458366" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162458366" k="highway" o="none" type="way" v="residential" />
+    <tag id="162458366" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="162458487" k="name" o="modify" type="way" v="Lavender Field Court" />
+    <tag id="162458487" k="oneway" o="none" type="way" v="no" />
+    <tag id="162458487" k="highway" o="none" type="way" v="residential" />
+    <tag id="162458927" k="name" o="modify" type="way" v="Shadow Lake Drive" />
+    <tag id="162458927" k="oneway" o="none" type="way" v="no" />
+    <tag id="162458927" k="highway" o="none" type="way" v="residential" />
+    <tag id="162459163" k="name" o="modify" type="way" v="Four Leaf Drive" />
+    <tag id="162459163" k="oneway" o="none" type="way" v="no" />
+    <tag id="162459163" k="highway" o="none" type="way" v="residential" />
+    <tag id="162459569" k="name" o="modify" type="way" v="Rippling Water Drive" />
+    <tag id="162459569" k="oneway" o="none" type="way" v="no" />
+    <tag id="162459569" k="highway" o="none" type="way" v="residential" />
+    <tag id="162459759" k="name" o="modify" type="way" v="Quiet Pond Drive" />
+    <tag id="162459759" k="oneway" o="none" type="way" v="no" />
+    <tag id="162459759" k="highway" o="none" type="way" v="residential" />
+    <tag id="162460219" k="name" o="modify" type="way" v="Summer Ash Lane" />
+    <tag id="162460219" k="oneway" o="none" type="way" v="no" />
+    <tag id="162460219" k="highway" o="none" type="way" v="residential" />
+    <tag id="162460578" k="name" o="modify" type="way" v="Pepper Hill Lane" />
+    <tag id="162460578" k="oneway" o="none" type="way" v="no" />
+    <tag id="162460578" k="highway" o="none" type="way" v="residential" />
+    <tag id="162460945" k="name" o="modify" type="way" v="Silent Willow Lane" />
+    <tag id="162460945" k="oneway" o="none" type="way" v="no" />
+    <tag id="162460945" k="highway" o="none" type="way" v="residential" />
+    <tag id="162463082" k="name" o="modify" type="way" v="Cross Spring Drive" />
+    <tag id="162463082" k="oneway" o="none" type="way" v="no" />
+    <tag id="162463082" k="highway" o="none" type="way" v="residential" />
+    <tag id="162464261" k="name" o="modify" type="way" v="Rock Spring Court" />
+    <tag id="162464261" k="highway" o="none" type="way" v="residential" />
+    <tag id="162464262" k="name" o="modify" type="way" v="Rock Spring Court" />
+    <tag id="162464262" k="oneway" o="none" type="way" v="no" />
+    <tag id="162464262" k="highway" o="none" type="way" v="residential" />
+    <tag id="162467798" k="name" o="modify" type="way" v="Silent Willow Lane" />
+    <tag id="162467798" k="highway" o="none" type="way" v="residential" />
+    <tag id="162469122" k="name" o="modify" type="way" v="Haven Glen Drive" />
+    <tag id="162469122" k="oneway" o="none" type="way" v="no" />
+    <tag id="162469122" k="highway" o="none" type="way" v="residential" />
+    <tag id="162470024" k="name" o="modify" type="way" v="Greenhaven Drive" />
+    <tag id="162470024" k="oneway" o="none" type="way" v="no" />
+    <tag id="162470024" k="highway" o="none" type="way" v="residential" />
+    <tag id="162470532" k="name" o="modify" type="way" v="Forest Rain Drive" />
+    <tag id="162470532" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162470532" k="highway" o="none" type="way" v="residential" />
+    <tag id="162470533" k="name" o="modify" type="way" v="Forest Rain Drive" />
+    <tag id="162470533" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162470533" k="highway" o="none" type="way" v="residential" />
+    <tag id="162470748" k="name" o="modify" type="way" v="Emerald Haven Drive" />
+    <tag id="162470748" k="oneway" o="none" type="way" v="no" />
+    <tag id="162470748" k="highway" o="none" type="way" v="residential" />
+    <tag id="162470917" k="name" o="add" type="way" v="Emerald Haven Drive" />
+    <tag id="162470917" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471128" k="name" o="modify" type="way" v="Woodcrest Court" />
+    <tag id="162471128" k="oneway" o="none" type="way" v="no" />
+    <tag id="162471128" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471200" k="name" o="add" type="way" v="Woodcrest Court" />
+    <tag id="162471200" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471617" k="name" o="modify" type="way" v="Legend Woods Court" />
+    <tag id="162471617" k="oneway" o="none" type="way" v="no" />
+    <tag id="162471617" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471618" k="name" o="add" type="way" v="Legend Woods Court" />
+    <tag id="162471618" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471619" k="name" o="modify" type="way" v="Forest Haven Drive" />
+    <tag id="162471619" k="oneway" o="none" type="way" v="no" />
+    <tag id="162471619" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471620" k="name" o="modify" type="way" v="Haven Manor Court" />
+    <tag id="162471620" k="oneway" o="none" type="way" v="no" />
+    <tag id="162471620" k="highway" o="none" type="way" v="residential" />
+    <tag id="162471702" k="name" o="add" type="way" v="Haven Manor Court" />
+    <tag id="162471702" k="highway" o="none" type="way" v="residential" />
+    <tag id="162475075" k="name" o="modify" type="way" v="Winding Heights Boulevard" />
+    <tag id="162475075" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162475075" k="highway" o="none" type="way" v="residential" />
+    <tag id="162475076" k="name" o="modify" type="way" v="Winding Heights Boulevard" />
+    <tag id="162475076" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162475076" k="highway" o="none" type="way" v="residential" />
+    <tag id="162476249" k="name" o="modify" type="way" v="Upland Park Drive" />
+    <tag id="162476249" k="oneway" o="none" type="way" v="no" />
+    <tag id="162476249" k="highway" o="none" type="way" v="residential" />
+    <tag id="162476888" k="name" o="modify" type="way" v="Hollow Oak Court" />
+    <tag id="162476888" k="oneway" o="none" type="way" v="no" />
+    <tag id="162476888" k="highway" o="none" type="way" v="residential" />
+    <tag id="162476890" k="name" o="add" type="way" v="Hollow Oak Court" />
+    <tag id="162476890" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162476890" k="highway" o="none" type="way" v="residential" />
+    <tag id="162477216" k="name" o="modify" type="way" v="Wood Spring Boulevard" />
+    <tag id="162477216" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162477216" k="highway" o="none" type="way" v="residential" />
+    <tag id="162477217" k="name" o="modify" type="way" v="Spring Bluebonnet Drive" />
+    <tag id="162477217" k="oneway" o="none" type="way" v="no" />
+    <tag id="162477217" k="highway" o="none" type="way" v="residential" />
+    <tag id="162477218" k="name" o="modify" type="way" v="Wood Spring Boulevard" />
+    <tag id="162477218" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162477218" k="highway" o="none" type="way" v="residential" />
+    <tag id="162477984" k="name" o="modify" type="way" v="Buffalo Springs Court" />
+    <tag id="162477984" k="oneway" o="none" type="way" v="no" />
+    <tag id="162477984" k="highway" o="none" type="way" v="residential" />
+    <tag id="162477985" k="name" o="add" type="way" v="Buffalo Springs Court" />
+    <tag id="162477985" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162477985" k="highway" o="none" type="way" v="residential" />
+    <tag id="162477986" k="name" o="add" type="way" v="Spring Bluebonnet Drive" />
+    <tag id="162477986" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162477986" k="highway" o="none" type="way" v="residential" />
+    <tag id="162478197" k="name" o="modify" type="way" v="Moss Stone Drive" />
+    <tag id="162478197" k="oneway" o="none" type="way" v="no" />
+    <tag id="162478197" k="highway" o="none" type="way" v="residential" />
+    <tag id="162478865" k="name" o="modify" type="way" v="Summer Wind Drive" />
+    <tag id="162478865" k="oneway" o="none" type="way" v="no" />
+    <tag id="162478865" k="highway" o="none" type="way" v="residential" />
+    <tag id="162479428" k="name" o="modify" type="way" v="Highland Bluff Drive" />
+    <tag id="162479428" k="oneway" o="none" type="way" v="no" />
+    <tag id="162479428" k="highway" o="none" type="way" v="residential" />
+    <tag id="162480228" k="name" o="modify" type="way" v="Summer Wind Court" />
+    <tag id="162480228" k="oneway" o="none" type="way" v="no" />
+    <tag id="162480228" k="highway" o="none" type="way" v="residential" />
+    <tag id="162480891" k="name" o="modify" type="way" v="Highland Green Drive" />
+    <tag id="162480891" k="oneway" o="none" type="way" v="no" />
+    <tag id="162480891" k="highway" o="none" type="way" v="residential" />
+    <tag id="162480897" k="name" o="add" type="way" v="Summer Wind Court" />
+    <tag id="162480897" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162480897" k="highway" o="none" type="way" v="residential" />
+    <tag id="162481232" k="name" o="add" type="way" v="Highland Green Drive" />
+    <tag id="162481232" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162481232" k="highway" o="none" type="way" v="residential" />
+    <tag id="162484025" k="name" o="modify" type="way" v="Starlite Field Drive" />
+    <tag id="162484025" k="oneway" o="none" type="way" v="no" />
+    <tag id="162484025" k="highway" o="none" type="way" v="residential" />
+    <tag id="162485389" k="name" o="modify" type="way" v="Firefly Lane" />
+    <tag id="162485389" k="oneway" o="none" type="way" v="no" />
+    <tag id="162485389" k="highway" o="none" type="way" v="residential" />
+    <tag id="162486168" k="name" o="modify" type="way" v="Upland Shadows Drive" />
+    <tag id="162486168" k="oneway" o="none" type="way" v="no" />
+    <tag id="162486168" k="highway" o="none" type="way" v="residential" />
+    <tag id="162487602" k="name" o="modify" type="way" v="Highland Ridge Court" />
+    <tag id="162487602" k="oneway" o="none" type="way" v="no" />
+    <tag id="162487602" k="highway" o="none" type="way" v="residential" />
+    <tag id="162489447" k="name" o="modify" type="way" v="Highland Forest Drive" />
+    <tag id="162489447" k="oneway" o="none" type="way" v="no" />
+    <tag id="162489447" k="highway" o="none" type="way" v="residential" />
+    <tag id="162490342" k="name" o="add" type="way" v="Highland Forest Drive" />
+    <tag id="162490342" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162490342" k="highway" o="none" type="way" v="residential" />
+    <tag id="162497083" k="name" o="add" type="way" v="Rockwall Court" />
+    <tag id="162497083" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162497083" k="highway" o="none" type="way" v="residential" />
+    <tag id="162497093" k="highway" o="add" type="way" v="service" />
+    <tag id="162497094" k="highway" o="add" type="way" v="service" />
+    <tag id="162497114" k="name" o="add" type="way" v="Upland Park Drive" />
+    <tag id="162497114" k="oneway" o="none" type="way" v="yes" />
+    <tag id="162497114" k="highway" o="none" type="way" v="residential" />
+    <tag id="163710289" k="foot" o="none" type="way" v="yes" />
+    <tag id="163710289" k="layer" o="none" type="way" v="1" />
+    <tag id="163710289" k="bridge" o="none" type="way" v="yes" />
+    <tag id="163710289" k="highway" o="none" type="way" v="footway" />
+    <tag id="186259170" k="name" o="none" type="way" v="Greatwood Lake Drive" />
+    <tag id="186259170" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="186259170" k="highway" o="none" type="way" v="residential" />
+    <tag id="187266825" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="187266825" k="highway" o="none" type="way" v="tertiary_link" />
+    <tag id="187266860" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="187266860" k="highway" o="none" type="way" v="service" />
+    <tag id="188694828" k="name" o="modify" type="way" v="Oak Cliff Lane" />
+    <tag id="188694828" k="source" o="none" type="way" v="Bing" />
+    <tag id="188694828" k="highway" o="none" type="way" v="residential" />
+    <tag id="197174920" k="name" o="modify" type="way" v="Egret Chase Court" />
+    <tag id="197174920" k="highway" o="none" type="way" v="residential" />
+    <tag id="198975179" k="foot" o="none" type="way" v="yes" />
+    <tag id="198975179" k="name" o="none" type="way" v="Allcrest Street" />
+    <tag id="198975179" k="lanes" o="none" type="way" v="2" />
+    <tag id="198975179" k="oneway" o="none" type="way" v="no" />
+    <tag id="198975179" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="198975179" k="highway" o="none" type="way" v="residential" />
+    <tag id="198975179" k="surface" o="none" type="way" v="concrete" />
+    <tag id="198975179" k="cycleway" o="none" type="way" v="no" />
+    <tag id="198975179" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="198975183" k="foot" o="none" type="way" v="yes" />
+    <tag id="198975183" k="name" o="none" type="way" v="Lesser Creek Drive" />
+    <tag id="198975183" k="lanes" o="none" type="way" v="2" />
+    <tag id="198975183" k="oneway" o="none" type="way" v="no" />
+    <tag id="198975183" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="198975183" k="highway" o="none" type="way" v="residential" />
+    <tag id="198975183" k="surface" o="none" type="way" v="concrete" />
+    <tag id="198975183" k="cycleway" o="none" type="way" v="no" />
+    <tag id="198975183" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="198975184" k="foot" o="none" type="way" v="yes" />
+    <tag id="198975184" k="name" o="none" type="way" v="Maple Creek Drive" />
+    <tag id="198975184" k="lanes" o="none" type="way" v="2" />
+    <tag id="198975184" k="oneway" o="none" type="way" v="no" />
+    <tag id="198975184" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="198975184" k="highway" o="none" type="way" v="residential" />
+    <tag id="198975184" k="surface" o="none" type="way" v="concrete" />
+    <tag id="198975184" k="cycleway" o="none" type="way" v="no" />
+    <tag id="198975184" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="198975185" k="foot" o="none" type="way" v="yes" />
+    <tag id="198975185" k="name" o="none" type="way" v="Pioneer Oaks Drive" />
+    <tag id="198975185" k="lanes" o="none" type="way" v="2" />
+    <tag id="198975185" k="oneway" o="none" type="way" v="no" />
+    <tag id="198975185" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="198975185" k="highway" o="none" type="way" v="residential" />
+    <tag id="198975185" k="surface" o="none" type="way" v="concrete" />
+    <tag id="198975185" k="cycleway" o="none" type="way" v="no" />
+    <tag id="198975185" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="198975186" k="foot" o="none" type="way" v="yes" />
+    <tag id="198975186" k="name" o="none" type="way" v="Red Creek Court" />
+    <tag id="198975186" k="oneway" o="none" type="way" v="no" />
+    <tag id="198975186" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="198975186" k="highway" o="none" type="way" v="residential" />
+    <tag id="198975186" k="surface" o="none" type="way" v="concrete" />
+    <tag id="198975186" k="cycleway" o="none" type="way" v="no" />
+    <tag id="198975186" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="199072869" k="foot" o="none" type="way" v="yes" />
+    <tag id="199072869" k="name" o="none" type="way" v="Shadow Oaks Drive" />
+    <tag id="199072869" k="lanes" o="none" type="way" v="2" />
+    <tag id="199072869" k="oneway" o="none" type="way" v="no" />
+    <tag id="199072869" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="199072869" k="highway" o="none" type="way" v="residential" />
+    <tag id="199072869" k="surface" o="none" type="way" v="concrete" />
+    <tag id="199072869" k="cycleway" o="none" type="way" v="no" />
+    <tag id="199072869" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="199072871" k="foot" o="none" type="way" v="yes" />
+    <tag id="199072871" k="name" o="none" type="way" v="Harpers Creek Court" />
+    <tag id="199072871" k="lanes" o="none" type="way" v="2" />
+    <tag id="199072871" k="oneway" o="none" type="way" v="no" />
+    <tag id="199072871" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="199072871" k="highway" o="none" type="way" v="residential" />
+    <tag id="199072871" k="surface" o="none" type="way" v="concrete" />
+    <tag id="199072871" k="cycleway" o="none" type="way" v="no" />
+    <tag id="199072871" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="202211151" k="name" o="modify" type="way" v="Cabin Run Lane" />
+    <tag id="202211151" k="highway" o="none" type="way" v="residential" />
+    <tag id="202211151" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233083" k="name" o="modify" type="way" v="Black Falls Lane" />
+    <tag id="202233083" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233083" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233147" k="name" o="modify" type="way" v="Adams Mill Lane" />
+    <tag id="202233147" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233147" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233148" k="name" o="modify" type="way" v="Thomas Mill Lane" />
+    <tag id="202233148" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233148" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233150" k="name" o="modify" type="way" v="Logan Bridge Lane" />
+    <tag id="202233150" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233150" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233151" k="name" o="modify" type="way" v="Rockdale Bridge Lane" />
+    <tag id="202233151" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233151" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233152" k="name" o="modify" type="way" v="Rich Valley Lane" />
+    <tag id="202233152" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233152" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233153" k="name" o="modify" type="way" v="Rockdale Bridge Lane" />
+    <tag id="202233153" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233153" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202233154" k="name" o="modify" type="way" v="Elder Mill Lane" />
+    <tag id="202233154" k="highway" o="none" type="way" v="residential" />
+    <tag id="202233154" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="203138656" k="name" o="add" type="way" v="Monarch Drive" />
+    <tag id="203138656" k="oneway" o="none" type="way" v="yes" />
+    <tag id="203138656" k="highway" o="none" type="way" v="residential" />
+    <tag id="203147280" k="name" o="add" type="way" v="Elkins Road" />
+    <tag id="203147280" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="203147280" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="206783151" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="206783151" k="oneway" o="none" type="way" v="yes" />
+    <tag id="206783151" k="highway" o="none" type="way" v="secondary" />
+    <tag id="206887806" k="name" o="modify" type="way" v="Rita Elliott Court" />
+    <tag id="206887806" k="highway" o="none" type="way" v="residential" />
+    <tag id="206895526" k="name" o="modify" type="way" v="Oakland Lake Circle" />
+    <tag id="206895526" k="highway" o="none" type="way" v="residential" />
+    <tag id="206898102" k="name" o="modify" type="way" v="Tattershall Lane" />
+    <tag id="206898102" k="highway" o="none" type="way" v="residential" />
+    <tag id="208923796" k="name" o="modify" type="way" v="Lexington Manor Court" />
+    <tag id="208923796" k="highway" o="none" type="way" v="residential" />
+    <tag id="208923798" k="name" o="modify" type="way" v="Lexington Grove Court" />
+    <tag id="208923798" k="highway" o="none" type="way" v="residential" />
+    <tag id="208923804" k="name" o="none" type="way" v="Lexington Common" />
+    <tag id="208923804" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="208923804" k="highway" o="none" type="way" v="residential" />
+    <tag id="208923812" k="name" o="modify" type="way" v="Lexington Grove Drive" />
+    <tag id="208923812" k="highway" o="none" type="way" v="residential" />
+    <tag id="209289051" k="name" o="none" type="way" v="Lexington Boulevard" />
+    <tag id="209289051" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="209289051" k="highway" o="none" type="way" v="secondary" />
+    <tag id="209289051" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="209289051" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="209289051" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="209289051" k="tiger:zip_left" o="modify" type="way" v="77478" />
+    <tag id="209289051" k="tiger:name_base" o="none" type="way" v="Lexington" />
+    <tag id="209289051" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="209289051" k="tiger:zip_right" o="modify" type="way" v="77479" />
+    <tag id="209292901" k="name" o="none" type="way" v="Walgreens" />
+    <tag id="209292901" k="amenity" o="none" type="way" v="pharmacy" />
+    <tag id="209292901" k="building" o="none" type="way" v="yes" />
+    <tag id="209292903" k="name" o="none" type="way" v="H-E-B" />
+    <tag id="209292903" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="209292903" k="phone" o="none" type="way" v="(281) 239-2050" />
+    <tag id="209292903" k="building" o="none" type="way" v="yes" />
+    <tag id="209292903" k="addr:city" o="none" type="way" v="Sugar Land, TX" />
+    <tag id="209292903" k="addr:street" o="none" type="way" v="Southwest Freeway Frontage Road" />
+    <tag id="209292903" k="addr:postcode" o="none" type="way" v="77479" />
+    <tag id="209292903" k="addr:housenumber" o="none" type="way" v="19900" />
+    <tag id="209292907" k="name" o="none" type="way" v="Whataburger" />
+    <tag id="209292907" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="209292907" k="cuisine" o="none" type="way" v="burger" />
+    <tag id="209292907" k="building" o="none" type="way" v="yes" />
+    <tag id="209292907" k="addr:city" o="none" type="way" v="Sugar Land, TX" />
+    <tag id="209292907" k="addr:street" o="none" type="way" v="West Grand Parkway South" />
+    <tag id="209292907" k="addr:postcode" o="none" type="way" v="77479" />
+    <tag id="209292907" k="addr:housenumber" o="none" type="way" v="17480" />
+    <tag id="209292910" k="name" o="none" type="way" v="Chick-fil-A" />
+    <tag id="209292910" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="209292910" k="cuisine" o="none" type="way" v="chicken" />
+    <tag id="209292910" k="building" o="none" type="way" v="yes" />
+    <tag id="209292910" k="addr:city" o="none" type="way" v="Sugar Land" />
+    <tag id="209292910" k="addr:state" o="none" type="way" v="TX" />
+    <tag id="209292910" k="addr:street" o="none" type="way" v="Southwest Freeway" />
+    <tag id="209292910" k="addr:postcode" o="none" type="way" v="77479" />
+    <tag id="209292910" k="addr:housenumber" o="none" type="way" v="20010" />
+    <tag id="209292912" k="name" o="none" type="way" v="Bank of America" />
+    <tag id="209292912" k="amenity" o="none" type="way" v="bank" />
+    <tag id="209292912" k="building" o="none" type="way" v="yes" />
+    <tag id="209466476" k="name" o="modify" type="way" v="Gingerwood Crest Court" />
+    <tag id="209466476" k="highway" o="none" type="way" v="residential" />
+    <tag id="209601107" k="name" o="none" type="way" v="Sienna Springs Boulevard" />
+    <tag id="209601107" k="FIXME" o="modify" type="way" v="Boulevard or Drive? Follow Dr west" />
+    <tag id="209601107" k="highway" o="none" type="way" v="residential" />
+    <tag id="209601110" k="name" o="none" type="way" v="Sienna Springs Boulevard" />
+    <tag id="209601110" k="FIXME" o="modify" type="way" v="Boulevard or Drive? Follow Dr west" />
+    <tag id="209601110" k="oneway" o="none" type="way" v="yes" />
+    <tag id="209601110" k="highway" o="none" type="way" v="residential" />
+    <tag id="210596941" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="210596941" k="highway" o="none" type="way" v="proposed" />
+    <tag id="210596941" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="210596941" k="tiger:county" o="none" type="way" v="Brazoria, TX" />
+    <tag id="210596941" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="212920167" k="name" o="modify" type="way" v="Aliana Lakes Court" />
+    <tag id="212920167" k="highway" o="none" type="way" v="residential" />
+    <tag id="216513187" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="216513187" k="layer" o="none" type="way" v="1" />
+    <tag id="216513187" k="bridge" o="none" type="way" v="yes" />
+    <tag id="216513187" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="216513187" k="highway" o="none" type="way" v="secondary" />
+    <tag id="216513187" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="216513187" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="216513187" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="216513187" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="216513187" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="216513187" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="216513187" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="216513196" k="layer" o="none" type="way" v="-1" />
+    <tag id="216513196" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="216513196" k="waterway" o="none" type="way" v="stream" />
+    <tag id="216513196" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="216513196" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="216513196" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="216513200" k="waterway" o="none" type="way" v="stream" />
+    <tag id="216513200" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="216513200" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="216513200" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="216513201" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="216513201" k="layer" o="none" type="way" v="1" />
+    <tag id="216513201" k="bridge" o="none" type="way" v="yes" />
+    <tag id="216513201" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="216513201" k="highway" o="none" type="way" v="secondary" />
+    <tag id="216513201" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="216513201" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="216513201" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="216513201" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="216513201" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="216513201" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="216513201" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="216513203" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="216513203" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="216513203" k="highway" o="none" type="way" v="secondary" />
+    <tag id="216513203" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="216513203" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="216513203" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="216513203" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="216513203" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="216513203" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="216513203" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="217156204" k="name" o="none" type="way" v="Kennet Hill" />
+    <tag id="217156204" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="217156204" k="highway" o="none" type="way" v="residential" />
+    <tag id="217156206" k="name" o="none" type="way" v="Sanctuary Trail" />
+    <tag id="217156206" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="217156206" k="highway" o="none" type="way" v="residential" />
+    <tag id="217424756" k="name" o="modify" type="way" v="Ridgeworth Lane" />
+    <tag id="217424756" k="highway" o="none" type="way" v="residential" />
+    <tag id="217703491" k="sport" o="none" type="way" v="swimming" />
+    <tag id="217703491" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="217703784" k="name" o="none" type="way" v="South Gessner Drive" />
+    <tag id="217703784" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="217703784" k="highway" o="none" type="way" v="secondary" />
+    <tag id="217703784" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="217703784" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="217703784" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="217703784" k="tiger:zip_left" o="none" type="way" v="77071" />
+    <tag id="217703784" k="tiger:name_base" o="none" type="way" v="Gessner" />
+    <tag id="217703784" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="217703784" k="tiger:zip_right" o="none" type="way" v="77071" />
+    <tag id="217703784" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="217703785" k="name" o="none" type="way" v="South Gessner Drive" />
+    <tag id="217703785" k="layer" o="none" type="way" v="1" />
+    <tag id="217703785" k="bridge" o="none" type="way" v="yes" />
+    <tag id="217703785" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="217703785" k="highway" o="none" type="way" v="secondary" />
+    <tag id="217703785" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="217703785" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="217703785" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="217703785" k="tiger:zip_left" o="none" type="way" v="77071" />
+    <tag id="217703785" k="tiger:name_base" o="none" type="way" v="Gessner" />
+    <tag id="217703785" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="217703785" k="tiger:zip_right" o="none" type="way" v="77071" />
+    <tag id="217703785" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="220507952" k="barrier" o="add" type="way" v="fence" />
+    <tag id="220509242" k="name" o="none" type="way" v="Skate Park" />
+    <tag id="220509242" k="building" o="add" type="way" v="yes" />
+    <tag id="220512040" k="amenity" o="add" type="way" v="parking" />
+    <tag id="220522033" k="foot" o="none" type="way" v="no" />
+    <tag id="220522033" k="horse" o="none" type="way" v="no" />
+    <tag id="220522033" k="access" o="none" type="way" v="private" />
+    <tag id="220522033" k="oneway" o="none" type="way" v="no" />
+    <tag id="220522033" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220522033" k="highway" o="none" type="way" v="residential" />
+    <tag id="220522033" k="surface" o="none" type="way" v="paved" />
+    <tag id="220522033" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="220522035" k="foot" o="none" type="way" v="no" />
+    <tag id="220522035" k="horse" o="none" type="way" v="no" />
+    <tag id="220522035" k="access" o="none" type="way" v="private" />
+    <tag id="220522035" k="oneway" o="none" type="way" v="no" />
+    <tag id="220522035" k="bicycle" o="none" type="way" v="no" />
+    <tag id="220522035" k="highway" o="none" type="way" v="residential" />
+    <tag id="220522035" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="220522036" k="foot" o="none" type="way" v="no" />
+    <tag id="220522036" k="horse" o="none" type="way" v="no" />
+    <tag id="220522036" k="access" o="none" type="way" v="private" />
+    <tag id="220522036" k="oneway" o="none" type="way" v="no" />
+    <tag id="220522036" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220522036" k="highway" o="none" type="way" v="residential" />
+    <tag id="220522036" k="surface" o="none" type="way" v="paved" />
+    <tag id="220522036" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="220522037" k="foot" o="none" type="way" v="yes" />
+    <tag id="220522037" k="horse" o="none" type="way" v="no" />
+    <tag id="220522037" k="access" o="none" type="way" v="private" />
+    <tag id="220522037" k="oneway" o="none" type="way" v="no" />
+    <tag id="220522037" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220522037" k="highway" o="none" type="way" v="service" />
+    <tag id="220522037" k="service" o="none" type="way" v="driveway" />
+    <tag id="220522037" k="surface" o="none" type="way" v="paved" />
+    <tag id="220522133" k="foot" o="none" type="way" v="yes" />
+    <tag id="220522133" k="horse" o="none" type="way" v="no" />
+    <tag id="220522133" k="access" o="none" type="way" v="permissive" />
+    <tag id="220522133" k="oneway" o="none" type="way" v="yes" />
+    <tag id="220522133" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220522133" k="highway" o="none" type="way" v="service" />
+    <tag id="220522133" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="220522133" k="surface" o="none" type="way" v="paved" />
+    <tag id="220623118" k="foot" o="none" type="way" v="yes" />
+    <tag id="220623118" k="name" o="none" type="way" v="Stafford Centre Drive" />
+    <tag id="220623118" k="horse" o="none" type="way" v="no" />
+    <tag id="220623118" k="oneway" o="none" type="way" v="no" />
+    <tag id="220623118" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220623118" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="220623118" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="220623408" k="foot" o="none" type="way" v="yes" />
+    <tag id="220623408" k="oneway" o="none" type="way" v="no" />
+    <tag id="220623408" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220623408" k="highway" o="none" type="way" v="service" />
+    <tag id="220623408" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="220623518" k="foot" o="none" type="way" v="yes" />
+    <tag id="220623518" k="oneway" o="none" type="way" v="no" />
+    <tag id="220623518" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220623518" k="highway" o="none" type="way" v="service" />
+    <tag id="220623518" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="220623518" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="220623518" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="220623518" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="220625434" k="foot" o="none" type="way" v="yes" />
+    <tag id="220625434" k="oneway" o="none" type="way" v="no" />
+    <tag id="220625434" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220625434" k="highway" o="none" type="way" v="service" />
+    <tag id="220625434" k="surface" o="none" type="way" v="paved" />
+    <tag id="220625434" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="220625434" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="220625434" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="220626487" k="foot" o="none" type="way" v="yes" />
+    <tag id="220626487" k="oneway" o="none" type="way" v="no" />
+    <tag id="220626487" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220626487" k="highway" o="none" type="way" v="service" />
+    <tag id="220626487" k="surface" o="none" type="way" v="paved" />
+    <tag id="220626559" k="foot" o="none" type="way" v="yes" />
+    <tag id="220626559" k="oneway" o="none" type="way" v="no" />
+    <tag id="220626559" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220626559" k="highway" o="none" type="way" v="service" />
+    <tag id="220626559" k="service" o="none" type="way" v="driveway" />
+    <tag id="220626559" k="surface" o="none" type="way" v="paved" />
+    <tag id="220652046" k="foot" o="none" type="way" v="no" />
+    <tag id="220652046" k="access" o="none" type="way" v="permissive" />
+    <tag id="220652046" k="oneway" o="none" type="way" v="no" />
+    <tag id="220652046" k="bicycle" o="none" type="way" v="no" />
+    <tag id="220652046" k="highway" o="none" type="way" v="service" />
+    <tag id="220652046" k="service" o="none" type="way" v="drive-through" />
+    <tag id="220652046" k="surface" o="none" type="way" v="paved" />
+    <tag id="220652047" k="foot" o="none" type="way" v="no" />
+    <tag id="220652047" k="access" o="none" type="way" v="permissive" />
+    <tag id="220652047" k="oneway" o="none" type="way" v="no" />
+    <tag id="220652047" k="bicycle" o="none" type="way" v="no" />
+    <tag id="220652047" k="highway" o="none" type="way" v="service" />
+    <tag id="220652047" k="service" o="none" type="way" v="drive-through" />
+    <tag id="220652047" k="surface" o="none" type="way" v="paved" />
+    <tag id="220653907" k="name" o="none" type="way" v="City of Stafford City Hall" />
+    <tag id="220653907" k="phone" o="none" type="way" v="(281) 261-3900" />
+    <tag id="220653907" k="amenity" o="none" type="way" v="townhall" />
+    <tag id="220653907" k="website" o="none" type="way" v="http://www.cityofstafford.com" />
+    <tag id="220653907" k="addr:city" o="none" type="way" v="Stafford" />
+    <tag id="220653907" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="220653907" k="addr:street" o="none" type="way" v="South Main Street" />
+    <tag id="220653907" k="addr:postcode" o="none" type="way" v="77477" />
+    <tag id="220653907" k="addr:housenumber" o="none" type="way" v="2610" />
+    <tag id="220654357" k="foot" o="none" type="way" v="yes" />
+    <tag id="220654357" k="oneway" o="none" type="way" v="no" />
+    <tag id="220654357" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220654357" k="highway" o="none" type="way" v="residential" />
+    <tag id="220654357" k="surface" o="none" type="way" v="paved" />
+    <tag id="220654816" k="foot" o="none" type="way" v="yes" />
+    <tag id="220654816" k="oneway" o="none" type="way" v="yes" />
+    <tag id="220654816" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220654816" k="highway" o="none" type="way" v="residential" />
+    <tag id="220654816" k="surface" o="none" type="way" v="paved" />
+    <tag id="220768187" k="foot" o="none" type="way" v="yes" />
+    <tag id="220768187" k="access" o="none" type="way" v="designated" />
+    <tag id="220768187" k="oneway" o="none" type="way" v="no" />
+    <tag id="220768187" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="220768187" k="highway" o="none" type="way" v="service" />
+    <tag id="220768187" k="surface" o="none" type="way" v="paved" />
+    <tag id="228390548" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="228390548" k="oneway" o="none" type="way" v="yes" />
+    <tag id="228390548" k="highway" o="none" type="way" v="secondary" />
+    <tag id="228390550" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="228390550" k="oneway" o="none" type="way" v="yes" />
+    <tag id="228390550" k="highway" o="none" type="way" v="secondary" />
+    <tag id="228391899" k="name" o="modify" type="way" v="Cambry Landing Lane" />
+    <tag id="228391899" k="highway" o="none" type="way" v="residential" />
+    <tag id="229251796" k="name" o="modify" type="way" v="Murray Court" />
+    <tag id="229251796" k="highway" o="none" type="way" v="residential" />
+    <tag id="229617480" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="229617480" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="229617480" k="highway" o="none" type="way" v="secondary" />
+    <tag id="229617480" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="229617480" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="229617480" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="229617480" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="229617480" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="229617480" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="229617480" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="229909092" k="FIXME" o="modify" type="way" v="need names? Not in TIGER 2012" />
+    <tag id="229909092" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229909092" k="highway" o="none" type="way" v="residential" />
+    <tag id="229909097" k="name" o="none" type="way" v="Sienna Springs Boulevard" />
+    <tag id="229909097" k="FIXME" o="modify" type="way" v="Boulevard or Drive? Follow Dr west" />
+    <tag id="229909097" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229909097" k="highway" o="none" type="way" v="residential" />
+    <tag id="229909099" k="FIXME" o="modify" type="way" v="need names? Not in TIGER 2012" />
+    <tag id="229909099" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229909099" k="highway" o="none" type="way" v="residential" />
+    <tag id="229923798" k="name" o="none" type="way" v="Glenn Lakes Drive" />
+    <tag id="229923798" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="229923798" k="highway" o="none" type="way" v="residential" />
+    <tag id="229923798" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="229923798" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="229923798" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="229923798" k="tiger:name_base" o="none" type="way" v="Glenn Lakes" />
+    <tag id="229923798" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="230172040" k="name" o="modify" type="way" v="Elana Lane" />
+    <tag id="230172040" k="highway" o="none" type="way" v="residential" />
+    <tag id="230199088" k="name" o="none" type="way" v="Trinity Drive" />
+    <tag id="230199088" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="230199088" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="230353295" k="ref" o="none" type="way" v="FM 2234" />
+    <tag id="230353295" k="name" o="none" type="way" v="Texas Parkway" />
+    <tag id="230353295" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="230353295" k="highway" o="none" type="way" v="primary" />
+    <tag id="230353295" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="230353295" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="230353295" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="230353295" k="tiger:zip_left" o="none" type="way" v="77489" />
+    <tag id="230353295" k="tiger:name_base" o="none" type="way" v="Texas" />
+    <tag id="230353295" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="230353295" k="tiger:zip_right" o="none" type="way" v="77489" />
+    <tag id="230353295" k="tiger:name_base_1" o="none" type="way" v="Farm-to-Market Road 2234" />
+    <tag id="231905665" k="name" o="none" type="way" v="Fondren Meadow Drive" />
+    <tag id="231905665" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="231905665" k="highway" o="none" type="way" v="residential" />
+    <tag id="231905665" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="231905665" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="231905665" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="231905665" k="tiger:zip_left" o="none" type="way" v="77071" />
+    <tag id="231905665" k="tiger:name_base" o="none" type="way" v="Fondren Meadow" />
+    <tag id="231905665" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="231905665" k="tiger:zip_right" o="none" type="way" v="77071" />
+    <tag id="232475583" k="highway" o="none" type="way" v="footway" />
+    <tag id="232475583" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="232754719" k="noname" o="add" type="way" v="yes" />
+    <tag id="232754719" k="source" o="none" type="way" v="Bing" />
+    <tag id="232754719" k="highway" o="none" type="way" v="residential" />
+    <tag id="243873164" k="name" o="none" type="way" v="Glenn Lakes Lane" />
+    <tag id="243873164" k="layer" o="none" type="way" v="1" />
+    <tag id="243873164" k="bridge" o="none" type="way" v="yes" />
+    <tag id="243873164" k="highway" o="none" type="way" v="residential" />
+    <tag id="243873164" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="243873164" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="243873164" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="243873164" k="tiger:name_base" o="none" type="way" v="Glenn Lakes" />
+    <tag id="243873164" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="257298386" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="257298386" k="oneway" o="none" type="way" v="yes" />
+    <tag id="257298386" k="highway" o="none" type="way" v="secondary" />
+    <tag id="264552946" k="name" o="none" type="way" v="Whataburger" />
+    <tag id="264552946" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="264552946" k="cuisine" o="none" type="way" v="burger" />
+    <tag id="264552946" k="building" o="none" type="way" v="yes" />
+    <tag id="264552946" k="addr:city" o="none" type="way" v="Houston" />
+    <tag id="264552946" k="addr:street" o="none" type="way" v="South Sam Houston Parkway West" />
+    <tag id="264552946" k="addr:postcode" o="none" type="way" v="77085" />
+    <tag id="264552946" k="addr:housenumber" o="none" type="way" v="7418" />
+    <tag id="265483324" k="name" o="none" type="way" v="Whataburger" />
+    <tag id="265483324" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="265483324" k="cuisine" o="none" type="way" v="burger" />
+    <tag id="265483324" k="building" o="none" type="way" v="yes" />
+    <tag id="265483324" k="addr:city" o="none" type="way" v="Sugarland" />
+    <tag id="265483324" k="addr:street" o="none" type="way" v="TX 6" />
+    <tag id="265483324" k="addr:postcode" o="none" type="way" v="77478" />
+    <tag id="265483324" k="addr:housenumber" o="none" type="way" v="4530" />
+    <tag id="293299061" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="293299061" k="oneway" o="none" type="way" v="yes" />
+    <tag id="293299061" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="293299062" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="293299062" k="oneway" o="none" type="way" v="yes" />
+    <tag id="293299062" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="293308182" k="man_made" o="add" type="way" v="dyke" />
+    <tag id="297187156" k="name" o="none" type="way" v="Fondren Diversion Channel" />
+    <tag id="297187156" k="waterway" o="none" type="way" v="canal" />
+    <tag id="297541290" k="name" o="none" type="way" v="South Post Oak Road" />
+    <tag id="297541290" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="297541290" k="highway" o="none" type="way" v="secondary" />
+    <tag id="297541290" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="297541290" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="297541290" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="297541290" k="tiger:zip_left" o="none" type="way" v="77053" />
+    <tag id="297541290" k="tiger:name_base" o="none" type="way" v="Post Oak" />
+    <tag id="297541290" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="297541290" k="tiger:zip_right" o="none" type="way" v="77053" />
+    <tag id="297541290" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="308679505" k="name" o="none" type="way" v="H-E-B" />
+    <tag id="308679505" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="308679505" k="phone" o="none" type="way" v="(281) 778-1300" />
+    <tag id="308679505" k="building" o="none" type="way" v="yes" />
+    <tag id="308679505" k="addr:city" o="none" type="way" v="Missouri City, TX" />
+    <tag id="308679505" k="addr:street" o="none" type="way" v="TX 6" />
+    <tag id="308679505" k="addr:postcode" o="none" type="way" v="77459" />
+    <tag id="308679505" k="addr:housenumber" o="none" type="way" v="8900" />
+    <tag id="314352698" k="name" o="none" type="way" v="Kroger" />
+    <tag id="314352698" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="314352698" k="phone" o="none" type="way" v="(281) 340-1500" />
+    <tag id="314352698" k="building" o="none" type="way" v="yes" />
+    <tag id="314352698" k="addr:city" o="none" type="way" v="Sugar Land" />
+    <tag id="314352698" k="addr:state" o="none" type="way" v="Tx" />
+    <tag id="314352698" k="addr:street" o="none" type="way" v="TX 6" />
+    <tag id="314352698" k="addr:postcode" o="none" type="way" v="77498" />
+    <tag id="314352698" k="addr:housenumber" o="none" type="way" v="11565" />
+    <tag id="314359398" k="name" o="none" type="way" v="Kroger" />
+    <tag id="314359398" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="314359398" k="phone" o="none" type="way" v="(281) 494-6500" />
+    <tag id="314359398" k="building" o="none" type="way" v="yes" />
+    <tag id="314359398" k="addr:city" o="none" type="way" v="Sugar Land" />
+    <tag id="314359398" k="addr:state" o="none" type="way" v="Tx" />
+    <tag id="314359398" k="addr:street" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="314359398" k="addr:postcode" o="none" type="way" v="77479" />
+    <tag id="314359398" k="addr:housenumber" o="none" type="way" v="4825" />
+    <tag id="314654800" k="highway" o="add" type="way" v="footway" />
+    <tag id="314654800" k="leisure" o="none" type="way" v="playground" />
+    <tag id="317867973" k="name" o="none" type="way" v="Life Time Fitness Parking Aisle" />
+    <tag id="317867973" k="phone" o="none" type="way" v="281-340-3100" />
+    <tag id="317867973" k="highway" o="none" type="way" v="service" />
+    <tag id="317867973" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="317867973" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="317867973" k="website" o="none" type="way" v="https://www.lifetimefitness.com/en/clubs/sugar-land-tx/your-lt.html" />
+    <tag id="317867973" k="addr:city" o="none" type="way" v="Sugar Land" />
+    <tag id="317867973" k="addr:state" o="none" type="way" v="TX" />
+    <tag id="317867973" k="addr:street" o="none" type="way" v="Highway 6" />
+    <tag id="317867973" k="postal_code" o="add" type="way" v="77478" />
+    <tag id="317867973" k="addr:housenumber" o="none" type="way" v="1331" />
+    <tag id="319281095" k="name" o="none" type="way" v="Chimney Rock Road" />
+    <tag id="319281095" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="319281095" k="highway" o="none" type="way" v="secondary" />
+    <tag id="319281095" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="319281095" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="319281095" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="319281095" k="tiger:name_base" o="none" type="way" v="Teal Bend" />
+    <tag id="319281095" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="324921976" k="name" o="none" type="way" v="Chick-fil-A" />
+    <tag id="324921976" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="324921976" k="cuisine" o="none" type="way" v="chicken" />
+    <tag id="324921976" k="building" o="none" type="way" v="yes" />
+    <tag id="324921976" k="addr:city" o="none" type="way" v="Missouri City" />
+    <tag id="324921976" k="addr:state" o="none" type="way" v="TX" />
+    <tag id="324921976" k="addr:street" o="none" type="way" v="TX 6" />
+    <tag id="324921976" k="addr:postcode" o="none" type="way" v="77459" />
+    <tag id="324921976" k="addr:housenumber" o="none" type="way" v="6124" />
+    <tag id="328259154" k="name" o="none" type="way" v="Commonwealth Boulevard" />
+    <tag id="328259154" k="oneway" o="none" type="way" v="no" />
+    <tag id="328259154" k="highway" o="none" type="way" v="secondary" />
+    <tag id="328259154" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="328259154" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="328259154" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="328259154" k="tiger:name_base" o="none" type="way" v="Commonwealth" />
+    <tag id="328259154" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="335074735" k="name" o="modify" type="way" v="Pinetown Bridge Lane" />
+    <tag id="335074735" k="highway" o="none" type="way" v="residential" />
+    <tag id="335074735" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313921" k="name" o="modify" type="way" v="Ashland Bridge Lane" />
+    <tag id="347313921" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313921" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313923" k="name" o="modify" type="way" v="Ashland Bridge Lane" />
+    <tag id="347313923" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313923" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313924" k="name" o="modify" type="way" v="Black Falls Court" />
+    <tag id="347313924" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313924" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313933" k="name" o="modify" type="way" v="Cabin Run Lane" />
+    <tag id="347313933" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313933" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313935" k="name" o="modify" type="way" v="Centennial Bridge Court" />
+    <tag id="347313935" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313935" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313948" k="name" o="modify" type="way" v="Little Gap Court" />
+    <tag id="347313948" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313948" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313951" k="name" o="modify" type="way" v="Newfield Bridge Lane" />
+    <tag id="347313951" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313951" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313952" k="name" o="modify" type="way" v="Newfield Bridge Lane" />
+    <tag id="347313952" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313952" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313953" k="name" o="modify" type="way" v="Newport Bridge Court" />
+    <tag id="347313953" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313953" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313954" k="name" o="modify" type="way" v="Oldtown Bridge Court" />
+    <tag id="347313954" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313954" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313982" k="name" o="modify" type="way" v="Wildcat Bridge Lane" />
+    <tag id="347313982" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313982" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="347313984" k="name" o="modify" type="way" v="Wooddale Bridge Court" />
+    <tag id="347313984" k="highway" o="none" type="way" v="residential" />
+    <tag id="347313984" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="349678416" k="name" o="modify" type="way" v="Silver Sage Court" />
+    <tag id="349678416" k="highway" o="none" type="way" v="residential" />
+    <tag id="352856692" k="name" o="modify" type="way" v="Cross Spring Drive" />
+    <tag id="352856692" k="oneway" o="none" type="way" v="no" />
+    <tag id="352856692" k="highway" o="none" type="way" v="residential" />
+    <tag id="352856694" k="name" o="modify" type="way" v="Four Leaf Drive" />
+    <tag id="352856694" k="oneway" o="none" type="way" v="no" />
+    <tag id="352856694" k="highway" o="none" type="way" v="residential" />
+    <tag id="352856697" k="name" o="modify" type="way" v="Lavender Field Court" />
+    <tag id="352856697" k="oneway" o="none" type="way" v="no" />
+    <tag id="352856697" k="highway" o="none" type="way" v="residential" />
+    <tag id="352856698" k="name" o="modify" type="way" v="Rippling Water Drive" />
+    <tag id="352856698" k="oneway" o="none" type="way" v="no" />
+    <tag id="352856698" k="highway" o="none" type="way" v="residential" />
+    <tag id="352856705" k="name" o="modify" type="way" v="Stoneleigh Court" />
+    <tag id="352856705" k="oneway" o="none" type="way" v="no" />
+    <tag id="352856705" k="highway" o="none" type="way" v="residential" />
+    <tag id="357558739" k="foot" o="none" type="way" v="yes" />
+    <tag id="357558739" k="name" o="none" type="way" v="Cash Road" />
+    <tag id="357558739" k="oneway" o="none" type="way" v="no" />
+    <tag id="357558739" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="357558739" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="357558739" k="surface" o="none" type="way" v="paved" />
+    <tag id="357558739" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="357558739" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="357558739" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="357559159" k="foot" o="none" type="way" v="yes" />
+    <tag id="357559159" k="name" o="none" type="way" v="Cash Road" />
+    <tag id="357559159" k="oneway" o="none" type="way" v="no" />
+    <tag id="357559159" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="357559159" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="357559159" k="surface" o="none" type="way" v="concrete:plates" />
+    <tag id="357559159" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="357559159" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="357559159" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="359905541" k="name" o="none" type="way" v="Lanarkshire Crossing" />
+    <tag id="359905541" k="source" o="none" type="way" v="Bing" />
+    <tag id="359905541" k="highway" o="none" type="way" v="residential" />
+    <tag id="359905543" k="source" o="none" type="way" v="Bing" />
+    <tag id="359905543" k="highway" o="none" type="way" v="service" />
+    <tag id="363772733" k="noname" o="add" type="way" v="yes" />
+    <tag id="363772733" k="highway" o="none" type="way" v="residential" />
+    <tag id="366388711" k="highway" o="none" type="way" v="service" />
+    <tag id="373777363" k="highway" o="add" type="way" v="residential" />
+    <tag id="373777365" k="highway" o="add" type="way" v="residential" />
+    <tag id="377377950" k="highway" o="add" type="way" v="residential" />
+    <tag id="377377951" k="highway" o="add" type="way" v="residential" />
+    <tag id="377377952" k="highway" o="add" type="way" v="residential" />
+    <tag id="377384303" k="highway" o="add" type="way" v="residential" />
+    <tag id="392361008" k="name" o="none" type="way" v="Costco" />
+    <tag id="392361008" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="392361008" k="building" o="none" type="way" v="yes" />
+    <tag id="396297932" k="name" o="none" type="way" v="Mc Lain Boulevard" />
+    <tag id="396297932" k="layer" o="none" type="way" v="1" />
+    <tag id="396297932" k="bridge" o="none" type="way" v="yes" />
+    <tag id="396297932" k="oneway" o="none" type="way" v="yes" />
+    <tag id="396297932" k="highway" o="none" type="way" v="residential" />
+    <tag id="399715859" k="name" o="modify" type="way" v="Hillman Forest McNeill Elementary" />
+    <tag id="399715859" k="source" o="none" type="way" v="Bing" />
+    <tag id="399715859" k="amenity" o="none" type="way" v="school" />
+    <tag id="399715859" k="designation" o="none" type="way" v="Elementary" />
+    <tag id="401203435" k="ele" o="none" type="way" v="26" />
+    <tag id="401203435" k="name" o="none" type="way" v="Garcia Middle School" />
+    <tag id="401203435" k="amenity" o="none" type="way" v="school" />
+    <tag id="401203435" k="operator" o="none" type="way" v="Fort Bend Independent School District" />
+    <tag id="401203435" k="addr:city" o="none" type="way" v="Sugar Land" />
+    <tag id="401203435" k="addr:state" o="none" type="way" v="TX" />
+    <tag id="401203435" k="addr:street" o="none" type="way" v="Old Richmond Road" />
+    <tag id="401203435" k="gnis:created" o="none" type="way" v="07/16/2008" />
+    <tag id="401203435" k="addr:postcode" o="none" type="way" v="77468" />
+    <tag id="401203435" k="gnis:state_id" o="none" type="way" v="48" />
+    <tag id="401203435" k="gnis:county_id" o="none" type="way" v="157" />
+    <tag id="401203435" k="gnis:feature_id" o="none" type="way" v="2472554" />
+    <tag id="401203435" k="addr:housenumber" o="none" type="way" v="18550" />
+    <tag id="420542527" k="highway" o="add" type="way" v="footway" />
+    <tag id="420542527" k="leisure" o="none" type="way" v="playground" />
+    <tag id="422668593" k="name" o="none" type="way" v="South Post Oak Road" />
+    <tag id="422668593" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="422668593" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422668593" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="422668593" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="422668593" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="422668593" k="tiger:zip_left" o="none" type="way" v="77053" />
+    <tag id="422668593" k="tiger:name_base" o="none" type="way" v="Post Oak" />
+    <tag id="422668593" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="422668593" k="tiger:zip_right" o="none" type="way" v="77053" />
+    <tag id="422668593" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="422688953" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="422688953" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="422688953" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422688953" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="422688953" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="422688953" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="422688953" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="422688953" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="422688953" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="422688953" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="422688956" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="422688956" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="422688956" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422688956" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="422688956" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="422688956" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="422688956" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="422688956" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="422688956" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="422688956" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="422707002" k="name" o="none" type="way" v="Sweetwater Boulevard" />
+    <tag id="422707002" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="422707002" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422707002" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="422707002" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="422707002" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="422707002" k="tiger:zip_left" o="none" type="way" v="77479" />
+    <tag id="422707002" k="tiger:name_base" o="none" type="way" v="Sweetwater" />
+    <tag id="422707002" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="422707002" k="tiger:zip_right" o="none" type="way" v="77479" />
+    <tag id="422708146" k="name" o="none" type="way" v="Lexington Boulevard" />
+    <tag id="422708146" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="422708146" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422708146" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="422708146" k="tiger:county" o="none" type="way" v="Fort Bend, TX" />
+    <tag id="422708146" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="422708146" k="tiger:zip_left" o="modify" type="way" v="77478" />
+    <tag id="422708146" k="tiger:name_base" o="none" type="way" v="Lexington" />
+    <tag id="422708146" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="422708146" k="tiger:zip_right" o="modify" type="way" v="77479" />
+    <tag id="422716123" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716123" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716123" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716125" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716125" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716125" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716125" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716127" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716127" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716127" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716127" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716130" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716130" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716130" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716130" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716133" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716133" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716133" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716133" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716135" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716135" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716135" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716135" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716138" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716138" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716138" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716138" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716141" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716141" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716141" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716143" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716143" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716143" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716143" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716144" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716144" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716144" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716145" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716145" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716145" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716146" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716146" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716146" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716147" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716147" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716147" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422716147" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422716148" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422716148" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422716148" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422719405" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422719405" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422719405" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422719405" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422719406" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422719406" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422719406" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422719407" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422719407" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422719407" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422719407" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422719408" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422719408" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422719408" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422719408" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="422719409" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422719409" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422719409" k="highway" o="none" type="way" v="secondary" />
+    <tag id="422719410" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="422719410" k="oneway" o="none" type="way" v="yes" />
+    <tag id="422719410" k="highway" o="none" type="way" v="secondary" />
+    <tag id="423488801" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="423488801" k="oneway" o="none" type="way" v="yes" />
+    <tag id="423488801" k="highway" o="none" type="way" v="secondary" />
+    <tag id="423488802" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="423488802" k="oneway" o="none" type="way" v="yes" />
+    <tag id="423488802" k="highway" o="none" type="way" v="secondary" />
+    <tag id="423499212" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="423499212" k="oneway" o="none" type="way" v="yes" />
+    <tag id="423499212" k="highway" o="none" type="way" v="secondary" />
+    <tag id="423499212" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="423499213" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="423499213" k="oneway" o="none" type="way" v="yes" />
+    <tag id="423499213" k="highway" o="none" type="way" v="secondary" />
+    <tag id="423499213" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="423499214" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="423499214" k="oneway" o="none" type="way" v="yes" />
+    <tag id="423499214" k="highway" o="none" type="way" v="secondary" />
+    <tag id="423499215" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="423499215" k="oneway" o="none" type="way" v="yes" />
+    <tag id="423499215" k="highway" o="none" type="way" v="secondary" />
+    <tag id="426513639" k="building" o="add" type="way" v="yes" />
+    <tag id="427273479" k="building" o="add" type="way" v="yes" />
+    <tag id="430827819" k="ele" o="none" type="way" v="25" />
+    <tag id="430827819" k="name" o="none" type="way" v="Oyster Creek Elementary School" />
+    <tag id="430827819" k="amenity" o="none" type="way" v="school" />
+    <tag id="430827819" k="operator" o="none" type="way" v="Fort Bend Independent School District" />
+    <tag id="430827819" k="addr:city" o="none" type="way" v="Sugar Land" />
+    <tag id="430827819" k="addr:state" o="none" type="way" v="TX" />
+    <tag id="430827819" k="addr:street" o="none" type="way" v="Mellow Oaks Lane" />
+    <tag id="430827819" k="gnis:created" o="none" type="way" v="07/16/2008" />
+    <tag id="430827819" k="addr:postcode" o="none" type="way" v="77498" />
+    <tag id="430827819" k="gnis:state_id" o="none" type="way" v="48" />
+    <tag id="430827819" k="gnis:county_id" o="none" type="way" v="157" />
+    <tag id="430827819" k="gnis:feature_id" o="none" type="way" v="2472597" />
+    <tag id="430827819" k="addr:housenumber" o="none" type="way" v="16425" />
+    <tag id="441345195" k="name" o="modify" type="way" v="Coldwater Bridge Court" />
+    <tag id="441345195" k="highway" o="none" type="way" v="residential" />
+    <tag id="441345195" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="441656534" k="name" o="none" type="way" v="Lexington Common" />
+    <tag id="441656534" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="441656534" k="highway" o="none" type="way" v="residential" />
+    <tag id="441872607" k="name" o="none" type="way" v="Dulles Middle School Band" />
+    <tag id="441872607" k="building" o="none" type="way" v="school" />
+    <tag id="442077993" k="foot" o="none" type="way" v="no" />
+    <tag id="442077993" k="name" o="none" type="way" v="Murphy Road" />
+    <tag id="442077993" k="horse" o="none" type="way" v="no" />
+    <tag id="442077993" k="oneway" o="none" type="way" v="yes" />
+    <tag id="442077993" k="cutting" o="none" type="way" v="yes" />
+    <tag id="442077993" k="highway" o="none" type="way" v="primary" />
+    <tag id="442077994" k="oneway" o="none" type="way" v="no" />
+    <tag id="442077994" k="highway" o="none" type="way" v="primary" />
+    <tag id="448525473" k="ele" o="none" type="way" v="20" />
+    <tag id="448525473" k="name" o="none" type="way" v="Missouri City Fire and Rescue Services Station 4" />
+    <tag id="448525473" k="source" o="none" type="way" v="USGS Geonames" />
+    <tag id="448525473" k="amenity" o="none" type="way" v="fire_station" />
+    <tag id="448525473" k="building" o="none" type="way" v="yes" />
+    <tag id="448525473" k="addr:state" o="none" type="way" v="TX" />
+    <tag id="448525473" k="gnis:reviewed" o="none" type="way" v="no" />
+    <tag id="448525473" k="gnis:feature_id" o="none" type="way" v="2334394" />
+    <tag id="448525473" k="gnis:county_name" o="none" type="way" v="Fort Bend" />
+    <tag id="448525473" k="gnis:import_uuid" o="none" type="way" v="57871b70-0100-4405-bb30-88b2e001a944" />
+    <tag id="450503767" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="450503767" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450503767" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="450503769" k="name" o="modify" type="way" v="Commonwealth Boulevard" />
+    <tag id="450503769" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450503769" k="highway" o="none" type="way" v="secondary" />
+    <tag id="450503770" k="name" o="modify" type="way" v="LJ Parkway" />
+    <tag id="450503770" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450503770" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="450503952" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450503952" k="highway" o="none" type="way" v="secondary" />
+    <tag id="450503952" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="450505049" k="name" o="modify" type="way" v="Mount Logan" />
+    <tag id="450505049" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="450684190" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450684190" k="highway" o="none" type="way" v="secondary" />
+    <tag id="450684190" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="450684191" k="name" o="add" type="way" v="Mount Logan" />
+    <tag id="450684191" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450684191" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="450684192" k="name" o="modify" type="way" v="Mount Logan" />
+    <tag id="450684192" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="450684643" k="name" o="modify" type="way" v="Waters Lake Boulevard" />
+    <tag id="450684643" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450684643" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="450684644" k="name" o="modify" type="way" v="Waters Lake Boulevard" />
+    <tag id="450684644" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450684644" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="450684897" k="name" o="none" type="way" v="Sienna Christus" />
+    <tag id="450684897" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="450900525" k="name" o="modify" type="way" v="Plaza Point Drive" />
+    <tag id="450900525" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450900525" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900527" k="name" o="modify" type="way" v="Plaza Point Drive" />
+    <tag id="450900527" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450900527" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900529" k="name" o="modify" type="way" v="Plaza Point Drive" />
+    <tag id="450900529" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900530" k="name" o="modify" type="way" v="Twin Rose Drive" />
+    <tag id="450900530" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900532" k="name" o="modify" type="way" v="Plaza Terrace Drive" />
+    <tag id="450900532" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900534" k="name" o="modify" type="way" v="Plaza Point Drive" />
+    <tag id="450900534" k="highway" o="none" type="way" v="proposed" />
+    <tag id="450900536" k="name" o="modify" type="way" v="Old Town Road" />
+    <tag id="450900536" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900538" k="name" o="modify" type="way" v="Pershing Court" />
+    <tag id="450900538" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900539" k="name" o="modify" type="way" v="Spring Rose Drive" />
+    <tag id="450900539" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900541" k="name" o="modify" type="way" v="Pink Rose Walk Court" />
+    <tag id="450900541" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900543" k="name" o="modify" type="way" v="Lazy Vine Lane" />
+    <tag id="450900543" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900544" k="name" o="modify" type="way" v="Lazy Vine Lane" />
+    <tag id="450900544" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450900544" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900546" k="name" o="modify" type="way" v="Fox Bend Lane" />
+    <tag id="450900546" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450900546" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900548" k="name" o="modify" type="way" v="Lazy Vine Lane" />
+    <tag id="450900548" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900550" k="name" o="modify" type="way" v="Big Vine Court" />
+    <tag id="450900550" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900553" k="name" o="modify" type="way" v="Lazy Vine Lane" />
+    <tag id="450900553" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450900553" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900555" k="name" o="modify" type="way" v="Fox Bend Lane" />
+    <tag id="450900555" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450900555" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900559" k="name" o="modify" type="way" v="Fox Bend Lane" />
+    <tag id="450900559" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900561" k="name" o="add" type="way" v="Fox Bend Lane" />
+    <tag id="450900561" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900562" k="name" o="modify" type="way" v="Fox Bend Lane" />
+    <tag id="450900562" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900564" k="name" o="modify" type="way" v="San Marco Drive" />
+    <tag id="450900564" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900566" k="name" o="modify" type="way" v="Red Fox Drive" />
+    <tag id="450900566" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900571" k="name" o="modify" type="way" v="Leigh Lakes Drive" />
+    <tag id="450900571" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900574" k="name" o="modify" type="way" v="Plaza Ridge Drive" />
+    <tag id="450900574" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900576" k="name" o="modify" type="way" v="Grand Place Drive" />
+    <tag id="450900576" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900594" k="name" o="modify" type="way" v="Mount Whitney" />
+    <tag id="450900594" k="highway" o="none" type="way" v="residential" />
+    <tag id="450900595" k="name" o="modify" type="way" v="Mount Shasta" />
+    <tag id="450900595" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920295" k="name" o="modify" type="way" v="River Run Road" />
+    <tag id="450920295" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920304" k="name" o="add" type="way" v="Deer Valley" />
+    <tag id="450920304" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450920304" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920305" k="name" o="add" type="way" v="Deer Valley" />
+    <tag id="450920305" k="oneway" o="none" type="way" v="yes" />
+    <tag id="450920305" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920308" k="name" o="modify" type="way" v="Rainy Mist Drive" />
+    <tag id="450920308" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920309" k="name" o="modify" type="way" v="Harbor Light Drive" />
+    <tag id="450920309" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920310" k="name" o="modify" type="way" v="Silver Moon Drive" />
+    <tag id="450920310" k="highway" o="none" type="way" v="residential" />
+    <tag id="450920311" k="name" o="modify" type="way" v="Starhill Court" />
+    <tag id="450920311" k="highway" o="none" type="way" v="residential" />
+    <tag id="451257923" k="name" o="modify" type="way" v="Mount Logan" />
+    <tag id="451257923" k="highway" o="none" type="way" v="proposed" />
+    <tag id="457339159" k="name" o="add" type="way" v="Grove View" />
+    <tag id="457339159" k="highway" o="add" type="way" v="residential" />
+    <tag id="457339160" k="name" o="add" type="way" v="Commonwealth Boulevard" />
+    <tag id="457339160" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457339160" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457339161" k="name" o="add" type="way" v="Commonwealth Boulevard" />
+    <tag id="457339161" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457339161" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457339162" k="name" o="add" type="way" v="Commonwealth Boulevard" />
+    <tag id="457339162" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457339162" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457339163" k="name" o="add" type="way" v="Mount Logan" />
+    <tag id="457339163" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457339163" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457339164" k="name" o="add" type="way" v="Mount Logan" />
+    <tag id="457339164" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457339164" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457339165" k="name" o="add" type="way" v="Mount Logan" />
+    <tag id="457339165" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457339165" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="2867996" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="2867996" k="natural" o="add" type="relation" v="water" />
+    <tag id="2867997" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="2867997" k="natural" o="add" type="relation" v="water" />
+  </body>
+</changeset>

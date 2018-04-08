@@ -1,0 +1,1671 @@
+<changeset id="44216418" schema="2">
+  <counts nodesAdded="1004" nodesDeleted="441" nodesModified="5" relationsAdded="21" relationsDeleted="0" relationsModified="8" waysAdded="80" waysDeleted="17" waysModified="79" />
+  <meta>
+    <tag k="comment" v="Correcting/tweaking US 6 between Ansonia and Wellsboro, plus misc area fixes (ProjectPA)" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+  </meta>
+  <body>
+    <tag id="94751823" k="highway" o="add" type="node" v="crossing" />
+    <tag id="94751823" k="crossing" o="add" type="node" v="unmarked" />
+    <tag id="108949647" k="noexit" o="add" type="node" v="yes" />
+    <tag id="108954411" k="noexit" o="add" type="node" v="yes" />
+    <tag id="3074302133" k="highway" o="add" type="node" v="stop" />
+    <tag id="3074302133" k="direction" o="add" type="node" v="forward" />
+    <tag id="3129667858" k="name" o="none" type="node" v="Laurel Lanes" />
+    <tag id="3129667858" k="fixme" o="add" type="node" v="Does this still exist?" />
+    <tag id="10683904" k="name" o="add" type="way" v="Mount Tom Lane" />
+    <tag id="10683904" k="highway" o="modify" type="way" v="residential" />
+    <tag id="10689347" k="name" o="none" type="way" v="Straight Run Road" />
+    <tag id="10689347" k="lanes" o="add" type="way" v="2" />
+    <tag id="10689347" k="oneway" o="add" type="way" v="no" />
+    <tag id="10689347" k="highway" o="none" type="way" v="residential" />
+    <tag id="10689347" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10689378" k="name" o="none" type="way" v="Dantz Run Road" />
+    <tag id="10689378" k="lanes" o="add" type="way" v="2" />
+    <tag id="10689378" k="oneway" o="add" type="way" v="no" />
+    <tag id="10689378" k="highway" o="none" type="way" v="residential" />
+    <tag id="10689378" k="alt_name" o="add" type="way" v="T468" />
+    <tag id="10689378" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10689378" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10689378" k="tiger:name_base" o="modify" type="way" v="Dantz Run:T468" />
+    <tag id="10689378" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10689378" k="tiger:name_base_1" o="none" type="way" v="T468" />
+    <tag id="10690199" k="name" o="none" type="way" v="T451" />
+    <tag id="10690199" k="fixme" o="add" type="way" v="Real name?" />
+    <tag id="10690199" k="lanes" o="add" type="way" v="2" />
+    <tag id="10690199" k="oneway" o="add" type="way" v="no" />
+    <tag id="10690199" k="highway" o="none" type="way" v="residential" />
+    <tag id="10690697" k="name" o="none" type="way" v="Charleston Road" />
+    <tag id="10690697" k="oneway" o="none" type="way" v="no" />
+    <tag id="10690697" k="highway" o="none" type="way" v="residential" />
+    <tag id="10690697" k="maxspeed" o="none" type="way" v="50 mph" />
+    <tag id="10690697" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10690697" k="ref:penndot" o="add" type="way" v="SR 4002" />
+    <tag id="10690697" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="10690697" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10690697" k="tiger:name_base" o="none" type="way" v="Charleston" />
+    <tag id="10690697" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10691846" k="name" o="none" type="way" v="Charleston Street" />
+    <tag id="10691846" k="highway" o="none" type="way" v="residential" />
+    <tag id="10691846" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="10691846" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10691846" k="ref:penndot" o="add" type="way" v="SR 4002" />
+    <tag id="10691846" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10691846" k="tiger:name_base" o="none" type="way" v="Charleston" />
+    <tag id="10691846" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10693723" k="name" o="none" type="way" v="Webster Road" />
+    <tag id="10693723" k="name_1" o="none" type="way" v="T478" />
+    <tag id="10693723" k="highway" o="none" type="way" v="residential" />
+    <tag id="10693723" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10693723" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10693723" k="tiger:name_base" o="none" type="way" v="Webster" />
+    <tag id="10693723" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10693723" k="tiger:name_base_1" o="none" type="way" v="T478" />
+    <tag id="12038070" k="name" o="none" type="way" v="Upper Heise Run Road" />
+    <tag id="12038070" k="name_1" o="none" type="way" v="T893" />
+    <tag id="12038070" k="highway" o="none" type="way" v="residential" />
+    <tag id="12038070" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12038070" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12038070" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12038070" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12038070" k="tiger:name_base" o="none" type="way" v="Upper Heise Run" />
+    <tag id="12038070" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="12038070" k="tiger:name_base_1" o="none" type="way" v="T893" />
+    <tag id="12038628" k="ref" o="add" type="way" v="PA 287" />
+    <tag id="12038628" k="turn" o="add" type="way" v="right" />
+    <tag id="12038628" k="lanes" o="add" type="way" v="1" />
+    <tag id="12038628" k="oneway" o="add" type="way" v="yes" />
+    <tag id="12038628" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="12038628" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12039031" k="access" o="add" type="way" v="private" />
+    <tag id="12039031" k="highway" o="modify" type="way" v="service" />
+    <tag id="12039031" k="service" o="add" type="way" v="driveway" />
+    <tag id="12039160" k="name" o="none" type="way" v="Horse Thief Run Road" />
+    <tag id="12039160" k="highway" o="none" type="way" v="residential" />
+    <tag id="12039160" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12039160" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12039160" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12039171" k="highway" o="modify" type="way" v="service" />
+    <tag id="12039171" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12039171" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12039171" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12040565" k="highway" o="none" type="way" v="service" />
+    <tag id="12040565" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="12040565" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12040565" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12041249" k="name" o="add" type="way" v="Old Tioga Street" />
+    <tag id="12041249" k="lanes" o="add" type="way" v="2" />
+    <tag id="12041249" k="oneway" o="add" type="way" v="no" />
+    <tag id="12041249" k="highway" o="none" type="way" v="residential" />
+    <tag id="12041249" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12041327" k="access" o="none" type="way" v="private" />
+    <tag id="12041327" k="highway" o="none" type="way" v="service" />
+    <tag id="12041327" k="service" o="add" type="way" v="driveway" />
+    <tag id="12042216" k="name" o="none" type="way" v="WCOR" />
+    <tag id="12042216" k="usage" o="none" type="way" v="branch" />
+    <tag id="12042216" k="railway" o="none" type="way" v="rail" />
+    <tag id="12042216" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="12042216" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12042216" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12042216" k="old_railway_operator" o="none" type="way" v="NYC" />
+    <tag id="12042216" k="note:old_railway_operator" o="none" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="12042436" k="access" o="none" type="way" v="private" />
+    <tag id="12042436" k="highway" o="none" type="way" v="service" />
+    <tag id="12042436" k="service" o="add" type="way" v="driveway" />
+    <tag id="12042750" k="highway" o="modify" type="way" v="service" />
+    <tag id="12042750" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12042750" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12042750" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12042754" k="highway" o="modify" type="way" v="service" />
+    <tag id="12042754" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12042754" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12042754" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12043404" k="access" o="none" type="way" v="private" />
+    <tag id="12043404" k="highway" o="none" type="way" v="service" />
+    <tag id="12043404" k="service" o="add" type="way" v="driveway" />
+    <tag id="12043456" k="access" o="none" type="way" v="private" />
+    <tag id="12043456" k="highway" o="none" type="way" v="service" />
+    <tag id="12043456" k="service" o="add" type="way" v="driveway" />
+    <tag id="12043682" k="access" o="none" type="way" v="private" />
+    <tag id="12043682" k="highway" o="none" type="way" v="service" />
+    <tag id="12043682" k="service" o="add" type="way" v="driveway" />
+    <tag id="12043884" k="access" o="none" type="way" v="private" />
+    <tag id="12043884" k="highway" o="none" type="way" v="service" />
+    <tag id="12043884" k="service" o="add" type="way" v="driveway" />
+    <tag id="12043885" k="highway" o="none" type="way" v="service" />
+    <tag id="12043950" k="access" o="add" type="way" v="private" />
+    <tag id="12043950" k="highway" o="modify" type="way" v="service" />
+    <tag id="12043950" k="service" o="add" type="way" v="driveway" />
+    <tag id="12045512" k="NHS" o="none" type="way" v="yes" />
+    <tag id="12045512" k="hgv" o="none" type="way" v="yes" />
+    <tag id="12045512" k="ref" o="none" type="way" v="US 6;PA 660" />
+    <tag id="12045512" k="name" o="none" type="way" v="East Avenue" />
+    <tag id="12045512" k="lanes" o="none" type="way" v="2" />
+    <tag id="12045512" k="oneway" o="add" type="way" v="no" />
+    <tag id="12045512" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="12045512" k="highway" o="none" type="way" v="primary" />
+    <tag id="12045512" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="12045512" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12045512" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="12045512" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="12045512" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="12045512" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="12045512" k="old_ref_legislative" o="none" type="way" v="21" />
+    <tag id="12045834" k="name" o="none" type="way" v="Dantz Run Road" />
+    <tag id="12045834" k="lanes" o="add" type="way" v="2" />
+    <tag id="12045834" k="oneway" o="add" type="way" v="no" />
+    <tag id="12045834" k="highway" o="none" type="way" v="residential" />
+    <tag id="12045834" k="alt_name" o="add" type="way" v="T468" />
+    <tag id="12046009" k="NHS" o="none" type="way" v="yes" />
+    <tag id="12046009" k="hgv" o="none" type="way" v="yes" />
+    <tag id="12046009" k="ref" o="none" type="way" v="US 6;PA 287" />
+    <tag id="12046009" k="name" o="none" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="12046009" k="lanes" o="none" type="way" v="2" />
+    <tag id="12046009" k="oneway" o="add" type="way" v="no" />
+    <tag id="12046009" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="12046009" k="highway" o="none" type="way" v="primary" />
+    <tag id="12046009" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="12046009" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12046009" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="12046009" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="12046009" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="12046009" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="12046009" k="old_ref_legislative" o="none" type="way" v="22" />
+    <tag id="12046191" k="name" o="none" type="way" v="Little Marsh Road" />
+    <tag id="12046191" k="name_1" o="none" type="way" v="Lower Marsh Creek" />
+    <tag id="12046191" k="name_2" o="none" type="way" v="T-819" />
+    <tag id="12046191" k="highway" o="none" type="way" v="residential" />
+    <tag id="12046191" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12046191" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12046191" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12046191" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12046191" k="tiger:name_base" o="none" type="way" v="Little Marsh" />
+    <tag id="12046191" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="12046191" k="tiger:name_base_1" o="none" type="way" v="Lower Marsh Creek" />
+    <tag id="12046191" k="tiger:name_base_2" o="none" type="way" v="T-819" />
+    <tag id="12046703" k="name" o="none" type="way" v="Walnut Street" />
+    <tag id="12046703" k="highway" o="none" type="way" v="residential" />
+    <tag id="12046703" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12046703" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12046703" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12046703" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12046703" k="tiger:name_base" o="none" type="way" v="Walnut" />
+    <tag id="12046703" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12046825" k="name" o="modify" type="way" v="Old Route 6" />
+    <tag id="12046825" k="highway" o="none" type="way" v="residential" />
+    <tag id="12046825" k="alt_name" o="add" type="way" v="T486" />
+    <tag id="12046825" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="12046825" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12046825" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12046825" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12046825" k="tiger:name_base" o="none" type="way" v="Old Rt 6" />
+    <tag id="12046825" k="tiger:name_base_1" o="none" type="way" v="T486" />
+    <tag id="12047182" k="name" o="none" type="way" v="Queen Street" />
+    <tag id="12047182" k="highway" o="none" type="way" v="residential" />
+    <tag id="12047182" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12047182" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12047182" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12047182" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12047182" k="tiger:name_base" o="none" type="way" v="Queen" />
+    <tag id="12047182" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12047182" k="tiger:zip_right" o="none" type="way" v="16901" />
+    <tag id="12047329" k="name" o="none" type="way" v="Charleston Street" />
+    <tag id="12047329" k="lanes" o="add" type="way" v="2" />
+    <tag id="12047329" k="oneway" o="add" type="way" v="no" />
+    <tag id="12047329" k="highway" o="none" type="way" v="residential" />
+    <tag id="12047329" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12047329" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="12047329" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="12047329" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12047329" k="ref:penndot" o="add" type="way" v="SR 4002" />
+    <tag id="12047329" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12047329" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12047329" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12047329" k="tiger:name_base" o="none" type="way" v="Charleston" />
+    <tag id="12047329" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12047329" k="tiger:zip_right" o="none" type="way" v="16901" />
+    <tag id="12047664" k="name" o="none" type="way" v="Horse Thief Run" />
+    <tag id="12047664" k="name_1" o="none" type="way" v="T800" />
+    <tag id="12047664" k="highway" o="none" type="way" v="residential" />
+    <tag id="12047664" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12047664" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12047664" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12047664" k="tiger:name_base" o="none" type="way" v="Horse Thief" />
+    <tag id="12047664" k="tiger:name_type" o="none" type="way" v="Run" />
+    <tag id="12047664" k="tiger:name_base_1" o="none" type="way" v="T800" />
+    <tag id="12047928" k="name" o="none" type="way" v="Pearl Street" />
+    <tag id="12047928" k="highway" o="none" type="way" v="residential" />
+    <tag id="12047928" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12047928" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12047928" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12047928" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12047928" k="tiger:name_base" o="none" type="way" v="Pearl" />
+    <tag id="12047928" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12047928" k="tiger:zip_right" o="none" type="way" v="16901" />
+    <tag id="12047991" k="name" o="none" type="way" v="Nichols Street" />
+    <tag id="12047991" k="highway" o="none" type="way" v="residential" />
+    <tag id="12047991" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12047991" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12047991" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12047991" k="tiger:name_base" o="none" type="way" v="Nichols" />
+    <tag id="12047991" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12048147" k="NHS" o="none" type="way" v="yes" />
+    <tag id="12048147" k="hgv" o="none" type="way" v="yes" />
+    <tag id="12048147" k="ref" o="none" type="way" v="US 6" />
+    <tag id="12048147" k="name" o="none" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="12048147" k="lanes" o="none" type="way" v="2" />
+    <tag id="12048147" k="oneway" o="none" type="way" v="no" />
+    <tag id="12048147" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="12048147" k="highway" o="none" type="way" v="primary" />
+    <tag id="12048147" k="rcn_ref" o="none" type="way" v="G;Y" />
+    <tag id="12048147" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="12048147" k="alt_name" o="none" type="way" v="Roosevelt Highway" />
+    <tag id="12048147" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="12048147" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="12048147" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="12048147" k="old_ref_legislative" o="none" type="way" v="102" />
+    <tag id="12048427" k="ref" o="none" type="way" v="PA 287" />
+    <tag id="12048427" k="lanes" o="add" type="way" v="2" />
+    <tag id="12048427" k="oneway" o="add" type="way" v="no" />
+    <tag id="12048427" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="12048427" k="highway" o="none" type="way" v="secondary" />
+    <tag id="12048427" k="rcn_ref" o="none" type="way" v="G" />
+    <tag id="12048427" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12048427" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="12048427" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="12048427" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12048427" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12048427" k="tiger:name_base" o="none" type="way" v="State Route 287" />
+    <tag id="12048427" k="old_ref_legislative" o="none" type="way" v="22" />
+    <tag id="12048687" k="name" o="none" type="way" v="Old Tioga Street" />
+    <tag id="12048687" k="highway" o="none" type="way" v="residential" />
+    <tag id="12048687" k="alt_name" o="add" type="way" v="Old Route 6" />
+    <tag id="12048687" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12048687" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12048687" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12048687" k="tiger:name_base" o="modify" type="way" v="Old Rt 6:Old Tioga" />
+    <tag id="12048687" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12048687" k="tiger:name_base_1" o="modify" type="way" v="Old Rt 6:T486" />
+    <tag id="12048687" k="tiger:name_base_2" o="none" type="way" v="T486" />
+    <tag id="12049321" k="name" o="none" type="way" v="Hilboldt Road" />
+    <tag id="12049321" k="lanes" o="add" type="way" v="2" />
+    <tag id="12049321" k="oneway" o="add" type="way" v="no" />
+    <tag id="12049321" k="highway" o="none" type="way" v="residential" />
+    <tag id="12049321" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12049321" k="alt_name" o="add" type="way" v="T483" />
+    <tag id="12049321" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12049321" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12049321" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12049321" k="tiger:name_base" o="none" type="way" v="Hilboldt" />
+    <tag id="12049321" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="12049321" k="tiger:name_base_1" o="none" type="way" v="T483" />
+    <tag id="12049326" k="name" o="none" type="way" v="Spruce Lane" />
+    <tag id="12049326" k="highway" o="none" type="way" v="residential" />
+    <tag id="12049490" k="name" o="none" type="way" v="Wolf Run Road" />
+    <tag id="12049490" k="name_1" o="none" type="way" v="T485" />
+    <tag id="12049490" k="highway" o="none" type="way" v="residential" />
+    <tag id="12049490" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12049490" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12049490" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12049490" k="tiger:name_base" o="none" type="way" v="Wolf Run" />
+    <tag id="12049490" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="12049490" k="tiger:name_base_1" o="none" type="way" v="T485" />
+    <tag id="12049761" k="name" o="none" type="way" v="Elmer's Lane" />
+    <tag id="12049761" k="lanes" o="add" type="way" v="2" />
+    <tag id="12049761" k="oneway" o="add" type="way" v="no" />
+    <tag id="12049761" k="highway" o="none" type="way" v="residential" />
+    <tag id="12049761" k="alt_name" o="add" type="way" v="T451" />
+    <tag id="12050548" k="NHS" o="none" type="way" v="yes" />
+    <tag id="12050548" k="hgv" o="none" type="way" v="yes" />
+    <tag id="12050548" k="ref" o="none" type="way" v="US 6;PA 287" />
+    <tag id="12050548" k="name" o="none" type="way" v="Tioga Street" />
+    <tag id="12050548" k="lanes" o="none" type="way" v="2" />
+    <tag id="12050548" k="oneway" o="add" type="way" v="no" />
+    <tag id="12050548" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="12050548" k="highway" o="none" type="way" v="primary" />
+    <tag id="12050548" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="12050548" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12050548" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="12050548" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="12050548" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="12050548" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="12050548" k="old_ref_legislative" o="none" type="way" v="22" />
+    <tag id="12051388" k="name" o="none" type="way" v="Riberolle Street" />
+    <tag id="12051388" k="lanes" o="add" type="way" v="2" />
+    <tag id="12051388" k="oneway" o="add" type="way" v="no" />
+    <tag id="12051388" k="highway" o="none" type="way" v="residential" />
+    <tag id="12051388" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12051388" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="12051388" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12051388" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="12051388" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12051388" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="12051388" k="tiger:name_base" o="none" type="way" v="Riberolle" />
+    <tag id="12051388" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="12051388" k="tiger:zip_right" o="none" type="way" v="16901" />
+    <tag id="12051388" k="tiger:zip_left_1" o="none" type="way" v="16901" />
+    <tag id="27560235" k="foot" o="none" type="way" v="yes" />
+    <tag id="27560235" k="name" o="none" type="way" v="Pine Creek Rail Trail" />
+    <tag id="27560235" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="27560235" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="27560235" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="27560235" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="27560235" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="27560235" k="old_railway_operator" o="none" type="way" v="NYC" />
+    <tag id="27560235" k="note:old_railway_operator" o="none" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="38517170" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="38517170" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="38517170" k="admin_level" o="none" type="way" v="8" />
+    <tag id="39509711" k="name" o="modify" type="way" v="Straight Run Road" />
+    <tag id="39509711" k="lanes" o="add" type="way" v="2" />
+    <tag id="39509711" k="oneway" o="add" type="way" v="no" />
+    <tag id="39509711" k="highway" o="none" type="way" v="residential" />
+    <tag id="39509711" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="39509712" k="name" o="none" type="way" v="Straight Run Road" />
+    <tag id="39509712" k="lanes" o="add" type="way" v="2" />
+    <tag id="39509712" k="bridge" o="none" type="way" v="yes" />
+    <tag id="39509712" k="oneway" o="add" type="way" v="no" />
+    <tag id="39509712" k="highway" o="none" type="way" v="residential" />
+    <tag id="39509712" k="surface" o="add" type="way" v="concrete" />
+    <tag id="39509712" k="ref:penndot" o="add" type="way" v="SR 3022" />
+    <tag id="51805094" k="NHS" o="none" type="way" v="yes" />
+    <tag id="51805094" k="hgv" o="none" type="way" v="yes" />
+    <tag id="51805094" k="ref" o="none" type="way" v="US 6;PA 287" />
+    <tag id="51805094" k="name" o="none" type="way" v="Main Street" />
+    <tag id="51805094" k="lanes" o="none" type="way" v="2" />
+    <tag id="51805094" k="oneway" o="add" type="way" v="no" />
+    <tag id="51805094" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="51805094" k="highway" o="none" type="way" v="primary" />
+    <tag id="51805094" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="51805094" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51805094" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="51805094" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="51805094" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="51805094" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="51805094" k="old_ref_legislative" o="none" type="way" v="22" />
+    <tag id="64185075" k="ref" o="none" type="way" v="PA 660" />
+    <tag id="64185075" k="name" o="none" type="way" v="Main Street" />
+    <tag id="64185075" k="lanes" o="add" type="way" v="1" />
+    <tag id="64185075" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="64185075" k="highway" o="none" type="way" v="secondary" />
+    <tag id="64185075" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="64185075" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="64185075" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="64185075" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="64185075" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="64185075" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="64185075" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="64185075" k="tiger:zip_right" o="none" type="way" v="16901" />
+    <tag id="64185075" k="tiger:name_base_1" o="none" type="way" v="United States Highway 6" />
+    <tag id="64185075" k="tiger:name_base_2" o="none" type="way" v="State Route 287" />
+    <tag id="64185075" k="old_ref_legislative" o="none" type="way" v="22" />
+    <tag id="67522948" k="foot" o="none" type="way" v="yes" />
+    <tag id="67522948" k="name" o="none" type="way" v="Pine Creek Rail Trail" />
+    <tag id="67522948" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="67522948" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="67522948" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="67522948" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="67522948" k="tiger:name_base" o="none" type="way" v="Conrail Railroad" />
+    <tag id="67522948" k="old_railway_operator" o="none" type="way" v="NYC" />
+    <tag id="67522948" k="note:old_railway_operator" o="none" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="144627624" k="ref" o="none" type="way" v="PA 660" />
+    <tag id="144627624" k="name" o="none" type="way" v="Main Street" />
+    <tag id="144627624" k="lanes" o="add" type="way" v="1" />
+    <tag id="144627624" k="oneway" o="none" type="way" v="yes" />
+    <tag id="144627624" k="highway" o="none" type="way" v="secondary" />
+    <tag id="144627624" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="144627624" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="144627624" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="144627624" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="144627624" k="old_ref_legislative" o="none" type="way" v="22" />
+    <tag id="144630169" k="highway" o="modify" type="way" v="service" />
+    <tag id="144630426" k="highway" o="modify" type="way" v="service" />
+    <tag id="144944176" k="ref" o="none" type="way" v="PA 287" />
+    <tag id="144944176" k="name" o="none" type="way" v="Central Avenue" />
+    <tag id="144944176" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="144944176" k="highway" o="none" type="way" v="secondary" />
+    <tag id="144944389" k="ref" o="none" type="way" v="PA 660" />
+    <tag id="144944389" k="name" o="none" type="way" v="Main Street" />
+    <tag id="144944389" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="144944389" k="highway" o="none" type="way" v="secondary" />
+    <tag id="144944389" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="144944389" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="144944389" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="144944389" k="tiger:zip_left" o="none" type="way" v="16901" />
+    <tag id="144944389" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="144944389" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="144944389" k="tiger:zip_right" o="none" type="way" v="16901" />
+    <tag id="144944389" k="tiger:name_base_1" o="none" type="way" v="United States Highway 6" />
+    <tag id="144944389" k="tiger:name_base_2" o="none" type="way" v="State Route 287" />
+    <tag id="144944389" k="old_ref_legislative" o="none" type="way" v="21 Spur" />
+    <tag id="170284391" k="railway" o="none" type="way" v="abandoned" />
+    <tag id="170284391" k="old_railway_operator" o="none" type="way" v="NYC" />
+    <tag id="170284391" k="note:old_railway_operator" o="none" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="303118373" k="name" o="none" type="way" v="Dantz Run Road" />
+    <tag id="303118373" k="name_1" o="none" type="way" v="Dante Run Road" />
+    <tag id="303118373" k="name_2" o="none" type="way" v="T-819" />
+    <tag id="303118373" k="name_3" o="none" type="way" v="Lower Marsh Creek" />
+    <tag id="303118373" k="highway" o="none" type="way" v="residential" />
+    <tag id="303118373" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="303118373" k="tiger:county" o="none" type="way" v="Tioga, PA" />
+    <tag id="303118373" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="303118373" k="tiger:name_base" o="none" type="way" v="Dantz Run" />
+    <tag id="303118373" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="303118373" k="tiger:name_base_1" o="none" type="way" v="Dante Run" />
+    <tag id="303118373" k="tiger:name_base_2" o="none" type="way" v="T-819" />
+    <tag id="303118373" k="tiger:name_base_3" o="none" type="way" v="Lower Marsh Creek" />
+    <tag id="303118373" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="327496126" k="name" o="none" type="way" v="Penny Lane" />
+    <tag id="327496126" k="highway" o="none" type="way" v="residential" />
+    <tag id="327496126" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="359172707" k="oneway" o="none" type="way" v="no" />
+    <tag id="359172707" k="highway" o="none" type="way" v="service" />
+    <tag id="359417276" k="lanes" o="add" type="way" v="1" />
+    <tag id="359417276" k="oneway" o="add" type="way" v="yes" />
+    <tag id="359417276" k="highway" o="none" type="way" v="service" />
+    <tag id="458128936" k="ref" o="add" type="way" v="PA 660" />
+    <tag id="458128936" k="name" o="add" type="way" v="Main Street" />
+    <tag id="458128936" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128936" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128936" k="highway" o="add" type="way" v="secondary" />
+    <tag id="458128936" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128936" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="458128936" k="tiger:cfcc" o="add" type="way" v="A21" />
+    <tag id="458128936" k="tiger:name_base" o="add" type="way" v="Main" />
+    <tag id="458128936" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128937" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128937" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128937" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128937" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128937" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128937" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128937" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128937" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128937" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128937" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128937" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128937" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458128937" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128937" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128937" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128938" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128938" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128938" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128938" k="name" o="add" type="way" v="Main Street" />
+    <tag id="458128938" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128938" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128938" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128938" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128938" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128938" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128938" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128938" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458128938" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458128938" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128938" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128938" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128938" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128938" k="turn:lanes:backward" o="add" type="way" v="left|through;right" />
+    <tag id="458128939" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128939" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128939" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128939" k="name" o="add" type="way" v="Main Street" />
+    <tag id="458128939" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128939" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128939" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128939" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128939" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128939" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128939" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128939" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458128939" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458128939" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128939" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="458128939" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="458128939" k="turn:lanes:forward" o="add" type="way" v="left|through;right" />
+    <tag id="458128939" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128939" k="destination:ref:lanes:forward" o="add" type="way" v="US 6 East;PA 660 East|PA 287 South;PA 660 West" />
+    <tag id="458128940" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128940" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128940" k="ref" o="add" type="way" v="US 6;PA 660" />
+    <tag id="458128940" k="name" o="add" type="way" v="East Avenue" />
+    <tag id="458128940" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128940" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128940" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128940" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128940" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128940" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128940" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128940" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128940" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458128940" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128940" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128940" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128940" k="old_ref_legislative" o="add" type="way" v="21" />
+    <tag id="458128940" k="turn:lanes:backward" o="add" type="way" v="left|through" />
+    <tag id="458128941" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128941" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128941" k="ref" o="add" type="way" v="US 6;PA 660" />
+    <tag id="458128941" k="name" o="add" type="way" v="East Avenue" />
+    <tag id="458128941" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128941" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128941" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128941" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128941" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128941" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128941" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128941" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128941" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458128941" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128941" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128941" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128941" k="old_ref_legislative" o="add" type="way" v="21" />
+    <tag id="458128941" k="turn:lanes:backward" o="add" type="way" v="left|through;right" />
+    <tag id="458128942" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128942" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128942" k="highway" o="add" type="way" v="service" />
+    <tag id="458128942" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="458128942" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128943" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128943" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128943" k="highway" o="add" type="way" v="service" />
+    <tag id="458128943" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128944" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128944" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128944" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128944" k="name" o="add" type="way" v="Tioga Street" />
+    <tag id="458128944" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128944" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128944" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128944" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128944" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128944" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128944" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128944" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128944" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128944" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128944" k="maxspeed:advisory" o="add" type="way" v="30 mph" />
+    <tag id="458128944" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128945" k="highway" o="add" type="way" v="service" />
+    <tag id="458128945" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="458128945" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128946" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128946" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128946" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128946" k="name" o="add" type="way" v="Tioga Street" />
+    <tag id="458128946" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128946" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128946" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128946" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128946" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128946" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128946" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128946" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128946" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="458128946" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128946" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="458128946" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="458128946" k="turn:lanes:forward" o="add" type="way" v="left|through;right" />
+    <tag id="458128946" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128947" k="name" o="add" type="way" v="Charleston Street" />
+    <tag id="458128947" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128947" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128947" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128947" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128947" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128947" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458128947" k="ref:penndot" o="add" type="way" v="SR 4002" />
+    <tag id="458128948" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128948" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128948" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128948" k="name" o="add" type="way" v="Tioga Street" />
+    <tag id="458128948" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128948" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128948" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128948" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128948" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128948" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128948" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128948" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128948" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128948" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128948" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128951" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128951" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128951" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128951" k="name" o="add" type="way" v="Tioga Street" />
+    <tag id="458128951" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128951" k="layer" o="add" type="way" v="1" />
+    <tag id="458128951" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458128951" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128951" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128951" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128951" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128951" k="surface" o="add" type="way" v="concrete" />
+    <tag id="458128951" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128951" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="458128951" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128951" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128951" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128955" k="name" o="add" type="way" v="Riberolle Street" />
+    <tag id="458128955" k="fixme" o="add" type="way" v="Surface of new bridge?" />
+    <tag id="458128955" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128955" k="layer" o="add" type="way" v="1" />
+    <tag id="458128955" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458128955" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128955" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128955" k="surface" o="add" type="way" v="concrete" />
+    <tag id="458128955" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="458128956" k="name" o="add" type="way" v="Riberolle Street" />
+    <tag id="458128956" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128956" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128956" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128956" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128956" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="458128957" k="highway" o="add" type="way" v="service" />
+    <tag id="458128957" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="458128957" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128958" k="highway" o="add" type="way" v="service" />
+    <tag id="458128958" k="service" o="add" type="way" v="driveway" />
+    <tag id="458128958" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128959" k="highway" o="add" type="way" v="service" />
+    <tag id="458128959" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="458128959" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128960" k="name" o="add" type="way" v="Hilboldt Road" />
+    <tag id="458128960" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128960" k="layer" o="add" type="way" v="1" />
+    <tag id="458128960" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458128960" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128960" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128960" k="surface" o="add" type="way" v="concrete" />
+    <tag id="458128960" k="alt_name" o="add" type="way" v="T483" />
+    <tag id="458128960" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458128961" k="name" o="add" type="way" v="Hilboldt Road" />
+    <tag id="458128961" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128961" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128961" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128961" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128961" k="alt_name" o="add" type="way" v="T483" />
+    <tag id="458128961" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458128962" k="name" o="add" type="way" v="Junction Lane" />
+    <tag id="458128962" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128962" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="458128963" k="fixme" o="add" type="way" v="Name?" />
+    <tag id="458128963" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128963" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128963" k="highway" o="add" type="way" v="residential" />
+    <tag id="458128963" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128964" k="name" o="add" type="way" v="Pine Creek Trail Parking" />
+    <tag id="458128964" k="amenity" o="add" type="way" v="parking" />
+    <tag id="458128965" k="highway" o="add" type="way" v="service" />
+    <tag id="458128965" k="railway" o="add" type="way" v="abandoned" />
+    <tag id="458128965" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="458128965" k="old_railway_operator" o="add" type="way" v="NYC" />
+    <tag id="458128965" k="note:old_railway_operator" o="add" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="458128966" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128966" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128966" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128966" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128966" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128966" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128966" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128966" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128966" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128966" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128966" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128966" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458128966" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128966" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128966" k="turn:lanes" o="add" type="way" v="through|right" />
+    <tag id="458128966" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128967" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128967" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128967" k="ref" o="add" type="way" v="US 6;PA 287" />
+    <tag id="458128967" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128967" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128967" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128967" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128967" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128967" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128967" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128967" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128967" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458128967" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128967" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128967" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="458128967" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="458128967" k="turn:lanes:forward" o="add" type="way" v="none|merge_to_left" />
+    <tag id="458128967" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128968" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128968" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128968" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128968" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128968" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128968" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128968" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128968" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128968" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128968" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128968" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128968" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128968" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128968" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128968" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128969" k="ref" o="add" type="way" v="PA 287" />
+    <tag id="458128969" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128969" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128969" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128969" k="highway" o="add" type="way" v="secondary" />
+    <tag id="458128969" k="rcn_ref" o="add" type="way" v="G" />
+    <tag id="458128969" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128969" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128969" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128969" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128969" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128969" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128969" k="turn:lanes:backward" o="add" type="way" v="left|left" />
+    <tag id="458128970" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128970" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128970" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128970" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128970" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128970" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128970" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128970" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128970" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128970" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128970" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128970" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458128970" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128970" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128970" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128971" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128971" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128971" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128971" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128971" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128971" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128971" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128971" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128971" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="458128971" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128971" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128971" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128971" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128971" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128971" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128972" k="ref" o="add" type="way" v="PA 287" />
+    <tag id="458128972" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128972" k="layer" o="add" type="way" v="1" />
+    <tag id="458128972" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458128972" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128972" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128972" k="highway" o="add" type="way" v="secondary" />
+    <tag id="458128972" k="rcn_ref" o="add" type="way" v="G" />
+    <tag id="458128972" k="surface" o="add" type="way" v="concrete" />
+    <tag id="458128972" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128972" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128972" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128972" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128972" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128972" k="turn:lanes:backward" o="add" type="way" v="left|left;right" />
+    <tag id="458128973" k="ref" o="add" type="way" v="PA 287" />
+    <tag id="458128973" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128973" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128973" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128973" k="highway" o="add" type="way" v="secondary" />
+    <tag id="458128973" k="rcn_ref" o="add" type="way" v="G" />
+    <tag id="458128973" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128973" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128973" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128973" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128973" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128973" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128973" k="turn:lanes:backward" o="add" type="way" v="left|left" />
+    <tag id="458128974" k="turn" o="add" type="way" v="right" />
+    <tag id="458128974" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128974" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128974" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="458128974" k="rcn_ref" o="add" type="way" v="G" />
+    <tag id="458128974" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128975" k="ref" o="add" type="way" v="PA 287" />
+    <tag id="458128975" k="lanes" o="add" type="way" v="3" />
+    <tag id="458128975" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128975" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128975" k="highway" o="add" type="way" v="secondary" />
+    <tag id="458128975" k="rcn_ref" o="add" type="way" v="G" />
+    <tag id="458128975" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128975" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128975" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128975" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="458128975" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="458128975" k="old_ref_legislative" o="add" type="way" v="22" />
+    <tag id="458128975" k="turn:lanes:backward" o="add" type="way" v="left|left;right" />
+    <tag id="458128976" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128976" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128976" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128976" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128976" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128976" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128976" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128976" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128976" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128976" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128976" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128976" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458128976" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128976" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128976" k="turn:lanes" o="add" type="way" v="none|merge_to_left" />
+    <tag id="458128976" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128977" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128977" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128977" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128977" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128977" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128977" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128977" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128977" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128977" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128977" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128977" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128977" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458128977" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128977" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128977" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128978" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128978" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128978" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128978" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128978" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128978" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128978" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128978" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128978" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128978" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128978" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128978" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128978" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128978" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128978" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128979" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128979" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128979" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128979" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128979" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128979" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128979" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128979" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128979" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128979" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128979" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128979" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128979" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128979" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128979" k="turn:lanes" o="add" type="way" v="left|through" />
+    <tag id="458128979" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128980" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128980" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128980" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128980" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128980" k="lanes" o="add" type="way" v="1" />
+    <tag id="458128980" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458128980" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128980" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128980" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128980" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128980" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128980" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128980" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128980" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128980" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128981" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128981" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128981" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128981" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128981" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128981" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128981" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128981" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128981" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128981" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128981" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128981" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128981" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128981" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128981" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128981" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128982" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128982" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128982" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128982" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128982" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128982" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128982" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128982" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128982" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128982" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128982" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128982" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128982" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128982" k="overtaking" o="add" type="way" v="both" />
+    <tag id="458128982" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128982" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128983" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128983" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128983" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128983" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128983" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128983" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128983" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128983" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128983" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128983" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128983" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128983" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128983" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128983" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458128983" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128983" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128984" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128984" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128984" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128984" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128984" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128984" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128984" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128984" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128984" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128984" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128984" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128984" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128984" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128984" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128984" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128984" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128985" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128985" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128985" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128985" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128985" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128985" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128985" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128985" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128985" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128985" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128985" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128985" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128985" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128985" k="overtaking" o="add" type="way" v="both" />
+    <tag id="458128985" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128985" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128986" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128986" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128986" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128986" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128986" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128986" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128986" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128986" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128986" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128986" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128986" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128986" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128986" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128986" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458128986" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128986" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128987" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128987" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128987" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128987" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128987" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128987" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128987" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128987" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128987" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128987" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128987" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128987" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128987" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128987" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128987" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128988" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128988" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128988" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128988" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128988" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128988" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128988" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128988" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128988" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128988" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128988" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128988" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128988" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128988" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128988" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128988" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128989" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128989" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128989" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128989" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128989" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128989" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128989" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128989" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128989" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128989" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128989" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128989" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128989" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128989" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458128989" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128989" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128990" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128990" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128990" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128990" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128990" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128990" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128990" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128990" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128990" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128990" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128990" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128990" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128990" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128990" k="overtaking" o="add" type="way" v="both" />
+    <tag id="458128990" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128990" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128991" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128991" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128991" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128991" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128991" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128991" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128991" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128991" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128991" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128991" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128991" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128991" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128991" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128991" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128991" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128991" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128992" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128992" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128992" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128992" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128992" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128992" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128992" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128992" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128992" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128992" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128992" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128992" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128992" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128992" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458128992" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128992" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128993" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128993" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128993" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128993" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128993" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128993" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128993" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128993" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128993" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128993" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128993" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128993" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128993" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128993" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128993" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128994" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128994" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128994" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128994" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128994" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128994" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128994" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128994" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128994" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128994" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128994" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128994" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128994" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128994" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128994" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128994" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128995" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128995" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128995" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128995" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128995" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128995" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128995" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128995" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128995" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128995" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128995" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128995" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128995" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128995" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128995" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128995" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128996" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128996" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128996" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128996" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128996" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128996" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128996" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128996" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128996" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128996" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128996" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128996" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128996" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128996" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128996" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128997" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128997" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128997" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128997" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128997" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128997" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128997" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128997" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128997" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128997" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128997" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128997" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128997" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128997" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458128997" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128997" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128998" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128998" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128998" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128998" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128998" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128998" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128998" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128998" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128998" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128998" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128998" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128998" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128998" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128998" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458128998" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128998" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458128999" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458128999" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458128999" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458128999" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458128999" k="lanes" o="add" type="way" v="2" />
+    <tag id="458128999" k="oneway" o="add" type="way" v="no" />
+    <tag id="458128999" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458128999" k="highway" o="add" type="way" v="primary" />
+    <tag id="458128999" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458128999" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458128999" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458128999" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458128999" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458128999" k="overtaking" o="add" type="way" v="both" />
+    <tag id="458128999" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458128999" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129000" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129000" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129000" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129000" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129000" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129000" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129000" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129000" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129000" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129000" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129000" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129000" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129000" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129000" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129000" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129001" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129001" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129001" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129001" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129001" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129001" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129001" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129001" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129001" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129001" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129001" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129001" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129001" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129001" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458129001" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129001" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129002" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129002" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129002" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129002" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129002" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129002" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129002" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129002" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129002" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129002" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129002" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129002" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129002" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129002" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458129002" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129002" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129003" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129003" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129003" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129003" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129003" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129003" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129003" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129003" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129003" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129003" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129003" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129003" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129003" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129003" k="overtaking" o="add" type="way" v="both" />
+    <tag id="458129003" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129003" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129004" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129004" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129004" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129004" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129004" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129004" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129004" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129004" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129004" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129004" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129004" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129004" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129004" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129004" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458129004" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129004" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129005" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129005" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129005" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129005" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129005" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129005" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129005" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129005" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129005" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129005" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129005" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129005" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129005" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129005" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458129005" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129005" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129006" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129006" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129006" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129006" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129006" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129006" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129006" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129006" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129006" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129006" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129006" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129006" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129006" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129006" k="overtaking" o="add" type="way" v="both" />
+    <tag id="458129006" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129006" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129007" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129007" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129007" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129007" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129007" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129007" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129007" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129007" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129007" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129007" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129007" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129007" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129007" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129007" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458129007" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129007" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129008" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129008" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129008" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129008" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129008" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129008" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129008" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129008" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129008" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129008" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129008" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129008" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129008" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129008" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129008" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129009" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129009" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129009" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129009" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129009" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129009" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129009" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129009" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129009" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129009" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129009" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129009" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129009" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129009" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458129009" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129009" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129010" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129010" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129010" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129010" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129010" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129010" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129010" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129010" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129010" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129010" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129010" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129010" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129010" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129010" k="overtaking" o="add" type="way" v="forward" />
+    <tag id="458129010" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129010" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129011" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129011" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129011" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129011" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129011" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129011" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129011" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129011" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129011" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129011" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129011" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129011" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129011" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129011" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129011" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129012" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129012" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129012" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129012" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129012" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129012" k="layer" o="add" type="way" v="1" />
+    <tag id="458129012" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458129012" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129012" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129012" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129012" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129012" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129012" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129012" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129012" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129012" k="overtaking" o="add" type="way" v="backward" />
+    <tag id="458129012" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129012" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129013" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458129013" k="hgv" o="add" type="way" v="yes" />
+    <tag id="458129013" k="ref" o="add" type="way" v="US 6" />
+    <tag id="458129013" k="name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="458129013" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129013" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129013" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458129013" k="highway" o="add" type="way" v="primary" />
+    <tag id="458129013" k="rcn_ref" o="add" type="way" v="G;Y" />
+    <tag id="458129013" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458129013" k="alt_name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="458129013" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458129013" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="458129013" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="458129013" k="old_ref_legislative" o="add" type="way" v="102" />
+    <tag id="458129014" k="foot" o="add" type="way" v="yes" />
+    <tag id="458129014" k="name" o="add" type="way" v="Pine Creek Rail Trail" />
+    <tag id="458129014" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="458129014" k="railway" o="add" type="way" v="abandoned" />
+    <tag id="458129014" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="458129014" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458129014" k="tiger:name_base" o="add" type="way" v="Conrail Railroad" />
+    <tag id="458129014" k="old_railway_operator" o="add" type="way" v="NYC" />
+    <tag id="458129014" k="note:old_railway_operator" o="add" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="458129015" k="foot" o="add" type="way" v="yes" />
+    <tag id="458129015" k="name" o="add" type="way" v="Pine Creek Rail Trail" />
+    <tag id="458129015" k="layer" o="add" type="way" v="1" />
+    <tag id="458129015" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458129015" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="458129015" k="railway" o="add" type="way" v="abandoned" />
+    <tag id="458129015" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="458129015" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458129015" k="tiger:name_base" o="add" type="way" v="Conrail Railroad" />
+    <tag id="458129015" k="old_railway_operator" o="add" type="way" v="NYC" />
+    <tag id="458129015" k="note:old_railway_operator" o="add" type="way" v="NYC&amp;HR (Geneva, Corning and Southern)" />
+    <tag id="458129016" k="name" o="add" type="way" v="Dantz Run Road" />
+    <tag id="458129016" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129016" k="layer" o="add" type="way" v="1" />
+    <tag id="458129016" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458129016" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129016" k="highway" o="add" type="way" v="residential" />
+    <tag id="458129016" k="alt_name" o="add" type="way" v="T468" />
+    <tag id="458129017" k="access" o="add" type="way" v="private" />
+    <tag id="458129017" k="highway" o="add" type="way" v="service" />
+    <tag id="458129017" k="service" o="add" type="way" v="driveway" />
+    <tag id="458129018" k="access" o="add" type="way" v="private" />
+    <tag id="458129018" k="highway" o="add" type="way" v="service" />
+    <tag id="458129018" k="service" o="add" type="way" v="driveway" />
+    <tag id="458129019" k="name" o="add" type="way" v="T451" />
+    <tag id="458129019" k="fixme" o="add" type="way" v="Real name?" />
+    <tag id="458129019" k="lanes" o="add" type="way" v="2" />
+    <tag id="458129019" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129019" k="highway" o="add" type="way" v="residential" />
+    <tag id="458129020" k="name" o="add" type="way" v="T451" />
+    <tag id="458129020" k="fixme" o="add" type="way" v="Real name?" />
+    <tag id="458129020" k="lanes" o="add" type="way" v="1" />
+    <tag id="458129020" k="layer" o="add" type="way" v="1" />
+    <tag id="458129020" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458129020" k="oneway" o="add" type="way" v="no" />
+    <tag id="458129020" k="highway" o="add" type="way" v="residential" />
+    <tag id="443940" k="ref" o="none" type="relation" v="6" />
+    <tag id="443940" k="name" o="none" type="relation" v="US 6 (PA)" />
+    <tag id="443940" k="type" o="none" type="relation" v="route" />
+    <tag id="443940" k="route" o="none" type="relation" v="road" />
+    <tag id="443940" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/e/ef/US_6.svg" />
+    <tag id="443940" k="network" o="none" type="relation" v="US:US" />
+    <tag id="443940" k="wikidata" o="none" type="relation" v="Q934625" />
+    <tag id="443940" k="wikipedia" o="none" type="relation" v="en:U.S. Route 6 in Pennsylvania" />
+    <tag id="443940" k="is_in:state" o="none" type="relation" v="PA" />
+    <tag id="1014798" k="ref" o="none" type="relation" v="660" />
+    <tag id="1014798" k="type" o="none" type="relation" v="route" />
+    <tag id="1014798" k="is_in" o="none" type="relation" v="PA" />
+    <tag id="1014798" k="route" o="none" type="relation" v="road" />
+    <tag id="1014798" k="network" o="none" type="relation" v="US:PA" />
+    <tag id="1014799" k="ref" o="none" type="relation" v="287" />
+    <tag id="1014799" k="type" o="none" type="relation" v="route" />
+    <tag id="1014799" k="is_in" o="none" type="relation" v="PA" />
+    <tag id="1014799" k="route" o="none" type="relation" v="road" />
+    <tag id="1014799" k="network" o="none" type="relation" v="US:PA" />
+    <tag id="1066191" k="ref" o="none" type="relation" v="Y" />
+    <tag id="1066191" k="name" o="none" type="relation" v="BicyclePA Route Y" />
+    <tag id="1066191" k="type" o="none" type="relation" v="route" />
+    <tag id="1066191" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1066191" k="network" o="none" type="relation" v="rcn" />
+    <tag id="1066191" k="cycle_network" o="none" type="relation" v="US:PA" />
+    <tag id="1066192" k="ref" o="none" type="relation" v="G" />
+    <tag id="1066192" k="name" o="none" type="relation" v="BicyclePA Route G" />
+    <tag id="1066192" k="type" o="none" type="relation" v="route" />
+    <tag id="1066192" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1066192" k="network" o="none" type="relation" v="rcn" />
+    <tag id="1066192" k="wikipedia" o="none" type="relation" v="en:BicyclePA Route G" />
+    <tag id="1066192" k="cycle_network" o="none" type="relation" v="US:PA" />
+    <tag id="1376479" k="name" o="none" type="relation" v="Lyons-Newberry Branch" />
+    <tag id="1376479" k="type" o="none" type="relation" v="route" />
+    <tag id="1376479" k="FIXME" o="none" type="relation" v="was there a separate line at Geneva?" />
+    <tag id="1376479" k="route" o="none" type="relation" v="railway" />
+    <tag id="1376479" k="source:name" o="none" type="relation" v="1917 Moody's Manual: http://books.google.com/books?id=Q1NNAAAAYAAJ&amp;pg=PA1389" />
+    <tag id="1376479" k="old_railway_operator" o="none" type="relation" v="NYC" />
+    <tag id="5696447" k="ref" o="none" type="relation" v="PCRT" />
+    <tag id="5696447" k="foot" o="none" type="relation" v="designated" />
+    <tag id="5696447" k="name" o="none" type="relation" v="Pine Creek Rail Trail" />
+    <tag id="5696447" k="type" o="none" type="relation" v="route" />
+    <tag id="5696447" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="5696447" k="network" o="none" type="relation" v="rcn" />
+    <tag id="5696447" k="wikipedia" o="none" type="relation" v="en:Pine Creek Rail Trail" />
+    <tag id="6770471" k="type" o="none" type="relation" v="destination_sign" />
+    <tag id="6770471" k="distance" o="none" type="relation" v="11 mi" />
+    <tag id="6770471" k="colour:back" o="none" type="relation" v="green" />
+    <tag id="6770471" k="colour:text" o="none" type="relation" v="white" />
+    <tag id="6770471" k="destination" o="none" type="relation" v="Wellsboro" />
+    <tag id="6770471" k="colour:arrow" o="none" type="relation" v="white" />
+    <tag id="6770471" k="destination:ref" o="none" type="relation" v="US 6 East" />
+    <tag id="6772710" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772710" k="distance" o="add" type="relation" v="43 mi" />
+    <tag id="6772710" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772710" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772710" k="destination" o="add" type="relation" v="Coudersport" />
+    <tag id="6772710" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772711" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772711" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772711" k="distance" o="add" type="relation" v="8 mi" />
+    <tag id="6772711" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772711" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772711" k="destination" o="add" type="relation" v="Ansonia" />
+    <tag id="6772711" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772712" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772712" k="distance" o="add" type="relation" v="22 mi" />
+    <tag id="6772712" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772712" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772712" k="destination" o="add" type="relation" v="Galeton" />
+    <tag id="6772712" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772713" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772713" k="distance" o="add" type="relation" v="15 mi" />
+    <tag id="6772713" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772713" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772713" k="destination" o="add" type="relation" v="Tioga" />
+    <tag id="6772713" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772714" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772714" k="distance" o="add" type="relation" v="13 mi" />
+    <tag id="6772714" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772714" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772714" k="destination" o="add" type="relation" v="Mansfield" />
+    <tag id="6772714" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772714" k="destination:ref" o="add" type="relation" v="US 6 East;PA 660 East" />
+    <tag id="6772715" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772715" k="distance" o="add" type="relation" v="46 mi" />
+    <tag id="6772715" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772715" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772715" k="destination" o="add" type="relation" v="Coudersport" />
+    <tag id="6772715" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772715" k="destination:ref" o="add" type="relation" v="US 6 West;PA 287 North" />
+    <tag id="6772716" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772716" k="distance" o="add" type="relation" v="23 mi" />
+    <tag id="6772716" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772716" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772716" k="destination" o="add" type="relation" v="Galeton" />
+    <tag id="6772716" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772716" k="destination:ref" o="add" type="relation" v="US 6 West;PA 287 North" />
+    <tag id="6772717" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772717" k="distance" o="add" type="relation" v="16 mi" />
+    <tag id="6772717" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772717" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772717" k="destination" o="add" type="relation" v="Tioga" />
+    <tag id="6772717" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772717" k="destination:ref" o="add" type="relation" v="US 6 West;PA 287 North" />
+    <tag id="6772718" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772718" k="distance" o="add" type="relation" v="11 mi" />
+    <tag id="6772718" k="colour:back" o="add" type="relation" v="brown" />
+    <tag id="6772718" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772718" k="destination" o="add" type="relation" v="Grand Canyon State Parks" />
+    <tag id="6772718" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772719" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772719" k="distance" o="add" type="relation" v="10 mi" />
+    <tag id="6772719" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772719" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772719" k="destination" o="add" type="relation" v="Grand Canyon" />
+    <tag id="6772719" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772719" k="destination:ref" o="add" type="relation" v="PA 660 West;PA 287 South" />
+    <tag id="6772720" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772720" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772720" k="distance" o="add" type="relation" v="3 mi" />
+    <tag id="6772720" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772720" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772720" k="destination" o="add" type="relation" v="Wellsboro" />
+    <tag id="6772720" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772720" k="destination:ref" o="add" type="relation" v="US 6 East;PA 287 South" />
+    <tag id="6772722" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772722" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772722" k="distance" o="add" type="relation" v="43 mi" />
+    <tag id="6772722" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772722" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772722" k="destination" o="add" type="relation" v="Coudersport" />
+    <tag id="6772722" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772722" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6772723" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772723" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772723" k="distance" o="add" type="relation" v="20 mi" />
+    <tag id="6772723" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772723" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772723" k="destination" o="add" type="relation" v="Galeton" />
+    <tag id="6772723" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772723" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6772724" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772724" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772724" k="distance" o="add" type="relation" v="14 mi" />
+    <tag id="6772724" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772724" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772724" k="destination" o="add" type="relation" v="Tioga" />
+    <tag id="6772724" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772724" k="destination:ref" o="add" type="relation" v="PA 287 North" />
+    <tag id="6772725" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772725" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772725" k="distance" o="add" type="relation" v="3 mi" />
+    <tag id="6772725" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772725" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772725" k="destination" o="add" type="relation" v="Wellsboro" />
+    <tag id="6772725" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772725" k="destination:ref" o="add" type="relation" v="US 6 East;PA 287 South" />
+    <tag id="6772726" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772726" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772726" k="distance" o="add" type="relation" v="14 mi" />
+    <tag id="6772726" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772726" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772726" k="destination" o="add" type="relation" v="Tioga" />
+    <tag id="6772726" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772726" k="destination:ref" o="add" type="relation" v="PA 287 North" />
+    <tag id="6772727" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6772727" k="fixme" o="add" type="relation" v="Location of sign for new intersection alignment?" />
+    <tag id="6772727" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6772727" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6772727" k="destination" o="add" type="relation" v="Galeton" />
+    <tag id="6772727" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6772727" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6772728" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6772728" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6772729" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6772729" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6772730" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6772730" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6772731" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6772731" k="restriction" o="add" type="relation" v="only_right_turn" />
+  </body>
+</changeset>

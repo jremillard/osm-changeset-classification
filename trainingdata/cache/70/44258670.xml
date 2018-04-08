@@ -1,0 +1,694 @@
+<changeset id="44258670" schema="2">
+  <counts nodesAdded="330" nodesDeleted="14" nodesModified="4" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="65" waysDeleted="4" waysModified="51" />
+  <meta>
+    <tag k="comment" v="Fixed errors from keepright and added details acc to bing and USGS" />
+    <tag k="created_by" v="JOSM/1.5 (10168 de)" />
+    <tag k="source" v="bing" />
+  </meta>
+  <body>
+    <tag id="175346887" k="source" o="add" type="node" v="Bing" />
+    <tag id="175346887" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="175347985" k="source" o="add" type="node" v="Bing" />
+    <tag id="175347985" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="4203381045" k="source" o="add" type="node" v="Bing" />
+    <tag id="4203381045" k="barrier" o="add" type="node" v="cattle_grid" />
+    <tag id="4203381053" k="source" o="add" type="node" v="Bing" />
+    <tag id="4203381053" k="barrier" o="add" type="node" v="cattle_grid" />
+    <tag id="5053102" k="hgv" o="none" type="way" v="designated" />
+    <tag id="5053102" k="ref" o="none" type="way" v="I 10" />
+    <tag id="5053102" k="lanes" o="none" type="way" v="2" />
+    <tag id="5053102" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5053102" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="5053102" k="highway" o="none" type="way" v="motorway" />
+    <tag id="5053102" k="old_ref" o="none" type="way" v="US 80" />
+    <tag id="5053102" k="maxspeed" o="none" type="way" v="75 mph" />
+    <tag id="5053102" k="adot_name" o="none" type="way" v="Tucson-Benson Highway" />
+    <tag id="5053102" k="tiger:cfcc" o="none" type="way" v="A11" />
+    <tag id="5053102" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="5053102" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5053102" k="tiger:name_base" o="none" type="way" v="I-10" />
+    <tag id="16788995" k="access" o="none" type="way" v="private" />
+    <tag id="16788995" k="highway" o="none" type="way" v="service" />
+    <tag id="16788995" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="16788995" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16788995" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16789010" k="highway" o="none" type="way" v="residential" />
+    <tag id="16789010" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16789010" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16789010" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16797612" k="highway" o="none" type="way" v="residential" />
+    <tag id="16797612" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16797612" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16797612" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16800560" k="access" o="none" type="way" v="private" />
+    <tag id="16800560" k="highway" o="none" type="way" v="service" />
+    <tag id="16800560" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="16800560" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16800560" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16801873" k="name" o="none" type="way" v="North Sunshine Lane" />
+    <tag id="16801873" k="highway" o="none" type="way" v="residential" />
+    <tag id="16801873" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16801873" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16801873" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16801873" k="tiger:name_base" o="none" type="way" v="Sunshine" />
+    <tag id="16801873" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16801873" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="16805310" k="name" o="none" type="way" v="South Ridge Drive" />
+    <tag id="16805310" k="highway" o="none" type="way" v="residential" />
+    <tag id="16805310" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16805310" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16805310" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16805310" k="tiger:zip_left" o="none" type="way" v="85602" />
+    <tag id="16805310" k="tiger:name_base" o="none" type="way" v="Ridge" />
+    <tag id="16805310" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16805310" k="tiger:zip_right" o="none" type="way" v="85602" />
+    <tag id="16805310" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16810482" k="name" o="none" type="way" v="Cold Rail Head" />
+    <tag id="16810482" k="highway" o="none" type="way" v="track" />
+    <tag id="16810482" k="tiger:cfcc" o="none" type="way" v="A51" />
+    <tag id="16810482" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="16810482" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16810482" k="tiger:name_base" o="none" type="way" v="Cold Rail Head" />
+    <tag id="16877620" k="highway" o="none" type="way" v="track" />
+    <tag id="16877620" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16877620" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="16877620" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16881101" k="highway" o="none" type="way" v="residential" />
+    <tag id="16881101" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16881101" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="16881101" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16905344" k="gauge" o="none" type="way" v="1435" />
+    <tag id="16905344" k="usage" o="none" type="way" v="main" />
+    <tag id="16905344" k="railway" o="none" type="way" v="rail" />
+    <tag id="16905344" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="16905344" k="electrified" o="none" type="way" v="no" />
+    <tag id="16905344" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="16905344" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16905344" k="tiger:name_base" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="16914036" k="name" o="none" type="way" v="Chickasha Trail" />
+    <tag id="16914036" k="source" o="none" type="way" v="Bing" />
+    <tag id="16914036" k="highway" o="none" type="way" v="residential" />
+    <tag id="16914036" k="surface" o="none" type="way" v="paved" />
+    <tag id="16914036" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16914036" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="16914036" k="tiger:zip_left" o="none" type="way" v="85602" />
+    <tag id="16914036" k="tiger:name_base" o="none" type="way" v="Chickasha" />
+    <tag id="16914036" k="tiger:name_type" o="none" type="way" v="Trl" />
+    <tag id="16914036" k="tiger:zip_right" o="none" type="way" v="85602" />
+    <tag id="16914036" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="16925976" k="name" o="none" type="way" v="East Castle Rock Kennel Drive" />
+    <tag id="16925976" k="highway" o="none" type="way" v="residential" />
+    <tag id="16925976" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16925976" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="16925976" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16925976" k="tiger:zip_left" o="none" type="way" v="85602" />
+    <tag id="16925976" k="tiger:name_base" o="none" type="way" v="Castle Rock Kennel" />
+    <tag id="16925976" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16925976" k="tiger:zip_right" o="none" type="way" v="85602" />
+    <tag id="16925976" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="16939532" k="name" o="none" type="way" v="South Lovell Road" />
+    <tag id="16939532" k="highway" o="none" type="way" v="residential" />
+    <tag id="16939532" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16939532" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="16939532" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16939532" k="tiger:zip_left" o="none" type="way" v="85602" />
+    <tag id="16939532" k="tiger:name_base" o="none" type="way" v="Lovell" />
+    <tag id="16939532" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16939532" k="tiger:zip_right" o="none" type="way" v="85602" />
+    <tag id="16939532" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="59148405" k="ref" o="none" type="way" v="I 10 BUS" />
+    <tag id="59148405" k="name" o="none" type="way" v="West 4th Street" />
+    <tag id="59148405" k="lanes" o="none" type="way" v="4" />
+    <tag id="59148405" k="source" o="none" type="way" v="Yahoo,TIGER" />
+    <tag id="59148405" k="highway" o="none" type="way" v="primary" />
+    <tag id="59148405" k="old_ref" o="none" type="way" v="US 80" />
+    <tag id="59148405" k="postal_code" o="none" type="way" v="85602" />
+    <tag id="105234828" k="name" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="105234828" k="gauge" o="none" type="way" v="1435" />
+    <tag id="105234828" k="usage" o="none" type="way" v="main" />
+    <tag id="105234828" k="railway" o="none" type="way" v="rail" />
+    <tag id="105234828" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="105234828" k="electrified" o="none" type="way" v="no" />
+    <tag id="105234828" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="105234828" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="105234828" k="tiger:name_base" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="244903819" k="name" o="none" type="way" v="Whetstone Avenue" />
+    <tag id="244903819" k="oneway" o="none" type="way" v="yes" />
+    <tag id="244903819" k="source" o="none" type="way" v="Bing" />
+    <tag id="244903819" k="highway" o="none" type="way" v="residential" />
+    <tag id="244903819" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="244903819" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="244903819" k="tiger:zip_left" o="none" type="way" v="85602" />
+    <tag id="244903819" k="tiger:name_base" o="none" type="way" v="Whetstone" />
+    <tag id="244903819" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="244903819" k="tiger:zip_right" o="none" type="way" v="85602" />
+    <tag id="244903819" k="tiger:name_base_1" o="none" type="way" v="Whetstone" />
+    <tag id="244903819" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="244903819" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="273815152" k="name" o="none" type="way" v="East Placita de Las Palmeritas" />
+    <tag id="273815152" k="highway" o="none" type="way" v="footway" />
+    <tag id="273815152" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="273815152" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="273815152" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="273815152" k="tiger:zip_left" o="none" type="way" v="85747" />
+    <tag id="273815152" k="tiger:name_base" o="none" type="way" v="Placita de Las Palmeritas" />
+    <tag id="273815152" k="tiger:zip_right" o="none" type="way" v="85747" />
+    <tag id="273815152" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="273815154" k="name" o="none" type="way" v="East Placita de Las Palmeritas" />
+    <tag id="273815154" k="highway" o="none" type="way" v="footway" />
+    <tag id="278144415" k="highway" o="none" type="way" v="footway" />
+    <tag id="280854744" k="name" o="none" type="way" v="Tequilla Bend" />
+    <tag id="280854744" k="highway" o="none" type="way" v="residential" />
+    <tag id="280854744" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="280854744" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="280854744" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="280854744" k="tiger:name_base" o="none" type="way" v="Tequilla Bend" />
+    <tag id="281138884" k="name" o="none" type="way" v="South Nexus Drive" />
+    <tag id="281138884" k="oneway" o="none" type="way" v="yes" />
+    <tag id="281138884" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="281138884" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="281138884" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="281138884" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="281138884" k="tiger:name_base" o="none" type="way" v="Nexus" />
+    <tag id="281138884" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="321041863" k="foot" o="none" type="way" v="yes" />
+    <tag id="321041863" k="name" o="none" type="way" v="AZT - Las Cinegas" />
+    <tag id="321041863" k="FIXME" o="none" type="way" v="yes" />
+    <tag id="321041863" k="horse" o="none" type="way" v="yes" />
+    <tag id="321041863" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="321041863" k="highway" o="none" type="way" v="path" />
+    <tag id="321041863" k="surface" o="none" type="way" v="dirt" />
+    <tag id="321041863" k="smoothness" o="none" type="way" v="bad" />
+    <tag id="321041863" k="mtb:scale:imba" o="none" type="way" v="2" />
+    <tag id="332922115" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922115" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922115" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922117" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922117" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922117" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922146" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922146" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922146" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922158" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922158" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922158" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922172" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922172" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922172" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922200" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922200" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922200" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922201" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922201" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922201" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922202" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922202" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922202" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922204" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922204" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922204" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922216" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922216" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922216" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="332922248" k="seasonal" o="none" type="way" v="no" />
+    <tag id="332922248" k="waterway" o="none" type="way" v="stream" />
+    <tag id="332922248" k="intermittent" o="none" type="way" v="yes" />
+    <tag id="333445222" k="hgv" o="none" type="way" v="designated" />
+    <tag id="333445222" k="ref" o="none" type="way" v="I 10" />
+    <tag id="333445222" k="lanes" o="none" type="way" v="2" />
+    <tag id="333445222" k="oneway" o="none" type="way" v="yes" />
+    <tag id="333445222" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="333445222" k="highway" o="none" type="way" v="motorway" />
+    <tag id="333445222" k="maxspeed" o="none" type="way" v="75 mph" />
+    <tag id="333445222" k="adot_name" o="none" type="way" v="Tucson-Benson Highway" />
+    <tag id="333445222" k="tiger:cfcc" o="none" type="way" v="A11:A15" />
+    <tag id="333445222" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="333445222" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="333445222" k="tiger:name_base" o="none" type="way" v="I-10" />
+    <tag id="333445326" k="hgv" o="none" type="way" v="designated" />
+    <tag id="333445326" k="ref" o="none" type="way" v="I 10" />
+    <tag id="333445326" k="name" o="none" type="way" v="East Benson Highway" />
+    <tag id="333445326" k="lanes" o="none" type="way" v="2" />
+    <tag id="333445326" k="oneway" o="none" type="way" v="yes" />
+    <tag id="333445326" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="333445326" k="highway" o="none" type="way" v="motorway" />
+    <tag id="333445326" k="old_ref" o="none" type="way" v="US 80" />
+    <tag id="333445326" k="maxspeed" o="none" type="way" v="75 mph" />
+    <tag id="333445326" k="adot_name" o="none" type="way" v="Tucson-Benson Highway" />
+    <tag id="333445326" k="tiger:cfcc" o="none" type="way" v="A11" />
+    <tag id="333445326" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="333445326" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="333445326" k="tiger:name_base" o="none" type="way" v="Benson" />
+    <tag id="333445326" k="tiger:name_type" o="none" type="way" v="Hwy" />
+    <tag id="333445326" k="tiger:name_base_1" o="none" type="way" v="I-10" />
+    <tag id="333445326" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="343205286" k="oneway" o="none" type="way" v="yes" />
+    <tag id="343205286" k="waterway" o="none" type="way" v="drain" />
+    <tag id="343205853" k="oneway" o="none" type="way" v="yes" />
+    <tag id="343205853" k="waterway" o="none" type="way" v="drain" />
+    <tag id="352360636" k="highway" o="none" type="way" v="service" />
+    <tag id="352360636" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="352360636" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="352414330" k="name" o="none" type="way" v="South Nexus Drive" />
+    <tag id="352414330" k="oneway" o="none" type="way" v="yes" />
+    <tag id="352414330" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="370140419" k="name" o="none" type="way" v="South Ocotillo Avenue" />
+    <tag id="370140419" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="370140419" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="370140419" k="tiger:county" o="none" type="way" v="Cochise, AZ" />
+    <tag id="370140419" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="370140419" k="tiger:zip_left" o="none" type="way" v="85602" />
+    <tag id="370140419" k="tiger:name_base" o="none" type="way" v="Ocotillo" />
+    <tag id="370140419" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="370140419" k="tiger:zip_right" o="none" type="way" v="85602" />
+    <tag id="370140419" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="370140427" k="layer" o="none" type="way" v="1" />
+    <tag id="370140427" k="bridge" o="none" type="way" v="yes" />
+    <tag id="370140427" k="highway" o="none" type="way" v="footway" />
+    <tag id="371300278" k="name" o="none" type="way" v="South Hathaway Ranch Road" />
+    <tag id="371300278" k="lanes" o="none" type="way" v="2" />
+    <tag id="371300278" k="oneway" o="none" type="way" v="no" />
+    <tag id="371300278" k="highway" o="none" type="way" v="residential" />
+    <tag id="371300278" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="371300278" k="smoothness" o="none" type="way" v="good" />
+    <tag id="372174249" k="name" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="372174249" k="gauge" o="none" type="way" v="1435" />
+    <tag id="372174249" k="usage" o="none" type="way" v="main" />
+    <tag id="372174249" k="railway" o="none" type="way" v="rail" />
+    <tag id="372174249" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="372174249" k="electrified" o="none" type="way" v="no" />
+    <tag id="372174249" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="372174249" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="372174249" k="tiger:name_base" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="372174276" k="name" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="372174276" k="gauge" o="none" type="way" v="1435" />
+    <tag id="372174276" k="usage" o="none" type="way" v="main" />
+    <tag id="372174276" k="railway" o="none" type="way" v="rail" />
+    <tag id="372174276" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="372174276" k="electrified" o="none" type="way" v="no" />
+    <tag id="372174276" k="tiger:county" o="none" type="way" v="Pima, AZ" />
+    <tag id="372174276" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="372174276" k="tiger:name_base" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="372520529" k="foot" o="none" type="way" v="yes" />
+    <tag id="372520529" k="name" o="none" type="way" v="AZT - Las Cinegas" />
+    <tag id="372520529" k="FIXME" o="none" type="way" v="yes" />
+    <tag id="372520529" k="horse" o="none" type="way" v="yes" />
+    <tag id="372520529" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="372520529" k="highway" o="none" type="way" v="path" />
+    <tag id="372520529" k="surface" o="none" type="way" v="dirt" />
+    <tag id="372520529" k="smoothness" o="none" type="way" v="bad" />
+    <tag id="372520529" k="mtb:scale:imba" o="none" type="way" v="2" />
+    <tag id="387969791" k="foot" o="none" type="way" v="yes" />
+    <tag id="387969791" k="name" o="none" type="way" v="Harrison Greenway" />
+    <tag id="387969791" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="387969791" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="458503009" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503009" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503009" k="natural" o="add" type="way" v="water" />
+    <tag id="458503012" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503012" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503012" k="natural" o="add" type="way" v="water" />
+    <tag id="458503014" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503014" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503014" k="natural" o="add" type="way" v="water" />
+    <tag id="458503017" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503017" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503017" k="natural" o="add" type="way" v="water" />
+    <tag id="458503019" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503019" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503019" k="natural" o="add" type="way" v="water" />
+    <tag id="458503022" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503022" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503022" k="natural" o="add" type="way" v="water" />
+    <tag id="458503025" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503025" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503025" k="natural" o="add" type="way" v="water" />
+    <tag id="458503026" k="water" o="add" type="way" v="wastewater" />
+    <tag id="458503026" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503026" k="natural" o="add" type="way" v="water" />
+    <tag id="458503027" k="foot" o="add" type="way" v="yes" />
+    <tag id="458503027" k="name" o="add" type="way" v="AZT - Las Cinegas" />
+    <tag id="458503027" k="FIXME" o="add" type="way" v="yes" />
+    <tag id="458503027" k="horse" o="add" type="way" v="yes" />
+    <tag id="458503027" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503027" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503027" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503027" k="highway" o="add" type="way" v="path" />
+    <tag id="458503027" k="surface" o="add" type="way" v="dirt" />
+    <tag id="458503027" k="smoothness" o="add" type="way" v="bad" />
+    <tag id="458503027" k="mtb:scale:imba" o="add" type="way" v="2" />
+    <tag id="458503028" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503028" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503028" k="name" o="add" type="way" v="East Benson Highway" />
+    <tag id="458503028" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503028" k="layer" o="add" type="way" v="1" />
+    <tag id="458503028" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458503028" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503028" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503028" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503028" k="old_ref" o="add" type="way" v="US 80" />
+    <tag id="458503028" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503028" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503028" k="tiger:cfcc" o="add" type="way" v="A11" />
+    <tag id="458503028" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503028" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503028" k="tiger:name_base" o="add" type="way" v="Benson" />
+    <tag id="458503028" k="tiger:name_type" o="add" type="way" v="Hwy" />
+    <tag id="458503028" k="tiger:name_base_1" o="add" type="way" v="I-10" />
+    <tag id="458503028" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="458503032" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503032" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503032" k="name" o="add" type="way" v="East Benson Highway" />
+    <tag id="458503032" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503032" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503032" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503032" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503032" k="old_ref" o="add" type="way" v="US 80" />
+    <tag id="458503032" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503032" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503032" k="tiger:cfcc" o="add" type="way" v="A11" />
+    <tag id="458503032" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503032" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503032" k="tiger:name_base" o="add" type="way" v="Benson" />
+    <tag id="458503032" k="tiger:name_type" o="add" type="way" v="Hwy" />
+    <tag id="458503032" k="tiger:name_base_1" o="add" type="way" v="I-10" />
+    <tag id="458503032" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="458503037" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503037" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503037" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503040" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503040" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503040" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503042" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503042" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503042" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503043" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503043" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503043" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503044" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503044" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503044" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503044" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503044" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503045" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503045" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503046" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503046" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503046" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503046" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503048" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503048" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503050" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503050" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503050" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503050" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503050" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503052" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503052" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503052" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503052" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503054" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503054" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503054" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503054" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503056" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503056" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503056" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503056" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503056" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503058" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503058" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503058" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503058" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503058" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503060" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503060" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503062" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503062" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503062" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503062" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503062" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503064" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503064" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503064" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503064" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503064" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503064" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503066" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503066" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503066" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503066" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503066" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503067" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503067" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503067" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503067" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503067" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503068" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503068" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503068" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503068" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503068" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503069" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503069" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503069" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503071" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503071" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503071" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503073" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503073" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503073" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503073" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503073" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503075" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503075" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503075" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503079" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503079" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503079" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503081" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503081" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503081" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503083" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503083" k="waterway" o="add" type="way" v="drain" />
+    <tag id="458503084" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503084" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503084" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503086" k="seasonal" o="add" type="way" v="no" />
+    <tag id="458503086" k="waterway" o="add" type="way" v="stream" />
+    <tag id="458503086" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="458503088" k="gauge" o="add" type="way" v="1435" />
+    <tag id="458503088" k="layer" o="add" type="way" v="1" />
+    <tag id="458503088" k="usage" o="add" type="way" v="main" />
+    <tag id="458503088" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458503088" k="railway" o="add" type="way" v="rail" />
+    <tag id="458503088" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="458503088" k="electrified" o="add" type="way" v="no" />
+    <tag id="458503088" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503088" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503088" k="tiger:name_base" o="add" type="way" v="Union Pacific Railroad" />
+    <tag id="458503089" k="gauge" o="add" type="way" v="1435" />
+    <tag id="458503089" k="usage" o="add" type="way" v="main" />
+    <tag id="458503089" k="railway" o="add" type="way" v="rail" />
+    <tag id="458503089" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="458503089" k="electrified" o="add" type="way" v="no" />
+    <tag id="458503089" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503089" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503089" k="tiger:name_base" o="add" type="way" v="Union Pacific Railroad" />
+    <tag id="458503090" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503090" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503090" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503090" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503090" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503090" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503090" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503090" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503090" k="tiger:cfcc" o="add" type="way" v="A11:A15" />
+    <tag id="458503090" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503090" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503090" k="tiger:name_base" o="add" type="way" v="I-10" />
+    <tag id="458503095" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503095" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503095" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503095" k="layer" o="add" type="way" v="1" />
+    <tag id="458503095" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458503095" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503095" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503095" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503095" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503095" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503095" k="tiger:cfcc" o="add" type="way" v="A11:A15" />
+    <tag id="458503095" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503095" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503095" k="tiger:name_base" o="add" type="way" v="I-10" />
+    <tag id="458503100" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503100" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503100" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503100" k="layer" o="add" type="way" v="1" />
+    <tag id="458503100" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458503100" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503100" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503100" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503100" k="old_ref" o="add" type="way" v="US 80" />
+    <tag id="458503100" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503100" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503100" k="tiger:cfcc" o="add" type="way" v="A11" />
+    <tag id="458503100" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503100" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503100" k="tiger:name_base" o="add" type="way" v="I-10" />
+    <tag id="458503103" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503103" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503103" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503103" k="layer" o="add" type="way" v="1" />
+    <tag id="458503103" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458503103" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503103" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503103" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503103" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503103" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503103" k="tiger:cfcc" o="add" type="way" v="A11:A15" />
+    <tag id="458503103" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503103" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503103" k="tiger:name_base" o="add" type="way" v="I-10" />
+    <tag id="458503104" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503104" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503104" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503104" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503104" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503104" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503104" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503104" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503104" k="tiger:cfcc" o="add" type="way" v="A11:A15" />
+    <tag id="458503104" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503104" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503104" k="tiger:name_base" o="add" type="way" v="I-10" />
+    <tag id="458503106" k="hgv" o="add" type="way" v="designated" />
+    <tag id="458503106" k="ref" o="add" type="way" v="I 10" />
+    <tag id="458503106" k="lanes" o="add" type="way" v="2" />
+    <tag id="458503106" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458503106" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="458503106" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458503106" k="old_ref" o="add" type="way" v="US 80" />
+    <tag id="458503106" k="maxspeed" o="add" type="way" v="75 mph" />
+    <tag id="458503106" k="adot_name" o="add" type="way" v="Tucson-Benson Highway" />
+    <tag id="458503106" k="tiger:cfcc" o="add" type="way" v="A11" />
+    <tag id="458503106" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503106" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503106" k="tiger:name_base" o="add" type="way" v="I-10" />
+    <tag id="458503110" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503110" k="highway" o="add" type="way" v="track" />
+    <tag id="458503112" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503112" k="highway" o="add" type="way" v="service" />
+    <tag id="458503114" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503114" k="highway" o="add" type="way" v="service" />
+    <tag id="458503117" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503117" k="highway" o="add" type="way" v="residential" />
+    <tag id="458503120" k="highway" o="add" type="way" v="footway" />
+    <tag id="458503121" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503121" k="highway" o="add" type="way" v="service" />
+    <tag id="458503122" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503122" k="highway" o="add" type="way" v="track" />
+    <tag id="458503123" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503123" k="highway" o="add" type="way" v="track" />
+    <tag id="458503126" k="highway" o="add" type="way" v="track" />
+    <tag id="458503126" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="458503126" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503126" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503129" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503129" k="highway" o="add" type="way" v="residential" />
+    <tag id="458503131" k="highway" o="add" type="way" v="footway" />
+    <tag id="458503133" k="layer" o="add" type="way" v="-1" />
+    <tag id="458503133" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="458503133" k="highway" o="add" type="way" v="track" />
+    <tag id="458503133" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="458503133" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503133" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503134" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503134" k="highway" o="add" type="way" v="service" />
+    <tag id="458503135" k="highway" o="add" type="way" v="service" />
+    <tag id="458503136" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503136" k="highway" o="add" type="way" v="service" />
+    <tag id="458503137" k="source" o="add" type="way" v="Bing" />
+    <tag id="458503137" k="highway" o="add" type="way" v="residential" />
+    <tag id="458503138" k="name" o="add" type="way" v="Union Pacific Railroad" />
+    <tag id="458503138" k="gauge" o="add" type="way" v="1435" />
+    <tag id="458503138" k="usage" o="add" type="way" v="main" />
+    <tag id="458503138" k="railway" o="add" type="way" v="rail" />
+    <tag id="458503138" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="458503138" k="electrified" o="add" type="way" v="no" />
+    <tag id="458503138" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503138" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458503138" k="tiger:name_base" o="add" type="way" v="Union Pacific Railroad" />
+    <tag id="458503139" k="name" o="add" type="way" v="Union Pacific Railroad" />
+    <tag id="458503139" k="gauge" o="add" type="way" v="1435" />
+    <tag id="458503139" k="layer" o="add" type="way" v="1" />
+    <tag id="458503139" k="usage" o="add" type="way" v="main" />
+    <tag id="458503139" k="bridge" o="add" type="way" v="yes" />
+    <tag id="458503139" k="railway" o="add" type="way" v="rail" />
+    <tag id="458503139" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="458503139" k="electrified" o="add" type="way" v="no" />
+    <tag id="458503139" k="tiger:county" o="add" type="way" v="Pima, AZ" />
+    <tag id="458503139" k="tiger:reviewed" o="add" type="way" v="aerial" />
+    <tag id="458503139" k="tiger:name_base" o="add" type="way" v="Union Pacific Railroad" />
+    <tag id="297142" k="to" o="none" type="relation" v="New Orleans" />
+    <tag id="297142" k="ref" o="none" type="relation" v="1-2" />
+    <tag id="297142" k="from" o="none" type="relation" v="Los Angeles" />
+    <tag id="297142" k="name" o="none" type="relation" v="Sunset Limited" />
+    <tag id="297142" k="note" o="none" type="relation" v="Continuous/verified/ordered from CA-111/I-10 in CA to id 15176537 east of San Antonio, TX" />
+    <tag id="297142" k="type" o="none" type="relation" v="route" />
+    <tag id="297142" k="FIXME" o="none" type="relation" v="Does it use both routes between Houston and Beaumont? If so, how does it get to the Houston station? Through Settegast Yard?" />
+    <tag id="297142" k="route" o="none" type="relation" v="train" />
+    <tag id="297142" k="colour" o="none" type="relation" v="#005480" />
+    <tag id="297142" k="network" o="none" type="relation" v="Amtrak Intercity" />
+    <tag id="297142" k="service" o="none" type="relation" v="long_distance" />
+    <tag id="297142" k="operator" o="none" type="relation" v="Amtrak" />
+    <tag id="297142" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2795760" k="ref" o="none" type="relation" v="21-22; 421-422" />
+    <tag id="2795760" k="name" o="none" type="relation" v="Texas Eagle" />
+    <tag id="2795760" k="type" o="none" type="relation" v="route" />
+    <tag id="2795760" k="FIXME" o="none" type="relation" v="Many &quot;track splits&quot; in Arizona need fixing in underlying infrastructure; around Saint Louis tracks are estimated" />
+    <tag id="2795760" k="route" o="none" type="relation" v="train" />
+    <tag id="2795760" k="colour" o="none" type="relation" v="#005480" />
+    <tag id="2795760" k="service" o="none" type="relation" v="long_distance" />
+    <tag id="2795760" k="website" o="none" type="relation" v="http://www.amtrak.com/" />
+    <tag id="2795760" k="operator" o="none" type="relation" v="Amtrak" />
+    <tag id="2795760" k="wikidata" o="none" type="relation" v="Q756538" />
+    <tag id="2795760" k="passenger" o="none" type="relation" v="national" />
+    <tag id="2795760" k="wikipedia" o="none" type="relation" v="en:Texas Eagle" />
+    <tag id="2795760" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2804113" k="ref" o="none" type="relation" v="AZT" />
+    <tag id="2804113" k="foot" o="none" type="relation" v="yes" />
+    <tag id="2804113" k="name" o="none" type="relation" v="Arizona Trail" />
+    <tag id="2804113" k="type" o="none" type="relation" v="route" />
+    <tag id="2804113" k="horse" o="none" type="relation" v="yes" />
+    <tag id="2804113" k="route" o="none" type="relation" v="hiking" />
+    <tag id="2804113" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2804113" k="network" o="none" type="relation" v="nwn" />
+    <tag id="2804113" k="distance" o="none" type="relation" v="1234 km" />
+    <tag id="2804113" k="operator" o="none" type="relation" v="Arizona Trail Association" />
+    <tag id="2804113" k="roundtrip" o="none" type="relation" v="no" />
+    <tag id="2804113" k="wikipedia" o="none" type="relation" v="en:Arizona Trail" />
+    <tag id="3112065" k="ref" o="none" type="relation" v="AZT" />
+    <tag id="3112065" k="name" o="none" type="relation" v="Arizona Trail" />
+    <tag id="3112065" k="type" o="none" type="relation" v="route" />
+    <tag id="3112065" k="route" o="none" type="relation" v="mtb" />
+    <tag id="3112065" k="mtb:type" o="none" type="relation" v="crosscountry" />
+    <tag id="3332620" k="ref" o="none" type="relation" v="10" />
+    <tag id="3332620" k="name" o="none" type="relation" v="I-10 East (AZ)" />
+    <tag id="3332620" k="type" o="none" type="relation" v="route" />
+    <tag id="3332620" k="route" o="none" type="relation" v="road" />
+    <tag id="3332620" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/d/d5/I-10.svg" />
+    <tag id="3332620" k="direction" o="none" type="relation" v="east" />
+    <tag id="3332620" k="wikipedia" o="none" type="relation" v="en:Interstate 10 in Arizona" />
+    <tag id="3332620" k="is_in:state" o="none" type="relation" v="AZ" />
+    <tag id="3332621" k="ref" o="none" type="relation" v="10" />
+    <tag id="3332621" k="name" o="none" type="relation" v="I-10 West (AZ)" />
+    <tag id="3332621" k="type" o="none" type="relation" v="route" />
+    <tag id="3332621" k="route" o="none" type="relation" v="road" />
+    <tag id="3332621" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/d/d5/I-10.svg" />
+    <tag id="3332621" k="network" o="none" type="relation" v="US:I" />
+    <tag id="3332621" k="direction" o="none" type="relation" v="west" />
+    <tag id="3332621" k="wikipedia" o="none" type="relation" v="en:Interstate 10 in Arizona" />
+    <tag id="3332621" k="is_in:state" o="none" type="relation" v="AZ" />
+  </body>
+</changeset>

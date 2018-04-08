@@ -1,0 +1,1891 @@
+<changeset id="44086051" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="21" relationsAdded="0" relationsDeleted="12" relationsModified="27" waysAdded="0" waysDeleted="32974" waysModified="33240" />
+  <meta>
+    <tag k="bot" v="yes" />
+    <tag k="comment" v="Revert un-discussed and erroneous building footprint imports, see http://www.openstreetmap.org/changeset/43899797 http://www.openstreetmap.org/changeset/43886022 http://www.openstreetmap.org/user_blocks/1096 et al" />
+    <tag k="created_by" v="osmtools/30252 (linux)" />
+  </meta>
+  <body>
+    <tag id="357769583" k="ele" o="add" type="node" v="10" />
+    <tag id="357769583" k="name" o="add" type="node" v="Butler Pond" />
+    <tag id="357769583" k="landuse" o="add" type="node" v="reservoir" />
+    <tag id="357769583" k="gnis:created" o="add" type="node" v="06/17/1980" />
+    <tag id="357769583" k="gnis:state_id" o="add" type="node" v="37" />
+    <tag id="357769583" k="gnis:county_id" o="add" type="node" v="019" />
+    <tag id="357769583" k="gnis:feature_id" o="add" type="node" v="982337" />
+    <tag id="357771852" k="ele" o="add" type="node" v="295" />
+    <tag id="357771852" k="name" o="add" type="node" v="East Elementary School" />
+    <tag id="357771852" k="amenity" o="add" type="node" v="school" />
+    <tag id="357771852" k="gnis:created" o="add" type="node" v="06/17/1980" />
+    <tag id="357771852" k="gnis:state_id" o="add" type="node" v="37" />
+    <tag id="357771852" k="gnis:county_id" o="add" type="node" v="071" />
+    <tag id="357771852" k="gnis:feature_id" o="add" type="node" v="984534" />
+    <tag id="357776961" k="ele" o="add" type="node" v="280" />
+    <tag id="357776961" k="name" o="add" type="node" v="Lincoln Junior High School" />
+    <tag id="357776961" k="amenity" o="add" type="node" v="school" />
+    <tag id="357776961" k="gnis:created" o="add" type="node" v="06/17/1980" />
+    <tag id="357776961" k="gnis:state_id" o="add" type="node" v="37" />
+    <tag id="357776961" k="gnis:county_id" o="add" type="node" v="071" />
+    <tag id="357776961" k="gnis:feature_id" o="add" type="node" v="988496" />
+    <tag id="357798756" k="ele" o="add" type="node" v="16" />
+    <tag id="357798756" k="name" o="add" type="node" v="Faith Church" />
+    <tag id="357798756" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="357798756" k="religion" o="add" type="node" v="christian" />
+    <tag id="357798756" k="gnis:created" o="add" type="node" v="09/01/1990" />
+    <tag id="357798756" k="gnis:state_id" o="add" type="node" v="37" />
+    <tag id="357798756" k="gnis:county_id" o="add" type="node" v="019" />
+    <tag id="357798756" k="gnis:feature_id" o="add" type="node" v="1004676" />
+    <tag id="357814532" k="ele" o="none" type="node" v="15" />
+    <tag id="357814532" k="name" o="none" type="node" v="Ash Post Office" />
+    <tag id="357814532" k="amenity" o="none" type="node" v="post_office" />
+    <tag id="357814532" k="gnis:created" o="none" type="node" v="11/10/2008" />
+    <tag id="357814532" k="gnis:state_id" o="none" type="node" v="37" />
+    <tag id="357814532" k="gnis:county_id" o="none" type="node" v="019" />
+    <tag id="357814532" k="gnis:feature_id" o="none" type="node" v="2505322" />
+    <tag id="367911242" k="ele" o="add" type="node" v="245" />
+    <tag id="367911242" k="name" o="add" type="node" v="Stagecoach House" />
+    <tag id="367911242" k="source" o="add" type="node" v="USGS Geonames" />
+    <tag id="367911242" k="building" o="add" type="node" v="yes" />
+    <tag id="367911242" k="addr:state" o="add" type="node" v="NC" />
+    <tag id="367911242" k="gnis:reviewed" o="add" type="node" v="no" />
+    <tag id="367911242" k="gnis:feature_id" o="add" type="node" v="1007220" />
+    <tag id="367911242" k="gnis:county_name" o="add" type="node" v="Gaston" />
+    <tag id="367911242" k="gnis:import_uuid" o="add" type="node" v="57871b70-0100-4405-bb30-88b2e001a944" />
+    <tag id="367912087" k="ele" o="add" type="node" v="7" />
+    <tag id="367912087" k="name" o="add" type="node" v="Brunswick Cove Nursing Center" />
+    <tag id="367912087" k="source" o="add" type="node" v="USGS Geonames" />
+    <tag id="367912087" k="landuse" o="add" type="node" v="residential" />
+    <tag id="367912087" k="addr:state" o="add" type="node" v="NC" />
+    <tag id="367912087" k="gnis:reviewed" o="add" type="node" v="no" />
+    <tag id="367912087" k="gnis:feature_id" o="add" type="node" v="2505750" />
+    <tag id="367912087" k="gnis:county_name" o="add" type="node" v="Brunswick" />
+    <tag id="367912087" k="gnis:import_uuid" o="add" type="node" v="57871b70-0100-4405-bb30-88b2e001a944" />
+    <tag id="1224364223" k="name" o="add" type="node" v="Cherryville Police Department" />
+    <tag id="1224364223" k="amenity" o="add" type="node" v="police" />
+    <tag id="1224364225" k="name" o="add" type="node" v="First United Methodist Church" />
+    <tag id="1224364225" k="phone" o="add" type="node" v="704-435-6732" />
+    <tag id="1224364225" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="1224364225" k="website" o="add" type="node" v="http://www.firstmethodistcherryville.com/" />
+    <tag id="1224364225" k="religion" o="add" type="node" v="christian" />
+    <tag id="1224364225" k="addr:city" o="add" type="node" v="Cherryville" />
+    <tag id="1224364225" k="addr:street" o="add" type="node" v="North Pink Street" />
+    <tag id="1224364225" k="denomination" o="add" type="node" v="methodist" />
+    <tag id="1224364225" k="addr:housenumber" o="add" type="node" v="601" />
+    <tag id="2000137630" k="name" o="add" type="node" v="Brunswick Forest Fitness and Wellness Center" />
+    <tag id="2000137630" k="building" o="add" type="node" v="yes" />
+    <tag id="2002637919" k="name" o="add" type="node" v="Wilmington Health Brunswick Forest" />
+    <tag id="2002637919" k="amenity" o="add" type="node" v="clinic" />
+    <tag id="2002637919" k="building" o="add" type="node" v="yes" />
+    <tag id="2002637919" k="addr:street" o="add" type="node" v="S. Dickinson Drive" />
+    <tag id="2002637919" k="designation" o="add" type="node" v="Clinic" />
+    <tag id="2002637919" k="addr:postcode" o="add" type="node" v="28451" />
+    <tag id="2002637919" k="addr:housename" o="add" type="node" v="Suite 140" />
+    <tag id="2002637919" k="addr:housenumber" o="add" type="node" v="1333" />
+    <tag id="2002674455" k="name" o="add" type="node" v="Brunswick Forest Offices" />
+    <tag id="2002674455" k="building" o="add" type="node" v="yes" />
+    <tag id="2002674455" k="addr:street" o="add" type="node" v="Evangeline Drive" />
+    <tag id="2002674455" k="addr:postcode" o="add" type="node" v="28451" />
+    <tag id="2002674455" k="addr:housenumber" o="add" type="node" v="1007" />
+    <tag id="2021648601" k="name" o="add" type="node" v="Tryon Elementary School" />
+    <tag id="2021648601" k="amenity" o="add" type="node" v="school" />
+    <tag id="2084705900" k="name" o="add" type="node" v="Roy Stines' home" />
+    <tag id="2084705900" k="building" o="add" type="node" v="house" />
+    <tag id="2084705900" k="addr:street" o="add" type="node" v="cape hickory road" />
+    <tag id="2084705900" k="addr:housenumber" o="add" type="node" v="540" />
+    <tag id="2784760364" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="2810303538" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="3243857862" k="name" o="add" type="node" v="Chesterfield Church of Christ" />
+    <tag id="3243857862" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3243857862" k="religion" o="add" type="node" v="christian" />
+    <tag id="3243857862" k="denomination" o="add" type="node" v="church_of_christ" />
+    <tag id="3254468627" k="building" o="add" type="node" v="house" />
+    <tag id="3254468627" k="addr:city" o="add" type="node" v="Morganton" />
+    <tag id="3254468627" k="addr:state" o="add" type="node" v="NC" />
+    <tag id="3254468627" k="addr:street" o="add" type="node" v="Estelle Crump Road" />
+    <tag id="3254468627" k="addr:postcode" o="add" type="node" v="28655" />
+    <tag id="3254468627" k="addr:housenumber" o="add" type="node" v="3126" />
+    <tag id="3254468628" k="building" o="add" type="node" v="house" />
+    <tag id="3254468628" k="addr:city" o="add" type="node" v="Morganton" />
+    <tag id="3254468628" k="addr:state" o="add" type="node" v="NC" />
+    <tag id="3254468628" k="addr:street" o="add" type="node" v="Sawdust Road" />
+    <tag id="3254468628" k="addr:postcode" o="add" type="node" v="28655" />
+    <tag id="3254468628" k="addr:housenumber" o="add" type="node" v="1797" />
+    <tag id="3254732162" k="name" o="add" type="node" v="VX Aerospace" />
+    <tag id="3254732162" k="building" o="add" type="node" v="industrial" />
+    <tag id="3293277622" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3358459412" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3358459412" k="religion" o="add" type="node" v="christian" />
+    <tag id="12429381" k="name" o="none" type="way" v="Union Church Road" />
+    <tag id="12429381" k="highway" o="none" type="way" v="residential" />
+    <tag id="12429381" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="12429381" k="tiger:county" o="none" type="way" v="Horry, SC" />
+    <tag id="12429381" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="12429381" k="tiger:zip_left" o="none" type="way" v="29566" />
+    <tag id="12429381" k="tiger:name_base" o="none" type="way" v="Union Church" />
+    <tag id="12429381" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="12429381" k="tiger:zip_right" o="none" type="way" v="29566" />
+    <tag id="16150224" k="source" o="none" type="way" v="PGS" />
+    <tag id="16150438" k="source" o="add" type="way" v="PGS" />
+    <tag id="16150438" k="natural" o="add" type="way" v="water" />
+    <tag id="16150440" k="source" o="add" type="way" v="PGS" />
+    <tag id="16150440" k="natural" o="add" type="way" v="water" />
+    <tag id="16150527" k="source" o="add" type="way" v="PGS" />
+    <tag id="16150527" k="natural" o="add" type="way" v="coastline" />
+    <tag id="16151206" k="source" o="add" type="way" v="PGS" />
+    <tag id="16151206" k="natural" o="add" type="way" v="coastline" />
+    <tag id="16412846" k="highway" o="none" type="way" v="residential" />
+    <tag id="16412846" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16412846" k="tiger:tlid" o="add" type="way" v="153144930:153144939:153144943:153144929" />
+    <tag id="16412846" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16412846" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16412846" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16412846" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16412846" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16412950" k="highway" o="add" type="way" v="residential" />
+    <tag id="16412950" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16412950" k="tiger:tlid" o="add" type="way" v="153179514" />
+    <tag id="16412950" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16412950" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16412950" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16412950" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16412950" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16414784" k="highway" o="add" type="way" v="residential" />
+    <tag id="16414784" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16414784" k="tiger:tlid" o="add" type="way" v="153165175" />
+    <tag id="16414784" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16414784" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16414784" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16414784" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16414784" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16415261" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16415261" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16415261" k="tiger:tlid" o="add" type="way" v="153172947" />
+    <tag id="16415261" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16415261" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16415261" k="tiger:reviewed" o="modify" type="way" v="no" />
+    <tag id="16415261" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16415261" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16415722" k="highway" o="add" type="way" v="residential" />
+    <tag id="16415722" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16415722" k="tiger:tlid" o="add" type="way" v="153179934" />
+    <tag id="16415722" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16415722" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16415722" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16415722" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16415722" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16416157" k="name" o="none" type="way" v="Frigate Drive" />
+    <tag id="16416157" k="highway" o="none" type="way" v="residential" />
+    <tag id="16416157" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16416157" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16416157" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16416157" k="tiger:zip_left" o="none" type="way" v="28462" />
+    <tag id="16416157" k="tiger:name_base" o="none" type="way" v="Frigate" />
+    <tag id="16416157" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16416157" k="tiger:zip_right" o="none" type="way" v="28462" />
+    <tag id="16416988" k="name" o="none" type="way" v="Strawflower Drive" />
+    <tag id="16416988" k="highway" o="none" type="way" v="residential" />
+    <tag id="16416988" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16416988" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16416988" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16416988" k="tiger:zip_left" o="none" type="way" v="28462" />
+    <tag id="16416988" k="tiger:name_base" o="none" type="way" v="Strawflower" />
+    <tag id="16416988" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16416988" k="tiger:zip_right" o="none" type="way" v="28462" />
+    <tag id="16417333" k="name" o="none" type="way" v="Ms Maggie Lane Northwest" />
+    <tag id="16417333" k="highway" o="none" type="way" v="residential" />
+    <tag id="16417333" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16417333" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16417333" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16417333" k="tiger:zip_left" o="none" type="way" v="28420" />
+    <tag id="16417333" k="tiger:name_base" o="none" type="way" v="Ms Maggie" />
+    <tag id="16417333" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16417333" k="tiger:zip_right" o="none" type="way" v="28420" />
+    <tag id="16417333" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="16417766" k="name" o="none" type="way" v="Kingtown Road Northwest" />
+    <tag id="16417766" k="name_1" o="none" type="way" v="State Road 1333" />
+    <tag id="16417766" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16417766" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16417766" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16417766" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16417766" k="tiger:zip_left" o="none" type="way" v="28420" />
+    <tag id="16417766" k="tiger:name_base" o="none" type="way" v="Kingtown" />
+    <tag id="16417766" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16417766" k="tiger:zip_right" o="none" type="way" v="28420" />
+    <tag id="16417766" k="tiger:name_base_1" o="none" type="way" v="State Road 1333" />
+    <tag id="16417766" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="16418250" k="name" o="add" type="way" v="Golden Dune Way" />
+    <tag id="16418250" k="highway" o="add" type="way" v="residential" />
+    <tag id="16418250" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16418250" k="tiger:tlid" o="add" type="way" v="153185524" />
+    <tag id="16418250" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16418250" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16418250" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16418250" k="tiger:name_base" o="add" type="way" v="Golden Dune" />
+    <tag id="16418250" k="tiger:name_type" o="add" type="way" v="Way" />
+    <tag id="16418250" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16418250" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16418253" k="name" o="add" type="way" v="Golden Dune Way" />
+    <tag id="16418253" k="highway" o="add" type="way" v="residential" />
+    <tag id="16418253" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16418253" k="tiger:tlid" o="add" type="way" v="153175748" />
+    <tag id="16418253" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16418253" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16418253" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16418253" k="tiger:name_base" o="add" type="way" v="Golden Dune" />
+    <tag id="16418253" k="tiger:name_type" o="add" type="way" v="Way" />
+    <tag id="16418253" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16418253" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16418257" k="name" o="none" type="way" v="Golden Dune Way" />
+    <tag id="16418257" k="highway" o="none" type="way" v="residential" />
+    <tag id="16418257" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16418257" k="tiger:tlid" o="add" type="way" v="153175749" />
+    <tag id="16418257" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16418257" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16418257" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16418257" k="tiger:name_base" o="none" type="way" v="Golden Dune" />
+    <tag id="16418257" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="16418257" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16418257" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16420197" k="name" o="none" type="way" v="Port Court Southwest" />
+    <tag id="16420197" k="highway" o="none" type="way" v="residential" />
+    <tag id="16420197" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16420197" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16420197" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16420197" k="tiger:zip_left" o="none" type="way" v="28467" />
+    <tag id="16420197" k="tiger:name_base" o="none" type="way" v="Port" />
+    <tag id="16420197" k="tiger:name_type" o="none" type="way" v="Ct" />
+    <tag id="16420197" k="tiger:zip_right" o="none" type="way" v="28467" />
+    <tag id="16420197" k="tiger:name_direction_suffix" o="none" type="way" v="SW" />
+    <tag id="16420424" k="name" o="none" type="way" v="McLamb Road Northwest" />
+    <tag id="16420424" k="name_1" o="none" type="way" v="State Road 1301" />
+    <tag id="16420424" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="16420424" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16420424" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16420424" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16420424" k="tiger:zip_left" o="none" type="way" v="28467" />
+    <tag id="16420424" k="tiger:name_base" o="none" type="way" v="McLamb" />
+    <tag id="16420424" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16420424" k="tiger:zip_right" o="none" type="way" v="28467" />
+    <tag id="16420424" k="tiger:name_base_1" o="none" type="way" v="State Road 1301" />
+    <tag id="16420424" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="16420739" k="name" o="none" type="way" v="Marsh Walk" />
+    <tag id="16420739" k="highway" o="none" type="way" v="residential" />
+    <tag id="16420739" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16420739" k="tiger:tlid" o="add" type="way" v="153179924" />
+    <tag id="16420739" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16420739" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16420739" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16420739" k="tiger:zip_left" o="none" type="way" v="28462" />
+    <tag id="16420739" k="tiger:name_base" o="none" type="way" v="Marsh" />
+    <tag id="16420739" k="tiger:name_type" o="none" type="way" v="Walk" />
+    <tag id="16420739" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16420739" k="tiger:zip_right" o="none" type="way" v="28462" />
+    <tag id="16420739" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-dfdf133d-b9c3-4a56-b71b-c37ba280d8f4" />
+    <tag id="16421936" k="name" o="none" type="way" v="Ash Little River Road Northwest" />
+    <tag id="16421936" k="name_1" o="none" type="way" v="State Road 1300" />
+    <tag id="16421936" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16421936" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16421936" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16421936" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16421936" k="tiger:zip_left" o="none" type="way" v="28420" />
+    <tag id="16421936" k="tiger:name_base" o="none" type="way" v="Ash Little River" />
+    <tag id="16421936" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16421936" k="tiger:zip_right" o="none" type="way" v="28420" />
+    <tag id="16421936" k="tiger:name_base_1" o="none" type="way" v="State Road 1300" />
+    <tag id="16421936" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="16424204" k="name" o="none" type="way" v="Highpoint Street" />
+    <tag id="16424204" k="highway" o="none" type="way" v="residential" />
+    <tag id="16424204" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16424204" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16424204" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16424204" k="tiger:zip_left" o="none" type="way" v="28462" />
+    <tag id="16424204" k="tiger:name_base" o="none" type="way" v="Highpoint" />
+    <tag id="16424204" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16424951" k="name" o="none" type="way" v="Deal Drive" />
+    <tag id="16424951" k="highway" o="none" type="way" v="residential" />
+    <tag id="16424951" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16424951" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16424951" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16424951" k="tiger:zip_left" o="none" type="way" v="28462" />
+    <tag id="16424951" k="tiger:name_base" o="none" type="way" v="Deal" />
+    <tag id="16424951" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16424951" k="tiger:zip_right" o="none" type="way" v="28462" />
+    <tag id="16425165" k="name" o="add" type="way" v="Coquina Cove Drive" />
+    <tag id="16425165" k="highway" o="add" type="way" v="residential" />
+    <tag id="16425165" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16425165" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16425165" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16425165" k="tiger:name_base" o="add" type="way" v="Coquina Cove" />
+    <tag id="16425165" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="16425320" k="name" o="none" type="way" v="Meadowlark Lane Southwest" />
+    <tag id="16425320" k="highway" o="none" type="way" v="residential" />
+    <tag id="16425320" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16425320" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16425320" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16425320" k="tiger:zip_left" o="none" type="way" v="28470" />
+    <tag id="16425320" k="tiger:name_base" o="none" type="way" v="Meadowlark" />
+    <tag id="16425320" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16425320" k="tiger:zip_right" o="none" type="way" v="28470" />
+    <tag id="16425320" k="tiger:name_direction_suffix" o="none" type="way" v="SW" />
+    <tag id="16425572" k="name" o="none" type="way" v="Willetts Estates Lane Southeast" />
+    <tag id="16425572" k="highway" o="none" type="way" v="residential" />
+    <tag id="16425572" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16425572" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16425572" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16425572" k="tiger:name_base" o="none" type="way" v="Willetts Estates" />
+    <tag id="16425572" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16425572" k="tiger:name_direction_suffix" o="none" type="way" v="SE" />
+    <tag id="16426317" k="name" o="add" type="way" v="Schooner Drive" />
+    <tag id="16426317" k="highway" o="add" type="way" v="residential" />
+    <tag id="16426317" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16426317" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16426317" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16426317" k="tiger:name_base" o="add" type="way" v="Schooner" />
+    <tag id="16426317" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="16427393" k="highway" o="add" type="way" v="residential" />
+    <tag id="16427393" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16427393" k="tiger:tlid" o="add" type="way" v="37183721:37183727:37183716:37183730:37183732:37183733" />
+    <tag id="16427393" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16427393" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16427393" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16427393" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16427393" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16427394" k="highway" o="add" type="way" v="residential" />
+    <tag id="16427394" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16427394" k="tiger:tlid" o="add" type="way" v="37183723" />
+    <tag id="16427394" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16427394" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16427394" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16427394" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16427394" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16427401" k="highway" o="add" type="way" v="residential" />
+    <tag id="16427401" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16427401" k="tiger:tlid" o="add" type="way" v="37183728" />
+    <tag id="16427401" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16427401" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16427401" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16427401" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16427401" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16427416" k="name" o="none" type="way" v="Makatoka Road Northwest" />
+    <tag id="16427416" k="name_1" o="none" type="way" v="State Road 1342" />
+    <tag id="16427416" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="16427416" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16427416" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16427416" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="16427416" k="tiger:name_base" o="none" type="way" v="Makatoka" />
+    <tag id="16427416" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16427416" k="tiger:name_base_1" o="none" type="way" v="State Road 1342" />
+    <tag id="16427416" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="16427447" k="highway" o="add" type="way" v="residential" />
+    <tag id="16427447" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16427447" k="tiger:tlid" o="add" type="way" v="37183742" />
+    <tag id="16427447" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16427447" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16427447" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16427447" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16427447" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16428482" k="name" o="add" type="way" v="Iron Age Drive" />
+    <tag id="16428482" k="highway" o="add" type="way" v="residential" />
+    <tag id="16428482" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16428482" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16428482" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16428482" k="tiger:zip_left" o="add" type="way" v="28462" />
+    <tag id="16428482" k="tiger:name_base" o="add" type="way" v="Iron Age" />
+    <tag id="16428482" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="16428482" k="tiger:zip_right" o="add" type="way" v="28462" />
+    <tag id="16428617" k="name" o="add" type="way" v="Sandspur Lane" />
+    <tag id="16428617" k="highway" o="add" type="way" v="residential" />
+    <tag id="16428617" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16428617" k="tiger:county" o="add" type="way" v="Brunswick, NC" />
+    <tag id="16428617" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16428617" k="tiger:zip_left" o="add" type="way" v="28462" />
+    <tag id="16428617" k="tiger:name_base" o="add" type="way" v="Sandspur" />
+    <tag id="16428617" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="16428617" k="tiger:zip_right" o="add" type="way" v="28462" />
+    <tag id="16428746" k="highway" o="add" type="way" v="residential" />
+    <tag id="16428746" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16428746" k="tiger:tlid" o="add" type="way" v="37189312" />
+    <tag id="16428746" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16428746" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16428746" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16428746" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16428746" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16428751" k="highway" o="add" type="way" v="residential" />
+    <tag id="16428751" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16428751" k="tiger:tlid" o="add" type="way" v="37189313" />
+    <tag id="16428751" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16428751" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16428751" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16428751" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16428751" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16429094" k="name" o="none" type="way" v="Ocean Boulevard West" />
+    <tag id="16429094" k="name_1" o="none" type="way" v="State Road 1116" />
+    <tag id="16429094" k="highway" o="modify" type="way" v="residential" />
+    <tag id="16429094" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16429094" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16429094" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16429094" k="tiger:zip_left" o="none" type="way" v="28462" />
+    <tag id="16429094" k="tiger:name_base" o="none" type="way" v="Ocean" />
+    <tag id="16429094" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="16429094" k="tiger:zip_right" o="none" type="way" v="28462" />
+    <tag id="16429094" k="tiger:name_base_1" o="none" type="way" v="State Road 1116" />
+    <tag id="16429094" k="tiger:name_direction_suffix" o="none" type="way" v="W" />
+    <tag id="16430869" k="highway" o="add" type="way" v="residential" />
+    <tag id="16430869" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16430869" k="tiger:tlid" o="add" type="way" v="37183718" />
+    <tag id="16430869" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16430869" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430869" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16430869" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16430869" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16430919" k="highway" o="add" type="way" v="residential" />
+    <tag id="16430919" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16430919" k="tiger:tlid" o="add" type="way" v="37183731" />
+    <tag id="16430919" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16430919" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430919" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16430919" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16430919" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16430921" k="highway" o="add" type="way" v="residential" />
+    <tag id="16430921" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16430921" k="tiger:tlid" o="add" type="way" v="37183734" />
+    <tag id="16430921" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16430921" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16430921" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16430921" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16430921" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16431042" k="highway" o="add" type="way" v="residential" />
+    <tag id="16431042" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16431042" k="tiger:tlid" o="add" type="way" v="37183629" />
+    <tag id="16431042" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16431042" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16431042" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16431042" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16431042" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16433349" k="name" o="none" type="way" v="Lake Butler Lane Northwest" />
+    <tag id="16433349" k="highway" o="none" type="way" v="residential" />
+    <tag id="16433349" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16433349" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="16433349" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16433349" k="tiger:zip_left" o="none" type="way" v="28452" />
+    <tag id="16433349" k="tiger:name_base" o="none" type="way" v="Lake Butler" />
+    <tag id="16433349" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16433349" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="16433682" k="name" o="add" type="way" v="Camareigh Lane" />
+    <tag id="16433682" k="highway" o="add" type="way" v="residential" />
+    <tag id="16433682" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16433682" k="tiger:county" o="add" type="way" v="Burke, NC" />
+    <tag id="16433682" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16433682" k="tiger:zip_left" o="add" type="way" v="28655" />
+    <tag id="16433682" k="tiger:name_base" o="add" type="way" v="Camareigh" />
+    <tag id="16433682" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="16433682" k="tiger:zip_right" o="add" type="way" v="28655" />
+    <tag id="16434234" k="name" o="none" type="way" v="Narrow Way" />
+    <tag id="16434234" k="highway" o="none" type="way" v="residential" />
+    <tag id="16434234" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16434234" k="tiger:tlid" o="add" type="way" v="37176284" />
+    <tag id="16434234" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="16434234" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16434234" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16434234" k="tiger:zip_left" o="none" type="way" v="28655" />
+    <tag id="16434234" k="tiger:name_base" o="none" type="way" v="Narrow" />
+    <tag id="16434234" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="16434234" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16434234" k="tiger:zip_right" o="none" type="way" v="28655" />
+    <tag id="16434234" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b" />
+    <tag id="16434950" k="name" o="none" type="way" v="Rader Circle" />
+    <tag id="16434950" k="name_1" o="none" type="way" v="State Road 1503" />
+    <tag id="16434950" k="highway" o="none" type="way" v="residential" />
+    <tag id="16434950" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16434950" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="16434950" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16434950" k="tiger:zip_left" o="none" type="way" v="28655" />
+    <tag id="16434950" k="tiger:name_base" o="none" type="way" v="Rader" />
+    <tag id="16434950" k="tiger:name_type" o="none" type="way" v="Cir" />
+    <tag id="16434950" k="tiger:zip_right" o="none" type="way" v="28680" />
+    <tag id="16434950" k="tiger:zip_left_1" o="none" type="way" v="28680" />
+    <tag id="16434950" k="tiger:zip_left_2" o="none" type="way" v="28680" />
+    <tag id="16434950" k="tiger:name_base_1" o="none" type="way" v="State Road 1503" />
+    <tag id="16434950" k="tiger:zip_right_1" o="none" type="way" v="28655" />
+    <tag id="16435913" k="name" o="none" type="way" v="John Coffey Road" />
+    <tag id="16435913" k="highway" o="none" type="way" v="residential" />
+    <tag id="16435913" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16435913" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="16435913" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16435913" k="tiger:zip_left" o="none" type="way" v="28655" />
+    <tag id="16435913" k="tiger:name_base" o="none" type="way" v="John Coffey" />
+    <tag id="16435913" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16435913" k="tiger:zip_right" o="none" type="way" v="28655" />
+    <tag id="16439835" k="name" o="none" type="way" v="Lower Creek Avenue" />
+    <tag id="16439835" k="highway" o="none" type="way" v="residential" />
+    <tag id="16439835" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16439835" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="16439835" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16439835" k="tiger:name_base" o="none" type="way" v="Lower Creek" />
+    <tag id="16439835" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16442334" k="name" o="none" type="way" v="Putnam Street" />
+    <tag id="16442334" k="name_1" o="none" type="way" v="State Road 1569" />
+    <tag id="16442334" k="highway" o="none" type="way" v="residential" />
+    <tag id="16442334" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16442334" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="16442334" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16442334" k="tiger:zip_left" o="none" type="way" v="28655" />
+    <tag id="16442334" k="tiger:name_base" o="none" type="way" v="Putnam" />
+    <tag id="16442334" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16442334" k="tiger:zip_right" o="none" type="way" v="28655" />
+    <tag id="16442334" k="tiger:name_base_1" o="none" type="way" v="State Road 1569" />
+    <tag id="16451094" k="hgv" o="none" type="way" v="designated" />
+    <tag id="16451094" k="ref" o="none" type="way" v="US 64;NC 18" />
+    <tag id="16451094" k="name" o="none" type="way" v="Morganton Boulevard Southwest" />
+    <tag id="16451094" k="lanes" o="none" type="way" v="2" />
+    <tag id="16451094" k="highway" o="none" type="way" v="primary" />
+    <tag id="16451094" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="16451094" k="tiger:county" o="none" type="way" v="Caldwell, NC" />
+    <tag id="16451094" k="tiger:name_base" o="none" type="way" v="Morganton" />
+    <tag id="16451094" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="16451094" k="tiger:name_base_1" o="none" type="way" v="United States Highway 64" />
+    <tag id="16451094" k="tiger:name_base_2" o="none" type="way" v="State Highway 18" />
+    <tag id="16451094" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="16451094" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="16451094" k="tiger:name_direction_suffix" o="none" type="way" v="SW" />
+    <tag id="16713872" k="name" o="add" type="way" v="Vitamin Drive" />
+    <tag id="16713872" k="highway" o="add" type="way" v="residential" />
+    <tag id="16713872" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="16713872" k="tiger:county" o="add" type="way" v="Pender, NC" />
+    <tag id="16713872" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="16713872" k="tiger:zip_left" o="add" type="way" v="28401" />
+    <tag id="16713872" k="tiger:name_base" o="add" type="way" v="Vitamin" />
+    <tag id="16713872" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="16713872" k="tiger:zip_right" o="add" type="way" v="28435" />
+    <tag id="16715851" k="hgv" o="none" type="way" v="designated" />
+    <tag id="16715851" k="ref" o="none" type="way" v="US 421" />
+    <tag id="16715851" k="lanes" o="none" type="way" v="4" />
+    <tag id="16715851" k="oneway" o="none" type="way" v="yes" />
+    <tag id="16715851" k="highway" o="none" type="way" v="primary" />
+    <tag id="16715851" k="rcn_ref" o="none" type="way" v="5" />
+    <tag id="16715851" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="16715851" k="tiger:tlid" o="add" type="way" v="14131252:14131253:14140894:14140895:14131285:14131256:14131327:14131512:14131523:14143451:14133230:14131616" />
+    <tag id="16715851" k="tiger:county" o="none" type="way" v="Pender, NC" />
+    <tag id="16715851" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="16715851" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16715851" k="tiger:zip_left" o="none" type="way" v="28478" />
+    <tag id="16715851" k="tiger:name_base" o="none" type="way" v="United States Highway 421" />
+    <tag id="16715851" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="16715851" k="tiger:zip_right" o="none" type="way" v="28478" />
+    <tag id="16715851" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-a1dbc6be-d18a-4696-b471-194f4ce5ffde" />
+    <tag id="16715851" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="16715851" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="37898332" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37898332" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37898332" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37898609" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37898609" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="37898609" k="admin_level" o="add" type="way" v="8" />
+    <tag id="37906579" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37906579" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37906579" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37906848" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37906848" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37906848" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37907293" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37907293" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37907293" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37923829" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37923829" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37923829" k="admin_level" o="none" type="way" v="8" />
+    <tag id="38065979" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="38065979" k="history" o="add" type="way" v="retrieved using undelete JOSM plugin" />
+    <tag id="38065979" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="38065979" k="admin_level" o="add" type="way" v="8" />
+    <tag id="38687312" k="natural" o="add" type="way" v="coastline" />
+    <tag id="38993482" k="boat" o="none" type="way" v="yes" />
+    <tag id="38993482" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38993482" k="ship" o="none" type="way" v="yes" />
+    <tag id="38993482" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38993482" k="waterway" o="none" type="way" v="river" />
+    <tag id="38993482" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38993482" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38993482" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38993482" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38993482" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38993482" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38993482" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38994649" k="name" o="add" type="way" v="Orton Creek" />
+    <tag id="38994649" k="source" o="add" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38994649" k="waterway" o="add" type="way" v="stream" />
+    <tag id="38994649" k="NHD:ComID" o="add" type="way" v="157828769" />
+    <tag id="38994649" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38994649" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38994649" k="NHD:way_id" o="add" type="way" v="157828769" />
+    <tag id="38994649" k="attribution" o="add" type="way" v="NHD" />
+    <tag id="38994649" k="NHD:ReachCode" o="add" type="way" v="3030005000536" />
+    <tag id="38994649" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38994649" k="gnis:feature_id" o="add" type="way" v="00991695" />
+    <tag id="38995110" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38995110" k="waterway" o="none" type="way" v="stream" />
+    <tag id="38995110" k="NHD:ComID" o="none" type="way" v="157829353" />
+    <tag id="38995110" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38995110" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38995110" k="NHD:way_id" o="none" type="way" v="157829353" />
+    <tag id="38995110" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38995110" k="NHD:ReachCode" o="none" type="way" v="3030005004878" />
+    <tag id="38995110" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38995316" k="boat" o="add" type="way" v="yes" />
+    <tag id="38995316" k="name" o="add" type="way" v="Cape Fear River" />
+    <tag id="38995316" k="ship" o="add" type="way" v="yes" />
+    <tag id="38995316" k="source" o="add" type="way" v="NHD" />
+    <tag id="38995316" k="waterway" o="add" type="way" v="river" />
+    <tag id="38995316" k="NHD:ComID" o="add" type="way" v="157828695" />
+    <tag id="38995316" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38995316" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38995316" k="NHD:way_id" o="add" type="way" v="157828695" />
+    <tag id="38995316" k="deep_draft" o="add" type="way" v="yes" />
+    <tag id="38995316" k="NHD:ReachCode" o="add" type="way" v="3030005000021" />
+    <tag id="38995316" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38995316" k="gnis:feature_id" o="add" type="way" v="01023879" />
+    <tag id="38995316" k="source:deep_draft" o="add" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38995325" k="boat" o="none" type="way" v="yes" />
+    <tag id="38995325" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38995325" k="ship" o="none" type="way" v="yes" />
+    <tag id="38995325" k="source" o="modify" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38995325" k="waterway" o="none" type="way" v="river" />
+    <tag id="38995325" k="NHD:ComID" o="none" type="way" v="157828695" />
+    <tag id="38995325" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38995325" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38995325" k="NHD:way_id" o="none" type="way" v="157828695" />
+    <tag id="38995325" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38995325" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38995325" k="NHD:ReachCode" o="none" type="way" v="3030005000021" />
+    <tag id="38995325" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38995325" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38995325" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38995557" k="boat" o="none" type="way" v="yes" />
+    <tag id="38995557" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38995557" k="ship" o="none" type="way" v="yes" />
+    <tag id="38995557" k="source" o="none" type="way" v="NHD" />
+    <tag id="38995557" k="waterway" o="none" type="way" v="river" />
+    <tag id="38995557" k="NHD:ComID" o="none" type="way" v="157828688" />
+    <tag id="38995557" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38995557" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38995557" k="NHD:way_id" o="none" type="way" v="157828688" />
+    <tag id="38995557" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38995557" k="NHD:ReachCode" o="none" type="way" v="3030005000009" />
+    <tag id="38995557" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38995557" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38995557" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38995774" k="boat" o="none" type="way" v="yes" />
+    <tag id="38995774" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38995774" k="ship" o="none" type="way" v="yes" />
+    <tag id="38995774" k="source" o="none" type="way" v="NHD" />
+    <tag id="38995774" k="waterway" o="none" type="way" v="river" />
+    <tag id="38995774" k="NHD:ComID" o="none" type="way" v="157829092" />
+    <tag id="38995774" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38995774" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38995774" k="NHD:way_id" o="none" type="way" v="157829092" />
+    <tag id="38995774" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38995774" k="NHD:ReachCode" o="none" type="way" v="3030005004201" />
+    <tag id="38995774" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38995774" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38995774" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38995977" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38995977" k="waterway" o="none" type="way" v="stream" />
+    <tag id="38995977" k="NHD:ComID" o="none" type="way" v="157829113" />
+    <tag id="38995977" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38995977" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38995977" k="NHD:way_id" o="none" type="way" v="157829113" />
+    <tag id="38995977" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38995977" k="NHD:ReachCode" o="none" type="way" v="3030005004537" />
+    <tag id="38995977" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38996391" k="name" o="none" type="way" v="Brunswick River" />
+    <tag id="38996391" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38996391" k="waterway" o="none" type="way" v="river" />
+    <tag id="38996391" k="NHD:ComID" o="none" type="way" v="157828851" />
+    <tag id="38996391" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38996391" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38996391" k="NHD:way_id" o="none" type="way" v="157828851" />
+    <tag id="38996391" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38996391" k="NHD:ReachCode" o="none" type="way" v="3030005001400" />
+    <tag id="38996391" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38996391" k="gnis:feature_id" o="none" type="way" v="00982048" />
+    <tag id="38996438" k="source" o="add" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38996438" k="waterway" o="add" type="way" v="stream" />
+    <tag id="38996438" k="NHD:ComID" o="add" type="way" v="157829108" />
+    <tag id="38996438" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38996438" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38996438" k="NHD:way_id" o="add" type="way" v="157829108" />
+    <tag id="38996438" k="attribution" o="add" type="way" v="NHD" />
+    <tag id="38996438" k="NHD:ReachCode" o="add" type="way" v="3030005004530" />
+    <tag id="38996438" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38996615" k="source" o="add" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38996615" k="waterway" o="add" type="way" v="stream" />
+    <tag id="38996615" k="NHD:ComID" o="add" type="way" v="157829109" />
+    <tag id="38996615" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38996615" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38996615" k="NHD:way_id" o="add" type="way" v="157829109" />
+    <tag id="38996615" k="attribution" o="add" type="way" v="NHD" />
+    <tag id="38996615" k="NHD:ReachCode" o="add" type="way" v="3030005004530" />
+    <tag id="38996615" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38996696" k="source" o="add" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38996696" k="waterway" o="add" type="way" v="stream" />
+    <tag id="38996696" k="NHD:ComID" o="add" type="way" v="157829114" />
+    <tag id="38996696" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38996696" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38996696" k="NHD:way_id" o="add" type="way" v="157829114" />
+    <tag id="38996696" k="attribution" o="add" type="way" v="NHD" />
+    <tag id="38996696" k="NHD:ReachCode" o="add" type="way" v="3030005004538" />
+    <tag id="38996696" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38996801" k="source" o="add" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38996801" k="waterway" o="add" type="way" v="stream" />
+    <tag id="38996801" k="NHD:ComID" o="add" type="way" v="157829112" />
+    <tag id="38996801" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38996801" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38996801" k="NHD:way_id" o="add" type="way" v="157829112" />
+    <tag id="38996801" k="attribution" o="add" type="way" v="NHD" />
+    <tag id="38996801" k="NHD:ReachCode" o="add" type="way" v="3030005004537" />
+    <tag id="38996801" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38996985" k="boat" o="none" type="way" v="yes" />
+    <tag id="38996985" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38996985" k="ship" o="none" type="way" v="yes" />
+    <tag id="38996985" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38996985" k="waterway" o="none" type="way" v="river" />
+    <tag id="38996985" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38996985" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38996985" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38996985" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38996985" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38996985" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38996985" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38997007" k="boat" o="add" type="way" v="yes" />
+    <tag id="38997007" k="name" o="add" type="way" v="Cape Fear River" />
+    <tag id="38997007" k="ship" o="add" type="way" v="yes" />
+    <tag id="38997007" k="source" o="add" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38997007" k="waterway" o="add" type="way" v="river" />
+    <tag id="38997007" k="NHD:ComID" o="add" type="way" v="157828687" />
+    <tag id="38997007" k="NHD:FCode" o="add" type="way" v="55800" />
+    <tag id="38997007" k="NHD:FType" o="add" type="way" v="ArtificialPath" />
+    <tag id="38997007" k="NHD:way_id" o="add" type="way" v="157828687" />
+    <tag id="38997007" k="deep_draft" o="add" type="way" v="yes" />
+    <tag id="38997007" k="attribution" o="add" type="way" v="NHD" />
+    <tag id="38997007" k="NHD:ReachCode" o="add" type="way" v="3030005000008" />
+    <tag id="38997007" k="NHD:RESOLUTION" o="add" type="way" v="High" />
+    <tag id="38997007" k="gnis:feature_id" o="add" type="way" v="01023879" />
+    <tag id="38997007" k="source:deep_draft" o="add" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38998747" k="boat" o="none" type="way" v="yes" />
+    <tag id="38998747" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38998747" k="ship" o="none" type="way" v="yes" />
+    <tag id="38998747" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38998747" k="waterway" o="none" type="way" v="river" />
+    <tag id="38998747" k="NHD:ComID" o="none" type="way" v="157828685" />
+    <tag id="38998747" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38998747" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38998747" k="NHD:way_id" o="none" type="way" v="157828685" />
+    <tag id="38998747" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38998747" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38998747" k="NHD:ReachCode" o="none" type="way" v="3030005000007" />
+    <tag id="38998747" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38998747" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38998747" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38999073" k="name" o="none" type="way" v="Mott Creek" />
+    <tag id="38999073" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38999073" k="waterway" o="none" type="way" v="stream" />
+    <tag id="38999073" k="NHD:ComID" o="none" type="way" v="157828817" />
+    <tag id="38999073" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38999073" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38999073" k="NHD:way_id" o="none" type="way" v="157828817" />
+    <tag id="38999073" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38999073" k="NHD:ReachCode" o="none" type="way" v="3030005001226" />
+    <tag id="38999073" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38999073" k="gnis:feature_id" o="none" type="way" v="00990298" />
+    <tag id="38999239" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38999239" k="waterway" o="none" type="way" v="stream" />
+    <tag id="38999239" k="NHD:ComID" o="none" type="way" v="157828828" />
+    <tag id="38999239" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38999239" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38999239" k="NHD:way_id" o="none" type="way" v="157828828" />
+    <tag id="38999239" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38999239" k="NHD:ReachCode" o="none" type="way" v="3030005001310" />
+    <tag id="38999239" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38999241" k="source" o="none" type="way" v="NHD" />
+    <tag id="38999241" k="waterway" o="none" type="way" v="stream" />
+    <tag id="38999241" k="NHD:ComID" o="none" type="way" v="157829026" />
+    <tag id="38999241" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38999241" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38999241" k="NHD:way_id" o="none" type="way" v="157829026" />
+    <tag id="38999241" k="NHD:ReachCode" o="none" type="way" v="3030005003771" />
+    <tag id="38999241" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38999365" k="boat" o="none" type="way" v="yes" />
+    <tag id="38999365" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38999365" k="ship" o="none" type="way" v="yes" />
+    <tag id="38999365" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38999365" k="waterway" o="none" type="way" v="river" />
+    <tag id="38999365" k="NHD:ComID" o="none" type="way" v="157828898" />
+    <tag id="38999365" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38999365" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38999365" k="NHD:way_id" o="none" type="way" v="157828898" />
+    <tag id="38999365" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="38999365" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38999365" k="NHD:ReachCode" o="none" type="way" v="3030005001459" />
+    <tag id="38999365" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38999365" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38999365" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="38999677" k="name" o="none" type="way" v="Brunswick River" />
+    <tag id="38999677" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="38999677" k="waterway" o="none" type="way" v="river" />
+    <tag id="38999677" k="NHD:ComID" o="none" type="way" v="157828868" />
+    <tag id="38999677" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38999677" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38999677" k="NHD:way_id" o="none" type="way" v="157828868" />
+    <tag id="38999677" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="38999677" k="NHD:ReachCode" o="none" type="way" v="3030005001418" />
+    <tag id="38999677" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38999677" k="gnis:feature_id" o="none" type="way" v="00982048" />
+    <tag id="38999917" k="boat" o="none" type="way" v="yes" />
+    <tag id="38999917" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="38999917" k="ship" o="none" type="way" v="yes" />
+    <tag id="38999917" k="source" o="none" type="way" v="NHD" />
+    <tag id="38999917" k="waterway" o="none" type="way" v="river" />
+    <tag id="38999917" k="NHD:ComID" o="none" type="way" v="157829012" />
+    <tag id="38999917" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="38999917" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="38999917" k="NHD:way_id" o="none" type="way" v="157829012" />
+    <tag id="38999917" k="deep_draft" o="none" type="way" v="no" />
+    <tag id="38999917" k="NHD:ReachCode" o="none" type="way" v="3030005003673" />
+    <tag id="38999917" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="38999917" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="38999917" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="39000800" k="boat" o="none" type="way" v="yes" />
+    <tag id="39000800" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="39000800" k="ship" o="none" type="way" v="yes" />
+    <tag id="39000800" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="39000800" k="waterway" o="none" type="way" v="river" />
+    <tag id="39000800" k="NHD:ComID" o="none" type="way" v="157829037" />
+    <tag id="39000800" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39000800" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39000800" k="NHD:way_id" o="none" type="way" v="157829037" />
+    <tag id="39000800" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="39000800" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39000800" k="NHD:ReachCode" o="none" type="way" v="3030005003904" />
+    <tag id="39000800" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39000800" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="39000800" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="39000811" k="boat" o="none" type="way" v="yes" />
+    <tag id="39000811" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="39000811" k="ship" o="none" type="way" v="yes" />
+    <tag id="39000811" k="source" o="none" type="way" v="NHD" />
+    <tag id="39000811" k="waterway" o="none" type="way" v="river" />
+    <tag id="39000811" k="NHD:ComID" o="none" type="way" v="157828694" />
+    <tag id="39000811" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39000811" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39000811" k="NHD:way_id" o="none" type="way" v="157828694" />
+    <tag id="39000811" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="39000811" k="NHD:ReachCode" o="none" type="way" v="3030005000021" />
+    <tag id="39000811" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39000811" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="39000811" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="39001800" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="39001800" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="39001800" k="waterway" o="none" type="way" v="river" />
+    <tag id="39001800" k="NHD:ComID" o="none" type="way" v="157829597" />
+    <tag id="39001800" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39001800" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39001800" k="NHD:way_id" o="none" type="way" v="157829597" />
+    <tag id="39001800" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39001800" k="NHD:ReachCode" o="none" type="way" v="3030005005273" />
+    <tag id="39001800" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39001800" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="39002206" k="boat" o="none" type="way" v="yes" />
+    <tag id="39002206" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="39002206" k="ship" o="none" type="way" v="yes" />
+    <tag id="39002206" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="39002206" k="waterway" o="none" type="way" v="river" />
+    <tag id="39002206" k="NHD:ComID" o="none" type="way" v="157829031" />
+    <tag id="39002206" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39002206" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39002206" k="NHD:way_id" o="none" type="way" v="157829031" />
+    <tag id="39002206" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="39002206" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39002206" k="NHD:ReachCode" o="none" type="way" v="3030005003880" />
+    <tag id="39002206" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39002206" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="39002206" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="39003366" k="name" o="none" type="way" v="Sturgeon Creek" />
+    <tag id="39003366" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="39003366" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39003366" k="NHD:ComID" o="none" type="way" v="157828758" />
+    <tag id="39003366" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39003366" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39003366" k="NHD:way_id" o="none" type="way" v="157828758" />
+    <tag id="39003366" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39003366" k="NHD:ReachCode" o="none" type="way" v="3030005000198" />
+    <tag id="39003366" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39003366" k="gnis:feature_id" o="none" type="way" v="00995630" />
+    <tag id="39003472" k="name" o="none" type="way" v="Sand Hill Creek" />
+    <tag id="39003472" k="source" o="none" type="way" v="NHD" />
+    <tag id="39003472" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39003472" k="NHD:ComID" o="none" type="way" v="157828771" />
+    <tag id="39003472" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39003472" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39003472" k="NHD:way_id" o="none" type="way" v="157828771" />
+    <tag id="39003472" k="NHD:ReachCode" o="none" type="way" v="3030005000579" />
+    <tag id="39003472" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39003472" k="gnis:feature_id" o="none" type="way" v="00994223" />
+    <tag id="39006931" k="boat" o="none" type="way" v="yes" />
+    <tag id="39006931" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="39006931" k="ship" o="none" type="way" v="yes" />
+    <tag id="39006931" k="source" o="none" type="way" v="NHD_import_v0.3_20090806191649" />
+    <tag id="39006931" k="waterway" o="none" type="way" v="river" />
+    <tag id="39006931" k="NHD:ComID" o="none" type="way" v="157828896" />
+    <tag id="39006931" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39006931" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39006931" k="NHD:way_id" o="none" type="way" v="157828896" />
+    <tag id="39006931" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="39006931" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39006931" k="NHD:ReachCode" o="none" type="way" v="3030005001457" />
+    <tag id="39006931" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39006931" k="gnis:feature_id" o="none" type="way" v="01023879" />
+    <tag id="39006931" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="39132417" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39132417" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39132417" k="waterway" o="none" type="way" v="river" />
+    <tag id="39132417" k="NHD:ComID" o="none" type="way" v="149073085" />
+    <tag id="39132417" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39132417" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39132417" k="NHD:way_id" o="none" type="way" v="149073085" />
+    <tag id="39132417" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39132417" k="NHD:ReachCode" o="none" type="way" v="3030007000003" />
+    <tag id="39132417" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39132417" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39132420" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39132420" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39132420" k="waterway" o="none" type="way" v="river" />
+    <tag id="39132420" k="NHD:ComID" o="none" type="way" v="149073429" />
+    <tag id="39132420" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39132420" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39132420" k="NHD:way_id" o="none" type="way" v="149073429" />
+    <tag id="39132420" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39132420" k="NHD:ReachCode" o="none" type="way" v="3030007001917" />
+    <tag id="39132420" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39132420" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39132657" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39132657" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39132657" k="waterway" o="none" type="way" v="river" />
+    <tag id="39132657" k="NHD:ComID" o="none" type="way" v="149073426" />
+    <tag id="39132657" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39132657" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39132657" k="NHD:way_id" o="none" type="way" v="149073426" />
+    <tag id="39132657" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39132657" k="NHD:ReachCode" o="none" type="way" v="3030007001917" />
+    <tag id="39132657" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39132657" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39132739" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39132739" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39132739" k="waterway" o="none" type="way" v="river" />
+    <tag id="39132739" k="NHD:ComID" o="none" type="way" v="149073452" />
+    <tag id="39132739" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39132739" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39132739" k="NHD:way_id" o="none" type="way" v="149073452" />
+    <tag id="39132739" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39132739" k="NHD:ReachCode" o="none" type="way" v="3030007001928" />
+    <tag id="39132739" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39132739" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39132976" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39132976" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39132976" k="waterway" o="none" type="way" v="river" />
+    <tag id="39132976" k="NHD:ComID" o="none" type="way" v="149073437" />
+    <tag id="39132976" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39132976" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39132976" k="NHD:way_id" o="none" type="way" v="149073437" />
+    <tag id="39132976" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39132976" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39132976" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39132976" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39133623" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39133623" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39133623" k="waterway" o="none" type="way" v="river" />
+    <tag id="39133623" k="NHD:ComID" o="none" type="way" v="149073438" />
+    <tag id="39133623" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39133623" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39133623" k="NHD:way_id" o="none" type="way" v="149073438" />
+    <tag id="39133623" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39133623" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39133623" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39133623" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39133837" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39133837" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39133837" k="waterway" o="none" type="way" v="river" />
+    <tag id="39133837" k="NHD:ComID" o="none" type="way" v="149073440" />
+    <tag id="39133837" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39133837" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39133837" k="NHD:way_id" o="none" type="way" v="149073440" />
+    <tag id="39133837" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39133837" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39133837" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39133837" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39134564" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39134564" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39134564" k="waterway" o="none" type="way" v="river" />
+    <tag id="39134564" k="NHD:ComID" o="none" type="way" v="149073436" />
+    <tag id="39134564" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39134564" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39134564" k="NHD:way_id" o="none" type="way" v="149073436" />
+    <tag id="39134564" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39134564" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39134564" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39134564" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39134591" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39134591" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39134591" k="waterway" o="none" type="way" v="river" />
+    <tag id="39134591" k="NHD:ComID" o="none" type="way" v="149073445" />
+    <tag id="39134591" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39134591" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39134591" k="NHD:way_id" o="none" type="way" v="149073445" />
+    <tag id="39134591" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39134591" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39134591" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39134591" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39134789" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39134789" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39134789" k="NHD:ComID" o="none" type="way" v="149072383" />
+    <tag id="39134789" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="39134789" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="39134789" k="NHD:way_id" o="none" type="way" v="149072383" />
+    <tag id="39134789" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39134789" k="NHD:ReachCode" o="none" type="way" v="3030007001469" />
+    <tag id="39134789" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39135359" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39135359" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39135359" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39135359" k="NHD:ComID" o="none" type="way" v="149073212" />
+    <tag id="39135359" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39135359" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39135359" k="NHD:way_id" o="none" type="way" v="149073212" />
+    <tag id="39135359" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39135359" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39135359" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39135359" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39135519" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39135519" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39135519" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39135519" k="NHD:ComID" o="none" type="way" v="149073213" />
+    <tag id="39135519" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39135519" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39135519" k="NHD:way_id" o="none" type="way" v="149073213" />
+    <tag id="39135519" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39135519" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39135519" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39135519" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39135734" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39135734" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39135734" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39135734" k="NHD:ComID" o="none" type="way" v="149073210" />
+    <tag id="39135734" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39135734" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39135734" k="NHD:way_id" o="none" type="way" v="149073210" />
+    <tag id="39135734" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39135734" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39135734" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39135734" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39136273" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39136273" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39136273" k="waterway" o="none" type="way" v="river" />
+    <tag id="39136273" k="NHD:ComID" o="none" type="way" v="149073084" />
+    <tag id="39136273" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39136273" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39136273" k="NHD:way_id" o="none" type="way" v="149073084" />
+    <tag id="39136273" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39136273" k="NHD:ReachCode" o="none" type="way" v="3030007000003" />
+    <tag id="39136273" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39136273" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39136485" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39136485" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39136485" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39136485" k="NHD:ComID" o="none" type="way" v="149073211" />
+    <tag id="39136485" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39136485" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39136485" k="NHD:way_id" o="none" type="way" v="149073211" />
+    <tag id="39136485" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39136485" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39136485" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39136485" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39138589" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39138589" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39138589" k="waterway" o="none" type="way" v="river" />
+    <tag id="39138589" k="NHD:ComID" o="none" type="way" v="149073425" />
+    <tag id="39138589" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39138589" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39138589" k="NHD:way_id" o="none" type="way" v="149073425" />
+    <tag id="39138589" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39138589" k="NHD:ReachCode" o="none" type="way" v="3030007001917" />
+    <tag id="39138589" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39138589" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39139016" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39139016" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39139016" k="waterway" o="none" type="way" v="river" />
+    <tag id="39139016" k="NHD:ComID" o="none" type="way" v="149073430" />
+    <tag id="39139016" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39139016" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39139016" k="NHD:way_id" o="none" type="way" v="149073430" />
+    <tag id="39139016" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39139016" k="NHD:ReachCode" o="none" type="way" v="3030007001917" />
+    <tag id="39139016" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39139016" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39146821" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39146821" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39146821" k="waterway" o="none" type="way" v="river" />
+    <tag id="39146821" k="NHD:ComID" o="none" type="way" v="149073453" />
+    <tag id="39146821" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39146821" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39146821" k="NHD:way_id" o="none" type="way" v="149073453" />
+    <tag id="39146821" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39146821" k="NHD:ReachCode" o="none" type="way" v="3030007001929" />
+    <tag id="39146821" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39146821" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39147081" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39147081" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39147081" k="waterway" o="none" type="way" v="river" />
+    <tag id="39147081" k="NHD:ComID" o="none" type="way" v="149073088" />
+    <tag id="39147081" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39147081" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39147081" k="NHD:way_id" o="none" type="way" v="149073088" />
+    <tag id="39147081" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39147081" k="NHD:ReachCode" o="none" type="way" v="3030007000005" />
+    <tag id="39147081" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39147081" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39147133" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39147133" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39147133" k="waterway" o="none" type="way" v="river" />
+    <tag id="39147133" k="NHD:ComID" o="none" type="way" v="149073444" />
+    <tag id="39147133" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39147133" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39147133" k="NHD:way_id" o="none" type="way" v="149073444" />
+    <tag id="39147133" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39147133" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39147133" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39147133" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39147596" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39147596" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39147596" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39147596" k="NHD:ComID" o="none" type="way" v="149072374" />
+    <tag id="39147596" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="39147596" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="39147596" k="NHD:way_id" o="none" type="way" v="149072374" />
+    <tag id="39147596" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39147596" k="NHD:ReachCode" o="none" type="way" v="3030007000404" />
+    <tag id="39147596" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39147596" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39147678" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39147678" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39147678" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39147678" k="NHD:ComID" o="none" type="way" v="149072370" />
+    <tag id="39147678" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="39147678" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="39147678" k="NHD:way_id" o="none" type="way" v="149072370" />
+    <tag id="39147678" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39147678" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39147678" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39147678" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39149258" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39149258" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39149258" k="waterway" o="none" type="way" v="river" />
+    <tag id="39149258" k="NHD:ComID" o="none" type="way" v="149073086" />
+    <tag id="39149258" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39149258" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39149258" k="NHD:way_id" o="none" type="way" v="149073086" />
+    <tag id="39149258" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39149258" k="NHD:ReachCode" o="none" type="way" v="3030007000003" />
+    <tag id="39149258" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39149258" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39149284" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39149284" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39149284" k="waterway" o="none" type="way" v="river" />
+    <tag id="39149284" k="NHD:ComID" o="none" type="way" v="149073428" />
+    <tag id="39149284" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39149284" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39149284" k="NHD:way_id" o="none" type="way" v="149073428" />
+    <tag id="39149284" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39149284" k="NHD:ReachCode" o="none" type="way" v="3030007001917" />
+    <tag id="39149284" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39149284" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39149347" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39149347" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39149347" k="waterway" o="none" type="way" v="river" />
+    <tag id="39149347" k="NHD:ComID" o="none" type="way" v="149073441" />
+    <tag id="39149347" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39149347" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39149347" k="NHD:way_id" o="none" type="way" v="149073441" />
+    <tag id="39149347" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39149347" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39149347" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39149347" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39150108" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39150108" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39150108" k="waterway" o="none" type="way" v="river" />
+    <tag id="39150108" k="NHD:ComID" o="none" type="way" v="149073435" />
+    <tag id="39150108" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39150108" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39150108" k="NHD:way_id" o="none" type="way" v="149073435" />
+    <tag id="39150108" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39150108" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39150108" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39150108" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39151730" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39151730" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39151730" k="waterway" o="none" type="way" v="river" />
+    <tag id="39151730" k="NHD:ComID" o="none" type="way" v="149073442" />
+    <tag id="39151730" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39151730" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39151730" k="NHD:way_id" o="none" type="way" v="149073442" />
+    <tag id="39151730" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39151730" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39151730" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39151730" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39151816" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39151816" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39151816" k="waterway" o="none" type="way" v="river" />
+    <tag id="39151816" k="NHD:ComID" o="none" type="way" v="149073089" />
+    <tag id="39151816" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39151816" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39151816" k="NHD:way_id" o="none" type="way" v="149073089" />
+    <tag id="39151816" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39151816" k="NHD:ReachCode" o="none" type="way" v="3030007000005" />
+    <tag id="39151816" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39151816" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39151985" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39151985" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39151985" k="waterway" o="none" type="way" v="river" />
+    <tag id="39151985" k="NHD:ComID" o="none" type="way" v="166830674" />
+    <tag id="39151985" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39151985" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39151985" k="NHD:way_id" o="none" type="way" v="166830674" />
+    <tag id="39151985" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39151985" k="NHD:ReachCode" o="none" type="way" v="3030007000004" />
+    <tag id="39151985" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39151985" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39152258" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39152258" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152258" k="waterway" o="none" type="way" v="river" />
+    <tag id="39152258" k="NHD:ComID" o="none" type="way" v="149073427" />
+    <tag id="39152258" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39152258" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39152258" k="NHD:way_id" o="none" type="way" v="149073427" />
+    <tag id="39152258" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152258" k="NHD:ReachCode" o="none" type="way" v="3030007001917" />
+    <tag id="39152258" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152258" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39152327" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39152327" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152327" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39152327" k="NHD:ComID" o="none" type="way" v="149072373" />
+    <tag id="39152327" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="39152327" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="39152327" k="NHD:way_id" o="none" type="way" v="149072373" />
+    <tag id="39152327" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152327" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39152327" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152327" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39152410" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39152410" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152410" k="waterway" o="none" type="way" v="river" />
+    <tag id="39152410" k="NHD:ComID" o="none" type="way" v="149073443" />
+    <tag id="39152410" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39152410" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39152410" k="NHD:way_id" o="none" type="way" v="149073443" />
+    <tag id="39152410" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152410" k="NHD:ReachCode" o="none" type="way" v="3030007001925" />
+    <tag id="39152410" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152410" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39152505" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39152505" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152505" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39152505" k="NHD:ComID" o="none" type="way" v="149073209" />
+    <tag id="39152505" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39152505" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39152505" k="NHD:way_id" o="none" type="way" v="149073209" />
+    <tag id="39152505" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152505" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39152505" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152505" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39152738" k="name" o="none" type="way" v="Island Creek" />
+    <tag id="39152738" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152738" k="waterway" o="none" type="way" v="stream" />
+    <tag id="39152738" k="NHD:ComID" o="none" type="way" v="149072371" />
+    <tag id="39152738" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="39152738" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="39152738" k="NHD:way_id" o="none" type="way" v="149072371" />
+    <tag id="39152738" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152738" k="NHD:ReachCode" o="none" type="way" v="3030007000403" />
+    <tag id="39152738" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152738" k="gnis:feature_id" o="none" type="way" v="00987421" />
+    <tag id="39152786" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39152786" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152786" k="waterway" o="none" type="way" v="river" />
+    <tag id="39152786" k="NHD:ComID" o="none" type="way" v="149073083" />
+    <tag id="39152786" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39152786" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39152786" k="NHD:way_id" o="none" type="way" v="149073083" />
+    <tag id="39152786" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152786" k="NHD:ReachCode" o="none" type="way" v="3030007000003" />
+    <tag id="39152786" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152786" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39152801" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39152801" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39152801" k="waterway" o="none" type="way" v="river" />
+    <tag id="39152801" k="NHD:ComID" o="none" type="way" v="149073451" />
+    <tag id="39152801" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39152801" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39152801" k="NHD:way_id" o="none" type="way" v="149073451" />
+    <tag id="39152801" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39152801" k="NHD:ReachCode" o="none" type="way" v="3030007001928" />
+    <tag id="39152801" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39152801" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="39153940" k="name" o="none" type="way" v="Northeast Cape Fear River" />
+    <tag id="39153940" k="source" o="none" type="way" v="NHD_import_v0.3_20090806203918" />
+    <tag id="39153940" k="waterway" o="none" type="way" v="river" />
+    <tag id="39153940" k="NHD:ComID" o="none" type="way" v="149073087" />
+    <tag id="39153940" k="NHD:FCode" o="none" type="way" v="55800" />
+    <tag id="39153940" k="NHD:FType" o="none" type="way" v="ArtificialPath" />
+    <tag id="39153940" k="NHD:way_id" o="none" type="way" v="149073087" />
+    <tag id="39153940" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="39153940" k="NHD:ReachCode" o="none" type="way" v="3030007000004" />
+    <tag id="39153940" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="39153940" k="gnis:feature_id" o="none" type="way" v="01025585" />
+    <tag id="42824360" k="source" o="none" type="way" v="NHD_import_v0.3_20091019112441" />
+    <tag id="42824360" k="waterway" o="none" type="way" v="stream" />
+    <tag id="42824360" k="NHD:ComID" o="none" type="way" v="141320137" />
+    <tag id="42824360" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="42824360" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="42824360" k="NHD:way_id" o="none" type="way" v="141320137" />
+    <tag id="42824360" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="42824360" k="NHD:ReachCode" o="none" type="way" v="3050101001664" />
+    <tag id="42824360" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42875344" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42875344" k="NHD:ComID" o="none" type="way" v="141327174" />
+    <tag id="42875344" k="NHD:FCode" o="none" type="way" v="43610" />
+    <tag id="42875344" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42875344" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42875344" k="NHD:ReachCode" o="none" type="way" v="03050101008587" />
+    <tag id="42875344" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42875409" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42875409" k="NHD:ComID" o="none" type="way" v="141327175" />
+    <tag id="42875409" k="NHD:FCode" o="none" type="way" v="43610" />
+    <tag id="42875409" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42875409" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42875409" k="NHD:ReachCode" o="none" type="way" v="03050101008588" />
+    <tag id="42875409" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42875635" k="source" o="modify" type="way" v="National Hydrography Dataset  (http://nhd.usgs.gov/)" />
+    <tag id="42875635" k="landuse" o="add" type="way" v="reservoir" />
+    <tag id="42875635" k="NHD:ComID" o="none" type="way" v="141327238" />
+    <tag id="42875635" k="NHD:FCode" o="none" type="way" v="43612" />
+    <tag id="42875635" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42875635" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42875635" k="NHD:ReachCode" o="none" type="way" v="03050101008602" />
+    <tag id="42875635" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42875635" k="reservoir_type" o="none" type="way" v="sewage" />
+    <tag id="42875677" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42875677" k="man_made" o="modify" type="way" v="wastewater_plant" />
+    <tag id="42875677" k="NHD:ComID" o="none" type="way" v="141327208" />
+    <tag id="42875677" k="NHD:FCode" o="none" type="way" v="43612" />
+    <tag id="42875677" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42875677" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42875677" k="NHD:ReachCode" o="none" type="way" v="03050101008594" />
+    <tag id="42875677" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42875855" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42875855" k="man_made" o="modify" type="way" v="wastewater_plant" />
+    <tag id="42875855" k="NHD:ComID" o="none" type="way" v="141327212" />
+    <tag id="42875855" k="NHD:FCode" o="none" type="way" v="43612" />
+    <tag id="42875855" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42875855" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42875855" k="NHD:ReachCode" o="none" type="way" v="03050101008597" />
+    <tag id="42875855" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42875985" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42875985" k="man_made" o="modify" type="way" v="wastewater_plant" />
+    <tag id="42875985" k="NHD:ComID" o="none" type="way" v="141327206" />
+    <tag id="42875985" k="NHD:FCode" o="none" type="way" v="43612" />
+    <tag id="42875985" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42875985" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42875985" k="NHD:ReachCode" o="none" type="way" v="03050101008593" />
+    <tag id="42875985" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42888605" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42888605" k="man_made" o="modify" type="way" v="wastewater_plant" />
+    <tag id="42888605" k="NHD:ComID" o="none" type="way" v="141327204" />
+    <tag id="42888605" k="NHD:FCode" o="none" type="way" v="43612" />
+    <tag id="42888605" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42888605" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42888605" k="NHD:ReachCode" o="none" type="way" v="03050101008592" />
+    <tag id="42888605" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42888879" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42888879" k="NHD:ComID" o="none" type="way" v="141327176" />
+    <tag id="42888879" k="NHD:FCode" o="none" type="way" v="43610" />
+    <tag id="42888879" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42888879" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42888879" k="NHD:ReachCode" o="none" type="way" v="03050101008589" />
+    <tag id="42888879" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="42890132" k="source" o="modify" type="way" v="NHD" />
+    <tag id="42890132" k="man_made" o="modify" type="way" v="wastewater_plant" />
+    <tag id="42890132" k="NHD:ComID" o="none" type="way" v="141327209" />
+    <tag id="42890132" k="NHD:FCode" o="none" type="way" v="43612" />
+    <tag id="42890132" k="NHD:FDate" o="none" type="way" v="2005/10/18" />
+    <tag id="42890132" k="NHD:FTYPE" o="none" type="way" v="Reservoir" />
+    <tag id="42890132" k="NHD:ReachCode" o="none" type="way" v="03050101008595" />
+    <tag id="42890132" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="43078555" k="source" o="none" type="way" v="NHD_import_v0.3_20091019123831" />
+    <tag id="43078555" k="waterway" o="none" type="way" v="stream" />
+    <tag id="43078555" k="NHD:ComID" o="none" type="way" v="89017079" />
+    <tag id="43078555" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="43078555" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="43078555" k="NHD:way_id" o="none" type="way" v="89017079" />
+    <tag id="43078555" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="43078555" k="NHD:ReachCode" o="none" type="way" v="3050102000335" />
+    <tag id="43078555" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="43078668" k="source" o="none" type="way" v="NHD_import_v0.3_20091019123831" />
+    <tag id="43078668" k="waterway" o="none" type="way" v="stream" />
+    <tag id="43078668" k="NHD:ComID" o="none" type="way" v="89017569" />
+    <tag id="43078668" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="43078668" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="43078668" k="NHD:way_id" o="none" type="way" v="89017569" />
+    <tag id="43078668" k="attribution" o="none" type="way" v="NHD" />
+    <tag id="43078668" k="NHD:ReachCode" o="none" type="way" v="3050102000339" />
+    <tag id="43078668" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="43081529" k="source" o="none" type="way" v="NHD" />
+    <tag id="43081529" k="waterway" o="none" type="way" v="stream" />
+    <tag id="43081529" k="NHD:ComID" o="none" type="way" v="89017013" />
+    <tag id="43081529" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="43081529" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="43081529" k="NHD:way_id" o="none" type="way" v="89017013" />
+    <tag id="43081529" k="NHD:ReachCode" o="none" type="way" v="3050102000332" />
+    <tag id="43081529" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="43092884" k="name" o="none" type="way" v="Henry Fork" />
+    <tag id="43092884" k="source" o="none" type="way" v="NHD" />
+    <tag id="43092884" k="waterway" o="none" type="way" v="stream" />
+    <tag id="43092884" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="43092884" k="gnis:feature_id" o="none" type="way" v="00986626" />
+    <tag id="43110329" k="source" o="none" type="way" v="NHD" />
+    <tag id="43110329" k="waterway" o="none" type="way" v="stream" />
+    <tag id="43110329" k="NHD:ComID" o="none" type="way" v="89017083" />
+    <tag id="43110329" k="NHD:FCode" o="none" type="way" v="46006" />
+    <tag id="43110329" k="NHD:FType" o="none" type="way" v="StreamRiver" />
+    <tag id="43110329" k="NHD:way_id" o="none" type="way" v="89017083" />
+    <tag id="43110329" k="NHD:ReachCode" o="none" type="way" v="3050102000333" />
+    <tag id="43110329" k="NHD:RESOLUTION" o="none" type="way" v="High" />
+    <tag id="45272490" k="source" o="none" type="way" v="NHD" />
+    <tag id="45272490" k="natural" o="none" type="way" v="water" />
+    <tag id="45272494" k="source" o="none" type="way" v="NHD" />
+    <tag id="45272494" k="natural" o="none" type="way" v="water" />
+    <tag id="45310938" k="name" o="none" type="way" v="Scippio Swamp" />
+    <tag id="45310938" k="source" o="none" type="way" v="NHD" />
+    <tag id="45310938" k="waterway" o="none" type="way" v="stream" />
+    <tag id="45311538" k="name" o="none" type="way" v="Hickmans Branch" />
+    <tag id="45311538" k="source" o="none" type="way" v="NHD" />
+    <tag id="45311538" k="waterway" o="none" type="way" v="stream" />
+    <tag id="45311942" k="source" o="none" type="way" v="NHD" />
+    <tag id="45311942" k="waterway" o="none" type="way" v="stream" />
+    <tag id="45343320" k="source" o="none" type="way" v="NHD" />
+    <tag id="45343320" k="natural" o="none" type="way" v="wetland" />
+    <tag id="45434392" k="boat" o="none" type="way" v="yes" />
+    <tag id="45434392" k="name" o="none" type="way" v="Shallotte River" />
+    <tag id="45434392" k="ship" o="none" type="way" v="yes" />
+    <tag id="45434392" k="waterway" o="none" type="way" v="river" />
+    <tag id="45434392" k="deep_draft" o="none" type="way" v="no" />
+    <tag id="45434392" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="45435384" k="source" o="add" type="way" v="NHD" />
+    <tag id="45435384" k="waterway" o="add" type="way" v="stream" />
+    <tag id="45450926" k="source" o="add" type="way" v="NHD" />
+    <tag id="45450926" k="natural" o="add" type="way" v="wetland" />
+    <tag id="45463177" k="source" o="none" type="way" v="NHD" />
+    <tag id="45463177" k="natural" o="none" type="way" v="wetland" />
+    <tag id="82347008" k="source" o="none" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="82347008" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="82347008" k="admin_level" o="none" type="way" v="6" />
+    <tag id="82347204" k="source" o="none" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="82347204" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="82347204" k="admin_level" o="none" type="way" v="4" />
+    <tag id="82347204" k="border_type" o="none" type="way" v="state" />
+    <tag id="82347204" k="boundary_type" o="none" type="way" v="maritime" />
+    <tag id="82347294" k="source" o="none" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="82347294" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="82347294" k="admin_level" o="none" type="way" v="6" />
+    <tag id="82347306" k="source" o="none" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="82347306" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="82347306" k="admin_level" o="none" type="way" v="4" />
+    <tag id="82347306" k="border_type" o="none" type="way" v="state" />
+    <tag id="82347306" k="boundary_type" o="none" type="way" v="maritime" />
+    <tag id="82347311" k="source" o="add" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="82347311" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="82347311" k="admin_level" o="add" type="way" v="6" />
+    <tag id="114131187" k="name" o="add" type="way" v="Building 6" />
+    <tag id="114131187" k="building" o="add" type="way" v="yes" />
+    <tag id="146499355" k="natural" o="none" type="way" v="coastline" />
+    <tag id="146499368" k="source" o="none" type="way" v="PGS" />
+    <tag id="146499368" k="natural" o="none" type="way" v="coastline" />
+    <tag id="163742545" k="boat" o="none" type="way" v="yes" />
+    <tag id="163742545" k="name" o="none" type="way" v="Cape Fear River" />
+    <tag id="163742545" k="ship" o="none" type="way" v="yes" />
+    <tag id="163742545" k="waterway" o="none" type="way" v="river" />
+    <tag id="163742545" k="deep_draft" o="none" type="way" v="yes" />
+    <tag id="163742545" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="163742547" k="boat" o="add" type="way" v="yes" />
+    <tag id="163742547" k="name" o="add" type="way" v="Cape Fear River" />
+    <tag id="163742547" k="ship" o="add" type="way" v="yes" />
+    <tag id="163742547" k="waterway" o="add" type="way" v="river" />
+    <tag id="163742547" k="deep_draft" o="add" type="way" v="yes" />
+    <tag id="163742547" k="source:deep_draft" o="add" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="163742557" k="boat" o="none" type="way" v="yes" />
+    <tag id="163742557" k="name" o="none" type="way" v="Snows Cut" />
+    <tag id="163742557" k="ship" o="none" type="way" v="yes" />
+    <tag id="163742557" k="waterway" o="none" type="way" v="canal" />
+    <tag id="163742557" k="deep_draft" o="none" type="way" v="no" />
+    <tag id="163742557" k="source:deep_draft" o="none" type="way" v="National Transportation Atlas Database 2011" />
+    <tag id="189680555" k="name" o="none" type="way" v="Egret Nest Circle" />
+    <tag id="189680555" k="highway" o="none" type="way" v="residential" />
+    <tag id="192706741" k="building" o="add" type="way" v="yes" />
+    <tag id="192706742" k="building" o="add" type="way" v="yes" />
+    <tag id="199052873" k="hgv" o="none" type="way" v="designated" />
+    <tag id="199052873" k="ref" o="none" type="way" v="US 64" />
+    <tag id="199052873" k="lanes" o="none" type="way" v="2" />
+    <tag id="199052873" k="highway" o="none" type="way" v="trunk" />
+    <tag id="199052873" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="199052873" k="maxheight" o="modify" type="way" v="13.6667 feet" />
+    <tag id="199052873" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="199052873" k="tiger:county" o="none" type="way" v="Davidson, NC" />
+    <tag id="199052873" k="tiger:zip_left" o="none" type="way" v="27292" />
+    <tag id="199052873" k="tiger:name_base" o="none" type="way" v="United States Highway 64" />
+    <tag id="199052873" k="tiger:zip_right" o="none" type="way" v="27292" />
+    <tag id="199052873" k="tiger:name_base_1" o="none" type="way" v="United States Highway 64" />
+    <tag id="199052873" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="199052873" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="199052873" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="273632200" k="name" o="none" type="way" v="West Chatman Drive" />
+    <tag id="273632200" k="highway" o="none" type="way" v="residential" />
+    <tag id="276434913" k="name" o="none" type="way" v="Emerillon Court" />
+    <tag id="276434913" k="highway" o="none" type="way" v="residential" />
+    <tag id="286090447" k="source" o="add" type="way" v="PGS" />
+    <tag id="286090447" k="natural" o="add" type="way" v="coastline" />
+    <tag id="286090450" k="source" o="none" type="way" v="PGS" />
+    <tag id="286090450" k="natural" o="none" type="way" v="coastline" />
+    <tag id="290569055" k="source" o="none" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="290569055" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="290569055" k="admin_level" o="none" type="way" v="6" />
+    <tag id="290569056" k="source" o="add" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="290569056" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="290569056" k="admin_level" o="add" type="way" v="6" />
+    <tag id="301870335" k="hgv" o="none" type="way" v="designated" />
+    <tag id="301870335" k="ref" o="none" type="way" v="US 64;NC 18" />
+    <tag id="301870335" k="lanes" o="none" type="way" v="2" />
+    <tag id="301870335" k="highway" o="none" type="way" v="primary" />
+    <tag id="301870335" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="301870335" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="301870335" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="301870335" k="tiger:name_base" o="none" type="way" v="United States Highway 64" />
+    <tag id="301870335" k="tiger:name_base_1" o="none" type="way" v="State Highway 18" />
+    <tag id="301870335" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="301870335" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="307777701" k="ref" o="none" type="way" v="NC 130" />
+    <tag id="307777701" k="name" o="none" type="way" v="Whiteville Road Northwest" />
+    <tag id="307777701" k="highway" o="none" type="way" v="secondary" />
+    <tag id="307777701" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="307777701" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="307777701" k="tiger:county" o="none" type="way" v="Brunswick, NC" />
+    <tag id="307777701" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="307777701" k="tiger:zip_left" o="none" type="way" v="28420" />
+    <tag id="307777701" k="tiger:name_base" o="none" type="way" v="Whiteville" />
+    <tag id="307777701" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="307777701" k="tiger:zip_right" o="none" type="way" v="28420" />
+    <tag id="307777701" k="tiger:name_base_1" o="none" type="way" v="State Highway 130" />
+    <tag id="307777701" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="321746244" k="name" o="none" type="way" v="Duckworth Drive" />
+    <tag id="321746244" k="name_1" o="none" type="way" v="State Road 1504" />
+    <tag id="321746244" k="highway" o="none" type="way" v="residential" />
+    <tag id="321746244" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="321746244" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="321746244" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="321746244" k="tiger:zip_left" o="none" type="way" v="28655" />
+    <tag id="321746244" k="tiger:name_base" o="none" type="way" v="Duckworth" />
+    <tag id="321746244" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="321746244" k="tiger:zip_right" o="none" type="way" v="28655" />
+    <tag id="321746244" k="tiger:name_base_1" o="none" type="way" v="State Road 1504" />
+    <tag id="321757998" k="name" o="none" type="way" v="Old Connelly Avenue" />
+    <tag id="321757998" k="name_1" o="none" type="way" v="State Road 1752" />
+    <tag id="321757998" k="highway" o="none" type="way" v="residential" />
+    <tag id="321757998" k="surface" o="none" type="way" v="gravel" />
+    <tag id="321757998" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="321757998" k="tiger:county" o="none" type="way" v="Burke, NC" />
+    <tag id="321757998" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="321757998" k="tiger:zip_left" o="none" type="way" v="28612" />
+    <tag id="321757998" k="tiger:name_base" o="none" type="way" v="Old Connelly" />
+    <tag id="321757998" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="321757998" k="tiger:zip_right" o="none" type="way" v="28612" />
+    <tag id="321757998" k="tiger:name_base_1" o="none" type="way" v="State Road 1752" />
+    <tag id="324417761" k="building" o="none" type="way" v="yes" />
+    <tag id="338503049" k="building" o="add" type="way" v="yes" />
+    <tag id="349876617" k="cuisine" o="none" type="way" v="fish_and_chips" />
+    <tag id="349876617" k="building" o="modify" type="way" v="yes" />
+    <tag id="349876617" k="addr:city" o="none" type="way" v="Calabash" />
+    <tag id="349876617" k="addr:state" o="none" type="way" v="NC" />
+    <tag id="349876617" k="addr:street" o="none" type="way" v="Beach Drive Southwest" />
+    <tag id="349876617" k="addr:postcode" o="none" type="way" v="28467" />
+    <tag id="349876617" k="addr:housenumber" o="none" type="way" v="10001" />
+    <tag id="349990282" k="building" o="add" type="way" v="greenhouse" />
+    <tag id="349990284" k="building" o="add" type="way" v="greenhouse" />
+    <tag id="349990286" k="building" o="add" type="way" v="greenhouse" />
+    <tag id="349990288" k="building" o="add" type="way" v="greenhouse" />
+    <tag id="349990290" k="building" o="add" type="way" v="greenhouse" />
+    <tag id="349990292" k="building" o="add" type="way" v="yes" />
+    <tag id="349990294" k="building" o="add" type="way" v="greenhouse" />
+    <tag id="349990296" k="building" o="add" type="way" v="shed" />
+    <tag id="349990298" k="building" o="add" type="way" v="yes" />
+    <tag id="363545306" k="building" o="modify" type="way" v="yes" />
+    <tag id="371771837" k="building" o="add" type="way" v="house" />
+    <tag id="371771837" k="addr:city" o="add" type="way" v="Morganton" />
+    <tag id="371771837" k="addr:state" o="add" type="way" v="NC" />
+    <tag id="371771837" k="addr:street" o="add" type="way" v="NC 18 South" />
+    <tag id="371771837" k="addr:postcode" o="add" type="way" v="28655" />
+    <tag id="371771837" k="addr:housenumber" o="add" type="way" v="3214" />
+    <tag id="375995642" k="building" o="add" type="way" v="yes" />
+    <tag id="375995643" k="building" o="add" type="way" v="yes" />
+    <tag id="375995644" k="building" o="add" type="way" v="yes" />
+    <tag id="375995645" k="building" o="add" type="way" v="yes" />
+    <tag id="375995652" k="building" o="add" type="way" v="yes" />
+    <tag id="375995653" k="building" o="add" type="way" v="barn" />
+    <tag id="375995666" k="building" o="add" type="way" v="yes" />
+    <tag id="376086061" k="name" o="none" type="way" v="Worms and Coffee" />
+    <tag id="376086061" k="shop" o="none" type="way" v="convenience" />
+    <tag id="390776848" k="source" o="add" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="390776848" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="390776848" k="admin_level" o="add" type="way" v="6" />
+    <tag id="390776849" k="source" o="add" type="way" v="2009 Census TIGER/Line Shapefiles" />
+    <tag id="390776849" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="390776849" k="admin_level" o="add" type="way" v="6" />
+    <tag id="410890970" k="building" o="add" type="way" v="house" />
+    <tag id="410890972" k="building" o="add" type="way" v="house" />
+    <tag id="410890972" k="addr:city" o="add" type="way" v="Calabash" />
+    <tag id="410890972" k="addr:state" o="add" type="way" v="NC" />
+    <tag id="410890972" k="addr:street" o="add" type="way" v="Deer Path Southwest" />
+    <tag id="410890972" k="addr:postcode" o="add" type="way" v="28467" />
+    <tag id="410890972" k="addr:housenumber" o="add" type="way" v="477" />
+    <tag id="410890973" k="building" o="add" type="way" v="house" />
+    <tag id="410890973" k="addr:city" o="add" type="way" v="Calabash" />
+    <tag id="410890973" k="addr:state" o="add" type="way" v="NC" />
+    <tag id="410890973" k="addr:street" o="add" type="way" v="Deer Path Southwest" />
+    <tag id="410890973" k="addr:postcode" o="add" type="way" v="28467" />
+    <tag id="410890973" k="addr:housenumber" o="add" type="way" v="479" />
+    <tag id="410890974" k="building" o="add" type="way" v="house" />
+    <tag id="410890974" k="addr:city" o="add" type="way" v="Calabash" />
+    <tag id="410890974" k="addr:state" o="add" type="way" v="NC" />
+    <tag id="410890974" k="addr:street" o="add" type="way" v="Deer Path Southwest" />
+    <tag id="410890974" k="addr:postcode" o="add" type="way" v="28467" />
+    <tag id="410890974" k="addr:housenumber" o="add" type="way" v="475" />
+    <tag id="418731554" k="building" o="add" type="way" v="house" />
+    <tag id="421692927" k="highway" o="none" type="way" v="service" />
+    <tag id="436243489" k="building" o="add" type="way" v="yes" />
+    <tag id="436243490" k="building" o="add" type="way" v="yes" />
+    <tag id="436243491" k="building" o="add" type="way" v="yes" />
+    <tag id="436243492" k="building" o="add" type="way" v="yes" />
+    <tag id="436243493" k="building" o="add" type="way" v="yes" />
+    <tag id="436243494" k="building" o="add" type="way" v="yes" />
+    <tag id="436243495" k="building" o="add" type="way" v="yes" />
+    <tag id="436243496" k="building" o="add" type="way" v="yes" />
+    <tag id="436243497" k="building" o="add" type="way" v="yes" />
+    <tag id="436243498" k="building" o="add" type="way" v="yes" />
+    <tag id="436243499" k="building" o="add" type="way" v="yes" />
+    <tag id="436243500" k="building" o="add" type="way" v="yes" />
+    <tag id="436243501" k="building" o="add" type="way" v="yes" />
+    <tag id="436243502" k="building" o="add" type="way" v="yes" />
+    <tag id="436243503" k="building" o="add" type="way" v="yes" />
+    <tag id="436243504" k="building" o="add" type="way" v="yes" />
+    <tag id="436243505" k="building" o="add" type="way" v="yes" />
+    <tag id="436243506" k="building" o="add" type="way" v="yes" />
+    <tag id="436243507" k="building" o="add" type="way" v="yes" />
+    <tag id="436243508" k="building" o="add" type="way" v="yes" />
+    <tag id="436243509" k="building" o="add" type="way" v="yes" />
+    <tag id="436243510" k="building" o="add" type="way" v="yes" />
+    <tag id="436243511" k="building" o="add" type="way" v="yes" />
+    <tag id="436243512" k="building" o="add" type="way" v="yes" />
+    <tag id="436243513" k="building" o="add" type="way" v="yes" />
+    <tag id="436243514" k="building" o="add" type="way" v="yes" />
+    <tag id="436243515" k="building" o="add" type="way" v="yes" />
+    <tag id="436243516" k="building" o="add" type="way" v="yes" />
+    <tag id="436243517" k="building" o="add" type="way" v="yes" />
+    <tag id="436243518" k="building" o="add" type="way" v="yes" />
+    <tag id="436243519" k="building" o="add" type="way" v="yes" />
+    <tag id="436243520" k="building" o="add" type="way" v="yes" />
+    <tag id="436243521" k="building" o="add" type="way" v="yes" />
+    <tag id="436243522" k="building" o="add" type="way" v="yes" />
+    <tag id="436243523" k="building" o="add" type="way" v="yes" />
+    <tag id="436243524" k="building" o="add" type="way" v="yes" />
+    <tag id="436243525" k="building" o="add" type="way" v="yes" />
+    <tag id="436243526" k="building" o="add" type="way" v="yes" />
+    <tag id="436243527" k="building" o="add" type="way" v="yes" />
+    <tag id="436243528" k="building" o="add" type="way" v="yes" />
+    <tag id="436243529" k="building" o="add" type="way" v="yes" />
+    <tag id="436243530" k="building" o="add" type="way" v="yes" />
+    <tag id="436243531" k="building" o="add" type="way" v="yes" />
+    <tag id="436243532" k="building" o="add" type="way" v="yes" />
+    <tag id="436243533" k="building" o="add" type="way" v="yes" />
+    <tag id="436243534" k="building" o="add" type="way" v="yes" />
+    <tag id="436243535" k="building" o="add" type="way" v="yes" />
+    <tag id="436243536" k="building" o="add" type="way" v="yes" />
+    <tag id="436243537" k="building" o="add" type="way" v="yes" />
+    <tag id="436243538" k="building" o="add" type="way" v="yes" />
+    <tag id="436243539" k="building" o="add" type="way" v="yes" />
+    <tag id="439889040" k="building" o="add" type="way" v="yes" />
+    <tag id="445612964" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="445612964" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="445612964" k="admin_level" o="none" type="way" v="8" />
+    <tag id="177385" k="name" o="none" type="relation" v="Kirkland" />
+    <tag id="177385" k="type" o="none" type="relation" v="boundary" />
+    <tag id="177385" k="is_in" o="none" type="relation" v="USA, North Carolina" />
+    <tag id="177385" k="place" o="none" type="relation" v="locality" />
+    <tag id="177385" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="177385" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="177385" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="177385" k="wikipedia" o="none" type="relation" v="en:Kirkland, North Carolina" />
+    <tag id="177385" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="177385" k="tiger:NAME" o="none" type="relation" v="Kirkland" />
+    <tag id="177385" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="177385" k="is_in:state" o="none" type="relation" v="North Carolina" />
+    <tag id="177385" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="177385" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="177385" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="177385" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="177385" k="tiger:PLACEFP" o="none" type="relation" v="35975" />
+    <tag id="177385" k="tiger:PLACENS" o="none" type="relation" v="02403179" />
+    <tag id="177385" k="tiger:PLCIDFP" o="none" type="relation" v="3735975" />
+    <tag id="177385" k="tiger:STATEFP" o="none" type="relation" v="37" />
+    <tag id="177385" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="177385" k="tiger:NAMELSAD" o="none" type="relation" v="Kirkland CDP" />
+    <tag id="177385" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="177385" k="is_in:iso_3166_2" o="none" type="relation" v="US:NC" />
+    <tag id="177385" k="is_in:state_code" o="none" type="relation" v="NC" />
+    <tag id="177385" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="179058" k="name" o="add" type="relation" v="Holden Beach" />
+    <tag id="179058" k="type" o="add" type="relation" v="boundary" />
+    <tag id="179058" k="is_in" o="add" type="relation" v="USA, North Carolina" />
+    <tag id="179058" k="place" o="add" type="relation" v="town" />
+    <tag id="179058" k="source" o="add" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="179058" k="boundary" o="add" type="relation" v="administrative" />
+    <tag id="179058" k="tiger:CPI" o="add" type="relation" v="Y" />
+    <tag id="179058" k="wikipedia" o="add" type="relation" v="en:Holden Beach, North Carolina" />
+    <tag id="179058" k="tiger:LSAD" o="add" type="relation" v="43" />
+    <tag id="179058" k="tiger:NAME" o="add" type="relation" v="Holden Beach" />
+    <tag id="179058" k="admin_level" o="add" type="relation" v="8" />
+    <tag id="179058" k="border_type" o="add" type="relation" v="town" />
+    <tag id="179058" k="is_in:state" o="add" type="relation" v="North Carolina" />
+    <tag id="179058" k="tiger:MTFCC" o="add" type="relation" v="G4110" />
+    <tag id="179058" k="is_in:country" o="add" type="relation" v="USA" />
+    <tag id="179058" k="tiger:CLASSFP" o="add" type="relation" v="C1" />
+    <tag id="179058" k="tiger:PCICBSA" o="add" type="relation" v="N" />
+    <tag id="179058" k="tiger:PLACEFP" o="add" type="relation" v="31960" />
+    <tag id="179058" k="tiger:PLACENS" o="add" type="relation" v="02405849" />
+    <tag id="179058" k="tiger:PLCIDFP" o="add" type="relation" v="3731960" />
+    <tag id="179058" k="tiger:STATEFP" o="add" type="relation" v="37" />
+    <tag id="179058" k="tiger:FUNCSTAT" o="add" type="relation" v="A" />
+    <tag id="179058" k="tiger:NAMELSAD" o="add" type="relation" v="Holden Beach town" />
+    <tag id="179058" k="tiger:PCINECTA" o="add" type="relation" v="N" />
+    <tag id="179058" k="is_in:iso_3166_2" o="add" type="relation" v="US:NC" />
+    <tag id="179058" k="is_in:state_code" o="add" type="relation" v="NC" />
+    <tag id="179058" k="is_in:country_code" o="add" type="relation" v="US" />
+    <tag id="179060" k="name" o="none" type="relation" v="Navassa" />
+    <tag id="179060" k="type" o="none" type="relation" v="boundary" />
+    <tag id="179060" k="is_in" o="none" type="relation" v="USA, North Carolina" />
+    <tag id="179060" k="place" o="none" type="relation" v="town" />
+    <tag id="179060" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="179060" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="179060" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="179060" k="wikipedia" o="none" type="relation" v="en:Navassa, North Carolina" />
+    <tag id="179060" k="tiger:LSAD" o="none" type="relation" v="43" />
+    <tag id="179060" k="tiger:NAME" o="none" type="relation" v="Navassa" />
+    <tag id="179060" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="179060" k="border_type" o="none" type="relation" v="town" />
+    <tag id="179060" k="is_in:state" o="none" type="relation" v="North Carolina" />
+    <tag id="179060" k="tiger:MTFCC" o="none" type="relation" v="G4110" />
+    <tag id="179060" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="179060" k="tiger:CLASSFP" o="none" type="relation" v="C1" />
+    <tag id="179060" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="179060" k="tiger:PLACEFP" o="none" type="relation" v="46060" />
+    <tag id="179060" k="tiger:PLACENS" o="none" type="relation" v="02406968" />
+    <tag id="179060" k="tiger:PLCIDFP" o="none" type="relation" v="3746060" />
+    <tag id="179060" k="tiger:STATEFP" o="none" type="relation" v="37" />
+    <tag id="179060" k="tiger:FUNCSTAT" o="none" type="relation" v="A" />
+    <tag id="179060" k="tiger:NAMELSAD" o="none" type="relation" v="Navassa town" />
+    <tag id="179060" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="179060" k="is_in:iso_3166_2" o="none" type="relation" v="US:NC" />
+    <tag id="179060" k="is_in:state_code" o="none" type="relation" v="NC" />
+    <tag id="179060" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="421777" k="ref" o="none" type="relation" v="64" />
+    <tag id="421777" k="name" o="none" type="relation" v="US 64 (NC)" />
+    <tag id="421777" k="type" o="none" type="relation" v="route" />
+    <tag id="421777" k="route" o="none" type="relation" v="road" />
+    <tag id="421777" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/b/bf/US_64.svg" />
+    <tag id="421777" k="network" o="none" type="relation" v="US:US" />
+    <tag id="421777" k="wikidata" o="none" type="relation" v="Q4817880" />
+    <tag id="421777" k="wikipedia" o="none" type="relation" v="en:U.S. Route 64 in North Carolina" />
+    <tag id="421777" k="is_in:state" o="none" type="relation" v="NC" />
+    <tag id="421777" k="evacuation_route" o="none" type="relation" v="yes" />
+    <tag id="1333549" k="ref" o="none" type="relation" v="14" />
+    <tag id="1333549" k="type" o="none" type="relation" v="route" />
+    <tag id="1333549" k="source" o="none" type="relation" v="http://www.ncdot.org/doh/preconstruct/tpb/shc/" />
+    <tag id="1333549" k="network" o="none" type="relation" v="US:NC:Strategic Highway Corridors" />
+    <tag id="1571977" k="ref" o="none" type="relation" v="18" />
+    <tag id="1571977" k="type" o="none" type="relation" v="route" />
+    <tag id="1571977" k="route" o="none" type="relation" v="road" />
+    <tag id="1571977" k="symbol" o="none" type="relation" v="http://en.wikipedia.org/wiki/File:NC_18.svg" />
+    <tag id="1571977" k="network" o="none" type="relation" v="US:NC" />
+    <tag id="1571977" k="wikipedia" o="none" type="relation" v="en:North Carolina Highway 18" />
+    <tag id="1574129" k="ref" o="none" type="relation" v="130" />
+    <tag id="1574129" k="type" o="none" type="relation" v="route" />
+    <tag id="1574129" k="route" o="none" type="relation" v="road" />
+    <tag id="1574129" k="network" o="none" type="relation" v="US:NC" />
+    <tag id="2184326" k="name" o="none" type="relation" v="Atlantic Intracoastal Waterway" />
+    <tag id="2184326" k="ship" o="none" type="relation" v="yes" />
+    <tag id="2184326" k="type" o="none" type="relation" v="route" />
+    <tag id="2184326" k="route" o="none" type="relation" v="boat" />
+    <tag id="2184326" k="network" o="none" type="relation" v="inland waterways" />
+    <tag id="2184326" k="wikipedia" o="none" type="relation" v="en:Atlantic Intracoastal Waterway" />
+    <tag id="2188457" k="name" o="none" type="relation" v="Cape Fear River" />
+    <tag id="2188457" k="ship" o="none" type="relation" v="yes" />
+    <tag id="2188457" k="type" o="none" type="relation" v="route" />
+    <tag id="2188457" k="route" o="none" type="relation" v="boat" />
+    <tag id="2188458" k="name" o="none" type="relation" v="Cape Fear River" />
+    <tag id="2188458" k="type" o="none" type="relation" v="waterway" />
+    <tag id="2188458" k="waterway" o="none" type="relation" v="river" />
+    <tag id="2188458" k="wikidata" o="none" type="relation" v="Q1034421" />
+    <tag id="2188458" k="wikipedia" o="none" type="relation" v="en:Cape Fear River" />
+    <tag id="2188458" k="destination" o="none" type="relation" v="Atlantic Ocean" />
+    <tag id="2528677" k="name" o="none" type="relation" v="Brunswick County" />
+    <tag id="2528677" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2528677" k="place" o="none" type="relation" v="county" />
+    <tag id="2528677" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="2528677" k="wikidata" o="none" type="relation" v="Q504329" />
+    <tag id="2528677" k="wikipedia" o="none" type="relation" v="en:Brunswick County, North Carolina" />
+    <tag id="2528677" k="admin_level" o="none" type="relation" v="6" />
+    <tag id="2528677" k="border_type" o="none" type="relation" v="county" />
+    <tag id="2528677" k="nist:fips_code" o="none" type="relation" v="37019" />
+    <tag id="2528677" k="nist:state_fips" o="none" type="relation" v="37" />
+    <tag id="2528727" k="name" o="none" type="relation" v="New Hanover County" />
+    <tag id="2528727" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2528727" k="place" o="none" type="relation" v="county" />
+    <tag id="2528727" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="2528727" k="wikidata" o="none" type="relation" v="Q508209" />
+    <tag id="2528727" k="wikipedia" o="none" type="relation" v="en:New Hanover County, North Carolina" />
+    <tag id="2528727" k="admin_level" o="none" type="relation" v="6" />
+    <tag id="2528727" k="border_type" o="none" type="relation" v="county" />
+    <tag id="2528727" k="nist:fips_code" o="none" type="relation" v="37129" />
+    <tag id="2528727" k="nist:state_fips" o="none" type="relation" v="37" />
+    <tag id="2528732" k="name" o="none" type="relation" v="Pender County" />
+    <tag id="2528732" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2528732" k="place" o="none" type="relation" v="county" />
+    <tag id="2528732" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="2528732" k="wikidata" o="none" type="relation" v="Q507826" />
+    <tag id="2528732" k="wikipedia" o="none" type="relation" v="en:Pender County, North Carolina" />
+    <tag id="2528732" k="admin_level" o="none" type="relation" v="6" />
+    <tag id="2528732" k="border_type" o="none" type="relation" v="county" />
+    <tag id="2528732" k="nist:fips_code" o="none" type="relation" v="37141" />
+    <tag id="2528732" k="nist:state_fips" o="none" type="relation" v="37" />
+    <tag id="3793963" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="3793963" k="natural" o="add" type="relation" v="wetland" />
+    <tag id="6724978" k="name" o="add" type="relation" v="Holden Beach" />
+    <tag id="6724978" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6724978" k="natural" o="add" type="relation" v="beach" />
+    <tag id="6724978" k="surface" o="add" type="relation" v="sand" />
+  </body>
+</changeset>

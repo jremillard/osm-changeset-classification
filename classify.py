@@ -51,7 +51,7 @@ else :
             #print(cs['cs'].textDump(1)[0])            
             texts.extend( cs['cs'].textDump(1) )
             changesets.append(cs['cs'])
-            labels.append( cs['labelIndex'])
+            labels.append( cs['labels'])
 
 labels_index ={}
 maximumSeqLength = 0
@@ -78,15 +78,13 @@ if ( not labels is None ):
         for i,row in enumerate(y):
             #print(row)
             bad = False
-            close = False
-            if ( np.argmax(row) != labels[i]):
-                bad = True
-
-            if ( np.max(row)-np.min(row) < 0.50):
-                close = True
-                close = False
-            
-            if ( bad or close ):
+            for labelIndex in labels[i]:
+                if (  labels[i][labelIndex] > 0.5 and row[labelIndex] < 0.5):
+                    bad = True
+                if (  labels[i][labelIndex] < 0.5 and row[labelIndex] > 0.5):
+                    bad = True
+                            
+            if ( bad  ):
 
                 if ( changesets[i].cached() == False):
                     changesets[i].save()
@@ -98,8 +96,6 @@ if ( not labels is None ):
                     print("{}={:0.2f}".format(label,row[labels_index[label]]), end=' ',file=toReview)
                 if bad:
                     print("BAD")
-                elif close:
-                    print("Close")
                 print("",file=toReview)
                 #print("{}\n\n".format(texts[i]))
             

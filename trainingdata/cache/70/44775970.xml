@@ -1,0 +1,791 @@
+<changeset id="44775970" schema="2">
+  <counts nodesAdded="74" nodesDeleted="0" nodesModified="7" relationsAdded="5" relationsDeleted="0" relationsModified="3" waysAdded="13" waysDeleted="0" waysModified="39" />
+  <meta>
+    <tag k="comment" v="Added Route 2 from King County Metro GTFS" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="Bing;King County GIS" />
+  </meta>
+  <body>
+    <tag id="335725066" k="bus" o="add" type="node" v="yes" />
+    <tag id="335725066" k="ref" o="add" type="node" v="3033" />
+    <tag id="335725066" k="name" o="add" type="node" v="Seneca St &amp; Harvard Ave" />
+    <tag id="335725066" k="gtfs:stop_id" o="add" type="node" v="3033" />
+    <tag id="335725066" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="1760554563" k="bus" o="add" type="node" v="yes" />
+    <tag id="1760554563" k="ref" o="add" type="node" v="13277" />
+    <tag id="1760554563" k="name" o="add" type="node" v="E Madison St &amp; 13th Ave" />
+    <tag id="1760554563" k="gtfs:stop_id" o="add" type="node" v="13277" />
+    <tag id="1760554563" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="1806705686" k="bus" o="add" type="node" v="yes" />
+    <tag id="1806705686" k="ref" o="add" type="node" v="3035" />
+    <tag id="1806705686" k="name" o="add" type="node" v="Seneca St &amp; Boren Ave" />
+    <tag id="1806705686" k="gtfs:stop_id" o="add" type="node" v="3035" />
+    <tag id="1806705686" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2507768157" k="bus" o="add" type="node" v="yes" />
+    <tag id="2507768157" k="ref" o="add" type="node" v="2900" />
+    <tag id="2507768157" k="name" o="add" type="node" v="E Denny Way &amp; E Florence Ct" />
+    <tag id="2507768157" k="gtfs:stop_id" o="add" type="node" v="2900" />
+    <tag id="2507768157" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2507768187" k="bus" o="add" type="node" v="yes" />
+    <tag id="2507768187" k="ref" o="add" type="node" v="3300" />
+    <tag id="2507768187" k="name" o="add" type="node" v="Madrona Dr &amp; 38th Ave" />
+    <tag id="2507768187" k="gtfs:stop_id" o="add" type="node" v="3300" />
+    <tag id="2507768187" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2692907664" k="bus" o="add" type="node" v="yes" />
+    <tag id="2692907664" k="ref" o="add" type="node" v="2860" />
+    <tag id="2692907664" k="name" o="add" type="node" v="Madrona Dr &amp; Newport Way" />
+    <tag id="2692907664" k="gtfs:stop_id" o="add" type="node" v="2860" />
+    <tag id="2692907664" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="4580651520" k="bus" o="none" type="node" v="yes" />
+    <tag id="4580651520" k="ref" o="none" type="node" v="2850" />
+    <tag id="4580651520" k="name" o="add" type="node" v="Madrona Park &amp; Lake Washington Blvd" />
+    <tag id="4580651520" k="gtfs:stop_id" o="add" type="node" v="2850" />
+    <tag id="4580651520" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="6430432" k="name" o="none" type="way" v="West Galer Street" />
+    <tag id="6430432" k="lanes" o="none" type="way" v="2" />
+    <tag id="6430432" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6430432" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6430432" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6430432" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6430432" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="6430432" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="6430432" k="tiger:name_base" o="none" type="way" v="Galer" />
+    <tag id="6430432" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6430432" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="6430432" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="6470409" k="name" o="none" type="way" v="Madrona Drive" />
+    <tag id="6470409" k="lanes" o="none" type="way" v="2" />
+    <tag id="6470409" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="6470409" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6470409" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="6470409" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6470409" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="6470409" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6470409" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6470409" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6470409" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="6470409" k="tiger:name_base" o="none" type="way" v="Madrona" />
+    <tag id="6470409" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="6470409" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="6475815" k="name" o="none" type="way" v="East Madison Street" />
+    <tag id="6475815" k="lanes" o="none" type="way" v="4" />
+    <tag id="6475815" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6475815" k="old_ref" o="none" type="way" v="WA 513 (Old SSH 1J)" />
+    <tag id="6475815" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6475815" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="6475815" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6475815" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6475815" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="6475815" k="tiger:name_base" o="none" type="way" v="Madison" />
+    <tag id="6475815" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6475815" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="6475815" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="6491209" k="name" o="none" type="way" v="6th Avenue West" />
+    <tag id="6491209" k="lanes" o="none" type="way" v="2" />
+    <tag id="6491209" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6491209" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6491209" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6491209" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6491209" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="6491209" k="tiger:name_base" o="none" type="way" v="6th" />
+    <tag id="6491209" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6491209" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="6491209" k="tiger:name_direction_suffix" o="none" type="way" v="W" />
+    <tag id="8071903" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="8071903" k="lanes" o="none" type="way" v="2" />
+    <tag id="8071903" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="8071903" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="8071903" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="8071903" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="8071903" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="8071903" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="8071903" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="8071903" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="8071903" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="8071903" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="8071903" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="8071903" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="13726935" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="13726935" k="lanes" o="none" type="way" v="2" />
+    <tag id="13726935" k="layer" o="none" type="way" v="2" />
+    <tag id="13726935" k="bridge" o="none" type="way" v="yes" />
+    <tag id="13726935" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13726935" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="13726935" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="13726935" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="13726935" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="13726935" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="13726935" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="13726935" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="13726935" k="tiger:zip_left" o="none" type="way" v="98104" />
+    <tag id="13726935" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="13726935" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="13726935" k="tiger:zip_right" o="none" type="way" v="98104" />
+    <tag id="13726937" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="13726937" k="lanes" o="none" type="way" v="2" />
+    <tag id="13726937" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13726937" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="13726937" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="13726937" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="13726937" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="13726937" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="13726937" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="13726937" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="13726937" k="tiger:zip_left" o="none" type="way" v="98104" />
+    <tag id="13726937" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="13726937" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="13726937" k="tiger:zip_right" o="none" type="way" v="98104" />
+    <tag id="22927968" k="name" o="none" type="way" v="Seneca Street" />
+    <tag id="22927968" k="lanes" o="none" type="way" v="3" />
+    <tag id="22927968" k="oneway" o="none" type="way" v="yes" />
+    <tag id="22927968" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="22927968" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="22927968" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="22927968" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="22927968" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="22927968" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="22927968" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="22927968" k="tiger:zip_left" o="none" type="way" v="98101" />
+    <tag id="22927968" k="tiger:name_base" o="none" type="way" v="Seneca" />
+    <tag id="22927968" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="22927968" k="tiger:zip_right" o="none" type="way" v="98101" />
+    <tag id="32135548" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="32135548" k="lanes" o="none" type="way" v="2" />
+    <tag id="32135548" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="32135548" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="32135548" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="32135548" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="32135548" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32135548" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="32135548" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32135548" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="32135548" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="32135548" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="32135548" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="32135548" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="32147762" k="name" o="none" type="way" v="7th Avenue West" />
+    <tag id="32147762" k="lanes" o="none" type="way" v="2" />
+    <tag id="32147762" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="32147762" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="32147762" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32147762" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="32147762" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="32147762" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="32147762" k="tiger:name_base" o="none" type="way" v="7th" />
+    <tag id="32147762" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="32147762" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="32147762" k="tiger:name_direction_suffix" o="none" type="way" v="W" />
+    <tag id="32147980" k="name" o="none" type="way" v="6th Avenue West" />
+    <tag id="32147980" k="lanes" o="none" type="way" v="2" />
+    <tag id="32147980" k="highway" o="none" type="way" v="residential" />
+    <tag id="32147980" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="32147980" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32147980" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="32147980" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="32147980" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="32147980" k="tiger:name_base" o="none" type="way" v="6th" />
+    <tag id="32147980" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="32147980" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="32147980" k="tiger:name_direction_suffix" o="none" type="way" v="W" />
+    <tag id="37551510" k="name" o="none" type="way" v="Seneca Street" />
+    <tag id="37551510" k="lanes" o="none" type="way" v="2" />
+    <tag id="37551510" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37551510" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="37551510" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="37551510" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="37551510" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="37551510" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="37551510" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="37551510" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="37551510" k="tiger:zip_left" o="none" type="way" v="98101" />
+    <tag id="37551510" k="tiger:name_base" o="none" type="way" v="Seneca" />
+    <tag id="37551510" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="37551510" k="tiger:zip_right" o="none" type="way" v="98101" />
+    <tag id="40416132" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="40416132" k="lanes" o="none" type="way" v="2" />
+    <tag id="40416132" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="40416132" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="40416132" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="40416132" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="40416132" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="40416132" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="40416132" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="40416132" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="40416132" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="40416132" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="40416132" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="40416132" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="70133947" k="name" o="none" type="way" v="7th Avenue" />
+    <tag id="70133947" k="lanes" o="none" type="way" v="2" />
+    <tag id="70133947" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="70133947" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="70133947" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="70133947" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="70133947" k="tiger:zip_left" o="none" type="way" v="98101" />
+    <tag id="70133947" k="tiger:name_base" o="none" type="way" v="7th" />
+    <tag id="70133947" k="tiger:name_type" o="none" type="way" v="Avenue" />
+    <tag id="70133947" k="tiger:zip_right" o="none" type="way" v="98104" />
+    <tag id="164418944" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="164418944" k="lanes" o="none" type="way" v="2" />
+    <tag id="164418944" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="164418944" k="highway" o="none" type="way" v="secondary" />
+    <tag id="164418944" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="164418944" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="164418944" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="164418944" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="164418944" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="164418944" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="164418944" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="164418944" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="164418944" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="164418944" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="165042063" k="name" o="none" type="way" v="Seneca Street" />
+    <tag id="165042063" k="lanes" o="none" type="way" v="3" />
+    <tag id="165042063" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="165042063" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="165042063" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="165042063" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="165042063" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="165042063" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="165042063" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="165042063" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="165042063" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="165042063" k="tiger:zip_left" o="none" type="way" v="98101" />
+    <tag id="165042063" k="tiger:name_base" o="none" type="way" v="Seneca" />
+    <tag id="165042063" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="165042063" k="tiger:zip_right" o="none" type="way" v="98101" />
+    <tag id="179552126" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="179552126" k="lanes" o="none" type="way" v="2" />
+    <tag id="179552126" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="179552126" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="179552126" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="179552126" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="179552126" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="179552126" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="179552126" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="179552126" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="179552126" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="179552126" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="179552126" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="179552126" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="185882765" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="185882765" k="lanes" o="none" type="way" v="2" />
+    <tag id="185882765" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="185882765" k="highway" o="none" type="way" v="secondary" />
+    <tag id="185882765" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="185882765" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="185882765" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="185882765" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="185882765" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="185882765" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="185882765" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="185882765" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="185882765" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="256994205" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="256994205" k="lanes" o="none" type="way" v="2" />
+    <tag id="256994205" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="256994205" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="256994205" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="256994205" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="256994205" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="256994205" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="256994205" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="256994205" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="256994205" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="256994205" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="256994205" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="256994205" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="256994206" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="256994206" k="lanes" o="none" type="way" v="4" />
+    <tag id="256994206" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="256994206" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="256994206" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="256994206" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="256994206" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="256994206" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="256994206" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="256994206" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="256994206" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="256994206" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="256994206" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="256994206" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="263665039" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="263665039" k="lanes" o="none" type="way" v="2" />
+    <tag id="263665039" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="263665039" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="263665039" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="263665039" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="263665039" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="263665039" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="263665039" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="263665039" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="263665039" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="263665039" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="263665039" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="263665039" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="263665040" k="name" o="none" type="way" v="34th Avenue" />
+    <tag id="263665040" k="lanes" o="none" type="way" v="2" />
+    <tag id="263665040" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="263665040" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="263665040" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="263665040" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="263665040" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="263665040" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="263665040" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="263665040" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="263665040" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="263665040" k="tiger:name_base" o="none" type="way" v="34th" />
+    <tag id="263665040" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="263665040" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="306056517" k="name" o="none" type="way" v="Queen Anne Avenue North" />
+    <tag id="306056517" k="lanes" o="none" type="way" v="4" />
+    <tag id="306056517" k="highway" o="none" type="way" v="secondary" />
+    <tag id="306056517" k="alt_name" o="none" type="way" v="The Counterbalance" />
+    <tag id="306056517" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="306056517" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="306056517" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="306056517" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="306056517" k="tiger:zip_left" o="none" type="way" v="98109" />
+    <tag id="306056517" k="tiger:name_base" o="none" type="way" v="Queen Anne" />
+    <tag id="306056517" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="306056517" k="tiger:zip_right" o="none" type="way" v="98109" />
+    <tag id="306056517" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="332356591" k="name" o="none" type="way" v="Lake Washington Boulevard" />
+    <tag id="332356591" k="lanes" o="none" type="way" v="2" />
+    <tag id="332356591" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="332356591" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="332356591" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="332356591" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="332356591" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="332356591" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="332356591" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="332356591" k="tiger:name_base" o="none" type="way" v="Lake Washington" />
+    <tag id="332356591" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="332356591" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="337673342" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="337673342" k="lanes" o="none" type="way" v="2" />
+    <tag id="337673342" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="337673342" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="337673342" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="337673342" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="337673342" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="337673342" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="337673342" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="337673342" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="337673342" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="337673342" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="337673342" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="337698847" k="name" o="none" type="way" v="Madrona Drive" />
+    <tag id="337698847" k="lanes" o="none" type="way" v="2" />
+    <tag id="337698847" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="337698847" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="337698847" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="337698847" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="337698847" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="337698847" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="337698847" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="337698847" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="337698847" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="337698847" k="tiger:name_base" o="none" type="way" v="Madrona" />
+    <tag id="337698847" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="337698847" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="338864481" k="name" o="none" type="way" v="Queen Anne Avenue North" />
+    <tag id="338864481" k="lanes" o="none" type="way" v="2" />
+    <tag id="338864481" k="highway" o="none" type="way" v="secondary" />
+    <tag id="338864481" k="alt_name" o="none" type="way" v="The Counterbalance" />
+    <tag id="338864481" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="338864481" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="338864481" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="338864481" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="338864481" k="tiger:zip_left" o="none" type="way" v="98109" />
+    <tag id="338864481" k="tiger:name_base" o="none" type="way" v="Queen Anne" />
+    <tag id="338864481" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="338864481" k="tiger:zip_right" o="none" type="way" v="98109" />
+    <tag id="338864481" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="342789611" k="name" o="none" type="way" v="West McGraw Street" />
+    <tag id="342789611" k="lanes" o="none" type="way" v="2" />
+    <tag id="342789611" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="342789611" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="342789611" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="342789611" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="342789611" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="342789611" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="342789611" k="tiger:name_base" o="none" type="way" v="Mc Graw" />
+    <tag id="342789611" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="342789611" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="342789611" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="344549042" k="name" o="none" type="way" v="6th Avenue West" />
+    <tag id="344549042" k="lanes" o="none" type="way" v="2" />
+    <tag id="344549042" k="highway" o="none" type="way" v="residential" />
+    <tag id="344549042" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="344549042" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="344549042" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="344549042" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="344549042" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="344549042" k="tiger:name_base" o="none" type="way" v="6th" />
+    <tag id="344549042" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="344549042" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="344549042" k="tiger:name_direction_suffix" o="none" type="way" v="W" />
+    <tag id="353690146" k="name" o="none" type="way" v="12th Avenue" />
+    <tag id="353690146" k="lanes" o="none" type="way" v="3" />
+    <tag id="353690146" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="353690146" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="353690146" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="353690146" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="353690146" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="353690146" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="353690146" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="353690146" k="tiger:name_base" o="none" type="way" v="12th" />
+    <tag id="353690146" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="353690146" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="370823230" k="name" o="none" type="way" v="1st Avenue North" />
+    <tag id="370823230" k="lanes" o="none" type="way" v="2" />
+    <tag id="370823230" k="oneway" o="none" type="way" v="yes" />
+    <tag id="370823230" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="370823230" k="highway" o="none" type="way" v="secondary" />
+    <tag id="370823230" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="370823230" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="370823230" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="370823230" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="370823230" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="370823230" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="370823230" k="tiger:zip_left" o="none" type="way" v="98109" />
+    <tag id="370823230" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="370823230" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="370823230" k="tiger:zip_right" o="none" type="way" v="98109" />
+    <tag id="370823230" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="390328205" k="name" o="none" type="way" v="West Raye Street" />
+    <tag id="390328205" k="lanes" o="none" type="way" v="2" />
+    <tag id="390328205" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="390328205" k="alt_name" o="none" type="way" v="Queen Anne Boulevard" />
+    <tag id="390328205" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="390328205" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="390328205" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="390328205" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="390328205" k="tiger:zip_left" o="none" type="way" v="98119" />
+    <tag id="390328205" k="tiger:name_base" o="none" type="way" v="Raye" />
+    <tag id="390328205" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="390328205" k="tiger:zip_right" o="none" type="way" v="98119" />
+    <tag id="390328205" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="395714915" k="name" o="none" type="way" v="East Madison Street" />
+    <tag id="395714915" k="lanes" o="none" type="way" v="4" />
+    <tag id="395714915" k="highway" o="none" type="way" v="secondary" />
+    <tag id="395714915" k="old_ref" o="none" type="way" v="WA 513 (Old SSH 1J)" />
+    <tag id="395714915" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="395714915" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="395714915" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="395714915" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="395714915" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="395714915" k="tiger:name_base" o="none" type="way" v="Madison" />
+    <tag id="395714915" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="395714915" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="395714915" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="396055524" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="396055524" k="lanes" o="none" type="way" v="4" />
+    <tag id="396055524" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="396055524" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="396055524" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="396055524" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="396055524" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="396055524" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="396055524" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="396055524" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="396055524" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="396055524" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="396055524" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="396055524" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="421777796" k="name" o="none" type="way" v="Spring Street" />
+    <tag id="421777796" k="lanes" o="none" type="way" v="2" />
+    <tag id="421777796" k="oneway" o="none" type="way" v="yes" />
+    <tag id="421777796" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="421777796" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="421777796" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="421777796" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="421777796" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="421777796" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="421777796" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="421777796" k="tiger:zip_left" o="none" type="way" v="98104" />
+    <tag id="421777796" k="tiger:name_base" o="none" type="way" v="Spring" />
+    <tag id="421777796" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="421777796" k="tiger:zip_right" o="none" type="way" v="98104" />
+    <tag id="438895608" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="438895608" k="lanes" o="none" type="way" v="2" />
+    <tag id="438895608" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="438895608" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="438895608" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="438895608" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="438895608" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="438895608" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="438895608" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="438895608" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="438895608" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="438895608" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="438895608" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="438895608" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="438895609" k="name" o="none" type="way" v="East Union Street" />
+    <tag id="438895609" k="lanes" o="none" type="way" v="2" />
+    <tag id="438895609" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="438895609" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="438895609" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="438895609" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="438895609" k="embankment" o="none" type="way" v="yes" />
+    <tag id="438895609" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="438895609" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="438895609" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="438895609" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="438895609" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="438895609" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="438895609" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="438895609" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="460419010" k="name" o="none" type="way" v="34th Avenue" />
+    <tag id="460419010" k="lanes" o="none" type="way" v="2" />
+    <tag id="460419010" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="460419010" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="460419010" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="460419010" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="460419010" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="460419010" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="460419010" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="460419010" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="460419010" k="tiger:zip_left" o="none" type="way" v="98122" />
+    <tag id="460419010" k="tiger:name_base" o="none" type="way" v="34th" />
+    <tag id="460419010" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="460419010" k="tiger:zip_right" o="none" type="way" v="98122" />
+    <tag id="462699771" k="lanes" o="none" type="way" v="1" />
+    <tag id="462699771" k="oneway" o="none" type="way" v="yes" />
+    <tag id="462699771" k="highway" o="none" type="way" v="service" />
+    <tag id="462699771" k="service" o="none" type="way" v="driveway" />
+    <tag id="462700204" k="name" o="add" type="way" v="12th Avenue" />
+    <tag id="462700204" k="lanes" o="add" type="way" v="3" />
+    <tag id="462700204" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="462700204" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700204" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="462700204" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700204" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700204" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700204" k="tiger:zip_left" o="add" type="way" v="98122" />
+    <tag id="462700204" k="tiger:name_base" o="add" type="way" v="12th" />
+    <tag id="462700204" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="462700204" k="tiger:zip_right" o="add" type="way" v="98122" />
+    <tag id="462700205" k="name" o="add" type="way" v="Lake Washington Boulevard" />
+    <tag id="462700205" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700205" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700205" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700205" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="462700205" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700205" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700205" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="462700205" k="tiger:zip_left" o="add" type="way" v="98122" />
+    <tag id="462700205" k="tiger:name_base" o="add" type="way" v="Lake Washington" />
+    <tag id="462700205" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="462700205" k="tiger:zip_right" o="add" type="way" v="98122" />
+    <tag id="462700206" k="name" o="add" type="way" v="West Raye Street" />
+    <tag id="462700206" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700206" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700206" k="alt_name" o="add" type="way" v="Queen Anne Boulevard" />
+    <tag id="462700206" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700206" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700206" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700206" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="462700206" k="tiger:zip_left" o="add" type="way" v="98119" />
+    <tag id="462700206" k="tiger:name_base" o="add" type="way" v="Raye" />
+    <tag id="462700206" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="462700206" k="tiger:zip_right" o="add" type="way" v="98119" />
+    <tag id="462700206" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="462700207" k="name" o="add" type="way" v="West Raye Street" />
+    <tag id="462700207" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700207" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700207" k="alt_name" o="add" type="way" v="Queen Anne Boulevard" />
+    <tag id="462700207" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700207" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700207" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700207" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="462700207" k="tiger:zip_left" o="add" type="way" v="98119" />
+    <tag id="462700207" k="tiger:name_base" o="add" type="way" v="Raye" />
+    <tag id="462700207" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="462700207" k="tiger:zip_right" o="add" type="way" v="98119" />
+    <tag id="462700207" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="462700208" k="lanes" o="add" type="way" v="1" />
+    <tag id="462700208" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462700208" k="highway" o="add" type="way" v="service" />
+    <tag id="462700208" k="service" o="add" type="way" v="driveway" />
+    <tag id="462700209" k="name" o="add" type="way" v="Lake Washington Boulevard" />
+    <tag id="462700209" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700209" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700209" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700209" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="462700209" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700209" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700209" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="462700209" k="tiger:zip_left" o="add" type="way" v="98122" />
+    <tag id="462700209" k="tiger:name_base" o="add" type="way" v="Lake Washington" />
+    <tag id="462700209" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="462700209" k="tiger:zip_right" o="add" type="way" v="98122" />
+    <tag id="462700210" k="name" o="add" type="way" v="Lake Washington Boulevard" />
+    <tag id="462700210" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700210" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700210" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700210" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="462700210" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700210" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700210" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="462700210" k="tiger:zip_left" o="add" type="way" v="98122" />
+    <tag id="462700210" k="tiger:name_base" o="add" type="way" v="Lake Washington" />
+    <tag id="462700210" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="462700210" k="tiger:zip_right" o="add" type="way" v="98122" />
+    <tag id="462700211" k="name" o="add" type="way" v="East Madison Street" />
+    <tag id="462700211" k="lanes" o="add" type="way" v="4" />
+    <tag id="462700211" k="highway" o="add" type="way" v="secondary" />
+    <tag id="462700211" k="old_ref" o="add" type="way" v="WA 513 (Old SSH 1J)" />
+    <tag id="462700211" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700211" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="462700211" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700211" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700211" k="tiger:zip_left" o="add" type="way" v="98122" />
+    <tag id="462700211" k="tiger:name_base" o="add" type="way" v="Madison" />
+    <tag id="462700211" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="462700211" k="tiger:zip_right" o="add" type="way" v="98122" />
+    <tag id="462700211" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="462700212" k="name" o="add" type="way" v="East Union Street" />
+    <tag id="462700212" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700212" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="462700212" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700212" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="462700212" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700212" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700212" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700212" k="tiger:zip_left" o="add" type="way" v="98122" />
+    <tag id="462700212" k="tiger:name_base" o="add" type="way" v="Union" />
+    <tag id="462700212" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="462700212" k="tiger:zip_right" o="add" type="way" v="98122" />
+    <tag id="462700212" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="462700213" k="name" o="add" type="way" v="7th Avenue" />
+    <tag id="462700213" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700213" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462700213" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="462700213" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700213" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700213" k="tiger:zip_left" o="add" type="way" v="98101" />
+    <tag id="462700213" k="tiger:name_base" o="add" type="way" v="7th" />
+    <tag id="462700213" k="tiger:name_type" o="add" type="way" v="Avenue" />
+    <tag id="462700213" k="tiger:zip_right" o="add" type="way" v="98104" />
+    <tag id="462700214" k="name" o="add" type="way" v="Spring Street" />
+    <tag id="462700214" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700214" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462700214" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="462700214" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700214" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="462700214" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700214" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="462700214" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700214" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700214" k="tiger:zip_left" o="add" type="way" v="98104" />
+    <tag id="462700214" k="tiger:name_base" o="add" type="way" v="Spring" />
+    <tag id="462700214" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="462700214" k="tiger:zip_right" o="add" type="way" v="98104" />
+    <tag id="462700215" k="name" o="add" type="way" v="West McGraw Street" />
+    <tag id="462700215" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700215" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700215" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700215" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700215" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700215" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="462700215" k="tiger:zip_left" o="add" type="way" v="98119" />
+    <tag id="462700215" k="tiger:name_base" o="add" type="way" v="Mc Graw" />
+    <tag id="462700215" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="462700215" k="tiger:zip_right" o="add" type="way" v="98119" />
+    <tag id="462700215" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="462700216" k="name" o="add" type="way" v="7th Avenue West" />
+    <tag id="462700216" k="lanes" o="add" type="way" v="2" />
+    <tag id="462700216" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="462700216" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="462700216" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="462700216" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="462700216" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="462700216" k="tiger:zip_left" o="add" type="way" v="98119" />
+    <tag id="462700216" k="tiger:name_base" o="add" type="way" v="7th" />
+    <tag id="462700216" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="462700216" k="tiger:zip_right" o="add" type="way" v="98119" />
+    <tag id="462700216" k="tiger:name_direction_suffix" o="add" type="way" v="W" />
+    <tag id="2859111" k="name" o="none" type="relation" v="Former Secondary State Highway 1J" />
+    <tag id="2859111" k="type" o="none" type="relation" v="route" />
+    <tag id="2859111" k="route" o="none" type="relation" v="road" />
+    <tag id="2859111" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/4/4f/WA-SSH1-J.svg" />
+    <tag id="2859111" k="old_ref" o="none" type="relation" v="SSH 1J" />
+    <tag id="2859111" k="wikipedia" o="none" type="relation" v="en:Washington State Route 513" />
+    <tag id="5282350" k="name" o="none" type="relation" v="Seattle University" />
+    <tag id="5282350" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="5282350" k="amenity" o="none" type="relation" v="university" />
+    <tag id="5282350" k="website" o="none" type="relation" v="https://www.seattleu.edu/" />
+    <tag id="5282350" k="operator" o="none" type="relation" v="Seattle University" />
+    <tag id="5282350" k="wikidata" o="none" type="relation" v="Q615873" />
+    <tag id="5282350" k="addr:city" o="none" type="relation" v="Seattle" />
+    <tag id="5282350" k="wikipedia" o="none" type="relation" v="en:Seattle University" />
+    <tag id="5282350" k="addr:state" o="none" type="relation" v="WA" />
+    <tag id="5282350" k="start_date" o="none" type="relation" v="1891" />
+    <tag id="6736531" k="name" o="none" type="relation" v="Lake Washington Loop" />
+    <tag id="6736531" k="type" o="none" type="relation" v="route" />
+    <tag id="6736531" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="6736531" k="source" o="none" type="relation" v="City of Seattle bike route signs" />
+    <tag id="6736531" k="network" o="none" type="relation" v="rcn" />
+    <tag id="6736531" k="cycle_network" o="none" type="relation" v="US:WA" />
+    <tag id="6833789" k="ref" o="add" type="relation" v="2" />
+    <tag id="6833789" k="name" o="add" type="relation" v="Route 2: Downtown Only" />
+    <tag id="6833789" k="type" o="add" type="relation" v="route" />
+    <tag id="6833789" k="route" o="add" type="relation" v="bus" />
+    <tag id="6833789" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6833789" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6833789" k="gtfs:trip_id" o="add" type="relation" v="30935638" />
+    <tag id="6833789" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6833789" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6833789" k="gtfs:trip_marker" o="add" type="relation" v="21002560:0" />
+    <tag id="6833789" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6833790" k="ref" o="add" type="relation" v="2" />
+    <tag id="6833790" k="name" o="add" type="relation" v="Route 2: W Queen Anne Seattle Center W" />
+    <tag id="6833790" k="type" o="add" type="relation" v="route" />
+    <tag id="6833790" k="route" o="add" type="relation" v="bus" />
+    <tag id="6833790" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6833790" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6833790" k="gtfs:trip_id" o="add" type="relation" v="30935641" />
+    <tag id="6833790" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6833790" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6833790" k="gtfs:trip_marker" o="add" type="relation" v="10002555:1" />
+    <tag id="6833790" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6833791" k="ref" o="add" type="relation" v="2" />
+    <tag id="6833791" k="name" o="add" type="relation" v="Route 2: Downtown Seattle" />
+    <tag id="6833791" k="type" o="add" type="relation" v="route" />
+    <tag id="6833791" k="route" o="add" type="relation" v="bus" />
+    <tag id="6833791" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6833791" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6833791" k="gtfs:trip_id" o="add" type="relation" v="30935642" />
+    <tag id="6833791" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6833791" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6833791" k="gtfs:trip_marker" o="add" type="relation" v="21002556:0" />
+    <tag id="6833791" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6833792" k="ref" o="add" type="relation" v="2" />
+    <tag id="6833792" k="name" o="add" type="relation" v="Route 2: Downtown Seattle" />
+    <tag id="6833792" k="type" o="add" type="relation" v="route" />
+    <tag id="6833792" k="route" o="add" type="relation" v="bus" />
+    <tag id="6833792" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6833792" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6833792" k="gtfs:trip_id" o="add" type="relation" v="30935713" />
+    <tag id="6833792" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6833792" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6833792" k="gtfs:trip_marker" o="add" type="relation" v="10002552:1" />
+    <tag id="6833792" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6833793" k="to" o="add" type="relation" v="Madrona Pk" />
+    <tag id="6833793" k="ref" o="add" type="relation" v="2" />
+    <tag id="6833793" k="via" o="add" type="relation" v="Downtown" />
+    <tag id="6833793" k="from" o="add" type="relation" v="W QA" />
+    <tag id="6833793" k="name" o="add" type="relation" v="Route 2" />
+    <tag id="6833793" k="type" o="add" type="relation" v="route_master" />
+    <tag id="6833793" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6833793" k="website" o="add" type="relation" v="http://metro.kingcounty.gov/schedules/002/n0.html" />
+    <tag id="6833793" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6833793" k="route_master" o="add" type="relation" v="bus" />
+    <tag id="6833793" k="gtfs:route_id" o="add" type="relation" v="100089" />
+    <tag id="6833793" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6833793" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6833793" k="public_transport:version" o="add" type="relation" v="2" />
+  </body>
+</changeset>

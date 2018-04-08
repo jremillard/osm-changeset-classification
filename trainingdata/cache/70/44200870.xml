@@ -1,0 +1,587 @@
+<changeset id="44200870" schema="2">
+  <counts nodesAdded="38" nodesDeleted="14" nodesModified="9" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="37" waysDeleted="0" waysModified="30" />
+  <meta>
+    <tag k="comment" v="added and adjusted lane info" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="Bing" />
+  </meta>
+  <body>
+    <tag id="53600814" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085777" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085806" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085822" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085826" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085832" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085837" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085847" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3860085849" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="6563745" k="lanes" o="add" type="way" v="2" />
+    <tag id="6563745" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6563745" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6563745" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6563745" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6563745" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6573648" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6573648" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6573648" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="6573648" k="destination" o="none" type="way" v="Stoughton Road" />
+    <tag id="6573648" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6573648" k="destination:ref" o="none" type="way" v="US 51" />
+    <tag id="6573656" k="lanes" o="add" type="way" v="1" />
+    <tag id="6573656" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6573656" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6573656" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="6573656" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6590074" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6590074" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6590074" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6590074" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6618066" k="lanes" o="add" type="way" v="1" />
+    <tag id="6618066" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6618066" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="6618066" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="6618066" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6642037" k="name" o="none" type="way" v="Commercial Avenue" />
+    <tag id="6642037" k="highway" o="none" type="way" v="residential" />
+    <tag id="6642037" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6642037" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6642037" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6642037" k="tiger:name_base" o="none" type="way" v="Commercial" />
+    <tag id="6642037" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6660806" k="name" o="none" type="way" v="North Stoughton Rd Service Road" />
+    <tag id="6660806" k="highway" o="none" type="way" v="residential" />
+    <tag id="6660806" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6660806" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6660806" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6660806" k="tiger:name_base" o="none" type="way" v="Stoughton Rd Service Road" />
+    <tag id="6660806" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="6675796" k="name" o="none" type="way" v="North Commercial Avenue" />
+    <tag id="6675796" k="highway" o="none" type="way" v="residential" />
+    <tag id="6675796" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6675796" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6675796" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6675796" k="tiger:name_base" o="none" type="way" v="Commercial" />
+    <tag id="6675796" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6675796" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="6726494" k="NHS" o="none" type="way" v="yes" />
+    <tag id="6726494" k="ref" o="none" type="way" v="US 51" />
+    <tag id="6726494" k="name" o="none" type="way" v="North Stoughton Road" />
+    <tag id="6726494" k="lanes" o="none" type="way" v="3" />
+    <tag id="6726494" k="layer" o="none" type="way" v="1" />
+    <tag id="6726494" k="bridge" o="none" type="way" v="yes" />
+    <tag id="6726494" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6726494" k="highway" o="none" type="way" v="motorway" />
+    <tag id="6726494" k="tiger:cfcc" o="none" type="way" v="A25" />
+    <tag id="6726494" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="6726494" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6726494" k="tiger:zip_left" o="none" type="way" v="53714" />
+    <tag id="6726494" k="tiger:name_base" o="none" type="way" v="Stoughton" />
+    <tag id="6726494" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6726494" k="tiger:name_base_1" o="none" type="way" v="United States Highway 51" />
+    <tag id="6726494" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="78088825" k="NHS" o="none" type="way" v="yes" />
+    <tag id="78088825" k="ref" o="none" type="way" v="US 51" />
+    <tag id="78088825" k="name" o="none" type="way" v="North Stoughton Road" />
+    <tag id="78088825" k="lanes" o="modify" type="way" v="4" />
+    <tag id="78088825" k="oneway" o="none" type="way" v="yes" />
+    <tag id="78088825" k="highway" o="none" type="way" v="motorway" />
+    <tag id="78088825" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="78088825" k="tiger:cfcc" o="none" type="way" v="A25" />
+    <tag id="78088825" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="78088825" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="78088825" k="tiger:zip_left" o="none" type="way" v="53714" />
+    <tag id="78088825" k="tiger:name_base" o="none" type="way" v="Stoughton" />
+    <tag id="78088825" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="78088825" k="tiger:name_base_1" o="none" type="way" v="United States Highway 51" />
+    <tag id="78088825" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="120104323" k="NHS" o="none" type="way" v="yes" />
+    <tag id="120104323" k="ref" o="none" type="way" v="US 51" />
+    <tag id="120104323" k="name" o="none" type="way" v="North Stoughton Road" />
+    <tag id="120104323" k="lanes" o="none" type="way" v="3" />
+    <tag id="120104323" k="oneway" o="none" type="way" v="yes" />
+    <tag id="120104323" k="highway" o="none" type="way" v="trunk" />
+    <tag id="120104323" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="120104323" k="tiger:cfcc" o="none" type="way" v="A25" />
+    <tag id="120104323" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="120104323" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="120104323" k="tiger:zip_left" o="none" type="way" v="53704" />
+    <tag id="120104323" k="tiger:name_base" o="none" type="way" v="Stoughton" />
+    <tag id="120104323" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="120104323" k="tiger:name_base_1" o="none" type="way" v="United States Highway 51" />
+    <tag id="120104323" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="203625663" k="landuse" o="none" type="way" v="industrial" />
+    <tag id="287399901" k="landuse" o="none" type="way" v="industrial" />
+    <tag id="307232090" k="NHS" o="none" type="way" v="yes" />
+    <tag id="307232090" k="ref" o="none" type="way" v="US 51" />
+    <tag id="307232090" k="name" o="none" type="way" v="North Stoughton Road" />
+    <tag id="307232090" k="lanes" o="none" type="way" v="3" />
+    <tag id="307232090" k="oneway" o="none" type="way" v="yes" />
+    <tag id="307232090" k="highway" o="none" type="way" v="trunk" />
+    <tag id="307232090" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="307232090" k="tiger:cfcc" o="none" type="way" v="A25" />
+    <tag id="307232090" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="307232090" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="307232090" k="tiger:zip_left" o="none" type="way" v="53714" />
+    <tag id="307232090" k="tiger:name_base" o="none" type="way" v="Stoughton" />
+    <tag id="307232090" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="307232090" k="tiger:name_base_1" o="none" type="way" v="United States Highway 51" />
+    <tag id="307232090" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="307232092" k="lanes" o="add" type="way" v="2" />
+    <tag id="307232092" k="oneway" o="none" type="way" v="yes" />
+    <tag id="307232092" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="307232092" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="307232092" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="331007253" k="lanes" o="add" type="way" v="1" />
+    <tag id="331007253" k="oneway" o="none" type="way" v="yes" />
+    <tag id="331007253" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="331007253" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="331007253" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="382791134" k="name" o="none" type="way" v="Commercial Avenue" />
+    <tag id="382791134" k="lanes" o="add" type="way" v="2" />
+    <tag id="382791134" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791134" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="382791135" k="name" o="none" type="way" v="Commercial Avenue" />
+    <tag id="382791135" k="lanes" o="add" type="way" v="2" />
+    <tag id="382791135" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791135" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="382791135" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="382791135" k="tiger:county" o="none" type="way" v="Dane, WI" />
+    <tag id="382791135" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="382791135" k="tiger:zip_left" o="none" type="way" v="53714" />
+    <tag id="382791135" k="tiger:name_base" o="none" type="way" v="Commercial" />
+    <tag id="382791135" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="382791165" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791165" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791165" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="382791167" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791167" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791167" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="382791170" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791170" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791170" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="382791185" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791185" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791185" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="382791199" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791199" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791199" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="382791200" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791200" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791200" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="382791201" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791201" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791201" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="382791202" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791202" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791202" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="382791203" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791203" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791203" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="382791205" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791205" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791205" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="382791206" k="lanes" o="add" type="way" v="1" />
+    <tag id="382791206" k="oneway" o="none" type="way" v="yes" />
+    <tag id="382791206" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="407845061" k="lanes" o="add" type="way" v="1" />
+    <tag id="407845061" k="oneway" o="none" type="way" v="yes" />
+    <tag id="407845061" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="458020487" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020487" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020487" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020487" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020487" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020487" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020487" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020487" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020487" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020487" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020487" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020487" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020487" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020487" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020487" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020488" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020488" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020488" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020488" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020488" k="turn:lanes" o="add" type="way" v="left|left|through" />
+    <tag id="458020488" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020489" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020489" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020489" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020489" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020489" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020490" k="lanes" o="add" type="way" v="4" />
+    <tag id="458020490" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020490" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020490" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020490" k="turn:lanes" o="add" type="way" v="left|none|none|none" />
+    <tag id="458020490" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020491" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020491" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020491" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020491" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020491" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020492" k="lanes" o="add" type="way" v="1" />
+    <tag id="458020492" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020492" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020492" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020492" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020493" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020493" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020493" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020493" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020493" k="turn:lanes" o="add" type="way" v="none|right" />
+    <tag id="458020493" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020494" k="lanes" o="add" type="way" v="1" />
+    <tag id="458020494" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020494" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020494" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020494" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020495" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020495" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020495" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020495" k="lanes" o="add" type="way" v="5" />
+    <tag id="458020495" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020495" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458020495" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020495" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020495" k="turn:lanes" o="add" type="way" v="slight_left|none|none|none|right" />
+    <tag id="458020495" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020495" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020495" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020495" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020495" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020495" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020495" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020496" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020496" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020496" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020496" k="lanes" o="add" type="way" v="6" />
+    <tag id="458020496" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020496" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458020496" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020496" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020496" k="turn:lanes" o="add" type="way" v="none|none|none|none|none|right" />
+    <tag id="458020496" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020496" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020496" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020496" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020496" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020496" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020496" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020497" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020497" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020497" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020497" k="lanes" o="add" type="way" v="5" />
+    <tag id="458020497" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020497" k="highway" o="add" type="way" v="motorway" />
+    <tag id="458020497" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020497" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020497" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020497" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020497" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020497" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020497" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020497" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020497" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020498" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020498" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020498" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020498" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458020498" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020499" k="lanes" o="add" type="way" v="1" />
+    <tag id="458020499" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020499" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020499" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458020499" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020500" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020500" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020500" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020500" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="458020500" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020501" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020501" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020501" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020501" k="lanes" o="add" type="way" v="5" />
+    <tag id="458020501" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020501" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020501" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020501" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020501" k="turn:lanes" o="add" type="way" v="left|left|none|none|none" />
+    <tag id="458020501" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020501" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020501" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020501" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020501" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020501" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020501" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020502" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020502" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020502" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020502" k="lanes" o="add" type="way" v="5" />
+    <tag id="458020502" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020502" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020502" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020502" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020502" k="turn:lanes" o="add" type="way" v="slight_left|none|none|none|right" />
+    <tag id="458020502" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020502" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020502" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020502" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020502" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020502" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020502" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020503" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020503" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020503" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020503" k="lanes" o="add" type="way" v="6" />
+    <tag id="458020503" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020503" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020503" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020503" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020503" k="turn:lanes" o="add" type="way" v="none|none|none|none|none|right" />
+    <tag id="458020503" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020503" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020503" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020503" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020503" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020503" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020503" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020504" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020504" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020504" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020504" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020504" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020504" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020504" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020504" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020504" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020504" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020504" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020504" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020504" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020504" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020504" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020505" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020505" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020505" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020505" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020505" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020505" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020506" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020506" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020506" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020506" k="lanes" o="add" type="way" v="5" />
+    <tag id="458020506" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020506" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020506" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020506" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020506" k="turn:lanes" o="add" type="way" v="left|left|none|none|none" />
+    <tag id="458020506" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020506" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020506" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020506" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020506" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020506" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020506" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020507" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020507" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020507" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020507" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020507" k="turn:lanes" o="add" type="way" v="left|left;through" />
+    <tag id="458020507" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020507" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020508" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020508" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020508" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020508" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020508" k="turn:lanes" o="add" type="way" v="none|slight_right" />
+    <tag id="458020508" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020508" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020509" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020509" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="458020509" k="tiger:cfcc" o="add" type="way" v="A63" />
+    <tag id="458020509" k="destination" o="add" type="way" v="Stoughton Road" />
+    <tag id="458020509" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020509" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020509" k="destination:ref" o="add" type="way" v="US 51" />
+    <tag id="458020510" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020510" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020510" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020510" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020510" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020510" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020510" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020510" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020510" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020510" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020510" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020510" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020510" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020510" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020510" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020511" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020511" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020511" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020511" k="lanes" o="add" type="way" v="4" />
+    <tag id="458020511" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020511" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020511" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020511" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020511" k="turn:lanes" o="add" type="way" v="none|none|none|slight_right" />
+    <tag id="458020511" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020511" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020511" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020511" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020511" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020511" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020511" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020512" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020512" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020512" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020512" k="lanes" o="add" type="way" v="4" />
+    <tag id="458020512" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020512" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020512" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020512" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020512" k="turn:lanes" o="add" type="way" v="none|none|none|slight_right" />
+    <tag id="458020512" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020512" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020512" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020512" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020512" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020512" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020512" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020513" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020513" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020513" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020513" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020513" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020513" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020513" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020513" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020513" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020513" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020513" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020513" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020513" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020513" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020513" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020514" k="name" o="add" type="way" v="Commercial Avenue" />
+    <tag id="458020514" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020514" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020514" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458020514" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="458020514" k="turn:lanes" o="add" type="way" v="left|none" />
+    <tag id="458020514" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020514" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020514" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020514" k="tiger:name_base" o="add" type="way" v="Commercial" />
+    <tag id="458020514" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="458020515" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020515" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020515" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020515" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020515" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020515" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020515" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020515" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020515" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020515" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020515" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020515" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020515" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020515" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020515" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020516" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020516" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020516" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020516" k="lanes" o="add" type="way" v="4" />
+    <tag id="458020516" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020516" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020516" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020516" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020516" k="turn:lanes" o="add" type="way" v="none|none|none|right" />
+    <tag id="458020516" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020516" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020516" k="tiger:zip_left" o="add" type="way" v="53704" />
+    <tag id="458020516" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020516" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020516" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020516" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020517" k="name" o="add" type="way" v="Commercial Avenue" />
+    <tag id="458020517" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020517" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020517" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458020518" k="name" o="add" type="way" v="Commercial Avenue" />
+    <tag id="458020518" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020518" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020518" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458020518" k="turn:lanes" o="add" type="way" v="left|left|none" />
+    <tag id="458020519" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020519" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020519" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020519" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020519" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020519" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020519" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020519" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020519" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020519" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020519" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020519" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020519" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020519" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020519" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020521" k="NHS" o="add" type="way" v="yes" />
+    <tag id="458020521" k="ref" o="add" type="way" v="US 51" />
+    <tag id="458020521" k="name" o="add" type="way" v="North Stoughton Road" />
+    <tag id="458020521" k="lanes" o="add" type="way" v="3" />
+    <tag id="458020521" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020521" k="highway" o="add" type="way" v="trunk" />
+    <tag id="458020521" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="458020521" k="tiger:cfcc" o="add" type="way" v="A25" />
+    <tag id="458020521" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020521" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020521" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020521" k="tiger:name_base" o="add" type="way" v="Stoughton" />
+    <tag id="458020521" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="458020521" k="tiger:name_base_1" o="add" type="way" v="United States Highway 51" />
+    <tag id="458020521" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="458020522" k="name" o="add" type="way" v="Commercial Avenue" />
+    <tag id="458020522" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020522" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020522" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458020523" k="name" o="add" type="way" v="Commercial Avenue" />
+    <tag id="458020523" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020523" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020523" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458020523" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="458020523" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020523" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020523" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020523" k="tiger:name_base" o="add" type="way" v="Commercial" />
+    <tag id="458020523" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="458020524" k="name" o="add" type="way" v="Commercial Avenue" />
+    <tag id="458020524" k="lanes" o="add" type="way" v="2" />
+    <tag id="458020524" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458020524" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="458020524" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="458020524" k="turn:lanes" o="add" type="way" v="left|none" />
+    <tag id="458020524" k="tiger:county" o="add" type="way" v="Dane, WI" />
+    <tag id="458020524" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458020524" k="tiger:zip_left" o="add" type="way" v="53714" />
+    <tag id="458020524" k="tiger:name_base" o="add" type="way" v="Commercial" />
+    <tag id="458020524" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="116316" k="ref" o="none" type="relation" v="51" />
+    <tag id="116316" k="name" o="none" type="relation" v="US 51 (WI)" />
+    <tag id="116316" k="type" o="none" type="relation" v="route" />
+    <tag id="116316" k="route" o="none" type="relation" v="road" />
+    <tag id="116316" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/0/0f/US_51.svg" />
+    <tag id="116316" k="network" o="none" type="relation" v="US:US" />
+    <tag id="116316" k="wikipedia" o="none" type="relation" v="en:U.S. Route 51 in Wisconsin" />
+    <tag id="116316" k="segregated" o="none" type="relation" v="WI" />
+  </body>
+</changeset>

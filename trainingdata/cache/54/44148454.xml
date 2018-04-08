@@ -1,0 +1,988 @@
+<changeset id="44148454" schema="2">
+  <counts nodesAdded="70" nodesDeleted="3" nodesModified="2" relationsAdded="4" relationsDeleted="0" relationsModified="13" waysAdded="22" waysDeleted="0" waysModified="40" />
+  <meta>
+    <tag k="comment" v="Added Route 26 from King County Metro GTFS" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="Bing;King County GIS" />
+  </meta>
+  <body>
+    <tag id="53120713" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="53120713" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="53120713" k="supervised" o="none" type="node" v="no" />
+    <tag id="683646261" k="bus" o="add" type="node" v="yes" />
+    <tag id="683646261" k="ref" o="add" type="node" v="17698" />
+    <tag id="683646261" k="name" o="add" type="node" v="N 92nd St &amp; Corliss Ave N" />
+    <tag id="683646261" k="gtfs:stop_id" o="add" type="node" v="17698" />
+    <tag id="683646261" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="2134376518" k="source" o="none" type="node" v="King County GIS" />
+    <tag id="2134376518" k="addr:city" o="none" type="node" v="Seattle" />
+    <tag id="2134376518" k="addr:street" o="none" type="node" v="North 40th Street" />
+    <tag id="2134376518" k="addr:postcode" o="none" type="node" v="98103" />
+    <tag id="2134376518" k="addr:housenumber" o="none" type="node" v="2100" />
+    <tag id="3749485622" k="bus" o="none" type="node" v="yes" />
+    <tag id="3749485622" k="ref" o="add" type="node" v="35297" />
+    <tag id="3749485622" k="name" o="modify" type="node" v="Northgate Transit Center" />
+    <tag id="3749485622" k="gtfs:stop_id" o="add" type="node" v="35297" />
+    <tag id="3749485622" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="3749485729" k="ref" o="none" type="node" v="35324" />
+    <tag id="3749485729" k="name" o="none" type="node" v="Northgate Transit Center" />
+    <tag id="3749485729" k="bench" o="none" type="node" v="yes" />
+    <tag id="3749485729" k="source" o="none" type="node" v="King County GIS" />
+    <tag id="3749485729" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="3749485729" k="shelter" o="none" type="node" v="yes" />
+    <tag id="3749485729" k="local_ref" o="none" type="node" v="2" />
+    <tag id="3749485729" k="gtfs:stop_id" o="none" type="node" v="35324" />
+    <tag id="3749485729" k="gtfs:dataset_id" o="none" type="node" v="KCGIS" />
+    <tag id="3749485729" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="4522378851" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522378851" k="ref" o="none" type="node" v="26370" />
+    <tag id="4522378851" k="name" o="none" type="node" v="N 40th St &amp; Eastern Ave N" />
+    <tag id="4522378851" k="gtfs:stop_id" o="none" type="node" v="26370" />
+    <tag id="4522378851" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421406" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421406" k="ref" o="none" type="node" v="26965" />
+    <tag id="4522421406" k="name" o="none" type="node" v="N 40th St &amp; Wallingford Ave N" />
+    <tag id="4522421406" k="gtfs:stop_id" o="none" type="node" v="26965" />
+    <tag id="4522421406" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421407" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421407" k="ref" o="none" type="node" v="27000" />
+    <tag id="4522421407" k="name" o="none" type="node" v="NE 40th St &amp; 1st Ave NE" />
+    <tag id="4522421407" k="gtfs:stop_id" o="none" type="node" v="27000" />
+    <tag id="4522421407" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421408" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421408" k="ref" o="none" type="node" v="26980" />
+    <tag id="4522421408" k="name" o="none" type="node" v="N 40th St &amp; Bagley Ave N" />
+    <tag id="4522421408" k="gtfs:stop_id" o="none" type="node" v="26980" />
+    <tag id="4522421408" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421409" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421409" k="ref" o="none" type="node" v="26990" />
+    <tag id="4522421409" k="name" o="none" type="node" v="N 40th St &amp; Sunnyside Ave N" />
+    <tag id="4522421409" k="gtfs:stop_id" o="none" type="node" v="26990" />
+    <tag id="4522421409" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421410" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421410" k="ref" o="none" type="node" v="26390" />
+    <tag id="4522421410" k="name" o="none" type="node" v="N 40th St &amp; Meridian Ave N" />
+    <tag id="4522421410" k="gtfs:stop_id" o="none" type="node" v="26390" />
+    <tag id="4522421410" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421411" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421411" k="ref" o="none" type="node" v="26400" />
+    <tag id="4522421411" k="name" o="none" type="node" v="N 40th St &amp; Wallingford Ave N" />
+    <tag id="4522421411" k="gtfs:stop_id" o="none" type="node" v="26400" />
+    <tag id="4522421411" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="4522421412" k="bus" o="none" type="node" v="yes" />
+    <tag id="4522421412" k="ref" o="none" type="node" v="26380" />
+    <tag id="4522421412" k="name" o="none" type="node" v="N 40th St &amp; Corliss Ave N" />
+    <tag id="4522421412" k="gtfs:stop_id" o="none" type="node" v="26380" />
+    <tag id="4522421412" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="6368013" k="name" o="none" type="way" v="4th Avenue Northeast" />
+    <tag id="6368013" k="lanes" o="none" type="way" v="2" />
+    <tag id="6368013" k="highway" o="none" type="way" v="residential" />
+    <tag id="6368013" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="6368013" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6368013" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6368013" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="6368013" k="tiger:name_base" o="none" type="way" v="4th" />
+    <tag id="6368013" k="tiger:name_type" o="none" type="way" v="Avenue" />
+    <tag id="6368013" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="6368013" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="6376887" k="name" o="none" type="way" v="North 40th Street" />
+    <tag id="6376887" k="lanes" o="none" type="way" v="2" />
+    <tag id="6376887" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6376887" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6376887" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6376887" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6376887" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="6376887" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="6376887" k="tiger:name_base" o="none" type="way" v="40th" />
+    <tag id="6376887" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6376887" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="6376887" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="6424263" k="name" o="none" type="way" v="Northeast 65th Street" />
+    <tag id="6424263" k="lanes" o="none" type="way" v="2" />
+    <tag id="6424263" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="6424263" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6424263" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="6424263" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6424263" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6424263" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6424263" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="6424263" k="tiger:name_base" o="none" type="way" v="65th" />
+    <tag id="6424263" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="6424263" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="6424263" k="tiger:name_direction_prefix" o="none" type="way" v="NE" />
+    <tag id="6426954" k="name" o="none" type="way" v="Latona Avenue Northeast" />
+    <tag id="6426954" k="lanes" o="none" type="way" v="1" />
+    <tag id="6426954" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6426954" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="6426954" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6426954" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="6426954" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="6426954" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6426954" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6426954" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="6426954" k="tiger:name_base" o="none" type="way" v="Latona" />
+    <tag id="6426954" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6426954" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="6426954" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="6426970" k="name" o="none" type="way" v="Latona Avenue Northeast" />
+    <tag id="6426970" k="lanes" o="none" type="way" v="2" />
+    <tag id="6426970" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="6426970" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6426970" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="6426970" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6426970" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6426970" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6426970" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="6426970" k="tiger:name_base" o="none" type="way" v="Latona" />
+    <tag id="6426970" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6426970" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="6426970" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="6446751" k="name" o="none" type="way" v="Thackeray Place Northeast" />
+    <tag id="6446751" k="lanes" o="none" type="way" v="1" />
+    <tag id="6446751" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6446751" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="6446751" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6446751" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="6446751" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="6446751" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6446751" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6446751" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="6446751" k="tiger:name_base" o="none" type="way" v="Thackeray" />
+    <tag id="6446751" k="tiger:name_type" o="none" type="way" v="Pl" />
+    <tag id="6446751" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="6446751" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="6473007" k="name" o="none" type="way" v="Interlake Avenue North" />
+    <tag id="6473007" k="lanes" o="none" type="way" v="2" />
+    <tag id="6473007" k="highway" o="none" type="way" v="residential" />
+    <tag id="6473007" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="6473007" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6473007" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6473007" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="6473007" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="6473007" k="tiger:name_base" o="none" type="way" v="Interlake" />
+    <tag id="6473007" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6473007" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="6473007" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="6486741" k="name" o="none" type="way" v="College Way North" />
+    <tag id="6486741" k="lanes" o="none" type="way" v="1" />
+    <tag id="6486741" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6486741" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="6486741" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6486741" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="6486741" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6486741" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6486741" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6486741" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="6486741" k="tiger:name_base" o="none" type="way" v="College" />
+    <tag id="6486741" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="6486741" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="6486741" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="6496354" k="name" o="none" type="way" v="1st Avenue Northeast" />
+    <tag id="6496354" k="lanes" o="none" type="way" v="2" />
+    <tag id="6496354" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6496354" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6496354" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6496354" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6496354" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="6496354" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="6496354" k="tiger:name_type" o="none" type="way" v="Avenue" />
+    <tag id="6496354" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="6496354" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="6510000" k="name" o="none" type="way" v="Northeast 40th Street" />
+    <tag id="6510000" k="lanes" o="none" type="way" v="2" />
+    <tag id="6510000" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6510000" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6510000" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6510000" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6510000" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="6510000" k="tiger:name_base" o="none" type="way" v="40th" />
+    <tag id="6510000" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="6510000" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="6510000" k="tiger:name_direction_prefix" o="none" type="way" v="NE" />
+    <tag id="6522856" k="name" o="none" type="way" v="Woodlawn Avenue Northeast" />
+    <tag id="6522856" k="lanes" o="none" type="way" v="2" />
+    <tag id="6522856" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6522856" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6522856" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6522856" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="6522856" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="6522856" k="tiger:name_base" o="none" type="way" v="Woodlawn" />
+    <tag id="6522856" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6522856" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="6522856" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="7977594" k="name" o="none" type="way" v="Latona Avenue Northeast" />
+    <tag id="7977594" k="lanes" o="none" type="way" v="1" />
+    <tag id="7977594" k="oneway" o="none" type="way" v="yes" />
+    <tag id="7977594" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="7977594" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="7977594" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="7977594" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="7977594" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7977594" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="7977594" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="7977594" k="tiger:name_base" o="none" type="way" v="Latona" />
+    <tag id="7977594" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="7977594" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="7977594" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="8072117" k="lcn" o="none" type="way" v="yes" />
+    <tag id="8072117" k="name" o="none" type="way" v="North 92nd Street" />
+    <tag id="8072117" k="lanes" o="none" type="way" v="2" />
+    <tag id="8072117" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="8072117" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="8072117" k="cycleway" o="none" type="way" v="no" />
+    <tag id="8072117" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="8072117" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="8072117" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="8072117" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="8072117" k="tiger:name_base" o="none" type="way" v="92nd" />
+    <tag id="8072117" k="tiger:name_type" o="none" type="way" v="Street; St" />
+    <tag id="8072117" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="8072117" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="10426258" k="name" o="none" type="way" v="North 95th Street" />
+    <tag id="10426258" k="lanes" o="none" type="way" v="2" />
+    <tag id="10426258" k="highway" o="none" type="way" v="residential" />
+    <tag id="10426258" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="10426258" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10426258" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="10426258" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="10426258" k="tiger:name_base" o="none" type="way" v="95th" />
+    <tag id="10426258" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10426258" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="10426258" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="13518560" k="ref" o="none" type="way" v="WA 99" />
+    <tag id="13518560" k="name" o="none" type="way" v="Aurora Avenue North" />
+    <tag id="13518560" k="lanes" o="none" type="way" v="3" />
+    <tag id="13518560" k="oneway" o="none" type="way" v="yes" />
+    <tag id="13518560" k="highway" o="none" type="way" v="trunk" />
+    <tag id="13518560" k="old_ref" o="none" type="way" v="US 99;PSH 1" />
+    <tag id="13518560" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="13518560" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="33972552" k="lcn" o="none" type="way" v="yes" />
+    <tag id="33972552" k="name" o="none" type="way" v="Stone Way North" />
+    <tag id="33972552" k="lanes" o="none" type="way" v="4" />
+    <tag id="33972552" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="33972552" k="highway" o="none" type="way" v="secondary" />
+    <tag id="33972552" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="33972552" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="33972552" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="33972552" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="33972552" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="33972552" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="33972552" k="tiger:name_base" o="none" type="way" v="Stone" />
+    <tag id="33972552" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="33972552" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="33972552" k="turn:lanes:forward" o="none" type="way" v="through|right" />
+    <tag id="33972552" k="turn:lanes:backward" o="none" type="way" v="through|right" />
+    <tag id="33972552" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="34859778" k="bus" o="none" type="way" v="yes" />
+    <tag id="34859778" k="lanes" o="none" type="way" v="1" />
+    <tag id="34859778" k="access" o="none" type="way" v="no" />
+    <tag id="34859778" k="oneway" o="none" type="way" v="yes" />
+    <tag id="34859778" k="highway" o="none" type="way" v="service" />
+    <tag id="34859778" k="maxspeed" o="none" type="way" v="15 mph" />
+    <tag id="37644017" k="name" o="none" type="way" v="Northeast Ravenna Boulevard" />
+    <tag id="37644017" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37644017" k="source" o="none" type="way" v="yahoo_wms" />
+    <tag id="37644017" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="37644017" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="37644017" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="37644017" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="38556372" k="lcn" o="none" type="way" v="yes" />
+    <tag id="38556372" k="name" o="none" type="way" v="1st Avenue Northeast" />
+    <tag id="38556372" k="lanes" o="none" type="way" v="2" />
+    <tag id="38556372" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="38556372" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="38556372" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="38556372" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="38556372" k="tiger:name_base" o="none" type="way" v="1st" />
+    <tag id="38556372" k="tiger:name_type" o="none" type="way" v="Avenue" />
+    <tag id="38556372" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="39948317" k="name" o="none" type="way" v="2nd Avenue Northeast" />
+    <tag id="39948317" k="lanes" o="none" type="way" v="1" />
+    <tag id="39948317" k="oneway" o="none" type="way" v="yes" />
+    <tag id="39948317" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="39948317" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="39948317" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="39948317" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="39948317" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="39948317" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="39948317" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="39948317" k="tiger:name_base" o="none" type="way" v="2nd" />
+    <tag id="39948317" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="39948317" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="39948317" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="60914400" k="ref" o="none" type="way" v="WA 99" />
+    <tag id="60914400" k="name" o="none" type="way" v="Aurora Avenue North" />
+    <tag id="60914400" k="lanes" o="none" type="way" v="3" />
+    <tag id="60914400" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60914400" k="highway" o="none" type="way" v="trunk" />
+    <tag id="60914400" k="old_ref" o="none" type="way" v="US 99;PSH 1" />
+    <tag id="60914400" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="60914400" k="bus:lanes" o="none" type="way" v="yes|yes|designated" />
+    <tag id="60914400" k="access:lanes" o="none" type="way" v="yes|yes|no" />
+    <tag id="60914402" k="ref" o="none" type="way" v="WA 99" />
+    <tag id="60914402" k="name" o="none" type="way" v="Aurora Avenue North" />
+    <tag id="60914402" k="lanes" o="none" type="way" v="3" />
+    <tag id="60914402" k="oneway" o="none" type="way" v="yes" />
+    <tag id="60914402" k="highway" o="none" type="way" v="trunk" />
+    <tag id="60914402" k="old_ref" o="none" type="way" v="US 99;PSH 1" />
+    <tag id="60914402" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="180074920" k="name" o="none" type="way" v="Bridge Way North" />
+    <tag id="180074920" k="lanes" o="none" type="way" v="2" />
+    <tag id="180074920" k="oneway" o="none" type="way" v="yes" />
+    <tag id="180074920" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="180074920" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="180074920" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="180074920" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="180074920" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="180074920" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="180074920" k="tiger:name_base" o="none" type="way" v="Bridge" />
+    <tag id="180074920" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="180074920" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="180074920" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="215674689" k="ele" o="add" type="way" v="60" />
+    <tag id="215674689" k="name" o="add" type="way" v="Gift of Grace Lutheran Church" />
+    <tag id="215674689" k="source" o="modify" type="way" v="King County GIS;data.seattle.gov" />
+    <tag id="215674689" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="215674689" k="building" o="none" type="way" v="yes" />
+    <tag id="215674689" k="religion" o="add" type="way" v="christian" />
+    <tag id="215674689" k="addr:city" o="add" type="way" v="Seattle" />
+    <tag id="215674689" k="wheelchair" o="add" type="way" v="no" />
+    <tag id="215674689" k="addr:street" o="add" type="way" v="North 40th Street" />
+    <tag id="215674689" k="denomination" o="add" type="way" v="lutheran" />
+    <tag id="215674689" k="gnis:created" o="add" type="way" v="07/15/2008" />
+    <tag id="215674689" k="addr:postcode" o="add" type="way" v="98103" />
+    <tag id="215674689" k="gnis:state_id" o="add" type="way" v="53" />
+    <tag id="215674689" k="gnis:county_id" o="add" type="way" v="033" />
+    <tag id="215674689" k="gnis:feature_id" o="add" type="way" v="2461638" />
+    <tag id="215674689" k="addr:housenumber" o="add" type="way" v="2102" />
+    <tag id="216577911" k="source" o="modify" type="way" v="King County GIS;data.seattle.gov" />
+    <tag id="216577911" k="building" o="none" type="way" v="yes" />
+    <tag id="216577911" k="addr:city" o="add" type="way" v="Seattle" />
+    <tag id="216577911" k="addr:street" o="add" type="way" v="North 40th Street" />
+    <tag id="216577911" k="addr:postcode" o="add" type="way" v="98103" />
+    <tag id="216577911" k="addr:housenumber" o="add" type="way" v="2104" />
+    <tag id="257829038" k="name" o="none" type="way" v="Latona Avenue Northeast" />
+    <tag id="257829038" k="lanes" o="none" type="way" v="1" />
+    <tag id="257829038" k="oneway" o="none" type="way" v="yes" />
+    <tag id="257829038" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="257829038" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="257829038" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="257829038" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="257829038" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="257829038" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="257829038" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="257829038" k="tiger:name_base" o="none" type="way" v="Latona" />
+    <tag id="257829038" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="257829038" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="257829038" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="257838936" k="lcn" o="none" type="way" v="yes" />
+    <tag id="257838936" k="name" o="none" type="way" v="Wallingford Avenue North" />
+    <tag id="257838936" k="lanes" o="none" type="way" v="2" />
+    <tag id="257838936" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="257838936" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="257838936" k="cycleway" o="none" type="way" v="no" />
+    <tag id="257838936" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="257838936" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="257838936" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="257838936" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="257838936" k="tiger:name_base" o="none" type="way" v="Wallingford" />
+    <tag id="257838936" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="257838936" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="257838936" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="263557332" k="name" o="none" type="way" v="Northeast 50th Street" />
+    <tag id="263557332" k="lanes" o="none" type="way" v="4" />
+    <tag id="263557332" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="263557332" k="highway" o="none" type="way" v="secondary" />
+    <tag id="263557332" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="263557332" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="263557332" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="263557332" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="263557332" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="263557332" k="tiger:name_base" o="none" type="way" v="50th" />
+    <tag id="263557332" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="263557332" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="263557332" k="tiger:name_direction_prefix" o="none" type="way" v="NE" />
+    <tag id="263563169" k="name" o="none" type="way" v="Latona Avenue Northeast" />
+    <tag id="263563169" k="lanes" o="none" type="way" v="2" />
+    <tag id="263563169" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="263563169" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="263563169" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="263563169" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="263563169" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="263563169" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="263563169" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="263563169" k="tiger:name_base" o="none" type="way" v="Latona" />
+    <tag id="263563169" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="263563169" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="263563169" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="263563232" k="name" o="none" type="way" v="2nd Avenue Northeast" />
+    <tag id="263563232" k="lanes" o="none" type="way" v="2" />
+    <tag id="263563232" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="263563232" k="highway" o="none" type="way" v="residential" />
+    <tag id="263563232" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="263563232" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="263563232" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="263563232" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="263563232" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="263563232" k="tiger:name_base" o="none" type="way" v="2nd" />
+    <tag id="263563232" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="263563232" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="263563232" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="289314032" k="name" o="none" type="way" v="North 80th Street" />
+    <tag id="289314032" k="lanes" o="none" type="way" v="2" />
+    <tag id="289314032" k="oneway" o="none" type="way" v="no" />
+    <tag id="289314032" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="289314032" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="289314032" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="289314032" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="289314032" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="289314032" k="tiger:name_base" o="none" type="way" v="80th" />
+    <tag id="289314032" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="289314032" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="289314032" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="331907114" k="name" o="none" type="way" v="Northeast 40th Street" />
+    <tag id="331907114" k="lanes" o="none" type="way" v="2" />
+    <tag id="331907114" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="331907114" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="331907114" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="331907114" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="331907114" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="331907114" k="tiger:name_base" o="none" type="way" v="40th" />
+    <tag id="331907114" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="331907114" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="331907114" k="tiger:name_direction_prefix" o="none" type="way" v="NE" />
+    <tag id="332085445" k="lcn" o="none" type="way" v="yes" />
+    <tag id="332085445" k="name" o="none" type="way" v="East Green Lake Way North" />
+    <tag id="332085445" k="lanes" o="none" type="way" v="2" />
+    <tag id="332085445" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="332085445" k="highway" o="none" type="way" v="secondary" />
+    <tag id="332085445" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="332085445" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="332085445" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="332085445" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="332085445" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="332085445" k="tiger:zip_left" o="none" type="way" v="98115" />
+    <tag id="332085445" k="tiger:name_base" o="none" type="way" v="Green Lake" />
+    <tag id="332085445" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="332085445" k="tiger:zip_right" o="none" type="way" v="98115" />
+    <tag id="332085445" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="332085445" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="332752102" k="lcn" o="none" type="way" v="yes" />
+    <tag id="332752102" k="name" o="none" type="way" v="Wallingford Avenue North" />
+    <tag id="332752102" k="lanes" o="none" type="way" v="2" />
+    <tag id="332752102" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="332752102" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="332752102" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="332752102" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="332752102" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="332752102" k="tiger:name_base" o="none" type="way" v="Wallingford" />
+    <tag id="332752102" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="332752102" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="332752102" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="341927957" k="name" o="none" type="way" v="Northeast 42nd Street" />
+    <tag id="341927957" k="lanes" o="none" type="way" v="2" />
+    <tag id="341927957" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="341927957" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="341927957" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="341927957" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="341927957" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="341927957" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="341927957" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="341927957" k="tiger:name_base" o="none" type="way" v="42nd" />
+    <tag id="341927957" k="tiger:name_type" o="none" type="way" v="Street" />
+    <tag id="341927957" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="341927957" k="tiger:name_direction_prefix" o="none" type="way" v="NE" />
+    <tag id="379991075" k="name" o="none" type="way" v="North 95th Street" />
+    <tag id="379991075" k="lanes" o="none" type="way" v="2" />
+    <tag id="379991075" k="highway" o="none" type="way" v="service" />
+    <tag id="379991075" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="379991075" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="379991075" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="379991075" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="379991075" k="tiger:name_base" o="none" type="way" v="95th" />
+    <tag id="379991075" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="379991075" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="379991075" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="392696862" k="name" o="none" type="way" v="2nd Avenue Northeast" />
+    <tag id="392696862" k="lanes" o="none" type="way" v="2" />
+    <tag id="392696862" k="oneway" o="none" type="way" v="yes" />
+    <tag id="392696862" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="392696862" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="392696862" k="cycleway" o="none" type="way" v="shared_lane" />
+    <tag id="392696862" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="392696862" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="392696862" k="turn:lanes" o="none" type="way" v="left|through;right" />
+    <tag id="392696862" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="392696862" k="tiger:zip_left" o="none" type="way" v="98105" />
+    <tag id="392696862" k="tiger:name_base" o="none" type="way" v="2nd" />
+    <tag id="392696862" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="392696862" k="tiger:zip_right" o="none" type="way" v="98105" />
+    <tag id="392696862" k="tiger:name_direction_suffix" o="none" type="way" v="NE" />
+    <tag id="392696871" k="name" o="none" type="way" v="Fremont Way North" />
+    <tag id="392696871" k="lanes" o="none" type="way" v="2" />
+    <tag id="392696871" k="oneway" o="none" type="way" v="yes" />
+    <tag id="392696871" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="392696871" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="392696871" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="392696871" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="392696871" k="turn:lanes" o="none" type="way" v="none|merge_to_left" />
+    <tag id="392696871" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="392696871" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="392696871" k="tiger:name_base" o="none" type="way" v="Fremont" />
+    <tag id="392696871" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="392696871" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="392696871" k="tiger:name_direction_suffix" o="none" type="way" v="N" />
+    <tag id="455866875" k="name" o="none" type="way" v="North 40th Street" />
+    <tag id="455866875" k="lanes" o="none" type="way" v="2" />
+    <tag id="455866875" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="455866875" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="455866875" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="455866875" k="tiger:county" o="none" type="way" v="King, WA" />
+    <tag id="455866875" k="tiger:reviewed" o="none" type="way" v="yes" />
+    <tag id="455866875" k="tiger:zip_left" o="none" type="way" v="98103" />
+    <tag id="455866875" k="tiger:name_base" o="none" type="way" v="40th" />
+    <tag id="455866875" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="455866875" k="tiger:zip_right" o="none" type="way" v="98103" />
+    <tag id="455866875" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="456874152" k="bus" o="none" type="way" v="yes" />
+    <tag id="456874152" k="lanes" o="none" type="way" v="1" />
+    <tag id="456874152" k="access" o="none" type="way" v="no" />
+    <tag id="456874152" k="oneway" o="none" type="way" v="yes" />
+    <tag id="456874152" k="highway" o="none" type="way" v="service" />
+    <tag id="456874152" k="maxspeed" o="none" type="way" v="15 mph" />
+    <tag id="457542611" k="name" o="add" type="way" v="Northeast Ravenna Boulevard" />
+    <tag id="457542611" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457542611" k="source" o="add" type="way" v="yahoo_wms" />
+    <tag id="457542611" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542611" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="457542611" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542611" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542615" k="name" o="add" type="way" v="Northeast 40th Street" />
+    <tag id="457542615" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542615" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542615" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542615" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542615" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542615" k="tiger:zip_left" o="add" type="way" v="98105" />
+    <tag id="457542615" k="tiger:name_base" o="add" type="way" v="40th" />
+    <tag id="457542615" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542615" k="tiger:zip_right" o="add" type="way" v="98105" />
+    <tag id="457542615" k="tiger:name_direction_prefix" o="add" type="way" v="NE" />
+    <tag id="457542621" k="name" o="add" type="way" v="Northeast 65th Street" />
+    <tag id="457542621" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542621" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542621" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457542621" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542621" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542621" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542621" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542621" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542621" k="tiger:name_base" o="add" type="way" v="65th" />
+    <tag id="457542621" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542621" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542621" k="tiger:name_direction_prefix" o="add" type="way" v="NE" />
+    <tag id="457542626" k="name" o="add" type="way" v="4th Avenue Northeast" />
+    <tag id="457542626" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542626" k="highway" o="add" type="way" v="residential" />
+    <tag id="457542626" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="457542626" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542626" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542626" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542626" k="tiger:name_base" o="add" type="way" v="4th" />
+    <tag id="457542626" k="tiger:name_type" o="add" type="way" v="Avenue" />
+    <tag id="457542626" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542626" k="tiger:name_direction_suffix" o="add" type="way" v="NE" />
+    <tag id="457542630" k="name" o="add" type="way" v="4th Avenue Northeast" />
+    <tag id="457542630" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542630" k="highway" o="add" type="way" v="residential" />
+    <tag id="457542630" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="457542630" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542630" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542630" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542630" k="tiger:name_base" o="add" type="way" v="4th" />
+    <tag id="457542630" k="tiger:name_type" o="add" type="way" v="Avenue" />
+    <tag id="457542630" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542630" k="tiger:name_direction_suffix" o="add" type="way" v="NE" />
+    <tag id="457542632" k="name" o="add" type="way" v="Woodlawn Avenue Northeast" />
+    <tag id="457542632" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542632" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542632" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542632" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542632" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542632" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542632" k="tiger:name_base" o="add" type="way" v="Woodlawn" />
+    <tag id="457542632" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="457542632" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542632" k="tiger:name_direction_suffix" o="add" type="way" v="NE" />
+    <tag id="457542633" k="lcn" o="add" type="way" v="yes" />
+    <tag id="457542633" k="name" o="add" type="way" v="North 92nd Street" />
+    <tag id="457542633" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542633" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542633" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542633" k="cycleway" o="add" type="way" v="no" />
+    <tag id="457542633" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542633" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542633" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542633" k="tiger:zip_left" o="add" type="way" v="98103" />
+    <tag id="457542633" k="tiger:name_base" o="add" type="way" v="92nd" />
+    <tag id="457542633" k="tiger:name_type" o="add" type="way" v="Street; St" />
+    <tag id="457542633" k="tiger:zip_right" o="add" type="way" v="98103" />
+    <tag id="457542633" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="457542634" k="name" o="add" type="way" v="College Way North" />
+    <tag id="457542634" k="lanes" o="add" type="way" v="1" />
+    <tag id="457542634" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457542634" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542634" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542634" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542634" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542634" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542634" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542634" k="tiger:zip_left" o="add" type="way" v="98103" />
+    <tag id="457542634" k="tiger:name_base" o="add" type="way" v="College" />
+    <tag id="457542634" k="tiger:name_type" o="add" type="way" v="Way" />
+    <tag id="457542634" k="tiger:zip_right" o="add" type="way" v="98103" />
+    <tag id="457542634" k="tiger:name_direction_suffix" o="add" type="way" v="N" />
+    <tag id="457542635" k="name" o="add" type="way" v="North 95th Street" />
+    <tag id="457542635" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542635" k="highway" o="add" type="way" v="residential" />
+    <tag id="457542635" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="457542635" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542635" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542635" k="tiger:zip_left" o="add" type="way" v="98103" />
+    <tag id="457542635" k="tiger:name_base" o="add" type="way" v="95th" />
+    <tag id="457542635" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="457542635" k="tiger:zip_right" o="add" type="way" v="98103" />
+    <tag id="457542635" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="457542636" k="bus" o="add" type="way" v="yes" />
+    <tag id="457542636" k="lanes" o="add" type="way" v="1" />
+    <tag id="457542636" k="access" o="add" type="way" v="no" />
+    <tag id="457542636" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457542636" k="highway" o="add" type="way" v="service" />
+    <tag id="457542636" k="maxspeed" o="add" type="way" v="15 mph" />
+    <tag id="457542637" k="bus" o="add" type="way" v="yes" />
+    <tag id="457542637" k="lanes" o="add" type="way" v="1" />
+    <tag id="457542637" k="access" o="add" type="way" v="no" />
+    <tag id="457542637" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457542637" k="highway" o="add" type="way" v="service" />
+    <tag id="457542637" k="maxspeed" o="add" type="way" v="15 mph" />
+    <tag id="457542638" k="lcn" o="add" type="way" v="yes" />
+    <tag id="457542638" k="name" o="add" type="way" v="North 92nd Street" />
+    <tag id="457542638" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542638" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542638" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542638" k="cycleway" o="add" type="way" v="no" />
+    <tag id="457542638" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542638" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542638" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542638" k="tiger:zip_left" o="add" type="way" v="98103" />
+    <tag id="457542638" k="tiger:name_base" o="add" type="way" v="92nd" />
+    <tag id="457542638" k="tiger:name_type" o="add" type="way" v="Street; St" />
+    <tag id="457542638" k="tiger:zip_right" o="add" type="way" v="98103" />
+    <tag id="457542638" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="457542639" k="lcn" o="add" type="way" v="yes" />
+    <tag id="457542639" k="name" o="add" type="way" v="North 92nd Street" />
+    <tag id="457542639" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542639" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542639" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542639" k="cycleway" o="add" type="way" v="no" />
+    <tag id="457542639" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542639" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542639" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542639" k="tiger:zip_left" o="add" type="way" v="98103" />
+    <tag id="457542639" k="tiger:name_base" o="add" type="way" v="92nd" />
+    <tag id="457542639" k="tiger:name_type" o="add" type="way" v="Street; St" />
+    <tag id="457542639" k="tiger:zip_right" o="add" type="way" v="98103" />
+    <tag id="457542639" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="457542640" k="name" o="add" type="way" v="North 80th Street" />
+    <tag id="457542640" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542640" k="oneway" o="add" type="way" v="no" />
+    <tag id="457542640" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542640" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542640" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542640" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542640" k="tiger:zip_left" o="add" type="way" v="98103" />
+    <tag id="457542640" k="tiger:name_base" o="add" type="way" v="80th" />
+    <tag id="457542640" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542640" k="tiger:zip_right" o="add" type="way" v="98103" />
+    <tag id="457542640" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="457542641" k="name" o="add" type="way" v="Woodlawn Avenue Northeast" />
+    <tag id="457542641" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542641" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542641" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542641" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542641" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542641" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542641" k="tiger:name_base" o="add" type="way" v="Woodlawn" />
+    <tag id="457542641" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="457542641" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542641" k="tiger:name_direction_suffix" o="add" type="way" v="NE" />
+    <tag id="457542642" k="lcn" o="add" type="way" v="yes" />
+    <tag id="457542642" k="name" o="add" type="way" v="East Green Lake Way North" />
+    <tag id="457542642" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542642" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542642" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457542642" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542642" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542642" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542642" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542642" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="457542642" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542642" k="tiger:name_base" o="add" type="way" v="Green Lake" />
+    <tag id="457542642" k="tiger:name_type" o="add" type="way" v="Way" />
+    <tag id="457542642" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542642" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="457542642" k="tiger:name_direction_suffix" o="add" type="way" v="N" />
+    <tag id="457542643" k="lcn" o="add" type="way" v="yes" />
+    <tag id="457542643" k="name" o="add" type="way" v="East Green Lake Way North" />
+    <tag id="457542643" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542643" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542643" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457542643" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542643" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542643" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542643" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542643" k="tiger:reviewed" o="add" type="way" v="yes" />
+    <tag id="457542643" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542643" k="tiger:name_base" o="add" type="way" v="Green Lake" />
+    <tag id="457542643" k="tiger:name_type" o="add" type="way" v="Way" />
+    <tag id="457542643" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542643" k="tiger:name_direction_prefix" o="add" type="way" v="E" />
+    <tag id="457542643" k="tiger:name_direction_suffix" o="add" type="way" v="N" />
+    <tag id="457542644" k="name" o="add" type="way" v="Northeast 65th Street" />
+    <tag id="457542644" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542644" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542644" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457542644" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542644" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542644" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542644" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542644" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542644" k="tiger:name_base" o="add" type="way" v="65th" />
+    <tag id="457542644" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542644" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542644" k="tiger:name_direction_prefix" o="add" type="way" v="NE" />
+    <tag id="457542645" k="name" o="add" type="way" v="Northeast 65th Street" />
+    <tag id="457542645" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542645" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542645" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457542645" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="457542645" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542645" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542645" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542645" k="tiger:zip_left" o="add" type="way" v="98115" />
+    <tag id="457542645" k="tiger:name_base" o="add" type="way" v="65th" />
+    <tag id="457542645" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542645" k="tiger:zip_right" o="add" type="way" v="98115" />
+    <tag id="457542645" k="tiger:name_direction_prefix" o="add" type="way" v="NE" />
+    <tag id="457542646" k="name" o="add" type="way" v="Northeast 50th Street" />
+    <tag id="457542646" k="lanes" o="add" type="way" v="4" />
+    <tag id="457542646" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="457542646" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457542646" k="cycleway" o="add" type="way" v="shared_lane" />
+    <tag id="457542646" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542646" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542646" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542646" k="tiger:zip_left" o="add" type="way" v="98105" />
+    <tag id="457542646" k="tiger:name_base" o="add" type="way" v="50th" />
+    <tag id="457542646" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542646" k="tiger:zip_right" o="add" type="way" v="98105" />
+    <tag id="457542646" k="tiger:name_direction_prefix" o="add" type="way" v="NE" />
+    <tag id="457542647" k="name" o="add" type="way" v="Northeast 40th Street" />
+    <tag id="457542647" k="lanes" o="add" type="way" v="2" />
+    <tag id="457542647" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="457542647" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="457542647" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457542647" k="tiger:county" o="add" type="way" v="King, WA" />
+    <tag id="457542647" k="tiger:zip_left" o="add" type="way" v="98105" />
+    <tag id="457542647" k="tiger:name_base" o="add" type="way" v="40th" />
+    <tag id="457542647" k="tiger:name_type" o="add" type="way" v="Street" />
+    <tag id="457542647" k="tiger:zip_right" o="add" type="way" v="98105" />
+    <tag id="457542647" k="tiger:name_direction_prefix" o="add" type="way" v="NE" />
+    <tag id="457542648" k="ref" o="add" type="way" v="WA 99" />
+    <tag id="457542648" k="name" o="add" type="way" v="Aurora Avenue North" />
+    <tag id="457542648" k="lanes" o="add" type="way" v="3" />
+    <tag id="457542648" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457542648" k="highway" o="add" type="way" v="trunk" />
+    <tag id="457542648" k="old_ref" o="add" type="way" v="US 99;PSH 1" />
+    <tag id="457542648" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="457542648" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="2317217" k="name" o="none" type="relation" v="US 99 alignment (former)" />
+    <tag id="2317217" k="note" o="none" type="relation" v="last pre-freeway alignment of US 99" />
+    <tag id="2317217" k="type" o="none" type="relation" v="route" />
+    <tag id="2317217" k="route" o="none" type="relation" v="road" />
+    <tag id="2317217" k="source" o="none" type="relation" v="old USGS topos;county maps from 1940 census" />
+    <tag id="2317217" k="old_ref" o="none" type="relation" v="US 99" />
+    <tag id="2317217" k="is_in:state" o="none" type="relation" v="WA" />
+    <tag id="2855416" k="ref" o="none" type="relation" v="99" />
+    <tag id="2855416" k="name" o="none" type="relation" v="WA 99 northern section" />
+    <tag id="2855416" k="type" o="none" type="relation" v="route" />
+    <tag id="2855416" k="route" o="none" type="relation" v="road" />
+    <tag id="2855416" k="network" o="none" type="relation" v="US:WA" />
+    <tag id="2855416" k="wikipedia" o="none" type="relation" v="en:Washington State Route 99" />
+    <tag id="2859142" k="name" o="none" type="relation" v="Former Primary State Highway 1 (US 99 in Washington State)" />
+    <tag id="2859142" k="type" o="none" type="relation" v="route" />
+    <tag id="2859142" k="route" o="none" type="relation" v="road" />
+    <tag id="2859142" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/6/6a/WA-PSH1.svg" />
+    <tag id="2859142" k="old_ref" o="none" type="relation" v="US 99;PSH 1" />
+    <tag id="2859142" k="wikipedia" o="none" type="relation" v="en:Interstate 5 in Washington#History" />
+    <tag id="4658710" k="type" o="none" type="relation" v="restriction" />
+    <tag id="4658710" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="5145486" k="to" o="none" type="relation" v="Aurora Village" />
+    <tag id="5145486" k="ref" o="none" type="relation" v="E Line" />
+    <tag id="5145486" k="via" o="none" type="relation" v="Aurora Corridor" />
+    <tag id="5145486" k="from" o="none" type="relation" v="Downtown Seattle" />
+    <tag id="5145486" k="name" o="none" type="relation" v="E Line: Aurora Village Transit Center" />
+    <tag id="5145486" k="type" o="none" type="relation" v="route" />
+    <tag id="5145486" k="route" o="none" type="relation" v="bus" />
+    <tag id="5145486" k="colour" o="none" type="relation" v="#B40936" />
+    <tag id="5145486" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="5145486" k="website" o="none" type="relation" v="http://metro.kingcounty.gov/travel-options/bus/rapidride/e-line/" />
+    <tag id="5145486" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="5145486" k="gtfs:trip_id" o="none" type="relation" v="32050945" />
+    <tag id="5145486" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="5145486" k="gtfs:trip_marker" o="none" type="relation" v="11675016:0" />
+    <tag id="5145486" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5391827" k="to" o="none" type="relation" v="Downtown Seattle" />
+    <tag id="5391827" k="ref" o="none" type="relation" v="41" />
+    <tag id="5391827" k="via" o="none" type="relation" v="Northgate Transit Center" />
+    <tag id="5391827" k="from" o="none" type="relation" v="Lake City" />
+    <tag id="5391827" k="name" o="none" type="relation" v="Route 41: Downtown Seattle Northgate" />
+    <tag id="5391827" k="type" o="none" type="relation" v="route" />
+    <tag id="5391827" k="route" o="none" type="relation" v="bus" />
+    <tag id="5391827" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="5391827" k="website" o="none" type="relation" v="http://metro.kingcounty.gov/schedules/041/s0.html" />
+    <tag id="5391827" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="5391827" k="gtfs:trip_id" o="none" type="relation" v="30767843" />
+    <tag id="5391827" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="5391827" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="5391827" k="gtfs:trip_marker" o="none" type="relation" v="20041241:1" />
+    <tag id="5391827" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="5527972" k="to" o="none" type="relation" v="Lake City" />
+    <tag id="5527972" k="ref" o="none" type="relation" v="41" />
+    <tag id="5527972" k="via" o="none" type="relation" v="Northgate Transit Center" />
+    <tag id="5527972" k="from" o="none" type="relation" v="Downtown Seattle" />
+    <tag id="5527972" k="name" o="none" type="relation" v="Route 41: Lake City Northgate" />
+    <tag id="5527972" k="type" o="none" type="relation" v="route" />
+    <tag id="5527972" k="route" o="none" type="relation" v="bus" />
+    <tag id="5527972" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="5527972" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="5527972" k="gtfs:trip_id" o="none" type="relation" v="30770811" />
+    <tag id="5527972" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="5527972" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="5527972" k="gtfs:trip_marker" o="none" type="relation" v="11041253:0" />
+    <tag id="5527972" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6701153" k="ref" o="none" type="relation" v="41" />
+    <tag id="6701153" k="name" o="none" type="relation" v="Route 41: Lake City Northgate" />
+    <tag id="6701153" k="type" o="none" type="relation" v="route" />
+    <tag id="6701153" k="route" o="none" type="relation" v="bus" />
+    <tag id="6701153" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="6701153" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="6701153" k="gtfs:trip_id" o="none" type="relation" v="30767844" />
+    <tag id="6701153" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="6701153" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="6701153" k="gtfs:trip_marker" o="none" type="relation" v="11041249:0" />
+    <tag id="6701153" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6701154" k="ref" o="none" type="relation" v="41" />
+    <tag id="6701154" k="name" o="none" type="relation" v="Route 41: Downtown Seattle Northgate" />
+    <tag id="6701154" k="type" o="none" type="relation" v="route" />
+    <tag id="6701154" k="route" o="none" type="relation" v="bus" />
+    <tag id="6701154" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="6701154" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="6701154" k="gtfs:trip_id" o="none" type="relation" v="30772201" />
+    <tag id="6701154" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="6701154" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="6701154" k="gtfs:trip_marker" o="none" type="relation" v="20041250:1" />
+    <tag id="6701154" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6741077" k="ref" o="none" type="relation" v="31" />
+    <tag id="6741077" k="name" o="none" type="relation" v="Route 31: Central Magnolia Fremont" />
+    <tag id="6741077" k="type" o="none" type="relation" v="route" />
+    <tag id="6741077" k="route" o="none" type="relation" v="bus" />
+    <tag id="6741077" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="6741077" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="6741077" k="gtfs:trip_id" o="none" type="relation" v="30767362" />
+    <tag id="6741077" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="6741077" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="6741077" k="gtfs:trip_marker" o="none" type="relation" v="31031056:0" />
+    <tag id="6741077" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6741078" k="ref" o="none" type="relation" v="31" />
+    <tag id="6741078" k="name" o="none" type="relation" v="Route 31: University District Fremont" />
+    <tag id="6741078" k="type" o="none" type="relation" v="route" />
+    <tag id="6741078" k="route" o="none" type="relation" v="bus" />
+    <tag id="6741078" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="6741078" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="6741078" k="gtfs:trip_id" o="none" type="relation" v="30767371" />
+    <tag id="6741078" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="6741078" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="6741078" k="gtfs:trip_marker" o="none" type="relation" v="40031053:1" />
+    <tag id="6741078" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6742590" k="ref" o="none" type="relation" v="32" />
+    <tag id="6742590" k="name" o="none" type="relation" v="Route 32: University District Fremont" />
+    <tag id="6742590" k="type" o="none" type="relation" v="route" />
+    <tag id="6742590" k="route" o="none" type="relation" v="bus" />
+    <tag id="6742590" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="6742590" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="6742590" k="gtfs:trip_id" o="none" type="relation" v="30767628" />
+    <tag id="6742590" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="6742590" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="6742590" k="gtfs:trip_marker" o="none" type="relation" v="40032123:1" />
+    <tag id="6742590" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6742594" k="ref" o="none" type="relation" v="32" />
+    <tag id="6742594" k="name" o="none" type="relation" v="Route 32: Seattle Center Fremont" />
+    <tag id="6742594" k="type" o="none" type="relation" v="route" />
+    <tag id="6742594" k="route" o="none" type="relation" v="bus" />
+    <tag id="6742594" k="source" o="none" type="relation" v="King County GIS" />
+    <tag id="6742594" k="operator" o="none" type="relation" v="Metro Transit" />
+    <tag id="6742594" k="gtfs:trip_id" o="none" type="relation" v="30767530" />
+    <tag id="6742594" k="gtfs:agency_id" o="none" type="relation" v="KCM" />
+    <tag id="6742594" k="gtfs:dataset_id" o="none" type="relation" v="KCGIS" />
+    <tag id="6742594" k="gtfs:trip_marker" o="none" type="relation" v="31032125:0" />
+    <tag id="6742594" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6760508" k="ref" o="add" type="relation" v="26" />
+    <tag id="6760508" k="name" o="add" type="relation" v="Route 26: Downtown Seattle" />
+    <tag id="6760508" k="type" o="add" type="relation" v="route" />
+    <tag id="6760508" k="route" o="add" type="relation" v="bus" />
+    <tag id="6760508" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6760508" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6760508" k="gtfs:trip_id" o="add" type="relation" v="32378920" />
+    <tag id="6760508" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6760508" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6760508" k="gtfs:trip_marker" o="add" type="relation" v="20026100:1" />
+    <tag id="6760508" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6760509" k="ref" o="add" type="relation" v="26" />
+    <tag id="6760509" k="name" o="add" type="relation" v="Route 26: Northgate Transit Center East Green Lake" />
+    <tag id="6760509" k="type" o="add" type="relation" v="route" />
+    <tag id="6760509" k="route" o="add" type="relation" v="bus" />
+    <tag id="6760509" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6760509" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6760509" k="gtfs:trip_id" o="add" type="relation" v="32378963" />
+    <tag id="6760509" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6760509" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6760509" k="gtfs:trip_marker" o="add" type="relation" v="11026098:0" />
+    <tag id="6760509" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6760510" k="ref" o="add" type="relation" v="26" />
+    <tag id="6760510" k="name" o="add" type="relation" v="Route 26: Downtown Seattle" />
+    <tag id="6760510" k="type" o="add" type="relation" v="route" />
+    <tag id="6760510" k="route" o="add" type="relation" v="bus" />
+    <tag id="6760510" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6760510" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6760510" k="gtfs:trip_id" o="add" type="relation" v="32378923" />
+    <tag id="6760510" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6760510" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6760510" k="gtfs:trip_marker" o="add" type="relation" v="20026103:1" />
+    <tag id="6760510" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="6760511" k="to" o="add" type="relation" v="Downtown Seattle" />
+    <tag id="6760511" k="ref" o="add" type="relation" v="26" />
+    <tag id="6760511" k="from" o="add" type="relation" v="East Green Lake" />
+    <tag id="6760511" k="name" o="add" type="relation" v="Route 26" />
+    <tag id="6760511" k="type" o="add" type="relation" v="route_master" />
+    <tag id="6760511" k="source" o="add" type="relation" v="King County GIS" />
+    <tag id="6760511" k="website" o="add" type="relation" v="http://metro.kingcounty.gov/schedules/026/n0.html" />
+    <tag id="6760511" k="operator" o="add" type="relation" v="Metro Transit" />
+    <tag id="6760511" k="route_master" o="add" type="relation" v="bus" />
+    <tag id="6760511" k="gtfs:route_id" o="add" type="relation" v="100151" />
+    <tag id="6760511" k="gtfs:agency_id" o="add" type="relation" v="KCM" />
+    <tag id="6760511" k="gtfs:dataset_id" o="add" type="relation" v="KCGIS" />
+    <tag id="6760511" k="public_transport:version" o="add" type="relation" v="2" />
+  </body>
+</changeset>

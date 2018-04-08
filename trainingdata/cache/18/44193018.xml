@@ -1,0 +1,48 @@
+<changeset id="44193018" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Adding turn restrictions in LA" />
+    <tag k="created_by" v="JOSM/1.5 (10966 en)" />
+    <tag k="source" v="Bing, Mapillary" />
+  </meta>
+  <body>
+    <tag id="13278738" k="name" o="none" type="way" v="Drexel Avenue" />
+    <tag id="13278738" k="highway" o="none" type="way" v="residential" />
+    <tag id="13278738" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="13278738" k="tiger:county" o="none" type="way" v="Los Angeles, CA" />
+    <tag id="13278738" k="tiger:zip_left" o="none" type="way" v="90048" />
+    <tag id="13278738" k="tiger:name_base" o="none" type="way" v="Drexel" />
+    <tag id="13278738" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="13278738" k="tiger:zip_right" o="none" type="way" v="90048" />
+    <tag id="159608579" k="name" o="none" type="way" v="South Crescent Heights Boulevard" />
+    <tag id="159608579" k="lanes" o="none" type="way" v="4" />
+    <tag id="159608579" k="highway" o="none" type="way" v="secondary" />
+    <tag id="159608579" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="159608579" k="tiger:county" o="none" type="way" v="Los Angeles, CA" />
+    <tag id="159608579" k="tiger:zip_left" o="none" type="way" v="90048" />
+    <tag id="159608579" k="tiger:name_base" o="none" type="way" v="Crescent Heights" />
+    <tag id="159608579" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="159608579" k="tiger:zip_right" o="none" type="way" v="90048" />
+    <tag id="159608579" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="457971106" k="name" o="add" type="way" v="Drexel Avenue" />
+    <tag id="457971106" k="highway" o="add" type="way" v="residential" />
+    <tag id="457971106" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457971106" k="tiger:county" o="add" type="way" v="Los Angeles, CA" />
+    <tag id="457971106" k="tiger:zip_left" o="add" type="way" v="90048" />
+    <tag id="457971106" k="tiger:name_base" o="add" type="way" v="Drexel" />
+    <tag id="457971106" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="457971106" k="tiger:zip_right" o="add" type="way" v="90048" />
+    <tag id="457971107" k="name" o="add" type="way" v="South Crescent Heights Boulevard" />
+    <tag id="457971107" k="lanes" o="add" type="way" v="4" />
+    <tag id="457971107" k="highway" o="add" type="way" v="secondary" />
+    <tag id="457971107" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="457971107" k="tiger:county" o="add" type="way" v="Los Angeles, CA" />
+    <tag id="457971107" k="tiger:zip_left" o="add" type="way" v="90048" />
+    <tag id="457971107" k="tiger:name_base" o="add" type="way" v="Crescent Heights" />
+    <tag id="457971107" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="457971107" k="tiger:zip_right" o="add" type="way" v="90048" />
+    <tag id="457971107" k="tiger:name_direction_prefix" o="add" type="way" v="S" />
+    <tag id="6769858" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769858" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (16:00-19:00)" />
+  </body>
+</changeset>

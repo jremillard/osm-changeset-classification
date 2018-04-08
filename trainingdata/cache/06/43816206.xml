@@ -1,0 +1,1939 @@
+<changeset id="43816206" schema="2">
+  <counts nodesAdded="107" nodesDeleted="8" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="5" waysAdded="128" waysDeleted="1" waysModified="39" />
+  <meta>
+    <tag k="build" v="2.4-21-g233799c" />
+    <tag k="comment" v="prev. set cont'd" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.4" />
+  </meta>
+  <body>
+    <tag id="186397418" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3671121245" k="name" o="none" type="node" v="Green Mill" />
+    <tag id="3671121245" k="source" o="none" type="node" v="greenmill.com" />
+    <tag id="3671121245" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="3671121245" k="cuisine" o="none" type="node" v="pizza" />
+    <tag id="3671121245" k="addr:city" o="none" type="node" v="New Ulm" />
+    <tag id="3671121245" k="addr:state" o="add" type="node" v="MN" />
+    <tag id="3671121245" k="addr:street" o="none" type="node" v="South Broadway" />
+    <tag id="3671121245" k="addr:postcode" o="modify" type="node" v="56073" />
+    <tag id="3671121245" k="addr:housenumber" o="none" type="node" v="2101" />
+    <tag id="18019927" k="name" o="none" type="way" v="13th South Street" />
+    <tag id="18019927" k="oneway" o="none" type="way" v="no" />
+    <tag id="18019927" k="highway" o="none" type="way" v="residential" />
+    <tag id="18019927" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18019927" k="alt_name" o="none" type="way" v="13th Street South" />
+    <tag id="18019927" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18019927" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18019927" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18019993" k="name" o="modify" type="way" v="11th South Street" />
+    <tag id="18019993" k="oneway" o="add" type="way" v="no" />
+    <tag id="18019993" k="highway" o="none" type="way" v="residential" />
+    <tag id="18019993" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="18019993" k="alt_name" o="add" type="way" v="11th Street South" />
+    <tag id="18019993" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18019993" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18019993" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020028" k="name" o="modify" type="way" v="18th South Street" />
+    <tag id="18020028" k="oneway" o="add" type="way" v="no" />
+    <tag id="18020028" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020028" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="18020028" k="alt_name" o="add" type="way" v="18th Street South" />
+    <tag id="18020028" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020028" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020028" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020177" k="name" o="none" type="way" v="8th South Street" />
+    <tag id="18020177" k="oneway" o="none" type="way" v="no" />
+    <tag id="18020177" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020177" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18020177" k="alt_name" o="none" type="way" v="8th Street South" />
+    <tag id="18020177" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020177" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020177" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020213" k="name" o="none" type="way" v="11th North Street" />
+    <tag id="18020213" k="name_1" o="none" type="way" v="11th Street North" />
+    <tag id="18020213" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020213" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="18020213" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020213" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="18020213" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020213" k="tiger:name_base" o="none" type="way" v="11th North" />
+    <tag id="18020213" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="18020213" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020213" k="tiger:name_base_1" o="none" type="way" v="11th" />
+    <tag id="18020213" k="tiger:name_type_1" o="none" type="way" v="St" />
+    <tag id="18020213" k="tiger:name_direction_suffix_1" o="none" type="way" v="N" />
+    <tag id="18020624" k="name" o="none" type="way" v="14th South Street" />
+    <tag id="18020624" k="oneway" o="none" type="way" v="no" />
+    <tag id="18020624" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020624" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18020624" k="alt_name" o="none" type="way" v="14th Street South" />
+    <tag id="18020624" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020624" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020624" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020643" k="name" o="none" type="way" v="South State Street" />
+    <tag id="18020643" k="lanes" o="none" type="way" v="2" />
+    <tag id="18020643" k="oneway" o="none" type="way" v="no" />
+    <tag id="18020643" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020643" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18020643" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020643" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020643" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020705" k="name" o="none" type="way" v="Cottonwood Street" />
+    <tag id="18020705" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020705" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="18020705" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020705" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="18020705" k="tiger:name_base" o="none" type="way" v="Cottonwood" />
+    <tag id="18020705" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="18020871" k="name" o="none" type="way" v="12th South Street" />
+    <tag id="18020871" k="lanes" o="none" type="way" v="2" />
+    <tag id="18020871" k="oneway" o="none" type="way" v="no" />
+    <tag id="18020871" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="18020871" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18020871" k="alt_name" o="none" type="way" v="12th Street South" />
+    <tag id="18020871" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020871" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020871" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18020966" k="name" o="modify" type="way" v="4th South Street" />
+    <tag id="18020966" k="oneway" o="add" type="way" v="no" />
+    <tag id="18020966" k="highway" o="none" type="way" v="residential" />
+    <tag id="18020966" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="18020966" k="alt_name" o="add" type="way" v="4th Street South" />
+    <tag id="18020966" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18020966" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18020966" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18021131" k="name" o="none" type="way" v="3rd North Street" />
+    <tag id="18021131" k="lanes" o="none" type="way" v="2" />
+    <tag id="18021131" k="oneway" o="none" type="way" v="no" />
+    <tag id="18021131" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="18021131" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18021131" k="alt_name" o="none" type="way" v="3rd Street North" />
+    <tag id="18021131" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18021131" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18021131" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18021132" k="name" o="none" type="way" v="9th South Street" />
+    <tag id="18021132" k="oneway" o="none" type="way" v="no" />
+    <tag id="18021132" k="highway" o="none" type="way" v="residential" />
+    <tag id="18021132" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18021132" k="alt_name" o="none" type="way" v="9th Street South" />
+    <tag id="18021132" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18021132" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18021132" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18021246" k="ref" o="none" type="way" v="CR 26" />
+    <tag id="18021246" k="name" o="none" type="way" v="10th South Street" />
+    <tag id="18021246" k="lanes" o="none" type="way" v="2" />
+    <tag id="18021246" k="oneway" o="none" type="way" v="no" />
+    <tag id="18021246" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="18021246" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18021246" k="alt_name" o="add" type="way" v="10th Street South" />
+    <tag id="18021246" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18021246" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18021246" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18021350" k="name" o="none" type="way" v="15th South Street" />
+    <tag id="18021350" k="oneway" o="none" type="way" v="no" />
+    <tag id="18021350" k="highway" o="none" type="way" v="residential" />
+    <tag id="18021350" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="18021350" k="alt_name" o="none" type="way" v="15th Street South" />
+    <tag id="18021350" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18021350" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18021350" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="18021352" k="name" o="none" type="way" v="10th Street North" />
+    <tag id="18021352" k="highway" o="none" type="way" v="residential" />
+    <tag id="18021352" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="18021352" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="18021352" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="18021352" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="18021352" k="tiger:name_base" o="none" type="way" v="10th North" />
+    <tag id="18021352" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="18021352" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="81509467" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="81509467" k="name" o="modify" type="way" v="South Broadway" />
+    <tag id="81509467" k="lanes" o="modify" type="way" v="2" />
+    <tag id="81509467" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="81509467" k="highway" o="none" type="way" v="primary" />
+    <tag id="81509467" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81509467" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="81509467" k="maxspeed" o="modify" type="way" v="35 mph" />
+    <tag id="81509467" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="81509467" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="81509467" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="118776278" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="118776278" k="name" o="modify" type="way" v="South Broadway" />
+    <tag id="118776278" k="lanes" o="modify" type="way" v="3" />
+    <tag id="118776278" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="118776278" k="highway" o="none" type="way" v="primary" />
+    <tag id="118776278" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="118776278" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="118776278" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="118776278" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="118776278" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="118776278" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="118879004" k="NHS" o="none" type="way" v="yes" />
+    <tag id="118879004" k="hgv" o="none" type="way" v="designated" />
+    <tag id="118879004" k="ref" o="none" type="way" v="US 14;MN 68" />
+    <tag id="118879004" k="name" o="none" type="way" v="North Broadway" />
+    <tag id="118879004" k="lanes" o="none" type="way" v="2" />
+    <tag id="118879004" k="oneway" o="none" type="way" v="yes" />
+    <tag id="118879004" k="highway" o="none" type="way" v="primary" />
+    <tag id="118879004" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="118879004" k="alt_name" o="none" type="way" v="North Broadway Street" />
+    <tag id="118879004" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="118879004" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="118879004" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="118879004" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="118879004" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="118879004" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="188327028" k="name" o="none" type="way" v="3rd North Street" />
+    <tag id="188327028" k="lanes" o="none" type="way" v="2" />
+    <tag id="188327028" k="name_1" o="none" type="way" v="3rd Street North" />
+    <tag id="188327028" k="oneway" o="none" type="way" v="no" />
+    <tag id="188327028" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="188327028" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="188327028" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="188327028" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="188327028" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="188327028" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="188327028" k="tiger:name_base" o="none" type="way" v="3rd North" />
+    <tag id="188327028" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="188327028" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="188327028" k="tiger:name_base_1" o="none" type="way" v="3rd" />
+    <tag id="188327028" k="tiger:name_type_1" o="none" type="way" v="St" />
+    <tag id="188327028" k="tiger:name_direction_suffix_1" o="none" type="way" v="N" />
+    <tag id="359616483" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="359616483" k="name" o="modify" type="way" v="South Broadway" />
+    <tag id="359616483" k="lanes" o="modify" type="way" v="2" />
+    <tag id="359616483" k="oneway" o="none" type="way" v="yes" />
+    <tag id="359616483" k="highway" o="none" type="way" v="primary" />
+    <tag id="359616483" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="359616483" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="359616483" k="maxspeed" o="none" type="way" v="40 mph" />
+    <tag id="359616483" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="359616483" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="359616483" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="362867090" k="name" o="none" type="way" v="New Ulm Conference Center" />
+    <tag id="362867090" k="building" o="modify" type="way" v="retail" />
+    <tag id="367923552" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="367923552" k="name" o="modify" type="way" v="South Broadway" />
+    <tag id="367923552" k="lanes" o="modify" type="way" v="2" />
+    <tag id="367923552" k="oneway" o="none" type="way" v="yes" />
+    <tag id="367923552" k="highway" o="none" type="way" v="primary" />
+    <tag id="367923552" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="367923552" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="367923552" k="maxspeed" o="modify" type="way" v="35 mph" />
+    <tag id="367923552" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="367923552" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="367923552" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="367923557" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="367923557" k="name" o="none" type="way" v="South Broadway" />
+    <tag id="367923557" k="lanes" o="none" type="way" v="2" />
+    <tag id="367923557" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="367923557" k="highway" o="none" type="way" v="primary" />
+    <tag id="367923557" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="367923557" k="alt_name" o="none" type="way" v="South Broadway Street" />
+    <tag id="367923557" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="367923557" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="367923557" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="367923557" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="367923567" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="367923567" k="name" o="modify" type="way" v="South Broadway" />
+    <tag id="367923567" k="lanes" o="none" type="way" v="2" />
+    <tag id="367923567" k="oneway" o="add" type="way" v="no" />
+    <tag id="367923567" k="highway" o="none" type="way" v="primary" />
+    <tag id="367923567" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="367923567" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="367923567" k="maxspeed" o="modify" type="way" v="40 mph" />
+    <tag id="367923567" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="367923567" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="367923567" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="367923582" k="name" o="add" type="way" v="2000 South" />
+    <tag id="367923582" k="oneway" o="add" type="way" v="no" />
+    <tag id="367923582" k="highway" o="none" type="way" v="service" />
+    <tag id="367923582" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="405352357" k="NHS" o="none" type="way" v="yes" />
+    <tag id="405352357" k="hgv" o="none" type="way" v="designated" />
+    <tag id="405352357" k="ref" o="none" type="way" v="US 14;MN 15" />
+    <tag id="405352357" k="lanes" o="none" type="way" v="2" />
+    <tag id="405352357" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="405352357" k="highway" o="none" type="way" v="motorway" />
+    <tag id="405352357" k="surface" o="none" type="way" v="paved" />
+    <tag id="405352357" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="405352357" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="405352357" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="405352357" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="405352357" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="405352357" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="405352359" k="NHS" o="none" type="way" v="yes" />
+    <tag id="405352359" k="hgv" o="none" type="way" v="designated" />
+    <tag id="405352359" k="ref" o="none" type="way" v="US 14;MN 15" />
+    <tag id="405352359" k="name" o="none" type="way" v="7th North Street" />
+    <tag id="405352359" k="lanes" o="none" type="way" v="2" />
+    <tag id="405352359" k="oneway" o="none" type="way" v="yes" />
+    <tag id="405352359" k="highway" o="none" type="way" v="trunk" />
+    <tag id="405352359" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="405352359" k="alt_name" o="none" type="way" v="7th Street North" />
+    <tag id="405352359" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="405352359" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="405352359" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="453653379" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="453653379" k="name" o="none" type="way" v="Broadway" />
+    <tag id="453653379" k="lanes" o="none" type="way" v="3" />
+    <tag id="453653379" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="453653379" k="highway" o="none" type="way" v="primary" />
+    <tag id="453653379" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="453653379" k="alt_name" o="none" type="way" v="Broadway Street" />
+    <tag id="453653379" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="453653379" k="turn:lanes" o="none" type="way" v="left|through|through" />
+    <tag id="453653379" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="453653379" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="453653379" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="453653384" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="453653384" k="name" o="none" type="way" v="South Broadway" />
+    <tag id="453653384" k="lanes" o="none" type="way" v="2" />
+    <tag id="453653384" k="oneway" o="none" type="way" v="yes" />
+    <tag id="453653384" k="highway" o="none" type="way" v="primary" />
+    <tag id="453653384" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="453653384" k="alt_name" o="none" type="way" v="South Broadway Street" />
+    <tag id="453653384" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="453653384" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="453653384" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="453653384" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454405312" k="NHS" o="none" type="way" v="yes" />
+    <tag id="454405312" k="hgv" o="none" type="way" v="designated" />
+    <tag id="454405312" k="ref" o="none" type="way" v="US 14;MN 15" />
+    <tag id="454405312" k="name" o="none" type="way" v="7th North Street" />
+    <tag id="454405312" k="lanes" o="none" type="way" v="2" />
+    <tag id="454405312" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="454405312" k="highway" o="none" type="way" v="trunk" />
+    <tag id="454405312" k="alt_name" o="none" type="way" v="7th Street North" />
+    <tag id="454405312" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="454405312" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454405312" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454405312" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454405312" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="454405312" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454405314" k="NHS" o="none" type="way" v="yes" />
+    <tag id="454405314" k="hgv" o="none" type="way" v="designated" />
+    <tag id="454405314" k="ref" o="none" type="way" v="US 14;MN 68" />
+    <tag id="454405314" k="name" o="none" type="way" v="North Broadway" />
+    <tag id="454405314" k="lanes" o="modify" type="way" v="3" />
+    <tag id="454405314" k="oneway" o="none" type="way" v="-1" />
+    <tag id="454405314" k="highway" o="none" type="way" v="primary" />
+    <tag id="454405314" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454405314" k="alt_name" o="none" type="way" v="North Broadway Street" />
+    <tag id="454405314" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="454405314" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454405314" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454405314" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454405314" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454405314" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="454405314" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454413350" k="NHS" o="none" type="way" v="yes" />
+    <tag id="454413350" k="hgv" o="none" type="way" v="designated" />
+    <tag id="454413350" k="ref" o="none" type="way" v="US 14;MN 68" />
+    <tag id="454413350" k="name" o="none" type="way" v="North Broadway" />
+    <tag id="454413350" k="lanes" o="modify" type="way" v="3" />
+    <tag id="454413350" k="oneway" o="none" type="way" v="yes" />
+    <tag id="454413350" k="highway" o="none" type="way" v="primary" />
+    <tag id="454413350" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454413350" k="alt_name" o="none" type="way" v="North Broadway Street" />
+    <tag id="454413350" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="454413350" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454413350" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454413350" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454413350" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454413350" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="454413350" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454413355" k="NHS" o="none" type="way" v="yes" />
+    <tag id="454413355" k="hgv" o="none" type="way" v="designated" />
+    <tag id="454413355" k="ref" o="none" type="way" v="US 14;MN 68" />
+    <tag id="454413355" k="name" o="none" type="way" v="North Broadway" />
+    <tag id="454413355" k="lanes" o="none" type="way" v="2" />
+    <tag id="454413355" k="oneway" o="none" type="way" v="-1" />
+    <tag id="454413355" k="highway" o="none" type="way" v="primary" />
+    <tag id="454413355" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454413355" k="alt_name" o="none" type="way" v="North Broadway Street" />
+    <tag id="454413355" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="454413355" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454413355" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454413355" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454413355" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="454413355" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454600570" k="name" o="none" type="way" v="10th South Street" />
+    <tag id="454600570" k="lanes" o="none" type="way" v="2" />
+    <tag id="454600570" k="name_1" o="none" type="way" v="10th Street South" />
+    <tag id="454600570" k="oneway" o="none" type="way" v="no" />
+    <tag id="454600570" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="454600570" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454600570" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="454600570" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454600570" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454600570" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454600580" k="name" o="none" type="way" v="16th South Street" />
+    <tag id="454600580" k="lanes" o="none" type="way" v="2" />
+    <tag id="454600580" k="oneway" o="none" type="way" v="no" />
+    <tag id="454600580" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="454600580" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454600580" k="alt_name" o="none" type="way" v="16th Street South" />
+    <tag id="454600580" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454600580" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454600580" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454601114" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="454601114" k="name" o="none" type="way" v="South Broadway" />
+    <tag id="454601114" k="lanes" o="none" type="way" v="3" />
+    <tag id="454601114" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="454601114" k="highway" o="none" type="way" v="primary" />
+    <tag id="454601114" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454601114" k="alt_name" o="none" type="way" v="South Broadway Street" />
+    <tag id="454601114" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="454601114" k="turn:lanes" o="none" type="way" v="left|through|through;right" />
+    <tag id="454601114" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454601114" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454601114" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454601116" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="454601116" k="name" o="none" type="way" v="North Broadway" />
+    <tag id="454601116" k="lanes" o="none" type="way" v="2" />
+    <tag id="454601116" k="oneway" o="none" type="way" v="-1" />
+    <tag id="454601116" k="highway" o="none" type="way" v="primary" />
+    <tag id="454601116" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454601116" k="alt_name" o="none" type="way" v="North Broadway Street" />
+    <tag id="454601116" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="454601116" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454601116" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454601116" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454601119" k="ref" o="none" type="way" v="MN 15; MN 68" />
+    <tag id="454601119" k="name" o="none" type="way" v="North Broadway" />
+    <tag id="454601119" k="lanes" o="none" type="way" v="2" />
+    <tag id="454601119" k="oneway" o="none" type="way" v="yes" />
+    <tag id="454601119" k="highway" o="none" type="way" v="primary" />
+    <tag id="454601119" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454601119" k="alt_name" o="none" type="way" v="North Broadway Street" />
+    <tag id="454601119" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="454601119" k="tiger:county" o="none" type="way" v="Brown, MN" />
+    <tag id="454601119" k="tiger:zip_left" o="none" type="way" v="56073" />
+    <tag id="454601119" k="tiger:zip_right" o="none" type="way" v="56073" />
+    <tag id="454615367" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615367" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615367" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615367" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615367" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615367" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615367" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615367" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615367" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615367" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615367" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615367" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615368" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615368" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615368" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615368" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615368" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615368" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615368" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615368" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615368" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615368" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615368" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615369" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615369" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615369" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615369" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615369" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615369" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615369" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615369" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454615369" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615369" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615369" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615370" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615370" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615370" k="ref" o="add" type="way" v="US 14;MN 15" />
+    <tag id="454615370" k="name" o="add" type="way" v="7th North Street" />
+    <tag id="454615370" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615370" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615370" k="highway" o="add" type="way" v="trunk" />
+    <tag id="454615370" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615370" k="alt_name" o="add" type="way" v="7th Street North" />
+    <tag id="454615370" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615370" k="turn:lanes" o="add" type="way" v="left;through|right" />
+    <tag id="454615370" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615370" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615371" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615371" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615371" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615371" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615371" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615371" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615371" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615371" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615371" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615371" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615371" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615371" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615372" k="name" o="add" type="way" v="3rd North Street" />
+    <tag id="454615372" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615372" k="name_1" o="add" type="way" v="3rd Street North" />
+    <tag id="454615372" k="oneway" o="add" type="way" v="no" />
+    <tag id="454615372" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454615372" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615372" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="454615372" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615372" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="454615372" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615372" k="tiger:name_base" o="add" type="way" v="3rd North" />
+    <tag id="454615372" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="454615372" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615372" k="tiger:name_base_1" o="add" type="way" v="3rd" />
+    <tag id="454615372" k="tiger:name_type_1" o="add" type="way" v="St" />
+    <tag id="454615372" k="tiger:name_direction_suffix_1" o="add" type="way" v="N" />
+    <tag id="454615373" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615373" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615373" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615373" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615373" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615373" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615373" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615373" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615373" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615373" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615373" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615373" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615374" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615374" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615374" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615374" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615374" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615374" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615374" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615374" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615374" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615374" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615374" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615374" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615375" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615375" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615375" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615375" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615375" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615375" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615375" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615375" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615375" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615375" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615375" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615375" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615376" k="name" o="add" type="way" v="11th South Street" />
+    <tag id="454615376" k="oneway" o="add" type="way" v="no" />
+    <tag id="454615376" k="highway" o="add" type="way" v="residential" />
+    <tag id="454615376" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615376" k="alt_name" o="add" type="way" v="11th Street South" />
+    <tag id="454615376" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615376" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615376" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615377" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615377" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615377" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615377" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615377" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615377" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615377" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615377" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615377" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615377" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615377" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615378" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615378" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615378" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615378" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615378" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615378" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615378" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615378" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615378" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615378" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615378" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615378" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615379" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615379" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615379" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615379" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615379" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615379" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615379" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615379" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615379" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615379" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615379" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615379" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615380" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615380" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615380" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615380" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615380" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615380" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615380" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615380" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615380" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615380" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615380" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615380" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615381" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615381" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615381" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615381" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615381" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615381" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615381" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615381" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615381" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615381" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615381" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615381" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615382" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615382" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615382" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615382" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615382" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615382" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615382" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615382" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615382" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615382" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615382" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615383" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615383" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615383" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615383" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615383" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615383" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615383" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615383" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615383" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615383" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615383" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615384" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615384" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615384" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615384" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615384" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615384" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615384" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615384" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615384" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615384" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615384" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615384" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615385" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615385" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615385" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615385" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615385" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615385" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615385" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615385" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615385" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615385" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615385" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615385" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615386" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615386" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615386" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615386" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615386" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615386" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615386" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615386" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615386" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615386" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615386" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615386" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615387" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615387" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615387" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615387" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615387" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615387" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615387" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615387" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615387" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615387" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615387" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615388" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615388" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615388" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615388" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615388" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615388" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615388" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615388" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615388" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615388" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615388" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615389" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615389" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615389" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615389" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615389" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615389" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615389" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615389" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615389" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615389" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615389" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615389" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615390" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615390" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615390" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615390" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615390" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615390" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615390" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615390" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615390" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615390" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615390" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615391" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615391" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615391" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615391" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615391" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615391" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615391" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615391" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615391" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615391" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615391" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615391" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615391" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615391" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615391" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615391" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615392" k="name" o="add" type="way" v="8th South Street" />
+    <tag id="454615392" k="oneway" o="add" type="way" v="no" />
+    <tag id="454615392" k="highway" o="add" type="way" v="residential" />
+    <tag id="454615392" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615392" k="alt_name" o="add" type="way" v="8th Street South" />
+    <tag id="454615392" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615392" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615392" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615393" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615393" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615393" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615393" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615393" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615393" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615393" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615393" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615393" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615393" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615393" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615393" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615393" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615393" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615393" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615394" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615394" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615394" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615394" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615394" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615394" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615394" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615394" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615394" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615394" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615394" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615395" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615395" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615395" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615395" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615395" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615395" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615395" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615395" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615395" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615395" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615395" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615395" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615396" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615396" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615396" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615396" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615396" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615396" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615396" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615396" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615396" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615396" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615396" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615396" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615397" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615397" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615397" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615397" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615397" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615397" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615397" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615397" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615397" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615397" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615397" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615397" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615397" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615397" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615397" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615397" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615398" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615398" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615398" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615398" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615398" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615398" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615398" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615398" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615398" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615398" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615398" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615399" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615399" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615399" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615399" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615399" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615399" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615399" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615399" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615399" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615399" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615399" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615400" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615400" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615400" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615400" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615400" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615400" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615400" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615400" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615400" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615400" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615400" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615400" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615401" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615401" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615401" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615401" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615401" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615401" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615401" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615401" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615401" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615401" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615401" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615402" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615402" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615402" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615402" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615402" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615402" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615402" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615402" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615402" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615402" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615402" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615402" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615403" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615403" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615403" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615403" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615403" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615403" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615403" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615403" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615403" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615403" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615403" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615404" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615404" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615404" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615404" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615404" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615404" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615404" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615404" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615404" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615404" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615404" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615404" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615405" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615405" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615405" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615405" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615405" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615405" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615405" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615405" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615405" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615405" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615405" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615405" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615406" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615406" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615406" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615406" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615406" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615406" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615406" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615406" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615406" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615406" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615406" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615406" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615406" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615406" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615406" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615407" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615407" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615407" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615407" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615407" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615407" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615407" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615407" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615407" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615407" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615407" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615408" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615408" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615408" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615408" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615408" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615408" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615408" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615408" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454615408" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615408" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615408" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615408" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615409" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615409" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615409" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615409" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615409" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615409" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615409" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615409" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615409" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615409" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615409" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615409" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615410" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615410" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615410" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615410" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615410" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615410" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615410" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615410" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615410" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615410" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615410" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615410" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615411" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615411" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615411" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615411" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615411" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615411" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615411" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615411" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615411" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615411" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615411" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615412" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615412" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615412" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615412" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615412" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615412" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615412" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615412" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615412" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615412" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615412" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615413" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615413" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615413" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615413" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615413" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615413" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615413" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615413" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615413" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615413" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615413" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615414" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615414" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615414" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615414" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615414" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615414" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615414" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615414" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615414" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615414" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615414" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615415" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615415" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615415" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615415" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615415" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615415" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615415" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615415" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615415" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615415" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615415" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615415" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615416" k="name" o="add" type="way" v="9th South Street" />
+    <tag id="454615416" k="oneway" o="add" type="way" v="no" />
+    <tag id="454615416" k="highway" o="add" type="way" v="residential" />
+    <tag id="454615416" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615416" k="alt_name" o="add" type="way" v="9th Street South" />
+    <tag id="454615416" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615416" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615416" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615417" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615417" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615417" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615417" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615417" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615417" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615417" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615417" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615417" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615417" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615417" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615417" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615418" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615418" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615418" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615418" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615418" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615418" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615418" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615418" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454615418" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615418" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615418" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615418" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615419" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615419" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615419" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615419" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615419" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615419" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615419" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615419" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615419" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615419" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615419" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615419" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615420" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615420" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615420" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615420" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615420" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615420" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615420" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615420" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615420" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615420" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615420" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615420" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615421" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615421" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615421" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615421" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615421" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615421" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615421" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615421" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615421" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615421" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615421" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615422" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615422" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615422" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615422" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615422" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615422" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615422" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615422" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615422" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615422" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615422" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615423" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615423" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615423" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615423" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615423" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615423" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615423" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615423" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615423" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615423" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615423" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615423" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615423" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615423" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615423" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615424" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615424" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615424" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615424" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615424" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615424" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615424" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615424" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454615424" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615424" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615424" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615425" k="name" o="add" type="way" v="12th South Street" />
+    <tag id="454615425" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615425" k="oneway" o="add" type="way" v="no" />
+    <tag id="454615425" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454615425" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615425" k="alt_name" o="add" type="way" v="12th Street South" />
+    <tag id="454615425" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615425" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615425" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615426" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615426" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615426" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615426" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615426" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615426" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615426" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615426" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615426" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615426" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615426" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615426" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615427" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615427" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615427" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615427" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615427" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615427" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615427" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615427" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615427" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615427" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615427" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615427" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615428" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615428" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615428" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615428" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615428" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615428" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615428" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615428" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615428" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615428" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615428" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615429" k="name" o="add" type="way" v="3rd North Street" />
+    <tag id="454615429" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615429" k="name_1" o="add" type="way" v="3rd Street North" />
+    <tag id="454615429" k="oneway" o="add" type="way" v="no" />
+    <tag id="454615429" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454615429" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615429" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="454615429" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615429" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="454615429" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="454615429" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="454615429" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615429" k="tiger:name_base" o="add" type="way" v="3rd North" />
+    <tag id="454615429" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="454615429" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615429" k="tiger:name_base_1" o="add" type="way" v="3rd" />
+    <tag id="454615429" k="tiger:name_type_1" o="add" type="way" v="St" />
+    <tag id="454615429" k="turn:lanes:forward" o="add" type="way" v="left|through;right" />
+    <tag id="454615429" k="tiger:name_direction_suffix_1" o="add" type="way" v="N" />
+    <tag id="454615430" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615430" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615430" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615430" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615430" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615430" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615430" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615430" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615430" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615430" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615430" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615430" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615431" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615431" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615431" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615431" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615431" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615431" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615431" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615431" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615431" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615431" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615431" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615432" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615432" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615432" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615432" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615432" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615432" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615432" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615432" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615432" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615432" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615432" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615432" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615433" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615433" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615433" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615433" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615433" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615433" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615433" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615433" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615433" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615433" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615433" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615434" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615434" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615434" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615434" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615434" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615434" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615434" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615434" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615434" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615434" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615434" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615434" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615435" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615435" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615435" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615435" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615435" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615435" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615435" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615435" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615435" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615435" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615435" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615436" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615436" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615436" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615436" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615436" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615436" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615436" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615436" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615436" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615436" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615436" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615438" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615438" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615438" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615438" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615438" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615438" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615438" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615438" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615438" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615438" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615438" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615440" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615440" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615440" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615440" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615440" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615440" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615440" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615440" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615440" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615440" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615440" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615440" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615442" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615442" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615442" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615442" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615442" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615442" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615442" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615442" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454615442" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615442" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615442" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615444" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615444" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615444" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615444" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615444" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615444" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615444" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615444" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615444" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615444" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615444" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615444" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615447" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615447" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615447" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615447" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615447" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615447" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615447" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615447" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615447" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615447" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615447" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615449" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615449" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615449" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615449" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615449" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615449" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615449" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615449" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615449" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615449" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615449" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615452" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615452" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615452" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615452" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615452" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615452" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615452" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615452" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615452" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615452" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615452" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615455" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615455" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615455" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615455" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615455" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615455" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615455" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615455" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615455" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615455" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615455" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615457" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615457" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615457" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615457" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615457" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615457" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615457" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615457" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454615457" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615457" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615457" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615460" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615460" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615460" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615460" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615460" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615460" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615460" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615460" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615460" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615460" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615460" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615460" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615460" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615460" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615460" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615460" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454615463" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615463" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615463" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615463" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615463" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615463" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615463" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615463" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615463" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615463" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615463" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615467" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615467" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615467" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615467" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615467" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615467" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615467" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615467" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615467" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615467" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615467" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615467" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615470" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615470" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615470" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615470" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615470" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615470" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615470" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615470" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615470" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615470" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615470" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615473" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615473" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454615473" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615473" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454615473" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615473" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615473" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454615473" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454615473" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615473" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615473" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615473" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615474" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615474" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615474" k="lanes" o="add" type="way" v="3" />
+    <tag id="454615474" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615474" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615474" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615474" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615474" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615474" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454615474" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615474" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615474" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615475" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454615475" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615475" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615475" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615475" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615475" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615475" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615475" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615475" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615475" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615475" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615476" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454615476" k="hgv" o="add" type="way" v="designated" />
+    <tag id="454615476" k="ref" o="add" type="way" v="US 14;MN 68" />
+    <tag id="454615476" k="name" o="add" type="way" v="North Broadway" />
+    <tag id="454615476" k="lanes" o="add" type="way" v="2" />
+    <tag id="454615476" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454615476" k="highway" o="add" type="way" v="primary" />
+    <tag id="454615476" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454615476" k="alt_name" o="add" type="way" v="North Broadway Street" />
+    <tag id="454615476" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="454615476" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454615476" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454615476" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454615476" k="hgv:national_network" o="add" type="way" v="yes" />
+    <tag id="454615476" k="source:hgv:national_network" o="add" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="454617322" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617322" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617322" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617322" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617322" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617322" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617322" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617322" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617322" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617322" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617322" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617323" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617323" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617323" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617323" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617323" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617323" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617323" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617323" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617323" k="turn:lanes" o="add" type="way" v="left|through" />
+    <tag id="454617323" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617323" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617323" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617324" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617324" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617324" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617324" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617324" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617324" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617324" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617324" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617324" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617324" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617324" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617324" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617325" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617325" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617325" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617325" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617325" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617325" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617325" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617325" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617325" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617325" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617325" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617325" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617326" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617326" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617326" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617326" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617326" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617326" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617326" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617326" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617326" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617326" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617326" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617326" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617327" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617327" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617327" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617327" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617327" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617327" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617327" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617327" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617327" k="turn:lanes" o="add" type="way" v="left|through|through" />
+    <tag id="454617327" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617327" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617327" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617328" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617328" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617328" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617328" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617328" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617328" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617328" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617328" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617328" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617328" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617328" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617328" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617329" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617329" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617329" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617329" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617329" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617329" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617329" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617329" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617329" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617329" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617329" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617329" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617330" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617330" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617330" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617330" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617330" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617330" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617330" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617330" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617330" k="turn:lanes" o="add" type="way" v="left|through|through" />
+    <tag id="454617330" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617330" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617330" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617331" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617331" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617331" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617331" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617331" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617331" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617331" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617331" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617331" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617331" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617331" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617332" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617332" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617332" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617332" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617332" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617332" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617332" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617332" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617332" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617332" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617332" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617332" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617333" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617333" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617333" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617333" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617333" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617333" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617333" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617333" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617333" k="turn:lanes" o="add" type="way" v="through|right" />
+    <tag id="454617333" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617333" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617333" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617334" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617334" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617334" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617334" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617334" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617334" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617334" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617334" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617334" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617334" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617334" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617334" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617335" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617335" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617335" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617335" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617335" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617335" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617335" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617335" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617335" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617335" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617335" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617335" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617336" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617336" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617336" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617336" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617336" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617336" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617336" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617336" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617336" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617336" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617336" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617337" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617337" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617337" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617337" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617337" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617337" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617337" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617337" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617337" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617337" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617337" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617338" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617338" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617338" k="lanes" o="add" type="way" v="4" />
+    <tag id="454617338" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617338" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617338" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617338" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617338" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617338" k="turn:lanes" o="add" type="way" v="left|through|through|slight_right" />
+    <tag id="454617338" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617338" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617338" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617339" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617339" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617339" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617339" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617339" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617339" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617339" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617339" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617339" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617339" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617339" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617340" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617340" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617340" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617340" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617340" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617340" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617340" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617340" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617340" k="turn:lanes" o="add" type="way" v="through|through|right" />
+    <tag id="454617340" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617340" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617340" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617341" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617341" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617341" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617341" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617341" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617341" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617341" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617341" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617341" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617341" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617341" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617342" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617342" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617342" k="lanes" o="add" type="way" v="1" />
+    <tag id="454617342" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617342" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617342" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617342" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617342" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617342" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617342" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617342" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617343" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617343" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617343" k="lanes" o="add" type="way" v="1" />
+    <tag id="454617343" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617343" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617343" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617343" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617343" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617343" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617343" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617343" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617344" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617344" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617344" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617344" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617344" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617344" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617344" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617344" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617344" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617344" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617344" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617345" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617345" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617345" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617345" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617345" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617345" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617345" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617345" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617345" k="turn:lanes" o="add" type="way" v="left|through|through" />
+    <tag id="454617345" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617345" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617345" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617346" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617346" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617346" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617346" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617346" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617346" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617346" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617346" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617346" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617346" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617346" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617347" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617347" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617347" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617347" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617347" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617347" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617347" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617347" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617347" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617347" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617347" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617348" k="name" o="add" type="way" v="1700 South" />
+    <tag id="454617348" k="oneway" o="add" type="way" v="no" />
+    <tag id="454617348" k="source" o="add" type="way" v="Bing" />
+    <tag id="454617348" k="highway" o="add" type="way" v="service" />
+    <tag id="454617348" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617349" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617349" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617349" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617349" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617349" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617349" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617349" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617349" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617349" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617349" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617349" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617350" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617350" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617350" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617350" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617350" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617350" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617350" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617350" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617350" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617350" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617350" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617350" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617351" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617351" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617351" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617351" k="oneway" o="add" type="way" v="no" />
+    <tag id="454617351" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617351" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617351" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617351" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454617351" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617351" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617351" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617352" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617352" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617352" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617352" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617352" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617352" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617352" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617352" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617352" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617352" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617352" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617353" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617353" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617353" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617353" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617353" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617353" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617353" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617353" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617353" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617353" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617353" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617354" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617354" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617354" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617354" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617354" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617354" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617354" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617354" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617354" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617354" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617354" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617355" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617355" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617355" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617355" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617355" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617355" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617355" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617355" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617355" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617355" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617355" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617356" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617356" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617356" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617356" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617356" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617356" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617356" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617356" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617356" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617356" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617356" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617356" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617357" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617357" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617357" k="lanes" o="add" type="way" v="4" />
+    <tag id="454617357" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454617357" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617357" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617357" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617357" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617357" k="turn:lanes" o="add" type="way" v="left|through|through|right" />
+    <tag id="454617357" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617357" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617357" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617358" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617358" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617358" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617358" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617358" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617358" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617358" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617358" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617358" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617358" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617358" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617358" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617359" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617359" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617359" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617359" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617359" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617359" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617359" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617359" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617359" k="turn:lanes" o="add" type="way" v="through|through|right" />
+    <tag id="454617359" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617359" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617359" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617360" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617360" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617360" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617360" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617360" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617360" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617360" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617360" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617360" k="turn:lanes" o="add" type="way" v="through|through|right" />
+    <tag id="454617360" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617360" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617360" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617361" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617361" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617361" k="lanes" o="add" type="way" v="3" />
+    <tag id="454617361" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617361" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617361" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617361" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617361" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617361" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="454617361" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617361" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617361" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="454617362" k="ref" o="add" type="way" v="MN 15; MN 68" />
+    <tag id="454617362" k="name" o="add" type="way" v="South Broadway" />
+    <tag id="454617362" k="lanes" o="add" type="way" v="2" />
+    <tag id="454617362" k="oneway" o="add" type="way" v="-1" />
+    <tag id="454617362" k="highway" o="add" type="way" v="primary" />
+    <tag id="454617362" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454617362" k="alt_name" o="add" type="way" v="South Broadway Street" />
+    <tag id="454617362" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="454617362" k="tiger:county" o="add" type="way" v="Brown, MN" />
+    <tag id="454617362" k="tiger:zip_left" o="add" type="way" v="56073" />
+    <tag id="454617362" k="tiger:zip_right" o="add" type="way" v="56073" />
+    <tag id="451137" k="ref" o="none" type="relation" v="14" />
+    <tag id="451137" k="name" o="none" type="relation" v="US 14 (MN)" />
+    <tag id="451137" k="type" o="none" type="relation" v="route" />
+    <tag id="451137" k="route" o="none" type="relation" v="road" />
+    <tag id="451137" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/1/12/US_14.svg" />
+    <tag id="451137" k="network" o="none" type="relation" v="US:US" />
+    <tag id="451137" k="wikipedia" o="none" type="relation" v="en:U.S. Route 14#Minnesota" />
+    <tag id="451137" k="is_in:state" o="none" type="relation" v="MN" />
+    <tag id="909438" k="ref" o="none" type="relation" v="15" />
+    <tag id="909438" k="type" o="none" type="relation" v="route" />
+    <tag id="909438" k="route" o="none" type="relation" v="road" />
+    <tag id="909438" k="network" o="none" type="relation" v="US:MN" />
+    <tag id="933136" k="ref" o="none" type="relation" v="68" />
+    <tag id="933136" k="type" o="none" type="relation" v="route" />
+    <tag id="933136" k="route" o="none" type="relation" v="road" />
+    <tag id="933136" k="network" o="none" type="relation" v="US:MN" />
+    <tag id="2538997" k="ref" o="none" type="relation" v="7" />
+    <tag id="2538997" k="name" o="none" type="relation" v="Constitutional Route 7" />
+    <tag id="2538997" k="type" o="none" type="relation" v="route" />
+    <tag id="2538997" k="route" o="none" type="relation" v="road" />
+    <tag id="2538997" k="source" o="none" type="relation" v="MnDOT" />
+    <tag id="2538997" k="network" o="none" type="relation" v="US:MN:legislative" />
+    <tag id="2539260" k="ref" o="none" type="relation" v="15" />
+    <tag id="2539260" k="name" o="none" type="relation" v="Constitutional Route 15" />
+    <tag id="2539260" k="type" o="none" type="relation" v="route" />
+    <tag id="2539260" k="route" o="none" type="relation" v="road" />
+    <tag id="2539260" k="source" o="none" type="relation" v="MnDOT" />
+    <tag id="2539260" k="network" o="none" type="relation" v="US:MN:legislative" />
+  </body>
+</changeset>

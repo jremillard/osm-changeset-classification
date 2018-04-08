@@ -1,0 +1,2601 @@
+<changeset id="44479494" schema="2">
+  <counts nodesAdded="1538" nodesDeleted="648" nodesModified="3" relationsAdded="66" relationsDeleted="0" relationsModified="4" waysAdded="76" waysDeleted="6" waysModified="140" />
+  <meta>
+    <tag k="comment" v="Correcting/tweaking US 6 between I-81/84/380 and PA 107, plus misc area fixes (ProjectPA)" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+  </meta>
+  <body>
+    <tag id="96856334" k="fixme" o="add" type="node" v="Where exactly does name transition from Chestnut St to Bonnie Dr?" />
+    <tag id="325180788" k="ref" o="none" type="node" v="1" />
+    <tag id="325180788" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="452620179" k="ref" o="add" type="node" v="1" />
+    <tag id="452620179" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="452628612" k="ref" o="add" type="node" v="5" />
+    <tag id="452628612" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="10882735" k="lanes" o="add" type="way" v="1" />
+    <tag id="10882735" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10882735" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10882735" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10882735" k="destination" o="add" type="way" v="Carbondale" />
+    <tag id="10882735" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="10882735" k="destination:ref" o="add" type="way" v="US 6 East" />
+    <tag id="10882735" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10883501" k="name" o="add" type="way" v="Power Boulevard" />
+    <tag id="10883501" k="lanes" o="add" type="way" v="2" />
+    <tag id="10883501" k="oneway" o="add" type="way" v="no" />
+    <tag id="10883501" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="10883501" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10883545" k="lanes" o="add" type="way" v="1" />
+    <tag id="10883545" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10883545" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10883545" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10883545" k="destination" o="add" type="way" v="Carbondale" />
+    <tag id="10883545" k="ref:penndot" o="add" type="way" v="SR 8032" />
+    <tag id="10883545" k="destination:ref" o="add" type="way" v="US 6 East" />
+    <tag id="10883545" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10883730" k="lanes" o="add" type="way" v="1" />
+    <tag id="10883730" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10883730" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10883730" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10883730" k="destination" o="none" type="way" v="Jessup" />
+    <tag id="10883730" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="10883730" k="destination:ref" o="none" type="way" v="PA 247" />
+    <tag id="10883730" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10883813" k="name" o="none" type="way" v="Sunnyside Drive" />
+    <tag id="10883813" k="highway" o="none" type="way" v="residential" />
+    <tag id="10883813" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10883813" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10884162" k="lanes" o="add" type="way" v="1" />
+    <tag id="10884162" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10884162" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10884162" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10884162" k="destination" o="none" type="way" v="Mount Cobb;Throop" />
+    <tag id="10884162" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="10884162" k="maxspeed:advisory" o="add" type="way" v="45 mph" />
+    <tag id="10884162" k="destination:street" o="none" type="way" v="Marshwood Road" />
+    <tag id="10884162" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10884178" k="lanes" o="add" type="way" v="1" />
+    <tag id="10884178" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10884178" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10884178" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10884178" k="destination" o="none" type="way" v="Mount Cobb;Throop" />
+    <tag id="10884178" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="10884178" k="maxspeed:advisory" o="none" type="way" v="25 mph" />
+    <tag id="10884178" k="destination:street" o="none" type="way" v="Marshwood Road" />
+    <tag id="10884178" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10884857" k="lanes" o="add" type="way" v="1" />
+    <tag id="10884857" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10884857" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10884857" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10884857" k="destination" o="none" type="way" v="Jermyn;Mayfield" />
+    <tag id="10884857" k="ref:penndot" o="add" type="way" v="SR 8034" />
+    <tag id="10884857" k="destination:ref" o="none" type="way" v="PA 107" />
+    <tag id="10884857" k="maxspeed:advisory" o="none" type="way" v="40 mph" />
+    <tag id="10884857" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10884865" k="lanes" o="add" type="way" v="1" />
+    <tag id="10884865" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10884865" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10884865" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10884865" k="destination" o="none" type="way" v="Jermyn;Mayfield" />
+    <tag id="10884865" k="ref:penndot" o="add" type="way" v="SR 8034" />
+    <tag id="10884865" k="destination:ref" o="none" type="way" v="PA 107" />
+    <tag id="10884865" k="maxspeed:advisory" o="none" type="way" v="40 mph" />
+    <tag id="10884865" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10885448" k="lanes" o="add" type="way" v="1" />
+    <tag id="10885448" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10885448" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10885448" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10885448" k="destination" o="add" type="way" v="Carbondale" />
+    <tag id="10885448" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="10885448" k="destination:ref" o="add" type="way" v="US 6 West" />
+    <tag id="10885448" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10886474" k="lanes" o="add" type="way" v="1" />
+    <tag id="10886474" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10886474" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10886474" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10886474" k="destination" o="add" type="way" v="Scranton" />
+    <tag id="10886474" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="10886474" k="destination:ref" o="add" type="way" v="US 6 West" />
+    <tag id="10886474" k="maxspeed:advisory" o="add" type="way" v="25 mph" />
+    <tag id="10886474" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10886479" k="lanes" o="add" type="way" v="1" />
+    <tag id="10886479" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10886479" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10886479" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10886479" k="destination" o="none" type="way" v="Archibald;Cortez" />
+    <tag id="10886479" k="ref:penndot" o="add" type="way" v="SR 8032" />
+    <tag id="10886479" k="destination:street" o="none" type="way" v="Salem Road" />
+    <tag id="10886479" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10886751" k="lanes" o="add" type="way" v="1" />
+    <tag id="10886751" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10886751" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10886751" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10886751" k="ref:penndot" o="add" type="way" v="SR 8028" />
+    <tag id="10886751" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10886814" k="lanes" o="add" type="way" v="1" />
+    <tag id="10886814" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10886814" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10886814" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10886814" k="destination" o="none" type="way" v="Archibald;Cortez" />
+    <tag id="10886814" k="ref:penndot" o="add" type="way" v="SR 8032" />
+    <tag id="10886814" k="maxspeed:advisory" o="none" type="way" v="40 mph" />
+    <tag id="10886814" k="destination:street" o="none" type="way" v="Salem Road" />
+    <tag id="10886814" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10887416" k="lanes" o="add" type="way" v="1" />
+    <tag id="10887416" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10887416" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10887416" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10887416" k="destination" o="add" type="way" v="Scranton" />
+    <tag id="10887416" k="ref:penndot" o="add" type="way" v="SR 8032" />
+    <tag id="10887416" k="destination:ref" o="add" type="way" v="US 6 West" />
+    <tag id="10887416" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10887496" k="lanes" o="add" type="way" v="1" />
+    <tag id="10887496" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10887496" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10887496" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10887496" k="destination" o="none" type="way" v="Olyphant" />
+    <tag id="10887496" k="ref:penndot" o="add" type="way" v="SR 8028" />
+    <tag id="10887496" k="maxspeed:advisory" o="modify" type="way" v="45 mph" />
+    <tag id="10887496" k="destination:street" o="none" type="way" v="East Lackawanna Avenue" />
+    <tag id="10887496" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="10888365" k="name" o="none" type="way" v="South Laurel Street" />
+    <tag id="10888365" k="horse" o="none" type="way" v="no" />
+    <tag id="10888365" k="name_1" o="none" type="way" v="Mount Vernon Road" />
+    <tag id="10888365" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10888365" k="highway" o="none" type="way" v="residential" />
+    <tag id="10888365" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10888365" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10888365" k="tiger:name_base" o="none" type="way" v="Laurel" />
+    <tag id="10888365" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10888365" k="tiger:name_base_1" o="none" type="way" v="Mount Vernon" />
+    <tag id="10888365" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="10888365" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="10888653" k="name" o="none" type="way" v="Plank Road" />
+    <tag id="10888653" k="horse" o="none" type="way" v="no" />
+    <tag id="10888653" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10888653" k="highway" o="none" type="way" v="residential" />
+    <tag id="10888653" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10888653" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10888653" k="tiger:name_base" o="none" type="way" v="Plank" />
+    <tag id="10888653" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10888858" k="name" o="none" type="way" v="Chestnut Street" />
+    <tag id="10888858" k="lanes" o="add" type="way" v="2" />
+    <tag id="10888858" k="oneway" o="add" type="way" v="no" />
+    <tag id="10888858" k="highway" o="none" type="way" v="residential" />
+    <tag id="10888858" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10888858" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="10888953" k="name" o="none" type="way" v="Marshwood Road" />
+    <tag id="10888953" k="lanes" o="add" type="way" v="2" />
+    <tag id="10888953" k="oneway" o="add" type="way" v="no" />
+    <tag id="10888953" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="10888953" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10888953" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="10888953" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="10888953" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="10890768" k="name" o="none" type="way" v="Bonnie Drive" />
+    <tag id="10890768" k="lanes" o="add" type="way" v="2" />
+    <tag id="10890768" k="oneway" o="add" type="way" v="no" />
+    <tag id="10890768" k="highway" o="none" type="way" v="residential" />
+    <tag id="10890768" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10890768" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="10891074" k="name" o="none" type="way" v="Archbald Mountain Road" />
+    <tag id="10891074" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10891074" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10891074" k="ref:penndot" o="add" type="way" v="SR 1012" />
+    <tag id="10891074" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10891074" k="tiger:zip_left" o="none" type="way" v="18403" />
+    <tag id="10891074" k="tiger:name_base" o="none" type="way" v="Salem Hgts" />
+    <tag id="10891074" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10891074" k="tiger:zip_right" o="none" type="way" v="18403" />
+    <tag id="10891423" k="name" o="none" type="way" v="Sanderson Street" />
+    <tag id="10891423" k="highway" o="none" type="way" v="residential" />
+    <tag id="10891423" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10891423" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10891423" k="tiger:zip_left" o="none" type="way" v="18512" />
+    <tag id="10891423" k="tiger:name_base" o="none" type="way" v="Sanderson" />
+    <tag id="10891423" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10891857" k="name" o="none" type="way" v="Bridge Street" />
+    <tag id="10891857" k="horse" o="none" type="way" v="no" />
+    <tag id="10891857" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10891857" k="highway" o="none" type="way" v="residential" />
+    <tag id="10891857" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10891857" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10891857" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="10891857" k="tiger:name_base" o="none" type="way" v="Bridge" />
+    <tag id="10891857" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10891857" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="10893650" k="ref" o="none" type="way" v="PA 247" />
+    <tag id="10893650" k="name" o="none" type="way" v="Moosic Lake Road" />
+    <tag id="10893650" k="lanes" o="add" type="way" v="2" />
+    <tag id="10893650" k="oneway" o="add" type="way" v="no" />
+    <tag id="10893650" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10893650" k="rcn_ref" o="none" type="way" v="L" />
+    <tag id="10893650" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10893650" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="10893650" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="10893650" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="10893673" k="name" o="modify" type="way" v="East Lackawanna Avenue" />
+    <tag id="10893673" k="lanes" o="add" type="way" v="2" />
+    <tag id="10893673" k="oneway" o="add" type="way" v="no" />
+    <tag id="10893673" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="10893673" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="10893673" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="10893673" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10893673" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10893673" k="tiger:name_base" o="none" type="way" v="Lackawanna" />
+    <tag id="10893673" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10893673" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="10895040" k="name" o="none" type="way" v="Doll Drive" />
+    <tag id="10895040" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="10895040" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10895040" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10897633" k="name" o="none" type="way" v="Cemetery Street" />
+    <tag id="10897633" k="horse" o="none" type="way" v="no" />
+    <tag id="10897633" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10897633" k="highway" o="none" type="way" v="residential" />
+    <tag id="10897633" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10897633" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10897633" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="10897633" k="tiger:name_base" o="none" type="way" v="Cemetery" />
+    <tag id="10897633" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10897633" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="10897836" k="ref" o="none" type="way" v="PA 107" />
+    <tag id="10897836" k="name" o="none" type="way" v="Rushbrook Street" />
+    <tag id="10897836" k="lanes" o="add" type="way" v="2" />
+    <tag id="10897836" k="oneway" o="add" type="way" v="no" />
+    <tag id="10897836" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10897836" k="surface" o="add" type="way" v="concrete" />
+    <tag id="10897836" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="10897836" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="10897836" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="10898250" k="ref" o="none" type="way" v="PA 247" />
+    <tag id="10898250" k="name" o="none" type="way" v="Moosic Lake Road" />
+    <tag id="10898250" k="lanes" o="add" type="way" v="2" />
+    <tag id="10898250" k="oneway" o="add" type="way" v="no" />
+    <tag id="10898250" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10898250" k="rcn_ref" o="none" type="way" v="L" />
+    <tag id="10898250" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10898250" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="10898250" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="10898250" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10898295" k="name" o="none" type="way" v="Delaware Street" />
+    <tag id="10898295" k="horse" o="none" type="way" v="no" />
+    <tag id="10898295" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10898295" k="highway" o="none" type="way" v="residential" />
+    <tag id="10898295" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10898295" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10898295" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10898295" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="10898295" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="10898295" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10898295" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="10898295" k="tiger:zip_left_1" o="none" type="way" v="18433" />
+    <tag id="10898295" k="tiger:zip_right_1" o="none" type="way" v="18433" />
+    <tag id="10898737" k="name" o="none" type="way" v="Main Street" />
+    <tag id="10898737" k="horse" o="none" type="way" v="no" />
+    <tag id="10898737" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10898737" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10898737" k="rcn_ref" o="none" type="way" v="L;Y" />
+    <tag id="10898737" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10898737" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10898737" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10898737" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="10898737" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="10898737" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10898737" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="10899775" k="name" o="none" type="way" v="Underwood Road" />
+    <tag id="10899775" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="10899775" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10899775" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10899775" k="tiger:zip_left" o="none" type="way" v="18512" />
+    <tag id="10899775" k="tiger:name_base" o="none" type="way" v="Underwood" />
+    <tag id="10899775" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10899775" k="tiger:zip_right" o="none" type="way" v="18512" />
+    <tag id="10899776" k="name" o="none" type="way" v="Underwood Road" />
+    <tag id="10899776" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="10899776" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10899776" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10899776" k="tiger:zip_left" o="none" type="way" v="18447" />
+    <tag id="10899776" k="tiger:name_base" o="none" type="way" v="Underwood" />
+    <tag id="10899776" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10899776" k="tiger:zip_right" o="none" type="way" v="18447" />
+    <tag id="10900322" k="name" o="none" type="way" v="Laurel Street" />
+    <tag id="10900322" k="horse" o="none" type="way" v="no" />
+    <tag id="10900322" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="10900322" k="highway" o="none" type="way" v="residential" />
+    <tag id="10900322" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="10900322" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10900322" k="tiger:zip_left" o="none" type="way" v="18403" />
+    <tag id="10900322" k="tiger:name_base" o="none" type="way" v="Laurel" />
+    <tag id="10900322" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10900322" k="tiger:zip_right" o="none" type="way" v="18403" />
+    <tag id="19840098" k="NHS" o="none" type="way" v="yes" />
+    <tag id="19840098" k="hgv" o="none" type="way" v="yes" />
+    <tag id="19840098" k="lit" o="none" type="way" v="no" />
+    <tag id="19840098" k="ref" o="none" type="way" v="US 6" />
+    <tag id="19840098" k="foot" o="none" type="way" v="no" />
+    <tag id="19840098" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="19840098" k="horse" o="none" type="way" v="no" />
+    <tag id="19840098" k="lanes" o="none" type="way" v="3" />
+    <tag id="19840098" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19840098" k="bicycle" o="none" type="way" v="no" />
+    <tag id="19840098" k="highway" o="none" type="way" v="motorway" />
+    <tag id="19840098" k="surface" o="none" type="way" v="concrete" />
+    <tag id="19840098" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="19840098" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="19840098" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="19840098" k="turn:lanes" o="none" type="way" v="none|none|merge_to_left" />
+    <tag id="19840987" k="NHS" o="none" type="way" v="yes" />
+    <tag id="19840987" k="hgv" o="none" type="way" v="yes" />
+    <tag id="19840987" k="lit" o="none" type="way" v="no" />
+    <tag id="19840987" k="ref" o="none" type="way" v="US 6" />
+    <tag id="19840987" k="foot" o="none" type="way" v="no" />
+    <tag id="19840987" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="19840987" k="horse" o="none" type="way" v="no" />
+    <tag id="19840987" k="lanes" o="none" type="way" v="3" />
+    <tag id="19840987" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19840987" k="bicycle" o="none" type="way" v="no" />
+    <tag id="19840987" k="highway" o="none" type="way" v="motorway" />
+    <tag id="19840987" k="surface" o="none" type="way" v="concrete" />
+    <tag id="19840987" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="19840987" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="19840987" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="19840987" k="turn:lanes" o="none" type="way" v="through|through|slight_right" />
+    <tag id="19840987" k="destination:lanes" o="none" type="way" v="||Mt Pocono;Milford" />
+    <tag id="19840987" k="destination:ref:lanes" o="none" type="way" v="||I 84 East;I 380 South" />
+    <tag id="19841728" k="NHS" o="none" type="way" v="yes" />
+    <tag id="19841728" k="hgv" o="none" type="way" v="yes" />
+    <tag id="19841728" k="lit" o="none" type="way" v="no" />
+    <tag id="19841728" k="ref" o="none" type="way" v="US 6" />
+    <tag id="19841728" k="foot" o="none" type="way" v="no" />
+    <tag id="19841728" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="19841728" k="horse" o="none" type="way" v="no" />
+    <tag id="19841728" k="lanes" o="none" type="way" v="2" />
+    <tag id="19841728" k="layer" o="none" type="way" v="1" />
+    <tag id="19841728" k="bridge" o="none" type="way" v="yes" />
+    <tag id="19841728" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19841728" k="bicycle" o="none" type="way" v="no" />
+    <tag id="19841728" k="highway" o="none" type="way" v="motorway" />
+    <tag id="19841728" k="surface" o="none" type="way" v="concrete" />
+    <tag id="19841728" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="19841728" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="19841728" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="19841733" k="NHS" o="none" type="way" v="yes" />
+    <tag id="19841733" k="hgv" o="none" type="way" v="yes" />
+    <tag id="19841733" k="lit" o="none" type="way" v="no" />
+    <tag id="19841733" k="ref" o="none" type="way" v="US 6" />
+    <tag id="19841733" k="foot" o="none" type="way" v="no" />
+    <tag id="19841733" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="19841733" k="horse" o="none" type="way" v="no" />
+    <tag id="19841733" k="lanes" o="none" type="way" v="2" />
+    <tag id="19841733" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19841733" k="bicycle" o="none" type="way" v="no" />
+    <tag id="19841733" k="highway" o="none" type="way" v="motorway" />
+    <tag id="19841733" k="surface" o="none" type="way" v="concrete" />
+    <tag id="19841733" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="19841733" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="19841733" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="19841765" k="NHS" o="none" type="way" v="yes" />
+    <tag id="19841765" k="hgv" o="none" type="way" v="yes" />
+    <tag id="19841765" k="lit" o="none" type="way" v="no" />
+    <tag id="19841765" k="ref" o="none" type="way" v="US 6" />
+    <tag id="19841765" k="foot" o="none" type="way" v="no" />
+    <tag id="19841765" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="19841765" k="horse" o="none" type="way" v="no" />
+    <tag id="19841765" k="lanes" o="none" type="way" v="2" />
+    <tag id="19841765" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19841765" k="bicycle" o="none" type="way" v="no" />
+    <tag id="19841765" k="highway" o="none" type="way" v="motorway" />
+    <tag id="19841765" k="surface" o="none" type="way" v="concrete" />
+    <tag id="19841765" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="19841765" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="19841765" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="19841765" k="turn:lanes" o="none" type="way" v="slight_left|slight_right" />
+    <tag id="19841765" k="destination:lanes" o="none" type="way" v="Wilkes-Barre|Binghamton" />
+    <tag id="19841765" k="destination:ref:lanes" o="none" type="way" v="I 81 South|I 81 North;US 6 West" />
+    <tag id="19841767" k="NHS" o="none" type="way" v="yes" />
+    <tag id="19841767" k="hgv" o="none" type="way" v="yes" />
+    <tag id="19841767" k="lit" o="none" type="way" v="no" />
+    <tag id="19841767" k="ref" o="none" type="way" v="US 6" />
+    <tag id="19841767" k="foot" o="none" type="way" v="no" />
+    <tag id="19841767" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="19841767" k="horse" o="none" type="way" v="no" />
+    <tag id="19841767" k="lanes" o="none" type="way" v="2" />
+    <tag id="19841767" k="layer" o="none" type="way" v="1" />
+    <tag id="19841767" k="bridge" o="none" type="way" v="yes" />
+    <tag id="19841767" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19841767" k="bicycle" o="none" type="way" v="no" />
+    <tag id="19841767" k="highway" o="none" type="way" v="motorway" />
+    <tag id="19841767" k="surface" o="none" type="way" v="concrete" />
+    <tag id="19841767" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="19841767" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="19841767" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="19841767" k="turn:lanes" o="none" type="way" v="slight_left|slight_right" />
+    <tag id="19841767" k="destination:lanes" o="none" type="way" v="Wilkes-Barre|Binghamton" />
+    <tag id="19841767" k="destination:ref:lanes" o="none" type="way" v="I 81 South|I 81 North;US 6 West" />
+    <tag id="29499937" k="lanes" o="add" type="way" v="1" />
+    <tag id="29499937" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29499937" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="29499937" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29499937" k="destination" o="add" type="way" v="Scranton" />
+    <tag id="29499937" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="29499937" k="destination:ref" o="add" type="way" v="US 6 East" />
+    <tag id="29499937" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="29500235" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29500235" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29500235" k="lit" o="add" type="way" v="no" />
+    <tag id="29500235" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29500235" k="foot" o="add" type="way" v="no" />
+    <tag id="29500235" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29500235" k="horse" o="add" type="way" v="no" />
+    <tag id="29500235" k="lanes" o="none" type="way" v="2" />
+    <tag id="29500235" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29500235" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29500235" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29500235" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29500235" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29500235" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29500235" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29500236" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29500236" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29500236" k="lit" o="add" type="way" v="no" />
+    <tag id="29500236" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29500236" k="foot" o="add" type="way" v="no" />
+    <tag id="29500236" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29500236" k="horse" o="add" type="way" v="no" />
+    <tag id="29500236" k="lanes" o="none" type="way" v="2" />
+    <tag id="29500236" k="layer" o="none" type="way" v="1" />
+    <tag id="29500236" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29500236" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29500236" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29500236" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29500236" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29500236" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29500236" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29500236" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29500565" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29500565" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29500565" k="lit" o="add" type="way" v="no" />
+    <tag id="29500565" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29500565" k="foot" o="add" type="way" v="no" />
+    <tag id="29500565" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29500565" k="horse" o="add" type="way" v="no" />
+    <tag id="29500565" k="lanes" o="none" type="way" v="2" />
+    <tag id="29500565" k="layer" o="none" type="way" v="1" />
+    <tag id="29500565" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29500565" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29500565" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29500565" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29500565" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29500565" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29500565" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29500565" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29500566" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29500566" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29500566" k="lit" o="add" type="way" v="no" />
+    <tag id="29500566" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29500566" k="foot" o="add" type="way" v="no" />
+    <tag id="29500566" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29500566" k="horse" o="add" type="way" v="no" />
+    <tag id="29500566" k="lanes" o="none" type="way" v="2" />
+    <tag id="29500566" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29500566" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29500566" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29500566" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29500566" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29500566" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29500566" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29502199" k="lanes" o="add" type="way" v="1" />
+    <tag id="29502199" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29502199" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="29502199" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29502199" k="ref:penndot" o="add" type="way" v="SR 8028" />
+    <tag id="29502199" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="29502229" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29502229" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29502229" k="lit" o="add" type="way" v="no" />
+    <tag id="29502229" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29502229" k="foot" o="add" type="way" v="no" />
+    <tag id="29502229" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29502229" k="horse" o="add" type="way" v="no" />
+    <tag id="29502229" k="lanes" o="none" type="way" v="2" />
+    <tag id="29502229" k="layer" o="none" type="way" v="1" />
+    <tag id="29502229" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29502229" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29502229" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29502229" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29502229" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29502229" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29502229" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29502229" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29502231" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29502231" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29502231" k="lit" o="add" type="way" v="no" />
+    <tag id="29502231" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29502231" k="foot" o="add" type="way" v="no" />
+    <tag id="29502231" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29502231" k="horse" o="add" type="way" v="no" />
+    <tag id="29502231" k="lanes" o="none" type="way" v="2" />
+    <tag id="29502231" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29502231" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29502231" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29502231" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29502231" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29502231" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29502231" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29502235" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29502235" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29502235" k="lit" o="add" type="way" v="no" />
+    <tag id="29502235" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29502235" k="foot" o="add" type="way" v="no" />
+    <tag id="29502235" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29502235" k="horse" o="add" type="way" v="no" />
+    <tag id="29502235" k="lanes" o="none" type="way" v="2" />
+    <tag id="29502235" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29502235" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29502235" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29502235" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29502235" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29502235" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29502235" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29502237" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29502237" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29502237" k="lit" o="add" type="way" v="no" />
+    <tag id="29502237" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29502237" k="foot" o="add" type="way" v="no" />
+    <tag id="29502237" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29502237" k="horse" o="add" type="way" v="no" />
+    <tag id="29502237" k="lanes" o="none" type="way" v="2" />
+    <tag id="29502237" k="layer" o="none" type="way" v="1" />
+    <tag id="29502237" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29502237" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29502237" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29502237" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29502237" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29502237" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29502237" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29502237" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29503135" k="lanes" o="add" type="way" v="1" />
+    <tag id="29503135" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29503135" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="29503135" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29503135" k="destination" o="none" type="way" v="Olyphant" />
+    <tag id="29503135" k="ref:penndot" o="add" type="way" v="SR 8028" />
+    <tag id="29503135" k="maxspeed:advisory" o="none" type="way" v="40 mph" />
+    <tag id="29503135" k="destination:street" o="none" type="way" v="East Lackawanna Avenue" />
+    <tag id="29503135" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="29503315" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29503315" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29503315" k="lit" o="add" type="way" v="no" />
+    <tag id="29503315" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29503315" k="foot" o="add" type="way" v="no" />
+    <tag id="29503315" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29503315" k="horse" o="add" type="way" v="no" />
+    <tag id="29503315" k="lanes" o="none" type="way" v="2" />
+    <tag id="29503315" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29503315" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29503315" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29503315" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29503315" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29503315" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29503315" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29503317" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29503317" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29503317" k="lit" o="add" type="way" v="no" />
+    <tag id="29503317" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29503317" k="foot" o="add" type="way" v="no" />
+    <tag id="29503317" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29503317" k="horse" o="add" type="way" v="no" />
+    <tag id="29503317" k="lanes" o="none" type="way" v="2" />
+    <tag id="29503317" k="layer" o="none" type="way" v="1" />
+    <tag id="29503317" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29503317" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29503317" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29503317" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29503317" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29503317" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29503317" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29503317" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29503318" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29503318" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29503318" k="lit" o="add" type="way" v="no" />
+    <tag id="29503318" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29503318" k="foot" o="add" type="way" v="no" />
+    <tag id="29503318" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29503318" k="horse" o="add" type="way" v="no" />
+    <tag id="29503318" k="lanes" o="none" type="way" v="2" />
+    <tag id="29503318" k="layer" o="none" type="way" v="1" />
+    <tag id="29503318" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29503318" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29503318" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29503318" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29503318" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29503318" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29503318" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29503318" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29503319" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29503319" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29503319" k="lit" o="add" type="way" v="no" />
+    <tag id="29503319" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29503319" k="foot" o="add" type="way" v="no" />
+    <tag id="29503319" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29503319" k="horse" o="add" type="way" v="no" />
+    <tag id="29503319" k="lanes" o="none" type="way" v="2" />
+    <tag id="29503319" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29503319" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29503319" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29503319" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29503319" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29503319" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29503319" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29573680" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29573680" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29573680" k="lit" o="add" type="way" v="no" />
+    <tag id="29573680" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29573680" k="foot" o="add" type="way" v="no" />
+    <tag id="29573680" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29573680" k="horse" o="add" type="way" v="no" />
+    <tag id="29573680" k="lanes" o="none" type="way" v="2" />
+    <tag id="29573680" k="layer" o="none" type="way" v="1" />
+    <tag id="29573680" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29573680" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29573680" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29573680" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29573680" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29573680" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29573680" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29573680" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29573688" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29573688" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29573688" k="lit" o="add" type="way" v="no" />
+    <tag id="29573688" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29573688" k="foot" o="add" type="way" v="no" />
+    <tag id="29573688" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29573688" k="horse" o="add" type="way" v="no" />
+    <tag id="29573688" k="lanes" o="none" type="way" v="2" />
+    <tag id="29573688" k="layer" o="none" type="way" v="1" />
+    <tag id="29573688" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29573688" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29573688" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29573688" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29573688" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29573688" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29573688" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29573688" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29573695" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29573695" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29573695" k="lit" o="add" type="way" v="no" />
+    <tag id="29573695" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29573695" k="foot" o="add" type="way" v="no" />
+    <tag id="29573695" k="name" o="modify" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29573695" k="horse" o="add" type="way" v="no" />
+    <tag id="29573695" k="lanes" o="none" type="way" v="2" />
+    <tag id="29573695" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29573695" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29573695" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29573695" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29573695" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29573695" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29573695" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29573700" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29573700" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29573700" k="lit" o="add" type="way" v="no" />
+    <tag id="29573700" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29573700" k="foot" o="add" type="way" v="no" />
+    <tag id="29573700" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29573700" k="horse" o="add" type="way" v="no" />
+    <tag id="29573700" k="lanes" o="none" type="way" v="2" />
+    <tag id="29573700" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29573700" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29573700" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29573700" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29573700" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29573700" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29573700" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29574645" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29574645" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29574645" k="lit" o="add" type="way" v="no" />
+    <tag id="29574645" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29574645" k="foot" o="add" type="way" v="no" />
+    <tag id="29574645" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29574645" k="horse" o="add" type="way" v="no" />
+    <tag id="29574645" k="lanes" o="none" type="way" v="2" />
+    <tag id="29574645" k="layer" o="none" type="way" v="1" />
+    <tag id="29574645" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29574645" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29574645" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29574645" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29574645" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29574645" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29574645" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29574645" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29574654" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29574654" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29574654" k="lit" o="add" type="way" v="no" />
+    <tag id="29574654" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29574654" k="foot" o="add" type="way" v="no" />
+    <tag id="29574654" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29574654" k="horse" o="add" type="way" v="no" />
+    <tag id="29574654" k="lanes" o="none" type="way" v="2" />
+    <tag id="29574654" k="layer" o="none" type="way" v="1" />
+    <tag id="29574654" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29574654" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29574654" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29574654" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29574654" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29574654" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29574654" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29574654" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29574661" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29574661" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29574661" k="lit" o="add" type="way" v="no" />
+    <tag id="29574661" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29574661" k="foot" o="add" type="way" v="no" />
+    <tag id="29574661" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29574661" k="horse" o="add" type="way" v="no" />
+    <tag id="29574661" k="lanes" o="none" type="way" v="2" />
+    <tag id="29574661" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29574661" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29574661" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29574661" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29574661" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29574661" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29574661" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29574664" k="NHS" o="none" type="way" v="yes" />
+    <tag id="29574664" k="hgv" o="none" type="way" v="yes" />
+    <tag id="29574664" k="lit" o="add" type="way" v="no" />
+    <tag id="29574664" k="ref" o="none" type="way" v="US 6" />
+    <tag id="29574664" k="foot" o="add" type="way" v="no" />
+    <tag id="29574664" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="29574664" k="horse" o="add" type="way" v="no" />
+    <tag id="29574664" k="lanes" o="none" type="way" v="2" />
+    <tag id="29574664" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29574664" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29574664" k="highway" o="none" type="way" v="motorway" />
+    <tag id="29574664" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29574664" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="29574664" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="29574664" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="29579318" k="ref" o="none" type="way" v="PA 107" />
+    <tag id="29579318" k="name" o="none" type="way" v="Rushbrook Street" />
+    <tag id="29579318" k="lanes" o="add" type="way" v="2" />
+    <tag id="29579318" k="layer" o="none" type="way" v="1" />
+    <tag id="29579318" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29579318" k="oneway" o="add" type="way" v="no" />
+    <tag id="29579318" k="highway" o="none" type="way" v="secondary" />
+    <tag id="29579318" k="surface" o="add" type="way" v="concrete" />
+    <tag id="29579318" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="29579318" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="29579318" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="29579330" k="ref" o="none" type="way" v="PA 107" />
+    <tag id="29579330" k="name" o="none" type="way" v="Rushbrook Street" />
+    <tag id="29579330" k="lanes" o="add" type="way" v="2" />
+    <tag id="29579330" k="oneway" o="add" type="way" v="no" />
+    <tag id="29579330" k="highway" o="none" type="way" v="secondary" />
+    <tag id="29579330" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="29579330" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="29579330" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="29579330" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="29579330" k="destination:ref:to:forward" o="add" type="way" v="US 6" />
+    <tag id="29579330" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="38332039" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332039" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332039" k="lit" o="none" type="way" v="no" />
+    <tag id="38332039" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332039" k="foot" o="none" type="way" v="no" />
+    <tag id="38332039" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332039" k="horse" o="none" type="way" v="no" />
+    <tag id="38332039" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332039" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332039" k="bicycle" o="none" type="way" v="no" />
+    <tag id="38332039" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332039" k="surface" o="none" type="way" v="concrete" />
+    <tag id="38332039" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332039" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332039" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332040" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332040" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332040" k="lit" o="none" type="way" v="no" />
+    <tag id="38332040" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332040" k="foot" o="none" type="way" v="no" />
+    <tag id="38332040" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332040" k="horse" o="none" type="way" v="no" />
+    <tag id="38332040" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332040" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332040" k="bicycle" o="none" type="way" v="no" />
+    <tag id="38332040" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332040" k="surface" o="none" type="way" v="concrete" />
+    <tag id="38332040" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332040" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="38332040" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332040" k="turn:lanes" o="none" type="way" v="slight_left|slight_right" />
+    <tag id="38332040" k="destination:lanes" o="none" type="way" v="Wilkes-Barre|Binghamton" />
+    <tag id="38332040" k="destination:ref:lanes" o="none" type="way" v="I 81 South|I 81 North;US 6 West" />
+    <tag id="38332043" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332043" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332043" k="lit" o="none" type="way" v="no" />
+    <tag id="38332043" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332043" k="foot" o="none" type="way" v="no" />
+    <tag id="38332043" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332043" k="horse" o="none" type="way" v="no" />
+    <tag id="38332043" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332043" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332043" k="bicycle" o="none" type="way" v="no" />
+    <tag id="38332043" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332043" k="surface" o="none" type="way" v="concrete" />
+    <tag id="38332043" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332043" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332043" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332143" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332143" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332143" k="lit" o="add" type="way" v="no" />
+    <tag id="38332143" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332143" k="foot" o="add" type="way" v="no" />
+    <tag id="38332143" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332143" k="horse" o="add" type="way" v="no" />
+    <tag id="38332143" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332143" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332143" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332143" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332143" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332143" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332143" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332143" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332144" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332144" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332144" k="lit" o="add" type="way" v="no" />
+    <tag id="38332144" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332144" k="foot" o="add" type="way" v="no" />
+    <tag id="38332144" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332144" k="horse" o="add" type="way" v="no" />
+    <tag id="38332144" k="lanes" o="modify" type="way" v="3" />
+    <tag id="38332144" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332144" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332144" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332144" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332144" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332144" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332144" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332144" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="38332144" k="destination:lanes" o="add" type="way" v="||Olyphant" />
+    <tag id="38332144" k="destination:street:lanes" o="add" type="way" v="||East Lackawanna Avenue" />
+    <tag id="38332205" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332205" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332205" k="lit" o="add" type="way" v="no" />
+    <tag id="38332205" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332205" k="foot" o="add" type="way" v="no" />
+    <tag id="38332205" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332205" k="horse" o="add" type="way" v="no" />
+    <tag id="38332205" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332205" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332205" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332205" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332205" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332205" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332205" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332205" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332206" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332206" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332206" k="lit" o="add" type="way" v="no" />
+    <tag id="38332206" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332206" k="foot" o="add" type="way" v="no" />
+    <tag id="38332206" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332206" k="horse" o="add" type="way" v="no" />
+    <tag id="38332206" k="lanes" o="modify" type="way" v="3" />
+    <tag id="38332206" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332206" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332206" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332206" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332206" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332206" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332206" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332206" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="38332206" k="destination:lanes" o="add" type="way" v="||Mount Cobb;Throop" />
+    <tag id="38332206" k="destination:street:lanes" o="add" type="way" v="||Marshwood Road" />
+    <tag id="38332207" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332207" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332207" k="lit" o="add" type="way" v="no" />
+    <tag id="38332207" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332207" k="foot" o="add" type="way" v="no" />
+    <tag id="38332207" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332207" k="horse" o="add" type="way" v="no" />
+    <tag id="38332207" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332207" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332207" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332207" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332207" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332207" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332207" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332207" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332208" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332208" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332208" k="lit" o="add" type="way" v="no" />
+    <tag id="38332208" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332208" k="foot" o="add" type="way" v="no" />
+    <tag id="38332208" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332208" k="horse" o="add" type="way" v="no" />
+    <tag id="38332208" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332208" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332208" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332208" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332208" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332208" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332208" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332208" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332280" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332280" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332280" k="lit" o="add" type="way" v="no" />
+    <tag id="38332280" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332280" k="foot" o="add" type="way" v="no" />
+    <tag id="38332280" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332280" k="horse" o="add" type="way" v="no" />
+    <tag id="38332280" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332280" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332280" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332280" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332280" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332280" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332280" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332280" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332281" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332281" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332281" k="lit" o="add" type="way" v="no" />
+    <tag id="38332281" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332281" k="foot" o="add" type="way" v="no" />
+    <tag id="38332281" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332281" k="horse" o="add" type="way" v="no" />
+    <tag id="38332281" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332281" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332281" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332281" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332281" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332281" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332281" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332281" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332363" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332363" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332363" k="lit" o="add" type="way" v="no" />
+    <tag id="38332363" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332363" k="foot" o="add" type="way" v="no" />
+    <tag id="38332363" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332363" k="horse" o="add" type="way" v="no" />
+    <tag id="38332363" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332363" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332363" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332363" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332363" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332363" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332363" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332363" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332364" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332364" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332364" k="lit" o="add" type="way" v="no" />
+    <tag id="38332364" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332364" k="foot" o="add" type="way" v="no" />
+    <tag id="38332364" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332364" k="horse" o="add" type="way" v="no" />
+    <tag id="38332364" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332364" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332364" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332364" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332364" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332364" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332364" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332364" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332366" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332366" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332366" k="lit" o="add" type="way" v="no" />
+    <tag id="38332366" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332366" k="foot" o="add" type="way" v="no" />
+    <tag id="38332366" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332366" k="horse" o="add" type="way" v="no" />
+    <tag id="38332366" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332366" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332366" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332366" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332366" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332366" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332366" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332366" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332367" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332367" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332367" k="lit" o="add" type="way" v="no" />
+    <tag id="38332367" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332367" k="foot" o="add" type="way" v="no" />
+    <tag id="38332367" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332367" k="horse" o="add" type="way" v="no" />
+    <tag id="38332367" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332367" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332367" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332367" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332367" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332367" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332367" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332367" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332673" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332673" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332673" k="lit" o="add" type="way" v="no" />
+    <tag id="38332673" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332673" k="foot" o="add" type="way" v="no" />
+    <tag id="38332673" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332673" k="horse" o="add" type="way" v="no" />
+    <tag id="38332673" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332673" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332673" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332673" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332673" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332673" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332673" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332673" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332675" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332675" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332675" k="lit" o="add" type="way" v="no" />
+    <tag id="38332675" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332675" k="foot" o="add" type="way" v="no" />
+    <tag id="38332675" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332675" k="horse" o="add" type="way" v="no" />
+    <tag id="38332675" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332675" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332675" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332675" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332675" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332675" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332675" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332675" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332676" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332676" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332676" k="lit" o="add" type="way" v="no" />
+    <tag id="38332676" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332676" k="foot" o="add" type="way" v="no" />
+    <tag id="38332676" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332676" k="horse" o="add" type="way" v="no" />
+    <tag id="38332676" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332676" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332676" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332676" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332676" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332676" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332676" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332676" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="38332677" k="NHS" o="none" type="way" v="yes" />
+    <tag id="38332677" k="hgv" o="none" type="way" v="yes" />
+    <tag id="38332677" k="lit" o="add" type="way" v="no" />
+    <tag id="38332677" k="ref" o="none" type="way" v="US 6" />
+    <tag id="38332677" k="foot" o="add" type="way" v="no" />
+    <tag id="38332677" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="38332677" k="horse" o="add" type="way" v="no" />
+    <tag id="38332677" k="lanes" o="none" type="way" v="2" />
+    <tag id="38332677" k="oneway" o="none" type="way" v="yes" />
+    <tag id="38332677" k="bicycle" o="add" type="way" v="no" />
+    <tag id="38332677" k="highway" o="none" type="way" v="motorway" />
+    <tag id="38332677" k="surface" o="add" type="way" v="concrete" />
+    <tag id="38332677" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="38332677" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="38332677" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="47411633" k="name" o="none" type="way" v="Sanderson Street" />
+    <tag id="47411633" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="47411633" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="47411633" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="47411633" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="47411633" k="tiger:zip_left" o="none" type="way" v="18512" />
+    <tag id="47411633" k="tiger:name_base" o="none" type="way" v="Sanderson" />
+    <tag id="47411633" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="54733489" k="source" o="none" type="way" v="Yahoo" />
+    <tag id="54733489" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="62778601" k="name" o="none" type="way" v="St. John's Cemetary" />
+    <tag id="62778601" k="highway" o="modify" type="way" v="service" />
+    <tag id="62778610" k="name" o="none" type="way" v="St. John's Cemetary" />
+    <tag id="62778610" k="highway" o="modify" type="way" v="service" />
+    <tag id="63046073" k="ref" o="none" type="way" v="PA 247" />
+    <tag id="63046073" k="name" o="none" type="way" v="Hill Street" />
+    <tag id="63046073" k="lanes" o="add" type="way" v="2" />
+    <tag id="63046073" k="oneway" o="add" type="way" v="no" />
+    <tag id="63046073" k="highway" o="none" type="way" v="secondary" />
+    <tag id="63046073" k="rcn_ref" o="none" type="way" v="L" />
+    <tag id="63046073" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="63046073" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="63046073" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="63046073" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="66791046" k="name" o="none" type="way" v="South Washington Avenue" />
+    <tag id="66791046" k="horse" o="none" type="way" v="no" />
+    <tag id="66791046" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="66791046" k="highway" o="none" type="way" v="secondary" />
+    <tag id="66791046" k="rcn_ref" o="none" type="way" v="L;Y" />
+    <tag id="66791046" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="66791046" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="66791046" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="66791046" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="66791046" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="66791046" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="66791046" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="66791046" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="144028876" k="name" o="none" type="way" v="Laurel Run" />
+    <tag id="144028876" k="source" o="none" type="way" v="NHD" />
+    <tag id="144028876" k="gnis:id" o="none" type="way" v="1199006" />
+    <tag id="144028876" k="waterway" o="none" type="way" v="stream" />
+    <tag id="144028876" k="gnis:fcode" o="none" type="way" v="46006" />
+    <tag id="144028876" k="gnis:ftype" o="none" type="way" v="StreamRiver" />
+    <tag id="144028876" k="nhd:com_id" o="none" type="way" v="65629723" />
+    <tag id="144028876" k="nhd:reach_code" o="none" type="way" v="02050107000301" />
+    <tag id="144028876" k="gnis:feature_id" o="none" type="way" v="1199006" />
+    <tag id="144044257" k="source" o="none" type="way" v="NHD" />
+    <tag id="144044257" k="natural" o="none" type="way" v="water" />
+    <tag id="144044257" k="gnis:fcode" o="none" type="way" v="39004" />
+    <tag id="144044257" k="gnis:ftype" o="none" type="way" v="LakePond" />
+    <tag id="144044257" k="nhd:com_id" o="none" type="way" v="65644815" />
+    <tag id="144044257" k="nhd:reach_code" o="none" type="way" v="02050107008950" />
+    <tag id="144044285" k="source" o="none" type="way" v="NHD" />
+    <tag id="144044285" k="natural" o="none" type="way" v="water" />
+    <tag id="144044285" k="gnis:fcode" o="none" type="way" v="39004" />
+    <tag id="144044285" k="gnis:ftype" o="none" type="way" v="LakePond" />
+    <tag id="144044285" k="nhd:com_id" o="none" type="way" v="65644853" />
+    <tag id="144044285" k="nhd:reach_code" o="none" type="way" v="02050107008968" />
+    <tag id="144044592" k="source" o="none" type="way" v="NHD" />
+    <tag id="144044592" k="natural" o="none" type="way" v="water" />
+    <tag id="144044592" k="gnis:fcode" o="none" type="way" v="39004" />
+    <tag id="144044592" k="gnis:ftype" o="none" type="way" v="LakePond" />
+    <tag id="144044592" k="nhd:com_id" o="none" type="way" v="65644977" />
+    <tag id="144044592" k="nhd:reach_code" o="none" type="way" v="02050107009026" />
+    <tag id="147952267" k="name" o="none" type="way" v="Salem Street" />
+    <tag id="147952267" k="lanes" o="add" type="way" v="2" />
+    <tag id="147952267" k="oneway" o="add" type="way" v="no" />
+    <tag id="147952267" k="highway" o="none" type="way" v="secondary" />
+    <tag id="147952267" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="147952267" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="147952267" k="ref:penndot" o="add" type="way" v="SR 1012" />
+    <tag id="147952285" k="name" o="none" type="way" v="Salem Road" />
+    <tag id="147952285" k="lanes" o="add" type="way" v="2" />
+    <tag id="147952285" k="oneway" o="add" type="way" v="no" />
+    <tag id="147952285" k="highway" o="none" type="way" v="secondary" />
+    <tag id="147952285" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="147952285" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="147952285" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="147952285" k="ref:penndot" o="add" type="way" v="SR 1012" />
+    <tag id="147952285" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="151952578" k="name" o="none" type="way" v="Delaware Street" />
+    <tag id="151952578" k="horse" o="none" type="way" v="no" />
+    <tag id="151952578" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="151952578" k="highway" o="none" type="way" v="residential" />
+    <tag id="151952578" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="151952578" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="151952578" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="151952578" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="151952578" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="151952578" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="151952578" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="151952578" k="tiger:zip_left_1" o="none" type="way" v="18433" />
+    <tag id="151952578" k="tiger:zip_right_1" o="none" type="way" v="18433" />
+    <tag id="151952579" k="name" o="none" type="way" v="Delaware Street" />
+    <tag id="151952579" k="horse" o="none" type="way" v="no" />
+    <tag id="151952579" k="layer" o="none" type="way" v="1" />
+    <tag id="151952579" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="151952579" k="highway" o="none" type="way" v="residential" />
+    <tag id="151952579" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="151952579" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="151952579" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="151952579" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="151952579" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="151952579" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="151952579" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="151952579" k="tiger:zip_left_1" o="none" type="way" v="18433" />
+    <tag id="151952579" k="tiger:zip_right_1" o="none" type="way" v="18433" />
+    <tag id="151952596" k="ref" o="none" type="way" v="PA 107" />
+    <tag id="151952596" k="name" o="none" type="way" v="Rushbrook Street" />
+    <tag id="151952596" k="highway" o="none" type="way" v="secondary" />
+    <tag id="151952596" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="151952596" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="151952596" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="151952596" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="151952596" k="destination:ref:to:forward" o="add" type="way" v="US 6" />
+    <tag id="151952596" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="151952597" k="ref" o="none" type="way" v="PA 107" />
+    <tag id="151952597" k="name" o="none" type="way" v="Rushbrook Street" />
+    <tag id="151952597" k="layer" o="none" type="way" v="1" />
+    <tag id="151952597" k="bridge" o="none" type="way" v="yes" />
+    <tag id="151952597" k="highway" o="none" type="way" v="secondary" />
+    <tag id="151952597" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="151952597" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="151952597" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="151952597" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="151952597" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="151952597" k="destination:ref:to:forward" o="add" type="way" v="US 6" />
+    <tag id="151952597" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="151952614" k="name" o="none" type="way" v="Winton Road" />
+    <tag id="151952614" k="horse" o="none" type="way" v="no" />
+    <tag id="151952614" k="layer" o="none" type="way" v="1" />
+    <tag id="151952614" k="bridge" o="none" type="way" v="yes" />
+    <tag id="151952614" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="151952614" k="highway" o="none" type="way" v="residential" />
+    <tag id="151952614" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="151952614" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="151952614" k="tiger:zip_left" o="none" type="way" v="18403" />
+    <tag id="151952614" k="tiger:name_base" o="none" type="way" v="Winton" />
+    <tag id="151952614" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="151952614" k="tiger:zip_right" o="none" type="way" v="18434" />
+    <tag id="151952615" k="name" o="none" type="way" v="Winton Road" />
+    <tag id="151952615" k="horse" o="none" type="way" v="no" />
+    <tag id="151952615" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="151952615" k="highway" o="none" type="way" v="residential" />
+    <tag id="151952615" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="151952615" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="151952615" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="151952615" k="tiger:zip_left" o="none" type="way" v="18403" />
+    <tag id="151952615" k="tiger:name_base" o="none" type="way" v="Winton" />
+    <tag id="151952615" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="151952615" k="tiger:zip_right" o="none" type="way" v="18434" />
+    <tag id="171477093" k="NHS" o="none" type="way" v="yes" />
+    <tag id="171477093" k="hgv" o="none" type="way" v="yes" />
+    <tag id="171477093" k="lit" o="add" type="way" v="no" />
+    <tag id="171477093" k="ref" o="none" type="way" v="US 6" />
+    <tag id="171477093" k="foot" o="add" type="way" v="no" />
+    <tag id="171477093" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="171477093" k="horse" o="add" type="way" v="no" />
+    <tag id="171477093" k="lanes" o="none" type="way" v="2" />
+    <tag id="171477093" k="oneway" o="none" type="way" v="yes" />
+    <tag id="171477093" k="bicycle" o="add" type="way" v="no" />
+    <tag id="171477093" k="highway" o="none" type="way" v="motorway" />
+    <tag id="171477093" k="surface" o="add" type="way" v="concrete" />
+    <tag id="171477093" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="171477093" k="maxspeed" o="none" type="way" v="65 mph" />
+    <tag id="171477093" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="231863102" k="amenity" o="add" type="way" v="parking" />
+    <tag id="231863137" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="232241945" k="highway" o="none" type="way" v="service" />
+    <tag id="232241945" k="surface" o="none" type="way" v="gravel" />
+    <tag id="232245007" k="highway" o="none" type="way" v="path" />
+    <tag id="232245007" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="232245009" k="natural" o="none" type="way" v="bare_rock" />
+    <tag id="232245010" k="highway" o="none" type="way" v="path" />
+    <tag id="232245010" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="232245014" k="name" o="none" type="way" v="Mid-Valley Drive" />
+    <tag id="232245014" k="highway" o="none" type="way" v="residential" />
+    <tag id="232245014" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="232245014" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="232245014" k="tiger:zip_left" o="none" type="way" v="18434" />
+    <tag id="232245014" k="tiger:zip_right" o="none" type="way" v="18434" />
+    <tag id="232250534" k="highway" o="none" type="way" v="service" />
+    <tag id="232250535" k="amenity" o="none" type="way" v="parking" />
+    <tag id="232250536" k="highway" o="none" type="way" v="service" />
+    <tag id="232250536" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="233424690" k="amenity" o="add" type="way" v="parking" />
+    <tag id="237428981" k="name" o="none" type="way" v="Keystone Place" />
+    <tag id="237428981" k="highway" o="modify" type="way" v="service" />
+    <tag id="237531887" k="name" o="none" type="way" v="Jessup Youth Sports Complex" />
+    <tag id="237531887" k="leisure" o="none" type="way" v="park" />
+    <tag id="238791820" k="name" o="none" type="way" v="VETERANS MEMORIAL DRIVE" />
+    <tag id="238791820" k="highway" o="none" type="way" v="residential" />
+    <tag id="238791820" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="238791820" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="238791820" k="tiger:name_base" o="none" type="way" v="Senator Bob Mellow" />
+    <tag id="238791820" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="305909273" k="highway" o="none" type="way" v="path" />
+    <tag id="305911214" k="highway" o="none" type="way" v="path" />
+    <tag id="305911257" k="highway" o="none" type="way" v="path" />
+    <tag id="414047391" k="name" o="none" type="way" v="Winton Road" />
+    <tag id="414047391" k="horse" o="none" type="way" v="no" />
+    <tag id="414047391" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="414047391" k="highway" o="none" type="way" v="residential" />
+    <tag id="414047391" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="414047391" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="414047391" k="tiger:zip_left" o="none" type="way" v="18403" />
+    <tag id="414047391" k="tiger:name_base" o="none" type="way" v="Winton" />
+    <tag id="414047391" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="414047391" k="tiger:zip_right" o="none" type="way" v="18434" />
+    <tag id="414047891" k="name" o="none" type="way" v="Gilmartin Street" />
+    <tag id="414047891" k="horse" o="none" type="way" v="no" />
+    <tag id="414047891" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="414047891" k="highway" o="none" type="way" v="residential" />
+    <tag id="414047891" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="414047891" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="414047891" k="tiger:zip_left" o="none" type="way" v="18403" />
+    <tag id="414047891" k="tiger:name_base" o="none" type="way" v="Gilmartin" />
+    <tag id="414047891" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="414047891" k="tiger:zip_right" o="none" type="way" v="18403" />
+    <tag id="414047892" k="name" o="none" type="way" v="Delaware Street" />
+    <tag id="414047892" k="highway" o="none" type="way" v="residential" />
+    <tag id="414047892" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="414047892" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="414047892" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="414047892" k="tiger:name_base" o="none" type="way" v="Delaware" />
+    <tag id="414047892" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="414047892" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="414047892" k="tiger:zip_left_1" o="none" type="way" v="18433" />
+    <tag id="414047892" k="tiger:zip_right_1" o="none" type="way" v="18433" />
+    <tag id="414047894" k="name" o="none" type="way" v="South Washington Avenue" />
+    <tag id="414047894" k="horse" o="none" type="way" v="no" />
+    <tag id="414047894" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="414047894" k="highway" o="none" type="way" v="secondary" />
+    <tag id="414047894" k="rcn_ref" o="none" type="way" v="L" />
+    <tag id="414047894" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="414047894" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="414047894" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="414047894" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="414047894" k="tiger:name_base" o="none" type="way" v="Washington" />
+    <tag id="414047894" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="414047894" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="414047894" k="old_ref_legislative" o="none" type="way" v="648 Extension" />
+    <tag id="414047894" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="414047895" k="name" o="none" type="way" v="Poplar Street" />
+    <tag id="414047895" k="horse" o="none" type="way" v="no" />
+    <tag id="414047895" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="414047895" k="highway" o="none" type="way" v="residential" />
+    <tag id="414047895" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="414047895" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="414047895" k="tiger:zip_left" o="none" type="way" v="18433" />
+    <tag id="414047895" k="tiger:name_base" o="none" type="way" v="Poplar" />
+    <tag id="414047895" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="414047895" k="tiger:zip_right" o="none" type="way" v="18433" />
+    <tag id="416330001" k="name" o="none" type="way" v="South Laurel Street" />
+    <tag id="416330001" k="horse" o="none" type="way" v="no" />
+    <tag id="416330001" k="name_1" o="none" type="way" v="Mount Vernon Road" />
+    <tag id="416330001" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="416330001" k="highway" o="none" type="way" v="residential" />
+    <tag id="416330001" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="416330001" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416330001" k="tiger:name_base" o="none" type="way" v="Laurel" />
+    <tag id="416330001" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416330001" k="tiger:name_base_1" o="none" type="way" v="Mount Vernon" />
+    <tag id="416330001" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="416330001" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="416330002" k="name" o="none" type="way" v="South Laurel Street" />
+    <tag id="416330002" k="horse" o="none" type="way" v="no" />
+    <tag id="416330002" k="layer" o="none" type="way" v="1" />
+    <tag id="416330002" k="bridge" o="none" type="way" v="yes" />
+    <tag id="416330002" k="name_1" o="none" type="way" v="Mount Vernon Road" />
+    <tag id="416330002" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="416330002" k="highway" o="none" type="way" v="residential" />
+    <tag id="416330002" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="416330002" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416330002" k="tiger:name_base" o="none" type="way" v="Laurel" />
+    <tag id="416330002" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416330002" k="tiger:name_base_1" o="none" type="way" v="Mount Vernon" />
+    <tag id="416330002" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="416330002" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="443240287" k="name" o="modify" type="way" v="St. John&#8217;s Russian Orthodox Cathedral" />
+    <tag id="443240287" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="443240287" k="building" o="none" type="way" v="yes" />
+    <tag id="443240287" k="religion" o="none" type="way" v="christian" />
+    <tag id="443240287" k="denomination" o="none" type="way" v="russian_orthodox" />
+    <tag id="448585945" k="lanes" o="add" type="way" v="1" />
+    <tag id="448585945" k="oneway" o="none" type="way" v="yes" />
+    <tag id="448585945" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="448585945" k="surface" o="add" type="way" v="concrete" />
+    <tag id="448585945" k="ref:penndot" o="add" type="way" v="SR 8028" />
+    <tag id="448585945" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="448586195" k="lanes" o="add" type="way" v="1" />
+    <tag id="448586195" k="oneway" o="none" type="way" v="yes" />
+    <tag id="448586195" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="448586195" k="surface" o="add" type="way" v="concrete" />
+    <tag id="448586195" k="destination" o="none" type="way" v="Jessup" />
+    <tag id="448586195" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="448586195" k="destination:ref" o="none" type="way" v="PA 247" />
+    <tag id="448586195" k="maxspeed:advisory" o="none" type="way" v="45 mph" />
+    <tag id="448586195" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="448586400" k="lanes" o="add" type="way" v="1" />
+    <tag id="448586400" k="oneway" o="none" type="way" v="yes" />
+    <tag id="448586400" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="448586400" k="surface" o="add" type="way" v="concrete" />
+    <tag id="448586400" k="destination" o="add" type="way" v="Carbondale" />
+    <tag id="448586400" k="ref:penndot" o="add" type="way" v="SR 8034" />
+    <tag id="448586400" k="destination:ref" o="add" type="way" v="US 6 East" />
+    <tag id="448586400" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="448586401" k="lanes" o="add" type="way" v="1" />
+    <tag id="448586401" k="oneway" o="none" type="way" v="yes" />
+    <tag id="448586401" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="448586401" k="surface" o="add" type="way" v="concrete" />
+    <tag id="448586401" k="destination" o="add" type="way" v="Scranton" />
+    <tag id="448586401" k="ref:penndot" o="add" type="way" v="SR 8034" />
+    <tag id="448586401" k="destination:ref" o="add" type="way" v="US 6 West" />
+    <tag id="448586401" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460098006" k="NHS" o="none" type="way" v="yes" />
+    <tag id="460098006" k="hgv" o="none" type="way" v="yes" />
+    <tag id="460098006" k="lit" o="none" type="way" v="no" />
+    <tag id="460098006" k="ref" o="none" type="way" v="US 6" />
+    <tag id="460098006" k="foot" o="none" type="way" v="no" />
+    <tag id="460098006" k="name" o="none" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460098006" k="horse" o="none" type="way" v="no" />
+    <tag id="460098006" k="lanes" o="none" type="way" v="2" />
+    <tag id="460098006" k="oneway" o="none" type="way" v="yes" />
+    <tag id="460098006" k="bicycle" o="none" type="way" v="no" />
+    <tag id="460098006" k="highway" o="none" type="way" v="motorway" />
+    <tag id="460098006" k="surface" o="none" type="way" v="concrete" />
+    <tag id="460098006" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460098006" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="460098006" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240006" k="name" o="add" type="way" v="Laurel Run" />
+    <tag id="460240006" k="layer" o="add" type="way" v="-1" />
+    <tag id="460240006" k="source" o="add" type="way" v="NHD" />
+    <tag id="460240006" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="460240006" k="gnis:id" o="add" type="way" v="1199006" />
+    <tag id="460240006" k="waterway" o="add" type="way" v="stream" />
+    <tag id="460240006" k="gnis:fcode" o="add" type="way" v="46006" />
+    <tag id="460240006" k="gnis:ftype" o="add" type="way" v="StreamRiver" />
+    <tag id="460240006" k="nhd:com_id" o="add" type="way" v="65629723" />
+    <tag id="460240006" k="nhd:reach_code" o="add" type="way" v="02050107000301" />
+    <tag id="460240006" k="gnis:feature_id" o="add" type="way" v="1199006" />
+    <tag id="460240007" k="name" o="add" type="way" v="Laurel Run" />
+    <tag id="460240007" k="source" o="add" type="way" v="NHD" />
+    <tag id="460240007" k="gnis:id" o="add" type="way" v="1199006" />
+    <tag id="460240007" k="waterway" o="add" type="way" v="stream" />
+    <tag id="460240007" k="gnis:fcode" o="add" type="way" v="46006" />
+    <tag id="460240007" k="gnis:ftype" o="add" type="way" v="StreamRiver" />
+    <tag id="460240007" k="nhd:com_id" o="add" type="way" v="65629723" />
+    <tag id="460240007" k="nhd:reach_code" o="add" type="way" v="02050107000301" />
+    <tag id="460240007" k="gnis:feature_id" o="add" type="way" v="1199006" />
+    <tag id="460240008" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240008" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240008" k="lit" o="add" type="way" v="no" />
+    <tag id="460240008" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240008" k="foot" o="add" type="way" v="no" />
+    <tag id="460240008" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240008" k="horse" o="add" type="way" v="no" />
+    <tag id="460240008" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240008" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240008" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240008" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240008" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240008" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240008" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240008" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240009" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240009" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240009" k="lit" o="add" type="way" v="no" />
+    <tag id="460240009" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240009" k="foot" o="add" type="way" v="no" />
+    <tag id="460240009" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240009" k="horse" o="add" type="way" v="no" />
+    <tag id="460240009" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240009" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240009" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240009" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240009" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240009" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240009" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240009" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240010" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240010" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240010" k="lit" o="add" type="way" v="no" />
+    <tag id="460240010" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240010" k="foot" o="add" type="way" v="no" />
+    <tag id="460240010" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240010" k="horse" o="add" type="way" v="no" />
+    <tag id="460240010" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240010" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240010" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240010" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240010" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240010" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240010" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240010" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240010" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240011" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240011" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240011" k="lit" o="add" type="way" v="no" />
+    <tag id="460240011" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240011" k="foot" o="add" type="way" v="no" />
+    <tag id="460240011" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240011" k="horse" o="add" type="way" v="no" />
+    <tag id="460240011" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240011" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240011" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240011" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240011" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240011" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240011" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240011" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240011" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240011" k="destination:lanes" o="add" type="way" v="||Jermyn;Mayfield" />
+    <tag id="460240011" k="destination:ref:lanes" o="add" type="way" v="||PA 107" />
+    <tag id="460240012" k="name" o="add" type="way" v="Rushbrook Street" />
+    <tag id="460240012" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240012" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240012" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460240012" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240012" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="460240012" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240013" k="ref" o="add" type="way" v="PA 107" />
+    <tag id="460240013" k="name" o="add" type="way" v="Rushbrook Street" />
+    <tag id="460240013" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240013" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240013" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240013" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240013" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="460240013" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240013" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="460240014" k="ref" o="add" type="way" v="PA 107" />
+    <tag id="460240014" k="name" o="add" type="way" v="Rushbrook Street" />
+    <tag id="460240014" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240014" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240014" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240014" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240014" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="460240014" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240014" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240014" k="destination:ref:to:backward" o="add" type="way" v="US 6 Business" />
+    <tag id="460240015" k="barrier" o="add" type="way" v="guard_rail" />
+    <tag id="460240016" k="natural" o="add" type="way" v="water" />
+    <tag id="460240017" k="natural" o="add" type="way" v="water" />
+    <tag id="460240018" k="natural" o="add" type="way" v="water" />
+    <tag id="460240019" k="natural" o="add" type="way" v="water" />
+    <tag id="460240020" k="name" o="add" type="way" v="Chestnut Street" />
+    <tag id="460240020" k="highway" o="add" type="way" v="residential" />
+    <tag id="460240020" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460240020" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460240020" k="tiger:name_base" o="add" type="way" v="Chestnut" />
+    <tag id="460240020" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="460240021" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240021" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240021" k="lit" o="add" type="way" v="no" />
+    <tag id="460240021" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240021" k="foot" o="add" type="way" v="no" />
+    <tag id="460240021" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240021" k="horse" o="add" type="way" v="no" />
+    <tag id="460240021" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240021" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240021" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240021" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240021" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240021" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240021" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240021" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240022" k="access" o="add" type="way" v="no" />
+    <tag id="460240022" k="highway" o="add" type="way" v="service" />
+    <tag id="460240022" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240022" k="emergency" o="add" type="way" v="yes" />
+    <tag id="460240023" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240023" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240023" k="lit" o="add" type="way" v="no" />
+    <tag id="460240023" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240023" k="foot" o="add" type="way" v="no" />
+    <tag id="460240023" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240023" k="horse" o="add" type="way" v="no" />
+    <tag id="460240023" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240023" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240023" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240023" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240023" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240023" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240023" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240023" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240023" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240024" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240024" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240024" k="lit" o="add" type="way" v="no" />
+    <tag id="460240024" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240024" k="foot" o="add" type="way" v="no" />
+    <tag id="460240024" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240024" k="horse" o="add" type="way" v="no" />
+    <tag id="460240024" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240024" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240024" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240024" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240024" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240024" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240024" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240024" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240024" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240024" k="destination:lanes" o="add" type="way" v="||Archibald;Cortez" />
+    <tag id="460240024" k="destination:street:lanes" o="add" type="way" v="||Salem Road" />
+    <tag id="460240025" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240025" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240025" k="lit" o="add" type="way" v="no" />
+    <tag id="460240025" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240025" k="foot" o="add" type="way" v="no" />
+    <tag id="460240025" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240025" k="horse" o="add" type="way" v="no" />
+    <tag id="460240025" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240025" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240025" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240025" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240025" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240025" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240025" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240025" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240025" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240025" k="destination:lanes" o="add" type="way" v="||Archibald;Cortez" />
+    <tag id="460240025" k="destination:street:lanes" o="add" type="way" v="||Salem Road" />
+    <tag id="460240026" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240026" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240026" k="lit" o="add" type="way" v="no" />
+    <tag id="460240026" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240026" k="foot" o="add" type="way" v="no" />
+    <tag id="460240026" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240026" k="horse" o="add" type="way" v="no" />
+    <tag id="460240026" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240026" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240026" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240026" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240026" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240026" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240026" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240026" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240026" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240027" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240027" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240027" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240027" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240027" k="destination" o="add" type="way" v="Archibald;Cortez" />
+    <tag id="460240027" k="ref:penndot" o="add" type="way" v="SR 8032" />
+    <tag id="460240027" k="maxspeed:advisory" o="add" type="way" v="25 mph" />
+    <tag id="460240027" k="destination:street" o="add" type="way" v="Salem Road" />
+    <tag id="460240027" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240028" k="name" o="add" type="way" v="Salem Road" />
+    <tag id="460240028" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240028" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240028" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240028" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240028" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="460240028" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240028" k="ref:penndot" o="add" type="way" v="SR 1012" />
+    <tag id="460240028" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240029" k="name" o="add" type="way" v="Salem Road" />
+    <tag id="460240029" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240029" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240029" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240029" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240029" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="460240029" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240029" k="ref:penndot" o="add" type="way" v="SR 1012" />
+    <tag id="460240029" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240030" k="name" o="add" type="way" v="Salem Road" />
+    <tag id="460240030" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240030" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240030" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240030" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240030" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="460240030" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240030" k="ref:penndot" o="add" type="way" v="SR 1012" />
+    <tag id="460240030" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="460240030" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="460240030" k="turn:lanes:backward" o="add" type="way" v="left|through" />
+    <tag id="460240030" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240031" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240031" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240031" k="lit" o="add" type="way" v="no" />
+    <tag id="460240031" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240031" k="foot" o="add" type="way" v="no" />
+    <tag id="460240031" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240031" k="horse" o="add" type="way" v="no" />
+    <tag id="460240031" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240031" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240031" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240031" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240031" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240031" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240031" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240031" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240032" k="name" o="add" type="way" v="Power Boulevard" />
+    <tag id="460240032" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240032" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240032" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460240032" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240033" k="name" o="add" type="way" v="Power Boulevard" />
+    <tag id="460240033" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240033" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240033" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460240033" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240034" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240034" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240034" k="highway" o="add" type="way" v="service" />
+    <tag id="460240034" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240035" k="highway" o="add" type="way" v="residential" />
+    <tag id="460240035" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460240035" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460240036" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240036" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240036" k="lit" o="add" type="way" v="no" />
+    <tag id="460240036" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240036" k="foot" o="add" type="way" v="no" />
+    <tag id="460240036" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240036" k="horse" o="add" type="way" v="no" />
+    <tag id="460240036" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240036" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240036" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240036" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240036" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240036" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240036" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240036" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240037" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240037" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240037" k="lit" o="add" type="way" v="no" />
+    <tag id="460240037" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240037" k="foot" o="add" type="way" v="no" />
+    <tag id="460240037" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240037" k="horse" o="add" type="way" v="no" />
+    <tag id="460240037" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240037" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240037" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240037" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240037" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240037" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240037" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240037" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240037" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240037" k="destination:lanes" o="add" type="way" v="||Jessup" />
+    <tag id="460240037" k="destination:ref:lanes" o="add" type="way" v="||PA 247" />
+    <tag id="460240038" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240038" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240038" k="lit" o="add" type="way" v="no" />
+    <tag id="460240038" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240038" k="foot" o="add" type="way" v="no" />
+    <tag id="460240038" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240038" k="horse" o="add" type="way" v="no" />
+    <tag id="460240038" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240038" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240038" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240038" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240038" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240038" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240038" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240038" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240038" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240039" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240039" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240039" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240039" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240039" k="destination" o="add" type="way" v="Scranton" />
+    <tag id="460240039" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="460240039" k="destination:ref" o="add" type="way" v="US 6 West" />
+    <tag id="460240039" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240040" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240040" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240040" k="lit" o="add" type="way" v="no" />
+    <tag id="460240040" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240040" k="foot" o="add" type="way" v="no" />
+    <tag id="460240040" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240040" k="horse" o="add" type="way" v="no" />
+    <tag id="460240040" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240040" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240040" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240040" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240040" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240040" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240040" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240040" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240040" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240040" k="destination:lanes" o="add" type="way" v="||Jessup" />
+    <tag id="460240040" k="destination:ref:lanes" o="add" type="way" v="||PA 247" />
+    <tag id="460240041" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240041" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240041" k="lit" o="add" type="way" v="no" />
+    <tag id="460240041" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240041" k="foot" o="add" type="way" v="no" />
+    <tag id="460240041" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240041" k="horse" o="add" type="way" v="no" />
+    <tag id="460240041" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240041" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240041" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240041" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240041" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240041" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240041" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240041" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240041" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240042" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240042" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240042" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240042" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240042" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240042" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240042" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240042" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240042" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240042" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240042" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240042" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240043" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240043" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240043" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240043" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240043" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240043" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240043" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240043" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240043" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240043" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240043" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240043" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240044" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240044" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240044" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240044" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240044" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240044" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240044" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240044" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240044" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240044" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240044" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240044" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240045" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240045" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240045" k="lanes" o="add" type="way" v="4" />
+    <tag id="460240045" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240045" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240045" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240045" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240045" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240045" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240045" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240045" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="460240045" k="turn:lanes:forward" o="add" type="way" v="none|merge_to_left" />
+    <tag id="460240045" k="turn:lanes:backward" o="add" type="way" v="left|through;right" />
+    <tag id="460240045" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240046" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240046" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240046" k="lanes" o="add" type="way" v="4" />
+    <tag id="460240046" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240046" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240046" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240046" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240046" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240046" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240046" k="lanes:forward" o="add" type="way" v="3" />
+    <tag id="460240046" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240046" k="turn:lanes:forward" o="add" type="way" v="left|through|through;right" />
+    <tag id="460240046" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240047" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240047" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240047" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240047" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240047" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240047" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240047" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240047" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240047" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240047" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240048" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240048" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240048" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240048" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240048" k="turn:lanes" o="add" type="way" v="left;through|right" />
+    <tag id="460240048" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="460240048" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240049" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240049" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240049" k="lanes" o="add" type="way" v="4" />
+    <tag id="460240049" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240049" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240049" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240049" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240049" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240049" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240049" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240049" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="460240049" k="turn:lanes:backward" o="add" type="way" v="left|through" />
+    <tag id="460240049" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240050" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240050" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240050" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240050" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240050" k="turn:lanes" o="add" type="way" v="left|left;through" />
+    <tag id="460240050" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="460240050" k="maxspeed:advisory" o="add" type="way" v="45 mph" />
+    <tag id="460240050" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240051" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240051" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240051" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240051" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240051" k="turn:lanes" o="add" type="way" v="left|left;through|right" />
+    <tag id="460240051" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="460240051" k="maxspeed:advisory" o="add" type="way" v="45 mph" />
+    <tag id="460240051" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240052" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240052" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240052" k="lit" o="add" type="way" v="no" />
+    <tag id="460240052" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240052" k="foot" o="add" type="way" v="no" />
+    <tag id="460240052" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240052" k="horse" o="add" type="way" v="no" />
+    <tag id="460240052" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240052" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240052" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240052" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240052" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240052" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240052" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240052" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240052" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240052" k="destination:lanes" o="add" type="way" v="||Olyphant" />
+    <tag id="460240052" k="destination:street:lanes" o="add" type="way" v="||East Lackawanna Avenue" />
+    <tag id="460240053" k="highway" o="add" type="way" v="escape" />
+    <tag id="460240053" k="surface" o="add" type="way" v="gravel" />
+    <tag id="460240053" k="ref:penndot" o="add" type="way" v="SR 9301" />
+    <tag id="460240053" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240054" k="turn" o="add" type="way" v="right" />
+    <tag id="460240054" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240054" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240054" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240054" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240054" k="ref:penndot" o="add" type="way" v="SR 8030" />
+    <tag id="460240054" k="maxspeed:advisory" o="add" type="way" v="45 mph" />
+    <tag id="460240054" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240055" k="ref" o="add" type="way" v="PA 247" />
+    <tag id="460240055" k="name" o="add" type="way" v="Moosic Lake Road" />
+    <tag id="460240055" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240055" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240055" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460240055" k="rcn_ref" o="add" type="way" v="L" />
+    <tag id="460240055" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240055" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240055" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="460240055" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="460240055" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460240055" k="maxspeed:hgv:forward" o="add" type="way" v="20 mph" />
+    <tag id="460240056" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240056" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240056" k="lit" o="add" type="way" v="no" />
+    <tag id="460240056" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240056" k="foot" o="add" type="way" v="no" />
+    <tag id="460240056" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240056" k="horse" o="add" type="way" v="no" />
+    <tag id="460240056" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240056" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240056" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240056" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240056" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240056" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240056" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240056" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240056" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240056" k="destination:lanes" o="add" type="way" v="||Olyphant" />
+    <tag id="460240056" k="destination:street:lanes" o="add" type="way" v="||East Lackawanna Avenue" />
+    <tag id="460240057" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240057" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240057" k="lit" o="add" type="way" v="no" />
+    <tag id="460240057" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240057" k="foot" o="add" type="way" v="no" />
+    <tag id="460240057" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240057" k="horse" o="add" type="way" v="no" />
+    <tag id="460240057" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240057" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240057" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240057" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240057" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240057" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240057" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240057" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240058" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240058" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240058" k="lit" o="add" type="way" v="no" />
+    <tag id="460240058" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240058" k="foot" o="add" type="way" v="no" />
+    <tag id="460240058" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240058" k="horse" o="add" type="way" v="no" />
+    <tag id="460240058" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240058" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240058" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240058" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240058" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240058" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240058" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240058" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240059" k="name" o="add" type="way" v="East Lackawanna Avenue" />
+    <tag id="460240059" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240059" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240059" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240059" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240059" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="460240060" k="name" o="add" type="way" v="East Lackawanna Avenue" />
+    <tag id="460240060" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240060" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240060" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240060" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240060" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="460240061" k="name" o="add" type="way" v="East Lackawanna Avenue" />
+    <tag id="460240061" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240061" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240061" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460240061" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240061" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="460240062" k="name" o="add" type="way" v="East Lackawanna Avenue" />
+    <tag id="460240062" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240062" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240062" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240062" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240062" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="460240063" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240063" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240063" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240063" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240063" k="turn:lanes" o="add" type="way" v="left|right" />
+    <tag id="460240063" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240063" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240064" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240064" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240064" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240064" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240064" k="turn:lanes" o="add" type="way" v="left|right" />
+    <tag id="460240064" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240064" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240065" k="name" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240065" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240065" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240065" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240065" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240065" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240065" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240065" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240065" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240065" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="460240065" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240066" k="name" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240066" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240066" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240066" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240066" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240066" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240066" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240066" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240066" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240066" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="460240066" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240067" k="name" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240067" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240067" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240067" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240067" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240067" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240067" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240067" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240067" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240067" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="460240067" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240068" k="name" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240068" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240068" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240068" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240068" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240068" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240068" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240068" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240069" k="name" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240069" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240069" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240069" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240069" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240069" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240069" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240069" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460240069" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460240069" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="460240069" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240070" k="name" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240070" k="lanes" o="add" type="way" v="2" />
+    <tag id="460240070" k="oneway" o="add" type="way" v="no" />
+    <tag id="460240070" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240070" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460240070" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="460240070" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240070" k="maxspeed:hgv:backward" o="add" type="way" v="20 mph" />
+    <tag id="460240071" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240071" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240071" k="lit" o="add" type="way" v="no" />
+    <tag id="460240071" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240071" k="foot" o="add" type="way" v="no" />
+    <tag id="460240071" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240071" k="horse" o="add" type="way" v="no" />
+    <tag id="460240071" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240071" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240071" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240071" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240071" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240071" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240071" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240071" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240071" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240071" k="destination:lanes" o="add" type="way" v="||Mount Cobb;Throop" />
+    <tag id="460240071" k="destination:street:lanes" o="add" type="way" v="||Marshwood Road" />
+    <tag id="460240073" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240073" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240073" k="lit" o="add" type="way" v="no" />
+    <tag id="460240073" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240073" k="foot" o="add" type="way" v="no" />
+    <tag id="460240073" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240073" k="horse" o="add" type="way" v="no" />
+    <tag id="460240073" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240073" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240073" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240073" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240073" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240073" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240073" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240073" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240073" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240074" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240074" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240074" k="lit" o="add" type="way" v="no" />
+    <tag id="460240074" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240074" k="foot" o="add" type="way" v="no" />
+    <tag id="460240074" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240074" k="horse" o="add" type="way" v="no" />
+    <tag id="460240074" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240074" k="layer" o="add" type="way" v="1" />
+    <tag id="460240074" k="bridge" o="add" type="way" v="yes" />
+    <tag id="460240074" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240074" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240074" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240074" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240074" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240074" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240074" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240074" k="turn:lanes" o="add" type="way" v="none|none|merge_to_left" />
+    <tag id="460240075" k="NHS" o="add" type="way" v="yes" />
+    <tag id="460240075" k="hgv" o="add" type="way" v="yes" />
+    <tag id="460240075" k="lit" o="add" type="way" v="no" />
+    <tag id="460240075" k="ref" o="add" type="way" v="US 6" />
+    <tag id="460240075" k="foot" o="add" type="way" v="no" />
+    <tag id="460240075" k="name" o="add" type="way" v="Governor Robert P. Casey Highway" />
+    <tag id="460240075" k="horse" o="add" type="way" v="no" />
+    <tag id="460240075" k="lanes" o="add" type="way" v="3" />
+    <tag id="460240075" k="layer" o="add" type="way" v="1" />
+    <tag id="460240075" k="bridge" o="add" type="way" v="yes" />
+    <tag id="460240075" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240075" k="bicycle" o="add" type="way" v="no" />
+    <tag id="460240075" k="highway" o="add" type="way" v="motorway" />
+    <tag id="460240075" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240075" k="alt_name" o="add" type="way" v="Lackawanna Valley Industrial Highway" />
+    <tag id="460240075" k="maxspeed" o="add" type="way" v="65 mph" />
+    <tag id="460240075" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="460240075" k="turn:lanes" o="add" type="way" v="through|through|slight_right" />
+    <tag id="460240075" k="destination:lanes" o="add" type="way" v="||Mount Cobb;Throop" />
+    <tag id="460240075" k="destination:street:lanes" o="add" type="way" v="||Marshwood Road" />
+    <tag id="460240076" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240076" k="layer" o="add" type="way" v="1" />
+    <tag id="460240076" k="bridge" o="add" type="way" v="yes" />
+    <tag id="460240076" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240076" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240076" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240076" k="destination" o="add" type="way" v="Scranton" />
+    <tag id="460240076" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240076" k="destination:ref" o="add" type="way" v="US 6 East" />
+    <tag id="460240076" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240077" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240077" k="layer" o="add" type="way" v="1" />
+    <tag id="460240077" k="bridge" o="add" type="way" v="yes" />
+    <tag id="460240077" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240077" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240077" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240077" k="destination" o="add" type="way" v="Mount Cobb;Throop" />
+    <tag id="460240077" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240077" k="maxspeed:advisory" o="add" type="way" v="25 mph" />
+    <tag id="460240077" k="destination:street" o="add" type="way" v="Marshwood Road" />
+    <tag id="460240077" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240078" k="turn" o="add" type="way" v="left" />
+    <tag id="460240078" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240078" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240078" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240078" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240078" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240078" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240079" k="turn" o="add" type="way" v="left" />
+    <tag id="460240079" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240079" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240079" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240079" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240079" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240079" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240080" k="turn" o="add" type="way" v="right" />
+    <tag id="460240080" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240080" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240080" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240080" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240080" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240080" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240081" k="turn" o="add" type="way" v="right" />
+    <tag id="460240081" k="lanes" o="add" type="way" v="1" />
+    <tag id="460240081" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460240081" k="highway" o="add" type="way" v="motorway_link" />
+    <tag id="460240081" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460240081" k="ref:penndot" o="add" type="way" v="SR 8026" />
+    <tag id="460240081" k="source:ref:penndot" o="add" type="way" v="PennDOT Internet Traffic Monitoring System (http://www.dot7.state.pa.us/itms/main.htm)" />
+    <tag id="460240082" k="name" o="add" type="way" v="Sanderson Street" />
+    <tag id="460240082" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460240082" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460240082" k="ref:penndot" o="add" type="way" v="SR 2008" />
+    <tag id="460240082" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460240082" k="tiger:zip_left" o="add" type="way" v="18512" />
+    <tag id="460240082" k="tiger:name_base" o="add" type="way" v="Sanderson" />
+    <tag id="460240082" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="183720" k="ref" o="none" type="relation" v="247" />
+    <tag id="183720" k="url" o="none" type="relation" v="http://en.wikipedia.org/wiki/Pennsylvania_Route_247" />
+    <tag id="183720" k="type" o="none" type="relation" v="route" />
+    <tag id="183720" k="is_in" o="none" type="relation" v="PA" />
+    <tag id="183720" k="route" o="none" type="relation" v="road" />
+    <tag id="183720" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/0/02/PA-247.svg" />
+    <tag id="183720" k="network" o="none" type="relation" v="US:PA" />
+    <tag id="183727" k="ref" o="none" type="relation" v="107" />
+    <tag id="183727" k="url" o="none" type="relation" v="http://en.wikipedia.org/wiki/Pennsylvania_Route_107" />
+    <tag id="183727" k="type" o="none" type="relation" v="route" />
+    <tag id="183727" k="is_in" o="none" type="relation" v="PA" />
+    <tag id="183727" k="route" o="none" type="relation" v="road" />
+    <tag id="183727" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/d/d6/PA-107.svg" />
+    <tag id="183727" k="network" o="none" type="relation" v="US:PA" />
+    <tag id="443940" k="ref" o="none" type="relation" v="6" />
+    <tag id="443940" k="name" o="none" type="relation" v="US 6 (PA)" />
+    <tag id="443940" k="type" o="none" type="relation" v="route" />
+    <tag id="443940" k="route" o="none" type="relation" v="road" />
+    <tag id="443940" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/e/ef/US_6.svg" />
+    <tag id="443940" k="network" o="none" type="relation" v="US:US" />
+    <tag id="443940" k="wikidata" o="none" type="relation" v="Q934625" />
+    <tag id="443940" k="wikipedia" o="none" type="relation" v="en:U.S. Route 6 in Pennsylvania" />
+    <tag id="443940" k="is_in:state" o="none" type="relation" v="PA" />
+    <tag id="1066194" k="ref" o="none" type="relation" v="L" />
+    <tag id="1066194" k="name" o="none" type="relation" v="BicyclePA Route L" />
+    <tag id="1066194" k="type" o="none" type="relation" v="route" />
+    <tag id="1066194" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1066194" k="network" o="none" type="relation" v="rcn" />
+    <tag id="1066194" k="cycle_network" o="none" type="relation" v="US:PA" />
+    <tag id="6799468" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799468" k="distance" o="add" type="relation" v="2.75 mi" />
+    <tag id="6799468" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799468" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799468" k="destination" o="add" type="relation" v="Meredith Street" />
+    <tag id="6799468" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799469" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799469" k="distance" o="add" type="relation" v="1.5 mi" />
+    <tag id="6799469" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799469" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799469" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799469" k="destination:ref" o="add" type="relation" v="PA 107" />
+    <tag id="6799470" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799470" k="distance" o="add" type="relation" v="5.25 mi" />
+    <tag id="6799470" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799470" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799470" k="destination" o="add" type="relation" v="East Lackawanna Avenue" />
+    <tag id="6799470" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799471" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799471" k="distance" o="add" type="relation" v="3.75 mi" />
+    <tag id="6799471" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799471" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799471" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799471" k="destination:ref" o="add" type="relation" v="PA 247" />
+    <tag id="6799472" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799472" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799472" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799472" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799472" k="destination" o="add" type="relation" v="Salem Road" />
+    <tag id="6799472" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799473" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799473" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799473" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799473" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799473" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799473" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799474" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799474" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799474" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799474" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799474" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799474" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799475" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799475" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799475" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799475" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799475" k="destination" o="add" type="relation" v="Jermyn;Mayfield" />
+    <tag id="6799475" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799475" k="destination:ref" o="add" type="relation" v="PA 107 West" />
+    <tag id="6799475" k="destination:ref:to" o="add" type="relation" v="US 6 Business" />
+    <tag id="6799476" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799476" k="distance" o="add" type="relation" v="5 mi" />
+    <tag id="6799476" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799476" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799476" k="destination" o="add" type="relation" v="Meredith Street" />
+    <tag id="6799476" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799477" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799477" k="distance" o="add" type="relation" v="4 mi" />
+    <tag id="6799477" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799477" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799477" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799477" k="destination:ref" o="add" type="relation" v="PA 107" />
+    <tag id="6799478" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799478" k="distance" o="add" type="relation" v="1.5 mi" />
+    <tag id="6799478" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799478" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799478" k="destination" o="add" type="relation" v="Salem Road" />
+    <tag id="6799478" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799479" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799479" k="distance" o="add" type="relation" v="4 mi" />
+    <tag id="6799479" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799479" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799479" k="destination" o="add" type="relation" v="Marshwood Road" />
+    <tag id="6799479" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799480" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799480" k="distance" o="add" type="relation" v="3 mi" />
+    <tag id="6799480" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799480" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799480" k="destination" o="add" type="relation" v="East Lackawanna Avenue" />
+    <tag id="6799480" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799481" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799481" k="distance" o="add" type="relation" v="1.5 mi" />
+    <tag id="6799481" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799481" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799481" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799481" k="destination:ref" o="add" type="relation" v="PA 247" />
+    <tag id="6799482" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799482" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799482" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799482" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799482" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799482" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799483" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799483" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799483" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799483" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799483" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799483" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799484" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799484" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799484" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799484" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799484" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799484" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799485" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799485" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799485" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799485" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799485" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799485" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799486" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799486" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799486" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799486" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799486" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799486" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799487" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799487" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799487" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799487" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799487" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799487" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799488" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799488" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799488" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799488" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799488" k="destination" o="add" type="relation" v="Archibald" />
+    <tag id="6799488" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799489" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799489" k="distance" o="add" type="relation" v="4 mi" />
+    <tag id="6799489" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799489" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799489" k="destination" o="add" type="relation" v="Cortez" />
+    <tag id="6799489" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799490" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799490" k="distance" o="add" type="relation" v="2 mi" />
+    <tag id="6799490" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799490" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799490" k="destination" o="add" type="relation" v="Marshwood Road" />
+    <tag id="6799490" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799491" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799491" k="distance" o="add" type="relation" v="0.75 mi" />
+    <tag id="6799491" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799491" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799491" k="destination" o="add" type="relation" v="East Lackawanna Avenue" />
+    <tag id="6799491" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799492" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799492" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799492" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799492" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799492" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799492" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799493" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799493" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799493" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799493" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799493" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799493" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799494" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799494" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799494" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799494" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799494" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799494" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799495" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799495" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799495" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799495" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799495" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799495" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799496" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799496" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799496" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799496" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799496" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799496" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799497" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799497" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799497" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799497" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799497" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799497" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799498" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799498" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799498" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799498" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799498" k="destination" o="add" type="relation" v="Jessup" />
+    <tag id="6799498" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799498" k="destination:ref" o="add" type="relation" v="PA 247 North" />
+    <tag id="6799499" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799499" k="distance" o="add" type="relation" v="6 mi" />
+    <tag id="6799499" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799499" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799499" k="destination" o="add" type="relation" v="Mount Cobb" />
+    <tag id="6799499" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799499" k="destination:ref" o="add" type="relation" v="PA 247 South" />
+    <tag id="6799500" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799500" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6799501" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799501" k="restriction" o="add" type="relation" v="only_right_turn" />
+    <tag id="6799502" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799502" k="distance" o="add" type="relation" v="6 mi" />
+    <tag id="6799502" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799502" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799502" k="destination" o="add" type="relation" v="Mount Cobb" />
+    <tag id="6799502" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799502" k="destination:ref" o="add" type="relation" v="PA 247 South" />
+    <tag id="6799503" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799503" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799503" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799503" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799503" k="destination" o="add" type="relation" v="Jessup" />
+    <tag id="6799503" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799503" k="destination:ref" o="add" type="relation" v="PA 247 North" />
+    <tag id="6799504" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799504" k="distance" o="add" type="relation" v="4.75 mi" />
+    <tag id="6799504" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799504" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799504" k="destination" o="add" type="relation" v="Salem Road" />
+    <tag id="6799504" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799505" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799505" k="distance" o="add" type="relation" v="1.75 mi" />
+    <tag id="6799505" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799505" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799505" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799505" k="destination:ref" o="add" type="relation" v="PA 247" />
+    <tag id="6799506" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799506" k="distance" o="add" type="relation" v="0.5 mi" />
+    <tag id="6799506" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799506" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799506" k="destination" o="add" type="relation" v="East Lackawanna Avenue" />
+    <tag id="6799506" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799507" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799507" k="distance" o="add" type="relation" v="4.5 mi" />
+    <tag id="6799507" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799507" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799507" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799507" k="destination:ref" o="add" type="relation" v="PA 247" />
+    <tag id="6799508" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799508" k="distance" o="add" type="relation" v="3.25 mi" />
+    <tag id="6799508" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799508" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799508" k="destination" o="add" type="relation" v="East Lackawanna Avenue" />
+    <tag id="6799508" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799509" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799509" k="distance" o="add" type="relation" v="2 mi" />
+    <tag id="6799509" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799509" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799509" k="destination" o="add" type="relation" v="Marshwood Road" />
+    <tag id="6799509" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799510" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799510" k="distance" o="add" type="relation" v="6 mi" />
+    <tag id="6799510" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799510" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799510" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799510" k="destination:ref" o="add" type="relation" v="PA 107" />
+    <tag id="6799511" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799511" k="distance" o="add" type="relation" v="3.5 mi" />
+    <tag id="6799511" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799511" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799511" k="destination" o="add" type="relation" v="Salem Road" />
+    <tag id="6799511" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799512" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799512" k="distance" o="add" type="relation" v="0.5 mi" />
+    <tag id="6799512" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799512" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799512" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799512" k="destination:ref" o="add" type="relation" v="PA 247" />
+    <tag id="6799513" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799513" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799513" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799513" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799513" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799513" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799514" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799514" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6799515" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799515" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6799516" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799516" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799516" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799516" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799516" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799516" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799517" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799517" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799517" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799517" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799517" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799517" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799518" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799518" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799518" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799518" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799518" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799518" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799519" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799519" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799519" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799519" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799519" k="destination" o="add" type="relation" v="Olyphant" />
+    <tag id="6799519" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799520" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799520" k="distance" o="add" type="relation" v="1 mi" />
+    <tag id="6799520" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799520" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799520" k="destination" o="add" type="relation" v="Olyphant" />
+    <tag id="6799520" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799521" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799521" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799521" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799521" k="destination" o="add" type="relation" v="Dunmore" />
+    <tag id="6799521" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799521" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799522" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799522" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799522" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799522" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799522" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799522" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799523" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799523" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799523" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799523" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799523" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799523" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799524" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799524" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799524" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799524" k="destination" o="add" type="relation" v="Carbondale" />
+    <tag id="6799524" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799524" k="destination:ref" o="add" type="relation" v="US 6 West" />
+    <tag id="6799525" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799525" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799525" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799525" k="destination" o="add" type="relation" v="Scranton" />
+    <tag id="6799525" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799525" k="destination:ref" o="add" type="relation" v="US 6 East" />
+    <tag id="6799526" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799526" k="distance" o="add" type="relation" v="2 mi" />
+    <tag id="6799526" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799526" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799526" k="destination" o="add" type="relation" v="Throop" />
+    <tag id="6799526" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799527" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799527" k="distance" o="add" type="relation" v="5 mi" />
+    <tag id="6799527" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799527" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799527" k="destination" o="add" type="relation" v="Mount Cobb" />
+    <tag id="6799527" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799528" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799528" k="distance" o="add" type="relation" v="2 mi" />
+    <tag id="6799528" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799528" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799528" k="destination" o="add" type="relation" v="Throop" />
+    <tag id="6799528" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799529" k="type" o="add" type="relation" v="destination_sign" />
+    <tag id="6799529" k="distance" o="add" type="relation" v="5 mi" />
+    <tag id="6799529" k="colour:back" o="add" type="relation" v="green" />
+    <tag id="6799529" k="colour:text" o="add" type="relation" v="white" />
+    <tag id="6799529" k="destination" o="add" type="relation" v="Mount Cobb" />
+    <tag id="6799529" k="colour:arrow" o="add" type="relation" v="white" />
+    <tag id="6799530" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799530" k="restriction" o="add" type="relation" v="only_right_turn" />
+    <tag id="6799531" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799531" k="restriction" o="add" type="relation" v="only_left_turn" />
+    <tag id="6799532" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799532" k="restriction" o="add" type="relation" v="only_left_turn" />
+    <tag id="6799533" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6799533" k="restriction" o="add" type="relation" v="only_right_turn" />
+  </body>
+</changeset>

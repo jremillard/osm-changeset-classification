@@ -1,0 +1,938 @@
+<changeset id="44691601" schema="2">
+  <counts nodesAdded="322" nodesDeleted="107" nodesModified="3" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="62" waysDeleted="5" waysModified="59" />
+  <meta>
+    <tag k="comment" v="Bay Circuit Trail validation and fixing polygons and adding amenities and aligning landuse polygons" />
+    <tag k="source" v="MA treeless; survey" />
+  </meta>
+  <body>
+    <tag id="66377191" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66377191" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66380184" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66380184" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66380591" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66380591" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66380968" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66380968" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66381515" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66381515" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66382911" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66382911" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66383135" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66383135" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66383930" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66383930" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66389665" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66389665" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66390894" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66390894" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66391550" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66391550" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66392089" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66392089" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66393626" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66393626" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66395287" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66395287" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66397093" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66397093" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66397973" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66397973" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66399031" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66399031" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66400436" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66400436" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66402797" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66402797" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66403156" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66403156" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66404724" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66404724" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66405193" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66405193" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66406663" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66406663" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66406856" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66406856" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66408008" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66408008" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66409065" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66409065" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66414468" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66414468" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66414653" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66414653" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="66415810" k="source" o="none" type="node" v="massgis_import_v0.1_20071009090906" />
+    <tag id="66415810" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="69119357" k="source" o="none" type="node" v="massgis_import_v0.1_20071009094103" />
+    <tag id="69119357" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="69152325" k="source" o="none" type="node" v="massgis_import_v0.1_20071009094103" />
+    <tag id="69152325" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="69152325" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="69178448" k="source" o="none" type="node" v="massgis_import_v0.1_20071009094103" />
+    <tag id="69178448" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="69178448" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="75212909" k="source" o="none" type="node" v="massgis_import_v0.1_20071009093150" />
+    <tag id="75212909" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="75216483" k="source" o="none" type="node" v="massgis_import_v0.1_20071009093150" />
+    <tag id="75216483" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="75224323" k="source" o="none" type="node" v="massgis_import_v0.1_20071009093150" />
+    <tag id="75224323" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="570296345" k="name" o="none" type="node" v="8" />
+    <tag id="570296345" k="junction" o="none" type="node" v="yes" />
+    <tag id="571268604" k="name" o="none" type="node" v="6" />
+    <tag id="571268604" k="junction" o="none" type="node" v="yes" />
+    <tag id="571271437" k="name" o="none" type="node" v="23" />
+    <tag id="571271437" k="junction" o="none" type="node" v="yes" />
+    <tag id="571523831" k="name" o="none" type="node" v="8A" />
+    <tag id="571523831" k="junction" o="none" type="node" v="yes" />
+    <tag id="571525588" k="name" o="none" type="node" v="7" />
+    <tag id="571525588" k="junction" o="none" type="node" v="yes" />
+    <tag id="571525656" k="name" o="none" type="node" v="Noon Hill Lookout" />
+    <tag id="571525656" k="tourism" o="none" type="node" v="viewpoint" />
+    <tag id="1455014230" k="highway" o="add" type="node" v="crossing" />
+    <tag id="9033754" k="ref" o="none" type="way" v="MA 27" />
+    <tag id="9033754" k="name" o="none" type="way" v="High Street" />
+    <tag id="9033754" k="lanes" o="none" type="way" v="2" />
+    <tag id="9033754" k="width" o="none" type="way" v="15.2" />
+    <tag id="9033754" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="9033754" k="highway" o="none" type="way" v="secondary" />
+    <tag id="9033754" k="condition" o="none" type="way" v="good" />
+    <tag id="9033754" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9033754" k="massgis:way_id" o="none" type="way" v="178379" />
+    <tag id="9033777" k="name" o="none" type="way" v="South Street" />
+    <tag id="9033777" k="lanes" o="none" type="way" v="2" />
+    <tag id="9033777" k="width" o="none" type="way" v="10.7" />
+    <tag id="9033777" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="9033777" k="highway" o="none" type="way" v="secondary" />
+    <tag id="9033777" k="condition" o="none" type="way" v="fair" />
+    <tag id="9033777" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9033777" k="massgis:way_id" o="none" type="way" v="118844" />
+    <tag id="9033811" k="name" o="none" type="way" v="Granite Street" />
+    <tag id="9033811" k="lanes" o="none" type="way" v="2" />
+    <tag id="9033811" k="width" o="none" type="way" v="15.2" />
+    <tag id="9033811" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="9033811" k="highway" o="none" type="way" v="residential" />
+    <tag id="9033811" k="condition" o="none" type="way" v="fair" />
+    <tag id="9033811" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9033811" k="massgis:way_id" o="none" type="way" v="182607" />
+    <tag id="9033827" k="name" o="none" type="way" v="Noon Hill Street" />
+    <tag id="9033827" k="lanes" o="none" type="way" v="1" />
+    <tag id="9033827" k="width" o="none" type="way" v="9.1" />
+    <tag id="9033827" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="9033827" k="highway" o="none" type="way" v="residential" />
+    <tag id="9033827" k="condition" o="none" type="way" v="fair" />
+    <tag id="9033827" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9033827" k="massgis:way_id" o="none" type="way" v="206416" />
+    <tag id="9033846" k="name" o="none" type="way" v="Elm Street" />
+    <tag id="9033846" k="lanes" o="none" type="way" v="2" />
+    <tag id="9033846" k="width" o="none" type="way" v="18.3" />
+    <tag id="9033846" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="9033846" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9033846" k="condition" o="none" type="way" v="fair" />
+    <tag id="9033846" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9033846" k="massgis:way_id" o="none" type="way" v="197863" />
+    <tag id="9033871" k="name" o="none" type="way" v="Granite Street" />
+    <tag id="9033871" k="lanes" o="none" type="way" v="2" />
+    <tag id="9033871" k="width" o="none" type="way" v="12.2" />
+    <tag id="9033871" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="9033871" k="highway" o="none" type="way" v="residential" />
+    <tag id="9033871" k="condition" o="none" type="way" v="fair" />
+    <tag id="9033871" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9033871" k="massgis:way_id" o="none" type="way" v="182607" />
+    <tag id="9242042" k="name" o="none" type="way" v="Walpole Park South" />
+    <tag id="9242042" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242042" k="width" o="none" type="way" v="12.2" />
+    <tag id="9242042" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242042" k="highway" o="none" type="way" v="residential" />
+    <tag id="9242042" k="condition" o="none" type="way" v="good" />
+    <tag id="9242042" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242042" k="massgis:way_id" o="none" type="way" v="209244" />
+    <tag id="9242147" k="name" o="none" type="way" v="Stone Street" />
+    <tag id="9242147" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242147" k="width" o="none" type="way" v="11.0" />
+    <tag id="9242147" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242147" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9242147" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242147" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242147" k="massgis:way_id" o="none" type="way" v="168722" />
+    <tag id="9242218" k="ref" o="none" type="way" v="MA 27" />
+    <tag id="9242218" k="name" o="none" type="way" v="Elm Street" />
+    <tag id="9242218" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242218" k="width" o="none" type="way" v="12.2" />
+    <tag id="9242218" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242218" k="highway" o="none" type="way" v="secondary" />
+    <tag id="9242218" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242218" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242218" k="massgis:way_id" o="none" type="way" v="145062" />
+    <tag id="9242234" k="name" o="none" type="way" v="High Street" />
+    <tag id="9242234" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242234" k="width" o="none" type="way" v="10.1" />
+    <tag id="9242234" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242234" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9242234" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242234" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242234" k="massgis:way_id" o="none" type="way" v="165726" />
+    <tag id="9242618" k="name" o="none" type="way" v="School Street" />
+    <tag id="9242618" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242618" k="width" o="none" type="way" v="12.2" />
+    <tag id="9242618" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242618" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9242618" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242618" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242618" k="massgis:way_id" o="none" type="way" v="192148" />
+    <tag id="9242639" k="name" o="none" type="way" v="Lake Avenue" />
+    <tag id="9242639" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242639" k="width" o="none" type="way" v="12.2" />
+    <tag id="9242639" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242639" k="highway" o="none" type="way" v="residential" />
+    <tag id="9242639" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242639" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242639" k="massgis:way_id" o="none" type="way" v="157972" />
+    <tag id="9242854" k="name" o="none" type="way" v="Washington Street" />
+    <tag id="9242854" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242854" k="width" o="none" type="way" v="12.2" />
+    <tag id="9242854" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242854" k="highway" o="none" type="way" v="secondary" />
+    <tag id="9242854" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242854" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242854" k="massgis:way_id" o="none" type="way" v="187458" />
+    <tag id="9242961" k="name" o="none" type="way" v="Robbins Road" />
+    <tag id="9242961" k="lanes" o="none" type="way" v="2" />
+    <tag id="9242961" k="width" o="none" type="way" v="13.1" />
+    <tag id="9242961" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9242961" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9242961" k="condition" o="none" type="way" v="fair" />
+    <tag id="9242961" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9242961" k="massgis:way_id" o="none" type="way" v="126879" />
+    <tag id="9243142" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9243142" k="highway" o="none" type="way" v="service" />
+    <tag id="9243142" k="service" o="none" type="way" v="driveway" />
+    <tag id="9243142" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9243142" k="massgis:way_id" o="none" type="way" v="307" />
+    <tag id="9243225" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9243225" k="highway" o="none" type="way" v="service" />
+    <tag id="9243225" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9243225" k="massgis:way_id" o="none" type="way" v="307" />
+    <tag id="9243229" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9243229" k="highway" o="none" type="way" v="service" />
+    <tag id="9243229" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9243229" k="massgis:way_id" o="none" type="way" v="307" />
+    <tag id="9243245" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9243245" k="highway" o="none" type="way" v="service" />
+    <tag id="9243245" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9243245" k="massgis:way_id" o="none" type="way" v="307" />
+    <tag id="9243680" k="name" o="none" type="way" v="Diamond Street" />
+    <tag id="9243680" k="lanes" o="none" type="way" v="2" />
+    <tag id="9243680" k="width" o="none" type="way" v="12.2" />
+    <tag id="9243680" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="9243680" k="highway" o="none" type="way" v="residential" />
+    <tag id="9243680" k="condition" o="none" type="way" v="fair" />
+    <tag id="9243680" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9243680" k="massgis:way_id" o="none" type="way" v="139383" />
+    <tag id="9636552" k="name" o="none" type="way" v="East Foxboro Street" />
+    <tag id="9636552" k="lanes" o="none" type="way" v="2" />
+    <tag id="9636552" k="width" o="none" type="way" v="12.2" />
+    <tag id="9636552" k="source" o="none" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="9636552" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9636552" k="condition" o="none" type="way" v="deficient" />
+    <tag id="9636552" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9636552" k="massgis:way_id" o="none" type="way" v="119093" />
+    <tag id="9636653" k="name" o="none" type="way" v="South Main Street" />
+    <tag id="9636653" k="lanes" o="none" type="way" v="2" />
+    <tag id="9636653" k="width" o="none" type="way" v="18.3" />
+    <tag id="9636653" k="source" o="none" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="9636653" k="highway" o="none" type="way" v="secondary" />
+    <tag id="9636653" k="condition" o="none" type="way" v="fair" />
+    <tag id="9636653" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9636653" k="massgis:way_id" o="none" type="way" v="112160" />
+    <tag id="9637071" k="name" o="none" type="way" v="Farnham Road" />
+    <tag id="9637071" k="lanes" o="none" type="way" v="2" />
+    <tag id="9637071" k="width" o="none" type="way" v="12.2" />
+    <tag id="9637071" k="source" o="none" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="9637071" k="highway" o="none" type="way" v="residential" />
+    <tag id="9637071" k="condition" o="none" type="way" v="deficient" />
+    <tag id="9637071" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9637071" k="massgis:way_id" o="none" type="way" v="207812" />
+    <tag id="9637241" k="name" o="none" type="way" v="Moose Hill Parkway" />
+    <tag id="9637241" k="lanes" o="none" type="way" v="2" />
+    <tag id="9637241" k="width" o="none" type="way" v="12.2" />
+    <tag id="9637241" k="source" o="none" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="9637241" k="highway" o="none" type="way" v="residential" />
+    <tag id="9637241" k="condition" o="none" type="way" v="deficient" />
+    <tag id="9637241" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="9637241" k="massgis:way_id" o="none" type="way" v="145214" />
+    <tag id="29819428" k="name" o="none" type="way" v="Noon Hill Reservation" />
+    <tag id="29819428" k="owner" o="none" type="way" v="The Trustees Of Reservations" />
+    <tag id="29819428" k="access" o="none" type="way" v="yes" />
+    <tag id="29819428" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="29819428" k="leisure" o="none" type="way" v="recreation_ground" />
+    <tag id="29819428" k="ownership" o="none" type="way" v="land_trust" />
+    <tag id="29819428" k="protected" o="none" type="way" v="perpetuity" />
+    <tag id="29819428" k="massgis:OS_ID" o="none" type="way" v="175-207" />
+    <tag id="29819428" k="massgis:FEESYM" o="none" type="way" v="L" />
+    <tag id="29819428" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="29819428" k="massgis:POLY_ID" o="none" type="way" v="207" />
+    <tag id="29819428" k="massgis:TOWN_ID" o="none" type="way" v="175" />
+    <tag id="29819428" k="massgis:ATT_DATE" o="none" type="way" v="1993/08/31" />
+    <tag id="29819428" k="massgis:COMMENTS" o="none" type="way" v="AM ALSO 15,9. AL ALSO 2,6" />
+    <tag id="29819428" k="massgis:LEV_PROT" o="none" type="way" v="P" />
+    <tag id="29819428" k="massgis:ARTICLE97" o="none" type="way" v="0" />
+    <tag id="29819428" k="massgis:FEE_OWNER" o="none" type="way" v="The Trustees of Reservations" />
+    <tag id="29819428" k="massgis:PRIM_PURP" o="none" type="way" v="R" />
+    <tag id="29819428" k="massgis:SITE_NAME" o="none" type="way" v="NOON HILL RESERVATION" />
+    <tag id="29819428" k="massgis:ASSESS_ACR" o="none" type="way" v="207.00000000" />
+    <tag id="29819428" k="massgis:ASSESS_LOT" o="none" type="way" v="14" />
+    <tag id="29819428" k="massgis:ASSESS_MAP" o="none" type="way" v="14" />
+    <tag id="29819428" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="29819428" k="massgis:EOEAINVOLV" o="none" type="way" v="0" />
+    <tag id="29819428" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="29819428" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="29819428" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="29819428" k="massgis:OWNER_ABRV" o="none" type="way" v="TTOR" />
+    <tag id="29819428" k="massgis:OWNER_TYPE" o="none" type="way" v="L" />
+    <tag id="29819428" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="29830140" k="area" o="none" type="way" v="yes" />
+    <tag id="29830140" k="owner" o="none" type="way" v="Town Of Medfield" />
+    <tag id="29830140" k="access" o="none" type="way" v="yes" />
+    <tag id="29830140" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="29830140" k="landuse" o="none" type="way" v="conservation" />
+    <tag id="29830140" k="leisure" o="none" type="way" v="nature_reserve" />
+    <tag id="29830140" k="ownership" o="none" type="way" v="municipal" />
+    <tag id="29830140" k="protected" o="none" type="way" v="perpetuity" />
+    <tag id="29830140" k="massgis:OS_ID" o="none" type="way" v="175-232" />
+    <tag id="29830140" k="massgis:FEESYM" o="none" type="way" v="M" />
+    <tag id="29830140" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="29830140" k="massgis:MANAGER" o="none" type="way" v="Town of Medfield Conservation Commission" />
+    <tag id="29830140" k="massgis:POLY_ID" o="none" type="way" v="232" />
+    <tag id="29830140" k="massgis:TOWN_ID" o="none" type="way" v="175" />
+    <tag id="29830140" k="massgis:ATT_DATE" o="none" type="way" v="1997/01/15" />
+    <tag id="29830140" k="massgis:COMMENTS" o="none" type="way" v="AM ALSO 11 - 16. AL ALSO 12-1." />
+    <tag id="29830140" k="massgis:LEV_PROT" o="none" type="way" v="P" />
+    <tag id="29830140" k="massgis:PROJ_ID1" o="none" type="way" v="DCS-SH4" />
+    <tag id="29830140" k="massgis:PROJ_ID2" o="none" type="way" v="DCS-LW175" />
+    <tag id="29830140" k="massgis:ARTICLE97" o="none" type="way" v="1" />
+    <tag id="29830140" k="massgis:FEE_OWNER" o="none" type="way" v="Town of Medfield" />
+    <tag id="29830140" k="massgis:PRIM_PURP" o="none" type="way" v="C" />
+    <tag id="29830140" k="massgis:SITE_NAME" o="none" type="way" v="NOON HILL RESERVATION" />
+    <tag id="29830140" k="massgis:ASSESS_ACR" o="none" type="way" v="116.00000000" />
+    <tag id="29830140" k="massgis:ASSESS_LOT" o="none" type="way" v="105" />
+    <tag id="29830140" k="massgis:ASSESS_MAP" o="none" type="way" v="10" />
+    <tag id="29830140" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="29830140" k="massgis:EOEAINVOLV" o="none" type="way" v="1" />
+    <tag id="29830140" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="29830140" k="massgis:GRANTPROG1" o="none" type="way" v="SH" />
+    <tag id="29830140" k="massgis:GRANTPROG2" o="none" type="way" v="LWCF" />
+    <tag id="29830140" k="massgis:GRANTTYPE1" o="none" type="way" v="S" />
+    <tag id="29830140" k="massgis:GRANTTYPE2" o="none" type="way" v="F" />
+    <tag id="29830140" k="massgis:MANAGR_ABR" o="none" type="way" v="M175CC" />
+    <tag id="29830140" k="massgis:MANAGR_TYP" o="none" type="way" v="M" />
+    <tag id="29830140" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="29830140" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="29830140" k="massgis:OWNER_ABRV" o="none" type="way" v="M175" />
+    <tag id="29830140" k="massgis:OWNER_TYPE" o="none" type="way" v="M" />
+    <tag id="29830140" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="29831092" k="area" o="none" type="way" v="yes" />
+    <tag id="29831092" k="name" o="none" type="way" v="Town Forest" />
+    <tag id="29831092" k="owner" o="none" type="way" v="Town Of Walpole" />
+    <tag id="29831092" k="access" o="none" type="way" v="yes" />
+    <tag id="29831092" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="29831092" k="landuse" o="none" type="way" v="forest" />
+    <tag id="29831092" k="leisure" o="none" type="way" v="recreation_ground" />
+    <tag id="29831092" k="ownership" o="none" type="way" v="municipal" />
+    <tag id="29831092" k="protected" o="none" type="way" v="perpetuity" />
+    <tag id="29831092" k="massgis:OS_ID" o="none" type="way" v="307-3429" />
+    <tag id="29831092" k="massgis:FEESYM" o="none" type="way" v="M" />
+    <tag id="29831092" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="29831092" k="massgis:MANAGER" o="none" type="way" v="Town of Walpole Conservation Commission" />
+    <tag id="29831092" k="massgis:POLY_ID" o="none" type="way" v="3429" />
+    <tag id="29831092" k="massgis:TOWN_ID" o="none" type="way" v="307" />
+    <tag id="29831092" k="massgis:ATT_DATE" o="none" type="way" v="1994/08/08" />
+    <tag id="29831092" k="massgis:LEV_PROT" o="none" type="way" v="P" />
+    <tag id="29831092" k="massgis:ARTICLE97" o="none" type="way" v="9" />
+    <tag id="29831092" k="massgis:FEE_OWNER" o="none" type="way" v="Town of Walpole" />
+    <tag id="29831092" k="massgis:PRIM_PURP" o="none" type="way" v="B" />
+    <tag id="29831092" k="massgis:SITE_NAME" o="none" type="way" v="TOWN FOREST" />
+    <tag id="29831092" k="massgis:ASSESS_ACR" o="none" type="way" v="0.00000000" />
+    <tag id="29831092" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="29831092" k="massgis:EOEAINVOLV" o="none" type="way" v="0" />
+    <tag id="29831092" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="29831092" k="massgis:MANAGR_ABR" o="none" type="way" v="M307CC" />
+    <tag id="29831092" k="massgis:MANAGR_TYP" o="none" type="way" v="M" />
+    <tag id="29831092" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="29831092" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="29831092" k="massgis:OWNER_ABRV" o="none" type="way" v="M307" />
+    <tag id="29831092" k="massgis:OWNER_TYPE" o="none" type="way" v="M" />
+    <tag id="29831092" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="29831092" k="massgis:SOURCE_MAP" o="none" type="way" v="1" />
+    <tag id="29861373" k="owner" o="none" type="way" v="Town Of Walpole" />
+    <tag id="29861373" k="access" o="none" type="way" v="yes" />
+    <tag id="29861373" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="29861373" k="landuse" o="none" type="way" v="conservation" />
+    <tag id="29861373" k="leisure" o="none" type="way" v="nature_reserve" />
+    <tag id="29861373" k="ownership" o="none" type="way" v="municipal" />
+    <tag id="29861373" k="protected" o="none" type="way" v="perpetuity" />
+    <tag id="29861373" k="massgis:OS_ID" o="none" type="way" v="307-3460" />
+    <tag id="29861373" k="massgis:FEESYM" o="none" type="way" v="M" />
+    <tag id="29861373" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="29861373" k="massgis:MANAGER" o="none" type="way" v="Town of Walpole Conservation Commission" />
+    <tag id="29861373" k="massgis:POLY_ID" o="none" type="way" v="3460" />
+    <tag id="29861373" k="massgis:TOWN_ID" o="none" type="way" v="307" />
+    <tag id="29861373" k="massgis:ATT_DATE" o="none" type="way" v="1994/08/08" />
+    <tag id="29861373" k="massgis:LEV_PROT" o="none" type="way" v="P" />
+    <tag id="29861373" k="massgis:ARTICLE97" o="none" type="way" v="9" />
+    <tag id="29861373" k="massgis:FEE_OWNER" o="none" type="way" v="Town of Walpole" />
+    <tag id="29861373" k="massgis:PRIM_PURP" o="none" type="way" v="C" />
+    <tag id="29861373" k="massgis:ASSESS_ACR" o="none" type="way" v="0.00000000" />
+    <tag id="29861373" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="29861373" k="massgis:EOEAINVOLV" o="none" type="way" v="0" />
+    <tag id="29861373" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="29861373" k="massgis:MANAGR_ABR" o="none" type="way" v="M307CC" />
+    <tag id="29861373" k="massgis:MANAGR_TYP" o="none" type="way" v="M" />
+    <tag id="29861373" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="29861373" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="29861373" k="massgis:OWNER_ABRV" o="none" type="way" v="M307" />
+    <tag id="29861373" k="massgis:OWNER_TYPE" o="none" type="way" v="M" />
+    <tag id="29861373" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="29861373" k="massgis:SOURCE_MAP" o="none" type="way" v="1" />
+    <tag id="29862501" k="name" o="none" type="way" v="Eleanor N. Johnson Middle School" />
+    <tag id="29862501" k="phone" o="none" type="way" v="508-660-7242" />
+    <tag id="29862501" k="grades" o="none" type="way" v="6,7,8" />
+    <tag id="29862501" k="amenity" o="none" type="way" v="school" />
+    <tag id="29862501" k="website" o="none" type="way" v="http://walpolewhs.ss5.sharpschool.com/" />
+    <tag id="29862501" k="addr:city" o="none" type="way" v="Walpole" />
+    <tag id="29862501" k="addr:street" o="none" type="way" v="Robbins Road" />
+    <tag id="29862501" k="addr:postcode" o="none" type="way" v="02081" />
+    <tag id="29862501" k="gnis:feature_id" o="none" type="way" v="599460" />
+    <tag id="29862501" k="addr:housenumber" o="none" type="way" v="111" />
+    <tag id="29862501" k="massgis:school_id" o="none" type="way" v="03070310" />
+    <tag id="29868703" k="name" o="none" type="way" v="Beaver Brook Watershed Land" />
+    <tag id="29868703" k="owner" o="none" type="way" v="Town Of Sharon" />
+    <tag id="29868703" k="access" o="none" type="way" v="yes" />
+    <tag id="29868703" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="29868703" k="landuse" o="none" type="way" v="reservoir_watershed" />
+    <tag id="29868703" k="natural" o="add" type="way" v="wood" />
+    <tag id="29868703" k="ownership" o="none" type="way" v="municipal" />
+    <tag id="29868703" k="protected" o="none" type="way" v="limited" />
+    <tag id="29868703" k="massgis:OS_ID" o="none" type="way" v="266-3572" />
+    <tag id="29868703" k="massgis:FEESYM" o="none" type="way" v="M" />
+    <tag id="29868703" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="29868703" k="massgis:MANAGER" o="none" type="way" v="Town of Sharon Water Department" />
+    <tag id="29868703" k="massgis:POLY_ID" o="none" type="way" v="3572" />
+    <tag id="29868703" k="massgis:TOWN_ID" o="none" type="way" v="266" />
+    <tag id="29868703" k="massgis:ATT_DATE" o="none" type="way" v="1994/11/08" />
+    <tag id="29868703" k="massgis:LEV_PROT" o="none" type="way" v="L" />
+    <tag id="29868703" k="massgis:ARTICLE97" o="none" type="way" v="9" />
+    <tag id="29868703" k="massgis:FEE_OWNER" o="none" type="way" v="Town of Sharon" />
+    <tag id="29868703" k="massgis:PRIM_PURP" o="none" type="way" v="W" />
+    <tag id="29868703" k="massgis:SITE_NAME" o="none" type="way" v="BEAVER BROOK WATERSHED LAND" />
+    <tag id="29868703" k="massgis:ASSESS_ACR" o="none" type="way" v="254.70000000" />
+    <tag id="29868703" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="29868703" k="massgis:EOEAINVOLV" o="none" type="way" v="0" />
+    <tag id="29868703" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="29868703" k="massgis:MANAGR_ABR" o="none" type="way" v="M266WD" />
+    <tag id="29868703" k="massgis:MANAGR_TYP" o="none" type="way" v="M" />
+    <tag id="29868703" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="29868703" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="29868703" k="massgis:OWNER_ABRV" o="none" type="way" v="M266" />
+    <tag id="29868703" k="massgis:OWNER_TYPE" o="none" type="way" v="M" />
+    <tag id="29868703" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="29868703" k="massgis:SOURCE_MAP" o="none" type="way" v="1" />
+    <tag id="34854743" k="name" o="none" type="way" v="South Main Street" />
+    <tag id="34854743" k="lanes" o="none" type="way" v="2" />
+    <tag id="34854743" k="width" o="none" type="way" v="18.3" />
+    <tag id="34854743" k="source" o="none" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="34854743" k="highway" o="none" type="way" v="secondary" />
+    <tag id="34854743" k="condition" o="none" type="way" v="fair" />
+    <tag id="34854743" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="34854743" k="massgis:way_id" o="none" type="way" v="112160" />
+    <tag id="44981516" k="foot" o="none" type="way" v="yes" />
+    <tag id="44981516" k="horse" o="none" type="way" v="yes" />
+    <tag id="44981516" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="44981516" k="highway" o="none" type="way" v="path" />
+    <tag id="44986002" k="foot" o="none" type="way" v="yes" />
+    <tag id="44986002" k="horse" o="none" type="way" v="yes" />
+    <tag id="44986002" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="44986002" k="highway" o="none" type="way" v="path" />
+    <tag id="45049526" k="foot" o="none" type="way" v="yes" />
+    <tag id="45049526" k="horse" o="none" type="way" v="yes" />
+    <tag id="45049526" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45049526" k="highway" o="none" type="way" v="path" />
+    <tag id="45049527" k="foot" o="none" type="way" v="yes" />
+    <tag id="45049527" k="horse" o="none" type="way" v="yes" />
+    <tag id="45049527" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45049527" k="highway" o="none" type="way" v="track" />
+    <tag id="45049528" k="foot" o="none" type="way" v="yes" />
+    <tag id="45049528" k="horse" o="none" type="way" v="yes" />
+    <tag id="45049528" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45049528" k="highway" o="none" type="way" v="track" />
+    <tag id="45049529" k="foot" o="none" type="way" v="yes" />
+    <tag id="45049529" k="horse" o="none" type="way" v="yes" />
+    <tag id="45049529" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45049529" k="highway" o="none" type="way" v="path" />
+    <tag id="45073823" k="foot" o="none" type="way" v="yes" />
+    <tag id="45073823" k="horse" o="none" type="way" v="yes" />
+    <tag id="45073823" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45073823" k="highway" o="none" type="way" v="path" />
+    <tag id="45073962" k="foot" o="none" type="way" v="yes" />
+    <tag id="45073962" k="horse" o="none" type="way" v="yes" />
+    <tag id="45073962" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45073962" k="highway" o="none" type="way" v="path" />
+    <tag id="45073966" k="foot" o="none" type="way" v="yes" />
+    <tag id="45073966" k="horse" o="none" type="way" v="yes" />
+    <tag id="45073966" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45073966" k="highway" o="none" type="way" v="path" />
+    <tag id="45073969" k="foot" o="none" type="way" v="yes" />
+    <tag id="45073969" k="horse" o="none" type="way" v="yes" />
+    <tag id="45073969" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="45073969" k="highway" o="none" type="way" v="path" />
+    <tag id="45514076" k="source" o="none" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="45514076" k="highway" o="none" type="way" v="track" />
+    <tag id="45514076" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="45514076" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="45514076" k="massgis:way_id" o="none" type="way" v="175" />
+    <tag id="45517970" k="foot" o="none" type="way" v="yes" />
+    <tag id="45517970" k="highway" o="none" type="way" v="footway" />
+    <tag id="45602853" k="foot" o="none" type="way" v="yes" />
+    <tag id="45602853" k="highway" o="none" type="way" v="footway" />
+    <tag id="47256395" k="foot" o="none" type="way" v="yes" />
+    <tag id="47256395" k="source" o="none" type="way" v="Bing, Strava Heatmap, Adams Farm, Inc (http://adams-farm.com), GPS, Knowledge" />
+    <tag id="47256395" k="highway" o="none" type="way" v="track" />
+    <tag id="47256395" k="mtb:type" o="none" type="way" v="crosscountry" />
+    <tag id="131618484" k="water" o="none" type="way" v="river" />
+    <tag id="131618484" k="natural" o="none" type="way" v="water" />
+    <tag id="131708006" k="name" o="none" type="way" v="Gunhouse Street" />
+    <tag id="131708006" k="lanes" o="none" type="way" v="2" />
+    <tag id="131708006" k="width" o="none" type="way" v="15.2" />
+    <tag id="131708006" k="source" o="none" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="131708006" k="highway" o="none" type="way" v="residential" />
+    <tag id="131708006" k="condition" o="none" type="way" v="fair" />
+    <tag id="131708006" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="131708006" k="massgis:way_id" o="none" type="way" v="147362" />
+    <tag id="131709121" k="area" o="none" type="way" v="yes" />
+    <tag id="131709121" k="name" o="none" type="way" v="Deborah Sampson Park" />
+    <tag id="131709121" k="owner" o="none" type="way" v="Town Of Sharon" />
+    <tag id="131709121" k="access" o="none" type="way" v="yes" />
+    <tag id="131709121" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="131709121" k="leisure" o="none" type="way" v="park" />
+    <tag id="131709121" k="ownership" o="none" type="way" v="municipal" />
+    <tag id="131709121" k="protected" o="none" type="way" v="perpetuity" />
+    <tag id="131709121" k="massgis:OS_ID" o="none" type="way" v="266-3571" />
+    <tag id="131709121" k="massgis:FEESYM" o="none" type="way" v="M" />
+    <tag id="131709121" k="gnis:feature_id" o="none" type="way" v="1973696" />
+    <tag id="131709121" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="131709121" k="massgis:MANAGER" o="none" type="way" v="Town of Sharon Parks and Recreation Department" />
+    <tag id="131709121" k="massgis:POLY_ID" o="none" type="way" v="3571" />
+    <tag id="131709121" k="massgis:TOWN_ID" o="none" type="way" v="266" />
+    <tag id="131709121" k="massgis:ATT_DATE" o="none" type="way" v="1997/07/24" />
+    <tag id="131709121" k="massgis:LEV_PROT" o="none" type="way" v="P" />
+    <tag id="131709121" k="massgis:PROJ_ID1" o="none" type="way" v="DCS-LW154" />
+    <tag id="131709121" k="massgis:ARTICLE97" o="none" type="way" v="1" />
+    <tag id="131709121" k="massgis:FEE_OWNER" o="none" type="way" v="Town of Sharon" />
+    <tag id="131709121" k="massgis:PRIM_PURP" o="none" type="way" v="R" />
+    <tag id="131709121" k="massgis:SITE_NAME" o="none" type="way" v="DEBORAH SAMPSON PK" />
+    <tag id="131709121" k="massgis:ASSESS_ACR" o="none" type="way" v="50.55000000" />
+    <tag id="131709121" k="massgis:ASSESS_MAP" o="none" type="way" v="N" />
+    <tag id="131709121" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="131709121" k="massgis:EOEAINVOLV" o="none" type="way" v="1" />
+    <tag id="131709121" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="131709121" k="massgis:GRANTPROG1" o="none" type="way" v="DCS-LWCF" />
+    <tag id="131709121" k="massgis:GRANTTYPE1" o="none" type="way" v="F" />
+    <tag id="131709121" k="massgis:MANAGR_ABR" o="none" type="way" v="M266PR" />
+    <tag id="131709121" k="massgis:MANAGR_TYP" o="none" type="way" v="M" />
+    <tag id="131709121" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="131709121" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="131709121" k="massgis:OWNER_ABRV" o="none" type="way" v="M266" />
+    <tag id="131709121" k="massgis:OWNER_TYPE" o="none" type="way" v="M" />
+    <tag id="131709121" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="131709121" k="massgis:SOURCE_MAP" o="none" type="way" v="1" />
+    <tag id="132933591" k="area" o="none" type="way" v="yes" />
+    <tag id="132933591" k="name" o="none" type="way" v="Town Forest" />
+    <tag id="132933591" k="owner" o="none" type="way" v="Town Of Walpole" />
+    <tag id="132933591" k="access" o="none" type="way" v="yes" />
+    <tag id="132933591" k="source" o="none" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="132933591" k="landuse" o="none" type="way" v="forest" />
+    <tag id="132933591" k="leisure" o="none" type="way" v="recreation_ground" />
+    <tag id="132933591" k="ownership" o="none" type="way" v="municipal" />
+    <tag id="132933591" k="protected" o="none" type="way" v="perpetuity" />
+    <tag id="132933591" k="massgis:OS_ID" o="none" type="way" v="307-3430" />
+    <tag id="132933591" k="massgis:FEESYM" o="none" type="way" v="M" />
+    <tag id="132933591" k="massgis:DCAM_ID" o="none" type="way" v="0" />
+    <tag id="132933591" k="massgis:MANAGER" o="none" type="way" v="Town of Walpole Conservation Commission" />
+    <tag id="132933591" k="massgis:POLY_ID" o="none" type="way" v="3430" />
+    <tag id="132933591" k="massgis:TOWN_ID" o="none" type="way" v="307" />
+    <tag id="132933591" k="massgis:ATT_DATE" o="none" type="way" v="1994/08/08" />
+    <tag id="132933591" k="massgis:LEV_PROT" o="none" type="way" v="P" />
+    <tag id="132933591" k="massgis:ARTICLE97" o="none" type="way" v="9" />
+    <tag id="132933591" k="massgis:FEE_OWNER" o="none" type="way" v="Town of Walpole" />
+    <tag id="132933591" k="massgis:PRIM_PURP" o="none" type="way" v="B" />
+    <tag id="132933591" k="massgis:SITE_NAME" o="none" type="way" v="TOWN FOREST" />
+    <tag id="132933591" k="massgis:ASSESS_ACR" o="none" type="way" v="0.00000000" />
+    <tag id="132933591" k="massgis:DEED_ACRES" o="none" type="way" v="0.00000000" />
+    <tag id="132933591" k="massgis:EOEAINVOLV" o="none" type="way" v="0" />
+    <tag id="132933591" k="massgis:FY_FUNDING" o="none" type="way" v="0" />
+    <tag id="132933591" k="massgis:MANAGR_ABR" o="none" type="way" v="M307CC" />
+    <tag id="132933591" k="massgis:MANAGR_TYP" o="none" type="way" v="M" />
+    <tag id="132933591" k="massgis:OS_DEED_BO" o="none" type="way" v="0" />
+    <tag id="132933591" k="massgis:OS_DEED_PA" o="none" type="way" v="0" />
+    <tag id="132933591" k="massgis:OWNER_ABRV" o="none" type="way" v="M307" />
+    <tag id="132933591" k="massgis:OWNER_TYPE" o="none" type="way" v="M" />
+    <tag id="132933591" k="massgis:PUB_ACCESS" o="none" type="way" v="Y" />
+    <tag id="132933591" k="massgis:SOURCE_MAP" o="none" type="way" v="1" />
+    <tag id="132962694" k="name" o="none" type="way" v="Common Street" />
+    <tag id="132962694" k="lanes" o="none" type="way" v="2" />
+    <tag id="132962694" k="width" o="none" type="way" v="15.2" />
+    <tag id="132962694" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="132962694" k="highway" o="none" type="way" v="secondary" />
+    <tag id="132962694" k="condition" o="none" type="way" v="fair" />
+    <tag id="132962694" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="132962694" k="massgis:way_id" o="none" type="way" v="115272" />
+    <tag id="282680954" k="foot" o="none" type="way" v="yes" />
+    <tag id="282680954" k="horse" o="none" type="way" v="yes" />
+    <tag id="282680954" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="282680954" k="highway" o="none" type="way" v="path" />
+    <tag id="282680955" k="foot" o="none" type="way" v="yes" />
+    <tag id="282680955" k="horse" o="none" type="way" v="yes" />
+    <tag id="282680955" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="282680955" k="highway" o="none" type="way" v="path" />
+    <tag id="284290297" k="highway" o="modify" type="way" v="service" />
+    <tag id="284290297" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="340207636" k="ref" o="none" type="way" v="MA 27" />
+    <tag id="340207636" k="name" o="none" type="way" v="East Street" />
+    <tag id="340207636" k="lanes" o="none" type="way" v="2" />
+    <tag id="340207636" k="width" o="none" type="way" v="12.2" />
+    <tag id="340207636" k="source" o="none" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="340207636" k="highway" o="none" type="way" v="secondary" />
+    <tag id="340207636" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="340207636" k="condition" o="none" type="way" v="good" />
+    <tag id="340207636" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="340207636" k="massgis:way_id" o="none" type="way" v="181699" />
+    <tag id="340207636" k="source:maxspeed" o="none" type="way" v="massgis" />
+    <tag id="369709258" k="oneway" o="none" type="way" v="no" />
+    <tag id="369709258" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="461964092" k="oneway" o="add" type="way" v="no" />
+    <tag id="461964092" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="461964093" k="oneway" o="add" type="way" v="no" />
+    <tag id="461964093" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="461964094" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="461964094" k="highway" o="add" type="way" v="footway" />
+    <tag id="461964096" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="461964096" k="highway" o="add" type="way" v="footway" />
+    <tag id="461964099" k="name" o="add" type="way" v="South Main Street" />
+    <tag id="461964099" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964099" k="width" o="add" type="way" v="18.3" />
+    <tag id="461964099" k="source" o="add" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="461964099" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964099" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964099" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964099" k="massgis:way_id" o="add" type="way" v="112160" />
+    <tag id="461964101" k="name" o="add" type="way" v="South Main Street" />
+    <tag id="461964101" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964101" k="width" o="add" type="way" v="18.3" />
+    <tag id="461964101" k="source" o="add" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="461964101" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964101" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964101" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964101" k="massgis:way_id" o="add" type="way" v="112160" />
+    <tag id="461964102" k="name" o="add" type="way" v="Farnham Road" />
+    <tag id="461964102" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964102" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964102" k="source" o="add" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="461964102" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964102" k="condition" o="add" type="way" v="deficient" />
+    <tag id="461964102" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964102" k="massgis:way_id" o="add" type="way" v="207812" />
+    <tag id="461964105" k="name" o="add" type="way" v="Moose Hill Parkway" />
+    <tag id="461964105" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964105" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964105" k="source" o="add" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="461964105" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964105" k="condition" o="add" type="way" v="deficient" />
+    <tag id="461964105" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964105" k="massgis:way_id" o="add" type="way" v="145214" />
+    <tag id="461964108" k="name" o="add" type="way" v="Moose Hill Parkway" />
+    <tag id="461964108" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964108" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964108" k="source" o="add" type="way" v="massgis_import_v0.1_20071009093150" />
+    <tag id="461964108" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964108" k="condition" o="add" type="way" v="deficient" />
+    <tag id="461964108" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964108" k="massgis:way_id" o="add" type="way" v="145214" />
+    <tag id="461964115" k="highway" o="add" type="way" v="service" />
+    <tag id="461964117" k="highway" o="add" type="way" v="service" />
+    <tag id="461964119" k="name" o="add" type="way" v="Walpole Park South" />
+    <tag id="461964119" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964119" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964119" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964119" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964119" k="condition" o="add" type="way" v="good" />
+    <tag id="461964119" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964119" k="massgis:way_id" o="add" type="way" v="209244" />
+    <tag id="461964129" k="area" o="add" type="way" v="yes" />
+    <tag id="461964129" k="name" o="add" type="way" v="Town Forest" />
+    <tag id="461964129" k="owner" o="add" type="way" v="Town Of Walpole" />
+    <tag id="461964129" k="access" o="add" type="way" v="yes" />
+    <tag id="461964129" k="source" o="add" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="461964129" k="landuse" o="add" type="way" v="forest" />
+    <tag id="461964129" k="leisure" o="add" type="way" v="recreation_ground" />
+    <tag id="461964129" k="ownership" o="add" type="way" v="municipal" />
+    <tag id="461964129" k="protected" o="add" type="way" v="perpetuity" />
+    <tag id="461964129" k="massgis:OS_ID" o="add" type="way" v="307-3429" />
+    <tag id="461964129" k="massgis:FEESYM" o="add" type="way" v="M" />
+    <tag id="461964129" k="massgis:DCAM_ID" o="add" type="way" v="0" />
+    <tag id="461964129" k="massgis:MANAGER" o="add" type="way" v="Town of Walpole Conservation Commission" />
+    <tag id="461964129" k="massgis:POLY_ID" o="add" type="way" v="3429" />
+    <tag id="461964129" k="massgis:TOWN_ID" o="add" type="way" v="307" />
+    <tag id="461964129" k="massgis:ATT_DATE" o="add" type="way" v="1994/08/08" />
+    <tag id="461964129" k="massgis:LEV_PROT" o="add" type="way" v="P" />
+    <tag id="461964129" k="massgis:ARTICLE97" o="add" type="way" v="9" />
+    <tag id="461964129" k="massgis:FEE_OWNER" o="add" type="way" v="Town of Walpole" />
+    <tag id="461964129" k="massgis:PRIM_PURP" o="add" type="way" v="B" />
+    <tag id="461964129" k="massgis:SITE_NAME" o="add" type="way" v="TOWN FOREST" />
+    <tag id="461964129" k="massgis:ASSESS_ACR" o="add" type="way" v="0.00000000" />
+    <tag id="461964129" k="massgis:DEED_ACRES" o="add" type="way" v="0.00000000" />
+    <tag id="461964129" k="massgis:EOEAINVOLV" o="add" type="way" v="0" />
+    <tag id="461964129" k="massgis:FY_FUNDING" o="add" type="way" v="0" />
+    <tag id="461964129" k="massgis:MANAGR_ABR" o="add" type="way" v="M307CC" />
+    <tag id="461964129" k="massgis:MANAGR_TYP" o="add" type="way" v="M" />
+    <tag id="461964129" k="massgis:OS_DEED_BO" o="add" type="way" v="0" />
+    <tag id="461964129" k="massgis:OS_DEED_PA" o="add" type="way" v="0" />
+    <tag id="461964129" k="massgis:OWNER_ABRV" o="add" type="way" v="M307" />
+    <tag id="461964129" k="massgis:OWNER_TYPE" o="add" type="way" v="M" />
+    <tag id="461964129" k="massgis:PUB_ACCESS" o="add" type="way" v="Y" />
+    <tag id="461964129" k="massgis:SOURCE_MAP" o="add" type="way" v="1" />
+    <tag id="461964137" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964137" k="highway" o="add" type="way" v="service" />
+    <tag id="461964137" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964137" k="massgis:way_id" o="add" type="way" v="307" />
+    <tag id="461964140" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964140" k="highway" o="add" type="way" v="service" />
+    <tag id="461964140" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964140" k="massgis:way_id" o="add" type="way" v="307" />
+    <tag id="461964144" k="highway" o="add" type="way" v="service" />
+    <tag id="461964145" k="name" o="add" type="way" v="Common Street" />
+    <tag id="461964145" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964145" k="width" o="add" type="way" v="15.2" />
+    <tag id="461964145" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964145" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964145" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964145" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964145" k="massgis:way_id" o="add" type="way" v="115272" />
+    <tag id="461964146" k="name" o="add" type="way" v="Common Street" />
+    <tag id="461964146" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964146" k="width" o="add" type="way" v="15.2" />
+    <tag id="461964146" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964146" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964146" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964146" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964146" k="massgis:way_id" o="add" type="way" v="115272" />
+    <tag id="461964147" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964147" k="highway" o="add" type="way" v="service" />
+    <tag id="461964147" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964147" k="massgis:way_id" o="add" type="way" v="307" />
+    <tag id="461964148" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964148" k="highway" o="add" type="way" v="service" />
+    <tag id="461964148" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964148" k="massgis:way_id" o="add" type="way" v="307" />
+    <tag id="461964149" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="461964149" k="highway" o="add" type="way" v="footway" />
+    <tag id="461964150" k="highway" o="add" type="way" v="service" />
+    <tag id="461964151" k="highway" o="add" type="way" v="service" />
+    <tag id="461964152" k="name" o="add" type="way" v="Lake Avenue" />
+    <tag id="461964152" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964152" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964152" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964152" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964152" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964152" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964152" k="massgis:way_id" o="add" type="way" v="157972" />
+    <tag id="461964154" k="amenity" o="add" type="way" v="parking" />
+    <tag id="461964155" k="highway" o="add" type="way" v="service" />
+    <tag id="461964155" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="461964156" k="name" o="add" type="way" v="Stone Street" />
+    <tag id="461964156" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964156" k="width" o="add" type="way" v="11.0" />
+    <tag id="461964156" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964156" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964156" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964156" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964156" k="massgis:way_id" o="add" type="way" v="168722" />
+    <tag id="461964157" k="name" o="add" type="way" v="Stone Street" />
+    <tag id="461964157" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964157" k="width" o="add" type="way" v="11.0" />
+    <tag id="461964157" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964157" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964157" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964157" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964157" k="massgis:way_id" o="add" type="way" v="168722" />
+    <tag id="461964158" k="name" o="add" type="way" v="Diamond Street" />
+    <tag id="461964158" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964158" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964158" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964158" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964158" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964158" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964158" k="massgis:way_id" o="add" type="way" v="139383" />
+    <tag id="461964160" k="name" o="add" type="way" v="School Street" />
+    <tag id="461964160" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964160" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964160" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964160" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964160" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964160" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964160" k="massgis:way_id" o="add" type="way" v="192148" />
+    <tag id="461964161" k="name" o="add" type="way" v="School Street" />
+    <tag id="461964161" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964161" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964161" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964161" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964161" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964161" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964161" k="massgis:way_id" o="add" type="way" v="192148" />
+    <tag id="461964164" k="ref" o="add" type="way" v="MA 27" />
+    <tag id="461964164" k="name" o="add" type="way" v="East Street" />
+    <tag id="461964164" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964164" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964164" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964164" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964164" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="461964164" k="condition" o="add" type="way" v="good" />
+    <tag id="461964164" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964164" k="massgis:way_id" o="add" type="way" v="181699" />
+    <tag id="461964164" k="source:maxspeed" o="add" type="way" v="massgis" />
+    <tag id="461964167" k="ref" o="add" type="way" v="MA 27" />
+    <tag id="461964167" k="name" o="add" type="way" v="Elm Street" />
+    <tag id="461964167" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964167" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964167" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964167" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964167" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964167" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964167" k="massgis:way_id" o="add" type="way" v="145062" />
+    <tag id="461964168" k="name" o="add" type="way" v="Robbins Road" />
+    <tag id="461964168" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964168" k="width" o="add" type="way" v="13.1" />
+    <tag id="461964168" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964168" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964168" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964168" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964168" k="massgis:way_id" o="add" type="way" v="126879" />
+    <tag id="461964170" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964170" k="highway" o="add" type="way" v="service" />
+    <tag id="461964170" k="service" o="add" type="way" v="driveway" />
+    <tag id="461964170" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964170" k="massgis:way_id" o="add" type="way" v="307" />
+    <tag id="461964173" k="area" o="add" type="way" v="yes" />
+    <tag id="461964173" k="owner" o="add" type="way" v="Town Of Walpole" />
+    <tag id="461964173" k="access" o="add" type="way" v="yes" />
+    <tag id="461964173" k="source" o="add" type="way" v="MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)" />
+    <tag id="461964173" k="leisure" o="add" type="way" v="nature_reserve" />
+    <tag id="461964173" k="ownership" o="add" type="way" v="municipal" />
+    <tag id="461964173" k="protected" o="add" type="way" v="perpetuity" />
+    <tag id="461964173" k="massgis:FEESYM" o="add" type="way" v="M" />
+    <tag id="461964173" k="massgis:DCAM_ID" o="add" type="way" v="0" />
+    <tag id="461964173" k="massgis:TOWN_ID" o="add" type="way" v="307" />
+    <tag id="461964173" k="massgis:ATT_DATE" o="add" type="way" v="1994/08/08" />
+    <tag id="461964173" k="massgis:LEV_PROT" o="add" type="way" v="P" />
+    <tag id="461964173" k="massgis:ARTICLE97" o="add" type="way" v="9" />
+    <tag id="461964173" k="massgis:FEE_OWNER" o="add" type="way" v="Town of Walpole" />
+    <tag id="461964173" k="massgis:ASSESS_ACR" o="add" type="way" v="0.00000000" />
+    <tag id="461964173" k="massgis:DEED_ACRES" o="add" type="way" v="0.00000000" />
+    <tag id="461964173" k="massgis:EOEAINVOLV" o="add" type="way" v="0" />
+    <tag id="461964173" k="massgis:FY_FUNDING" o="add" type="way" v="0" />
+    <tag id="461964173" k="massgis:MANAGR_TYP" o="add" type="way" v="M" />
+    <tag id="461964173" k="massgis:OS_DEED_BO" o="add" type="way" v="0" />
+    <tag id="461964173" k="massgis:OS_DEED_PA" o="add" type="way" v="0" />
+    <tag id="461964173" k="massgis:OWNER_ABRV" o="add" type="way" v="M307" />
+    <tag id="461964173" k="massgis:OWNER_TYPE" o="add" type="way" v="M" />
+    <tag id="461964173" k="massgis:PUB_ACCESS" o="add" type="way" v="Y" />
+    <tag id="461964173" k="massgis:SOURCE_MAP" o="add" type="way" v="1" />
+    <tag id="461964174" k="name" o="add" type="way" v="High Street" />
+    <tag id="461964174" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964174" k="width" o="add" type="way" v="10.1" />
+    <tag id="461964174" k="source" o="add" type="way" v="massgis_import_v0.1_20071009094103" />
+    <tag id="461964174" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964174" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964174" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964174" k="massgis:way_id" o="add" type="way" v="165726" />
+    <tag id="461964175" k="name" o="add" type="way" v="Elm Street" />
+    <tag id="461964175" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964175" k="width" o="add" type="way" v="18.3" />
+    <tag id="461964175" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964175" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461964175" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964175" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964175" k="massgis:way_id" o="add" type="way" v="197863" />
+    <tag id="461964176" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="461964177" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="461964178" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964178" k="highway" o="add" type="way" v="track" />
+    <tag id="461964178" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="461964178" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964178" k="massgis:way_id" o="add" type="way" v="175" />
+    <tag id="461964179" k="foot" o="add" type="way" v="yes" />
+    <tag id="461964179" k="highway" o="add" type="way" v="footway" />
+    <tag id="461964180" k="ref" o="add" type="way" v="MA 27" />
+    <tag id="461964180" k="name" o="add" type="way" v="High Street" />
+    <tag id="461964180" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964180" k="width" o="add" type="way" v="15.2" />
+    <tag id="461964180" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964180" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964180" k="condition" o="add" type="way" v="good" />
+    <tag id="461964180" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964180" k="massgis:way_id" o="add" type="way" v="178379" />
+    <tag id="461964181" k="ref" o="add" type="way" v="MA 27" />
+    <tag id="461964181" k="name" o="add" type="way" v="High Street" />
+    <tag id="461964181" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964181" k="width" o="add" type="way" v="15.2" />
+    <tag id="461964181" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964181" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964181" k="condition" o="add" type="way" v="good" />
+    <tag id="461964181" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964181" k="massgis:way_id" o="add" type="way" v="178379" />
+    <tag id="461964182" k="name" o="add" type="way" v="Granite Street" />
+    <tag id="461964182" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964182" k="width" o="add" type="way" v="12.2" />
+    <tag id="461964182" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964182" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964182" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964182" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964182" k="massgis:way_id" o="add" type="way" v="182607" />
+    <tag id="461964183" k="name" o="add" type="way" v="Granite Street" />
+    <tag id="461964183" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964183" k="width" o="add" type="way" v="15.2" />
+    <tag id="461964183" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964183" k="highway" o="add" type="way" v="residential" />
+    <tag id="461964183" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964183" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964183" k="massgis:way_id" o="add" type="way" v="182607" />
+    <tag id="461964184" k="name" o="add" type="way" v="South Street" />
+    <tag id="461964184" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964184" k="width" o="add" type="way" v="10.7" />
+    <tag id="461964184" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964184" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964184" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964184" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964184" k="massgis:way_id" o="add" type="way" v="118844" />
+    <tag id="461964185" k="name" o="add" type="way" v="South Street" />
+    <tag id="461964185" k="lanes" o="add" type="way" v="2" />
+    <tag id="461964185" k="width" o="add" type="way" v="10.7" />
+    <tag id="461964185" k="source" o="add" type="way" v="massgis_import_v0.1_20071009090906" />
+    <tag id="461964185" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461964185" k="condition" o="add" type="way" v="fair" />
+    <tag id="461964185" k="attribution" o="add" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="461964185" k="massgis:way_id" o="add" type="way" v="118844" />
+    <tag id="461964186" k="highway" o="add" type="way" v="service" />
+    <tag id="461964186" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="461964187" k="amenity" o="add" type="way" v="parking" />
+    <tag id="363668" k="name" o="none" type="relation" v="Bay Circuit Trail" />
+    <tag id="363668" k="type" o="none" type="relation" v="route" />
+    <tag id="363668" k="route" o="none" type="relation" v="hiking" />
+    <tag id="363668" k="network" o="none" type="relation" v="rwn" />
+    <tag id="363668" k="website" o="none" type="relation" v="http://www.baycircuit.org" />
+    <tag id="1345434" k="ref" o="none" type="relation" v="27" />
+    <tag id="1345434" k="name" o="none" type="relation" v="MA 27" />
+    <tag id="1345434" k="type" o="none" type="relation" v="route" />
+    <tag id="1345434" k="route" o="none" type="relation" v="road" />
+    <tag id="1345434" k="network" o="none" type="relation" v="US:MA" />
+  </body>
+</changeset>

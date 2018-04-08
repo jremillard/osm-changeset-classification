@@ -1,0 +1,232 @@
+<changeset id="44156550" schema="2">
+  <counts nodesAdded="154" nodesDeleted="17" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="38" waysDeleted="7" waysModified="13" />
+  <meta>
+    <tag k="comment" v="[Rizal] add details to high-voltage transmission line between Taytay and Malaya Thermal Power Plant, map substation components on NGCP/Meralco Dolores Substation, Meralco 115 kV subtransmission lines, rename electrical equipment plant, adjust some roads" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="note" v="115 kV and 230 kV voltages tagged by practices by operators (115 kV=Meralco subtransmission lines in Metro Manila and nearby provinces with such lines connected with those in Metro Manila, 230 kV=common voltage of NGCP transmission lines in Luzon)" />
+    <tag k="source" v="Bing;existing OpenStreetMap data;extrapolation;survey (November 2016)" />
+  </meta>
+  <body>
+    <tag id="2390272954" k="power" o="none" type="node" v="tower" />
+    <tag id="97816397" k="name" o="none" type="way" v="Dolores Substation" />
+    <tag id="97816397" k="power" o="none" type="way" v="substation" />
+    <tag id="97816397" k="source" o="none" type="way" v="bing" />
+    <tag id="97816397" k="landuse" o="none" type="way" v="industrial" />
+    <tag id="97816397" k="voltage" o="add" type="way" v="230000;115000;34500" />
+    <tag id="97816397" k="location" o="add" type="way" v="outdoor" />
+    <tag id="97816397" k="operator" o="none" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="97816397" k="addr:city" o="none" type="way" v="Taytay" />
+    <tag id="97816397" k="substation" o="add" type="way" v="transmission" />
+    <tag id="97816397" k="addr:street" o="none" type="way" v="L Wood Street" />
+    <tag id="97816399" k="layer" o="none" type="way" v="1" />
+    <tag id="97816399" k="power" o="none" type="way" v="line" />
+    <tag id="97816399" k="wires" o="add" type="way" v="quad" />
+    <tag id="97816399" k="cables" o="add" type="way" v="6" />
+    <tag id="97816399" k="voltage" o="add" type="way" v="230000" />
+    <tag id="97816399" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="97816399" k="frequency" o="add" type="way" v="60" />
+    <tag id="189225607" k="name" o="modify" type="way" v="Philec" />
+    <tag id="189225607" k="landuse" o="none" type="way" v="industrial" />
+    <tag id="189225607" k="man_made" o="add" type="way" v="works" />
+    <tag id="189995107" k="layer" o="none" type="way" v="2" />
+    <tag id="189995107" k="power" o="none" type="way" v="line" />
+    <tag id="189995107" k="cables" o="add" type="way" v="3" />
+    <tag id="189995107" k="voltage" o="add" type="way" v="230000" />
+    <tag id="189995107" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="189995107" k="frequency" o="add" type="way" v="60" />
+    <tag id="238182040" k="fixme" o="modify" type="way" v="complete trace, find towers, and determine number of wires per cable" />
+    <tag id="238182040" k="power" o="none" type="way" v="line" />
+    <tag id="238182040" k="cables" o="add" type="way" v="3" />
+    <tag id="238182040" k="voltage" o="add" type="way" v="115000" />
+    <tag id="238182040" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="238182040" k="frequency" o="add" type="way" v="60" />
+    <tag id="406900286" k="highway" o="none" type="way" v="residential" />
+    <tag id="457654223" k="line" o="add" type="way" v="bay" />
+    <tag id="457654223" k="power" o="add" type="way" v="line" />
+    <tag id="457654223" k="cables" o="add" type="way" v="3" />
+    <tag id="457654223" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654223" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654223" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654224" k="power" o="add" type="way" v="line" />
+    <tag id="457654224" k="wires" o="add" type="way" v="double" />
+    <tag id="457654224" k="cables" o="add" type="way" v="3" />
+    <tag id="457654224" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654224" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654224" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654225" k="power" o="add" type="way" v="portal" />
+    <tag id="457654226" k="line" o="add" type="way" v="busbar" />
+    <tag id="457654226" k="power" o="add" type="way" v="minor_line" />
+    <tag id="457654226" k="cables" o="add" type="way" v="3" />
+    <tag id="457654226" k="voltage" o="add" type="way" v="34500" />
+    <tag id="457654226" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654226" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654227" k="power" o="add" type="way" v="line" />
+    <tag id="457654227" k="cables" o="add" type="way" v="3" />
+    <tag id="457654227" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654227" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654227" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654228" k="line" o="add" type="way" v="bay" />
+    <tag id="457654228" k="power" o="add" type="way" v="line" />
+    <tag id="457654228" k="cables" o="add" type="way" v="3" />
+    <tag id="457654228" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654228" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654228" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654229" k="power" o="add" type="way" v="line" />
+    <tag id="457654229" k="wires" o="add" type="way" v="double" />
+    <tag id="457654229" k="cables" o="add" type="way" v="3" />
+    <tag id="457654229" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654229" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654229" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654230" k="line" o="add" type="way" v="bay" />
+    <tag id="457654230" k="power" o="add" type="way" v="line" />
+    <tag id="457654230" k="cables" o="add" type="way" v="3" />
+    <tag id="457654230" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654230" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654230" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654231" k="line" o="add" type="way" v="busbar" />
+    <tag id="457654231" k="power" o="add" type="way" v="line" />
+    <tag id="457654231" k="cables" o="add" type="way" v="3" />
+    <tag id="457654231" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654231" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654231" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654232" k="line" o="add" type="way" v="busbar" />
+    <tag id="457654232" k="power" o="add" type="way" v="line" />
+    <tag id="457654232" k="cables" o="add" type="way" v="3" />
+    <tag id="457654232" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654232" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654233" k="line" o="add" type="way" v="bay" />
+    <tag id="457654233" k="power" o="add" type="way" v="line" />
+    <tag id="457654233" k="cables" o="add" type="way" v="3" />
+    <tag id="457654233" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654233" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654233" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654234" k="power" o="add" type="way" v="line" />
+    <tag id="457654234" k="wires" o="add" type="way" v="double" />
+    <tag id="457654234" k="cables" o="add" type="way" v="3" />
+    <tag id="457654234" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654234" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654234" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654235" k="power" o="add" type="way" v="portal" />
+    <tag id="457654236" k="line" o="add" type="way" v="bay" />
+    <tag id="457654236" k="power" o="add" type="way" v="line" />
+    <tag id="457654236" k="cables" o="add" type="way" v="3" />
+    <tag id="457654236" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654236" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654236" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654237" k="power" o="add" type="way" v="line" />
+    <tag id="457654237" k="wires" o="add" type="way" v="double" />
+    <tag id="457654237" k="cables" o="add" type="way" v="3" />
+    <tag id="457654237" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654237" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654237" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654238" k="power" o="add" type="way" v="line" />
+    <tag id="457654238" k="wires" o="add" type="way" v="double" />
+    <tag id="457654238" k="cables" o="add" type="way" v="3" />
+    <tag id="457654238" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654238" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654238" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654239" k="line" o="add" type="way" v="bay" />
+    <tag id="457654239" k="power" o="add" type="way" v="line" />
+    <tag id="457654239" k="cables" o="add" type="way" v="3" />
+    <tag id="457654239" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654239" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654239" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654240" k="power" o="add" type="way" v="portal" />
+    <tag id="457654241" k="power" o="add" type="way" v="portal" />
+    <tag id="457654242" k="power" o="add" type="way" v="portal" />
+    <tag id="457654243" k="power" o="add" type="way" v="line" />
+    <tag id="457654243" k="wires" o="add" type="way" v="double" />
+    <tag id="457654243" k="cables" o="add" type="way" v="3" />
+    <tag id="457654243" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654243" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654243" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654244" k="power" o="add" type="way" v="line" />
+    <tag id="457654244" k="wires" o="add" type="way" v="double" />
+    <tag id="457654244" k="cables" o="add" type="way" v="3" />
+    <tag id="457654244" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654244" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654244" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654245" k="power" o="add" type="way" v="line" />
+    <tag id="457654245" k="wires" o="add" type="way" v="double" />
+    <tag id="457654245" k="cables" o="add" type="way" v="6" />
+    <tag id="457654245" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654245" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654245" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654246" k="power" o="add" type="way" v="line" />
+    <tag id="457654246" k="wires" o="add" type="way" v="double" />
+    <tag id="457654246" k="cables" o="add" type="way" v="3" />
+    <tag id="457654246" k="voltage" o="add" type="way" v="115000" />
+    <tag id="457654246" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654246" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654247" k="power" o="add" type="way" v="portal" />
+    <tag id="457654247" k="design" o="add" type="way" v="portal" />
+    <tag id="457654247" k="material" o="add" type="way" v="steel" />
+    <tag id="457654247" k="operator" o="add" type="way" v="Meralco" />
+    <tag id="457654247" k="structure" o="add" type="way" v="lattice" />
+    <tag id="457654248" k="layer" o="add" type="way" v="1" />
+    <tag id="457654248" k="power" o="add" type="way" v="line" />
+    <tag id="457654248" k="wires" o="add" type="way" v="quad" />
+    <tag id="457654248" k="cables" o="add" type="way" v="3" />
+    <tag id="457654248" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654248" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654248" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654249" k="line" o="add" type="way" v="busbar" />
+    <tag id="457654249" k="power" o="add" type="way" v="line" />
+    <tag id="457654249" k="cables" o="add" type="way" v="3" />
+    <tag id="457654249" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654249" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654249" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654250" k="line" o="add" type="way" v="bay" />
+    <tag id="457654250" k="power" o="add" type="way" v="line" />
+    <tag id="457654250" k="cables" o="add" type="way" v="3" />
+    <tag id="457654250" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654250" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654250" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654251" k="layer" o="add" type="way" v="2" />
+    <tag id="457654251" k="power" o="add" type="way" v="line" />
+    <tag id="457654251" k="cables" o="add" type="way" v="3" />
+    <tag id="457654251" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654251" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654251" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654252" k="layer" o="add" type="way" v="2" />
+    <tag id="457654252" k="power" o="add" type="way" v="line" />
+    <tag id="457654252" k="cables" o="add" type="way" v="3" />
+    <tag id="457654252" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654252" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654252" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654253" k="line" o="add" type="way" v="busbar" />
+    <tag id="457654253" k="power" o="add" type="way" v="line" />
+    <tag id="457654253" k="cables" o="add" type="way" v="3" />
+    <tag id="457654253" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654253" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654253" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654254" k="layer" o="add" type="way" v="1" />
+    <tag id="457654254" k="power" o="add" type="way" v="line" />
+    <tag id="457654254" k="wires" o="add" type="way" v="quad" />
+    <tag id="457654254" k="cables" o="add" type="way" v="3" />
+    <tag id="457654254" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654254" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654254" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654255" k="line" o="add" type="way" v="bay" />
+    <tag id="457654255" k="power" o="add" type="way" v="line" />
+    <tag id="457654255" k="cables" o="add" type="way" v="3" />
+    <tag id="457654255" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654255" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654255" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654256" k="power" o="add" type="way" v="line" />
+    <tag id="457654256" k="wires" o="add" type="way" v="quad" />
+    <tag id="457654256" k="cables" o="add" type="way" v="3" />
+    <tag id="457654256" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654256" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654256" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654257" k="power" o="add" type="way" v="line" />
+    <tag id="457654257" k="wires" o="add" type="way" v="quad" />
+    <tag id="457654257" k="cables" o="add" type="way" v="3" />
+    <tag id="457654257" k="voltage" o="add" type="way" v="230000" />
+    <tag id="457654257" k="operator" o="add" type="way" v="National Grid Corporation of the Philippines" />
+    <tag id="457654257" k="frequency" o="add" type="way" v="60" />
+    <tag id="457654258" k="power" o="add" type="way" v="portal" />
+    <tag id="457654259" k="power" o="add" type="way" v="portal" />
+    <tag id="457654260" k="power" o="add" type="way" v="portal" />
+  </body>
+</changeset>

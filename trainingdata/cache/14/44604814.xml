@@ -1,0 +1,870 @@
+<changeset id="44604814" schema="2">
+  <counts nodesAdded="116" nodesDeleted="366" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="15" waysAdded="36" waysDeleted="12" waysModified="66" />
+  <meta>
+    <tag k="comment" v="Combine minor civil boundaries with highways and admin_level=8 boundaries" />
+    <tag k="created_by" v="JOSM/1.5 (11407 en)" />
+    <tag k="source" v="Existing OSM data, just combine admin_level=2 and 4 boundaries." />
+  </meta>
+  <body>
+    <tag id="357625510" k="ele" o="none" type="node" v="10" />
+    <tag id="357625510" k="name" o="none" type="node" v="Cutchogue United Methodist Church" />
+    <tag id="357625510" k="amenity" o="none" type="node" v="place_of_worship" />
+    <tag id="357625510" k="religion" o="none" type="node" v="christian" />
+    <tag id="357625510" k="denomination" o="none" type="node" v="methodist" />
+    <tag id="357625510" k="gnis:created" o="none" type="node" v="02/13/2007" />
+    <tag id="357625510" k="gnis:state_id" o="none" type="node" v="36" />
+    <tag id="357625510" k="gnis:county_id" o="none" type="node" v="103" />
+    <tag id="357625510" k="gnis:feature_id" o="none" type="node" v="2105335" />
+    <tag id="20174267" k="access" o="none" type="way" v="private" />
+    <tag id="20174267" k="highway" o="none" type="way" v="service" />
+    <tag id="20174267" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="20174267" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20174267" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20182814" k="highway" o="none" type="way" v="residential" />
+    <tag id="20182814" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20182814" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20182814" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20182815" k="highway" o="none" type="way" v="residential" />
+    <tag id="20182815" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20182815" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20182815" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20193654" k="name" o="none" type="way" v="Farm View Road" />
+    <tag id="20193654" k="highway" o="none" type="way" v="residential" />
+    <tag id="20193654" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20193654" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20193654" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20193654" k="tiger:name_base" o="none" type="way" v="Farm View" />
+    <tag id="20193654" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20196071" k="name" o="none" type="way" v="Bergen Avenue" />
+    <tag id="20196071" k="highway" o="none" type="way" v="residential" />
+    <tag id="20196071" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20196071" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20196071" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20196071" k="tiger:name_base" o="none" type="way" v="Bergen" />
+    <tag id="20196071" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="20209130" k="hgv" o="none" type="way" v="designated" />
+    <tag id="20209130" k="ref" o="none" type="way" v="CR 48;25 Truck" />
+    <tag id="20209130" k="name" o="none" type="way" v="County Road 48" />
+    <tag id="20209130" k="oneway" o="none" type="way" v="yes" />
+    <tag id="20209130" k="highway" o="none" type="way" v="primary" />
+    <tag id="20209130" k="operator" o="none" type="way" v="Suffolk County" />
+    <tag id="20209130" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="20209130" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20209130" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20209130" k="tiger:name_base" o="none" type="way" v="County Road 48" />
+    <tag id="20213384" k="name" o="none" type="way" v="Arbor Lane" />
+    <tag id="20213384" k="highway" o="none" type="way" v="residential" />
+    <tag id="20213384" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20213384" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20213384" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20213384" k="tiger:zip_left" o="none" type="way" v="11952" />
+    <tag id="20213384" k="tiger:name_base" o="none" type="way" v="Arbor" />
+    <tag id="20213384" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="20213384" k="tiger:zip_right" o="none" type="way" v="11952" />
+    <tag id="20213490" k="name" o="none" type="way" v="A Road" />
+    <tag id="20213490" k="highway" o="none" type="way" v="residential" />
+    <tag id="20213490" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20213490" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20213490" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20213490" k="tiger:name_base" o="none" type="way" v="A" />
+    <tag id="20213490" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20213992" k="name" o="none" type="way" v="Old Pasture Road" />
+    <tag id="20213992" k="highway" o="none" type="way" v="residential" />
+    <tag id="20213992" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20213992" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20213992" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20213992" k="tiger:zip_left" o="none" type="way" v="11935" />
+    <tag id="20213992" k="tiger:name_base" o="none" type="way" v="Old Pasture" />
+    <tag id="20213992" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20213992" k="tiger:zip_right" o="none" type="way" v="11935" />
+    <tag id="20215122" k="ref" o="none" type="way" v="CR 84" />
+    <tag id="20215122" k="name" o="none" type="way" v="Cox Neck Road" />
+    <tag id="20215122" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="20215122" k="operator" o="none" type="way" v="Town of Southold" />
+    <tag id="20215122" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20215122" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20215122" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20215122" k="tiger:zip_left" o="none" type="way" v="11952" />
+    <tag id="20215122" k="tiger:name_base" o="none" type="way" v="Cox Neck" />
+    <tag id="20215122" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20215122" k="tiger:zip_right" o="none" type="way" v="11952" />
+    <tag id="20215899" k="name" o="none" type="way" v="Wickhams Drive" />
+    <tag id="20215899" k="highway" o="none" type="way" v="residential" />
+    <tag id="20215899" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20215899" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20215899" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20215899" k="tiger:name_base" o="none" type="way" v="Wickhams" />
+    <tag id="20215899" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="20216854" k="ref" o="none" type="way" v="CR 26" />
+    <tag id="20216854" k="name" o="none" type="way" v="New Suffolk Road" />
+    <tag id="20216854" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="20216854" k="operator" o="none" type="way" v="Town of Southold" />
+    <tag id="20216854" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20216854" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20216854" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20216854" k="tiger:zip_left" o="none" type="way" v="11935" />
+    <tag id="20216854" k="tiger:name_base" o="none" type="way" v="New Suffolk" />
+    <tag id="20216854" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20216854" k="tiger:zip_right" o="none" type="way" v="11935" />
+    <tag id="20240294" k="name" o="none" type="way" v="Cedars Road" />
+    <tag id="20240294" k="highway" o="none" type="way" v="residential" />
+    <tag id="20240294" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20240294" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20240294" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20240294" k="tiger:zip_left" o="none" type="way" v="11935" />
+    <tag id="20240294" k="tiger:name_base" o="none" type="way" v="Cedars" />
+    <tag id="20240294" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20241210" k="name" o="none" type="way" v="Sigsbee Road" />
+    <tag id="20241210" k="highway" o="none" type="way" v="residential" />
+    <tag id="20241210" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20241210" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20241210" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20241210" k="tiger:zip_left" o="none" type="way" v="11952" />
+    <tag id="20241210" k="tiger:name_base" o="none" type="way" v="Sigsbee" />
+    <tag id="20241210" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="20241210" k="tiger:zip_right" o="none" type="way" v="11952" />
+    <tag id="20256326" k="ref" o="none" type="way" v="CR 48" />
+    <tag id="20256326" k="name" o="none" type="way" v="Sound Avenue" />
+    <tag id="20256326" k="highway" o="none" type="way" v="secondary" />
+    <tag id="20256326" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="20256326" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="20256326" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="20256326" k="tiger:name_base" o="none" type="way" v="Sound" />
+    <tag id="20256326" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="22691527" k="source" o="none" type="way" v="PGS" />
+    <tag id="22691527" k="natural" o="none" type="way" v="coastline" />
+    <tag id="32227470" k="hgv" o="none" type="way" v="designated" />
+    <tag id="32227470" k="ref" o="none" type="way" v="CR 48;25 Truck" />
+    <tag id="32227470" k="name" o="none" type="way" v="County Road 48" />
+    <tag id="32227470" k="name_1" o="none" type="way" v="North Rd; County Road 48" />
+    <tag id="32227470" k="oneway" o="none" type="way" v="yes" />
+    <tag id="32227470" k="highway" o="none" type="way" v="primary" />
+    <tag id="32227470" k="operator" o="none" type="way" v="Suffolk County" />
+    <tag id="32227470" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="32227470" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="32227470" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32227470" k="tiger:name_base" o="none" type="way" v="County Road 48; Middle" />
+    <tag id="32227470" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="32227470" k="tiger:name_base_1" o="none" type="way" v="North; County Road 48" />
+    <tag id="32227470" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="37786324" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37786324" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37786324" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37859827" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37859827" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37859827" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37859828" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37859828" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37859828" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37859833" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37859833" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37859833" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37859833" k="boundary_type" o="add" type="way" v="territorial_waters" />
+    <tag id="37859834" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37859834" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37859834" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37859835" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37859835" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37859835" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37859836" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37859836" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37859836" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860306" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860306" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860306" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860308" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860308" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860308" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860309" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860309" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860309" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860350" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860350" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860350" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860491" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860491" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860491" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860494" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860494" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860494" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860504" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860504" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860504" k="admin_level" o="none" type="way" v="8" />
+    <tag id="37860505" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="37860505" k="natural" o="none" type="way" v="coastline" />
+    <tag id="37860505" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="37860505" k="admin_level" o="none" type="way" v="8" />
+    <tag id="49857734" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="49857734" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="49857734" k="admin_level" o="none" type="way" v="8" />
+    <tag id="54519281" k="lanes" o="none" type="way" v="1" />
+    <tag id="54519281" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="54519281" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="54519281" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="67918541" k="name" o="none" type="way" v="Sound Avenue" />
+    <tag id="67918541" k="highway" o="none" type="way" v="secondary" />
+    <tag id="67918541" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="67918541" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="67918541" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="67918541" k="tiger:name_base" o="none" type="way" v="Sound" />
+    <tag id="67918541" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="67918544" k="hgv" o="none" type="way" v="designated" />
+    <tag id="67918544" k="ref" o="none" type="way" v="CR 48;NY 25 Truck" />
+    <tag id="67918544" k="name" o="none" type="way" v="Sound Avenue" />
+    <tag id="67918544" k="highway" o="none" type="way" v="primary" />
+    <tag id="67918544" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="67918544" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="67918544" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="67918544" k="tiger:name_base" o="none" type="way" v="Sound" />
+    <tag id="67918544" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="95263422" k="ref" o="none" type="way" v="NY 25" />
+    <tag id="95263422" k="name" o="none" type="way" v="Main Road" />
+    <tag id="95263422" k="name_1" o="none" type="way" v="State Highway 25" />
+    <tag id="95263422" k="highway" o="none" type="way" v="primary" />
+    <tag id="95263422" k="rcn_ref" o="none" type="way" v="25" />
+    <tag id="95263422" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="95263422" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="95263422" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="95263422" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="95263422" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="95263422" k="tiger:name_base_1" o="none" type="way" v="State Highway 25" />
+    <tag id="163118870" k="ref" o="none" type="way" v="NY 25" />
+    <tag id="163118870" k="name" o="none" type="way" v="Main Road" />
+    <tag id="163118870" k="name_1" o="none" type="way" v="State Highway 25" />
+    <tag id="163118870" k="highway" o="none" type="way" v="primary" />
+    <tag id="163118870" k="rcn_ref" o="none" type="way" v="25" />
+    <tag id="163118870" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="163118870" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="163118870" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="163118870" k="tiger:zip_left" o="none" type="way" v="11952" />
+    <tag id="163118870" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="163118870" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="163118870" k="tiger:zip_left_1" o="none" type="way" v="11952" />
+    <tag id="163118870" k="tiger:name_base_1" o="none" type="way" v="State Highway 25" />
+    <tag id="163126103" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="163126103" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="163126103" k="admin_level" o="none" type="way" v="8" />
+    <tag id="200742239" k="name" o="none" type="way" v="Peconic Bay Boulevard" />
+    <tag id="200742239" k="highway" o="none" type="way" v="residential" />
+    <tag id="200742239" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="200742239" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="200742239" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="200742239" k="tiger:zip_left" o="none" type="way" v="11952" />
+    <tag id="200742239" k="tiger:name_base" o="none" type="way" v="Peconic Bay" />
+    <tag id="200742239" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="200742239" k="tiger:zip_left_1" o="none" type="way" v="11952" />
+    <tag id="266255235" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="266255235" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="266255235" k="admin_level" o="none" type="way" v="8" />
+    <tag id="337684149" k="hgv" o="none" type="way" v="designated" />
+    <tag id="337684149" k="ref" o="none" type="way" v="CR 48;25 Truck" />
+    <tag id="337684149" k="name" o="none" type="way" v="North Road" />
+    <tag id="337684149" k="name_1" o="none" type="way" v="County Road 48" />
+    <tag id="337684149" k="highway" o="none" type="way" v="primary" />
+    <tag id="337684149" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="337684149" k="tiger:county" o="none" type="way" v="Suffolk, NY" />
+    <tag id="337684149" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="337684149" k="tiger:zip_left" o="none" type="way" v="11971" />
+    <tag id="337684149" k="tiger:name_base" o="none" type="way" v="North" />
+    <tag id="337684149" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="337684149" k="tiger:zip_right" o="none" type="way" v="11971" />
+    <tag id="337684149" k="tiger:name_base_1" o="none" type="way" v="County Road 48" />
+    <tag id="354384264" k="source" o="none" type="way" v="PGS" />
+    <tag id="354384264" k="natural" o="none" type="way" v="coastline" />
+    <tag id="359428183" k="source" o="none" type="way" v="PGS" />
+    <tag id="359428183" k="natural" o="none" type="way" v="coastline" />
+    <tag id="359436690" k="name" o="none" type="way" v="West Creek" />
+    <tag id="359436690" k="waterway" o="none" type="way" v="river" />
+    <tag id="383368809" k="name" o="none" type="way" v="Peconic River" />
+    <tag id="383368809" k="waterway" o="modify" type="way" v="river" />
+    <tag id="383369493" k="name" o="none" type="way" v="Peconic River" />
+    <tag id="383369493" k="waterway" o="modify" type="way" v="river" />
+    <tag id="383375216" k="layer" o="none" type="way" v="-1" />
+    <tag id="383375216" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="383375216" k="waterway" o="none" type="way" v="river" />
+    <tag id="383376082" k="layer" o="none" type="way" v="-1" />
+    <tag id="383376082" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="383376082" k="waterway" o="none" type="way" v="river" />
+    <tag id="383378491" k="waterway" o="none" type="way" v="ditch" />
+    <tag id="397258003" k="layer" o="none" type="way" v="-1" />
+    <tag id="397258003" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="397258003" k="waterway" o="none" type="way" v="river" />
+    <tag id="397270434" k="name" o="none" type="way" v="Peconic River" />
+    <tag id="397270434" k="waterway" o="none" type="way" v="river" />
+    <tag id="397271961" k="layer" o="none" type="way" v="-1" />
+    <tag id="397271961" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="397271961" k="waterway" o="none" type="way" v="river" />
+    <tag id="397271963" k="waterway" o="modify" type="way" v="river" />
+    <tag id="461231111" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231111" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231111" k="admin_level" o="add" type="way" v="8" />
+    <tag id="461231114" k="access" o="add" type="way" v="private" />
+    <tag id="461231114" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231114" k="highway" o="add" type="way" v="service" />
+    <tag id="461231114" k="service" o="add" type="way" v="driveway" />
+    <tag id="461231114" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231114" k="admin_level" o="add" type="way" v="8" />
+    <tag id="461231115" k="ref" o="add" type="way" v="CR 26" />
+    <tag id="461231115" k="name" o="add" type="way" v="New Suffolk Road" />
+    <tag id="461231115" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461231115" k="operator" o="add" type="way" v="Town of Southold" />
+    <tag id="461231115" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231115" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231115" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231115" k="tiger:zip_left" o="add" type="way" v="11935" />
+    <tag id="461231115" k="tiger:name_base" o="add" type="way" v="New Suffolk" />
+    <tag id="461231115" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231115" k="tiger:zip_right" o="add" type="way" v="11935" />
+    <tag id="461231120" k="ref" o="add" type="way" v="CR 26" />
+    <tag id="461231120" k="name" o="add" type="way" v="New Suffolk Road" />
+    <tag id="461231120" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461231120" k="operator" o="add" type="way" v="Town of Southold" />
+    <tag id="461231120" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231120" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231120" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231120" k="tiger:zip_left" o="add" type="way" v="11935" />
+    <tag id="461231120" k="tiger:name_base" o="add" type="way" v="New Suffolk" />
+    <tag id="461231120" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231120" k="tiger:zip_right" o="add" type="way" v="11935" />
+    <tag id="461231124" k="name" o="add" type="way" v="Wickhams Drive" />
+    <tag id="461231124" k="highway" o="add" type="way" v="residential" />
+    <tag id="461231124" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231124" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231124" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231124" k="tiger:name_base" o="add" type="way" v="Wickhams" />
+    <tag id="461231124" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="461231127" k="name" o="add" type="way" v="Old Pasture Road" />
+    <tag id="461231127" k="highway" o="add" type="way" v="residential" />
+    <tag id="461231127" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231127" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231127" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231127" k="tiger:zip_left" o="add" type="way" v="11935" />
+    <tag id="461231127" k="tiger:name_base" o="add" type="way" v="Old Pasture" />
+    <tag id="461231127" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231127" k="tiger:zip_right" o="add" type="way" v="11935" />
+    <tag id="461231129" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231129" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231129" k="admin_level" o="add" type="way" v="8" />
+    <tag id="461231131" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231131" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231131" k="admin_level" o="add" type="way" v="8" />
+    <tag id="461231133" k="layer" o="add" type="way" v="-1" />
+    <tag id="461231133" k="source" o="add" type="way" v="Bing" />
+    <tag id="461231133" k="waterway" o="add" type="way" v="stream" />
+    <tag id="461231135" k="ref" o="add" type="way" v="NY 25" />
+    <tag id="461231135" k="name" o="add" type="way" v="Main Road" />
+    <tag id="461231135" k="name_1" o="add" type="way" v="State Highway 25" />
+    <tag id="461231135" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231135" k="rcn_ref" o="add" type="way" v="25" />
+    <tag id="461231135" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="461231135" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231135" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231135" k="tiger:name_base" o="add" type="way" v="Main" />
+    <tag id="461231135" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231135" k="tiger:name_base_1" o="add" type="way" v="State Highway 25" />
+    <tag id="461231137" k="hgv" o="add" type="way" v="designated" />
+    <tag id="461231137" k="ref" o="add" type="way" v="CR 48;25 Truck" />
+    <tag id="461231137" k="name" o="add" type="way" v="North Road" />
+    <tag id="461231137" k="name_1" o="add" type="way" v="County Road 48" />
+    <tag id="461231137" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231137" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231137" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231137" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231137" k="tiger:zip_left" o="add" type="way" v="11971" />
+    <tag id="461231137" k="tiger:name_base" o="add" type="way" v="North" />
+    <tag id="461231137" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231137" k="tiger:zip_right" o="add" type="way" v="11971" />
+    <tag id="461231137" k="tiger:name_base_1" o="add" type="way" v="County Road 48" />
+    <tag id="461231138" k="hgv" o="add" type="way" v="designated" />
+    <tag id="461231138" k="ref" o="add" type="way" v="CR 48;25 Truck" />
+    <tag id="461231138" k="name" o="add" type="way" v="North Road" />
+    <tag id="461231138" k="name_1" o="add" type="way" v="County Road 48" />
+    <tag id="461231138" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231138" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231138" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231138" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231138" k="tiger:zip_left" o="add" type="way" v="11971" />
+    <tag id="461231138" k="tiger:name_base" o="add" type="way" v="North" />
+    <tag id="461231138" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231138" k="tiger:zip_right" o="add" type="way" v="11971" />
+    <tag id="461231138" k="tiger:name_base_1" o="add" type="way" v="County Road 48" />
+    <tag id="461231141" k="name" o="add" type="way" v="Arbor Lane" />
+    <tag id="461231141" k="highway" o="add" type="way" v="residential" />
+    <tag id="461231141" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231141" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231141" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231141" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231141" k="tiger:name_base" o="add" type="way" v="Arbor" />
+    <tag id="461231141" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="461231141" k="tiger:zip_right" o="add" type="way" v="11952" />
+    <tag id="461231142" k="name" o="add" type="way" v="Sound Avenue" />
+    <tag id="461231142" k="oneway" o="add" type="way" v="yes" />
+    <tag id="461231142" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461231142" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231142" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231142" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231142" k="tiger:name_base" o="add" type="way" v="Sound" />
+    <tag id="461231142" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="461231143" k="ref" o="add" type="way" v="CR 84" />
+    <tag id="461231143" k="name" o="add" type="way" v="Cox Neck Road" />
+    <tag id="461231143" k="oneway" o="add" type="way" v="yes" />
+    <tag id="461231143" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461231143" k="operator" o="add" type="way" v="Town of Southold" />
+    <tag id="461231143" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231143" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231143" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231143" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231143" k="tiger:name_base" o="add" type="way" v="Cox Neck" />
+    <tag id="461231143" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231143" k="tiger:zip_right" o="add" type="way" v="11952" />
+    <tag id="461231144" k="ref" o="add" type="way" v="CR 84" />
+    <tag id="461231144" k="name" o="add" type="way" v="Cox Neck Road" />
+    <tag id="461231144" k="oneway" o="add" type="way" v="yes" />
+    <tag id="461231144" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461231144" k="operator" o="add" type="way" v="Town of Southold" />
+    <tag id="461231144" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231144" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231144" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231144" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231144" k="tiger:name_base" o="add" type="way" v="Cox Neck" />
+    <tag id="461231144" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231144" k="tiger:zip_right" o="add" type="way" v="11952" />
+    <tag id="461231145" k="name" o="add" type="way" v="Sound Avenue" />
+    <tag id="461231145" k="oneway" o="add" type="way" v="yes" />
+    <tag id="461231145" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461231145" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231145" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231145" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231145" k="tiger:name_base" o="add" type="way" v="Sound" />
+    <tag id="461231145" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="461231146" k="hgv" o="add" type="way" v="designated" />
+    <tag id="461231146" k="ref" o="add" type="way" v="CR 48;25 Truck" />
+    <tag id="461231146" k="name" o="add" type="way" v="County Road 48" />
+    <tag id="461231146" k="oneway" o="add" type="way" v="yes" />
+    <tag id="461231146" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231146" k="operator" o="add" type="way" v="Suffolk County" />
+    <tag id="461231146" k="tiger:cfcc" o="add" type="way" v="A45" />
+    <tag id="461231146" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231146" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231146" k="tiger:name_base" o="add" type="way" v="County Road 48" />
+    <tag id="461231147" k="hgv" o="add" type="way" v="designated" />
+    <tag id="461231147" k="ref" o="add" type="way" v="CR 48;25 Truck" />
+    <tag id="461231147" k="name" o="add" type="way" v="County Road 48" />
+    <tag id="461231147" k="oneway" o="add" type="way" v="yes" />
+    <tag id="461231147" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231147" k="operator" o="add" type="way" v="Suffolk County" />
+    <tag id="461231147" k="tiger:cfcc" o="add" type="way" v="A45" />
+    <tag id="461231147" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231147" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231147" k="tiger:name_base" o="add" type="way" v="County Road 48" />
+    <tag id="461231148" k="ref" o="add" type="way" v="CR 48" />
+    <tag id="461231148" k="name" o="add" type="way" v="Sound Avenue" />
+    <tag id="461231148" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461231148" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231148" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231148" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231148" k="tiger:name_base" o="add" type="way" v="Sound" />
+    <tag id="461231148" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="461231149" k="name" o="add" type="way" v="Sound Avenue" />
+    <tag id="461231149" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461231149" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231149" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231149" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231149" k="tiger:name_base" o="add" type="way" v="Sound" />
+    <tag id="461231149" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="461231150" k="ref" o="add" type="way" v="NY 25" />
+    <tag id="461231150" k="name" o="add" type="way" v="Main Road" />
+    <tag id="461231150" k="name_1" o="add" type="way" v="State Highway 25" />
+    <tag id="461231150" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231150" k="rcn_ref" o="add" type="way" v="25" />
+    <tag id="461231150" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="461231150" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231150" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231150" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231150" k="tiger:name_base" o="add" type="way" v="Main" />
+    <tag id="461231150" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231150" k="tiger:zip_left_1" o="add" type="way" v="11952" />
+    <tag id="461231150" k="tiger:name_base_1" o="add" type="way" v="State Highway 25" />
+    <tag id="461231151" k="ref" o="add" type="way" v="NY 25" />
+    <tag id="461231151" k="name" o="add" type="way" v="Main Road" />
+    <tag id="461231151" k="name_1" o="add" type="way" v="State Highway 25" />
+    <tag id="461231151" k="highway" o="add" type="way" v="primary" />
+    <tag id="461231151" k="rcn_ref" o="add" type="way" v="25" />
+    <tag id="461231151" k="tiger:cfcc" o="add" type="way" v="A31" />
+    <tag id="461231151" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231151" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231151" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231151" k="tiger:name_base" o="add" type="way" v="Main" />
+    <tag id="461231151" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231151" k="tiger:zip_left_1" o="add" type="way" v="11952" />
+    <tag id="461231151" k="tiger:name_base_1" o="add" type="way" v="State Highway 25" />
+    <tag id="461231152" k="name" o="add" type="way" v="Sigsbee Road" />
+    <tag id="461231152" k="highway" o="add" type="way" v="residential" />
+    <tag id="461231152" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231152" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231152" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231152" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231152" k="tiger:name_base" o="add" type="way" v="Sigsbee" />
+    <tag id="461231152" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461231152" k="tiger:zip_right" o="add" type="way" v="11952" />
+    <tag id="461231153" k="name" o="add" type="way" v="Peconic Bay Boulevard" />
+    <tag id="461231153" k="highway" o="add" type="way" v="residential" />
+    <tag id="461231153" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231153" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231153" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231153" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231153" k="tiger:name_base" o="add" type="way" v="Peconic Bay" />
+    <tag id="461231153" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="461231153" k="tiger:zip_left_1" o="add" type="way" v="11952" />
+    <tag id="461231154" k="name" o="add" type="way" v="Peconic Bay Boulevard" />
+    <tag id="461231154" k="highway" o="add" type="way" v="residential" />
+    <tag id="461231154" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461231154" k="tiger:county" o="add" type="way" v="Suffolk, NY" />
+    <tag id="461231154" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461231154" k="tiger:zip_left" o="add" type="way" v="11952" />
+    <tag id="461231154" k="tiger:name_base" o="add" type="way" v="Peconic Bay" />
+    <tag id="461231154" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="461231154" k="tiger:zip_left_1" o="add" type="way" v="11952" />
+    <tag id="461231155" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231155" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231155" k="admin_level" o="add" type="way" v="8" />
+    <tag id="461231156" k="name" o="add" type="way" v="Peconic River" />
+    <tag id="461231156" k="layer" o="add" type="way" v="-1" />
+    <tag id="461231156" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="461231156" k="waterway" o="add" type="way" v="river" />
+    <tag id="461231157" k="name" o="add" type="way" v="Peconic River" />
+    <tag id="461231157" k="waterway" o="add" type="way" v="river" />
+    <tag id="461231158" k="name" o="add" type="way" v="Peconic River" />
+    <tag id="461231158" k="layer" o="add" type="way" v="-1" />
+    <tag id="461231158" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="461231158" k="waterway" o="add" type="way" v="river" />
+    <tag id="461231159" k="name" o="add" type="way" v="Peconic River" />
+    <tag id="461231159" k="waterway" o="add" type="way" v="river" />
+    <tag id="461231160" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231160" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231160" k="admin_level" o="add" type="way" v="8" />
+    <tag id="461231161" k="source" o="add" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="461231161" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="461231161" k="admin_level" o="add" type="way" v="8" />
+    <tag id="175688" k="name" o="none" type="relation" v="Baiting Hollow" />
+    <tag id="175688" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175688" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175688" k="place" o="none" type="relation" v="locality" />
+    <tag id="175688" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175688" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175688" k="wikidata" o="none" type="relation" v="Q3461967" />
+    <tag id="175688" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175688" k="wikipedia" o="none" type="relation" v="en:Baiting Hollow, New York" />
+    <tag id="175688" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175688" k="tiger:NAME" o="none" type="relation" v="Baiting Hollow" />
+    <tag id="175688" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175688" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175688" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175688" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175688" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175688" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175688" k="tiger:PLACEFP" o="none" type="relation" v="04055" />
+    <tag id="175688" k="tiger:PLACENS" o="none" type="relation" v="02389167" />
+    <tag id="175688" k="tiger:PLCIDFP" o="none" type="relation" v="3604055" />
+    <tag id="175688" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175688" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175688" k="tiger:NAMELSAD" o="none" type="relation" v="Baiting Hollow CDP" />
+    <tag id="175688" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175688" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175688" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175688" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175702" k="name" o="none" type="relation" v="Calverton" />
+    <tag id="175702" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175702" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175702" k="place" o="none" type="relation" v="locality" />
+    <tag id="175702" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175702" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175702" k="wikidata" o="none" type="relation" v="Q2877571" />
+    <tag id="175702" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175702" k="wikipedia" o="none" type="relation" v="en:Calverton, New York" />
+    <tag id="175702" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175702" k="tiger:NAME" o="none" type="relation" v="Calverton" />
+    <tag id="175702" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175702" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175702" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175702" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175702" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175702" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175702" k="tiger:PLACEFP" o="none" type="relation" v="11781" />
+    <tag id="175702" k="tiger:PLACENS" o="none" type="relation" v="02389270" />
+    <tag id="175702" k="tiger:PLCIDFP" o="none" type="relation" v="3611781" />
+    <tag id="175702" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175702" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175702" k="tiger:NAMELSAD" o="none" type="relation" v="Calverton CDP" />
+    <tag id="175702" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175702" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175702" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175702" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175722" k="name" o="none" type="relation" v="New Suffolk" />
+    <tag id="175722" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175722" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175722" k="place" o="none" type="relation" v="locality" />
+    <tag id="175722" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175722" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175722" k="wikidata" o="none" type="relation" v="Q3461077" />
+    <tag id="175722" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175722" k="wikipedia" o="none" type="relation" v="en:New Suffolk, New York" />
+    <tag id="175722" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175722" k="tiger:NAME" o="none" type="relation" v="New Suffolk" />
+    <tag id="175722" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175722" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175722" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175722" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175722" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175722" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175722" k="tiger:PLACEFP" o="none" type="relation" v="50727" />
+    <tag id="175722" k="tiger:PLACENS" o="none" type="relation" v="02389544" />
+    <tag id="175722" k="tiger:PLCIDFP" o="none" type="relation" v="3650727" />
+    <tag id="175722" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175722" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175722" k="tiger:NAMELSAD" o="none" type="relation" v="New Suffolk CDP" />
+    <tag id="175722" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175722" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175722" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175722" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175723" k="name" o="none" type="relation" v="Cutchogue" />
+    <tag id="175723" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175723" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175723" k="place" o="none" type="relation" v="locality" />
+    <tag id="175723" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175723" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175723" k="wikidata" o="none" type="relation" v="Q614676" />
+    <tag id="175723" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175723" k="wikipedia" o="none" type="relation" v="en:Cutchogue, New York" />
+    <tag id="175723" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175723" k="tiger:NAME" o="none" type="relation" v="Cutchogue" />
+    <tag id="175723" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175723" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175723" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175723" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175723" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175723" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175723" k="tiger:PLACEFP" o="none" type="relation" v="19466" />
+    <tag id="175723" k="tiger:PLACENS" o="none" type="relation" v="02389387" />
+    <tag id="175723" k="tiger:PLCIDFP" o="none" type="relation" v="3619466" />
+    <tag id="175723" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175723" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175723" k="tiger:NAMELSAD" o="none" type="relation" v="Cutchogue CDP" />
+    <tag id="175723" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175723" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175723" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175723" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175750" k="name" o="none" type="relation" v="Greenport West" />
+    <tag id="175750" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175750" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175750" k="place" o="none" type="relation" v="locality" />
+    <tag id="175750" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175750" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175750" k="wikidata" o="none" type="relation" v="Q2655081" />
+    <tag id="175750" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175750" k="wikipedia" o="none" type="relation" v="en:Greenport West, New York" />
+    <tag id="175750" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175750" k="tiger:NAME" o="none" type="relation" v="Greenport West" />
+    <tag id="175750" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175750" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175750" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175750" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175750" k="tiger:CLASSFP" o="none" type="relation" v="U2" />
+    <tag id="175750" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175750" k="tiger:PLACEFP" o="none" type="relation" v="30581" />
+    <tag id="175750" k="tiger:PLACENS" o="none" type="relation" v="02389877" />
+    <tag id="175750" k="tiger:PLCIDFP" o="none" type="relation" v="3630581" />
+    <tag id="175750" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175750" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175750" k="tiger:NAMELSAD" o="none" type="relation" v="Greenport West CDP" />
+    <tag id="175750" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175750" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175750" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175750" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175755" k="name" o="none" type="relation" v="Jamesport" />
+    <tag id="175755" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175755" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175755" k="place" o="none" type="relation" v="locality" />
+    <tag id="175755" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175755" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175755" k="wikidata" o="none" type="relation" v="Q3460398" />
+    <tag id="175755" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175755" k="wikipedia" o="none" type="relation" v="en:Jamesport, New York" />
+    <tag id="175755" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175755" k="tiger:NAME" o="none" type="relation" v="Jamesport" />
+    <tag id="175755" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175755" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175755" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175755" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175755" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175755" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175755" k="tiger:PLACEFP" o="none" type="relation" v="38253" />
+    <tag id="175755" k="tiger:PLACENS" o="none" type="relation" v="02389977" />
+    <tag id="175755" k="tiger:PLCIDFP" o="none" type="relation" v="3638253" />
+    <tag id="175755" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175755" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175755" k="tiger:NAMELSAD" o="none" type="relation" v="Jamesport CDP" />
+    <tag id="175755" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175755" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175755" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175755" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175756" k="name" o="none" type="relation" v="Laurel" />
+    <tag id="175756" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175756" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175756" k="place" o="none" type="relation" v="locality" />
+    <tag id="175756" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175756" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175756" k="wikidata" o="none" type="relation" v="Q3460637" />
+    <tag id="175756" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175756" k="wikipedia" o="none" type="relation" v="en:Laurel, New York" />
+    <tag id="175756" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175756" k="tiger:NAME" o="none" type="relation" v="Laurel" />
+    <tag id="175756" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175756" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175756" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175756" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175756" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175756" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175756" k="tiger:PLACEFP" o="none" type="relation" v="41465" />
+    <tag id="175756" k="tiger:PLACENS" o="none" type="relation" v="02390036" />
+    <tag id="175756" k="tiger:PLCIDFP" o="none" type="relation" v="3641465" />
+    <tag id="175756" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175756" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175756" k="tiger:NAMELSAD" o="none" type="relation" v="Laurel CDP" />
+    <tag id="175756" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175756" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175756" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175756" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175758" k="name" o="none" type="relation" v="Manorville" />
+    <tag id="175758" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175758" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175758" k="place" o="none" type="relation" v="locality" />
+    <tag id="175758" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175758" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175758" k="wikidata" o="none" type="relation" v="Q3460208" />
+    <tag id="175758" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175758" k="wikipedia" o="none" type="relation" v="en:Manorville, New York" />
+    <tag id="175758" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175758" k="tiger:NAME" o="none" type="relation" v="Manorville" />
+    <tag id="175758" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175758" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175758" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175758" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175758" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175758" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175758" k="tiger:PLACEFP" o="none" type="relation" v="45139" />
+    <tag id="175758" k="tiger:PLACENS" o="none" type="relation" v="02390117" />
+    <tag id="175758" k="tiger:PLCIDFP" o="none" type="relation" v="3645139" />
+    <tag id="175758" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175758" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175758" k="tiger:NAMELSAD" o="none" type="relation" v="Manorville CDP" />
+    <tag id="175758" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175758" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175758" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175758" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175761" k="name" o="none" type="relation" v="Northville" />
+    <tag id="175761" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175761" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175761" k="place" o="none" type="relation" v="locality" />
+    <tag id="175761" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175761" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175761" k="wikidata" o="none" type="relation" v="Q3459914" />
+    <tag id="175761" k="tiger:CPI" o="none" type="relation" v="N" />
+    <tag id="175761" k="wikipedia" o="none" type="relation" v="en:Northville, Suffolk County, New York" />
+    <tag id="175761" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175761" k="tiger:NAME" o="none" type="relation" v="Northville" />
+    <tag id="175761" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175761" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175761" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175761" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175761" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175761" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175761" k="tiger:PLACEFP" o="none" type="relation" v="53775" />
+    <tag id="175761" k="tiger:PLACENS" o="none" type="relation" v="02389592" />
+    <tag id="175761" k="tiger:PLCIDFP" o="none" type="relation" v="3653775" />
+    <tag id="175761" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175761" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175761" k="tiger:NAMELSAD" o="none" type="relation" v="Northville CDP" />
+    <tag id="175761" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175761" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175761" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175761" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175762" k="name" o="none" type="relation" v="Mattituck" />
+    <tag id="175762" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175762" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175762" k="place" o="none" type="relation" v="locality" />
+    <tag id="175762" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175762" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175762" k="wikidata" o="none" type="relation" v="Q533896" />
+    <tag id="175762" k="tiger:CPI" o="none" type="relation" v="Y" />
+    <tag id="175762" k="wikipedia" o="none" type="relation" v="en:Mattituck, New York" />
+    <tag id="175762" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175762" k="tiger:NAME" o="none" type="relation" v="Mattituck" />
+    <tag id="175762" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175762" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175762" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175762" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175762" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175762" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175762" k="tiger:PLACEFP" o="none" type="relation" v="46140" />
+    <tag id="175762" k="tiger:PLACENS" o="none" type="relation" v="02390134" />
+    <tag id="175762" k="tiger:PLCIDFP" o="none" type="relation" v="3646140" />
+    <tag id="175762" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175762" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175762" k="tiger:NAMELSAD" o="none" type="relation" v="Mattituck CDP" />
+    <tag id="175762" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175762" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175762" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175762" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="175785" k="name" o="none" type="relation" v="Southold" />
+    <tag id="175785" k="type" o="none" type="relation" v="boundary" />
+    <tag id="175785" k="is_in" o="none" type="relation" v="USA, New York" />
+    <tag id="175785" k="place" o="none" type="relation" v="locality" />
+    <tag id="175785" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="175785" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="175785" k="wikidata" o="none" type="relation" v="Q3709805" />
+    <tag id="175785" k="tiger:CPI" o="none" type="relation" v="Y" />
+    <tag id="175785" k="wikipedia" o="none" type="relation" v="en:Southold (town), New York" />
+    <tag id="175785" k="tiger:LSAD" o="none" type="relation" v="57" />
+    <tag id="175785" k="tiger:NAME" o="none" type="relation" v="Southold" />
+    <tag id="175785" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="175785" k="is_in:state" o="none" type="relation" v="New York" />
+    <tag id="175785" k="tiger:MTFCC" o="none" type="relation" v="G4210" />
+    <tag id="175785" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="175785" k="tiger:CLASSFP" o="none" type="relation" v="U1" />
+    <tag id="175785" k="tiger:PCICBSA" o="none" type="relation" v="N" />
+    <tag id="175785" k="tiger:PLACEFP" o="none" type="relation" v="69452" />
+    <tag id="175785" k="tiger:PLACENS" o="none" type="relation" v="02390327" />
+    <tag id="175785" k="tiger:PLCIDFP" o="none" type="relation" v="3669452" />
+    <tag id="175785" k="tiger:STATEFP" o="none" type="relation" v="36" />
+    <tag id="175785" k="tiger:FUNCSTAT" o="none" type="relation" v="S" />
+    <tag id="175785" k="tiger:NAMELSAD" o="none" type="relation" v="Southold CDP" />
+    <tag id="175785" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="175785" k="is_in:iso_3166_2" o="none" type="relation" v="US:NY" />
+    <tag id="175785" k="is_in:state_code" o="none" type="relation" v="NY" />
+    <tag id="175785" k="is_in:country_code" o="none" type="relation" v="US" />
+    <tag id="364534" k="ref" o="none" type="relation" v="25" />
+    <tag id="364534" k="name" o="none" type="relation" v="NY 25" />
+    <tag id="364534" k="type" o="none" type="relation" v="route" />
+    <tag id="364534" k="route" o="none" type="relation" v="road" />
+    <tag id="364534" k="network" o="none" type="relation" v="US:NY" />
+    <tag id="364534" k="wikidata" o="none" type="relation" v="Q2486012" />
+    <tag id="364534" k="wikipedia" o="none" type="relation" v="en:New York State Route 25" />
+    <tag id="1071181" k="ref" o="none" type="relation" v="25" />
+    <tag id="1071181" k="name" o="none" type="relation" v="NY 25 Truck" />
+    <tag id="1071181" k="type" o="none" type="relation" v="route" />
+    <tag id="1071181" k="route" o="none" type="relation" v="road" />
+    <tag id="1071181" k="network" o="none" type="relation" v="US:NY" />
+    <tag id="1071181" k="modifier" o="none" type="relation" v="Truck" />
+    <tag id="2179493" k="ref" o="none" type="relation" v="25" />
+    <tag id="2179493" k="type" o="none" type="relation" v="route" />
+    <tag id="2179493" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="2179493" k="network" o="none" type="relation" v="rcn" />
+    <tag id="2179493" k="cycle_network" o="none" type="relation" v="US:NY" />
+    <tag id="5966605" k="name" o="none" type="relation" v="Peconic River" />
+    <tag id="5966605" k="type" o="none" type="relation" v="waterway" />
+    <tag id="5966605" k="waterway" o="none" type="relation" v="river" />
+    <tag id="5966605" k="wikidata" o="none" type="relation" v="Q7158787" />
+    <tag id="5966605" k="wikipedia" o="none" type="relation" v="en:Peconic River" />
+  </body>
+</changeset>

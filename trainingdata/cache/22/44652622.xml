@@ -1,0 +1,772 @@
+<changeset id="44652622" schema="2">
+  <counts nodesAdded="72" nodesDeleted="38" nodesModified="9" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="17" waysDeleted="5" waysModified="125" />
+  <meta>
+    <tag k="comment" v="fixed POIs, tags, added bridges in cuyahoga county" />
+    <tag k="created_by" v="JOSM/1.5 (11375 en)" />
+    <tag k="source" v="personal_visit;bing" />
+  </meta>
+  <body>
+    <tag id="287696887" k="highway" o="none" type="node" v="turning_circle" />
+    <tag id="2104810939" k="name" o="none" type="node" v="Cinemark Strongsville" />
+    <tag id="2104810939" k="amenity" o="modify" type="node" v="cinema" />
+    <tag id="2104813417" k="name" o="none" type="node" v="Sears" />
+    <tag id="2104813417" k="shop" o="none" type="node" v="department_store" />
+    <tag id="2867825884" k="name" o="none" type="node" v="Ohio Savings Bank" />
+    <tag id="2867825884" k="amenity" o="add" type="node" v="bank" />
+    <tag id="2867826129" k="name" o="none" type="node" v="Georgio's Pizza" />
+    <tag id="2867826129" k="amenity" o="modify" type="node" v="fast_food" />
+    <tag id="2867826129" k="cuisine" o="none" type="node" v="pizza" />
+    <tag id="3103772359" k="name" o="add" type="node" v="The Spread" />
+    <tag id="3103772359" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="3103772359" k="cuisine" o="none" type="node" v="buffet" />
+    <tag id="3204270883" k="name" o="none" type="node" v="Ohio License Agency - BMV" />
+    <tag id="3204270883" k="government" o="add" type="node" v="office" />
+    <tag id="4248829897" k="amenity" o="none" type="node" v="fast_food" />
+    <tag id="4248829897" k="cuisine" o="add" type="node" v="chinese" />
+    <tag id="4320098656" k="name" o="add" type="node" v="Eddie Cerino's" />
+    <tag id="4320098656" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="4320098656" k="cuisine" o="none" type="node" v="italian" />
+    <tag id="4320098657" k="name" o="add" type="node" v="Red Robin" />
+    <tag id="4320098657" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="4320098657" k="cuisine" o="none" type="node" v="burger" />
+    <tag id="4504963609" k="name" o="none" type="node" v="Restore Cold Pressed" />
+    <tag id="4504963609" k="amenity" o="modify" type="node" v="cafe" />
+    <tag id="4504963609" k="cuisine" o="none" type="node" v="Juice" />
+    <tag id="4504963609" k="smoking" o="none" type="node" v="no" />
+    <tag id="4504963609" k="takeaway" o="none" type="node" v="yes" />
+    <tag id="4504963609" k="addr:city" o="none" type="node" v="Cleveland" />
+    <tag id="4504963609" k="addr:state" o="none" type="node" v="Ohio" />
+    <tag id="4504963609" k="addr:street" o="none" type="node" v="Huron Road East" />
+    <tag id="4504963609" k="addr:postcode" o="none" type="node" v="44115" />
+    <tag id="4504963609" k="opening_hours" o="none" type="node" v="7am-6pm" />
+    <tag id="4504963609" k="addr:housenumber" o="none" type="node" v="1001" />
+    <tag id="11786642" k="name" o="modify" type="way" v="Robert Bishop Road" />
+    <tag id="11786642" k="highway" o="none" type="way" v="residential" />
+    <tag id="11786642" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="11786642" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11786642" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11787162" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11787162" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="11787162" k="tiger:cfcc" o="none" type="way" v="A63" />
+    <tag id="11787162" k="destination" o="none" type="way" v="East 9th Street" />
+    <tag id="11787162" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11789952" k="name" o="none" type="way" v="Lakeside Avenue East" />
+    <tag id="11789952" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="11789952" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11789952" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11789952" k="tiger:zip_left" o="none" type="way" v="44114" />
+    <tag id="11789952" k="tiger:name_base" o="none" type="way" v="Lakeside" />
+    <tag id="11789952" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11789952" k="tiger:zip_right" o="none" type="way" v="44114" />
+    <tag id="11789952" k="tiger:name_direction_suffix" o="none" type="way" v="E" />
+    <tag id="11790758" k="foot" o="none" type="way" v="yes" />
+    <tag id="11790758" k="name" o="none" type="way" v="Beaver Ridge Trail" />
+    <tag id="11790758" k="lanes" o="none" type="way" v="2" />
+    <tag id="11790758" k="access" o="none" type="way" v="yes" />
+    <tag id="11790758" k="oneway" o="none" type="way" v="no" />
+    <tag id="11790758" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="11790758" k="highway" o="none" type="way" v="residential" />
+    <tag id="11790758" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11790758" k="cycleway" o="none" type="way" v="no" />
+    <tag id="11790758" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="11790758" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="11790758" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11790758" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11790758" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11790758" k="tiger:zip_left" o="none" type="way" v="44147" />
+    <tag id="11790758" k="tiger:name_base" o="none" type="way" v="Beaver Ridge" />
+    <tag id="11790758" k="tiger:name_type" o="none" type="way" v="Trl" />
+    <tag id="11790758" k="tiger:zip_right" o="none" type="way" v="44147" />
+    <tag id="11791625" k="name" o="none" type="way" v="Kenyon Drive" />
+    <tag id="11791625" k="highway" o="none" type="way" v="residential" />
+    <tag id="11791625" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11791625" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11791625" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11791625" k="tiger:zip_left" o="none" type="way" v="44137" />
+    <tag id="11791625" k="tiger:name_base" o="none" type="way" v="Kenyon" />
+    <tag id="11791625" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11791625" k="tiger:zip_right" o="none" type="way" v="44137" />
+    <tag id="11792763" k="name" o="none" type="way" v="Walking Stick Way" />
+    <tag id="11792763" k="highway" o="none" type="way" v="residential" />
+    <tag id="11792763" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11792763" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11792763" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11792763" k="tiger:zip_left" o="none" type="way" v="44136" />
+    <tag id="11792763" k="tiger:name_base" o="none" type="way" v="Walking Stick" />
+    <tag id="11792763" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="11792763" k="tiger:zip_right" o="none" type="way" v="44136" />
+    <tag id="11793781" k="name" o="none" type="way" v="Whiteford Drive" />
+    <tag id="11793781" k="highway" o="none" type="way" v="residential" />
+    <tag id="11793781" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="11793781" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11793781" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11793781" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11793781" k="tiger:zip_left" o="none" type="way" v="44143" />
+    <tag id="11793781" k="tiger:name_base" o="none" type="way" v="Whiteford" />
+    <tag id="11793781" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11793781" k="tiger:zip_right" o="none" type="way" v="44143" />
+    <tag id="11796963" k="foot" o="none" type="way" v="yes" />
+    <tag id="11796963" k="name" o="none" type="way" v="Fox Hollow Drive" />
+    <tag id="11796963" k="lanes" o="none" type="way" v="2" />
+    <tag id="11796963" k="access" o="none" type="way" v="yes" />
+    <tag id="11796963" k="oneway" o="none" type="way" v="no" />
+    <tag id="11796963" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="11796963" k="highway" o="none" type="way" v="residential" />
+    <tag id="11796963" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11796963" k="cycleway" o="none" type="way" v="no" />
+    <tag id="11796963" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="11796963" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="11796963" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11796963" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11796963" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11796963" k="tiger:zip_left" o="none" type="way" v="44147" />
+    <tag id="11796963" k="tiger:name_base" o="none" type="way" v="Fox Hollow" />
+    <tag id="11796963" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11796963" k="tiger:zip_right" o="none" type="way" v="44147" />
+    <tag id="11797045" k="name" o="none" type="way" v="Forest Hills Boulevard" />
+    <tag id="11797045" k="lanes" o="none" type="way" v="4" />
+    <tag id="11797045" k="oneway" o="none" type="way" v="no" />
+    <tag id="11797045" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="11797045" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11797045" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="11797045" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11797045" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11797045" k="tiger:zip_left" o="none" type="way" v="44118" />
+    <tag id="11797045" k="tiger:name_base" o="none" type="way" v="Forest Hills" />
+    <tag id="11797045" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="11797045" k="tiger:zip_right" o="none" type="way" v="44118" />
+    <tag id="11797619" k="name" o="none" type="way" v="Foltz Industrial Parkway" />
+    <tag id="11797619" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="11797619" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11797619" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11797619" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11797619" k="tiger:name_base" o="none" type="way" v="Foltz Industrial" />
+    <tag id="11797619" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="11797791" k="name" o="none" type="way" v="Woodbridge Avenue" />
+    <tag id="11797791" k="highway" o="none" type="way" v="residential" />
+    <tag id="11797791" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11797791" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11797791" k="tiger:zip_left" o="none" type="way" v="44109" />
+    <tag id="11797791" k="tiger:name_base" o="none" type="way" v="Woodbridge" />
+    <tag id="11797791" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11797791" k="tiger:zip_right" o="none" type="way" v="44109" />
+    <tag id="11808476" k="name" o="none" type="way" v="Tuxedo Avenue" />
+    <tag id="11808476" k="highway" o="none" type="way" v="residential" />
+    <tag id="11808476" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11808476" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11808476" k="tiger:zip_left" o="none" type="way" v="44131" />
+    <tag id="11808476" k="tiger:name_base" o="none" type="way" v="Tuxedo" />
+    <tag id="11808476" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="11808476" k="tiger:zip_right" o="none" type="way" v="44131" />
+    <tag id="11809332" k="foot" o="none" type="way" v="yes" />
+    <tag id="11809332" k="name" o="none" type="way" v="Royalview Lane" />
+    <tag id="11809332" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="11809332" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="11809332" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11809332" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11809332" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="11809332" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11809332" k="tiger:name_base" o="none" type="way" v="Royalview;Picnic Area" />
+    <tag id="11809332" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="26266164" k="name" o="modify" type="way" v="Panorama Parkway" />
+    <tag id="26266164" k="highway" o="none" type="way" v="residential" />
+    <tag id="26266244" k="name" o="modify" type="way" v="Savannah Court" />
+    <tag id="26266244" k="highway" o="none" type="way" v="residential" />
+    <tag id="26266284" k="name" o="modify" type="way" v="Pebblestone Court" />
+    <tag id="26266284" k="highway" o="none" type="way" v="residential" />
+    <tag id="37677265" k="oneway" o="none" type="way" v="yes" />
+    <tag id="37677265" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="49684105" k="hgv" o="none" type="way" v="designated" />
+    <tag id="49684105" k="ref" o="none" type="way" v="US 6;US 20" />
+    <tag id="49684105" k="name" o="none" type="way" v="Euclid Avenue" />
+    <tag id="49684105" k="FIXME" o="none" type="way" v="check lanes" />
+    <tag id="49684105" k="lanes" o="none" type="way" v="4" />
+    <tag id="49684105" k="highway" o="none" type="way" v="primary" />
+    <tag id="49684105" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="49684105" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="49684105" k="old_ref:fap" o="none" type="way" v="85" />
+    <tag id="49684105" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="49684105" k="tiger:name_base" o="none" type="way" v="Euclid" />
+    <tag id="49684105" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="49684105" k="tiger:name_base_1" o="none" type="way" v="United States Highway 20" />
+    <tag id="49684105" k="source:old_ref:fap" o="none" type="way" v="ODOT http://www.dot.state.oh.us/Divisions/Planning/TechServ/prod_services/Pages/RI06.aspx http://www.dot.state.oh.us/Divisions/ContractAdmin/Contracts/Pages/NHS-FAP.aspx" />
+    <tag id="49684105" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="49684105" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="53583368" k="name" o="modify" type="way" v="York-Delta Drive" />
+    <tag id="53583368" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="55553257" k="name" o="modify" type="way" v="West 25th Street" />
+    <tag id="55553257" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="55553257" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="55553257" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="55553257" k="tiger:zip_left" o="none" type="way" v="44109" />
+    <tag id="55553257" k="tiger:name_base" o="none" type="way" v="Scranton" />
+    <tag id="55553257" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="55553257" k="tiger:zip_right" o="none" type="way" v="44109" />
+    <tag id="55553257" k="tiger:name_base_1" o="none" type="way" v="United States Highway 42" />
+    <tag id="55553257" k="tiger:name_base_2" o="none" type="way" v="State Route 3" />
+    <tag id="55553257" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="82535212" k="name" o="none" type="way" v="West 130th Street" />
+    <tag id="82535212" k="highway" o="none" type="way" v="secondary" />
+    <tag id="82535212" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="82535212" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="82535212" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="82535212" k="tiger:zip_left" o="none" type="way" v="44133" />
+    <tag id="82535212" k="tiger:name_base" o="none" type="way" v="130th" />
+    <tag id="82535212" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="82535212" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="99653010" k="name" o="none" type="way" v="West Mall Drive" />
+    <tag id="99653010" k="oneway" o="none" type="way" v="yes" />
+    <tag id="99653010" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="99653010" k="alt_name" o="none" type="way" v="Franz Pastoruis Drive" />
+    <tag id="99653010" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="99653010" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="99653010" k="tiger:zip_left" o="none" type="way" v="44114" />
+    <tag id="99653010" k="tiger:name_base" o="none" type="way" v="Mall" />
+    <tag id="99653010" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="99653010" k="tiger:zip_right" o="none" type="way" v="44114" />
+    <tag id="99653010" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="103155848" k="name" o="modify" type="way" v="Martin Luther King Jr Drive" />
+    <tag id="103155848" k="oneway" o="none" type="way" v="yes" />
+    <tag id="103155848" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="103155848" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="103155848" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="103155848" k="tiger:zip_left" o="none" type="way" v="44105" />
+    <tag id="103155848" k="tiger:name_base_1" o="none" type="way" v="Martin Luther King Jr" />
+    <tag id="103155848" k="tiger:name_type_1" o="none" type="way" v="Dr" />
+    <tag id="115730820" k="ele" o="none" type="way" v="285" />
+    <tag id="115730820" k="name" o="none" type="way" v="Byers Field" />
+    <tag id="115730820" k="sport" o="add" type="way" v="multi" />
+    <tag id="115730820" k="leisure" o="none" type="way" v="pitch" />
+    <tag id="115730820" k="gnis:created" o="none" type="way" v="02/01/1991" />
+    <tag id="115730820" k="gnis:state_id" o="none" type="way" v="39" />
+    <tag id="115730820" k="gnis:county_id" o="none" type="way" v="035" />
+    <tag id="115730820" k="gnis:feature_id" o="none" type="way" v="1057098" />
+    <tag id="123337890" k="name" o="modify" type="way" v="Montecello Drive" />
+    <tag id="123337890" k="highway" o="none" type="way" v="residential" />
+    <tag id="123590562" k="building" o="none" type="way" v="yes" />
+    <tag id="131429481" k="name" o="none" type="way" v="Cleveland Lakefront Station" />
+    <tag id="131429481" k="railway" o="none" type="way" v="station" />
+    <tag id="131429481" k="website" o="none" type="way" v="http://www.amtrak.com/" />
+    <tag id="131429481" k="alt_name" o="none" type="way" v="Cleveland" />
+    <tag id="131429481" k="building" o="none" type="way" v="yes" />
+    <tag id="131429481" k="operator" o="none" type="way" v="Amtrak" />
+    <tag id="131429481" k="addr:city" o="none" type="way" v="Cleveland" />
+    <tag id="131429481" k="wikipedia" o="none" type="way" v="en:Cleveland Lakefront Station" />
+    <tag id="131429481" k="addr:state" o="none" type="way" v="OH" />
+    <tag id="131429481" k="ref:Amtrak" o="none" type="way" v="CLE" />
+    <tag id="131429481" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="131429481" k="addr:street" o="none" type="way" v="Cleveland Memorial Shoreway" />
+    <tag id="131429481" k="addr:postcode" o="none" type="way" v="44114" />
+    <tag id="131429481" k="addr:housenumber" o="none" type="way" v="200" />
+    <tag id="131429481" k="public_transport" o="none" type="way" v="station" />
+    <tag id="131467152" k="highway" o="none" type="way" v="residential" />
+    <tag id="139099094" k="name" o="none" type="way" v="Whiteford Drive" />
+    <tag id="139099094" k="highway" o="none" type="way" v="residential" />
+    <tag id="139099094" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="144610255" k="name" o="modify" type="way" v="Brushwood Lane" />
+    <tag id="144610255" k="highway" o="none" type="way" v="residential" />
+    <tag id="145289549" k="building" o="modify" type="way" v="retail" />
+    <tag id="168254935" k="name" o="none" type="way" v="Waterfront Line" />
+    <tag id="168254935" k="railway" o="none" type="way" v="light_rail" />
+    <tag id="211214121" k="name" o="none" type="way" v="Lowe's" />
+    <tag id="211214121" k="shop" o="none" type="way" v="doityourself" />
+    <tag id="211214121" k="building" o="add" type="way" v="yes" />
+    <tag id="218878371" k="building" o="modify" type="way" v="retail" />
+    <tag id="223425431" k="ref" o="none" type="way" v="SR 17" />
+    <tag id="223425431" k="name" o="none" type="way" v="Brookpark Road" />
+    <tag id="223425431" k="highway" o="none" type="way" v="primary" />
+    <tag id="223425431" k="tiger:name_base" o="none" type="way" v="Brookpark" />
+    <tag id="223425431" k="tiger:zip_right" o="none" type="way" v="44126" />
+    <tag id="228617304" k="name" o="none" type="way" v="Bennett Road" />
+    <tag id="228617304" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="228617304" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="228617304" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="228617304" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="228617304" k="tiger:zip_left" o="none" type="way" v="44133" />
+    <tag id="228617304" k="tiger:name_base" o="none" type="way" v="Bennett" />
+    <tag id="228617304" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="228617304" k="tiger:zip_right" o="none" type="way" v="44133" />
+    <tag id="229823873" k="name" o="none" type="way" v="The Mall" />
+    <tag id="229823873" k="leisure" o="none" type="way" v="park" />
+    <tag id="229823873" k="wikidata" o="none" type="way" v="Q7749755" />
+    <tag id="229823873" k="wikipedia" o="none" type="way" v="en:The Mall (Cleveland)" />
+    <tag id="229823873" k="gnis:state_id" o="none" type="way" v="39" />
+    <tag id="229823873" k="gnis:county_id" o="none" type="way" v="035" />
+    <tag id="229823873" k="gnis:feature_id" o="none" type="way" v="1075198" />
+    <tag id="229823876" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="231562599" k="waterway" o="none" type="way" v="stream" />
+    <tag id="233273030" k="highway" o="add" type="way" v="service" />
+    <tag id="233309529" k="highway" o="modify" type="way" v="service" />
+    <tag id="233309529" k="service" o="add" type="way" v="driveway" />
+    <tag id="233309543" k="highway" o="modify" type="way" v="service" />
+    <tag id="233309543" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="233390931" k="highway" o="none" type="way" v="service" />
+    <tag id="233390931" k="service" o="add" type="way" v="driveway" />
+    <tag id="234735233" k="layer" o="add" type="way" v="-1" />
+    <tag id="234735233" k="access" o="none" type="way" v="private" />
+    <tag id="234735233" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="234735233" k="highway" o="none" type="way" v="track" />
+    <tag id="243864263" k="name" o="none" type="way" v="Wendy's" />
+    <tag id="243864263" k="amenity" o="modify" type="way" v="fast_food" />
+    <tag id="243864263" k="cuisine" o="none" type="way" v="fast_food" />
+    <tag id="243864263" k="building" o="none" type="way" v="yes" />
+    <tag id="243864263" k="addr:city" o="none" type="way" v="Cleveland" />
+    <tag id="243864263" k="addr:street" o="none" type="way" v="Broadway Avenue" />
+    <tag id="243864263" k="addr:postcode" o="none" type="way" v="44105" />
+    <tag id="243864263" k="addr:housenumber" o="none" type="way" v="8109" />
+    <tag id="244629159" k="highway" o="add" type="way" v="service" />
+    <tag id="244630528" k="name" o="none" type="way" v="Union Street" />
+    <tag id="244630528" k="layer" o="add" type="way" v="1" />
+    <tag id="244630528" k="bridge" o="none" type="way" v="yes" />
+    <tag id="244630528" k="highway" o="none" type="way" v="primary" />
+    <tag id="244630528" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="244630528" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="244630528" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="244630528" k="tiger:zip_left" o="none" type="way" v="44146" />
+    <tag id="244630528" k="tiger:name_base" o="none" type="way" v="Union" />
+    <tag id="244630528" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="244630528" k="tiger:zip_right" o="none" type="way" v="44146" />
+    <tag id="245149757" k="leisure" o="none" type="way" v="garden" />
+    <tag id="245149789" k="leisure" o="none" type="way" v="garden" />
+    <tag id="251422738" k="hgv" o="none" type="way" v="designated" />
+    <tag id="251422738" k="ref" o="none" type="way" v="SR 82" />
+    <tag id="251422738" k="name" o="none" type="way" v="Royalton Road" />
+    <tag id="251422738" k="layer" o="add" type="way" v="1" />
+    <tag id="251422738" k="bridge" o="none" type="way" v="yes" />
+    <tag id="251422738" k="highway" o="none" type="way" v="primary" />
+    <tag id="251422738" k="maxspeed" o="none" type="way" v="35 mph" />
+    <tag id="251422738" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="251422738" k="old_ref:fap" o="none" type="way" v="65" />
+    <tag id="251422738" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="251422738" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="251422738" k="tiger:zip_left" o="none" type="way" v="44149" />
+    <tag id="251422738" k="tiger:name_base" o="none" type="way" v="Royalton" />
+    <tag id="251422738" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="251422738" k="tiger:zip_right" o="none" type="way" v="44149" />
+    <tag id="251422738" k="tiger:name_base_1" o="none" type="way" v="State Route 82" />
+    <tag id="251422738" k="source:old_ref:fap" o="none" type="way" v="ODOT http://www.dot.state.oh.us/Divisions/Planning/TechServ/prod_services/Pages/RI06.aspx http://www.dot.state.oh.us/Divisions/ContractAdmin/Contracts/Pages/NHS-FAP.aspx" />
+    <tag id="251422738" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="251422738" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="251422746" k="name" o="none" type="way" v="Cheerful Lane" />
+    <tag id="251422746" k="highway" o="none" type="way" v="residential" />
+    <tag id="251422746" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="251422746" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="251422746" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="251422746" k="tiger:zip_left" o="none" type="way" v="44136" />
+    <tag id="251422746" k="tiger:name_base" o="none" type="way" v="Cheerful" />
+    <tag id="251422746" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="251422746" k="tiger:zip_right" o="none" type="way" v="44136" />
+    <tag id="251693541" k="name" o="none" type="way" v="Button Road" />
+    <tag id="251693541" k="highway" o="none" type="way" v="residential" />
+    <tag id="251693541" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="251693541" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="251693541" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="251693541" k="tiger:name_base" o="none" type="way" v="Button" />
+    <tag id="251693541" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="256260350" k="name" o="none" type="way" v="McDonald's" />
+    <tag id="256260350" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="256260350" k="cuisine" o="none" type="way" v="burger" />
+    <tag id="256260350" k="building" o="none" type="way" v="yes" />
+    <tag id="260647838" k="ele" o="add" type="way" v="285" />
+    <tag id="260647838" k="name" o="add" type="way" v="Highland Heights City Hall" />
+    <tag id="260647838" k="source" o="add" type="way" v="USGS Geonames" />
+    <tag id="260647838" k="amenity" o="none" type="way" v="townhall" />
+    <tag id="260647838" k="website" o="add" type="way" v="http://www.highlandhts.com/" />
+    <tag id="260647838" k="building" o="none" type="way" v="yes" />
+    <tag id="260647838" k="addr:city" o="add" type="way" v="Highland Heights" />
+    <tag id="260647838" k="addr:state" o="add" type="way" v="OH" />
+    <tag id="260647838" k="addr:street" o="add" type="way" v="Highland Road" />
+    <tag id="260647838" k="addr:postcode" o="add" type="way" v="44143" />
+    <tag id="260647838" k="gnis:reviewed" o="add" type="way" v="no" />
+    <tag id="260647838" k="gnis:feature_id" o="add" type="way" v="1074799" />
+    <tag id="260647838" k="addr:housenumber" o="add" type="way" v="5827" />
+    <tag id="260647838" k="gnis:county_name" o="add" type="way" v="Cuyahoga" />
+    <tag id="260647838" k="gnis:import_uuid" o="add" type="way" v="57871b70-0100-4405-bb30-88b2e001a944" />
+    <tag id="260658732" k="layer" o="add" type="way" v="-1" />
+    <tag id="260658732" k="tunnel" o="none" type="way" v="culvert" />
+    <tag id="260658732" k="waterway" o="none" type="way" v="ditch" />
+    <tag id="260658739" k="layer" o="add" type="way" v="-1" />
+    <tag id="260658739" k="tunnel" o="none" type="way" v="culvert" />
+    <tag id="260658739" k="waterway" o="none" type="way" v="ditch" />
+    <tag id="264524576" k="name" o="none" type="way" v="Shell" />
+    <tag id="264524576" k="amenity" o="none" type="way" v="fuel" />
+    <tag id="264524576" k="operator" o="none" type="way" v="Shell" />
+    <tag id="270726864" k="name" o="none" type="way" v="Dunham Road" />
+    <tag id="270726864" k="layer" o="add" type="way" v="1" />
+    <tag id="270726864" k="bridge" o="none" type="way" v="yes" />
+    <tag id="270726864" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="270726864" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="270726864" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="270726864" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="270726864" k="tiger:zip_left" o="none" type="way" v="44146" />
+    <tag id="270726864" k="tiger:name_base" o="none" type="way" v="Dunham" />
+    <tag id="270726864" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="270726864" k="tiger:zip_right" o="none" type="way" v="44146" />
+    <tag id="273633216" k="highway" o="none" type="way" v="footway" />
+    <tag id="274209725" k="hgv" o="none" type="way" v="designated" />
+    <tag id="274209725" k="ref" o="none" type="way" v="US 42" />
+    <tag id="274209725" k="name" o="none" type="way" v="Pearl Road" />
+    <tag id="274209725" k="lanes" o="none" type="way" v="4" />
+    <tag id="274209725" k="highway" o="none" type="way" v="primary" />
+    <tag id="274209725" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="274209725" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="274209725" k="old_ref:fap" o="none" type="way" v="20" />
+    <tag id="274209725" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="274209725" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="274209725" k="tiger:zip_left" o="none" type="way" v="44136" />
+    <tag id="274209725" k="tiger:name_base" o="none" type="way" v="Pearl" />
+    <tag id="274209725" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="274209725" k="tiger:zip_right" o="none" type="way" v="44136" />
+    <tag id="274209725" k="tiger:name_base_1" o="none" type="way" v="United States Highway 42" />
+    <tag id="274209725" k="source:old_ref:fap" o="none" type="way" v="ODOT http://www.dot.state.oh.us/Divisions/Planning/TechServ/prod_services/Pages/RI06.aspx http://www.dot.state.oh.us/Divisions/ContractAdmin/Contracts/Pages/NHS-FAP.aspx" />
+    <tag id="274209725" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="274209725" k="source:hgv:national_network" o="none" type="way" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23" />
+    <tag id="277938044" k="ref" o="none" type="way" v="SR 17" />
+    <tag id="277938044" k="name" o="none" type="way" v="Granger Road" />
+    <tag id="277938044" k="oneway" o="none" type="way" v="yes" />
+    <tag id="277938044" k="highway" o="none" type="way" v="primary" />
+    <tag id="277938044" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="277938044" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="277938044" k="tiger:zip_left" o="none" type="way" v="44137" />
+    <tag id="277938044" k="tiger:name_base" o="none" type="way" v="Granger" />
+    <tag id="277938044" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="277938044" k="tiger:zip_right" o="none" type="way" v="44137" />
+    <tag id="277938044" k="tiger:name_base_1" o="none" type="way" v="State Route 17" />
+    <tag id="281403469" k="name" o="modify" type="way" v="Selby Circle" />
+    <tag id="281403469" k="oneway" o="none" type="way" v="no" />
+    <tag id="281403469" k="highway" o="none" type="way" v="residential" />
+    <tag id="281403469" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="281403469" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="289484259" k="name" o="modify" type="way" v="Commerce Parkway" />
+    <tag id="289484259" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="289484259" k="surface" o="none" type="way" v="paved" />
+    <tag id="289484259" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="294765029" k="water" o="none" type="way" v="lake" />
+    <tag id="294765029" k="natural" o="add" type="way" v="water" />
+    <tag id="305468064" k="building" o="add" type="way" v="house" />
+    <tag id="305468087" k="building" o="add" type="way" v="house" />
+    <tag id="305468087" k="addr:street" o="none" type="way" v="Bradgate Lane" />
+    <tag id="305468087" k="addr:housenumber" o="none" type="way" v="20062" />
+    <tag id="314371095" k="name" o="none" type="way" v="Giant Eagle - Market District" />
+    <tag id="314371095" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="314371095" k="operator" o="none" type="way" v="Giant Eagle" />
+    <tag id="314371095" k="addr:city" o="none" type="way" v="Strongsville" />
+    <tag id="314371095" k="addr:state" o="none" type="way" v="OH" />
+    <tag id="314371095" k="addr:street" o="none" type="way" v="Pearl Road" />
+    <tag id="314371095" k="addr:postcode" o="none" type="way" v="44136" />
+    <tag id="314371095" k="addr:housenumber" o="none" type="way" v="15919" />
+    <tag id="330458199" k="name" o="none" type="way" v="Costco" />
+    <tag id="330458199" k="note" o="none" type="way" v="members only warehouse club" />
+    <tag id="330458199" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="330458199" k="building" o="none" type="way" v="yes" />
+    <tag id="330458199" k="operator" o="none" type="way" v="Costco" />
+    <tag id="330458199" k="addr:city" o="none" type="way" v="Strongsville" />
+    <tag id="330458199" k="addr:state" o="none" type="way" v="Ohio" />
+    <tag id="330458199" k="addr:street" o="none" type="way" v="Royalton Rd" />
+    <tag id="330458199" k="addr:postcode" o="none" type="way" v="44136" />
+    <tag id="330458199" k="opening_hours" o="none" type="way" v="opening_hours Mo-Fr 8:00-20:00 Sa-Su 8:00-18:30" />
+    <tag id="330458199" k="addr:housenumber" o="none" type="way" v="16690" />
+    <tag id="330458208" k="name" o="none" type="way" v="Petco" />
+    <tag id="330458208" k="shop" o="none" type="way" v="pet" />
+    <tag id="330458208" k="building" o="none" type="way" v="yes" />
+    <tag id="330460500" k="name" o="none" type="way" v="Best Buy" />
+    <tag id="330460500" k="shop" o="none" type="way" v="electronics" />
+    <tag id="330460500" k="building" o="none" type="way" v="yes" />
+    <tag id="330460505" k="name" o="none" type="way" v="Chick-fil-A" />
+    <tag id="330460505" k="amenity" o="none" type="way" v="fast_food" />
+    <tag id="330460505" k="cuisine" o="none" type="way" v="chicken" />
+    <tag id="330460505" k="smoking" o="none" type="way" v="no" />
+    <tag id="330460505" k="building" o="none" type="way" v="yes" />
+    <tag id="330460505" k="delivery" o="none" type="way" v="no" />
+    <tag id="330460505" k="takeaway" o="none" type="way" v="yes" />
+    <tag id="330460505" k="drive_through" o="none" type="way" v="yes" />
+    <tag id="330463010" k="name" o="none" type="way" v="Midas" />
+    <tag id="330463010" k="shop" o="none" type="way" v="car_repair" />
+    <tag id="330463010" k="building" o="none" type="way" v="yes" />
+    <tag id="330465469" k="name" o="none" type="way" v="Verizon Wireless" />
+    <tag id="330465469" k="shop" o="modify" type="way" v="mobile_phone" />
+    <tag id="330465469" k="building" o="none" type="way" v="yes" />
+    <tag id="330590248" k="name" o="none" type="way" v="PNC Bank" />
+    <tag id="330590248" k="amenity" o="none" type="way" v="bank" />
+    <tag id="330590248" k="building" o="none" type="way" v="yes" />
+    <tag id="330590259" k="name" o="none" type="way" v="The Goddard School" />
+    <tag id="330590259" k="amenity" o="add" type="way" v="school" />
+    <tag id="330590259" k="building" o="none" type="way" v="school" />
+    <tag id="330598781" k="name" o="none" type="way" v="TGI Friday's" />
+    <tag id="330598781" k="amenity" o="none" type="way" v="restaurant" />
+    <tag id="330598781" k="building" o="none" type="way" v="yes" />
+    <tag id="330598783" k="name" o="none" type="way" v="Famous Footwear" />
+    <tag id="330598783" k="shop" o="none" type="way" v="shoes" />
+    <tag id="330598783" k="building" o="none" type="way" v="yes" />
+    <tag id="330598786" k="name" o="none" type="way" v="Starbucks" />
+    <tag id="330598786" k="amenity" o="none" type="way" v="cafe" />
+    <tag id="330598786" k="cuisine" o="none" type="way" v="coffee_shop" />
+    <tag id="330598786" k="building" o="none" type="way" v="yes" />
+    <tag id="330742817" k="name" o="none" type="way" v="CVS" />
+    <tag id="330742817" k="amenity" o="none" type="way" v="pharmacy" />
+    <tag id="330742817" k="building" o="none" type="way" v="yes" />
+    <tag id="330742817" k="addr:city" o="none" type="way" v="Strongsville" />
+    <tag id="330742817" k="addr:state" o="none" type="way" v="Ohio" />
+    <tag id="330742817" k="addr:street" o="none" type="way" v="Pearl Road" />
+    <tag id="330742817" k="addr:postcode" o="none" type="way" v="44136" />
+    <tag id="330742817" k="addr:housenumber" o="none" type="way" v="13777" />
+    <tag id="330743321" k="name" o="none" type="way" v="ALDI" />
+    <tag id="330743321" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="330743321" k="building" o="none" type="way" v="yes" />
+    <tag id="330890685" k="name" o="none" type="way" v="Kohl's" />
+    <tag id="330890685" k="shop" o="modify" type="way" v="department_store" />
+    <tag id="330890685" k="building" o="none" type="way" v="yes" />
+    <tag id="330890689" k="name" o="none" type="way" v="Applebee's" />
+    <tag id="330890689" k="amenity" o="none" type="way" v="restaurant" />
+    <tag id="330890689" k="cuisine" o="none" type="way" v="american" />
+    <tag id="330890689" k="building" o="none" type="way" v="yes" />
+    <tag id="330890689" k="takeaway" o="none" type="way" v="yes" />
+    <tag id="330897271" k="name" o="none" type="way" v="Office Max" />
+    <tag id="330897271" k="shop" o="none" type="way" v="stationery" />
+    <tag id="330897271" k="building" o="none" type="way" v="yes" />
+    <tag id="330897272" k="name" o="none" type="way" v="Longhorn Steakhouse" />
+    <tag id="330897272" k="amenity" o="none" type="way" v="restaurant" />
+    <tag id="330897272" k="building" o="none" type="way" v="yes" />
+    <tag id="330897273" k="name" o="none" type="way" v="Key Bank" />
+    <tag id="330897273" k="amenity" o="none" type="way" v="bank" />
+    <tag id="330897273" k="building" o="none" type="way" v="yes" />
+    <tag id="333522119" k="highway" o="none" type="way" v="footway" />
+    <tag id="333522128" k="highway" o="none" type="way" v="footway" />
+    <tag id="333522130" k="highway" o="none" type="way" v="footway" />
+    <tag id="334449952" k="highway" o="none" type="way" v="service" />
+    <tag id="334449952" k="service" o="none" type="way" v="alley" />
+    <tag id="334449952" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="336718772" k="highway" o="none" type="way" v="service" />
+    <tag id="336718772" k="service" o="none" type="way" v="driveway" />
+    <tag id="341868046" k="highway" o="none" type="way" v="service" />
+    <tag id="341868046" k="service" o="none" type="way" v="driveway" />
+    <tag id="341868046" k="surface" o="none" type="way" v="paved" />
+    <tag id="364393860" k="name" o="none" type="way" v="Waterfront Line" />
+    <tag id="364393860" k="layer" o="add" type="way" v="1" />
+    <tag id="364393860" k="bridge" o="none" type="way" v="yes" />
+    <tag id="364393860" k="railway" o="none" type="way" v="light_rail" />
+    <tag id="364393860" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="376786331" k="layer" o="add" type="way" v="-1" />
+    <tag id="376786331" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="376786331" k="waterway" o="none" type="way" v="ditch" />
+    <tag id="387668274" k="name" o="none" type="way" v="Holiday Inn" />
+    <tag id="387668274" k="tourism" o="none" type="way" v="hotel" />
+    <tag id="387668274" k="building" o="none" type="way" v="yes" />
+    <tag id="387668276" k="name" o="none" type="way" v="Shell" />
+    <tag id="387668276" k="brand" o="none" type="way" v="Shell" />
+    <tag id="387668276" k="amenity" o="none" type="way" v="fuel" />
+    <tag id="387669905" k="waterway" o="none" type="way" v="stream" />
+    <tag id="387670003" k="amenity" o="none" type="way" v="parking" />
+    <tag id="387670003" k="parking" o="none" type="way" v="surface" />
+    <tag id="387670112" k="name" o="none" type="way" v="Camp Cheerful" />
+    <tag id="387670112" k="tourism" o="none" type="way" v="camp_site" />
+    <tag id="394121033" k="railway" o="none" type="way" v="rail" />
+    <tag id="394121033" k="service" o="none" type="way" v="spur" />
+    <tag id="396940593" k="footway" o="none" type="way" v="crossing" />
+    <tag id="396940593" k="highway" o="none" type="way" v="footway" />
+    <tag id="396940593" k="crossing" o="none" type="way" v="zebra" />
+    <tag id="398630092" k="ele" o="none" type="way" v="280" />
+    <tag id="398630092" k="name" o="none" type="way" v="Parma Fire Station Number 3" />
+    <tag id="398630092" k="source" o="none" type="way" v="USGS Geonames" />
+    <tag id="398630092" k="amenity" o="none" type="way" v="fire_station" />
+    <tag id="398630092" k="building" o="none" type="way" v="yes" />
+    <tag id="398630092" k="addr:state" o="none" type="way" v="OH" />
+    <tag id="398630092" k="gnis:reviewed" o="none" type="way" v="no" />
+    <tag id="398630092" k="gnis:feature_id" o="none" type="way" v="2087996" />
+    <tag id="398630092" k="gnis:county_name" o="none" type="way" v="Cuyahoga" />
+    <tag id="398630092" k="gnis:import_uuid" o="none" type="way" v="57871b70-0100-4405-bb30-88b2e001a944" />
+    <tag id="419938316" k="name" o="none" type="way" v="Terrace Club" />
+    <tag id="419938316" k="indoor" o="none" type="way" v="room" />
+    <tag id="419938316" k="amenity" o="none" type="way" v="restaurant" />
+    <tag id="419938316" k="cuisine" o="none" type="way" v="american" />
+    <tag id="419938316" k="smoking" o="none" type="way" v="no" />
+    <tag id="419938316" k="delivery" o="none" type="way" v="no" />
+    <tag id="419938316" k="takeaway" o="none" type="way" v="yes" />
+    <tag id="419938316" k="addr:city" o="none" type="way" v="Cleveland" />
+    <tag id="419938316" k="addr:state" o="none" type="way" v="OH" />
+    <tag id="423919745" k="shop" o="add" type="way" v="car" />
+    <tag id="423919745" k="building" o="none" type="way" v="yes" />
+    <tag id="423919745" k="addr:city" o="none" type="way" v="South Euclid" />
+    <tag id="423919745" k="addr:state" o="none" type="way" v="ohio" />
+    <tag id="423919745" k="addr:street" o="none" type="way" v="South Green Road" />
+    <tag id="423919745" k="building:levels" o="none" type="way" v="1" />
+    <tag id="425180198" k="name" o="none" type="way" v="Ridge Park Square" />
+    <tag id="425180198" k="landuse" o="add" type="way" v="retail" />
+    <tag id="425387166" k="oneway" o="none" type="way" v="yes" />
+    <tag id="425387166" k="highway" o="none" type="way" v="service" />
+    <tag id="425387166" k="service" o="none" type="way" v="driveway" />
+    <tag id="425387166" k="surface" o="none" type="way" v="paved" />
+    <tag id="425775354" k="footway" o="none" type="way" v="sidewalk" />
+    <tag id="425775354" k="highway" o="none" type="way" v="footway" />
+    <tag id="426805014" k="ele" o="add" type="way" v="275" />
+    <tag id="426805014" k="name" o="modify" type="way" v="Richmond Heights City Hall" />
+    <tag id="426805014" k="source" o="add" type="way" v="USGS Geonames" />
+    <tag id="426805014" k="amenity" o="none" type="way" v="townhall" />
+    <tag id="426805014" k="building" o="none" type="way" v="yes" />
+    <tag id="426805014" k="addr:state" o="add" type="way" v="OH" />
+    <tag id="426805014" k="gnis:reviewed" o="add" type="way" v="no" />
+    <tag id="426805014" k="gnis:feature_id" o="add" type="way" v="1074818" />
+    <tag id="426805014" k="gnis:county_name" o="add" type="way" v="Cuyahoga" />
+    <tag id="426805014" k="gnis:import_uuid" o="add" type="way" v="57871b70-0100-4405-bb30-88b2e001a944" />
+    <tag id="427854985" k="amenity" o="none" type="way" v="parking" />
+    <tag id="429232239" k="name" o="none" type="way" v="Family Dollar" />
+    <tag id="429232239" k="shop" o="modify" type="way" v="variety_store" />
+    <tag id="429232239" k="building" o="none" type="way" v="yes" />
+    <tag id="430445283" k="footway" o="none" type="way" v="sidewalk" />
+    <tag id="430445283" k="highway" o="none" type="way" v="footway" />
+    <tag id="441455838" k="ref" o="none" type="way" v="CR 13" />
+    <tag id="441455838" k="name" o="none" type="way" v="Boston Road" />
+    <tag id="441455838" k="layer" o="add" type="way" v="1" />
+    <tag id="441455838" k="bridge" o="none" type="way" v="yes" />
+    <tag id="441455838" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="441455838" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="441455838" k="tiger:county" o="none" type="way" v="Medina, OH" />
+    <tag id="441455838" k="unsigned_ref" o="none" type="way" v="CR 127" />
+    <tag id="441455838" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="441455838" k="tiger:zip_left" o="none" type="way" v="44136" />
+    <tag id="441455838" k="tiger:name_base" o="none" type="way" v="Boston" />
+    <tag id="441455838" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="441455838" k="tiger:name_base_1" o="none" type="way" v="County Road 13" />
+    <tag id="446216011" k="name" o="none" type="way" v="Brookdale Senior Living" />
+    <tag id="446216011" k="amenity" o="none" type="way" v="social_facility" />
+    <tag id="446216011" k="social_facility:for" o="none" type="way" v="senior" />
+    <tag id="449791899" k="amenity" o="none" type="way" v="parking" />
+    <tag id="451481100" k="building" o="add" type="way" v="house" />
+    <tag id="451481101" k="building" o="add" type="way" v="shed" />
+    <tag id="458953109" k="ele" o="none" type="way" v="370" />
+    <tag id="458953109" k="name" o="none" type="way" v="Saints Peter and Paul Cemetery" />
+    <tag id="458953109" k="amenity" o="none" type="way" v="grave_yard" />
+    <tag id="458953109" k="gnis:created" o="none" type="way" v="07/12/1979" />
+    <tag id="458953109" k="gnis:state_id" o="none" type="way" v="39" />
+    <tag id="458953109" k="gnis:county_id" o="none" type="way" v="035" />
+    <tag id="458953109" k="gnis:feature_id" o="none" type="way" v="1045865" />
+    <tag id="459413755" k="ref" o="none" type="way" v="SR 17" />
+    <tag id="459413755" k="name" o="none" type="way" v="Granger Road" />
+    <tag id="459413755" k="oneway" o="none" type="way" v="yes" />
+    <tag id="459413755" k="highway" o="none" type="way" v="primary" />
+    <tag id="459413755" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="459413755" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="459413755" k="tiger:zip_left" o="none" type="way" v="44137" />
+    <tag id="459413755" k="tiger:name_base" o="none" type="way" v="Granger" />
+    <tag id="459413755" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="459413755" k="tiger:zip_right" o="none" type="way" v="44137" />
+    <tag id="459413755" k="tiger:name_base_1" o="none" type="way" v="State Route 17" />
+    <tag id="459413756" k="name" o="none" type="way" v="Tuxedo Avenue" />
+    <tag id="459413756" k="highway" o="none" type="way" v="residential" />
+    <tag id="459413756" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="459413756" k="tiger:county" o="none" type="way" v="Cuyahoga, OH" />
+    <tag id="459413756" k="tiger:zip_left" o="none" type="way" v="44131" />
+    <tag id="459413756" k="tiger:name_base" o="none" type="way" v="Tuxedo" />
+    <tag id="459413756" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="459413756" k="tiger:zip_right" o="none" type="way" v="44131" />
+    <tag id="459418328" k="footway" o="none" type="way" v="crossing" />
+    <tag id="459418328" k="highway" o="none" type="way" v="footway" />
+    <tag id="459418328" k="crossing" o="none" type="way" v="zebra" />
+    <tag id="459897593" k="landuse" o="none" type="way" v="railway" />
+    <tag id="461625347" k="highway" o="add" type="way" v="footway" />
+    <tag id="461625348" k="highway" o="add" type="way" v="footway" />
+    <tag id="461625349" k="railway" o="add" type="way" v="rail" />
+    <tag id="461625349" k="tiger:cfcc" o="add" type="way" v="B11" />
+    <tag id="461625349" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625349" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625349" k="tiger:name_base" o="add" type="way" v="Norfolk and Western Railway" />
+    <tag id="461625350" k="layer" o="add" type="way" v="-1" />
+    <tag id="461625350" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="461625350" k="waterway" o="add" type="way" v="stream" />
+    <tag id="461625351" k="waterway" o="add" type="way" v="stream" />
+    <tag id="461625352" k="name" o="add" type="way" v="West 130th Street" />
+    <tag id="461625352" k="layer" o="add" type="way" v="1" />
+    <tag id="461625352" k="bridge" o="add" type="way" v="yes" />
+    <tag id="461625352" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461625352" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625352" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625352" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625352" k="tiger:zip_left" o="add" type="way" v="44133" />
+    <tag id="461625352" k="tiger:name_base" o="add" type="way" v="130th" />
+    <tag id="461625352" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="461625352" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="461625353" k="name" o="add" type="way" v="West 130th Street" />
+    <tag id="461625353" k="highway" o="add" type="way" v="secondary" />
+    <tag id="461625353" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625353" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625353" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625353" k="tiger:zip_left" o="add" type="way" v="44133" />
+    <tag id="461625353" k="tiger:name_base" o="add" type="way" v="130th" />
+    <tag id="461625353" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="461625353" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="461625354" k="ele" o="add" type="way" v="283" />
+    <tag id="461625354" k="name" o="add" type="way" v="Bedford Center Cemetery" />
+    <tag id="461625354" k="landuse" o="add" type="way" v="cemetery" />
+    <tag id="461625354" k="gnis:created" o="add" type="way" v="08/17/1992" />
+    <tag id="461625354" k="gnis:state_id" o="add" type="way" v="39" />
+    <tag id="461625354" k="gnis:county_id" o="add" type="way" v="035" />
+    <tag id="461625354" k="gnis:feature_id" o="add" type="way" v="1959392" />
+    <tag id="461625355" k="name" o="add" type="way" v="OBM Arena" />
+    <tag id="461625355" k="sport" o="add" type="way" v="skating" />
+    <tag id="461625355" k="leisure" o="add" type="way" v="sports_centre" />
+    <tag id="461625355" k="building" o="add" type="way" v="yes" />
+    <tag id="461625356" k="name" o="add" type="way" v="Cheerful Lane" />
+    <tag id="461625356" k="layer" o="add" type="way" v="1" />
+    <tag id="461625356" k="bridge" o="add" type="way" v="yes" />
+    <tag id="461625356" k="highway" o="add" type="way" v="residential" />
+    <tag id="461625356" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625356" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625356" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625356" k="tiger:zip_left" o="add" type="way" v="44136" />
+    <tag id="461625356" k="tiger:name_base" o="add" type="way" v="Cheerful" />
+    <tag id="461625356" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="461625356" k="tiger:zip_right" o="add" type="way" v="44136" />
+    <tag id="461625357" k="name" o="add" type="way" v="Cheerful Lane" />
+    <tag id="461625357" k="highway" o="add" type="way" v="residential" />
+    <tag id="461625357" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625357" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625357" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625357" k="tiger:zip_left" o="add" type="way" v="44136" />
+    <tag id="461625357" k="tiger:name_base" o="add" type="way" v="Cheerful" />
+    <tag id="461625357" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="461625357" k="tiger:zip_right" o="add" type="way" v="44136" />
+    <tag id="461625358" k="name" o="add" type="way" v="Button Road" />
+    <tag id="461625358" k="layer" o="add" type="way" v="1" />
+    <tag id="461625358" k="bridge" o="add" type="way" v="yes" />
+    <tag id="461625358" k="highway" o="add" type="way" v="residential" />
+    <tag id="461625358" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625358" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625358" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625358" k="tiger:name_base" o="add" type="way" v="Button" />
+    <tag id="461625358" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461625359" k="name" o="add" type="way" v="Button Road" />
+    <tag id="461625359" k="highway" o="add" type="way" v="residential" />
+    <tag id="461625359" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625359" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625359" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625359" k="tiger:name_base" o="add" type="way" v="Button" />
+    <tag id="461625359" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461625360" k="name" o="add" type="way" v="Bennett Road" />
+    <tag id="461625360" k="layer" o="add" type="way" v="1" />
+    <tag id="461625360" k="bridge" o="add" type="way" v="yes" />
+    <tag id="461625360" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461625360" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625360" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625360" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625360" k="tiger:zip_left" o="add" type="way" v="44133" />
+    <tag id="461625360" k="tiger:name_base" o="add" type="way" v="Bennett" />
+    <tag id="461625360" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461625360" k="tiger:zip_right" o="add" type="way" v="44133" />
+    <tag id="461625361" k="name" o="add" type="way" v="Bennett Road" />
+    <tag id="461625361" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="461625361" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="461625361" k="tiger:county" o="add" type="way" v="Cuyahoga, OH" />
+    <tag id="461625361" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="461625361" k="tiger:zip_left" o="add" type="way" v="44133" />
+    <tag id="461625361" k="tiger:name_base" o="add" type="way" v="Bennett" />
+    <tag id="461625361" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="461625361" k="tiger:zip_right" o="add" type="way" v="44133" />
+    <tag id="461625362" k="highway" o="add" type="way" v="service" />
+    <tag id="461625362" k="service" o="add" type="way" v="driveway" />
+    <tag id="461625363" k="layer" o="add" type="way" v="-1" />
+    <tag id="461625363" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="461625363" k="waterway" o="add" type="way" v="stream" />
+    <tag id="6110247" k="type" o="none" type="relation" v="restriction" />
+    <tag id="6110247" k="restriction" o="none" type="relation" v="no_straight_on" />
+  </body>
+</changeset>

@@ -1,0 +1,587 @@
+<changeset id="44785278" schema="2">
+  <counts nodesAdded="290" nodesDeleted="25" nodesModified="6" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="55" waysDeleted="2" waysModified="70" />
+  <meta>
+    <tag k="comment" v="Import de lieux-dits &#224; La Voulte-sur-Rh&#244;ne depuis le cadastre et corrections Osmose et divers" />
+    <tag k="created_by" v="JOSM/1.5 (11223 fr)" />
+    <tag k="source" v="cadastre;Osmose;BDOrtho IGN" />
+  </meta>
+  <body>
+    <tag id="493130845" k="name" o="none" type="node" v="Centre Multimedia MJC La Voulte" />
+    <tag id="493130845" k="source" o="none" type="node" v="http://www.inforoutes-ardeche.fr (2009)" />
+    <tag id="493130845" k="amenity" o="none" type="node" v="social_facility" />
+    <tag id="493130845" k="operator" o="none" type="node" v="Inforoutes" />
+    <tag id="493130845" k="ref:FR:DUI" o="none" type="node" v="2774" />
+    <tag id="493130845" k="ref:inforoutes" o="none" type="node" v="ccm" />
+    <tag id="493130845" k="social_facility" o="add" type="node" v="outreach" />
+    <tag id="493130845" k="social_facility:for" o="add" type="node" v="juvenile" />
+    <tag id="497216756" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="497216757" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="1705624079" k="name" o="none" type="node" v="Sarl GRET" />
+    <tag id="1705624079" k="shop" o="add" type="node" v="gaz" />
+    <tag id="1705624079" k="brand" o="none" type="node" v="Avia" />
+    <tag id="1705624079" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="1705624079" k="amenity" o="none" type="node" v="fuel" />
+    <tag id="1705624079" k="addr:street" o="none" type="node" v="Avenue L&#233;on Blum" />
+    <tag id="1705624079" k="fuel:diesel" o="none" type="node" v="yes" />
+    <tag id="1705624079" k="addr:postcode" o="none" type="node" v="07800" />
+    <tag id="1705624079" k="opening_hours" o="modify" type="node" v="24/7" />
+    <tag id="1705624079" k="compressed_air" o="add" type="node" v="yes" />
+    <tag id="1705624079" k="fuel:octane_95" o="none" type="node" v="yes" />
+    <tag id="1705624079" k="fuel:octane_98" o="none" type="node" v="yes" />
+    <tag id="1705624079" k="addr:housenumber" o="none" type="node" v="19" />
+    <tag id="1705624079" k="ref:FR:prix-carburants" o="add" type="node" v="7800005" />
+    <tag id="1830690452" k="note" o="add" type="node" v="Travers&#233;e de la piste cyclable" />
+    <tag id="1830690452" k="source" o="add" type="node" v="BDOrtho IGN" />
+    <tag id="1830690464" k="note" o="add" type="node" v="fin de la protection de la piste cyclable" />
+    <tag id="1830690464" k="source" o="add" type="node" v="BDOrtho IGN" />
+    <tag id="1830690526" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1830690526" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="1830690526" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="1830799173" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1830799173" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="1830799173" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="1831904153" k="power" o="none" type="node" v="tower" />
+    <tag id="1831904157" k="bench" o="none" type="node" v="no" />
+    <tag id="1831904157" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1831904157" k="shelter" o="none" type="node" v="yes" />
+    <tag id="1831904157" k="waste_basket" o="none" type="node" v="yes" />
+    <tag id="1831904157" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="1958680088" k="atm" o="none" type="node" v="yes" />
+    <tag id="1958680088" k="name" o="modify" type="node" v="La Voulte-sur-Rh&#244;ne" />
+    <tag id="1958680088" k="phone" o="none" type="node" v="3631" />
+    <tag id="1958680088" k="source" o="modify" type="node" v="data.gouv.fr:LaPoste - 06/2015" />
+    <tag id="1958680088" k="amenity" o="none" type="node" v="post_office" />
+    <tag id="1958680088" k="operator" o="none" type="node" v="La Poste" />
+    <tag id="1958680088" k="wheelchair" o="add" type="node" v="yes" />
+    <tag id="1958680088" k="addr:postcode" o="none" type="node" v="07800" />
+    <tag id="1958680088" k="copy_facility" o="add" type="node" v="yes" />
+    <tag id="1958680088" k="change_machine" o="none" type="node" v="yes" />
+    <tag id="1958680088" k="ref:FR:LaPoste" o="none" type="node" v="01165A" />
+    <tag id="1958680088" k="stamping_machine" o="none" type="node" v="yes" />
+    <tag id="1958680089" k="name" o="none" type="node" v="Section d'enseignement g&#233;n&#233;ral et professionnel adapt&#233; du Coll&#232;ge Les Trois Vall&#233;es" />
+    <tag id="1958680089" k="source" o="none" type="node" v="data.gouv.fr:Minist&#232;re de l'&#201;ducation nationale, de la Jeunesse et de la Vie associative - 05/2012" />
+    <tag id="1958680089" k="amenity" o="none" type="node" v="school" />
+    <tag id="1958680089" k="ref:UAI" o="none" type="node" v="0071198P" />
+    <tag id="1958680089" k="school:FR" o="none" type="node" v="coll&#232;ge" />
+    <tag id="4580472327" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="4580472327" k="addr:street" o="none" type="node" v="Les Cabannes" />
+    <tag id="4580472327" k="addr:housenumber" o="none" type="node" v="18" />
+    <tag id="4580472748" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="4580472748" k="addr:housenumber" o="none" type="node" v="1" />
+    <tag id="4580474018" k="name" o="none" type="node" v="Cit&#233; Joseph Gillet" />
+    <tag id="4580474018" k="place" o="none" type="node" v="neighbourhood" />
+    <tag id="4580474018" k="alt_name" o="add" type="node" v="Cit&#233; Gillet" />
+    <tag id="4580474265" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="4580474265" k="addr:housenumber" o="none" type="node" v="775" />
+    <tag id="4275924" k="name" o="none" type="way" v="Place da 4 Septembre" />
+    <tag id="4275924" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="4275924" k="highway" o="none" type="way" v="primary" />
+    <tag id="4275924" k="alt_name" o="add" type="way" v="Place du Quatre Septembre" />
+    <tag id="4275924" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="4935427" k="natural" o="none" type="way" v="water" />
+    <tag id="8022712" k="name" o="none" type="way" v="Rue Ren&#233; Cassin" />
+    <tag id="8022712" k="oneway" o="none" type="way" v="no" />
+    <tag id="8022712" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="13704804" k="ref" o="none" type="way" v="D 104" />
+    <tag id="13704804" k="name" o="none" type="way" v="Route de Loriol" />
+    <tag id="13704804" k="oneway" o="none" type="way" v="no" />
+    <tag id="13704804" k="highway" o="none" type="way" v="primary" />
+    <tag id="13704804" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="34051267" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="34051267" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="34051267" k="admin_level" o="none" type="way" v="8" />
+    <tag id="35799580" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="42000380" k="CLC:id" o="none" type="way" v="FR-189552" />
+    <tag id="42000380" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="42000380" k="landuse" o="modify" type="way" v="farmland" />
+    <tag id="42000380" k="CLC:code" o="none" type="way" v="211" />
+    <tag id="42000380" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="70177797" k="name" o="none" type="way" v="La Dr&#244;me" />
+    <tag id="70177797" k="waterway" o="none" type="way" v="river" />
+    <tag id="86626987" k="source" o="none" type="way" v="&#169; CNES 2004-2007 / Spot Image" />
+    <tag id="86626987" k="highway" o="none" type="way" v="track" />
+    <tag id="86626987" k="embankment" o="none" type="way" v="yes" />
+    <tag id="86626992" k="source" o="none" type="way" v="&#169; CNES 2004-2007 / Spot Image" />
+    <tag id="86626992" k="highway" o="none" type="way" v="track" />
+    <tag id="86626992" k="embankment" o="none" type="way" v="yes" />
+    <tag id="114671700" k="name" o="none" type="way" v="L'Eyrieux" />
+    <tag id="114671700" k="waterway" o="none" type="way" v="river" />
+    <tag id="150173744" k="source" o="none" type="way" v="landsat" />
+    <tag id="150173744" k="waterway" o="none" type="way" v="riverbank" />
+    <tag id="158338788" k="name" o="add" type="way" v="Espace social" />
+    <tag id="158338788" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158338788" k="building" o="modify" type="way" v="public" />
+    <tag id="158339167" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158339167" k="building" o="none" type="way" v="yes" />
+    <tag id="158339317" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="158340768" k="name" o="none" type="way" v="Station Carrefour Market" />
+    <tag id="158340768" k="shop" o="add" type="way" v="gaz" />
+    <tag id="158340768" k="wall" o="none" type="way" v="no" />
+    <tag id="158340768" k="is_in" o="none" type="way" v="LA VOULTE SUR RHONE" />
+    <tag id="158340768" k="source" o="modify" type="way" v="BDOrtho IGN;cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="158340768" k="amenity" o="none" type="way" v="fuel" />
+    <tag id="158340768" k="vending" o="add" type="way" v="fuel" />
+    <tag id="158340768" k="building" o="none" type="way" v="yes" />
+    <tag id="158340768" k="operator" o="none" type="way" v="Carrefour" />
+    <tag id="158340768" k="addr:street" o="none" type="way" v="Avenue du 11 Novembre" />
+    <tag id="158340768" k="fuel:diesel" o="none" type="way" v="yes" />
+    <tag id="158340768" k="addr:postcode" o="none" type="way" v="07800" />
+    <tag id="158340768" k="opening_hours" o="none" type="way" v="24/7" />
+    <tag id="158340768" k="fuel:octane_95" o="none" type="way" v="yes" />
+    <tag id="158340768" k="fuel:octane_98" o="none" type="way" v="yes" />
+    <tag id="158340768" k="vending_machine" o="add" type="way" v="fuel" />
+    <tag id="158340768" k="ref:FR:prix-carburants" o="add" type="way" v="7800006" />
+    <tag id="158340802" k="name" o="none" type="way" v="Intermarch&#233;" />
+    <tag id="158340802" k="shop" o="add" type="way" v="convenience;gaz" />
+    <tag id="158340802" k="wall" o="none" type="way" v="no" />
+    <tag id="158340802" k="brand" o="none" type="way" v="Intermarch&#233;" />
+    <tag id="158340802" k="source" o="modify" type="way" v="Minist&#232;re de l'Economie, de l'Industrie et du Num&#233;rique - 22/10/2016" />
+    <tag id="158340802" k="amenity" o="none" type="way" v="fuel" />
+    <tag id="158340802" k="vending" o="add" type="way" v="fuel" />
+    <tag id="158340802" k="building" o="none" type="way" v="yes" />
+    <tag id="158340802" k="operator" o="none" type="way" v="Groupement des Mousquetaires" />
+    <tag id="158340802" k="addr:street" o="none" type="way" v="ZI Les Gonnettes SUD D86" />
+    <tag id="158340802" k="fuel:diesel" o="none" type="way" v="yes" />
+    <tag id="158340802" k="addr:postcode" o="none" type="way" v="07800" />
+    <tag id="158340802" k="opening_hours" o="none" type="way" v="24/7" />
+    <tag id="158340802" k="fuel:octane_95" o="none" type="way" v="yes" />
+    <tag id="158340802" k="fuel:octane_98" o="none" type="way" v="yes" />
+    <tag id="158340802" k="vending_machine" o="add" type="way" v="fuel" />
+    <tag id="158340802" k="ref:FR:prix-carburants" o="add" type="way" v="7800003" />
+    <tag id="158341665" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158341665" k="building" o="none" type="way" v="yes" />
+    <tag id="158342630" k="name" o="modify" type="way" v="Office de Tourisme" />
+    <tag id="158342630" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158342630" k="tourism" o="none" type="way" v="information" />
+    <tag id="158342630" k="building" o="none" type="way" v="yes" />
+    <tag id="158342630" k="operator" o="none" type="way" v="Inforoutes" />
+    <tag id="158342630" k="information" o="none" type="way" v="office" />
+    <tag id="158342630" k="ref:inforoutes" o="none" type="way" v="hotspot" />
+    <tag id="158342630" k="internet_access" o="none" type="way" v="wlan" />
+    <tag id="158343325" k="name" o="none" type="way" v="Delavis Paul" />
+    <tag id="158343325" k="shop" o="none" type="way" v="hifi" />
+    <tag id="158343325" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158343325" k="alt_name" o="add" type="way" v="Paul Delavis" />
+    <tag id="158343325" k="building" o="add" type="way" v="yes" />
+    <tag id="158343325" k="addr:street" o="none" type="way" v="Rue Pierre Semard" />
+    <tag id="158343325" k="description" o="add" type="way" v="R&#233;paration TV hifi video antenne" />
+    <tag id="158343325" k="addr:postcode" o="none" type="way" v="07800" />
+    <tag id="158343325" k="addr:housenumber" o="none" type="way" v="18" />
+    <tag id="158344957" k="name" o="none" type="way" v="Ch&#226;teau" />
+    <tag id="158344957" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158344957" k="ref:mhs" o="none" type="way" v="PA00116869" />
+    <tag id="158344957" k="building" o="none" type="way" v="yes" />
+    <tag id="158344957" k="heritage" o="none" type="way" v="3" />
+    <tag id="158344957" k="historic" o="none" type="way" v="castle" />
+    <tag id="158344957" k="wikipedia" o="none" type="way" v="fr:Ch&#226;teau de la Voulte-sur-Rh&#244;ne" />
+    <tag id="158344957" k="source:heritage" o="modify" type="way" v="data.gouv.fr:Minist&#232;re de la Culture - 04/2015" />
+    <tag id="158344957" k="heritage:operator" o="none" type="way" v="mhs" />
+    <tag id="158344957" k="mhs:inscription_date" o="none" type="way" v="1927" />
+    <tag id="158345052" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="158345052" k="building" o="none" type="way" v="yes" />
+    <tag id="172137986" k="name" o="none" type="way" v="Avenue Marie Curie" />
+    <tag id="172137986" k="oneway" o="none" type="way" v="no" />
+    <tag id="172137986" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="172137986" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="172137988" k="name" o="none" type="way" v="Rue Louis Pasteur" />
+    <tag id="172137988" k="oneway" o="none" type="way" v="no" />
+    <tag id="172137988" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="172153732" k="hgv" o="none" type="way" v="delivery" />
+    <tag id="172153732" k="name" o="none" type="way" v="Impasse du Sandre" />
+    <tag id="172153732" k="oneway" o="none" type="way" v="no" />
+    <tag id="172153732" k="highway" o="none" type="way" v="residential" />
+    <tag id="172267981" k="highway" o="none" type="way" v="service" />
+    <tag id="172267981" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="180123105" k="CLC:id" o="none" type="way" v="FR-189255" />
+    <tag id="180123105" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="180123105" k="landuse" o="none" type="way" v="orchard" />
+    <tag id="180123105" k="CLC:code" o="none" type="way" v="222" />
+    <tag id="180123105" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="189052895" k="oneway" o="add" type="way" v="yes" />
+    <tag id="189052895" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="189052895" k="highway" o="none" type="way" v="service" />
+    <tag id="189052895" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="189052896" k="oneway" o="none" type="way" v="no" />
+    <tag id="189052896" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="189052896" k="highway" o="none" type="way" v="service" />
+    <tag id="189052896" k="service" o="none" type="way" v="driveway" />
+    <tag id="189052898" k="oneway" o="add" type="way" v="yes" />
+    <tag id="189052898" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="189052898" k="highway" o="none" type="way" v="service" />
+    <tag id="189052898" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="199120677" k="highway" o="modify" type="way" v="service" />
+    <tag id="199120677" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="199120677" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="199462690" k="CEMT" o="none" type="way" v="V" />
+    <tag id="199462690" k="boat" o="none" type="way" v="yes" />
+    <tag id="199462690" k="name" o="none" type="way" v="Le Rh&#244;ne" />
+    <tag id="199462690" k="name:de" o="none" type="way" v="Rhone" />
+    <tag id="199462690" k="name:en" o="none" type="way" v="Rhone" />
+    <tag id="199462690" k="name:es" o="none" type="way" v="R&#243;dano" />
+    <tag id="199462690" k="name:fr" o="none" type="way" v="Le Rh&#244;ne" />
+    <tag id="199462690" k="name:it" o="none" type="way" v="Rodano" />
+    <tag id="199462690" k="name:wae" o="none" type="way" v="Rotten" />
+    <tag id="199462690" k="waterway" o="none" type="way" v="river" />
+    <tag id="212397861" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="212397861" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="239873555" k="source" o="none" type="way" v="&#169; CNES 2004-2007 / Spot Image" />
+    <tag id="239873555" k="highway" o="none" type="way" v="track" />
+    <tag id="239873555" k="surface" o="none" type="way" v="gravel" />
+    <tag id="239873555" k="embankment" o="add" type="way" v="yes" />
+    <tag id="239874214" k="source" o="none" type="way" v="&#169; CNES 2004-2007 / Spot Image" />
+    <tag id="239874214" k="highway" o="none" type="way" v="track" />
+    <tag id="239874214" k="surface" o="none" type="way" v="gravel" />
+    <tag id="239874214" k="embankment" o="none" type="way" v="yes" />
+    <tag id="239874215" k="source" o="none" type="way" v="&#169; CNES 2004-2007 / Spot Image" />
+    <tag id="239874215" k="highway" o="none" type="way" v="track" />
+    <tag id="239874215" k="embankment" o="add" type="way" v="yes" />
+    <tag id="240299495" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="242687838" k="highway" o="none" type="way" v="track" />
+    <tag id="242687838" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="243220119" k="ref" o="none" type="way" v="D 104" />
+    <tag id="243220119" k="oneway" o="none" type="way" v="no" />
+    <tag id="243220119" k="highway" o="none" type="way" v="primary" />
+    <tag id="243220119" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="243220130" k="ref" o="none" type="way" v="D 104" />
+    <tag id="243220130" k="name" o="none" type="way" v="Route de Loriol" />
+    <tag id="243220130" k="oneway" o="none" type="way" v="no" />
+    <tag id="243220130" k="highway" o="none" type="way" v="primary" />
+    <tag id="243220130" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="243575089" k="foot" o="none" type="way" v="yes" />
+    <tag id="243575089" k="name" o="none" type="way" v="Via Rh&#244;na" />
+    <tag id="243575089" k="horse" o="none" type="way" v="no" />
+    <tag id="243575089" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="243575089" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="243575089" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="243575089" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="255188607" k="highway" o="none" type="way" v="track" />
+    <tag id="262425620" k="foot" o="none" type="way" v="yes" />
+    <tag id="262425620" k="name" o="none" type="way" v="Via Rh&#244;na" />
+    <tag id="262425620" k="horse" o="none" type="way" v="no" />
+    <tag id="262425620" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="262425620" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="262425620" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="262425620" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="268231176" k="ref" o="none" type="way" v="D 104" />
+    <tag id="268231176" k="name" o="none" type="way" v="Route de Loriol" />
+    <tag id="268231176" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="268231176" k="highway" o="none" type="way" v="primary" />
+    <tag id="268231176" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="268231180" k="foot" o="none" type="way" v="yes" />
+    <tag id="268231180" k="name" o="none" type="way" v="Via Rh&#244;na" />
+    <tag id="268231180" k="horse" o="none" type="way" v="no" />
+    <tag id="268231180" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="268231180" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="268231180" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="268231180" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="308294806" k="name" o="none" type="way" v="Place de l'Eglise" />
+    <tag id="308294806" k="highway" o="none" type="way" v="residential" />
+    <tag id="311130422" k="foot" o="none" type="way" v="yes" />
+    <tag id="311130422" k="name" o="none" type="way" v="Via Rh&#244;na" />
+    <tag id="311130422" k="horse" o="none" type="way" v="no" />
+    <tag id="311130422" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="311130422" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="311130422" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="311130422" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="311130422" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="311130423" k="foot" o="none" type="way" v="yes" />
+    <tag id="311130423" k="name" o="none" type="way" v="Via Rh&#244;na" />
+    <tag id="311130423" k="horse" o="none" type="way" v="no" />
+    <tag id="311130423" k="layer" o="add" type="way" v="1" />
+    <tag id="311130423" k="bridge" o="none" type="way" v="yes" />
+    <tag id="311130423" k="bicycle" o="none" type="way" v="permissive" />
+    <tag id="311130423" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="311130423" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="311130423" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="311130423" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="338952280" k="name" o="none" type="way" v="Rue de la Lib&#233;ration" />
+    <tag id="338952280" k="highway" o="none" type="way" v="service" />
+    <tag id="339157791" k="name" o="none" type="way" v="Lac des Petits Robins" />
+    <tag id="339157791" k="water" o="none" type="way" v="lake" />
+    <tag id="339157791" k="natural" o="none" type="way" v="water" />
+    <tag id="346345251" k="amenity" o="none" type="way" v="parking" />
+    <tag id="346345254" k="access" o="add" type="way" v="customers" />
+    <tag id="346345254" k="amenity" o="none" type="way" v="parking" />
+    <tag id="346345255" k="amenity" o="none" type="way" v="parking" />
+    <tag id="346345259" k="amenity" o="none" type="way" v="parking" />
+    <tag id="346345265" k="amenity" o="none" type="way" v="parking" />
+    <tag id="351418071" k="source" o="none" type="way" v="&#169; CNES 2004-2007 / Spot Image" />
+    <tag id="351418071" k="highway" o="none" type="way" v="track" />
+    <tag id="351418071" k="embankment" o="none" type="way" v="yes" />
+    <tag id="413448952" k="name" o="none" type="way" v="Le Petit Rh&#244;ne" />
+    <tag id="413448952" k="waterway" o="none" type="way" v="stream" />
+    <tag id="413448958" k="waterway" o="none" type="way" v="drain" />
+    <tag id="413448963" k="layer" o="none" type="way" v="-1" />
+    <tag id="413448963" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="413448963" k="waterway" o="none" type="way" v="drain" />
+    <tag id="413448965" k="waterway" o="none" type="way" v="drain" />
+    <tag id="413696359" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="413696359" k="highway" o="none" type="way" v="service" />
+    <tag id="413696359" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="413696359" k="cycleway" o="none" type="way" v="opposite" />
+    <tag id="462072840" k="name" o="none" type="way" v="Rue Surville" />
+    <tag id="462072840" k="highway" o="none" type="way" v="service" />
+    <tag id="462072840" k="service" o="none" type="way" v="alley" />
+    <tag id="462072840" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="462073129" k="wall" o="none" type="way" v="no" />
+    <tag id="462073129" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="462073129" k="building" o="none" type="way" v="yes" />
+    <tag id="462111515" k="ref" o="none" type="way" v="800000" />
+    <tag id="462111515" k="name" o="none" type="way" v="Ligne de la rive droite du Rh&#244;ne" />
+    <tag id="462111515" k="gauge" o="none" type="way" v="1435" />
+    <tag id="462111515" k="layer" o="add" type="way" v="1" />
+    <tag id="462111515" k="usage" o="none" type="way" v="main" />
+    <tag id="462111515" k="bridge" o="none" type="way" v="yes" />
+    <tag id="462111515" k="oneway" o="none" type="way" v="yes" />
+    <tag id="462111515" k="source" o="none" type="way" v="bing" />
+    <tag id="462111515" k="railway" o="none" type="way" v="rail" />
+    <tag id="462111515" k="voltage" o="none" type="way" v="1500" />
+    <tag id="462111515" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="462111515" k="operator" o="none" type="way" v="SNCF R&#233;seau" />
+    <tag id="462111515" k="frequency" o="none" type="way" v="0" />
+    <tag id="462111515" k="importance" o="none" type="way" v="national" />
+    <tag id="462111515" k="start_date" o="none" type="way" v="1862" />
+    <tag id="462111515" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="462111515" k="railway:kvb" o="none" type="way" v="yes" />
+    <tag id="462111515" k="railway:radio" o="none" type="way" v="analogue" />
+    <tag id="462111515" k="railway:track_ref" o="none" type="way" v="1" />
+    <tag id="462111515" k="railway:traffic_mode" o="none" type="way" v="freight" />
+    <tag id="462111515" k="railway:bidirectional" o="none" type="way" v="possible" />
+    <tag id="462111515" k="railway:preferred_direction" o="none" type="way" v="forward" />
+    <tag id="462111529" k="ref" o="none" type="way" v="800000" />
+    <tag id="462111529" k="name" o="none" type="way" v="Ligne de la rive droite du Rh&#244;ne" />
+    <tag id="462111529" k="gauge" o="none" type="way" v="1435" />
+    <tag id="462111529" k="layer" o="add" type="way" v="1" />
+    <tag id="462111529" k="usage" o="none" type="way" v="main" />
+    <tag id="462111529" k="bridge" o="none" type="way" v="yes" />
+    <tag id="462111529" k="oneway" o="none" type="way" v="yes" />
+    <tag id="462111529" k="source" o="none" type="way" v="bing" />
+    <tag id="462111529" k="railway" o="none" type="way" v="rail" />
+    <tag id="462111529" k="voltage" o="none" type="way" v="1500" />
+    <tag id="462111529" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="462111529" k="operator" o="none" type="way" v="SNCF R&#233;seau" />
+    <tag id="462111529" k="frequency" o="none" type="way" v="0" />
+    <tag id="462111529" k="importance" o="none" type="way" v="national" />
+    <tag id="462111529" k="start_date" o="none" type="way" v="1862" />
+    <tag id="462111529" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="462111529" k="railway:kvb" o="none" type="way" v="yes" />
+    <tag id="462111529" k="railway:radio" o="none" type="way" v="analogue" />
+    <tag id="462111529" k="railway:track_ref" o="none" type="way" v="2" />
+    <tag id="462111529" k="railway:traffic_mode" o="none" type="way" v="freight" />
+    <tag id="462111529" k="railway:bidirectional" o="none" type="way" v="possible" />
+    <tag id="462111529" k="railway:preferred_direction" o="none" type="way" v="forward" />
+    <tag id="462676314" k="name" o="none" type="way" v="Coll&#232;ge Les Trois Vall&#233;es" />
+    <tag id="462676314" k="source" o="none" type="way" v="data.gouv.fr:Minist&#232;re de l'&#201;ducation nationale, de la Jeunesse et de la Vie associative - 05/2012" />
+    <tag id="462676314" k="amenity" o="none" type="way" v="school" />
+    <tag id="462676314" k="ref:UAI" o="none" type="way" v="0070042H" />
+    <tag id="462676314" k="school:FR" o="none" type="way" v="coll&#232;ge" />
+    <tag id="462676806" k="source" o="none" type="way" v="BDOrtho IGN" />
+    <tag id="462676806" k="highway" o="none" type="way" v="service" />
+    <tag id="462788383" k="layer" o="add" type="way" v="-1" />
+    <tag id="462788383" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788383" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="462788383" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788384" k="foot" o="add" type="way" v="yes" />
+    <tag id="462788384" k="name" o="add" type="way" v="Via Rh&#244;na" />
+    <tag id="462788384" k="horse" o="add" type="way" v="no" />
+    <tag id="462788384" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="462788384" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="462788384" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788384" k="embankment" o="add" type="way" v="yes" />
+    <tag id="462788384" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="462788385" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788385" k="highway" o="add" type="way" v="track" />
+    <tag id="462788386" k="name" o="add" type="way" v="Via Rh&#244;na" />
+    <tag id="462788386" k="amenity" o="add" type="way" v="parking" />
+    <tag id="462788386" k="parking" o="add" type="way" v="surface" />
+    <tag id="462788386" k="capacity" o="add" type="way" v="15" />
+    <tag id="462788387" k="ref" o="add" type="way" v="D 104" />
+    <tag id="462788387" k="name" o="add" type="way" v="Route de Loriol" />
+    <tag id="462788387" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462788387" k="highway" o="add" type="way" v="primary" />
+    <tag id="462788387" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="462788388" k="ref" o="add" type="way" v="D 104" />
+    <tag id="462788388" k="name" o="add" type="way" v="Route de Loriol" />
+    <tag id="462788388" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462788388" k="highway" o="add" type="way" v="primary" />
+    <tag id="462788388" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="462788389" k="ref" o="add" type="way" v="D 104" />
+    <tag id="462788389" k="name" o="add" type="way" v="Route de Loriol" />
+    <tag id="462788389" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462788389" k="highway" o="add" type="way" v="primary" />
+    <tag id="462788389" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="462788390" k="ref" o="add" type="way" v="D 104" />
+    <tag id="462788390" k="name" o="add" type="way" v="Route de Loriol" />
+    <tag id="462788390" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462788390" k="highway" o="add" type="way" v="primary" />
+    <tag id="462788390" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="462788391" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462788391" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788391" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788393" k="oneway" o="add" type="way" v="yes" />
+    <tag id="462788393" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788393" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788394" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788394" k="highway" o="add" type="way" v="service" />
+    <tag id="462788394" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="462788395" k="highway" o="add" type="way" v="track" />
+    <tag id="462788396" k="foot" o="add" type="way" v="yes" />
+    <tag id="462788396" k="horse" o="add" type="way" v="no" />
+    <tag id="462788396" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788396" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="462788396" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="462788396" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788396" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="462788397" k="foot" o="add" type="way" v="yes" />
+    <tag id="462788397" k="horse" o="add" type="way" v="no" />
+    <tag id="462788397" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788397" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="462788397" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="462788397" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788397" k="motor_vehicle" o="add" type="way" v="no" />
+    <tag id="462788398" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788398" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788399" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788399" k="highway" o="add" type="way" v="service" />
+    <tag id="462788400" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788400" k="natural" o="add" type="way" v="wetland" />
+    <tag id="462788401" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788401" k="highway" o="add" type="way" v="service" />
+    <tag id="462788401" k="service" o="add" type="way" v="driveway" />
+    <tag id="462788402" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788402" k="highway" o="add" type="way" v="service" />
+    <tag id="462788402" k="service" o="add" type="way" v="driveway" />
+    <tag id="462788403" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788403" k="highway" o="add" type="way" v="service" />
+    <tag id="462788403" k="service" o="add" type="way" v="driveway" />
+    <tag id="462788404" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788404" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788404" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788405" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788405" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788405" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788405" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="462788406" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788406" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788406" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788406" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="462788407" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788407" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788407" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788407" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="462788408" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788408" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788408" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788408" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="462788409" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788409" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788409" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788409" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="462788410" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788410" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788410" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788410" k="cycleway:left" o="add" type="way" v="track" />
+    <tag id="462788411" k="foot" o="add" type="way" v="designated" />
+    <tag id="462788411" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="462788411" k="highway" o="add" type="way" v="path" />
+    <tag id="462788411" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788411" k="segregated" o="add" type="way" v="no" />
+    <tag id="462788411" k="smoothness" o="add" type="way" v="excellent" />
+    <tag id="462788412" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788412" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788412" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788412" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="462788413" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788413" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788413" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788414" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788414" k="highway" o="add" type="way" v="service" />
+    <tag id="462788414" k="service" o="add" type="way" v="driveway" />
+    <tag id="462788415" k="access" o="add" type="way" v="customers" />
+    <tag id="462788415" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788415" k="highway" o="add" type="way" v="service" />
+    <tag id="462788415" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="462788416" k="name" o="add" type="way" v="Avenue Marie Curie" />
+    <tag id="462788416" k="oneway" o="add" type="way" v="no" />
+    <tag id="462788416" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="462788416" k="cycleway:right" o="add" type="way" v="track" />
+    <tag id="462788417" k="name" o="add" type="way" v="Rue du Ch&#226;teau" />
+    <tag id="462788417" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="462788417" k="highway" o="add" type="way" v="path" />
+    <tag id="462788418" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788418" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788419" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788420" k="layer" o="add" type="way" v="-1" />
+    <tag id="462788420" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="462788420" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788421" k="layer" o="add" type="way" v="-1" />
+    <tag id="462788421" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788421" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="462788421" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788422" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788423" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788423" k="natural" o="add" type="way" v="water" />
+    <tag id="462788424" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788424" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788425" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788426" k="layer" o="add" type="way" v="-1" />
+    <tag id="462788426" k="tunnel" o="add" type="way" v="yes" />
+    <tag id="462788426" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788427" k="waterway" o="add" type="way" v="drain" />
+    <tag id="462788428" k="area" o="add" type="way" v="yes" />
+    <tag id="462788428" k="name" o="add" type="way" v="Place da 4 Septembre" />
+    <tag id="462788428" k="highway" o="add" type="way" v="pedestrian" />
+    <tag id="462788428" k="alt_name" o="add" type="way" v="Place du Quatre Septembre" />
+    <tag id="462788429" k="highway" o="add" type="way" v="footway" />
+    <tag id="462788430" k="bus" o="add" type="way" v="yes" />
+    <tag id="462788430" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="462788431" k="highway" o="add" type="way" v="footway" />
+    <tag id="462788432" k="access" o="add" type="way" v="destination" />
+    <tag id="462788432" k="highway" o="add" type="way" v="footway" />
+    <tag id="462788433" k="area" o="add" type="way" v="no" />
+    <tag id="462788433" k="sport" o="add" type="way" v="athletics" />
+    <tag id="462788433" k="leisure" o="add" type="way" v="track" />
+    <tag id="462788433" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788434" k="sport" o="add" type="way" v="multi" />
+    <tag id="462788434" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788434" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="462788434" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788435" k="sport" o="add" type="way" v="multi" />
+    <tag id="462788435" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788435" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="462788435" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="462788436" k="sport" o="add" type="way" v="multi" />
+    <tag id="462788436" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788436" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="462788437" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788437" k="barrier" o="add" type="way" v="fence" />
+    <tag id="462788438" k="source" o="add" type="way" v="BDOrtho IGN" />
+    <tag id="462788438" k="barrier" o="add" type="way" v="fence" />
+    <tag id="4867277" k="ncn" o="none" type="relation" v="yes" />
+    <tag id="4867277" k="ref" o="none" type="relation" v="V17" />
+    <tag id="4867277" k="name" o="none" type="relation" v="Via Rh&#244;na - Valence &gt; Avignon" />
+    <tag id="4867277" k="type" o="none" type="relation" v="route" />
+    <tag id="4867277" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="4867277" k="ncn_ref" o="none" type="relation" v="V17" />
+    <tag id="4867277" k="network" o="none" type="relation" v="ncn" />
+    <tag id="4867466" k="ncn" o="none" type="relation" v="yes" />
+    <tag id="4867466" k="ref" o="none" type="relation" v="V17" />
+    <tag id="4867466" k="name" o="none" type="relation" v="Via Rh&#244;na - Variante Le Pouzin &gt; Anc&#244;ne" />
+    <tag id="4867466" k="type" o="none" type="relation" v="route" />
+    <tag id="4867466" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="4867466" k="ncn_ref" o="none" type="relation" v="V17" />
+    <tag id="4867466" k="network" o="none" type="relation" v="ncn" />
+    <tag id="6833400" k="name" o="none" type="relation" v="Rue Surville" />
+    <tag id="6833400" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="6833400" k="ref:FR:FANTOIR" o="none" type="relation" v="073490590B" />
+    <tag id="6833405" k="name" o="none" type="relation" v="Rue Pierre Semard" />
+    <tag id="6833405" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="6833405" k="ref:FR:FANTOIR" o="none" type="relation" v="073490490T" />
+    <tag id="6833422" k="name" o="none" type="relation" v="Rue du Ch&#226;teau" />
+    <tag id="6833422" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="6833422" k="ref:FR:FANTOIR" o="none" type="relation" v="073490110E" />
+    <tag id="6833537" k="name" o="none" type="relation" v="Avenue Marie Curie" />
+    <tag id="6833537" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="6833537" k="ref:FR:FANTOIR" o="none" type="relation" v="073490172X" />
+  </body>
+</changeset>

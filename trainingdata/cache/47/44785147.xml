@@ -1,0 +1,924 @@
+<changeset id="44785147" schema="2">
+  <counts nodesAdded="156" nodesDeleted="2" nodesModified="28" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="11" waysDeleted="0" waysModified="70" />
+  <meta>
+    <tag k="comment" v="Corrections from Keep Right! utility, extra nodes on M5 to more accurately reflect curves, added Variable Message Signs and police revetment." />
+    <tag k="created_by" v="JOSM/1.5 (11223 en_GB)" />
+    <tag k="source" v="Local knowledge, Bing, StreetView." />
+  </meta>
+  <body>
+    <tag id="364653" k="ref" o="none" type="node" v="25" />
+    <tag id="364653" k="name" o="none" type="node" v="Blackbrook Interchange" />
+    <tag id="364653" k="layer" o="none" type="node" v="3" />
+    <tag id="364653" k="exit_to" o="none" type="node" v="A358 Taunton, Honiton, Yeovil, Weymouth" />
+    <tag id="364653" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="364657" k="ref" o="none" type="node" v="25" />
+    <tag id="364657" k="name" o="none" type="node" v="Blackbrook Interchange" />
+    <tag id="364657" k="exit_to" o="none" type="node" v="A358 Taunton, Yeovil" />
+    <tag id="364657" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="364696" k="exit_to" o="none" type="node" v="Taunton Deane Services (South)" />
+    <tag id="364696" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="364748" k="ref" o="none" type="node" v="26" />
+    <tag id="364748" k="name" o="none" type="node" v="A38 Wellington" />
+    <tag id="364748" k="layer" o="none" type="node" v="3" />
+    <tag id="364748" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="92482843" k="name" o="none" type="node" v="M5 J25" />
+    <tag id="92482843" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="685600977" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685600977" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685600977" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685600980" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685600980" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685600980" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685600991" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685600991" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685600991" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685600993" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685600993" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685600993" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685601000" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685601000" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601000" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685601002" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685601002" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601002" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685601005" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="685601005" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601005" k="emergency" o="none" type="node" v="phone" />
+    <tag id="685601007" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="685601007" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601007" k="emergency" o="none" type="node" v="phone" />
+    <tag id="685601009" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="685601009" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601009" k="emergency" o="none" type="node" v="phone" />
+    <tag id="685601018" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="685601018" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601018" k="emergency" o="none" type="node" v="phone" />
+    <tag id="685601020" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="685601020" k="operator" o="none" type="node" v="Highways Agency" />
+    <tag id="685601020" k="emergency" o="none" type="node" v="phone" />
+    <tag id="685601023" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="685601023" k="operator" o="none" type="node" v="Highways Agency" />
+    <tag id="685601023" k="emergency" o="none" type="node" v="phone" />
+    <tag id="685601025" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685601025" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601025" k="emergency" o="add" type="node" v="phone" />
+    <tag id="685601027" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="685601027" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="685601027" k="emergency" o="add" type="node" v="phone" />
+    <tag id="1516428302" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1590894502" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="1590894502" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1590894502" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1590894513" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="1590894513" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1590894513" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1594754508" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="1594754508" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1594754508" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1594754517" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="1594754517" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1594754517" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1597873331" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="1597873331" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1597873331" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1597873332" k="amenity" o="add" type="node" v="emergency_phone" />
+    <tag id="1597873332" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1597873332" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1598841222" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="1598841222" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1598841222" k="emergency" o="none" type="node" v="phone" />
+    <tag id="1598841226" k="amenity" o="none" type="node" v="emergency_phone" />
+    <tag id="1598841226" k="operator" o="add" type="node" v="Highways Agency" />
+    <tag id="1598841226" k="emergency" o="none" type="node" v="phone" />
+    <tag id="2010236936" k="highway" o="none" type="node" v="give_way" />
+    <tag id="2010236936" k="direction" o="add" type="node" v="backward" />
+    <tag id="2010236939" k="highway" o="none" type="node" v="give_way" />
+    <tag id="2010236939" k="direction" o="add" type="node" v="backward" />
+    <tag id="3707757120" k="highway" o="none" type="node" v="give_way" />
+    <tag id="3707757120" k="direction" o="add" type="node" v="backward" />
+    <tag id="3904539085" k="highway" o="add" type="node" v="give_way" />
+    <tag id="3904539085" k="direction" o="add" type="node" v="backward" />
+    <tag id="3904539086" k="highway" o="add" type="node" v="give_way" />
+    <tag id="3904539086" k="direction" o="add" type="node" v="backward" />
+    <tag id="3904539088" k="highway" o="add" type="node" v="give_way" />
+    <tag id="3904539088" k="direction" o="add" type="node" v="backward" />
+    <tag id="3635937" k="lit" o="none" type="way" v="no" />
+    <tag id="3635937" k="ref" o="none" type="way" v="M5" />
+    <tag id="3635937" k="foot" o="none" type="way" v="no" />
+    <tag id="3635937" k="horse" o="none" type="way" v="no" />
+    <tag id="3635937" k="lanes" o="none" type="way" v="3" />
+    <tag id="3635937" k="oneway" o="none" type="way" v="yes" />
+    <tag id="3635937" k="bicycle" o="none" type="way" v="no" />
+    <tag id="3635937" k="highway" o="none" type="way" v="motorway" />
+    <tag id="3635937" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="3635937" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="3635937" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="3635937" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="3635937" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="3635937" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="3635965" k="lit" o="none" type="way" v="no" />
+    <tag id="3635965" k="ref" o="none" type="way" v="M5" />
+    <tag id="3635965" k="foot" o="none" type="way" v="no" />
+    <tag id="3635965" k="horse" o="none" type="way" v="no" />
+    <tag id="3635965" k="lanes" o="none" type="way" v="3" />
+    <tag id="3635965" k="oneway" o="none" type="way" v="yes" />
+    <tag id="3635965" k="bicycle" o="none" type="way" v="no" />
+    <tag id="3635965" k="highway" o="none" type="way" v="motorway" />
+    <tag id="3635965" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="3635965" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="3635965" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="3635965" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="3635965" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="3635965" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="3636428" k="lit" o="none" type="way" v="no" />
+    <tag id="3636428" k="ref" o="none" type="way" v="M5" />
+    <tag id="3636428" k="foot" o="none" type="way" v="no" />
+    <tag id="3636428" k="horse" o="none" type="way" v="no" />
+    <tag id="3636428" k="lanes" o="none" type="way" v="3" />
+    <tag id="3636428" k="oneway" o="none" type="way" v="yes" />
+    <tag id="3636428" k="bicycle" o="none" type="way" v="no" />
+    <tag id="3636428" k="highway" o="none" type="way" v="motorway" />
+    <tag id="3636428" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="3636428" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="3636428" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="3636428" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="3636428" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="3636428" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="4074991" k="lit" o="none" type="way" v="yes" />
+    <tag id="4074991" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="4074991" k="lanes" o="none" type="way" v="2" />
+    <tag id="4074991" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4074991" k="bicycle" o="none" type="way" v="no" />
+    <tag id="4074991" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4074991" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="4074991" k="carriageway_ref" o="none" type="way" v="K" />
+    <tag id="4074991" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="4074992" k="lit" o="none" type="way" v="no" />
+    <tag id="4074992" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="4074992" k="lanes" o="none" type="way" v="1" />
+    <tag id="4074992" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4074992" k="bicycle" o="none" type="way" v="no" />
+    <tag id="4074992" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4074992" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="4074992" k="carriageway_ref" o="none" type="way" v="J" />
+    <tag id="4074992" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="5047551" k="lit" o="none" type="way" v="no" />
+    <tag id="5047551" k="ref" o="none" type="way" v="M5" />
+    <tag id="5047551" k="foot" o="none" type="way" v="no" />
+    <tag id="5047551" k="horse" o="none" type="way" v="no" />
+    <tag id="5047551" k="lanes" o="none" type="way" v="3" />
+    <tag id="5047551" k="layer" o="none" type="way" v="1" />
+    <tag id="5047551" k="bridge" o="none" type="way" v="yes" />
+    <tag id="5047551" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5047551" k="bicycle" o="none" type="way" v="no" />
+    <tag id="5047551" k="highway" o="none" type="way" v="motorway" />
+    <tag id="5047551" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="5047551" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="5047551" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="5047551" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="5047551" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="5047551" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="9958895" k="lit" o="none" type="way" v="no" />
+    <tag id="9958895" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="9958895" k="foot" o="none" type="way" v="no" />
+    <tag id="9958895" k="horse" o="none" type="way" v="no" />
+    <tag id="9958895" k="lanes" o="none" type="way" v="1" />
+    <tag id="9958895" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9958895" k="bicycle" o="none" type="way" v="no" />
+    <tag id="9958895" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9958895" k="surface" o="none" type="way" v="paved" />
+    <tag id="9958895" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="9958895" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="9958895" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="9958895" k="carriageway_ref" o="none" type="way" v="L" />
+    <tag id="9958895" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="9958897" k="lit" o="none" type="way" v="no" />
+    <tag id="9958897" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="9958897" k="foot" o="none" type="way" v="no" />
+    <tag id="9958897" k="horse" o="none" type="way" v="no" />
+    <tag id="9958897" k="lanes" o="none" type="way" v="2" />
+    <tag id="9958897" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9958897" k="bicycle" o="none" type="way" v="no" />
+    <tag id="9958897" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9958897" k="surface" o="none" type="way" v="concrete" />
+    <tag id="9958897" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="9958897" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="9958897" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="9958897" k="carriageway_ref" o="none" type="way" v="K" />
+    <tag id="9958897" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="9958898" k="lit" o="none" type="way" v="no" />
+    <tag id="9958898" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="9958898" k="foot" o="none" type="way" v="no" />
+    <tag id="9958898" k="horse" o="none" type="way" v="no" />
+    <tag id="9958898" k="lanes" o="none" type="way" v="2" />
+    <tag id="9958898" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9958898" k="bicycle" o="none" type="way" v="no" />
+    <tag id="9958898" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9958898" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="9958898" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="9958898" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="9958898" k="carriageway_ref" o="none" type="way" v="M" />
+    <tag id="9958898" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="9958900" k="lit" o="none" type="way" v="no" />
+    <tag id="9958900" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="9958900" k="foot" o="none" type="way" v="no" />
+    <tag id="9958900" k="horse" o="none" type="way" v="no" />
+    <tag id="9958900" k="lanes" o="none" type="way" v="2" />
+    <tag id="9958900" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9958900" k="bicycle" o="none" type="way" v="no" />
+    <tag id="9958900" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="9958900" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="9958900" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="9958900" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="9958900" k="carriageway_ref" o="none" type="way" v="J" />
+    <tag id="9958900" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="9960235" k="name" o="add" type="way" v="Honiton Road" />
+    <tag id="9960235" k="lanes" o="none" type="way" v="2" />
+    <tag id="9960235" k="layer" o="none" type="way" v="1" />
+    <tag id="9960235" k="bridge" o="none" type="way" v="yes" />
+    <tag id="9960235" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="9960235" k="surface" o="none" type="way" v="paved" />
+    <tag id="10594503" k="lit" o="none" type="way" v="no" />
+    <tag id="10594503" k="ref" o="none" type="way" v="M5" />
+    <tag id="10594503" k="foot" o="none" type="way" v="no" />
+    <tag id="10594503" k="horse" o="none" type="way" v="no" />
+    <tag id="10594503" k="lanes" o="none" type="way" v="3" />
+    <tag id="10594503" k="layer" o="none" type="way" v="1" />
+    <tag id="10594503" k="bridge" o="none" type="way" v="yes" />
+    <tag id="10594503" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10594503" k="bicycle" o="none" type="way" v="no" />
+    <tag id="10594503" k="highway" o="none" type="way" v="motorway" />
+    <tag id="10594503" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="10594503" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="10594503" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="10594503" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="10594503" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="10594503" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="10594514" k="lit" o="none" type="way" v="yes" />
+    <tag id="10594514" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="10594514" k="lanes" o="none" type="way" v="2" />
+    <tag id="10594514" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10594514" k="bicycle" o="none" type="way" v="no" />
+    <tag id="10594514" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10594514" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="10594514" k="carriageway_ref" o="none" type="way" v="M" />
+    <tag id="10594514" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="10594533" k="lit" o="none" type="way" v="no" />
+    <tag id="10594533" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="10594533" k="lanes" o="none" type="way" v="2" />
+    <tag id="10594533" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10594533" k="bicycle" o="none" type="way" v="no" />
+    <tag id="10594533" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="10594533" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="10594533" k="carriageway_ref" o="none" type="way" v="L" />
+    <tag id="10594533" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="11257112" k="lit" o="none" type="way" v="no" />
+    <tag id="11257112" k="ref" o="none" type="way" v="M5" />
+    <tag id="11257112" k="foot" o="none" type="way" v="no" />
+    <tag id="11257112" k="horse" o="none" type="way" v="no" />
+    <tag id="11257112" k="lanes" o="none" type="way" v="3" />
+    <tag id="11257112" k="layer" o="none" type="way" v="1" />
+    <tag id="11257112" k="bridge" o="none" type="way" v="yes" />
+    <tag id="11257112" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11257112" k="bicycle" o="none" type="way" v="no" />
+    <tag id="11257112" k="highway" o="none" type="way" v="motorway" />
+    <tag id="11257112" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="11257112" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="11257112" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="11257112" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="11257112" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="11257112" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="11257124" k="lit" o="none" type="way" v="no" />
+    <tag id="11257124" k="ref" o="none" type="way" v="M5" />
+    <tag id="11257124" k="foot" o="none" type="way" v="no" />
+    <tag id="11257124" k="horse" o="none" type="way" v="no" />
+    <tag id="11257124" k="lanes" o="none" type="way" v="3" />
+    <tag id="11257124" k="layer" o="none" type="way" v="1" />
+    <tag id="11257124" k="bridge" o="none" type="way" v="yes" />
+    <tag id="11257124" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11257124" k="bicycle" o="none" type="way" v="no" />
+    <tag id="11257124" k="highway" o="none" type="way" v="motorway" />
+    <tag id="11257124" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="11257124" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="11257124" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="11257124" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="11257124" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="11257124" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="11257127" k="lit" o="none" type="way" v="no" />
+    <tag id="11257127" k="ref" o="none" type="way" v="M5" />
+    <tag id="11257127" k="foot" o="none" type="way" v="no" />
+    <tag id="11257127" k="horse" o="none" type="way" v="no" />
+    <tag id="11257127" k="lanes" o="none" type="way" v="3" />
+    <tag id="11257127" k="oneway" o="none" type="way" v="yes" />
+    <tag id="11257127" k="bicycle" o="none" type="way" v="no" />
+    <tag id="11257127" k="highway" o="none" type="way" v="motorway" />
+    <tag id="11257127" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="11257127" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="11257127" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="11257127" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="11257127" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="11257127" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27570605" k="lit" o="none" type="way" v="no" />
+    <tag id="27570605" k="ref" o="none" type="way" v="M5" />
+    <tag id="27570605" k="foot" o="none" type="way" v="no" />
+    <tag id="27570605" k="horse" o="none" type="way" v="no" />
+    <tag id="27570605" k="lanes" o="none" type="way" v="3" />
+    <tag id="27570605" k="layer" o="none" type="way" v="1" />
+    <tag id="27570605" k="bridge" o="none" type="way" v="yes" />
+    <tag id="27570605" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27570605" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27570605" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27570605" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27570605" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27570605" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27570605" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27570605" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="27570605" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27570606" k="lit" o="none" type="way" v="no" />
+    <tag id="27570606" k="ref" o="none" type="way" v="M5" />
+    <tag id="27570606" k="foot" o="none" type="way" v="no" />
+    <tag id="27570606" k="horse" o="none" type="way" v="no" />
+    <tag id="27570606" k="lanes" o="none" type="way" v="3" />
+    <tag id="27570606" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27570606" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27570606" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27570606" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27570606" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27570606" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27570606" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27570606" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="27570606" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27570607" k="lit" o="none" type="way" v="no" />
+    <tag id="27570607" k="ref" o="none" type="way" v="M5" />
+    <tag id="27570607" k="foot" o="none" type="way" v="no" />
+    <tag id="27570607" k="horse" o="none" type="way" v="no" />
+    <tag id="27570607" k="lanes" o="none" type="way" v="3" />
+    <tag id="27570607" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27570607" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27570607" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27570607" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27570607" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27570607" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27570607" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27570607" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="27570607" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27570608" k="lit" o="none" type="way" v="no" />
+    <tag id="27570608" k="ref" o="none" type="way" v="M5" />
+    <tag id="27570608" k="foot" o="none" type="way" v="no" />
+    <tag id="27570608" k="horse" o="none" type="way" v="no" />
+    <tag id="27570608" k="lanes" o="none" type="way" v="3" />
+    <tag id="27570608" k="layer" o="none" type="way" v="1" />
+    <tag id="27570608" k="bridge" o="none" type="way" v="yes" />
+    <tag id="27570608" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27570608" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27570608" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27570608" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27570608" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27570608" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27570608" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27570608" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="27570608" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27570609" k="lit" o="none" type="way" v="no" />
+    <tag id="27570609" k="ref" o="none" type="way" v="M5" />
+    <tag id="27570609" k="foot" o="none" type="way" v="no" />
+    <tag id="27570609" k="horse" o="none" type="way" v="no" />
+    <tag id="27570609" k="lanes" o="none" type="way" v="3" />
+    <tag id="27570609" k="layer" o="none" type="way" v="1" />
+    <tag id="27570609" k="bridge" o="none" type="way" v="yes" />
+    <tag id="27570609" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27570609" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27570609" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27570609" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27570609" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27570609" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27570609" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27570609" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="27570609" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27570613" k="lit" o="none" type="way" v="no" />
+    <tag id="27570613" k="ref" o="none" type="way" v="M5" />
+    <tag id="27570613" k="foot" o="none" type="way" v="no" />
+    <tag id="27570613" k="horse" o="none" type="way" v="no" />
+    <tag id="27570613" k="lanes" o="none" type="way" v="3" />
+    <tag id="27570613" k="layer" o="none" type="way" v="1" />
+    <tag id="27570613" k="bridge" o="none" type="way" v="yes" />
+    <tag id="27570613" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27570613" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27570613" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27570613" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27570613" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27570613" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27570613" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27570613" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="27570613" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27597815" k="lit" o="none" type="way" v="no" />
+    <tag id="27597815" k="ref" o="none" type="way" v="M5" />
+    <tag id="27597815" k="foot" o="none" type="way" v="no" />
+    <tag id="27597815" k="horse" o="none" type="way" v="no" />
+    <tag id="27597815" k="lanes" o="none" type="way" v="3" />
+    <tag id="27597815" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27597815" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27597815" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27597815" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27597815" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27597815" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27597815" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27597815" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="27597815" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="27641413" k="lit" o="none" type="way" v="no" />
+    <tag id="27641413" k="ref" o="none" type="way" v="M5" />
+    <tag id="27641413" k="foot" o="none" type="way" v="no" />
+    <tag id="27641413" k="horse" o="none" type="way" v="no" />
+    <tag id="27641413" k="lanes" o="none" type="way" v="3" />
+    <tag id="27641413" k="oneway" o="none" type="way" v="yes" />
+    <tag id="27641413" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27641413" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27641413" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="27641413" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="27641413" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="27641413" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="27641413" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="27641413" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28116199" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28116199" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28116199" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="28116199" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28116199" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28120580" k="lit" o="none" type="way" v="no" />
+    <tag id="28120580" k="ref" o="none" type="way" v="M5" />
+    <tag id="28120580" k="foot" o="none" type="way" v="no" />
+    <tag id="28120580" k="horse" o="none" type="way" v="no" />
+    <tag id="28120580" k="lanes" o="none" type="way" v="3" />
+    <tag id="28120580" k="layer" o="none" type="way" v="1" />
+    <tag id="28120580" k="bridge" o="none" type="way" v="yes" />
+    <tag id="28120580" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28120580" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28120580" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28120580" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28120580" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28120580" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28120580" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28120580" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="28120580" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28120581" k="lit" o="none" type="way" v="no" />
+    <tag id="28120581" k="ref" o="none" type="way" v="M5" />
+    <tag id="28120581" k="foot" o="none" type="way" v="no" />
+    <tag id="28120581" k="horse" o="none" type="way" v="no" />
+    <tag id="28120581" k="lanes" o="none" type="way" v="3" />
+    <tag id="28120581" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28120581" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28120581" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28120581" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28120581" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28120581" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28120581" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28120581" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="28120581" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28120582" k="lit" o="none" type="way" v="no" />
+    <tag id="28120582" k="ref" o="none" type="way" v="M5" />
+    <tag id="28120582" k="foot" o="none" type="way" v="no" />
+    <tag id="28120582" k="horse" o="none" type="way" v="no" />
+    <tag id="28120582" k="lanes" o="none" type="way" v="3" />
+    <tag id="28120582" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28120582" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28120582" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28120582" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28120582" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28120582" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28120582" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28120582" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="28120582" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28120583" k="lit" o="none" type="way" v="no" />
+    <tag id="28120583" k="ref" o="none" type="way" v="M5" />
+    <tag id="28120583" k="foot" o="none" type="way" v="no" />
+    <tag id="28120583" k="horse" o="none" type="way" v="no" />
+    <tag id="28120583" k="lanes" o="none" type="way" v="3" />
+    <tag id="28120583" k="layer" o="none" type="way" v="1" />
+    <tag id="28120583" k="bridge" o="none" type="way" v="yes" />
+    <tag id="28120583" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28120583" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28120583" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28120583" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28120583" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28120583" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28120583" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28120583" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="28120583" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28814506" k="lit" o="none" type="way" v="no" />
+    <tag id="28814506" k="ref" o="none" type="way" v="M5" />
+    <tag id="28814506" k="foot" o="none" type="way" v="no" />
+    <tag id="28814506" k="horse" o="none" type="way" v="no" />
+    <tag id="28814506" k="lanes" o="none" type="way" v="3" />
+    <tag id="28814506" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28814506" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28814506" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28814506" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28814506" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28814506" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28814506" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28814506" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="28814506" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28814507" k="lit" o="none" type="way" v="no" />
+    <tag id="28814507" k="ref" o="none" type="way" v="M5" />
+    <tag id="28814507" k="foot" o="none" type="way" v="no" />
+    <tag id="28814507" k="horse" o="none" type="way" v="no" />
+    <tag id="28814507" k="lanes" o="none" type="way" v="3" />
+    <tag id="28814507" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28814507" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28814507" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28814507" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28814507" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28814507" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28814507" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28814507" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="28814507" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="28814509" k="lit" o="none" type="way" v="no" />
+    <tag id="28814509" k="ref" o="none" type="way" v="M5" />
+    <tag id="28814509" k="foot" o="none" type="way" v="no" />
+    <tag id="28814509" k="horse" o="none" type="way" v="no" />
+    <tag id="28814509" k="lanes" o="none" type="way" v="3" />
+    <tag id="28814509" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28814509" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28814509" k="highway" o="none" type="way" v="motorway" />
+    <tag id="28814509" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="28814509" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="28814509" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="28814509" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="28814509" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="28814509" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="64003277" k="oneway" o="none" type="way" v="yes" />
+    <tag id="64003277" k="bicycle" o="none" type="way" v="no" />
+    <tag id="64003277" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="64003277" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="64003277" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="111671471" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="111671473" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="111671478" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="111671483" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="118611822" k="lit" o="none" type="way" v="no" />
+    <tag id="118611822" k="ref" o="none" type="way" v="M5" />
+    <tag id="118611822" k="foot" o="none" type="way" v="no" />
+    <tag id="118611822" k="horse" o="none" type="way" v="no" />
+    <tag id="118611822" k="lanes" o="none" type="way" v="3" />
+    <tag id="118611822" k="oneway" o="none" type="way" v="yes" />
+    <tag id="118611822" k="bicycle" o="none" type="way" v="no" />
+    <tag id="118611822" k="highway" o="none" type="way" v="motorway" />
+    <tag id="118611822" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="118611822" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="118611822" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="118611822" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="118611822" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="118611822" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="123313832" k="oneway" o="none" type="way" v="yes" />
+    <tag id="123313832" k="bicycle" o="none" type="way" v="no" />
+    <tag id="123313832" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="123313832" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="123313832" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="123313893" k="oneway" o="none" type="way" v="yes" />
+    <tag id="123313893" k="highway" o="none" type="way" v="service" />
+    <tag id="123313894" k="oneway" o="none" type="way" v="yes" />
+    <tag id="123313894" k="bicycle" o="none" type="way" v="no" />
+    <tag id="123313894" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="123313894" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="123313894" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135933769" k="lit" o="none" type="way" v="no" />
+    <tag id="135933769" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="135933769" k="lanes" o="none" type="way" v="2" />
+    <tag id="135933769" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135933769" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135933769" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="135933769" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135933769" k="carriageway_ref" o="none" type="way" v="J" />
+    <tag id="135933769" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135933771" k="lit" o="none" type="way" v="no" />
+    <tag id="135933771" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="135933771" k="lanes" o="none" type="way" v="3" />
+    <tag id="135933771" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135933771" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135933771" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="135933771" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135933771" k="carriageway_ref" o="none" type="way" v="J" />
+    <tag id="135933771" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135933772" k="lit" o="none" type="way" v="no" />
+    <tag id="135933772" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="135933772" k="lanes" o="none" type="way" v="1" />
+    <tag id="135933772" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135933772" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135933772" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="135933772" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135933772" k="carriageway_ref" o="none" type="way" v="M" />
+    <tag id="135933772" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135934171" k="lit" o="none" type="way" v="no" />
+    <tag id="135934171" k="ref" o="none" type="way" v="M5" />
+    <tag id="135934171" k="foot" o="none" type="way" v="no" />
+    <tag id="135934171" k="horse" o="none" type="way" v="no" />
+    <tag id="135934171" k="lanes" o="none" type="way" v="3" />
+    <tag id="135934171" k="layer" o="none" type="way" v="1" />
+    <tag id="135934171" k="bridge" o="none" type="way" v="yes" />
+    <tag id="135934171" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135934171" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135934171" k="highway" o="none" type="way" v="motorway" />
+    <tag id="135934171" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="135934171" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135934171" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="135934171" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="135934171" k="source:bridge" o="none" type="way" v="Bing" />
+    <tag id="135934171" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="135934171" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135934172" k="lit" o="none" type="way" v="no" />
+    <tag id="135934172" k="ref" o="none" type="way" v="M5" />
+    <tag id="135934172" k="foot" o="none" type="way" v="no" />
+    <tag id="135934172" k="horse" o="none" type="way" v="no" />
+    <tag id="135934172" k="lanes" o="none" type="way" v="3" />
+    <tag id="135934172" k="layer" o="none" type="way" v="1" />
+    <tag id="135934172" k="bridge" o="none" type="way" v="yes" />
+    <tag id="135934172" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135934172" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135934172" k="highway" o="none" type="way" v="motorway" />
+    <tag id="135934172" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="135934172" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135934172" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="135934172" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="135934172" k="source:bridge" o="none" type="way" v="Bing" />
+    <tag id="135934172" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="135934172" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135934173" k="lit" o="none" type="way" v="no" />
+    <tag id="135934173" k="ref" o="none" type="way" v="M5" />
+    <tag id="135934173" k="foot" o="none" type="way" v="no" />
+    <tag id="135934173" k="horse" o="none" type="way" v="no" />
+    <tag id="135934173" k="lanes" o="none" type="way" v="3" />
+    <tag id="135934173" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135934173" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135934173" k="highway" o="none" type="way" v="motorway" />
+    <tag id="135934173" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="135934173" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135934173" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="135934173" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="135934173" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="135934173" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="135934176" k="lit" o="none" type="way" v="no" />
+    <tag id="135934176" k="ref" o="none" type="way" v="M5" />
+    <tag id="135934176" k="foot" o="none" type="way" v="no" />
+    <tag id="135934176" k="horse" o="none" type="way" v="no" />
+    <tag id="135934176" k="lanes" o="none" type="way" v="3" />
+    <tag id="135934176" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135934176" k="bicycle" o="none" type="way" v="no" />
+    <tag id="135934176" k="highway" o="none" type="way" v="motorway" />
+    <tag id="135934176" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="135934176" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="135934176" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="135934176" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="135934176" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="135934176" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="151978010" k="natural" o="none" type="way" v="scrub" />
+    <tag id="186665408" k="lit" o="none" type="way" v="no" />
+    <tag id="186665408" k="ref" o="none" type="way" v="M5" />
+    <tag id="186665408" k="foot" o="none" type="way" v="no" />
+    <tag id="186665408" k="horse" o="none" type="way" v="no" />
+    <tag id="186665408" k="lanes" o="none" type="way" v="3" />
+    <tag id="186665408" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186665408" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186665408" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186665408" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186665408" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186665408" k="embankment" o="none" type="way" v="yes" />
+    <tag id="186665408" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186665408" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186665408" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="186665408" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186665411" k="lit" o="none" type="way" v="no" />
+    <tag id="186665411" k="ref" o="none" type="way" v="M5" />
+    <tag id="186665411" k="foot" o="none" type="way" v="no" />
+    <tag id="186665411" k="horse" o="none" type="way" v="no" />
+    <tag id="186665411" k="lanes" o="none" type="way" v="3" />
+    <tag id="186665411" k="layer" o="none" type="way" v="1" />
+    <tag id="186665411" k="bridge" o="none" type="way" v="yes" />
+    <tag id="186665411" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186665411" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186665411" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186665411" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186665411" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186665411" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186665411" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186665411" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="186665411" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186665414" k="lit" o="none" type="way" v="no" />
+    <tag id="186665414" k="ref" o="none" type="way" v="M5" />
+    <tag id="186665414" k="foot" o="none" type="way" v="no" />
+    <tag id="186665414" k="horse" o="none" type="way" v="no" />
+    <tag id="186665414" k="lanes" o="none" type="way" v="3" />
+    <tag id="186665414" k="layer" o="none" type="way" v="1" />
+    <tag id="186665414" k="bridge" o="none" type="way" v="yes" />
+    <tag id="186665414" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186665414" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186665414" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186665414" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186665414" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186665414" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186665414" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186665414" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="186665414" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186665419" k="lit" o="none" type="way" v="no" />
+    <tag id="186665419" k="ref" o="none" type="way" v="M5" />
+    <tag id="186665419" k="foot" o="none" type="way" v="no" />
+    <tag id="186665419" k="horse" o="none" type="way" v="no" />
+    <tag id="186665419" k="lanes" o="none" type="way" v="3" />
+    <tag id="186665419" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186665419" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186665419" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186665419" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186665419" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186665419" k="embankment" o="none" type="way" v="yes" />
+    <tag id="186665419" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186665419" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186665419" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="186665419" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186665603" k="lit" o="none" type="way" v="yes" />
+    <tag id="186665603" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="186665603" k="lanes" o="none" type="way" v="3" />
+    <tag id="186665603" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186665603" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186665603" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="186665603" k="maxspeed" o="modify" type="way" v="40" />
+    <tag id="186665603" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186665603" k="carriageway_ref" o="none" type="way" v="L" />
+    <tag id="186665603" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186665604" k="lit" o="none" type="way" v="no" />
+    <tag id="186665604" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="186665604" k="lanes" o="none" type="way" v="3" />
+    <tag id="186665604" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186665604" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186665604" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="186665604" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186665604" k="carriageway_ref" o="none" type="way" v="L" />
+    <tag id="186665604" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666020" k="lit" o="none" type="way" v="no" />
+    <tag id="186666020" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="186666020" k="lanes" o="none" type="way" v="2" />
+    <tag id="186666020" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666020" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666020" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="186666020" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666020" k="carriageway_ref" o="none" type="way" v="M" />
+    <tag id="186666020" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666021" k="lit" o="none" type="way" v="yes" />
+    <tag id="186666021" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="186666021" k="lanes" o="none" type="way" v="3" />
+    <tag id="186666021" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666021" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666021" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="186666021" k="maxspeed" o="add" type="way" v="40 mph" />
+    <tag id="186666021" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666021" k="carriageway_ref" o="none" type="way" v="J" />
+    <tag id="186666021" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666023" k="lit" o="none" type="way" v="no" />
+    <tag id="186666023" k="ref" o="none" type="way" v="M5J25" />
+    <tag id="186666023" k="lanes" o="none" type="way" v="2" />
+    <tag id="186666023" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666023" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666023" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="186666023" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666023" k="carriageway_ref" o="none" type="way" v="K" />
+    <tag id="186666023" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666258" k="lit" o="none" type="way" v="no" />
+    <tag id="186666258" k="ref" o="none" type="way" v="M5" />
+    <tag id="186666258" k="foot" o="none" type="way" v="no" />
+    <tag id="186666258" k="horse" o="none" type="way" v="no" />
+    <tag id="186666258" k="lanes" o="none" type="way" v="3" />
+    <tag id="186666258" k="layer" o="none" type="way" v="1" />
+    <tag id="186666258" k="bridge" o="none" type="way" v="yes" />
+    <tag id="186666258" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666258" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666258" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186666258" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186666258" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666258" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186666258" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186666258" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="186666258" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666259" k="lit" o="none" type="way" v="no" />
+    <tag id="186666259" k="ref" o="none" type="way" v="M5" />
+    <tag id="186666259" k="foot" o="none" type="way" v="no" />
+    <tag id="186666259" k="horse" o="none" type="way" v="no" />
+    <tag id="186666259" k="lanes" o="none" type="way" v="3" />
+    <tag id="186666259" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666259" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666259" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186666259" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186666259" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666259" k="embankment" o="none" type="way" v="yes" />
+    <tag id="186666259" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186666259" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186666259" k="carriageway_ref" o="none" type="way" v="A" />
+    <tag id="186666259" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666260" k="lit" o="none" type="way" v="no" />
+    <tag id="186666260" k="ref" o="none" type="way" v="M5" />
+    <tag id="186666260" k="foot" o="none" type="way" v="no" />
+    <tag id="186666260" k="horse" o="none" type="way" v="no" />
+    <tag id="186666260" k="lanes" o="none" type="way" v="3" />
+    <tag id="186666260" k="layer" o="none" type="way" v="1" />
+    <tag id="186666260" k="bridge" o="none" type="way" v="yes" />
+    <tag id="186666260" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666260" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666260" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186666260" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186666260" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666260" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186666260" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186666260" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="186666260" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="186666261" k="lit" o="none" type="way" v="no" />
+    <tag id="186666261" k="ref" o="none" type="way" v="M5" />
+    <tag id="186666261" k="foot" o="none" type="way" v="no" />
+    <tag id="186666261" k="horse" o="none" type="way" v="no" />
+    <tag id="186666261" k="lanes" o="none" type="way" v="3" />
+    <tag id="186666261" k="oneway" o="none" type="way" v="yes" />
+    <tag id="186666261" k="bicycle" o="none" type="way" v="no" />
+    <tag id="186666261" k="highway" o="none" type="way" v="motorway" />
+    <tag id="186666261" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="186666261" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="186666261" k="embankment" o="none" type="way" v="yes" />
+    <tag id="186666261" k="maxspeed:type" o="modify" type="way" v="GB:motorway" />
+    <tag id="186666261" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="186666261" k="carriageway_ref" o="none" type="way" v="B" />
+    <tag id="186666261" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="242037582" k="lit" o="none" type="way" v="no" />
+    <tag id="242037582" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="242037582" k="foot" o="none" type="way" v="no" />
+    <tag id="242037582" k="horse" o="none" type="way" v="no" />
+    <tag id="242037582" k="lanes" o="none" type="way" v="2" />
+    <tag id="242037582" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242037582" k="bicycle" o="none" type="way" v="no" />
+    <tag id="242037582" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="242037582" k="surface" o="none" type="way" v="paved" />
+    <tag id="242037582" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="242037582" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="242037582" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="242037582" k="carriageway_ref" o="none" type="way" v="L" />
+    <tag id="242037582" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="242037583" k="lit" o="none" type="way" v="no" />
+    <tag id="242037583" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="242037583" k="foot" o="none" type="way" v="no" />
+    <tag id="242037583" k="horse" o="none" type="way" v="no" />
+    <tag id="242037583" k="lanes" o="none" type="way" v="1" />
+    <tag id="242037583" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242037583" k="bicycle" o="none" type="way" v="no" />
+    <tag id="242037583" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="242037583" k="surface" o="none" type="way" v="paved" />
+    <tag id="242037583" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="242037583" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="242037583" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="242037583" k="carriageway_ref" o="none" type="way" v="K" />
+    <tag id="242037583" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="286372685" k="landuse" o="none" type="way" v="grass" />
+    <tag id="287836666" k="natural" o="none" type="way" v="scrub" />
+    <tag id="368413809" k="lit" o="none" type="way" v="no" />
+    <tag id="368413809" k="ref" o="none" type="way" v="M5J26" />
+    <tag id="368413809" k="foot" o="none" type="way" v="no" />
+    <tag id="368413809" k="horse" o="none" type="way" v="no" />
+    <tag id="368413809" k="lanes" o="none" type="way" v="2" />
+    <tag id="368413809" k="oneway" o="none" type="way" v="yes" />
+    <tag id="368413809" k="bicycle" o="none" type="way" v="no" />
+    <tag id="368413809" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="368413809" k="surface" o="none" type="way" v="paved" />
+    <tag id="368413809" k="maxspeed" o="none" type="way" v="70 mph" />
+    <tag id="368413809" k="operator" o="modify" type="way" v="Highways Agency" />
+    <tag id="368413809" k="motor_vehicle" o="none" type="way" v="designated" />
+    <tag id="368413809" k="carriageway_ref" o="none" type="way" v="K" />
+    <tag id="368413809" k="highways_agency:area" o="none" type="way" v="2" />
+    <tag id="384343468" k="foot" o="none" type="way" v="private" />
+    <tag id="384343468" k="horse" o="none" type="way" v="private" />
+    <tag id="384343468" k="access" o="none" type="way" v="private" />
+    <tag id="384343468" k="bicycle" o="none" type="way" v="private" />
+    <tag id="384343468" k="highway" o="none" type="way" v="service" />
+    <tag id="384343468" k="motor_vehicle" o="none" type="way" v="private" />
+    <tag id="389655392" k="landuse" o="none" type="way" v="grass" />
+    <tag id="462787262" k="note" o="add" type="way" v="Police patrol vehicle parking ramp - not sure of best way to map." />
+    <tag id="462787262" k="access" o="add" type="way" v="official" />
+    <tag id="462787262" k="source" o="add" type="way" v="Bing" />
+    <tag id="462787262" k="highway" o="add" type="way" v="service" />
+    <tag id="462787262" k="service" o="add" type="way" v="driveway" />
+    <tag id="462787262" k="surface" o="add" type="way" v="paved" />
+    <tag id="462787262" k="emergency" o="add" type="way" v="yes" />
+    <tag id="462787265" k="natural" o="add" type="way" v="wood" />
+    <tag id="462787265" k="leaf_type" o="add" type="way" v="broadleaved" />
+    <tag id="462787265" k="leaf_cycle" o="add" type="way" v="deciduous" />
+    <tag id="462787268" k="natural" o="add" type="way" v="wood" />
+    <tag id="462787268" k="leaf_type" o="add" type="way" v="broadleaved" />
+    <tag id="462787268" k="leaf_cycle" o="add" type="way" v="deciduous" />
+    <tag id="462787271" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="462787273" k="natural" o="add" type="way" v="wood" />
+    <tag id="462787273" k="leaf_type" o="add" type="way" v="broadleaved" />
+    <tag id="462787273" k="leaf_cycle" o="add" type="way" v="deciduous" />
+    <tag id="462787275" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="462787277" k="landuse" o="add" type="way" v="grass" />
+    <tag id="462787279" k="landuse" o="add" type="way" v="grass" />
+    <tag id="462787282" k="hedge" o="add" type="way" v="thick_hedge" />
+    <tag id="462787282" k="barrier" o="add" type="way" v="hedge" />
+    <tag id="462787283" k="natural" o="add" type="way" v="wood" />
+    <tag id="462787283" k="leaf_type" o="add" type="way" v="broadleaved" />
+    <tag id="462787283" k="leaf_cycle" o="add" type="way" v="deciduous" />
+    <tag id="462787286" k="natural" o="add" type="way" v="wood" />
+    <tag id="462787286" k="leaf_type" o="add" type="way" v="broadleaved" />
+    <tag id="462787286" k="leaf_cycle" o="add" type="way" v="deciduous" />
+  </body>
+</changeset>

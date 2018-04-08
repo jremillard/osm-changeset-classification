@@ -1,0 +1,784 @@
+<changeset id="43834196" schema="2">
+  <counts nodesAdded="627" nodesDeleted="55" nodesModified="8" relationsAdded="12" relationsDeleted="0" relationsModified="22" waysAdded="168" waysDeleted="3" waysModified="102" />
+  <meta>
+    <tag k="comment" v="Routes, chemins et for&#234;ts au sud de Maintenon" />
+    <tag k="created_by" v="JOSM/1.5 (11223 fr)" />
+    <tag k="source" v="Cadastre et Bing" />
+  </meta>
+  <body>
+    <tag id="1067359823" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1067359836" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1954491566" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1954491579" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1954850617" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="3740914568" k="source" o="none" type="node" v="survey" />
+    <tag id="3740914568" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3740914568" k="direction" o="add" type="node" v="forward" />
+    <tag id="3740914571" k="source" o="none" type="node" v="survey" />
+    <tag id="3740914571" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3740914571" k="direction" o="add" type="node" v="forward" />
+    <tag id="3740914573" k="source" o="none" type="node" v="survey" />
+    <tag id="3740914573" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3740914573" k="direction" o="add" type="node" v="backward" />
+    <tag id="38242728" k="highway" o="none" type="way" v="track" />
+    <tag id="38242728" k="surface" o="none" type="way" v="paved" />
+    <tag id="41581000" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="41581000" k="admin_level" o="none" type="way" v="8" />
+    <tag id="41876361" k="CLC:id" o="none" type="way" v="FR-42205" />
+    <tag id="41876361" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="41876361" k="landuse" o="modify" type="way" v="farmland" />
+    <tag id="41876361" k="CLC:code" o="none" type="way" v="211" />
+    <tag id="41876361" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="41988013" k="highway" o="add" type="way" v="track" />
+    <tag id="41988013" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="41988013" k="tracktype" o="add" type="way" v="grade5" />
+    <tag id="41988013" k="admin_level" o="none" type="way" v="8" />
+    <tag id="41988015" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="41988015" k="admin_level" o="none" type="way" v="8" />
+    <tag id="42088053" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="61981181" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="82246183" k="name" o="none" type="way" v="L'Eure" />
+    <tag id="82246183" k="source" o="none" type="way" v="Cnes/SPOT Image" />
+    <tag id="82246183" k="waterway" o="none" type="way" v="river" />
+    <tag id="91797482" k="name" o="add" type="way" v="Rue du Marais" />
+    <tag id="91797482" k="highway" o="none" type="way" v="residential" />
+    <tag id="91797482" k="ref:FR:FANTOIR" o="add" type="way" v="280840070V" />
+    <tag id="91797504" k="name" o="add" type="way" v="Rue de l'Esp&#233;rance" />
+    <tag id="91797504" k="highway" o="none" type="way" v="residential" />
+    <tag id="91797504" k="ref:FR:FANTOIR" o="add" type="way" v="280840030B" />
+    <tag id="91797602" k="name" o="add" type="way" v="Rue de l'Avenir" />
+    <tag id="91797602" k="highway" o="none" type="way" v="residential" />
+    <tag id="91797602" k="ref:FR:FANTOIR" o="add" type="way" v="280840005Z" />
+    <tag id="91797683" k="name" o="add" type="way" v="Rue de l'Avenir" />
+    <tag id="91797683" k="highway" o="none" type="way" v="residential" />
+    <tag id="91797683" k="ref:FR:FANTOIR" o="add" type="way" v="280840005Z" />
+    <tag id="91798087" k="ref" o="none" type="way" v="D 106.5" />
+    <tag id="91798087" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91799112" k="ref" o="none" type="way" v="D 327.5" />
+    <tag id="91799112" k="name" o="none" type="way" v="Rue de Chartainvilliers" />
+    <tag id="91799112" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91799215" k="highway" o="modify" type="way" v="track" />
+    <tag id="91799222" k="highway" o="modify" type="way" v="service" />
+    <tag id="91799222" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="91799378" k="ref" o="none" type="way" v="D 106.4" />
+    <tag id="91799378" k="name" o="add" type="way" v="Rue de Gallardon" />
+    <tag id="91799378" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91799378" k="ref:FR:FANTOIR" o="add" type="way" v="280840040M" />
+    <tag id="91799409" k="ref" o="none" type="way" v="D 327" />
+    <tag id="91799409" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91799756" k="ref" o="none" type="way" v="D 327" />
+    <tag id="91799756" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91799775" k="ref" o="none" type="way" v="D 327.2" />
+    <tag id="91799775" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91799798" k="name" o="add" type="way" v="Rue des Champarts" />
+    <tag id="91799798" k="highway" o="modify" type="way" v="residential" />
+    <tag id="91799798" k="ref:FR:FANTOIR" o="add" type="way" v="283570022F" />
+    <tag id="91799865" k="name" o="add" type="way" v="Rue des Larris" />
+    <tag id="91799865" k="highway" o="none" type="way" v="residential" />
+    <tag id="91799865" k="ref:FR:FANTOIR" o="add" type="way" v="283570089D" />
+    <tag id="91799930" k="ref" o="none" type="way" v="D 327" />
+    <tag id="91799930" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91846666" k="name" o="add" type="way" v="Place du Frou" />
+    <tag id="91846666" k="oneway" o="add" type="way" v="yes" />
+    <tag id="91846666" k="highway" o="modify" type="way" v="residential" />
+    <tag id="91846666" k="ref:FR:FANTOIR" o="add" type="way" v="280840035G" />
+    <tag id="91846667" k="ref" o="none" type="way" v="D 106.4" />
+    <tag id="91846667" k="name" o="add" type="way" v="Rue de l'&#201;galit&#233;" />
+    <tag id="91846667" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91846668" k="sport" o="none" type="way" v="tennis" />
+    <tag id="91846668" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="91846961" k="name" o="add" type="way" v="Rue du Puits" />
+    <tag id="91846961" k="highway" o="none" type="way" v="residential" />
+    <tag id="91846961" k="ref:FR:FANTOIR" o="add" type="way" v="280840090S" />
+    <tag id="91846962" k="name" o="add" type="way" v="Avenue des Bruy&#232;res" />
+    <tag id="91846962" k="highway" o="none" type="way" v="residential" />
+    <tag id="91846962" k="ref:FR:FANTOIR" o="add" type="way" v="280840015K" />
+    <tag id="91847119" k="name" o="add" type="way" v="Square du Vau" />
+    <tag id="91847119" k="highway" o="none" type="way" v="residential" />
+    <tag id="91847119" k="ref:FR:FANTOIR" o="add" type="way" v="280840124D" />
+    <tag id="91847120" k="name" o="add" type="way" v="Rue de la Vall&#233;e" />
+    <tag id="91847120" k="highway" o="none" type="way" v="residential" />
+    <tag id="91847120" k="ref:FR:FANTOIR" o="add" type="way" v="280840121A" />
+    <tag id="112305921" k="highway" o="none" type="way" v="track" />
+    <tag id="113025883" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2011" />
+    <tag id="113025883" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="113025883" k="admin_level" o="none" type="way" v="8" />
+    <tag id="152051509" k="ref" o="none" type="way" v="D 329.2" />
+    <tag id="152051509" k="name" o="add" type="way" v="Rue Jean Moulin" />
+    <tag id="152051509" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="152051509" k="ref:FR:FANTOIR" o="add" type="way" v="283570085Z" />
+    <tag id="160166426" k="ref" o="none" type="way" v="D 106.4" />
+    <tag id="160166426" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="160166426" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="160166428" k="name" o="add" type="way" v="Rue de la R&#233;publique" />
+    <tag id="160166428" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="160166428" k="highway" o="none" type="way" v="residential" />
+    <tag id="160166428" k="ref:FR:FANTOIR" o="add" type="way" v="280840101D" />
+    <tag id="160166429" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="160166429" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="160166429" k="admin_level" o="none" type="way" v="8" />
+    <tag id="160166430" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="160166430" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="160166430" k="admin_level" o="none" type="way" v="8" />
+    <tag id="166969825" k="ref" o="none" type="way" v="D 19.2" />
+    <tag id="166969825" k="name" o="add" type="way" v="Rue Robert Poisson" />
+    <tag id="166969825" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="166969825" k="ref:FR:FANTOIR" o="add" type="way" v="283570160F" />
+    <tag id="166969826" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="166969826" k="oneway" o="none" type="way" v="yes" />
+    <tag id="166969826" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="166969829" k="ref" o="none" type="way" v="D 329.4" />
+    <tag id="166969829" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="166969832" k="ref" o="add" type="way" v="D 329.3" />
+    <tag id="166969832" k="name" o="add" type="way" v="Rue de Dionval" />
+    <tag id="166969832" k="highway" o="none" type="way" v="residential" />
+    <tag id="166969832" k="ref:FR:FANTOIR" o="add" type="way" v="283570037X" />
+    <tag id="167065832" k="ref" o="modify" type="way" v="D 116A" />
+    <tag id="167065832" k="fixme" o="none" type="way" v="V&#233;rifier la r&#233;f&#233;rence, D 116A d'apr&#232;s Route500" />
+    <tag id="167065832" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="167065845" k="ref" o="modify" type="way" v="D 116.5" />
+    <tag id="167065845" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="167065847" k="ref" o="add" type="way" v="D 116A" />
+    <tag id="167065847" k="name" o="none" type="way" v="Rue du Magasin" />
+    <tag id="167065847" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="184874214" k="name" o="add" type="way" v="Impasse des Vignes" />
+    <tag id="184874214" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874214" k="ref:FR:FANTOIR" o="add" type="way" v="283570200Z" />
+    <tag id="184874215" k="name" o="add" type="way" v="Rue des Peupliers" />
+    <tag id="184874215" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874215" k="ref:FR:FANTOIR" o="add" type="way" v="282490065X" />
+    <tag id="184874216" k="name" o="add" type="way" v="Rue des Vaudruelles" />
+    <tag id="184874216" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874216" k="ref:FR:FANTOIR" o="add" type="way" v="282490100K" />
+    <tag id="184874217" k="name" o="add" type="way" v="Rue des &#201;glantines" />
+    <tag id="184874217" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874217" k="ref:FR:FANTOIR" o="add" type="way" v="282490030J" />
+    <tag id="184874218" k="ref" o="add" type="way" v="D 329.8" />
+    <tag id="184874218" k="name" o="add" type="way" v="Rue de la R&#233;publique" />
+    <tag id="184874218" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874218" k="ref:FR:FANTOIR" o="add" type="way" v="282490080N" />
+    <tag id="184874220" k="ref" o="add" type="way" v="D 329.8" />
+    <tag id="184874220" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874221" k="ref" o="add" type="way" v="D 329.8" />
+    <tag id="184874221" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="184874222" k="name" o="add" type="way" v="Rue de Froidvent" />
+    <tag id="184874222" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874222" k="ref:FR:FANTOIR" o="add" type="way" v="282490035P" />
+    <tag id="184874224" k="name" o="add" type="way" v="Impasse James Lambert" />
+    <tag id="184874224" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874224" k="ref:FR:FANTOIR" o="add" type="way" v="283570080U" />
+    <tag id="184874226" k="name" o="add" type="way" v="Rue des Vaudruelles" />
+    <tag id="184874226" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874226" k="ref:FR:FANTOIR" o="add" type="way" v="282490100K" />
+    <tag id="184874228" k="name" o="add" type="way" v="Sentier de la Couture" />
+    <tag id="184874228" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874228" k="ref:FR:FANTOIR" o="add" type="way" v="282490028G" />
+    <tag id="184874229" k="name" o="add" type="way" v="All&#233;e des Gatines" />
+    <tag id="184874229" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874229" k="ref:FR:FANTOIR" o="add" type="way" v="283570065C" />
+    <tag id="184874230" k="ref" o="add" type="way" v="D 329.8" />
+    <tag id="184874230" k="name" o="add" type="way" v="Rue Andr&#233; Cailleaux" />
+    <tag id="184874230" k="highway" o="none" type="way" v="residential" />
+    <tag id="184874230" k="ref:FR:FANTOIR" o="add" type="way" v="282490005G" />
+    <tag id="184874231" k="ref" o="none" type="way" v="D 19.2" />
+    <tag id="184874231" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="184876157" k="name" o="add" type="way" v="Rue du Lieutenant Dolzy" />
+    <tag id="184876157" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876157" k="ref:FR:FANTOIR" o="add" type="way" v="283570097M" />
+    <tag id="184876159" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="184876159" k="name" o="add" type="way" v="Place Marcel Binet" />
+    <tag id="184876159" k="oneway" o="none" type="way" v="yes" />
+    <tag id="184876159" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876159" k="ref:FR:FANTOIR" o="add" type="way" v="283570107Y" />
+    <tag id="184876161" k="name" o="add" type="way" v="Rue de la mare &#224; Sergent" />
+    <tag id="184876161" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876161" k="ref:FR:FANTOIR" o="add" type="way" v="283570106X" />
+    <tag id="184876162" k="ref" o="none" type="way" v="D 327" />
+    <tag id="184876162" k="name" o="add" type="way" v="Rue de Ligny" />
+    <tag id="184876162" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="184876162" k="ref:FR:FANTOIR" o="add" type="way" v="283570098N" />
+    <tag id="184876163" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="184876163" k="name" o="add" type="way" v="Place Vauvillier" />
+    <tag id="184876163" k="oneway" o="none" type="way" v="yes" />
+    <tag id="184876163" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876163" k="ref:FR:FANTOIR" o="add" type="way" v="283570190N" />
+    <tag id="184876164" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="184876164" k="name" o="add" type="way" v="Place Vauvillier" />
+    <tag id="184876164" k="oneway" o="none" type="way" v="yes" />
+    <tag id="184876164" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876164" k="ref:FR:FANTOIR" o="add" type="way" v="283570190N" />
+    <tag id="184876165" k="name" o="add" type="way" v="Avenue Pasteur" />
+    <tag id="184876165" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876165" k="ref:FR:FANTOIR" o="add" type="way" v="283570120M" />
+    <tag id="184876166" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="184876166" k="name" o="add" type="way" v="Place Marcel Binet" />
+    <tag id="184876166" k="oneway" o="none" type="way" v="yes" />
+    <tag id="184876166" k="highway" o="none" type="way" v="residential" />
+    <tag id="184876166" k="ref:FR:FANTOIR" o="add" type="way" v="283570107Y" />
+    <tag id="184876167" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="184876167" k="highway" o="none" type="way" v="residential" />
+    <tag id="184910778" k="name" o="modify" type="way" v="Rue le Merisier" />
+    <tag id="184910778" k="highway" o="none" type="way" v="residential" />
+    <tag id="184910778" k="ref:FR:FANTOIR" o="add" type="way" v="281950073R" />
+    <tag id="184915781" k="name" o="add" type="way" v="Impasse du Repos" />
+    <tag id="184915781" k="highway" o="none" type="way" v="residential" />
+    <tag id="184915781" k="ref:FR:FANTOIR" o="add" type="way" v="280840099B" />
+    <tag id="185943515" k="highway" o="none" type="way" v="track" />
+    <tag id="225958766" k="ref" o="none" type="way" v="D 106.4" />
+    <tag id="225958766" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="225958768" k="source" o="none" type="way" v="GPS,bing" />
+    <tag id="225958768" k="highway" o="none" type="way" v="track" />
+    <tag id="225958769" k="name" o="add" type="way" v="Rue de la mare &#224; Sergent" />
+    <tag id="225958769" k="source" o="none" type="way" v="GPS,bing" />
+    <tag id="225958769" k="highway" o="none" type="way" v="track" />
+    <tag id="225958769" k="ref:FR:FANTOIR" o="add" type="way" v="283570106X" />
+    <tag id="246980735" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="265738957" k="ref" o="none" type="way" v="D 19.2" />
+    <tag id="265738957" k="name" o="add" type="way" v="Rue du Luxembourg" />
+    <tag id="265738957" k="oneway" o="none" type="way" v="yes" />
+    <tag id="265738957" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="265738957" k="ref:FR:FANTOIR" o="add" type="way" v="283570100R" />
+    <tag id="274456720" k="ref" o="none" type="way" v="D 906" />
+    <tag id="274456720" k="highway" o="none" type="way" v="secondary" />
+    <tag id="293845810" k="ref" o="none" type="way" v="D 136" />
+    <tag id="293845810" k="source" o="none" type="way" v="GPS" />
+    <tag id="293845810" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="301050582" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="301050582" k="building" o="none" type="way" v="yes" />
+    <tag id="301050582" k="man_made" o="add" type="way" v="water_tower" />
+    <tag id="301169780" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="301169780" k="building" o="none" type="way" v="yes" />
+    <tag id="301169928" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="301169928" k="building" o="none" type="way" v="yes" />
+    <tag id="301169928" k="man_made" o="add" type="way" v="water_tower" />
+    <tag id="301352895" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="301352895" k="building" o="none" type="way" v="yes" />
+    <tag id="343177900" k="name" o="add" type="way" v="Rue Colin d'Harleville" />
+    <tag id="343177900" k="highway" o="none" type="way" v="residential" />
+    <tag id="343177900" k="ref:FR:FANTOIR" o="add" type="way" v="282490025D" />
+    <tag id="350628256" k="name" o="add" type="way" v="Rue de Bel Air" />
+    <tag id="350628256" k="highway" o="none" type="way" v="residential" />
+    <tag id="353806200" k="highway" o="add" type="way" v="track" />
+    <tag id="369385230" k="ref" o="none" type="way" v="D 6" />
+    <tag id="369385230" k="highway" o="none" type="way" v="secondary" />
+    <tag id="369386618" k="ref" o="add" type="way" v="Rue Verte" />
+    <tag id="369386618" k="oneway" o="none" type="way" v="yes" />
+    <tag id="369386618" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="369386618" k="ref:FR:FANTOIR" o="add" type="way" v="283570195U" />
+    <tag id="423038431" k="ref" o="modify" type="way" v="D 116A" />
+    <tag id="423038431" k="fixme" o="none" type="way" v="V&#233;rifier la r&#233;f&#233;rence, D 116A d'apr&#232;s Route500" />
+    <tag id="423038431" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="423038454" k="ref" o="modify" type="way" v="D 116A" />
+    <tag id="423038454" k="name" o="none" type="way" v="Rue de l'Aqueduc" />
+    <tag id="423038454" k="fixme" o="none" type="way" v="V&#233;rifier la r&#233;f&#233;rence, D 116A d'apr&#232;s Route500" />
+    <tag id="423038454" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="423038465" k="ref" o="modify" type="way" v="D 116A" />
+    <tag id="423038465" k="name" o="none" type="way" v="Rue du Val de Voise" />
+    <tag id="423038465" k="fixme" o="none" type="way" v="V&#233;rifier la r&#233;f&#233;rence, D 116A d'apr&#232;s Route500" />
+    <tag id="423038465" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="423046182" k="ref" o="modify" type="way" v="D 116A" />
+    <tag id="423046182" k="name" o="none" type="way" v="Rue du Magasin" />
+    <tag id="423046182" k="fixme" o="none" type="way" v="V&#233;rifier la r&#233;f&#233;rence, D 116A d'apr&#232;s Route500" />
+    <tag id="423046182" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="440712049" k="foot" o="none" type="way" v="yes" />
+    <tag id="440712049" k="horse" o="none" type="way" v="yes" />
+    <tag id="440712049" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="440712049" k="highway" o="none" type="way" v="track" />
+    <tag id="440712049" k="surface" o="none" type="way" v="ground" />
+    <tag id="440712049" k="tracktype" o="none" type="way" v="grade5" />
+    <tag id="440712049" k="motor_vehicle" o="none" type="way" v="yes" />
+    <tag id="454763691" k="highway" o="add" type="way" v="path" />
+    <tag id="454763692" k="highway" o="add" type="way" v="track" />
+    <tag id="454763693" k="highway" o="add" type="way" v="path" />
+    <tag id="454763694" k="highway" o="add" type="way" v="path" />
+    <tag id="454763695" k="highway" o="add" type="way" v="path" />
+    <tag id="454763696" k="highway" o="add" type="way" v="path" />
+    <tag id="454763697" k="sport" o="add" type="way" v="soccer" />
+    <tag id="454763697" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="454763698" k="highway" o="add" type="way" v="path" />
+    <tag id="454763699" k="highway" o="add" type="way" v="path" />
+    <tag id="454763700" k="highway" o="add" type="way" v="track" />
+    <tag id="454763701" k="highway" o="add" type="way" v="track" />
+    <tag id="454763702" k="highway" o="add" type="way" v="path" />
+    <tag id="454763703" k="highway" o="add" type="way" v="track" />
+    <tag id="454763704" k="highway" o="add" type="way" v="track" />
+    <tag id="454763705" k="highway" o="add" type="way" v="track" />
+    <tag id="454763706" k="highway" o="add" type="way" v="track" />
+    <tag id="454763707" k="highway" o="add" type="way" v="path" />
+    <tag id="454763708" k="highway" o="add" type="way" v="path" />
+    <tag id="454763709" k="highway" o="add" type="way" v="track" />
+    <tag id="454763711" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763712" k="highway" o="add" type="way" v="track" />
+    <tag id="454763713" k="highway" o="add" type="way" v="track" />
+    <tag id="454763714" k="highway" o="add" type="way" v="track" />
+    <tag id="454763715" k="highway" o="add" type="way" v="track" />
+    <tag id="454763716" k="highway" o="add" type="way" v="track" />
+    <tag id="454763717" k="highway" o="add" type="way" v="track" />
+    <tag id="454763718" k="highway" o="add" type="way" v="track" />
+    <tag id="454763719" k="highway" o="add" type="way" v="track" />
+    <tag id="454763720" k="highway" o="add" type="way" v="track" />
+    <tag id="454763721" k="highway" o="add" type="way" v="track" />
+    <tag id="454763722" k="highway" o="add" type="way" v="track" />
+    <tag id="454763723" k="highway" o="add" type="way" v="track" />
+    <tag id="454763724" k="highway" o="add" type="way" v="track" />
+    <tag id="454763725" k="highway" o="add" type="way" v="path" />
+    <tag id="454763726" k="highway" o="add" type="way" v="track" />
+    <tag id="454763727" k="highway" o="add" type="way" v="track" />
+    <tag id="454763728" k="highway" o="add" type="way" v="track" />
+    <tag id="454763729" k="highway" o="add" type="way" v="track" />
+    <tag id="454763730" k="highway" o="add" type="way" v="track" />
+    <tag id="454763731" k="highway" o="add" type="way" v="track" />
+    <tag id="454763732" k="highway" o="add" type="way" v="track" />
+    <tag id="454763733" k="highway" o="add" type="way" v="track" />
+    <tag id="454763734" k="highway" o="add" type="way" v="track" />
+    <tag id="454763735" k="highway" o="add" type="way" v="track" />
+    <tag id="454763736" k="highway" o="add" type="way" v="track" />
+    <tag id="454763737" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763738" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763739" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763740" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763742" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763744" k="natural" o="add" type="way" v="wood" />
+    <tag id="454763745" k="natural" o="add" type="way" v="wood" />
+    <tag id="454763746" k="highway" o="add" type="way" v="track" />
+    <tag id="454763747" k="natural" o="add" type="way" v="wood" />
+    <tag id="454763748" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454763749" k="natural" o="add" type="way" v="wood" />
+    <tag id="454763750" k="highway" o="add" type="way" v="track" />
+    <tag id="454763751" k="highway" o="add" type="way" v="track" />
+    <tag id="454763752" k="landuse" o="add" type="way" v="cemetery" />
+    <tag id="454763753" k="highway" o="add" type="way" v="track" />
+    <tag id="454763754" k="highway" o="add" type="way" v="track" />
+    <tag id="454763755" k="name" o="add" type="way" v="Place Vauvillier" />
+    <tag id="454763755" k="amenity" o="add" type="way" v="parking" />
+    <tag id="454763756" k="highway" o="add" type="way" v="service" />
+    <tag id="454763756" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="454763757" k="highway" o="add" type="way" v="track" />
+    <tag id="454763758" k="highway" o="add" type="way" v="service" />
+    <tag id="454763759" k="barrier" o="add" type="way" v="fence" />
+    <tag id="454763760" k="highway" o="add" type="way" v="service" />
+    <tag id="454763761" k="highway" o="add" type="way" v="track" />
+    <tag id="454763762" k="highway" o="add" type="way" v="service" />
+    <tag id="454763763" k="layer" o="add" type="way" v="-1" />
+    <tag id="454763763" k="tunnel" o="add" type="way" v="culvert" />
+    <tag id="454763763" k="waterway" o="add" type="way" v="ditch" />
+    <tag id="454763763" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="454763764" k="waterway" o="add" type="way" v="ditch" />
+    <tag id="454763764" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="454763765" k="waterway" o="add" type="way" v="ditch" />
+    <tag id="454763765" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="454763766" k="ref" o="add" type="way" v="D 106.4" />
+    <tag id="454763766" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763766" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763767" k="ref" o="add" type="way" v="D 106.4" />
+    <tag id="454763767" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763767" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763768" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2011" />
+    <tag id="454763768" k="highway" o="add" type="way" v="track" />
+    <tag id="454763768" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763768" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763769" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2011" />
+    <tag id="454763769" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763769" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763770" k="highway" o="add" type="way" v="track" />
+    <tag id="454763771" k="highway" o="add" type="way" v="track" />
+    <tag id="454763772" k="highway" o="add" type="way" v="path" />
+    <tag id="454763773" k="highway" o="add" type="way" v="path" />
+    <tag id="454763774" k="highway" o="add" type="way" v="track" />
+    <tag id="454763775" k="highway" o="add" type="way" v="track" />
+    <tag id="454763776" k="highway" o="add" type="way" v="track" />
+    <tag id="454763777" k="highway" o="add" type="way" v="track" />
+    <tag id="454763778" k="natural" o="add" type="way" v="wood" />
+    <tag id="454763787" k="highway" o="add" type="way" v="track" />
+    <tag id="454763788" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2011" />
+    <tag id="454763788" k="highway" o="add" type="way" v="track" />
+    <tag id="454763788" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763788" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763789" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2011" />
+    <tag id="454763789" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763789" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763790" k="highway" o="add" type="way" v="track" />
+    <tag id="454763791" k="highway" o="add" type="way" v="track" />
+    <tag id="454763792" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763792" k="highway" o="add" type="way" v="track" />
+    <tag id="454763792" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763792" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763793" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763793" k="highway" o="add" type="way" v="track" />
+    <tag id="454763793" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763793" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763794" k="ref" o="add" type="way" v="D 906" />
+    <tag id="454763794" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763794" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454763794" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763794" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763795" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763795" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="454763795" k="admin_level" o="add" type="way" v="8" />
+    <tag id="454763796" k="ref" o="add" type="way" v="D 906" />
+    <tag id="454763796" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454763797" k="highway" o="add" type="way" v="track" />
+    <tag id="454763798" k="highway" o="add" type="way" v="track" />
+    <tag id="454763799" k="highway" o="add" type="way" v="service" />
+    <tag id="454763799" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454763800" k="ref" o="add" type="way" v="D 106.5" />
+    <tag id="454763800" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763801" k="ref" o="add" type="way" v="D 106.5" />
+    <tag id="454763801" k="layer" o="add" type="way" v="1" />
+    <tag id="454763801" k="bridge" o="add" type="way" v="yes" />
+    <tag id="454763801" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763802" k="highway" o="add" type="way" v="track" />
+    <tag id="454763803" k="ref" o="add" type="way" v="D 327" />
+    <tag id="454763803" k="name" o="add" type="way" v="Rue de Grogneul" />
+    <tag id="454763803" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763803" k="ref:FR:FANTOIR" o="add" type="way" v="280840045T" />
+    <tag id="454763804" k="highway" o="add" type="way" v="path" />
+    <tag id="454763805" k="highway" o="add" type="way" v="path" />
+    <tag id="454763806" k="name" o="add" type="way" v="Avenue des Bruy&#232;res" />
+    <tag id="454763806" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763806" k="ref:FR:FANTOIR" o="add" type="way" v="280840015K" />
+    <tag id="454763807" k="highway" o="add" type="way" v="path" />
+    <tag id="454763808" k="name" o="add" type="way" v="Rue d'en Bas" />
+    <tag id="454763808" k="highway" o="add" type="way" v="track" />
+    <tag id="454763809" k="ref" o="add" type="way" v="D 327" />
+    <tag id="454763809" k="name" o="add" type="way" v="Rue de la Lib&#233;ration" />
+    <tag id="454763809" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763809" k="ref:FR:FANTOIR" o="add" type="way" v="280840060J" />
+    <tag id="454763810" k="ref" o="add" type="way" v="D 327" />
+    <tag id="454763810" k="name" o="add" type="way" v="Rue de la Mairie" />
+    <tag id="454763810" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763810" k="ref:FR:FANTOIR" o="add" type="way" v="280840065P" />
+    <tag id="454763811" k="ref" o="add" type="way" v="D 106.5" />
+    <tag id="454763811" k="name" o="add" type="way" v="Rue Jean Moulin" />
+    <tag id="454763811" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763811" k="ref:FR:FANTOIR" o="add" type="way" v="280840055D" />
+    <tag id="454763812" k="ref" o="add" type="way" v="D 106.5" />
+    <tag id="454763812" k="name" o="add" type="way" v="Rue du Onze Novembre" />
+    <tag id="454763812" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763812" k="ref:FR:FANTOIR" o="add" type="way" v="280840080F" />
+    <tag id="454763813" k="ref" o="add" type="way" v="D 329.4" />
+    <tag id="454763813" k="name" o="add" type="way" v="Rue des Gaudi&#232;res" />
+    <tag id="454763813" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763814" k="ref" o="add" type="way" v="D 329.4" />
+    <tag id="454763814" k="name" o="add" type="way" v="Rue de l'Arbre de la Libert&#233;" />
+    <tag id="454763814" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763814" k="ref:FR:FANTOIR" o="add" type="way" v="282490010M" />
+    <tag id="454763815" k="ref" o="add" type="way" v="D 329.8" />
+    <tag id="454763815" k="name" o="add" type="way" v="Rue de la R&#233;publique" />
+    <tag id="454763815" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763815" k="ref:FR:FANTOIR" o="add" type="way" v="282490080N" />
+    <tag id="454763816" k="ref" o="add" type="way" v="D 329.7" />
+    <tag id="454763816" k="name" o="add" type="way" v="Rue des Vaudruelles" />
+    <tag id="454763816" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763816" k="ref:FR:FANTOIR" o="add" type="way" v="282490100K" />
+    <tag id="454763817" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763818" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763819" k="waterway" o="add" type="way" v="stream" />
+    <tag id="454763820" k="highway" o="add" type="way" v="path" />
+    <tag id="454763821" k="highway" o="add" type="way" v="path" />
+    <tag id="454763822" k="ref" o="add" type="way" v="D 6" />
+    <tag id="454763822" k="name" o="add" type="way" v="Rue des Martels" />
+    <tag id="454763822" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454763822" k="ref:FR:FANTOIR" o="add" type="way" v="283570110B" />
+    <tag id="454763823" k="ref" o="add" type="way" v="D 6" />
+    <tag id="454763823" k="name" o="add" type="way" v="Rue de la R&#233;publique" />
+    <tag id="454763823" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454763823" k="ref:FR:FANTOIR" o="add" type="way" v="283570150V" />
+    <tag id="454763824" k="ref" o="add" type="way" v="D 6" />
+    <tag id="454763824" k="name" o="add" type="way" v="Rue au Chard" />
+    <tag id="454763824" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454763824" k="ref:FR:FANTOIR" o="add" type="way" v="283570032S" />
+    <tag id="454763825" k="ref" o="add" type="way" v="D 6" />
+    <tag id="454763825" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454763826" k="highway" o="add" type="way" v="path" />
+    <tag id="454763827" k="ref" o="add" type="way" v="D 329.8" />
+    <tag id="454763827" k="name" o="add" type="way" v="Rue du Marais" />
+    <tag id="454763827" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763827" k="ref:FR:FANTOIR" o="add" type="way" v="283570105W" />
+    <tag id="454763828" k="ref" o="add" type="way" v="D 106.4;D 329.3;D 329.8" />
+    <tag id="454763828" k="name" o="add" type="way" v="Avenue de la Gare" />
+    <tag id="454763828" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763828" k="ref:FR:FANTOIR" o="add" type="way" v="283570060X" />
+    <tag id="454763829" k="ref" o="add" type="way" v="D 106.4" />
+    <tag id="454763829" k="name" o="add" type="way" v="Avenue de la Gare" />
+    <tag id="454763829" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763829" k="ref:FR:FANTOIR" o="add" type="way" v="283570060X" />
+    <tag id="454763830" k="name" o="add" type="way" v="Impasse du Marais" />
+    <tag id="454763830" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763830" k="ref:FR:FANTOIR" o="add" type="way" v="283570104V" />
+    <tag id="454763831" k="highway" o="add" type="way" v="path" />
+    <tag id="454763832" k="highway" o="add" type="way" v="path" />
+    <tag id="454763833" k="ref" o="add" type="way" v="D 19.2" />
+    <tag id="454763833" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454763833" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763834" k="ref" o="add" type="way" v="D 6.1;D106.4" />
+    <tag id="454763834" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454763834" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763835" k="ref" o="add" type="way" v="D 6.1" />
+    <tag id="454763835" k="layer" o="add" type="way" v="1" />
+    <tag id="454763835" k="bridge" o="add" type="way" v="yes" />
+    <tag id="454763835" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763836" k="highway" o="add" type="way" v="path" />
+    <tag id="454763837" k="highway" o="add" type="way" v="track" />
+    <tag id="454763838" k="ref" o="add" type="way" v="Rue de la Lib&#233;ration" />
+    <tag id="454763838" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454763838" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763838" k="ref:FR:FANTOIR" o="add" type="way" v="283570095K" />
+    <tag id="454763839" k="highway" o="add" type="way" v="track" />
+    <tag id="454763840" k="highway" o="add" type="way" v="track" />
+    <tag id="454763841" k="highway" o="add" type="way" v="track" />
+    <tag id="454763842" k="highway" o="add" type="way" v="track" />
+    <tag id="454763843" k="highway" o="add" type="way" v="track" />
+    <tag id="454763844" k="highway" o="add" type="way" v="track" />
+    <tag id="454763844" k="tracktype" o="add" type="way" v="Chemin des Carreaux" />
+    <tag id="454763845" k="highway" o="add" type="way" v="track" />
+    <tag id="454763845" k="tracktype" o="add" type="way" v="Chemin de la Fausse Martelle" />
+    <tag id="454763846" k="highway" o="add" type="way" v="track" />
+    <tag id="454763846" k="tracktype" o="add" type="way" v="Chemin de Montmion" />
+    <tag id="454763847" k="highway" o="add" type="way" v="track" />
+    <tag id="454763848" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="454763850" k="name" o="add" type="way" v="Rue des Plantes" />
+    <tag id="454763850" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763850" k="ref:FR:FANTOIR" o="add" type="way" v="283570130Y" />
+    <tag id="454763851" k="name" o="add" type="way" v="Impasse des Clos" />
+    <tag id="454763851" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763851" k="ref:FR:FANTOIR" o="add" type="way" v="283570034U" />
+    <tag id="454763852" k="source" o="add" type="way" v="GPS,bing" />
+    <tag id="454763852" k="highway" o="add" type="way" v="track" />
+    <tag id="454763853" k="highway" o="add" type="way" v="track" />
+    <tag id="454763854" k="highway" o="add" type="way" v="track" />
+    <tag id="454763855" k="highway" o="add" type="way" v="track" />
+    <tag id="454763856" k="ref" o="add" type="way" v="D 327" />
+    <tag id="454763856" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763857" k="ref" o="add" type="way" v="D 327" />
+    <tag id="454763857" k="name" o="add" type="way" v="Rue de Ligny" />
+    <tag id="454763857" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454763857" k="ref:FR:FANTOIR" o="add" type="way" v="283570098N" />
+    <tag id="454763858" k="name" o="add" type="way" v="Impasse de la Gaiet&#233;" />
+    <tag id="454763858" k="highway" o="add" type="way" v="residential" />
+    <tag id="454763858" k="ref:FR:FANTOIR" o="add" type="way" v="283570058V" />
+    <tag id="274196" k="name" o="none" type="relation" v="Jouy" />
+    <tag id="274196" k="type" o="none" type="relation" v="boundary" />
+    <tag id="274196" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="274196" k="ref:INSEE" o="none" type="relation" v="28201" />
+    <tag id="274196" k="wikipedia" o="none" type="relation" v="fr:Jouy (Eure-et-Loir)" />
+    <tag id="274196" k="population" o="none" type="relation" v="1959" />
+    <tag id="274196" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="274196" k="addr:postcode" o="none" type="relation" v="28300" />
+    <tag id="274196" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="274196" k="source:addr:postcode" o="none" type="relation" v="source of postcode is from galichon.com/INSEE" />
+    <tag id="399151" k="ref" o="none" type="relation" v="V40" />
+    <tag id="399151" k="name" o="none" type="relation" v="La V&#233;losc&#233;nie - Alternative via Versailles" />
+    <tag id="399151" k="note" o="none" type="relation" v="merci de conserver les guidepost &quot;V&#233;losc&#233;nie&quot; relev&#233;s sur le terrain dans la relation" />
+    <tag id="399151" k="type" o="none" type="relation" v="route" />
+    <tag id="399151" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="399151" k="state" o="none" type="relation" v="alternate" />
+    <tag id="399151" k="network" o="none" type="relation" v="ncn" />
+    <tag id="1069523" k="name" o="none" type="relation" v="Houx" />
+    <tag id="1069523" k="type" o="none" type="relation" v="boundary" />
+    <tag id="1069523" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="1069523" k="ref:INSEE" o="none" type="relation" v="28195" />
+    <tag id="1069523" k="wikipedia" o="none" type="relation" v="fr:Houx (Eure-et-Loir)" />
+    <tag id="1069523" k="population" o="none" type="relation" v="815" />
+    <tag id="1069523" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="1069523" k="addr:postcode" o="none" type="relation" v="28130" />
+    <tag id="1069523" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="1069523" k="source:postal_code" o="none" type="relation" v="La Poste - 11/2014" />
+    <tag id="1538684" k="name" o="none" type="relation" v="M&#233;voisins" />
+    <tag id="1538684" k="type" o="none" type="relation" v="boundary" />
+    <tag id="1538684" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="1538684" k="ref:INSEE" o="none" type="relation" v="28249" />
+    <tag id="1538684" k="wikipedia" o="none" type="relation" v="fr:M&#233;voisins" />
+    <tag id="1538684" k="population" o="none" type="relation" v="654" />
+    <tag id="1538684" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="1538684" k="addr:postcode" o="none" type="relation" v="28130" />
+    <tag id="1538684" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="1538684" k="source:addr:postcode" o="none" type="relation" v="source of postcode is from osm nodes" />
+    <tag id="1583966" k="name" o="none" type="relation" v="Saint-Piat" />
+    <tag id="1583966" k="type" o="none" type="relation" v="boundary" />
+    <tag id="1583966" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="1583966" k="ref:INSEE" o="none" type="relation" v="28357" />
+    <tag id="1583966" k="wikipedia" o="none" type="relation" v="fr:Saint-Piat" />
+    <tag id="1583966" k="population" o="none" type="relation" v="1174" />
+    <tag id="1583966" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="1583966" k="addr:postcode" o="none" type="relation" v="28130" />
+    <tag id="1583966" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="1635916" k="ref" o="none" type="relation" v="GR 655O" />
+    <tag id="1635916" k="name" o="none" type="relation" v="Via Turonensis, Paris - Tours, West" />
+    <tag id="1635916" k="type" o="none" type="relation" v="route" />
+    <tag id="1635916" k="route" o="none" type="relation" v="hiking" />
+    <tag id="1635916" k="name:fr" o="none" type="relation" v="Voie de Tours, #1b: Paris - Tours par Chartres" />
+    <tag id="1635916" k="network" o="none" type="relation" v="iwn" />
+    <tag id="1635916" k="osmc:ref" o="none" type="relation" v="GR 655" />
+    <tag id="1635916" k="osmc:symbol" o="none" type="relation" v="blue:blue:shell_modern" />
+    <tag id="1755474" k="name" o="none" type="relation" v="Soulaires" />
+    <tag id="1755474" k="type" o="none" type="relation" v="boundary" />
+    <tag id="1755474" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="1755474" k="ref:INSEE" o="none" type="relation" v="28379" />
+    <tag id="1755474" k="wikipedia" o="none" type="relation" v="fr:Soulaires" />
+    <tag id="1755474" k="population" o="none" type="relation" v="460" />
+    <tag id="1755474" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="1755474" k="addr:postcode" o="none" type="relation" v="28130" />
+    <tag id="1755474" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="2143804" k="name" o="none" type="relation" v="Chartainvilliers" />
+    <tag id="2143804" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2143804" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="2143804" k="ref:INSEE" o="none" type="relation" v="28084" />
+    <tag id="2143804" k="wikipedia" o="none" type="relation" v="fr:Chartainvilliers" />
+    <tag id="2143804" k="population" o="none" type="relation" v="758" />
+    <tag id="2143804" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="2143804" k="addr:postcode" o="none" type="relation" v="28130" />
+    <tag id="2143804" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="2173359" k="name" o="none" type="relation" v="Bouglainval" />
+    <tag id="2173359" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2173359" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="2173359" k="ref:INSEE" o="none" type="relation" v="28052" />
+    <tag id="2173359" k="wikipedia" o="none" type="relation" v="fr:Bouglainval" />
+    <tag id="2173359" k="population" o="none" type="relation" v="753" />
+    <tag id="2173359" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="2173359" k="addr:postcode" o="none" type="relation" v="28130" />
+    <tag id="2173359" k="source:population" o="none" type="relation" v="INSEE 2010" />
+    <tag id="2252690" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="2252690" k="source" o="add" type="relation" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="2252690" k="natural" o="add" type="relation" v="water" />
+    <tag id="2253833" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="2253833" k="CLC:id" o="add" type="relation" v="FR-41681" />
+    <tag id="2253833" k="source" o="add" type="relation" v="Bing; Bing; Union europ&#233;enne - SOeS, CORINE Land Cover, 2006.; Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="2253833" k="landuse" o="add" type="relation" v="residential" />
+    <tag id="2253833" k="CLC:code" o="add" type="relation" v="112" />
+    <tag id="2253833" k="CLC:year" o="add" type="relation" v="2006" />
+    <tag id="2504995" k="name" o="none" type="relation" v="Maintenon" />
+    <tag id="2504995" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2504995" k="source" o="none" type="relation" v="data.gouv.fr:Minist&#232;re de l'Int&#233;rieur - 03/2012" />
+    <tag id="2504995" k="end_date" o="none" type="relation" v="2015-03" />
+    <tag id="2504995" k="ref:INSEE" o="none" type="relation" v="2818" />
+    <tag id="2504995" k="wikipedia" o="none" type="relation" v="fr:Canton de Maintenon" />
+    <tag id="2504995" k="disused:boundary" o="none" type="relation" v="political" />
+    <tag id="2504995" k="disused:political_division" o="none" type="relation" v="canton" />
+    <tag id="2715956" k="name" o="none" type="relation" v="Communaut&#233; de Communes des Terrasses et Vall&#233;es de Maintenon" />
+    <tag id="2715956" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2715956" k="website" o="none" type="relation" v="http://www.cctvmaintenon.fr/" />
+    <tag id="2715956" k="boundary" o="none" type="relation" v="local_authority" />
+    <tag id="2715956" k="ref:INSEE" o="none" type="relation" v="242852432" />
+    <tag id="2715956" k="wikipedia" o="none" type="relation" v="fr:Communaut&#233; de communes des Terrasses et Vall&#233;es de Maintenon" />
+    <tag id="2715956" k="local_authority:FR" o="none" type="relation" v="CC" />
+    <tag id="2937991" k="name" o="none" type="relation" v="Chartres-Nord-Est" />
+    <tag id="2937991" k="type" o="none" type="relation" v="boundary" />
+    <tag id="2937991" k="source" o="none" type="relation" v="(JORF 1973-07-25) D&#233;cret n&#186; 73-719 du 23 juillet 1973 portant cr&#233;ation de cantons dans le d&#233;partement de l&#8217;Eure-et-Loir" />
+    <tag id="2937991" k="end_date" o="none" type="relation" v="2015-03" />
+    <tag id="2937991" k="ref:INSEE" o="none" type="relation" v="2807" />
+    <tag id="2937991" k="wikipedia" o="none" type="relation" v="fr:Canton de Chartres-Nord-Est" />
+    <tag id="2937991" k="source:url" o="none" type="relation" v="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000858506" />
+    <tag id="2937991" k="disused:boundary" o="none" type="relation" v="political" />
+    <tag id="2937991" k="disused:political_division" o="none" type="relation" v="canton" />
+    <tag id="3333040" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="3333040" k="source" o="none" type="relation" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="3333040" k="landuse" o="none" type="relation" v="farmland" />
+    <tag id="3333043" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="3333043" k="source" o="none" type="relation" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="3333043" k="landuse" o="none" type="relation" v="farmland" />
+    <tag id="3336406" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="3336406" k="source" o="none" type="relation" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="3336406" k="landuse" o="none" type="relation" v="farmland" />
+    <tag id="3400722" k="name" o="none" type="relation" v="Communaut&#233; d'Agglom&#233;ration Chartres M&#233;tropole" />
+    <tag id="3400722" k="type" o="none" type="relation" v="boundary" />
+    <tag id="3400722" k="website" o="none" type="relation" v="http://www.chartres-metropole.fr/" />
+    <tag id="3400722" k="boundary" o="none" type="relation" v="local_authority" />
+    <tag id="3400722" k="ref:INSEE" o="none" type="relation" v="200033181" />
+    <tag id="3400722" k="wikipedia" o="none" type="relation" v="fr:Communaut&#233; d'agglom&#233;ration Chartres m&#233;tropole" />
+    <tag id="3400722" k="local_authority:FR" o="none" type="relation" v="CA" />
+    <tag id="4248793" k="ref" o="none" type="relation" v="V41" />
+    <tag id="4248793" k="name" o="none" type="relation" v="Saint-Jacques-de-Compostelle &#224; V&#233;lo" />
+    <tag id="4248793" k="type" o="none" type="relation" v="route" />
+    <tag id="4248793" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="4248793" k="source" o="none" type="relation" v="ON3V" />
+    <tag id="4248793" k="network" o="none" type="relation" v="ncn" />
+    <tag id="4248793" k="website" o="none" type="relation" v="http://www.touraineloirevalley.com/rando-velo-canoe/la-loire-a-velo-et-autres-sorties-velo/saint-jacques-a-velo" />
+    <tag id="4475996" k="ref" o="none" type="relation" v="028-04" />
+    <tag id="4475996" k="name" o="none" type="relation" v="Chartres-1" />
+    <tag id="4475996" k="type" o="none" type="relation" v="boundary" />
+    <tag id="4475996" k="source" o="none" type="relation" v="(JORF 2014-02-27) D&#233;cret n&#186; 2014-231 du 24 f&#233;vrier 2014 portant d&#233;limitation des cantons dans le d&#233;partement d&#8217;Eure-et-Loir" />
+    <tag id="4475996" k="name:am" o="none" type="relation" v="&#4667;&#4653;&#4725;&#4648;-1" />
+    <tag id="4475996" k="name:be" o="none" type="relation" v="&#1064;&#1072;&#1088;&#1090;&#1088;-1" />
+    <tag id="4475996" k="name:bg" o="none" type="relation" v="&#1064;&#1072;&#1088;&#1090;&#1098;&#1088;-1" />
+    <tag id="4475996" k="name:br" o="none" type="relation" v="Chartrez-1" />
+    <tag id="4475996" k="name:el" o="none" type="relation" v="&#931;&#945;&#961;&#964;&#961;-1" />
+    <tag id="4475996" k="name:fa" o="none" type="relation" v="&#1588;&#1575;&#1585;&#1578;&#1585;-1" />
+    <tag id="4475996" k="name:fr" o="none" type="relation" v="Chartres-1" />
+    <tag id="4475996" k="name:he" o="none" type="relation" v="&#1513;&#1488;&#1512;&#1496;&#1512;-1" />
+    <tag id="4475996" k="name:hy" o="none" type="relation" v="&#1351;&#1377;&#1408;&#1407;&#1408;-1" />
+    <tag id="4475996" k="name:ja" o="none" type="relation" v="&#12471;&#12515;&#12523;&#12488;&#12523;-1" />
+    <tag id="4475996" k="name:ka" o="none" type="relation" v="&#4328;&#4304;&#4320;&#4322;&#4320;&#4312;-1" />
+    <tag id="4475996" k="name:ko" o="none" type="relation" v="&#49380;&#47476;&#53944;&#47476;-1" />
+    <tag id="4475996" k="name:la" o="none" type="relation" v="Carnotes-1" />
+    <tag id="4475996" k="name:lt" o="none" type="relation" v="&#352;artras-1" />
+    <tag id="4475996" k="name:lv" o="none" type="relation" v="&#352;artra-1" />
+    <tag id="4475996" k="name:ru" o="none" type="relation" v="&#1064;&#1072;&#1088;&#1090;&#1088;-1" />
+    <tag id="4475996" k="name:sr" o="none" type="relation" v="&#1064;&#1072;&#1088;&#1090;&#1088;-1" />
+    <tag id="4475996" k="name:uk" o="none" type="relation" v="&#1064;&#1072;&#1088;&#1090;&#1088;-1" />
+    <tag id="4475996" k="name:zh" o="none" type="relation" v="&#27801;&#29305;&#23572;-1" />
+    <tag id="4475996" k="boundary" o="none" type="relation" v="political" />
+    <tag id="4475996" k="name:mzn" o="none" type="relation" v="&#1588;&#1575;&#1585;&#1578;&#1585;-1" />
+    <tag id="4475996" k="wikipedia" o="none" type="relation" v="fr:Canton de Chartres-1" />
+    <tag id="4475996" k="source:url" o="none" type="relation" v="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028658356" />
+    <tag id="4475996" k="start_date" o="none" type="relation" v="2015-03" />
+    <tag id="4475996" k="old_name:la" o="none" type="relation" v="Autricum-1" />
+    <tag id="4475996" k="political_division" o="none" type="relation" v="canton" />
+    <tag id="4575620" k="ref" o="none" type="relation" v="028-10" />
+    <tag id="4575620" k="name" o="none" type="relation" v="&#201;pernon" />
+    <tag id="4575620" k="type" o="none" type="relation" v="boundary" />
+    <tag id="4575620" k="source" o="none" type="relation" v="(JORF 2014-02-27) D&#233;cret n&#186; 2014-231 du 24 f&#233;vrier 2014 portant d&#233;limitation des cantons dans le d&#233;partement d&#8217;Eure-et-Loir" />
+    <tag id="4575620" k="boundary" o="none" type="relation" v="political" />
+    <tag id="4575620" k="wikipedia" o="none" type="relation" v="fr:Canton d'&#201;pernon" />
+    <tag id="4575620" k="source:url" o="none" type="relation" v="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028658356" />
+    <tag id="4575620" k="start_date" o="none" type="relation" v="2015-03" />
+    <tag id="4575620" k="political_division" o="none" type="relation" v="canton" />
+    <tag id="4869096" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="4869096" k="source" o="add" type="relation" v="Bing" />
+    <tag id="4869096" k="natural" o="add" type="relation" v="water" />
+    <tag id="6725569" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725569" k="CLC:id" o="add" type="relation" v="FR-43552" />
+    <tag id="6725569" k="landuse" o="add" type="relation" v="residential" />
+    <tag id="6725569" k="CLC:code" o="add" type="relation" v="112" />
+    <tag id="6725569" k="CLC:year" o="add" type="relation" v="2006" />
+    <tag id="6725570" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725570" k="landuse" o="add" type="relation" v="residential" />
+    <tag id="6725571" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725571" k="landuse" o="add" type="relation" v="farmland" />
+    <tag id="6725572" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725572" k="sport" o="add" type="relation" v="motocross" />
+    <tag id="6725572" k="leisure" o="add" type="relation" v="pitch" />
+    <tag id="6725573" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725573" k="source" o="add" type="relation" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="6725573" k="landuse" o="add" type="relation" v="farmland" />
+    <tag id="6725574" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725574" k="wood" o="add" type="relation" v="deciduous" />
+    <tag id="6725574" k="CLC:id" o="add" type="relation" v="FR-43691" />
+    <tag id="6725574" k="source" o="add" type="relation" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="6725574" k="landuse" o="add" type="relation" v="forest" />
+    <tag id="6725574" k="CLC:code" o="add" type="relation" v="311" />
+    <tag id="6725574" k="CLC:year" o="add" type="relation" v="2006" />
+    <tag id="6725575" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725575" k="sport" o="add" type="relation" v="model_aerodrome" />
+    <tag id="6725575" k="source" o="add" type="relation" v="data.gouv.fr:Le minist&#232;re des droits des femmes, de la ville, de la jeunesse et des sports - 11/2015" />
+    <tag id="6725575" k="leisure" o="add" type="relation" v="pitch" />
+    <tag id="6725575" k="surface" o="add" type="relation" v="grass" />
+    <tag id="6725576" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725576" k="natural" o="add" type="relation" v="wood" />
+    <tag id="6725577" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725577" k="natural" o="add" type="relation" v="wood" />
+    <tag id="6725578" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725578" k="landuse" o="add" type="relation" v="residential" />
+    <tag id="6725580" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725580" k="wood" o="add" type="relation" v="deciduous" />
+    <tag id="6725580" k="CLC:id" o="add" type="relation" v="FR-42408" />
+    <tag id="6725580" k="landuse" o="add" type="relation" v="forest" />
+    <tag id="6725580" k="CLC:code" o="add" type="relation" v="311" />
+    <tag id="6725580" k="CLC:year" o="add" type="relation" v="2006" />
+    <tag id="6725581" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6725581" k="CLC:id" o="add" type="relation" v="FR-21767" />
+    <tag id="6725581" k="landuse" o="add" type="relation" v="farmland" />
+    <tag id="6725581" k="CLC:code" o="add" type="relation" v="211" />
+    <tag id="6725581" k="CLC:year" o="add" type="relation" v="2006" />
+  </body>
+</changeset>

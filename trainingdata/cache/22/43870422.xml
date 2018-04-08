@@ -1,0 +1,640 @@
+<changeset id="43870422" schema="2">
+  <counts nodesAdded="6" nodesDeleted="2" nodesModified="0" relationsAdded="24" relationsDeleted="1" relationsModified="24" waysAdded="45" waysDeleted="0" waysModified="34" />
+  <meta>
+    <tag k="comment" v="#montreal-turn-restrictions Task234" />
+    <tag k="created_by" v="JOSM/1.5 (10786 en)" />
+    <tag k="source" v="Bing,Mapillary,OpenStreetView,Geobase,Canvec" />
+  </meta>
+  <body>
+    <tag id="29796790" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="32124686" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="3390027983" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3404140426" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="4013070374" k="highway" o="none" type="node" v="crossing" />
+    <tag id="4013070374" k="surface" o="none" type="node" v="paved" />
+    <tag id="4013070374" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="4013070374" k="supervised" o="none" type="node" v="no" />
+    <tag id="4013070374" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="4013070374" k="tactile_paving" o="none" type="node" v="no" />
+    <tag id="4013070374" k="button_operated" o="none" type="node" v="yes" />
+    <tag id="4013070374" k="traffic_signals:sound" o="none" type="node" v="no" />
+    <tag id="4320292" k="lit" o="none" type="way" v="yes" />
+    <tag id="4320292" k="ref" o="none" type="way" v="720" />
+    <tag id="4320292" k="name" o="modify" type="way" v="Autoroute Ville-Marie" />
+    <tag id="4320292" k="lanes" o="none" type="way" v="2" />
+    <tag id="4320292" k="layer" o="none" type="way" v="3" />
+    <tag id="4320292" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4320292" k="highway" o="none" type="way" v="motorway" />
+    <tag id="4320292" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4320292" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="4687530" k="lit" o="none" type="way" v="yes" />
+    <tag id="4687530" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="4687530" k="lanes" o="none" type="way" v="3" />
+    <tag id="4687530" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4687530" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4687530" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4687530" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4687530" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="4687530" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="4687641" k="name" o="none" type="way" v="Rue Bishop" />
+    <tag id="4687641" k="lanes" o="none" type="way" v="1" />
+    <tag id="4687641" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4687641" k="highway" o="none" type="way" v="residential" />
+    <tag id="4687641" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="19683769" k="name" o="none" type="way" v="Rue Chomedey" />
+    <tag id="19683769" k="oneway" o="add" type="way" v="yes" />
+    <tag id="19683769" k="highway" o="none" type="way" v="residential" />
+    <tag id="19895959" k="lit" o="none" type="way" v="yes" />
+    <tag id="19895959" k="name" o="none" type="way" v="Rue Metcalfe" />
+    <tag id="19895959" k="oneway" o="none" type="way" v="yes" />
+    <tag id="19895959" k="highway" o="none" type="way" v="residential" />
+    <tag id="19895959" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="19895959" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="19895959" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="19912054" k="name" o="none" type="way" v="Rue Redpath" />
+    <tag id="19912054" k="oneway" o="add" type="way" v="yes" />
+    <tag id="19912054" k="highway" o="none" type="way" v="residential" />
+    <tag id="19912054" k="name:en" o="none" type="way" v="Redpath Street" />
+    <tag id="21333766" k="name" o="none" type="way" v="Rue de la Cath&#233;drale" />
+    <tag id="21333766" k="lanes" o="none" type="way" v="1" />
+    <tag id="21333766" k="oneway" o="none" type="way" v="yes" />
+    <tag id="21333766" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="21333766" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="24221231" k="name" o="none" type="way" v="C&#244;te du Beaver Hall" />
+    <tag id="24221231" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="36606092" k="name" o="none" type="way" v="Rue de La Gaucheti&#232;re Ouest" />
+    <tag id="36606092" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36606092" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="36606092" k="name:en" o="none" type="way" v="La Gaucheti&#232;re Street West" />
+    <tag id="36606095" k="name" o="none" type="way" v="Rue de La Gaucheti&#232;re Ouest" />
+    <tag id="36606095" k="lanes" o="none" type="way" v="2" />
+    <tag id="36606095" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="36606095" k="name:en" o="none" type="way" v="La Gaucheti&#232;re Street West" />
+    <tag id="36606095" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36672936" k="lit" o="none" type="way" v="yes" />
+    <tag id="36672936" k="ref" o="none" type="way" v="112" />
+    <tag id="36672936" k="name" o="none" type="way" v="Rue Peel" />
+    <tag id="36672936" k="lanes" o="none" type="way" v="2" />
+    <tag id="36672936" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36672936" k="highway" o="none" type="way" v="primary" />
+    <tag id="36672936" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="36672936" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="37723610" k="name" o="none" type="way" v="Rue Peel" />
+    <tag id="37723610" k="highway" o="none" type="way" v="secondary" />
+    <tag id="41258971" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="41258971" k="oneway" o="none" type="way" v="yes" />
+    <tag id="41258971" k="highway" o="none" type="way" v="secondary" />
+    <tag id="41258971" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="48680975" k="name" o="none" type="way" v="Rue Guy" />
+    <tag id="48680975" k="highway" o="none" type="way" v="secondary" />
+    <tag id="103935602" k="name" o="none" type="way" v="Rue de la Montagne" />
+    <tag id="103935602" k="lanes" o="none" type="way" v="2" />
+    <tag id="103935602" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="103935602" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="108599850" k="name" o="modify" type="way" v="Place du Fr&#232;re-Andr&#233;" />
+    <tag id="108599850" k="leisure" o="none" type="way" v="park" />
+    <tag id="113861069" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="133806982" k="name" o="none" type="way" v="Rue de la Montagne" />
+    <tag id="133806982" k="lanes" o="add" type="way" v="2" />
+    <tag id="133806982" k="oneway" o="add" type="way" v="yes" />
+    <tag id="133806982" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="133806982" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="134811808" k="lit" o="none" type="way" v="yes" />
+    <tag id="134811808" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="134811808" k="lanes" o="none" type="way" v="3" />
+    <tag id="134811808" k="oneway" o="none" type="way" v="yes" />
+    <tag id="134811808" k="highway" o="none" type="way" v="secondary" />
+    <tag id="134811808" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="134811808" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="134811808" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="134811808" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="165257881" k="lit" o="none" type="way" v="yes" />
+    <tag id="165257881" k="ref" o="none" type="way" v="138" />
+    <tag id="165257881" k="name" o="none" type="way" v="Rue Sherbrooke Ouest" />
+    <tag id="165257881" k="lanes" o="none" type="way" v="4" />
+    <tag id="165257881" k="highway" o="none" type="way" v="primary" />
+    <tag id="165257881" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="165257881" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="165257881" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="165265062" k="name" o="modify" type="way" v="Rue du Square-Dorchester" />
+    <tag id="165265062" k="lanes" o="none" type="way" v="1" />
+    <tag id="165265062" k="oneway" o="none" type="way" v="yes" />
+    <tag id="165265062" k="highway" o="none" type="way" v="residential" />
+    <tag id="165325607" k="name" o="add" type="way" v="Rue du Square-Dorchester" />
+    <tag id="165325607" k="oneway" o="none" type="way" v="yes" />
+    <tag id="165325607" k="highway" o="none" type="way" v="residential" />
+    <tag id="219132792" k="lit" o="none" type="way" v="yes" />
+    <tag id="219132792" k="ref" o="none" type="way" v="112" />
+    <tag id="219132792" k="name" o="none" type="way" v="Rue Peel" />
+    <tag id="219132792" k="highway" o="none" type="way" v="primary" />
+    <tag id="219132792" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="219132792" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="219132792" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="233054863" k="lit" o="none" type="way" v="yes" />
+    <tag id="233054863" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="233054863" k="lanes" o="none" type="way" v="3" />
+    <tag id="233054863" k="oneway" o="none" type="way" v="yes" />
+    <tag id="233054863" k="highway" o="none" type="way" v="secondary" />
+    <tag id="233054863" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="233054863" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="233054863" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="233054863" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="300627773" k="lit" o="none" type="way" v="yes" />
+    <tag id="300627773" k="name" o="none" type="way" v="Boulevard Robert-Bourassa" />
+    <tag id="300627773" k="lanes" o="none" type="way" v="4" />
+    <tag id="300627773" k="oneway" o="none" type="way" v="yes" />
+    <tag id="300627773" k="highway" o="none" type="way" v="secondary" />
+    <tag id="300627773" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="300627773" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="300627773" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="329384214" k="name" o="none" type="way" v="Avenue Union" />
+    <tag id="329384214" k="lanes" o="none" type="way" v="1" />
+    <tag id="329384214" k="oneway" o="none" type="way" v="yes" />
+    <tag id="329384214" k="highway" o="none" type="way" v="residential" />
+    <tag id="329384214" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="343809198" k="amenity" o="none" type="way" v="school" />
+    <tag id="356391517" k="lit" o="none" type="way" v="yes" />
+    <tag id="356391517" k="name" o="none" type="way" v="Rue De Bleury" />
+    <tag id="356391517" k="lanes" o="none" type="way" v="2" />
+    <tag id="356391517" k="oneway" o="none" type="way" v="yes" />
+    <tag id="356391517" k="highway" o="none" type="way" v="secondary" />
+    <tag id="356391517" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="356391517" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="356391517" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="385879098" k="lit" o="none" type="way" v="yes" />
+    <tag id="385879098" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="385879098" k="lanes" o="none" type="way" v="3" />
+    <tag id="385879098" k="oneway" o="none" type="way" v="yes" />
+    <tag id="385879098" k="highway" o="none" type="way" v="secondary" />
+    <tag id="385879098" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="385879098" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="385879098" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="385879098" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="401059977" k="highway" o="none" type="way" v="steps" />
+    <tag id="401059977" k="step_count" o="none" type="way" v="2" />
+    <tag id="439879818" k="lit" o="none" type="way" v="yes" />
+    <tag id="439879818" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="439879818" k="lanes" o="none" type="way" v="3" />
+    <tag id="439879818" k="oneway" o="none" type="way" v="yes" />
+    <tag id="439879818" k="highway" o="none" type="way" v="secondary" />
+    <tag id="439879818" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="439879818" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="439879818" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="439879818" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="453959371" k="lit" o="none" type="way" v="yes" />
+    <tag id="453959371" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="453959371" k="lanes" o="none" type="way" v="3" />
+    <tag id="453959371" k="oneway" o="none" type="way" v="yes" />
+    <tag id="453959371" k="highway" o="none" type="way" v="secondary" />
+    <tag id="453959371" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="453959371" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="453959371" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="453959371" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="453964892" k="name" o="none" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="453964892" k="lanes" o="none" type="way" v="3" />
+    <tag id="453964892" k="oneway" o="none" type="way" v="yes" />
+    <tag id="453964892" k="highway" o="none" type="way" v="secondary" />
+    <tag id="453964892" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="453964892" k="old_name" o="none" type="way" v="Boulevard Dorchester" />
+    <tag id="455083964" k="name" o="add" type="way" v="Avenue Union" />
+    <tag id="455083964" k="lanes" o="add" type="way" v="1" />
+    <tag id="455083964" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083964" k="highway" o="add" type="way" v="residential" />
+    <tag id="455083964" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083965" k="name" o="add" type="way" v="Avenue Union" />
+    <tag id="455083965" k="lanes" o="add" type="way" v="1" />
+    <tag id="455083965" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083965" k="highway" o="add" type="way" v="residential" />
+    <tag id="455083965" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083966" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083966" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083966" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083966" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083966" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083966" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083966" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083966" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083966" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083967" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083967" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083967" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083967" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083967" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083967" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083967" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083967" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083967" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083968" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083968" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083968" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083968" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083968" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083968" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083969" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083969" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083969" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083969" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083969" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083969" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083969" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083969" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083969" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083970" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083970" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083970" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083970" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083971" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083971" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083971" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083971" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083971" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083971" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083971" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083971" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083971" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083972" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083972" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083972" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083972" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083972" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083972" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083972" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083972" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083972" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083973" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083973" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083973" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083973" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083973" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083973" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083973" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083973" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083973" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083974" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083974" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083974" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083974" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083974" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083974" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083974" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083974" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083974" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083975" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083975" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083975" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083975" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083975" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083975" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083975" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083975" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083975" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083976" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083976" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083976" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083976" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083976" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083976" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083977" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083977" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083977" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083977" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083977" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083977" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083977" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083977" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083977" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083978" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083978" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083978" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083978" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083978" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083978" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083978" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083978" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083978" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083979" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083979" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083979" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083979" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083979" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083979" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083979" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083979" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083979" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083980" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083980" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083980" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083980" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083981" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083981" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083981" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083981" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083981" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083981" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083981" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083981" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083981" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083982" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083982" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083982" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083982" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083982" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083982" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083982" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083982" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083982" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083983" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083983" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083983" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083983" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083983" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083983" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083983" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083983" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083983" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083984" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083984" k="name" o="add" type="way" v="Boulevard Ren&#233;-L&#233;vesque Ouest" />
+    <tag id="455083984" k="lanes" o="add" type="way" v="3" />
+    <tag id="455083984" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083984" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083984" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083984" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083984" k="old_name" o="add" type="way" v="Boulevard Dorchester" />
+    <tag id="455083984" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083985" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083985" k="name" o="add" type="way" v="Boulevard Robert-Bourassa" />
+    <tag id="455083985" k="lanes" o="add" type="way" v="4" />
+    <tag id="455083985" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083985" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083985" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083985" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083985" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083986" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083986" k="name" o="add" type="way" v="Boulevard Robert-Bourassa" />
+    <tag id="455083986" k="lanes" o="add" type="way" v="4" />
+    <tag id="455083986" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083986" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083986" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083986" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083986" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083987" k="name" o="add" type="way" v="C&#244;te du Beaver Hall" />
+    <tag id="455083987" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="455083988" k="name" o="add" type="way" v="Rue de La Gaucheti&#232;re Ouest" />
+    <tag id="455083988" k="lanes" o="add" type="way" v="2" />
+    <tag id="455083988" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="455083988" k="name:en" o="add" type="way" v="La Gaucheti&#232;re Street West" />
+    <tag id="455083988" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083989" k="name" o="add" type="way" v="Rue de La Gaucheti&#232;re Ouest" />
+    <tag id="455083989" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083989" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="455083989" k="name:en" o="add" type="way" v="La Gaucheti&#232;re Street West" />
+    <tag id="455083990" k="name" o="add" type="way" v="Rue Redpath" />
+    <tag id="455083990" k="highway" o="add" type="way" v="residential" />
+    <tag id="455083990" k="name:en" o="add" type="way" v="Redpath Street" />
+    <tag id="455083991" k="name" o="add" type="way" v="Rue Bishop" />
+    <tag id="455083991" k="lanes" o="add" type="way" v="1" />
+    <tag id="455083991" k="highway" o="add" type="way" v="residential" />
+    <tag id="455083991" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083992" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083992" k="name" o="add" type="way" v="Rue De Bleury" />
+    <tag id="455083992" k="lanes" o="add" type="way" v="2" />
+    <tag id="455083992" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083992" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083992" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083992" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083992" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="455083993" k="name" o="add" type="way" v="Rue Guy" />
+    <tag id="455083993" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083994" k="name" o="add" type="way" v="Rue Guy" />
+    <tag id="455083994" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083995" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083995" k="name" o="add" type="way" v="Rue Metcalfe" />
+    <tag id="455083995" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083995" k="highway" o="add" type="way" v="residential" />
+    <tag id="455083995" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083995" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="455083995" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="455083996" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083996" k="ref" o="add" type="way" v="112" />
+    <tag id="455083996" k="name" o="add" type="way" v="Rue Peel" />
+    <tag id="455083996" k="highway" o="add" type="way" v="primary" />
+    <tag id="455083996" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083996" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="455083996" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="455083997" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083997" k="ref" o="add" type="way" v="112" />
+    <tag id="455083997" k="name" o="add" type="way" v="Rue Peel" />
+    <tag id="455083997" k="lanes" o="add" type="way" v="2" />
+    <tag id="455083997" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455083997" k="highway" o="add" type="way" v="primary" />
+    <tag id="455083997" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083997" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="455083998" k="name" o="add" type="way" v="Rue Peel" />
+    <tag id="455083998" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455083999" k="lit" o="add" type="way" v="yes" />
+    <tag id="455083999" k="ref" o="add" type="way" v="138" />
+    <tag id="455083999" k="name" o="add" type="way" v="Rue Sherbrooke Ouest" />
+    <tag id="455083999" k="lanes" o="add" type="way" v="4" />
+    <tag id="455083999" k="highway" o="add" type="way" v="primary" />
+    <tag id="455083999" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455083999" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="455083999" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="455084000" k="name" o="add" type="way" v="Rue de la Cath&#233;drale" />
+    <tag id="455084000" k="lanes" o="add" type="way" v="1" />
+    <tag id="455084000" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455084000" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="455084000" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455084001" k="name" o="add" type="way" v="Rue de la Cath&#233;drale" />
+    <tag id="455084001" k="lanes" o="add" type="way" v="1" />
+    <tag id="455084001" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455084001" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="455084001" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455084002" k="name" o="add" type="way" v="Rue de la Montagne" />
+    <tag id="455084002" k="lanes" o="add" type="way" v="2" />
+    <tag id="455084002" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455084002" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="455084002" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="455084003" k="name" o="add" type="way" v="Rue de la Montagne" />
+    <tag id="455084003" k="oneway" o="add" type="way" v="yes" />
+    <tag id="455084003" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="455084004" k="landuse" o="add" type="way" v="commercial" />
+    <tag id="455084005" k="landuse" o="add" type="way" v="commercial" />
+    <tag id="455084006" k="landuse" o="add" type="way" v="commercial" />
+    <tag id="270258" k="ref" o="none" type="relation" v="80" />
+    <tag id="270258" k="name" o="none" type="relation" v="80 Du Parc" />
+    <tag id="270258" k="type" o="none" type="relation" v="route" />
+    <tag id="270258" k="route" o="none" type="relation" v="bus" />
+    <tag id="270258" k="network" o="none" type="relation" v="STM" />
+    <tag id="270258" k="operator" o="none" type="relation" v="STM" />
+    <tag id="270260" k="ref" o="none" type="relation" v="129" />
+    <tag id="270260" k="name" o="none" type="relation" v="C&#244;te-Sainte-Catherine" />
+    <tag id="270260" k="type" o="none" type="relation" v="route" />
+    <tag id="270260" k="route" o="none" type="relation" v="bus" />
+    <tag id="270260" k="loc_name" o="none" type="relation" v="C&#244;te-Ste-Catherine" />
+    <tag id="270260" k="operator" o="none" type="relation" v="STM" />
+    <tag id="270263" k="ref" o="none" type="relation" v="165" />
+    <tag id="270263" k="name" o="none" type="relation" v="C&#244;te-des-Neiges" />
+    <tag id="270263" k="type" o="none" type="relation" v="route" />
+    <tag id="270263" k="route" o="none" type="relation" v="bus" />
+    <tag id="270263" k="operator" o="none" type="relation" v="STM" />
+    <tag id="395635" k="ref" o="none" type="relation" v="138" />
+    <tag id="395635" k="name" o="none" type="relation" v="R 138" />
+    <tag id="395635" k="type" o="none" type="relation" v="route" />
+    <tag id="395635" k="route" o="none" type="relation" v="road" />
+    <tag id="395635" k="network" o="none" type="relation" v="CA:QC:R" />
+    <tag id="395635" k="description" o="none" type="relation" v="http://en.wikipedia.org/wiki/Quebec_Route_138" />
+    <tag id="395635" k="is_in:state" o="none" type="relation" v="QC" />
+    <tag id="1375415" k="ref" o="none" type="relation" v="112" />
+    <tag id="1375415" k="name" o="none" type="relation" v="R 112" />
+    <tag id="1375415" k="type" o="none" type="relation" v="route" />
+    <tag id="1375415" k="route" o="none" type="relation" v="road" />
+    <tag id="1375415" k="network" o="none" type="relation" v="CA:QC:R" />
+    <tag id="1375415" k="route_ref" o="none" type="relation" v="road" />
+    <tag id="1375415" k="description" o="none" type="relation" v="http://en.wikipedia.org/wiki/Quebec_Route_112" />
+    <tag id="1375415" k="is_in:state" o="none" type="relation" v="QC" />
+    <tag id="1798133" k="type" o="none" type="relation" v="restriction" />
+    <tag id="1798133" k="except" o="none" type="relation" v="psv" />
+    <tag id="1798133" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="1811526" k="type" o="none" type="relation" v="restriction" />
+    <tag id="1811526" k="restriction" o="none" type="relation" v="no_left_turn" />
+    <tag id="1811527" k="type" o="none" type="relation" v="restriction" />
+    <tag id="1811527" k="except" o="none" type="relation" v="psv" />
+    <tag id="1811527" k="restriction" o="none" type="relation" v="no_left_turn" />
+    <tag id="2695857" k="ref" o="none" type="relation" v="747" />
+    <tag id="2695857" k="name" o="none" type="relation" v="747 A&#233;roport international Pierre-Elliott-Trudeau / Centre-Ville Est / East" />
+    <tag id="2695857" k="note" o="none" type="relation" v="in progress;only part from airport to Lionel-Groulx mapped &gt;&gt; cleaned up reference &amp; added master bus line" />
+    <tag id="2695857" k="type" o="none" type="relation" v="route" />
+    <tag id="2695857" k="route" o="none" type="relation" v="bus" />
+    <tag id="2695857" k="network" o="none" type="relation" v="STM" />
+    <tag id="2695857" k="operator" o="none" type="relation" v="STM" />
+    <tag id="2695858" k="ref" o="none" type="relation" v="747" />
+    <tag id="2695858" k="name" o="none" type="relation" v="747 A&#233;roport international Pierre-Elliott-Trudeau / Centre-Ville Ouest / West" />
+    <tag id="2695858" k="type" o="none" type="relation" v="route" />
+    <tag id="2695858" k="route" o="none" type="relation" v="bus" />
+    <tag id="2695858" k="network" o="none" type="relation" v="STM" />
+    <tag id="2695858" k="operator" o="none" type="relation" v="STM" />
+    <tag id="2899585" k="type" o="none" type="relation" v="restriction" />
+    <tag id="2899585" k="restriction" o="none" type="relation" v="no_left_turn" />
+    <tag id="3534868" k="ref" o="none" type="relation" v="107 Nord" />
+    <tag id="3534868" k="note" o="none" type="relation" v="incomplete; only extends to Charlevoix; missing stops" />
+    <tag id="3534868" k="type" o="none" type="relation" v="route" />
+    <tag id="3534868" k="route" o="none" type="relation" v="bus" />
+    <tag id="3534868" k="network" o="none" type="relation" v="STM" />
+    <tag id="3534868" k="operator" o="none" type="relation" v="STM" />
+    <tag id="3545688" k="name" o="none" type="relation" v="107 Sud" />
+    <tag id="3545688" k="note" o="none" type="relation" v="mostly complete, but some stops might be still missing" />
+    <tag id="3545688" k="type" o="none" type="relation" v="route" />
+    <tag id="3545688" k="route" o="none" type="relation" v="bus" />
+    <tag id="3545688" k="name:en" o="none" type="relation" v="107 South" />
+    <tag id="3545688" k="network" o="none" type="relation" v="STM" />
+    <tag id="3545688" k="operator" o="none" type="relation" v="STM" />
+    <tag id="4588171" k="ref" o="none" type="relation" v="24" />
+    <tag id="4588171" k="name" o="none" type="relation" v="24 Sherbrooke Est / East" />
+    <tag id="4588171" k="type" o="none" type="relation" v="route" />
+    <tag id="4588171" k="route" o="none" type="relation" v="bus" />
+    <tag id="4588171" k="network" o="none" type="relation" v="STM" />
+    <tag id="4588171" k="operator" o="none" type="relation" v="STM" />
+    <tag id="4588171" k="direction" o="none" type="relation" v="E" />
+    <tag id="4588171" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4588172" k="ref" o="none" type="relation" v="24" />
+    <tag id="4588172" k="name" o="none" type="relation" v="24 Sherbrooke Ouest / West" />
+    <tag id="4588172" k="type" o="none" type="relation" v="route" />
+    <tag id="4588172" k="route" o="none" type="relation" v="bus" />
+    <tag id="4588172" k="network" o="none" type="relation" v="STM" />
+    <tag id="4588172" k="operator" o="none" type="relation" v="STM" />
+    <tag id="4588172" k="direction" o="none" type="relation" v="W" />
+    <tag id="4588172" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4626928" k="ref" o="none" type="relation" v="427" />
+    <tag id="4626928" k="name" o="none" type="relation" v="427 Express St-Joseph Est / East" />
+    <tag id="4626928" k="type" o="none" type="relation" v="route" />
+    <tag id="4626928" k="route" o="none" type="relation" v="bus" />
+    <tag id="4626928" k="network" o="none" type="relation" v="STM" />
+    <tag id="4626928" k="operator" o="none" type="relation" v="STM" />
+    <tag id="4626929" k="ref" o="none" type="relation" v="427" />
+    <tag id="4626929" k="name" o="none" type="relation" v="427 Express St-Joseph Ouest / West" />
+    <tag id="4626929" k="type" o="none" type="relation" v="route" />
+    <tag id="4626929" k="route" o="none" type="relation" v="bus" />
+    <tag id="4626929" k="network" o="none" type="relation" v="STM" />
+    <tag id="4626929" k="operator" o="none" type="relation" v="STM" />
+    <tag id="4816537" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="4816537" k="landuse" o="none" type="relation" v="retail" />
+    <tag id="5742171" k="type" o="none" type="relation" v="restriction" />
+    <tag id="5742171" k="except" o="add" type="relation" v="psv" />
+    <tag id="5742171" k="restriction" o="none" type="relation" v="no_left_turn" />
+    <tag id="5926741" k="ref" o="none" type="relation" v="150" />
+    <tag id="5926741" k="name" o="none" type="relation" v="150 Ren&#233;-L&#233;vesque Ouest / West" />
+    <tag id="5926741" k="type" o="none" type="relation" v="route" />
+    <tag id="5926741" k="route" o="none" type="relation" v="bus" />
+    <tag id="5926741" k="network" o="none" type="relation" v="STM" />
+    <tag id="5926741" k="operator" o="none" type="relation" v="STM" />
+    <tag id="6445283" k="type" o="none" type="relation" v="restriction" />
+    <tag id="6445283" k="restriction" o="none" type="relation" v="no_right_turn" />
+    <tag id="6544103" k="type" o="none" type="relation" v="restriction" />
+    <tag id="6544103" k="except" o="add" type="relation" v="psv" />
+    <tag id="6544103" k="restriction" o="none" type="relation" v="no_left_turn" />
+    <tag id="6717453" k="type" o="none" type="relation" v="restriction" />
+    <tag id="6717453" k="restriction:conditional" o="none" type="relation" v="no_left_turn @ (Mo-Su 08:00-18:00)" />
+    <tag id="6729143" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729143" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729143" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6729144" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729144" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729144" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6729145" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729145" k="except" o="add" type="relation" v="psv" />
+    <tag id="6729145" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6729146" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729146" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6729147" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729147" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6729148" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729148" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6729149" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729149" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6729150" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729150" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6729151" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729151" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729151" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6729152" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729152" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729152" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6729153" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729153" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729154" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729154" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729154" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729155" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729155" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729156" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729156" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729156" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729157" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729157" k="source" o="add" type="relation" v="donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729157" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729158" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729158" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729159" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729159" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729159" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729160" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729160" k="except" o="add" type="relation" v="psv" />
+    <tag id="6729160" k="restriction" o="add" type="relation" v="only_straight_on" />
+    <tag id="6729161" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729161" k="except" o="add" type="relation" v="psv" />
+    <tag id="6729161" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (Mo-Su 07:00-22:00)" />
+    <tag id="6729162" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729162" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729162" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (Mo-Su 08:00-18:00)" />
+    <tag id="6729163" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729163" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (Mo-Su 08:00-18:00)" />
+    <tag id="6729164" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729164" k="restriction:conditional" o="add" type="relation" v="no_right_turn @ (Mo-Su 08:00-18:00)" />
+    <tag id="6729165" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729165" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729165" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (Mo-Fr 07:00-18:30)" />
+    <tag id="6729166" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6729166" k="source" o="add" type="relation" v="http://donnees.ville.montreal.qc.ca/dataset/stationnement-sur-rue-signalisation-courant/resource/6efbe51d-141f-4a78-b6ab-5927f0789fed" />
+    <tag id="6729166" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (Mo-Su 08:00-18:00)" />
+  </body>
+</changeset>

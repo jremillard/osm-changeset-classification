@@ -1,0 +1,509 @@
+<changeset id="44200376" schema="2">
+  <counts nodesAdded="216" nodesDeleted="3" nodesModified="6" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="25" waysDeleted="1" waysModified="37" />
+  <meta>
+    <tag k="comment" v="Road alignment and details; POIs." />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="survey; Bing; Mapbox Satellite; USGS Large Scale Imagery" />
+  </meta>
+  <body>
+    <tag id="50940133" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="50955102" k="source" o="none" type="node" v="bing" />
+    <tag id="50955102" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="50955102" k="supervised" o="add" type="node" v="no" />
+    <tag id="50955102" k="crossing:bell" o="add" type="node" v="yes" />
+    <tag id="50955102" k="crossing:light" o="add" type="node" v="yes" />
+    <tag id="50955102" k="crossing:barrier" o="add" type="node" v="half" />
+    <tag id="50967591" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="50967596" k="highway" o="add" type="node" v="stop" />
+    <tag id="50997381" k="highway" o="add" type="node" v="stop" />
+    <tag id="50997382" k="highway" o="add" type="node" v="stop" />
+    <tag id="51000627" k="highway" o="add" type="node" v="stop" />
+    <tag id="51027912" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="51035736" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="51035736" k="traffic_signals" o="none" type="node" v="signal" />
+    <tag id="364160128" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="432662660" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="4462566045" k="highway" o="add" type="node" v="stop" />
+    <tag id="6150360" k="NHS" o="none" type="way" v="yes" />
+    <tag id="6150360" k="hgv" o="none" type="way" v="designated" />
+    <tag id="6150360" k="ref" o="none" type="way" v="US 2;US 395" />
+    <tag id="6150360" k="name" o="none" type="way" v="North Division Street" />
+    <tag id="6150360" k="lanes" o="none" type="way" v="3" />
+    <tag id="6150360" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6150360" k="highway" o="none" type="way" v="primary" />
+    <tag id="6150360" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="6150360" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="6150360" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="6150360" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="6150360" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6150360" k="tiger:zip_left" o="none" type="way" v="99218" />
+    <tag id="6150360" k="tiger:name_base" o="none" type="way" v="Division" />
+    <tag id="6150360" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6150360" k="tiger:zip_right" o="none" type="way" v="99218" />
+    <tag id="6150360" k="tiger:name_base_1" o="none" type="way" v="Highway 395" />
+    <tag id="6150360" k="hgv:national_network" o="none" type="way" v="yes" />
+    <tag id="6150360" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="6150360" k="tiger:name_direction_prefix_1" o="none" type="way" v="N" />
+    <tag id="6150724" k="name" o="none" type="way" v="South Park Road" />
+    <tag id="6150724" k="lanes" o="add" type="way" v="4" />
+    <tag id="6150724" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6150724" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6150724" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6150724" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6150724" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6150724" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6150724" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6150724" k="tiger:name_base" o="none" type="way" v="Park" />
+    <tag id="6150724" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6150724" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6150724" k="tiger:zip_left_1" o="none" type="way" v="99212" />
+    <tag id="6150724" k="tiger:zip_right_1" o="none" type="way" v="99212" />
+    <tag id="6150724" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="6151054" k="name" o="none" type="way" v="South Madelia Street" />
+    <tag id="6151054" k="lanes" o="add" type="way" v="2" />
+    <tag id="6151054" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="6151054" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6151054" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6151054" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6151054" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6151054" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6151054" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6151054" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="6151054" k="tiger:name_base" o="none" type="way" v="Madelia" />
+    <tag id="6151054" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6151054" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="6152637" k="name" o="none" type="way" v="East Eastwood Avenue" />
+    <tag id="6152637" k="highway" o="none" type="way" v="residential" />
+    <tag id="6152637" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6152637" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6152637" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6152637" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6152637" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6152637" k="tiger:name_base" o="none" type="way" v="Eastwood" />
+    <tag id="6152637" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6152637" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6152637" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="6152982" k="name" o="none" type="way" v="South Koren Road" />
+    <tag id="6152982" k="highway" o="none" type="way" v="residential" />
+    <tag id="6152982" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6152982" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6152982" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6152982" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6152982" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6152982" k="tiger:name_base" o="none" type="way" v="Koren" />
+    <tag id="6152982" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6152982" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6152982" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="6154948" k="name" o="none" type="way" v="East 6th Avenue" />
+    <tag id="6154948" k="highway" o="none" type="way" v="residential" />
+    <tag id="6154948" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6154948" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6154948" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="6154948" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6154948" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6154948" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6154948" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6154948" k="tiger:name_base" o="none" type="way" v="6th" />
+    <tag id="6154948" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6154948" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6154948" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="6154948" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="6154948" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="6155769" k="name" o="none" type="way" v="East 4th Avenue" />
+    <tag id="6155769" k="highway" o="none" type="way" v="residential" />
+    <tag id="6155769" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6155769" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6155769" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6155769" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="6155769" k="tiger:name_base" o="none" type="way" v="4th" />
+    <tag id="6155769" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6155769" k="tiger:zip_right" o="none" type="way" v="99202" />
+    <tag id="6155769" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="6160636" k="name" o="none" type="way" v="South Howe Road" />
+    <tag id="6160636" k="highway" o="none" type="way" v="residential" />
+    <tag id="6160636" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6160636" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6160636" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6160636" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6160636" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6160636" k="tiger:name_base" o="none" type="way" v="Howe" />
+    <tag id="6160636" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6160636" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6160636" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="6160867" k="name" o="none" type="way" v="North Thierman Road" />
+    <tag id="6160867" k="lanes" o="add" type="way" v="2" />
+    <tag id="6160867" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6160867" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6160867" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6160867" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="6160867" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6160867" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6160867" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6161415" k="name" o="none" type="way" v="South Perry Street" />
+    <tag id="6161415" k="lanes" o="add" type="way" v="2" />
+    <tag id="6161415" k="highway" o="none" type="way" v="secondary" />
+    <tag id="6161415" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6161415" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="6161415" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6161415" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6161472" k="name" o="none" type="way" v="South Perry Street" />
+    <tag id="6161472" k="highway" o="none" type="way" v="residential" />
+    <tag id="6161472" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6161472" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6161472" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6161472" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6161472" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6161472" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6161472" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="6161472" k="tiger:name_base" o="none" type="way" v="Perry" />
+    <tag id="6161472" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6161472" k="tiger:zip_right" o="none" type="way" v="99202" />
+    <tag id="6161472" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="6161472" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="6161472" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="6161599" k="name" o="none" type="way" v="East 5th Avenue" />
+    <tag id="6161599" k="lanes" o="add" type="way" v="2" />
+    <tag id="6161599" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="6161599" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="6161599" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6161599" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6161599" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6161599" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="6161599" k="tiger:zip_right" o="none" type="way" v="99202" />
+    <tag id="6161599" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="6161599" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="6161622" k="name" o="none" type="way" v="East 5th Avenue" />
+    <tag id="6161622" k="highway" o="none" type="way" v="residential" />
+    <tag id="6161622" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6161622" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6161622" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6161622" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6161622" k="tiger:name_base" o="none" type="way" v="5th" />
+    <tag id="6161622" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="6161622" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6161622" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="6162660" k="name" o="none" type="way" v="South McKinnon Road" />
+    <tag id="6162660" k="highway" o="none" type="way" v="residential" />
+    <tag id="6162660" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="6162660" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6162660" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="6162660" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6162660" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="6162660" k="tiger:name_base" o="none" type="way" v="McKinnon" />
+    <tag id="6162660" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6162660" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="6162660" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="30811041" k="name" o="none" type="way" v="South Havana Street" />
+    <tag id="30811041" k="highway" o="none" type="way" v="secondary" />
+    <tag id="30811041" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="30811041" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="30811041" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="30811041" k="tiger:name_base" o="none" type="way" v="Havana" />
+    <tag id="30811041" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="30811041" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="32282009" k="name" o="none" type="way" v="East Sprague Avenue" />
+    <tag id="32282009" k="lanes" o="none" type="way" v="2" />
+    <tag id="32282009" k="highway" o="none" type="way" v="secondary" />
+    <tag id="32282009" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="32282009" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="32282009" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="32282009" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32282009" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="32282009" k="tiger:zip_left" o="none" type="way" v="99016" />
+    <tag id="32282009" k="tiger:name_base" o="none" type="way" v="Sprague" />
+    <tag id="32282009" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="32282009" k="tiger:zip_right" o="none" type="way" v="99016" />
+    <tag id="32282009" k="parking:lane:both" o="none" type="way" v="parallel" />
+    <tag id="32282009" k="parking:condition:both" o="none" type="way" v="free" />
+    <tag id="32282009" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="32352325" k="name" o="none" type="way" v="South Pittsburg Street" />
+    <tag id="32352325" k="lanes" o="add" type="way" v="2" />
+    <tag id="32352325" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="32352325" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="32352325" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="32352325" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="32352325" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="32352325" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="32352325" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="32352325" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="32352371" k="name" o="none" type="way" v="East 4th Avenue" />
+    <tag id="32352371" k="highway" o="none" type="way" v="residential" />
+    <tag id="32352371" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="32352371" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="32352371" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="32352371" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="32352371" k="tiger:name_base" o="none" type="way" v="4th" />
+    <tag id="32352371" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="32352371" k="tiger:zip_right" o="none" type="way" v="99202" />
+    <tag id="32352371" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="32352617" k="name" o="none" type="way" v="East 5th Avenue" />
+    <tag id="32352617" k="lanes" o="add" type="way" v="2" />
+    <tag id="32352617" k="highway" o="none" type="way" v="residential" />
+    <tag id="32352617" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="32352617" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="32352617" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="32352617" k="tiger:zip_left" o="none" type="way" v="99202" />
+    <tag id="32352617" k="tiger:zip_right" o="none" type="way" v="99202" />
+    <tag id="32352617" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="32352617" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="41499098" k="name" o="modify" type="way" v="South Perry Street" />
+    <tag id="41499098" k="lanes" o="add" type="way" v="2" />
+    <tag id="41499098" k="layer" o="none" type="way" v="-1" />
+    <tag id="41499098" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="41499098" k="highway" o="none" type="way" v="secondary" />
+    <tag id="41499098" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41499098" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="41499098" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="41499098" k="maxheight" o="none" type="way" v="14'10&quot;" />
+    <tag id="41499098" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="41499098" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="41499098" k="tiger:name_base" o="none" type="way" v="Liberty Park" />
+    <tag id="41499098" k="tiger:name_type" o="none" type="way" v="Pl" />
+    <tag id="41499099" k="name" o="none" type="way" v="South Perry Street" />
+    <tag id="41499099" k="lanes" o="add" type="way" v="2" />
+    <tag id="41499099" k="highway" o="none" type="way" v="secondary" />
+    <tag id="41499099" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41499099" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="41499099" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="41499099" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="43675094" k="name" o="none" type="way" v="East Liberty Park Place" />
+    <tag id="43675094" k="lanes" o="add" type="way" v="2" />
+    <tag id="43675094" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="43675094" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="43675094" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="43675094" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="43675094" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="139496758" k="name" o="none" type="way" v="South Custer Road" />
+    <tag id="139496758" k="highway" o="none" type="way" v="residential" />
+    <tag id="139496758" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="139496758" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="139496758" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="139496758" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="139496758" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="139496758" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="139496758" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="139496758" k="tiger:name_base" o="none" type="way" v="Custer" />
+    <tag id="139496758" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="139496758" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="139496758" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="139496758" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="139496758" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="178672224" k="name" o="none" type="way" v="East 4th Avenue" />
+    <tag id="178672224" k="lanes" o="add" type="way" v="1" />
+    <tag id="178672224" k="oneway" o="none" type="way" v="yes" />
+    <tag id="178672224" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="178672224" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="178672224" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="178672224" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="178672224" k="tiger:name_base" o="none" type="way" v="4th" />
+    <tag id="178672224" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="178672224" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="207400521" k="name" o="none" type="way" v="South Park Road" />
+    <tag id="207400521" k="lanes" o="add" type="way" v="2" />
+    <tag id="207400521" k="highway" o="none" type="way" v="secondary" />
+    <tag id="207400521" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="207400521" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="207400521" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="207400521" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="207400521" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="207400521" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="207400521" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="207400521" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="207400521" k="tiger:name_base" o="none" type="way" v="Park" />
+    <tag id="207400521" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="207400521" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="207400521" k="tiger:zip_left_1" o="none" type="way" v="99212" />
+    <tag id="207400521" k="tiger:zip_right_1" o="none" type="way" v="99212" />
+    <tag id="207400521" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="309621601" k="fee" o="add" type="way" v="yes" />
+    <tag id="309621601" k="access" o="add" type="way" v="customers" />
+    <tag id="309621601" k="amenity" o="none" type="way" v="parking" />
+    <tag id="309621601" k="parking" o="none" type="way" v="surface" />
+    <tag id="309621601" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="309621601" k="operator" o="add" type="way" v="Diamond" />
+    <tag id="339199998" k="name" o="add" type="way" v="AutoNation Chevrolet Spokane Valley" />
+    <tag id="339199998" k="shop" o="add" type="way" v="car" />
+    <tag id="339199998" k="brand" o="add" type="way" v="Chevrolet" />
+    <tag id="339199998" k="building" o="modify" type="way" v="retail" />
+    <tag id="373534211" k="building" o="none" type="way" v="retail" />
+    <tag id="373534211" k="addr:city" o="add" type="way" v="Spokane" />
+    <tag id="373534211" k="addr:state" o="add" type="way" v="WA" />
+    <tag id="373534211" k="addr:street" o="add" type="way" v="North Division Street" />
+    <tag id="373534211" k="addr:housenumber" o="add" type="way" v="1233" />
+    <tag id="434338295" k="name" o="add" type="way" v="Glad Tidings Church" />
+    <tag id="434338295" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="434338295" k="building" o="none" type="way" v="church" />
+    <tag id="434338295" k="religion" o="none" type="way" v="christian" />
+    <tag id="446028280" k="name" o="none" type="way" v="East 4th Avenue" />
+    <tag id="446028280" k="lanes" o="add" type="way" v="2" />
+    <tag id="446028280" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="446028280" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="446028280" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="446028280" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="446028280" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="446028280" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="446028280" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="446028280" k="tiger:name_base" o="none" type="way" v="4th" />
+    <tag id="446028280" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="446028280" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="446028280" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="446028280" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="446028472" k="name" o="none" type="way" v="East Heacox Avenue" />
+    <tag id="446028472" k="lanes" o="add" type="way" v="2" />
+    <tag id="446028472" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="446028472" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="446028472" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="446028472" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="446028472" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="446028472" k="tiger:zip_left" o="none" type="way" v="99212" />
+    <tag id="446028472" k="tiger:zip_right" o="none" type="way" v="99212" />
+    <tag id="446028475" k="name" o="none" type="way" v="East 4th Avenue" />
+    <tag id="446028475" k="highway" o="none" type="way" v="residential" />
+    <tag id="446028475" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="446028475" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="446028475" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="446028475" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="446028475" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="446028475" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="446607565" k="name" o="none" type="way" v="East Sprague Avenue" />
+    <tag id="446607565" k="lanes" o="add" type="way" v="4" />
+    <tag id="446607565" k="highway" o="none" type="way" v="secondary" />
+    <tag id="446607565" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="446607565" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="446607565" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="446607565" k="maxheight" o="none" type="way" v="13'7&quot;" />
+    <tag id="446607565" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="446607565" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="446607565" k="tiger:zip_left" o="none" type="way" v="99016" />
+    <tag id="446607565" k="tiger:name_base" o="none" type="way" v="Sprague" />
+    <tag id="446607565" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="446607565" k="tiger:zip_right" o="none" type="way" v="99016" />
+    <tag id="446607565" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="449587181" k="name" o="none" type="way" v="Riverside" />
+    <tag id="449587181" k="place" o="none" type="way" v="neighbourhood" />
+    <tag id="449587181" k="alt_name" o="none" type="way" v="Downtown" />
+    <tag id="456137387" k="name" o="none" type="way" v="West Sprague Avenue" />
+    <tag id="456137387" k="lanes" o="none" type="way" v="4" />
+    <tag id="456137387" k="highway" o="none" type="way" v="primary" />
+    <tag id="456137387" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="456137387" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="456137387" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="456137387" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="456137387" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="456137387" k="tiger:zip_left" o="none" type="way" v="99201" />
+    <tag id="456137387" k="tiger:name_base" o="none" type="way" v="Sprague" />
+    <tag id="456137387" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="456137387" k="tiger:zip_right" o="none" type="way" v="99201" />
+    <tag id="456137387" k="parking:lane:both" o="none" type="way" v="parallel" />
+    <tag id="456137387" k="parking:condition:both" o="none" type="way" v="ticket" />
+    <tag id="456137387" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="456137389" k="name" o="none" type="way" v="West Riverside Avenue" />
+    <tag id="456137389" k="lanes" o="none" type="way" v="4" />
+    <tag id="456137389" k="highway" o="none" type="way" v="secondary" />
+    <tag id="456137389" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="456137389" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="456137389" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="456137389" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="456137389" k="tiger:county" o="none" type="way" v="Spokane, WA" />
+    <tag id="456137389" k="tiger:zip_left" o="none" type="way" v="99201" />
+    <tag id="456137389" k="tiger:name_base" o="none" type="way" v="Riverside" />
+    <tag id="456137389" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="456137389" k="tiger:zip_right" o="none" type="way" v="99201" />
+    <tag id="456137389" k="parking:lane:both" o="none" type="way" v="parallel" />
+    <tag id="456137389" k="parking:condition:both" o="none" type="way" v="ticket" />
+    <tag id="456137389" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="458017332" k="highway" o="add" type="way" v="service" />
+    <tag id="458017332" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458017333" k="highway" o="add" type="way" v="service" />
+    <tag id="458017333" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458017334" k="lanes" o="add" type="way" v="1" />
+    <tag id="458017334" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458017334" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="458017334" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458017334" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="458017334" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="458017335" k="name" o="add" type="way" v="ADM Mix Plant" />
+    <tag id="458017335" k="building" o="add" type="way" v="industrial" />
+    <tag id="458017336" k="name" o="add" type="way" v="South Madelia Street" />
+    <tag id="458017336" k="lanes" o="add" type="way" v="2" />
+    <tag id="458017336" k="highway" o="add" type="way" v="residential" />
+    <tag id="458017336" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458017336" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458017336" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458017336" k="tiger:county" o="add" type="way" v="Spokane, WA" />
+    <tag id="458017336" k="tiger:zip_left" o="add" type="way" v="99202" />
+    <tag id="458017337" k="name" o="add" type="way" v="East 4th Avenue" />
+    <tag id="458017337" k="lanes" o="add" type="way" v="2" />
+    <tag id="458017337" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="458017337" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458017337" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458017337" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="458017337" k="tiger:county" o="add" type="way" v="Spokane, WA" />
+    <tag id="458017337" k="tiger:zip_left" o="add" type="way" v="99202" />
+    <tag id="458017337" k="tiger:zip_right" o="add" type="way" v="99202" />
+    <tag id="458017338" k="name" o="add" type="way" v="South Pittsburg Street" />
+    <tag id="458017338" k="highway" o="add" type="way" v="residential" />
+    <tag id="458017338" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="458017338" k="tiger:county" o="add" type="way" v="Spokane, WA" />
+    <tag id="458017338" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="458017338" k="tiger:zip_left" o="add" type="way" v="99202" />
+    <tag id="458017338" k="tiger:name_base" o="add" type="way" v="Pittsburg" />
+    <tag id="458017338" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="458017338" k="tiger:name_direction_prefix" o="add" type="way" v="S" />
+    <tag id="458017339" k="ele" o="add" type="way" v="580" />
+    <tag id="458017339" k="name" o="add" type="way" v="East Central Community Center" />
+    <tag id="458017339" k="amenity" o="add" type="way" v="community_centre" />
+    <tag id="458017339" k="website" o="add" type="way" v="http://www.ecspokane.org/" />
+    <tag id="458017339" k="building" o="add" type="way" v="yes" />
+    <tag id="458017339" k="gnis:created" o="add" type="way" v="09/10/1979" />
+    <tag id="458017339" k="gnis:state_id" o="add" type="way" v="53" />
+    <tag id="458017339" k="gnis:county_id" o="add" type="way" v="063" />
+    <tag id="458017339" k="gnis:feature_id" o="add" type="way" v="1504654" />
+    <tag id="458017340" k="name" o="add" type="way" v="Rocket Automotive Repair" />
+    <tag id="458017340" k="shop" o="add" type="way" v="car_repair" />
+    <tag id="458017340" k="building" o="add" type="way" v="yes" />
+    <tag id="458017341" k="name" o="add" type="way" v="Reboot Computer Repair &amp; Espresso" />
+    <tag id="458017341" k="building" o="add" type="way" v="retail" />
+    <tag id="458017342" k="brand" o="add" type="way" v="Fred Meyer" />
+    <tag id="458017342" k="amenity" o="add" type="way" v="fuel" />
+    <tag id="458017342" k="building" o="add" type="way" v="roof" />
+    <tag id="458017343" k="name" o="add" type="way" v="Spokane Home Builders Association" />
+    <tag id="458017343" k="building" o="add" type="way" v="commercial" />
+    <tag id="458017344" k="name" o="add" type="way" v="Franz Bakery" />
+    <tag id="458017344" k="building" o="add" type="way" v="warehouse" />
+    <tag id="458017345" k="name" o="add" type="way" v="Trailer Inns RV Park" />
+    <tag id="458017345" k="tourism" o="add" type="way" v="caravan_site" />
+    <tag id="458017346" k="name" o="add" type="way" v="East 4th Avenue" />
+    <tag id="458017346" k="lanes" o="add" type="way" v="2" />
+    <tag id="458017346" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="458017346" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="458017346" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="458017346" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="458017346" k="tiger:county" o="add" type="way" v="Spokane, WA" />
+    <tag id="458017346" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="458017346" k="parking:condition:both" o="add" type="way" v="free" />
+    <tag id="458017347" k="name" o="add" type="way" v="Catherine Johnson Court" />
+    <tag id="458017347" k="building" o="add" type="way" v="apartments" />
+    <tag id="458017348" k="building" o="add" type="way" v="school" />
+    <tag id="458017349" k="building" o="add" type="way" v="school" />
+    <tag id="458017350" k="building" o="add" type="way" v="school" />
+    <tag id="458017351" k="ele" o="add" type="way" v="609" />
+    <tag id="458017351" k="name" o="add" type="way" v="Eagle Peak School" />
+    <tag id="458017351" k="amenity" o="add" type="way" v="school" />
+    <tag id="458017351" k="gnis:created" o="add" type="way" v="12/31/1992" />
+    <tag id="458017351" k="gnis:state_id" o="add" type="way" v="53" />
+    <tag id="458017351" k="gnis:county_id" o="add" type="way" v="063" />
+    <tag id="458017351" k="gnis:feature_id" o="add" type="way" v="1531076" />
+    <tag id="458017352" k="name" o="add" type="way" v="River City Glass" />
+    <tag id="458017352" k="building" o="add" type="way" v="industrial" />
+    <tag id="458017353" k="building" o="add" type="way" v="industrial" />
+    <tag id="458017354" k="building" o="add" type="way" v="industrial" />
+    <tag id="458017355" k="name" o="add" type="way" v="Solid Waste Systems" />
+    <tag id="458017355" k="building" o="add" type="way" v="industrial" />
+    <tag id="458017356" k="building" o="add" type="way" v="industrial" />
+    <tag id="458017356" k="addr:city" o="add" type="way" v="Spokane Valley" />
+    <tag id="458017356" k="addr:state" o="add" type="way" v="WA" />
+    <tag id="458017356" k="addr:street" o="add" type="way" v="North Thierman Road" />
+    <tag id="458017356" k="addr:housenumber" o="add" type="way" v="409" />
+  </body>
+</changeset>

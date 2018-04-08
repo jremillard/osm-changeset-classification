@@ -1,0 +1,603 @@
+<changeset id="44339199" schema="2">
+  <counts nodesAdded="6" nodesDeleted="0" nodesModified="32" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="11" waysDeleted="0" waysModified="35" />
+  <meta>
+    <tag k="comment" v="sidewalks, crossings, alignment, misc" />
+    <tag k="created_by" v="JOSM/1.5 (10786 en)" />
+    <tag k="source" v="Bing; Mapillary" />
+  </meta>
+  <body>
+    <tag id="53056102" k="highway" o="none" type="node" v="stop" />
+    <tag id="53106443" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="53106443" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="53106458" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="53106458" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="53124567" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="53124567" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="260521916" k="highway" o="none" type="node" v="crossing" />
+    <tag id="260521916" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="260521917" k="highway" o="none" type="node" v="crossing" />
+    <tag id="260521917" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="280699441" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="280699441" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="283261530" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="283261530" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="283261581" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="283261581" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="283261585" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="283261585" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="283261586" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="283261586" k="traffic_signals:sound" o="none" type="node" v="yes" />
+    <tag id="1237053675" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060513" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237060514" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060514" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060517" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237060518" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060518" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060520" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060520" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060521" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060521" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060522" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060522" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060523" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060523" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060525" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060525" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060526" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060526" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060527" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060527" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060529" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060529" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060533" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060533" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060534" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060534" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060539" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060539" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060542" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060542" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060545" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060545" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060547" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237060549" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060549" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060556" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060556" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060558" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060558" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237060561" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237060562" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060564" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237060564" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237060566" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237062758" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062758" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237062759" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237062761" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062761" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237062762" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062762" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237062764" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062764" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237062766" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062766" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237062768" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062768" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237062771" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062771" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237062772" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062772" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="1237062773" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062773" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237062775" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062775" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237062776" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1237062776" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1237062777" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="1237062778" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="2184578208" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="2240045669" k="highway" o="none" type="node" v="stop" />
+    <tag id="2240045671" k="highway" o="none" type="node" v="stop" />
+    <tag id="2285146647" k="highway" o="none" type="node" v="stop" />
+    <tag id="2285146648" k="highway" o="none" type="node" v="stop" />
+    <tag id="2356914391" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="2356914392" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="2356914395" k="traffic_calming" o="none" type="node" v="hump" />
+    <tag id="4419821452" k="highway" o="none" type="node" v="stop" />
+    <tag id="6338462" k="name" o="none" type="way" v="Herzog Street" />
+    <tag id="6338462" k="highway" o="none" type="way" v="residential" />
+    <tag id="6338462" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6338462" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6338462" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6338462" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6338462" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6338462" k="tiger:name_base" o="none" type="way" v="Herzog" />
+    <tag id="6338462" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6338462" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6346287" k="name" o="none" type="way" v="Idaho Street" />
+    <tag id="6346287" k="highway" o="none" type="way" v="residential" />
+    <tag id="6346287" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6346287" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6346287" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6346287" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6346287" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6346287" k="tiger:name_base" o="none" type="way" v="Idaho" />
+    <tag id="6346287" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6346287" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6348489" k="name" o="none" type="way" v="61st Street" />
+    <tag id="6348489" k="highway" o="none" type="way" v="residential" />
+    <tag id="6348489" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6348489" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6348489" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6348489" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6348489" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6348489" k="tiger:name_base" o="none" type="way" v="61st" />
+    <tag id="6348489" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6348489" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6350347" k="name" o="none" type="way" v="62nd Street" />
+    <tag id="6350347" k="highway" o="none" type="way" v="residential" />
+    <tag id="6350347" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6350347" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6350347" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6350347" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6350347" k="tiger:name_base" o="none" type="way" v="62nd" />
+    <tag id="6350347" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6350347" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6350360" k="name" o="none" type="way" v="62nd Street" />
+    <tag id="6350360" k="highway" o="none" type="way" v="residential" />
+    <tag id="6350360" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="6350360" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6350360" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6350360" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6350360" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6350360" k="tiger:zip_left" o="none" type="way" v="94703" />
+    <tag id="6350360" k="tiger:name_base" o="none" type="way" v="62nd" />
+    <tag id="6350360" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6350360" k="tiger:zip_right" o="none" type="way" v="94703" />
+    <tag id="6364907" k="name" o="none" type="way" v="63rd Street" />
+    <tag id="6364907" k="highway" o="none" type="way" v="residential" />
+    <tag id="6364907" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="6364907" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6364907" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6364907" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6364907" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6364907" k="tiger:zip_left" o="none" type="way" v="94703" />
+    <tag id="6364907" k="tiger:name_base" o="none" type="way" v="63rd" />
+    <tag id="6364907" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6364907" k="tiger:zip_right" o="none" type="way" v="94703" />
+    <tag id="6366278" k="name" o="none" type="way" v="60th Street" />
+    <tag id="6366278" k="highway" o="none" type="way" v="residential" />
+    <tag id="6366278" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6366278" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6366278" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6366278" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6366278" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6366278" k="tiger:name_base" o="none" type="way" v="60th" />
+    <tag id="6366278" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6366278" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6370997" k="name" o="none" type="way" v="Los Angeles Street" />
+    <tag id="6370997" k="highway" o="none" type="way" v="residential" />
+    <tag id="6370997" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6370997" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6370997" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6370997" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6370997" k="tiger:name_base" o="none" type="way" v="Los Angeles" />
+    <tag id="6370997" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6370997" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6385403" k="name" o="none" type="way" v="59th Street" />
+    <tag id="6385403" k="highway" o="none" type="way" v="residential" />
+    <tag id="6385403" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6385403" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6385403" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6385403" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6385403" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6385403" k="tiger:name_base" o="none" type="way" v="59th" />
+    <tag id="6385403" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6385403" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6385430" k="name" o="none" type="way" v="59th Street" />
+    <tag id="6385430" k="name_1" o="none" type="way" v="Doyle Street" />
+    <tag id="6385430" k="highway" o="none" type="way" v="residential" />
+    <tag id="6385430" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6385430" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6385430" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6385430" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6385430" k="tiger:name_base" o="none" type="way" v="59th" />
+    <tag id="6385430" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6385430" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="6385430" k="tiger:zip_left_1" o="none" type="way" v="94608" />
+    <tag id="6385430" k="tiger:name_base_1" o="none" type="way" v="Doyle" />
+    <tag id="6385430" k="tiger:name_type_1" o="none" type="way" v="St" />
+    <tag id="6385430" k="tiger:zip_right_1" o="none" type="way" v="94608" />
+    <tag id="6399562" k="name" o="none" type="way" v="61st Place" />
+    <tag id="6399562" k="highway" o="none" type="way" v="residential" />
+    <tag id="6399562" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="6399562" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6399562" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="6399562" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6399562" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="6399562" k="tiger:name_base" o="none" type="way" v="61st" />
+    <tag id="6399562" k="tiger:name_type" o="none" type="way" v="Pl" />
+    <tag id="6399562" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="10619336" k="name" o="none" type="way" v="61st Street" />
+    <tag id="10619336" k="highway" o="none" type="way" v="residential" />
+    <tag id="10619336" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="10619336" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10619336" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="10619336" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10619336" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="10619336" k="tiger:name_base" o="none" type="way" v="61st" />
+    <tag id="10619336" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10619342" k="name" o="none" type="way" v="60th Street" />
+    <tag id="10619342" k="highway" o="none" type="way" v="residential" />
+    <tag id="10619342" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="10619342" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10619342" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="10619342" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10619342" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="10619342" k="tiger:name_base" o="none" type="way" v="60th" />
+    <tag id="10619342" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10619342" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="10722651" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="10722651" k="name_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="10722651" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10722651" k="highway" o="none" type="way" v="secondary" />
+    <tag id="10722651" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="10722651" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="10722651" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10722651" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="10722651" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10722651" k="tiger:name_base" o="none" type="way" v="Stanford" />
+    <tag id="10722651" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="10722651" k="tiger:name_base_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="24606482" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="24606482" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24606482" k="highway" o="none" type="way" v="secondary" />
+    <tag id="24606482" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="24606482" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="24606482" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="24606482" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="24606482" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="24606482" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="24606482" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="24606482" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="24606482" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="24606482" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="135626961" k="amenity" o="none" type="way" v="parking" />
+    <tag id="135626961" k="parking" o="add" type="way" v="surface" />
+    <tag id="166755305" k="lcn" o="none" type="way" v="yes" />
+    <tag id="166755305" k="name" o="none" type="way" v="61st Street" />
+    <tag id="166755305" k="highway" o="none" type="way" v="residential" />
+    <tag id="166755305" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="166755305" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="166755305" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="166755305" k="cycleway:left" o="add" type="way" v="shared_lane" />
+    <tag id="166755305" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="166755305" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="166755305" k="tiger:name_base" o="none" type="way" v="61st" />
+    <tag id="166755305" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="166755306" k="name" o="none" type="way" v="61st Street" />
+    <tag id="166755306" k="highway" o="none" type="way" v="residential" />
+    <tag id="166755306" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="166755306" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="166755306" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="166755306" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="166755306" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="166755306" k="tiger:name_base" o="none" type="way" v="61st" />
+    <tag id="166755306" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="188858633" k="name" o="none" type="way" v="Lowell Street" />
+    <tag id="188858633" k="highway" o="none" type="way" v="residential" />
+    <tag id="188858633" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="188858633" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="188858633" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="188858633" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="188858633" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="188858633" k="tiger:name_base" o="none" type="way" v="Lowell" />
+    <tag id="188858633" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="202485375" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="202485375" k="name_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="202485375" k="oneway" o="none" type="way" v="yes" />
+    <tag id="202485375" k="highway" o="none" type="way" v="secondary" />
+    <tag id="202485375" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="202485375" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="202485375" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="202485375" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="202485375" k="tiger:name_base" o="none" type="way" v="Stanford" />
+    <tag id="202485375" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="202485375" k="tiger:name_base_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="208136581" k="name" o="none" type="way" v="62nd Street" />
+    <tag id="208136581" k="highway" o="none" type="way" v="residential" />
+    <tag id="208136581" k="maxspeed" o="none" type="way" v="25 mph" />
+    <tag id="208136581" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="208136581" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="208136581" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="208136581" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="208136581" k="tiger:zip_left" o="none" type="way" v="94703" />
+    <tag id="208136581" k="tiger:name_base" o="none" type="way" v="62nd" />
+    <tag id="208136581" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="208136581" k="tiger:zip_right" o="none" type="way" v="94703" />
+    <tag id="415880899" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880899" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880899" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880899" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415880899" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880899" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880899" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="415880899" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880899" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880899" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="415880899" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="415880899" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="415880899" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="415880900" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880900" k="name_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="415880900" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880900" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880900" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880900" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880900" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="415880900" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880900" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880900" k="tiger:name_base" o="none" type="way" v="Stanford" />
+    <tag id="415880900" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="415880900" k="tiger:name_base_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="415880901" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880901" k="name_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="415880901" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880901" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880901" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880901" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880901" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="415880901" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880901" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880901" k="tiger:name_base" o="none" type="way" v="Stanford" />
+    <tag id="415880901" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="415880901" k="tiger:name_base_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="415880902" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880902" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880902" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880902" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415880902" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880902" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880902" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="415880902" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880902" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880902" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="415880902" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="415880902" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="415880902" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="415880903" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880903" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880903" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880903" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415880903" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880903" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880903" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880903" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880903" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="415880903" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="415880903" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="415880903" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="415880904" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880904" k="name_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="415880904" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880904" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880904" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880904" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880904" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880904" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880904" k="tiger:name_base" o="none" type="way" v="Stanford" />
+    <tag id="415880904" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="415880904" k="tiger:name_base_1" o="none" type="way" v="Union Pacific Railroad" />
+    <tag id="415880905" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="415880905" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415880905" k="highway" o="none" type="way" v="secondary" />
+    <tag id="415880905" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415880905" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="415880905" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="415880905" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="415880905" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="415880905" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="415880905" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="415880905" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="415880905" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="415883939" k="hgv" o="none" type="way" v="designated" />
+    <tag id="415883939" k="ref" o="none" type="way" v="CA 123" />
+    <tag id="415883939" k="foot" o="none" type="way" v="yes" />
+    <tag id="415883939" k="name" o="none" type="way" v="San Pablo Avenue" />
+    <tag id="415883939" k="lanes" o="none" type="way" v="3" />
+    <tag id="415883939" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415883939" k="highway" o="none" type="way" v="primary" />
+    <tag id="415883939" k="old_ref" o="none" type="way" v="US 40" />
+    <tag id="415883939" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415883939" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="415883939" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="415883939" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="415883939" k="utility_wires" o="none" type="way" v="underground" />
+    <tag id="415883939" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="415883939" k="source:hgv:state_network" o="none" type="way" v="Caltrans http://www.dot.ca.gov/hq/traffops/trucks/truckmap/" />
+    <tag id="415883974" k="hgv" o="none" type="way" v="designated" />
+    <tag id="415883974" k="ref" o="none" type="way" v="CA 123" />
+    <tag id="415883974" k="foot" o="none" type="way" v="yes" />
+    <tag id="415883974" k="name" o="none" type="way" v="San Pablo Avenue" />
+    <tag id="415883974" k="lanes" o="none" type="way" v="2" />
+    <tag id="415883974" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415883974" k="highway" o="none" type="way" v="primary" />
+    <tag id="415883974" k="old_ref" o="none" type="way" v="US 40" />
+    <tag id="415883974" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415883974" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="415883974" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="415883974" k="utility_wires" o="none" type="way" v="underground" />
+    <tag id="415883974" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="415883974" k="source:hgv:state_network" o="none" type="way" v="Caltrans http://www.dot.ca.gov/hq/traffops/trucks/truckmap/" />
+    <tag id="415883976" k="hgv" o="none" type="way" v="designated" />
+    <tag id="415883976" k="ref" o="none" type="way" v="CA 123" />
+    <tag id="415883976" k="foot" o="none" type="way" v="yes" />
+    <tag id="415883976" k="name" o="none" type="way" v="San Pablo Avenue" />
+    <tag id="415883976" k="lanes" o="none" type="way" v="2" />
+    <tag id="415883976" k="oneway" o="none" type="way" v="yes" />
+    <tag id="415883976" k="highway" o="none" type="way" v="primary" />
+    <tag id="415883976" k="old_ref" o="none" type="way" v="US 40" />
+    <tag id="415883976" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="415883976" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="415883976" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="415883976" k="utility_wires" o="none" type="way" v="underground" />
+    <tag id="415883976" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="415883976" k="source:hgv:state_network" o="none" type="way" v="Caltrans http://www.dot.ca.gov/hq/traffops/trucks/truckmap/" />
+    <tag id="416112047" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="416112047" k="oneway" o="none" type="way" v="yes" />
+    <tag id="416112047" k="highway" o="none" type="way" v="secondary" />
+    <tag id="416112047" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="416112047" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="416112047" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416112047" k="turn:lanes" o="none" type="way" v="left||" />
+    <tag id="416112047" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="416112047" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="416112047" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="416112047" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="416112047" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416112047" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="416112058" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="416112058" k="oneway" o="none" type="way" v="yes" />
+    <tag id="416112058" k="highway" o="none" type="way" v="secondary" />
+    <tag id="416112058" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="416112058" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="416112058" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416112058" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="416112058" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="416112058" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="416112058" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="416112058" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416112058" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="416112063" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="416112063" k="oneway" o="none" type="way" v="yes" />
+    <tag id="416112063" k="highway" o="none" type="way" v="secondary" />
+    <tag id="416112063" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="416112063" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="416112063" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416112063" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="416112063" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="416112063" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="416112063" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="416112063" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416112063" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="416112068" k="name" o="none" type="way" v="Stanford Avenue" />
+    <tag id="416112068" k="oneway" o="none" type="way" v="yes" />
+    <tag id="416112068" k="highway" o="none" type="way" v="secondary" />
+    <tag id="416112068" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="416112068" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="416112068" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="416112068" k="tiger:county" o="none" type="way" v="Alameda, CA" />
+    <tag id="416112068" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="416112068" k="tiger:zip_left" o="none" type="way" v="94608" />
+    <tag id="416112068" k="tiger:name_base" o="none" type="way" v="Adeline" />
+    <tag id="416112068" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="416112068" k="tiger:zip_right" o="none" type="way" v="94608" />
+    <tag id="459128834" k="name" o="add" type="way" v="59th Street" />
+    <tag id="459128834" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128834" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="459128834" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128834" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128834" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128834" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128834" k="tiger:name_base" o="add" type="way" v="59th" />
+    <tag id="459128834" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128834" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128839" k="name" o="add" type="way" v="60th Street" />
+    <tag id="459128839" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128839" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="459128839" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128839" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128839" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128839" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128839" k="tiger:name_base" o="add" type="way" v="60th" />
+    <tag id="459128839" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128839" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128844" k="name" o="add" type="way" v="60th Street" />
+    <tag id="459128844" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128844" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="459128844" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128844" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128844" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128844" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128844" k="tiger:name_base" o="add" type="way" v="60th" />
+    <tag id="459128844" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128844" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128849" k="name" o="add" type="way" v="61st Street" />
+    <tag id="459128849" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128849" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="459128849" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128849" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128849" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128849" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128849" k="tiger:name_base" o="add" type="way" v="61st" />
+    <tag id="459128849" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128849" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128853" k="lcn" o="add" type="way" v="yes" />
+    <tag id="459128853" k="name" o="add" type="way" v="61st Street" />
+    <tag id="459128853" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128853" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="459128853" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128853" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128853" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128853" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128853" k="tiger:name_base" o="add" type="way" v="61st" />
+    <tag id="459128853" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128857" k="name" o="add" type="way" v="61st Street" />
+    <tag id="459128857" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128857" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128857" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128857" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128857" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128857" k="tiger:name_base" o="add" type="way" v="61st" />
+    <tag id="459128857" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128857" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128858" k="name" o="add" type="way" v="63rd Street" />
+    <tag id="459128858" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128858" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="459128858" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="459128858" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128858" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128858" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128858" k="tiger:zip_left" o="add" type="way" v="94703" />
+    <tag id="459128858" k="tiger:name_base" o="add" type="way" v="63rd" />
+    <tag id="459128858" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128858" k="tiger:zip_right" o="add" type="way" v="94703" />
+    <tag id="459128859" k="name" o="add" type="way" v="Los Angeles Street" />
+    <tag id="459128859" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128859" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="459128859" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128859" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128859" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128859" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128859" k="tiger:name_base" o="add" type="way" v="Los Angeles" />
+    <tag id="459128859" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128859" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128860" k="name" o="add" type="way" v="Lowell Street" />
+    <tag id="459128860" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128860" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="459128860" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="459128860" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128860" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128860" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128860" k="tiger:name_base" o="add" type="way" v="Lowell" />
+    <tag id="459128860" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128861" k="name" o="add" type="way" v="Occidental Street" />
+    <tag id="459128861" k="name_1" o="add" type="way" v="Doyle Street" />
+    <tag id="459128861" k="highway" o="add" type="way" v="residential" />
+    <tag id="459128861" k="alt_name" o="add" type="way" v="59th Street" />
+    <tag id="459128861" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="459128861" k="tiger:county" o="add" type="way" v="Alameda, CA" />
+    <tag id="459128861" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="459128861" k="tiger:zip_left" o="add" type="way" v="94608" />
+    <tag id="459128861" k="tiger:name_base" o="add" type="way" v="59th" />
+    <tag id="459128861" k="tiger:name_type" o="add" type="way" v="St" />
+    <tag id="459128861" k="tiger:zip_right" o="add" type="way" v="94608" />
+    <tag id="459128861" k="tiger:zip_left_1" o="add" type="way" v="94608" />
+    <tag id="459128861" k="tiger:name_base_1" o="add" type="way" v="Doyle" />
+    <tag id="459128861" k="tiger:name_type_1" o="add" type="way" v="St" />
+    <tag id="459128861" k="tiger:zip_right_1" o="add" type="way" v="94608" />
+    <tag id="459128862" k="highway" o="add" type="way" v="footway" />
+  </body>
+</changeset>

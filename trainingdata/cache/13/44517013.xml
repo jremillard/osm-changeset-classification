@@ -1,0 +1,401 @@
+<changeset id="44517013" schema="2">
+  <counts nodesAdded="94" nodesDeleted="1" nodesModified="0" relationsAdded="14" relationsDeleted="4" relationsModified="11" waysAdded="24" waysDeleted="0" waysModified="26" />
+  <meta>
+    <tag k="comment" v="I added turn restrictions and oneways." />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="Bing, MapBox" />
+  </meta>
+  <body>
+    <tag id="415853007" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1520363221" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="1520363226" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="26559919" k="name" o="none" type="way" v="184 Street" />
+    <tag id="26559919" k="highway" o="none" type="way" v="secondary" />
+    <tag id="35456673" k="name" o="none" type="way" v="68 Avenue" />
+    <tag id="35456673" k="is_in" o="none" type="way" v="Surrey,British Columbia" />
+    <tag id="35456673" k="lanes" o="none" type="way" v="2" />
+    <tag id="35456673" k="source" o="none" type="way" v="Geobase_Import_2009" />
+    <tag id="35456673" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="35456673" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="35456673" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="72822353" k="source" o="none" type="way" v="GeobaseNHN_Import_2009" />
+    <tag id="72822353" k="accuracy" o="none" type="way" v="10" />
+    <tag id="72822353" k="waterway" o="none" type="way" v="stream" />
+    <tag id="72822353" k="attribution" o="none" type="way" v="Natural Resources Canada" />
+    <tag id="91997971" k="hgv" o="none" type="way" v="designated" />
+    <tag id="91997971" k="name" o="none" type="way" v="160 Street" />
+    <tag id="91997971" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="91997971" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="138653964" k="name" o="add" type="way" v="184 Street" />
+    <tag id="138653964" k="lanes" o="none" type="way" v="2" />
+    <tag id="138653964" k="highway" o="none" type="way" v="residential" />
+    <tag id="138654064" k="name" o="none" type="way" v="184 Street" />
+    <tag id="138654064" k="lanes" o="none" type="way" v="2" />
+    <tag id="138654064" k="oneway" o="add" type="way" v="yes" />
+    <tag id="138654064" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="138654064" k="highway" o="none" type="way" v="secondary" />
+    <tag id="138654064" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="138654064" k="gritting" o="none" type="way" v="priority_1" />
+    <tag id="138654064" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="138654064" k="maintenance" o="none" type="way" v="gritting" />
+    <tag id="138654064" k="surrey:geodb_oid" o="none" type="way" v="9231" />
+    <tag id="138654064" k="gritting_operator" o="none" type="way" v="City of Surrey" />
+    <tag id="138659512" k="name" o="none" type="way" v="184 Street" />
+    <tag id="138659512" k="lanes" o="none" type="way" v="2" />
+    <tag id="138659512" k="oneway" o="add" type="way" v="yes" />
+    <tag id="138659512" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="138659512" k="highway" o="none" type="way" v="secondary" />
+    <tag id="138659512" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="138659512" k="gritting" o="none" type="way" v="priority_1" />
+    <tag id="138659512" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="138659512" k="maintenance" o="none" type="way" v="gritting" />
+    <tag id="138659512" k="surrey:geodb_oid" o="none" type="way" v="8856" />
+    <tag id="138659512" k="gritting_operator" o="none" type="way" v="City of Surrey" />
+    <tag id="138659765" k="name" o="none" type="way" v="70 Avenue" />
+    <tag id="138659765" k="lanes" o="none" type="way" v="2" />
+    <tag id="138659765" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="138659765" k="highway" o="none" type="way" v="residential" />
+    <tag id="138659765" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="138659765" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="138659765" k="surrey:geodb_oid" o="none" type="way" v="7771" />
+    <tag id="276842346" k="hgv" o="none" type="way" v="designated" />
+    <tag id="276842346" k="lit" o="none" type="way" v="yes" />
+    <tag id="276842346" k="name" o="none" type="way" v="Fraser Highway" />
+    <tag id="276842346" k="lanes" o="none" type="way" v="4" />
+    <tag id="276842346" k="hazmat" o="none" type="way" v="designated" />
+    <tag id="276842346" k="source" o="none" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="276842346" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="276842346" k="highway" o="none" type="way" v="primary" />
+    <tag id="276842346" k="old_ref" o="none" type="way" v="1A" />
+    <tag id="276842346" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="276842346" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="276842346" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="322367591" k="lanes" o="none" type="way" v="1" />
+    <tag id="322367591" k="oneway" o="none" type="way" v="yes" />
+    <tag id="322367591" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="322367591" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="322367593" k="lanes" o="none" type="way" v="1" />
+    <tag id="322367593" k="oneway" o="none" type="way" v="yes" />
+    <tag id="322367593" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="322367593" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="322370845" k="highway" o="none" type="way" v="service" />
+    <tag id="322371391" k="lanes" o="none" type="way" v="1" />
+    <tag id="322371391" k="oneway" o="none" type="way" v="yes" />
+    <tag id="322371391" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="322371391" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="372378494" k="name" o="none" type="way" v="160 Street" />
+    <tag id="372378494" k="oneway" o="none" type="way" v="no" />
+    <tag id="372378494" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="372385776" k="name" o="none" type="way" v="164 Street" />
+    <tag id="372385776" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="372385776" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="453896212" k="hgv" o="none" type="way" v="designated" />
+    <tag id="453896212" k="name" o="none" type="way" v="Fraser Highway" />
+    <tag id="453896212" k="lanes" o="none" type="way" v="2" />
+    <tag id="453896212" k="hazmat" o="none" type="way" v="designated" />
+    <tag id="453896212" k="oneway" o="none" type="way" v="yes" />
+    <tag id="453896212" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="453896212" k="highway" o="none" type="way" v="primary" />
+    <tag id="453896212" k="old_ref" o="none" type="way" v="1A" />
+    <tag id="453896212" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="453896212" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="453896214" k="foot" o="none" type="way" v="yes" />
+    <tag id="453896214" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="453896215" k="lit" o="none" type="way" v="yes" />
+    <tag id="453896215" k="width" o="none" type="way" v="1.5" />
+    <tag id="453896215" k="highway" o="none" type="way" v="footway" />
+    <tag id="453896215" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="458287060" k="name" o="none" type="way" v="184 Street" />
+    <tag id="458287060" k="lanes" o="none" type="way" v="2" />
+    <tag id="458287060" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458287060" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="458287060" k="highway" o="none" type="way" v="secondary" />
+    <tag id="458287060" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="458287060" k="gritting" o="none" type="way" v="priority_1" />
+    <tag id="458287060" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="458287060" k="maintenance" o="none" type="way" v="gritting" />
+    <tag id="458287060" k="surrey:geodb_oid" o="none" type="way" v="9231" />
+    <tag id="458287060" k="gritting_operator" o="none" type="way" v="City of Surrey" />
+    <tag id="458287061" k="name" o="none" type="way" v="184 Street" />
+    <tag id="458287061" k="lanes" o="none" type="way" v="2" />
+    <tag id="458287061" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458287061" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="458287061" k="highway" o="none" type="way" v="secondary" />
+    <tag id="458287061" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="458287061" k="gritting" o="none" type="way" v="priority_1" />
+    <tag id="458287061" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="458287061" k="maintenance" o="none" type="way" v="gritting" />
+    <tag id="458287061" k="surrey:geodb_oid" o="none" type="way" v="8856" />
+    <tag id="458287061" k="gritting_operator" o="none" type="way" v="City of Surrey" />
+    <tag id="458287062" k="name" o="none" type="way" v="184 Street" />
+    <tag id="458287062" k="lanes" o="none" type="way" v="2" />
+    <tag id="458287062" k="oneway" o="add" type="way" v="yes" />
+    <tag id="458287062" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="458287062" k="highway" o="none" type="way" v="secondary" />
+    <tag id="458287062" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="458287062" k="gritting" o="none" type="way" v="priority_1" />
+    <tag id="458287062" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="458287062" k="maintenance" o="none" type="way" v="gritting" />
+    <tag id="458287062" k="surrey:geodb_oid" o="none" type="way" v="9231" />
+    <tag id="458287062" k="gritting_operator" o="none" type="way" v="City of Surrey" />
+    <tag id="458287064" k="hgv" o="none" type="way" v="designated" />
+    <tag id="458287064" k="name" o="none" type="way" v="Fraser Highway" />
+    <tag id="458287064" k="is_in" o="none" type="way" v="Surrey,British Columbia" />
+    <tag id="458287064" k="lanes" o="none" type="way" v="2" />
+    <tag id="458287064" k="hazmat" o="none" type="way" v="designated" />
+    <tag id="458287064" k="oneway" o="none" type="way" v="yes" />
+    <tag id="458287064" k="source" o="none" type="way" v="Geobase_Import_2009;City of Surrey 2010 GIS Data" />
+    <tag id="458287064" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="458287064" k="highway" o="none" type="way" v="primary" />
+    <tag id="458287064" k="old_ref" o="none" type="way" v="1A" />
+    <tag id="458287064" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="458287064" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="458287064" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="458287064" k="attribution" o="none" type="way" v="GeoBase&#174;" />
+    <tag id="458287064" k="geobase:acquisitionTechnique" o="none" type="way" v="GPS" />
+    <tag id="460534539" k="name" o="add" type="way" v="182 Street" />
+    <tag id="460534539" k="oneway" o="none" type="way" v="yes" />
+    <tag id="460534539" k="highway" o="none" type="way" v="residential" />
+    <tag id="460534541" k="name" o="add" type="way" v="182 Street" />
+    <tag id="460534541" k="oneway" o="none" type="way" v="yes" />
+    <tag id="460534541" k="highway" o="none" type="way" v="residential" />
+    <tag id="460535828" k="name" o="none" type="way" v="184 Street" />
+    <tag id="460535828" k="lanes" o="none" type="way" v="2" />
+    <tag id="460535828" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460535828" k="source" o="none" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="460535828" k="highway" o="none" type="way" v="secondary" />
+    <tag id="460535828" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="460535828" k="gritting" o="none" type="way" v="priority_1" />
+    <tag id="460535828" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="460535828" k="maintenance" o="none" type="way" v="gritting" />
+    <tag id="460535828" k="surrey:geodb_oid" o="none" type="way" v="9231" />
+    <tag id="460535828" k="gritting_operator" o="none" type="way" v="City of Surrey" />
+    <tag id="460553479" k="foot" o="add" type="way" v="yes" />
+    <tag id="460553479" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="460553480" k="foot" o="add" type="way" v="yes" />
+    <tag id="460553480" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="460553481" k="layer" o="add" type="way" v="-1" />
+    <tag id="460553481" k="source" o="add" type="way" v="GeobaseNHN_Import_2009" />
+    <tag id="460553481" k="accuracy" o="add" type="way" v="10" />
+    <tag id="460553481" k="waterway" o="add" type="way" v="stream" />
+    <tag id="460553481" k="attribution" o="add" type="way" v="Natural Resources Canada" />
+    <tag id="460553482" k="source" o="add" type="way" v="GeobaseNHN_Import_2009" />
+    <tag id="460553482" k="accuracy" o="add" type="way" v="10" />
+    <tag id="460553482" k="waterway" o="add" type="way" v="stream" />
+    <tag id="460553482" k="attribution" o="add" type="way" v="Natural Resources Canada" />
+    <tag id="460553483" k="name" o="add" type="way" v="184 Street" />
+    <tag id="460553483" k="lanes" o="add" type="way" v="2" />
+    <tag id="460553483" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553483" k="source" o="add" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="460553483" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460553483" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460553483" k="gritting" o="add" type="way" v="priority_1" />
+    <tag id="460553483" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="460553483" k="maintenance" o="add" type="way" v="gritting" />
+    <tag id="460553483" k="surrey:geodb_oid" o="add" type="way" v="9231" />
+    <tag id="460553483" k="gritting_operator" o="add" type="way" v="City of Surrey" />
+    <tag id="460553484" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460553484" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460553484" k="is_in" o="add" type="way" v="Surrey,British Columbia" />
+    <tag id="460553484" k="lanes" o="add" type="way" v="2" />
+    <tag id="460553484" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460553484" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553484" k="source" o="add" type="way" v="Geobase_Import_2009;City of Surrey 2010 GIS Data" />
+    <tag id="460553484" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460553484" k="highway" o="add" type="way" v="primary" />
+    <tag id="460553484" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460553484" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460553484" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460553484" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="460553484" k="attribution" o="add" type="way" v="GeoBase&#174;" />
+    <tag id="460553484" k="geobase:acquisitionTechnique" o="add" type="way" v="GPS" />
+    <tag id="460553485" k="name" o="add" type="way" v="184 Street" />
+    <tag id="460553485" k="lanes" o="add" type="way" v="2" />
+    <tag id="460553485" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553485" k="source" o="add" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="460553485" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460553485" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460553485" k="gritting" o="add" type="way" v="priority_1" />
+    <tag id="460553485" k="maintenance" o="add" type="way" v="gritting" />
+    <tag id="460553485" k="surrey:geodb_oid" o="add" type="way" v="8856" />
+    <tag id="460553485" k="gritting_operator" o="add" type="way" v="City of Surrey" />
+    <tag id="460553486" k="name" o="add" type="way" v="184 Street" />
+    <tag id="460553486" k="lanes" o="add" type="way" v="2" />
+    <tag id="460553486" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553486" k="source" o="add" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="460553486" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460553486" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460553486" k="gritting" o="add" type="way" v="priority_1" />
+    <tag id="460553486" k="maintenance" o="add" type="way" v="gritting" />
+    <tag id="460553486" k="surrey:geodb_oid" o="add" type="way" v="8856" />
+    <tag id="460553486" k="gritting_operator" o="add" type="way" v="City of Surrey" />
+    <tag id="460553487" k="name" o="add" type="way" v="184 Street" />
+    <tag id="460553487" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553487" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460553488" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553488" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="460553489" k="name" o="add" type="way" v="184 Street" />
+    <tag id="460553489" k="lanes" o="add" type="way" v="2" />
+    <tag id="460553489" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460553489" k="source" o="add" type="way" v="City of Surrey 2011 GIS Data" />
+    <tag id="460553489" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460553489" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460553489" k="gritting" o="add" type="way" v="priority_1" />
+    <tag id="460553489" k="maintenance" o="add" type="way" v="gritting" />
+    <tag id="460553489" k="surrey:geodb_oid" o="add" type="way" v="8856" />
+    <tag id="460553489" k="gritting_operator" o="add" type="way" v="City of Surrey" />
+    <tag id="460558916" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460558916" k="name" o="add" type="way" v="160 Street" />
+    <tag id="460558916" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460558916" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460558919" k="name" o="add" type="way" v="160 Street" />
+    <tag id="460558919" k="oneway" o="add" type="way" v="no" />
+    <tag id="460558919" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460558920" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460558920" k="lit" o="add" type="way" v="yes" />
+    <tag id="460558920" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460558920" k="lanes" o="add" type="way" v="4" />
+    <tag id="460558920" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460558920" k="source" o="add" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="460558920" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460558920" k="highway" o="add" type="way" v="primary" />
+    <tag id="460558920" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460558920" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460558920" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460558920" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="460558924" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460558924" k="lit" o="add" type="way" v="yes" />
+    <tag id="460558924" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460558924" k="lanes" o="add" type="way" v="4" />
+    <tag id="460558924" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460558924" k="source" o="add" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="460558924" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460558924" k="highway" o="add" type="way" v="primary" />
+    <tag id="460558924" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460558924" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460558924" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460558924" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="460558925" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460558925" k="lit" o="add" type="way" v="yes" />
+    <tag id="460558925" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460558925" k="lanes" o="add" type="way" v="4" />
+    <tag id="460558925" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460558925" k="source" o="add" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="460558925" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460558925" k="highway" o="add" type="way" v="primary" />
+    <tag id="460558925" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460558925" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460558925" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460558925" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="460560246" k="name" o="add" type="way" v="164 Street" />
+    <tag id="460560246" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460560246" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460560247" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460560247" k="lit" o="add" type="way" v="yes" />
+    <tag id="460560247" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460560247" k="lanes" o="add" type="way" v="4" />
+    <tag id="460560247" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460560247" k="source" o="add" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="460560247" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460560247" k="highway" o="add" type="way" v="primary" />
+    <tag id="460560247" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460560247" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460560247" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460560247" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="460560248" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460560248" k="lit" o="add" type="way" v="yes" />
+    <tag id="460560248" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460560248" k="lanes" o="add" type="way" v="4" />
+    <tag id="460560248" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460560248" k="source" o="add" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="460560248" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460560248" k="highway" o="add" type="way" v="primary" />
+    <tag id="460560248" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460560248" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460560248" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460560248" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="460560249" k="hgv" o="add" type="way" v="designated" />
+    <tag id="460560249" k="lit" o="add" type="way" v="yes" />
+    <tag id="460560249" k="name" o="add" type="way" v="Fraser Highway" />
+    <tag id="460560249" k="lanes" o="add" type="way" v="4" />
+    <tag id="460560249" k="hazmat" o="add" type="way" v="designated" />
+    <tag id="460560249" k="source" o="add" type="way" v="City of Surrey 2010 GIS Data" />
+    <tag id="460560249" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="460560249" k="highway" o="add" type="way" v="primary" />
+    <tag id="460560249" k="old_ref" o="add" type="way" v="1A" />
+    <tag id="460560249" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460560249" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460560249" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="460560250" k="name" o="add" type="way" v="164 Street" />
+    <tag id="460560250" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460560250" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460560251" k="name" o="add" type="way" v="164 Street" />
+    <tag id="460560251" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460560251" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="460560252" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460560252" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="460560253" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460560253" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="1504670" k="ref" o="none" type="relation" v="1A" />
+    <tag id="1504670" k="name" o="none" type="relation" v="Highway 1A" />
+    <tag id="1504670" k="type" o="none" type="relation" v="route" />
+    <tag id="1504670" k="fixme" o="none" type="relation" v="incomplete" />
+    <tag id="1504670" k="route" o="none" type="relation" v="road" />
+    <tag id="1504670" k="network" o="none" type="relation" v="CA:BC:primary" />
+    <tag id="1640200" k="ref" o="none" type="relation" v="29" />
+    <tag id="1640200" k="name" o="none" type="relation" v="Fraser Greenway" />
+    <tag id="1640200" k="type" o="none" type="relation" v="route" />
+    <tag id="1640200" k="route" o="none" type="relation" v="foot" />
+    <tag id="1640200" k="network" o="none" type="relation" v="lwn" />
+    <tag id="1640201" k="ref" o="none" type="relation" v="29" />
+    <tag id="1640201" k="name" o="none" type="relation" v="Fraser Greenway" />
+    <tag id="1640201" k="type" o="none" type="relation" v="route" />
+    <tag id="1640201" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1640201" k="network" o="none" type="relation" v="lcn" />
+    <tag id="2101784" k="ref" o="none" type="relation" v="501" />
+    <tag id="2101784" k="type" o="none" type="relation" v="route" />
+    <tag id="2101784" k="route" o="none" type="relation" v="bus" />
+    <tag id="2101784" k="operator" o="none" type="relation" v="TransLink" />
+    <tag id="2101789" k="ref" o="none" type="relation" v="503" />
+    <tag id="2101789" k="type" o="none" type="relation" v="route" />
+    <tag id="2101789" k="route" o="none" type="relation" v="bus" />
+    <tag id="2101789" k="operator" o="none" type="relation" v="TransLink" />
+    <tag id="2101791" k="ref" o="none" type="relation" v="590" />
+    <tag id="2101791" k="type" o="none" type="relation" v="route" />
+    <tag id="2101791" k="route" o="none" type="relation" v="bus" />
+    <tag id="2101791" k="operator" o="none" type="relation" v="TransLink" />
+    <tag id="5329898" k="ref" o="none" type="relation" v="Fraser Hwy" />
+    <tag id="5329898" k="name" o="none" type="relation" v="Fraser Highway" />
+    <tag id="5329898" k="type" o="none" type="relation" v="route" />
+    <tag id="5329898" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="5329898" k="network" o="none" type="relation" v="lcn" />
+    <tag id="6803273" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803273" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6803274" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803274" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6803355" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803355" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6803356" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803356" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6803357" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803357" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803358" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803358" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803359" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803359" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803360" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803360" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803361" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803361" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803362" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803362" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803371" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803371" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6803372" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803372" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803373" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803373" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6803374" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6803374" k="restriction" o="add" type="relation" v="no_right_turn" />
+  </body>
+</changeset>

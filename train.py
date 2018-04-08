@@ -12,17 +12,16 @@ import re
 
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
-from keras.utils import to_categorical
 from keras.layers import Dense, Input, GlobalMaxPooling1D
 from keras.layers import Conv1D, MaxPooling1D, Embedding
 from keras.models import Model
 
 BASE_DIR = ''
 GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
-MAX_SEQUENCE_LENGTH = 1200
+MAX_SEQUENCE_LENGTH = 1000
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
-VALIDATION_SPLIT = 0.40
+VALIDATION_SPLIT = 0.30
 
 def readAllChangeSets():
 
@@ -30,20 +29,30 @@ def readAllChangeSets():
 
     cachedChangeSets = [ cs for cs in changeSets.rows if cs['cs'].cached() ]
 
+    validatedLabel = ' Val'
+
+    
     totals = {}
     for label in changeSets.labelsToIndex:
         totals[label] = 0
-        totals[label + ' Val'] = 0
+        totals[label + validatedLabel] = 0
 
     for cs in cachedChangeSets:
         cs['cs'].read()
     
     for cs in cachedChangeSets:
-        label = cs['label']
-        totals[ label] += 1
-        if ( cs['validated']):
-            totals[label + ' Val'] += 1
-            
+
+        ok = True
+        for i in range(len(cs['labels'])):
+            label = changeSets.indexToLabels[i]
+
+            if ( cs['labels'][i] > 0 ):                
+                ok = False
+                totals[label] += 1
+                if ( cs['validated']):
+                    totals[label + validatedLabel] += 1
+
+                                             
     for k in sorted(totals):
         print("{0:25} {1} ChangeSets".format(k,totals[k]))
     
@@ -151,13 +160,13 @@ def changeSetsToDataArrayAndLabels( usedChangeSets, tokenizer, augmentationFacto
         txs = cs['cs'].textDump(augmentationFactor)
 
         for t in txs:
-            labels.append( cs['labelIndex'] )
+            labels.append( cs['labels'] )
             texts.append(t)
 
     sequences = tokenizer.texts_to_sequences(texts)
     data = pad_sequences(sequences, maxlen=MAX_SEQUENCE_LENGTH,truncating='post',padding='post')
 
-    labels = to_categorical(np.asarray(labels))
+    labels = np.asarray(labels)
 
     return (data,labels)
 
@@ -224,7 +233,7 @@ print(model.summary())
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=6,
+          epochs=5,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')

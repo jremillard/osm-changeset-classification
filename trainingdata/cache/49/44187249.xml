@@ -1,0 +1,580 @@
+<changeset id="44187249" schema="2">
+  <counts nodesAdded="565" nodesDeleted="49" nodesModified="3" relationsAdded="9" relationsDeleted="0" relationsModified="2" waysAdded="81" waysDeleted="14" waysModified="89" />
+  <meta>
+    <tag k="comment" v="ajout limites de vitesses + destination + maj cadastre + petites routes" />
+    <tag k="created_by" v="JOSM/1.5 (11223 fr)" />
+    <tag k="source" v="osmand + bing + cadastre" />
+  </meta>
+  <body>
+    <tag id="2116480932" k="highway" o="add" type="node" v="give_way" />
+    <tag id="3101752333" k="highway" o="add" type="node" v="give_way" />
+    <tag id="3101761561" k="highway" o="add" type="node" v="give_way" />
+    <tag id="41689440" k="CLC:id" o="none" type="way" v="FR-135893" />
+    <tag id="41689440" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="41689440" k="landuse" o="none" type="way" v="residential" />
+    <tag id="41689440" k="CLC:code" o="none" type="way" v="112" />
+    <tag id="41689440" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="48052031" k="name" o="none" type="way" v="Rue L&#233;onard de Vinci" />
+    <tag id="48052031" k="lanes" o="add" type="way" v="2" />
+    <tag id="48052031" k="highway" o="none" type="way" v="residential" />
+    <tag id="48052031" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="48052032" k="name" o="none" type="way" v="Rue Marco Polo" />
+    <tag id="48052032" k="lanes" o="add" type="way" v="2" />
+    <tag id="48052032" k="highway" o="none" type="way" v="residential" />
+    <tag id="48052032" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="48052040" k="highway" o="none" type="way" v="residential" />
+    <tag id="48052043" k="name" o="none" type="way" v="Rue Le Corbusier" />
+    <tag id="48052043" k="lanes" o="add" type="way" v="2" />
+    <tag id="48052043" k="highway" o="none" type="way" v="residential" />
+    <tag id="48052043" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="71244157" k="name" o="none" type="way" v="Rue Jean Guiton" />
+    <tag id="71244157" k="lanes" o="add" type="way" v="2" />
+    <tag id="71244157" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="71244157" k="highway" o="none" type="way" v="residential" />
+    <tag id="71244157" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="71244161" k="ref" o="none" type="way" v="D 111" />
+    <tag id="71244161" k="name" o="none" type="way" v="Rue de Chatelaillon" />
+    <tag id="71244161" k="lanes" o="add" type="way" v="2" />
+    <tag id="71244161" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="71244161" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="71244161" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="71244164" k="fixme" o="none" type="way" v="v&#233;rifier le nom" />
+    <tag id="71244164" k="lanes" o="add" type="way" v="2" />
+    <tag id="71244164" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="71244164" k="highway" o="none" type="way" v="residential" />
+    <tag id="71244167" k="name" o="none" type="way" v="Chemin des Hibiscus" />
+    <tag id="71244167" k="lanes" o="add" type="way" v="2" />
+    <tag id="71244167" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="71244167" k="highway" o="none" type="way" v="residential" />
+    <tag id="71244167" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="71244188" k="name" o="none" type="way" v="Rue des Trainelles" />
+    <tag id="71244188" k="lanes" o="add" type="way" v="2" />
+    <tag id="71244188" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="71244188" k="highway" o="none" type="way" v="residential" />
+    <tag id="71244188" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="71244224" k="ref" o="none" type="way" v="D 111" />
+    <tag id="71244224" k="name" o="none" type="way" v="Rue de Chatelaillon" />
+    <tag id="71244224" k="lanes" o="add" type="way" v="1" />
+    <tag id="71244224" k="oneway" o="none" type="way" v="yes" />
+    <tag id="71244224" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="71244224" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="71244224" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="71916269" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71916269" k="building" o="none" type="way" v="yes" />
+    <tag id="71917360" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71917360" k="building" o="none" type="way" v="yes" />
+    <tag id="71917486" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71917486" k="building" o="none" type="way" v="yes" />
+    <tag id="71918927" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71918927" k="building" o="none" type="way" v="yes" />
+    <tag id="71920966" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71920966" k="building" o="none" type="way" v="yes" />
+    <tag id="71921132" k="wall" o="none" type="way" v="no" />
+    <tag id="71921132" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71921132" k="building" o="none" type="way" v="yes" />
+    <tag id="71921594" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71921594" k="building" o="none" type="way" v="yes" />
+    <tag id="71921694" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71921694" k="building" o="none" type="way" v="yes" />
+    <tag id="71925500" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71925500" k="building" o="none" type="way" v="yes" />
+    <tag id="71925675" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71925675" k="building" o="none" type="way" v="yes" />
+    <tag id="71926802" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71926802" k="building" o="none" type="way" v="yes" />
+    <tag id="71927058" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71927058" k="building" o="none" type="way" v="yes" />
+    <tag id="71927515" k="source" o="none" type="way" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadas. Mise &#224; jour : 2010" />
+    <tag id="71927515" k="building" o="none" type="way" v="yes" />
+    <tag id="72257601" k="name" o="none" type="way" v="Rue Jules Verne" />
+    <tag id="72257601" k="lanes" o="add" type="way" v="2" />
+    <tag id="72257601" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72257601" k="highway" o="none" type="way" v="residential" />
+    <tag id="72257601" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="72257606" k="name" o="add" type="way" v="Rue Jules Verne" />
+    <tag id="72257606" k="lanes" o="none" type="way" v="1" />
+    <tag id="72257606" k="oneway" o="none" type="way" v="yes" />
+    <tag id="72257606" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72257606" k="highway" o="none" type="way" v="residential" />
+    <tag id="72257606" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="72272290" k="name" o="none" type="way" v="Rue Galil&#233;e" />
+    <tag id="72272290" k="lanes" o="add" type="way" v="2" />
+    <tag id="72272290" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72272290" k="highway" o="none" type="way" v="residential" />
+    <tag id="72272290" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="72272291" k="lanes" o="add" type="way" v="2" />
+    <tag id="72272291" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72272291" k="highway" o="none" type="way" v="residential" />
+    <tag id="72272291" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="72272524" k="name" o="none" type="way" v="Rue Le Verrier" />
+    <tag id="72272524" k="lanes" o="none" type="way" v="2" />
+    <tag id="72272524" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72272524" k="highway" o="none" type="way" v="residential" />
+    <tag id="72272524" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="72272725" k="name" o="none" type="way" v="Rue Newton" />
+    <tag id="72272725" k="lanes" o="none" type="way" v="1" />
+    <tag id="72272725" k="oneway" o="none" type="way" v="yes" />
+    <tag id="72272725" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72272725" k="highway" o="none" type="way" v="residential" />
+    <tag id="72272725" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="72272726" k="name" o="add" type="way" v="Rue Newton" />
+    <tag id="72272726" k="lanes" o="none" type="way" v="1" />
+    <tag id="72272726" k="oneway" o="none" type="way" v="yes" />
+    <tag id="72272726" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72272726" k="highway" o="none" type="way" v="residential" />
+    <tag id="72272726" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="72273251" k="lit" o="none" type="way" v="yes" />
+    <tag id="72273251" k="name" o="none" type="way" v="Chemin de Malidor" />
+    <tag id="72273251" k="lanes" o="none" type="way" v="2" />
+    <tag id="72273251" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72273251" k="highway" o="none" type="way" v="residential" />
+    <tag id="72273251" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="72450996" k="name" o="none" type="way" v="Chemin des Hibiscus" />
+    <tag id="72450996" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="72450996" k="highway" o="modify" type="way" v="service" />
+    <tag id="72450996" k="service" o="add" type="way" v="alley" />
+    <tag id="74904769" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74904769" k="building" o="none" type="way" v="yes" />
+    <tag id="74905230" k="wall" o="none" type="way" v="no" />
+    <tag id="74905230" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74905230" k="building" o="none" type="way" v="yes" />
+    <tag id="74925954" k="wall" o="add" type="way" v="no" />
+    <tag id="74925954" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74925954" k="building" o="none" type="way" v="yes" />
+    <tag id="74926071" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74926071" k="building" o="none" type="way" v="yes" />
+    <tag id="74926113" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74926113" k="building" o="none" type="way" v="yes" />
+    <tag id="74926424" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74926424" k="building" o="none" type="way" v="yes" />
+    <tag id="74937063" k="wall" o="none" type="way" v="no" />
+    <tag id="74937063" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74937063" k="building" o="none" type="way" v="yes" />
+    <tag id="74937331" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74937331" k="building" o="none" type="way" v="yes" />
+    <tag id="74984866" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74984866" k="building" o="none" type="way" v="yes" />
+    <tag id="74985279" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74985279" k="building" o="none" type="way" v="yes" />
+    <tag id="74985796" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74985796" k="building" o="none" type="way" v="yes" />
+    <tag id="74993686" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="74993686" k="building" o="none" type="way" v="yes" />
+    <tag id="114425306" k="name" o="none" type="way" v="Avenue Edmond Grasset" />
+    <tag id="114425306" k="layer" o="none" type="way" v="1" />
+    <tag id="114425306" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="201581678" k="ref" o="modify" type="way" v="D 939" />
+    <tag id="201581678" k="foot" o="none" type="way" v="no" />
+    <tag id="201581678" k="horse" o="none" type="way" v="no" />
+    <tag id="201581678" k="lanes" o="none" type="way" v="1" />
+    <tag id="201581678" k="oneway" o="none" type="way" v="yes" />
+    <tag id="201581678" k="bicycle" o="none" type="way" v="no" />
+    <tag id="201581678" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="201581678" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="201620868" k="ref" o="none" type="way" v="D 939" />
+    <tag id="201620868" k="name" o="none" type="way" v="Avenue Edmond Grasset" />
+    <tag id="201620868" k="lanes" o="none" type="way" v="2" />
+    <tag id="201620868" k="source" o="none" type="way" v="survey" />
+    <tag id="201620868" k="highway" o="none" type="way" v="primary" />
+    <tag id="201620868" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="201620869" k="ref" o="none" type="way" v="D 939" />
+    <tag id="201620869" k="name" o="none" type="way" v="Avenue Edmond Grasset" />
+    <tag id="201620869" k="lanes" o="none" type="way" v="1" />
+    <tag id="201620869" k="oneway" o="none" type="way" v="yes" />
+    <tag id="201620869" k="highway" o="none" type="way" v="primary" />
+    <tag id="201620869" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="305535621" k="ref" o="none" type="way" v="D 939" />
+    <tag id="305535621" k="name" o="none" type="way" v="Avenue Edmond Grasset" />
+    <tag id="305535621" k="lanes" o="add" type="way" v="2" />
+    <tag id="305535621" k="bicycle" o="none" type="way" v="no" />
+    <tag id="305535621" k="highway" o="none" type="way" v="primary" />
+    <tag id="305535621" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="305535622" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305535622" k="lanes" o="none" type="way" v="1" />
+    <tag id="305535622" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305535622" k="bicycle" o="none" type="way" v="no" />
+    <tag id="305535622" k="highway" o="none" type="way" v="primary" />
+    <tag id="305535622" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="305535622" k="destination" o="add" type="way" v="La Jarne" />
+    <tag id="305535772" k="name" o="none" type="way" v="Rue Newton" />
+    <tag id="305535772" k="lanes" o="none" type="way" v="2" />
+    <tag id="305535772" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="305535772" k="highway" o="none" type="way" v="residential" />
+    <tag id="305535772" k="maxspeed" o="modify" type="way" v="5" />
+    <tag id="305535775" k="name" o="none" type="way" v="Rue Le Verrier" />
+    <tag id="305535775" k="lanes" o="none" type="way" v="2" />
+    <tag id="305535775" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="305535775" k="highway" o="none" type="way" v="residential" />
+    <tag id="305535775" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="305535777" k="name" o="none" type="way" v="Rue Newton" />
+    <tag id="305535777" k="lanes" o="none" type="way" v="2" />
+    <tag id="305535777" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="305535777" k="highway" o="none" type="way" v="residential" />
+    <tag id="305535777" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="305536494" k="ref" o="none" type="way" v="D 939" />
+    <tag id="305536494" k="name" o="none" type="way" v="Rue Nationale" />
+    <tag id="305536494" k="lanes" o="add" type="way" v="1" />
+    <tag id="305536494" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305536494" k="highway" o="none" type="way" v="primary" />
+    <tag id="305536494" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305536494" k="destination" o="add" type="way" v="Aigrefeuille d'Aunis;Surg&#232;res" />
+    <tag id="305536495" k="lanes" o="add" type="way" v="2" />
+    <tag id="305536495" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305536495" k="highway" o="none" type="way" v="primary" />
+    <tag id="305536495" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305545383" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305545383" k="name" o="add" type="way" v="Avenue Edmond Grasset" />
+    <tag id="305545383" k="lanes" o="add" type="way" v="1" />
+    <tag id="305545383" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305545383" k="bicycle" o="none" type="way" v="no" />
+    <tag id="305545383" k="highway" o="none" type="way" v="primary" />
+    <tag id="305545383" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305546817" k="ref" o="none" type="way" v="D 939" />
+    <tag id="305546817" k="name" o="none" type="way" v="Rue Nationale" />
+    <tag id="305546817" k="lanes" o="add" type="way" v="2" />
+    <tag id="305546817" k="highway" o="none" type="way" v="primary" />
+    <tag id="305546817" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="305571868" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305571868" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="305571868" k="lanes" o="add" type="way" v="1" />
+    <tag id="305571868" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305571868" k="highway" o="none" type="way" v="primary" />
+    <tag id="305571868" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305571870" k="ref" o="none" type="way" v="D 939" />
+    <tag id="305571870" k="name" o="none" type="way" v="Rue Nationale" />
+    <tag id="305571870" k="lanes" o="add" type="way" v="1" />
+    <tag id="305571870" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305571870" k="highway" o="none" type="way" v="primary" />
+    <tag id="305571870" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305571871" k="ref" o="none" type="way" v="D 111" />
+    <tag id="305571871" k="name" o="none" type="way" v="Rue de Chatelaillon" />
+    <tag id="305571871" k="lanes" o="add" type="way" v="1" />
+    <tag id="305571871" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305571871" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="305571871" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="305571871" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305571874" k="ref" o="add" type="way" v="D 939" />
+    <tag id="305571874" k="name" o="add" type="way" v="Avenue Edmond Grasset" />
+    <tag id="305571874" k="lanes" o="add" type="way" v="1" />
+    <tag id="305571874" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305571874" k="bicycle" o="none" type="way" v="no" />
+    <tag id="305571874" k="highway" o="none" type="way" v="primary" />
+    <tag id="305571874" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305572936" k="ref" o="none" type="way" v="D 111" />
+    <tag id="305572936" k="name" o="none" type="way" v="Route de La Jarne" />
+    <tag id="305572936" k="source" o="none" type="way" v="survey" />
+    <tag id="305572936" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="305572937" k="ref" o="add" type="way" v="D 111" />
+    <tag id="305572937" k="name" o="add" type="way" v="Route de La Jarne" />
+    <tag id="305572937" k="lanes" o="add" type="way" v="1" />
+    <tag id="305572937" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305572937" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="305572937" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="305572938" k="ref" o="add" type="way" v="D 111" />
+    <tag id="305572938" k="name" o="add" type="way" v="Route de La Jarne" />
+    <tag id="305572938" k="lanes" o="add" type="way" v="1" />
+    <tag id="305572938" k="oneway" o="none" type="way" v="yes" />
+    <tag id="305572938" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="305572938" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="323422610" k="building" o="none" type="way" v="yes" />
+    <tag id="323422646" k="building" o="none" type="way" v="yes" />
+    <tag id="332649998" k="ref" o="modify" type="way" v="D 939" />
+    <tag id="332649998" k="foot" o="none" type="way" v="no" />
+    <tag id="332649998" k="horse" o="none" type="way" v="no" />
+    <tag id="332649998" k="lanes" o="none" type="way" v="1" />
+    <tag id="332649998" k="oneway" o="none" type="way" v="yes" />
+    <tag id="332649998" k="bicycle" o="none" type="way" v="no" />
+    <tag id="332649998" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="332649998" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="365390257" k="name" o="none" type="way" v="Rue Thal&#232;s" />
+    <tag id="365390257" k="lanes" o="add" type="way" v="2" />
+    <tag id="365390257" k="highway" o="none" type="way" v="residential" />
+    <tag id="365390257" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="365396752" k="source" o="none" type="way" v="Bing" />
+    <tag id="365396752" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="390989169" k="CLC:id" o="none" type="way" v="FR-135893" />
+    <tag id="390989169" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="390989169" k="landuse" o="none" type="way" v="residential" />
+    <tag id="390989169" k="CLC:code" o="none" type="way" v="112" />
+    <tag id="390989169" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="391152150" k="name" o="none" type="way" v="Rue de la Petite Jarne" />
+    <tag id="391152150" k="lanes" o="add" type="way" v="2" />
+    <tag id="391152150" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="391152150" k="highway" o="none" type="way" v="residential" />
+    <tag id="391152150" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="391188730" k="ref" o="none" type="way" v="D 939" />
+    <tag id="391188730" k="name" o="none" type="way" v="Rue Nationale" />
+    <tag id="391188730" k="oneway" o="none" type="way" v="yes" />
+    <tag id="391188730" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="391188730" k="highway" o="none" type="way" v="primary" />
+    <tag id="391338394" k="name" o="none" type="way" v="Zone d'Acivit&#233;s Belle Aire Nord" />
+    <tag id="391338394" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="391338394" k="landuse" o="none" type="way" v="retail" />
+    <tag id="449840052" k="ref" o="modify" type="way" v="D 939" />
+    <tag id="449840052" k="foot" o="none" type="way" v="no" />
+    <tag id="449840052" k="horse" o="none" type="way" v="no" />
+    <tag id="449840052" k="lanes" o="none" type="way" v="1" />
+    <tag id="449840052" k="oneway" o="none" type="way" v="yes" />
+    <tag id="449840052" k="bicycle" o="none" type="way" v="no" />
+    <tag id="449840052" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="449840052" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="457932899" k="access" o="add" type="way" v="private" />
+    <tag id="457932899" k="highway" o="add" type="way" v="service" />
+    <tag id="457932899" k="service" o="add" type="way" v="alley" />
+    <tag id="457932900" k="access" o="add" type="way" v="private" />
+    <tag id="457932900" k="highway" o="add" type="way" v="service" />
+    <tag id="457932900" k="service" o="add" type="way" v="alley" />
+    <tag id="457932901" k="highway" o="add" type="way" v="service" />
+    <tag id="457932901" k="service" o="add" type="way" v="alley" />
+    <tag id="457932902" k="highway" o="add" type="way" v="service" />
+    <tag id="457932902" k="service" o="add" type="way" v="alley" />
+    <tag id="457932903" k="highway" o="add" type="way" v="service" />
+    <tag id="457932903" k="service" o="add" type="way" v="alley" />
+    <tag id="457932904" k="access" o="add" type="way" v="private" />
+    <tag id="457932904" k="highway" o="add" type="way" v="service" />
+    <tag id="457932904" k="service" o="add" type="way" v="alley" />
+    <tag id="457932905" k="access" o="add" type="way" v="private" />
+    <tag id="457932905" k="highway" o="add" type="way" v="service" />
+    <tag id="457932905" k="service" o="add" type="way" v="alley" />
+    <tag id="457932906" k="access" o="add" type="way" v="private" />
+    <tag id="457932906" k="highway" o="add" type="way" v="service" />
+    <tag id="457932906" k="service" o="add" type="way" v="alley" />
+    <tag id="457932907" k="ref" o="add" type="way" v="D 939" />
+    <tag id="457932907" k="name" o="add" type="way" v="Rue Nationale" />
+    <tag id="457932907" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932907" k="highway" o="add" type="way" v="primary" />
+    <tag id="457932907" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932908" k="building" o="add" type="way" v="yes" />
+    <tag id="457932909" k="building" o="add" type="way" v="yes" />
+    <tag id="457932910" k="building" o="add" type="way" v="yes" />
+    <tag id="457932911" k="building" o="add" type="way" v="yes" />
+    <tag id="457932912" k="access" o="add" type="way" v="private" />
+    <tag id="457932912" k="highway" o="add" type="way" v="service" />
+    <tag id="457932912" k="service" o="add" type="way" v="alley" />
+    <tag id="457932913" k="access" o="add" type="way" v="private" />
+    <tag id="457932913" k="highway" o="add" type="way" v="service" />
+    <tag id="457932913" k="service" o="add" type="way" v="alley" />
+    <tag id="457932914" k="access" o="add" type="way" v="private" />
+    <tag id="457932914" k="highway" o="add" type="way" v="service" />
+    <tag id="457932914" k="service" o="add" type="way" v="alley" />
+    <tag id="457932915" k="access" o="add" type="way" v="private" />
+    <tag id="457932915" k="highway" o="add" type="way" v="service" />
+    <tag id="457932915" k="service" o="add" type="way" v="alley" />
+    <tag id="457932916" k="access" o="add" type="way" v="private" />
+    <tag id="457932916" k="highway" o="add" type="way" v="service" />
+    <tag id="457932916" k="service" o="add" type="way" v="alley" />
+    <tag id="457932917" k="highway" o="add" type="way" v="track" />
+    <tag id="457932918" k="access" o="add" type="way" v="private" />
+    <tag id="457932918" k="highway" o="add" type="way" v="service" />
+    <tag id="457932918" k="service" o="add" type="way" v="alley" />
+    <tag id="457932919" k="access" o="add" type="way" v="private" />
+    <tag id="457932919" k="highway" o="add" type="way" v="service" />
+    <tag id="457932919" k="service" o="add" type="way" v="alley" />
+    <tag id="457932920" k="access" o="add" type="way" v="private" />
+    <tag id="457932920" k="highway" o="add" type="way" v="service" />
+    <tag id="457932921" k="ref" o="add" type="way" v="D 939" />
+    <tag id="457932921" k="name" o="add" type="way" v="Avenue Edmond Grasset" />
+    <tag id="457932921" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932921" k="bicycle" o="add" type="way" v="no" />
+    <tag id="457932921" k="highway" o="add" type="way" v="primary" />
+    <tag id="457932921" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932922" k="highway" o="add" type="way" v="service" />
+    <tag id="457932922" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932923" k="access" o="add" type="way" v="customers" />
+    <tag id="457932923" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932923" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932928" k="access" o="add" type="way" v="customers" />
+    <tag id="457932928" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932928" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932933" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932933" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932935" k="access" o="add" type="way" v="private" />
+    <tag id="457932935" k="highway" o="add" type="way" v="service" />
+    <tag id="457932935" k="service" o="add" type="way" v="alley" />
+    <tag id="457932936" k="access" o="add" type="way" v="customers" />
+    <tag id="457932936" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932936" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932937" k="access" o="add" type="way" v="customers" />
+    <tag id="457932937" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932937" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932938" k="access" o="add" type="way" v="customers" />
+    <tag id="457932938" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932938" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932939" k="building" o="add" type="way" v="yes" />
+    <tag id="457932940" k="highway" o="add" type="way" v="service" />
+    <tag id="457932940" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932941" k="highway" o="add" type="way" v="service" />
+    <tag id="457932941" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932942" k="highway" o="add" type="way" v="service" />
+    <tag id="457932942" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932943" k="access" o="add" type="way" v="customers" />
+    <tag id="457932943" k="highway" o="add" type="way" v="service" />
+    <tag id="457932943" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932944" k="access" o="add" type="way" v="customers" />
+    <tag id="457932944" k="highway" o="add" type="way" v="service" />
+    <tag id="457932944" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932945" k="access" o="add" type="way" v="private" />
+    <tag id="457932945" k="highway" o="add" type="way" v="service" />
+    <tag id="457932945" k="service" o="add" type="way" v="alley" />
+    <tag id="457932946" k="access" o="add" type="way" v="customers" />
+    <tag id="457932946" k="highway" o="add" type="way" v="service" />
+    <tag id="457932946" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932947" k="access" o="add" type="way" v="customers" />
+    <tag id="457932947" k="highway" o="add" type="way" v="service" />
+    <tag id="457932947" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932948" k="access" o="add" type="way" v="customers" />
+    <tag id="457932948" k="highway" o="add" type="way" v="service" />
+    <tag id="457932948" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932949" k="access" o="add" type="way" v="customers" />
+    <tag id="457932949" k="highway" o="add" type="way" v="service" />
+    <tag id="457932949" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932950" k="ref" o="add" type="way" v="D 939" />
+    <tag id="457932950" k="name" o="add" type="way" v="Avenue Edmond Grasset" />
+    <tag id="457932950" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932950" k="bicycle" o="add" type="way" v="no" />
+    <tag id="457932950" k="highway" o="add" type="way" v="primary" />
+    <tag id="457932950" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932951" k="power" o="add" type="way" v="substation" />
+    <tag id="457932952" k="building" o="add" type="way" v="yes" />
+    <tag id="457932953" k="access" o="add" type="way" v="customers" />
+    <tag id="457932953" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932953" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932954" k="highway" o="add" type="way" v="service" />
+    <tag id="457932954" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932955" k="name" o="add" type="way" v="Rue Newton" />
+    <tag id="457932955" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932955" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932955" k="maxspeed" o="add" type="way" v="5" />
+    <tag id="457932956" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932956" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="457932958" k="highway" o="add" type="way" v="service" />
+    <tag id="457932958" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932959" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932959" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932960" k="highway" o="add" type="way" v="service" />
+    <tag id="457932960" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932961" k="highway" o="add" type="way" v="service" />
+    <tag id="457932961" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932963" k="access" o="add" type="way" v="customers" />
+    <tag id="457932963" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932963" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932964" k="access" o="add" type="way" v="customers" />
+    <tag id="457932964" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932964" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932965" k="highway" o="add" type="way" v="service" />
+    <tag id="457932965" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932966" k="ref" o="add" type="way" v="D 939" />
+    <tag id="457932966" k="name" o="add" type="way" v="Avenue Edmond Grasset" />
+    <tag id="457932966" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932966" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932966" k="highway" o="add" type="way" v="primary" />
+    <tag id="457932966" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932967" k="building" o="add" type="way" v="yes" />
+    <tag id="457932968" k="building" o="add" type="way" v="yes" />
+    <tag id="457932969" k="ref" o="add" type="way" v="D 939" />
+    <tag id="457932969" k="foot" o="add" type="way" v="no" />
+    <tag id="457932969" k="horse" o="add" type="way" v="no" />
+    <tag id="457932969" k="lanes" o="add" type="way" v="1" />
+    <tag id="457932969" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932969" k="bicycle" o="add" type="way" v="no" />
+    <tag id="457932969" k="highway" o="add" type="way" v="trunk_link" />
+    <tag id="457932969" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932970" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932970" k="highway" o="add" type="way" v="service" />
+    <tag id="457932970" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932971" k="ref" o="add" type="way" v="D 939" />
+    <tag id="457932971" k="name" o="add" type="way" v="Avenue Edmond Grasset" />
+    <tag id="457932971" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932971" k="source" o="add" type="way" v="survey" />
+    <tag id="457932971" k="highway" o="add" type="way" v="primary" />
+    <tag id="457932971" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932972" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932972" k="highway" o="add" type="way" v="service" />
+    <tag id="457932972" k="service" o="add" type="way" v="alley" />
+    <tag id="457932973" k="access" o="add" type="way" v="private" />
+    <tag id="457932973" k="highway" o="add" type="way" v="service" />
+    <tag id="457932973" k="service" o="add" type="way" v="alley" />
+    <tag id="457932974" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932974" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932974" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932975" k="highway" o="add" type="way" v="service" />
+    <tag id="457932975" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932976" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932976" k="highway" o="add" type="way" v="service" />
+    <tag id="457932976" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932977" k="access" o="add" type="way" v="customers" />
+    <tag id="457932977" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932977" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932978" k="access" o="add" type="way" v="customers" />
+    <tag id="457932978" k="amenity" o="add" type="way" v="parking" />
+    <tag id="457932978" k="parking" o="add" type="way" v="surface" />
+    <tag id="457932979" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932979" k="highway" o="add" type="way" v="service" />
+    <tag id="457932979" k="service" o="add" type="way" v="alley" />
+    <tag id="457932980" k="highway" o="add" type="way" v="service" />
+    <tag id="457932980" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932981" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932981" k="highway" o="add" type="way" v="service" />
+    <tag id="457932981" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932982" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932982" k="highway" o="add" type="way" v="service" />
+    <tag id="457932982" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932983" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932983" k="highway" o="add" type="way" v="service" />
+    <tag id="457932983" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="457932984" k="lanes" o="add" type="way" v="1" />
+    <tag id="457932984" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932984" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932984" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932985" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932985" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932985" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932986" k="lanes" o="add" type="way" v="1" />
+    <tag id="457932986" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932986" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932986" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932987" k="lanes" o="add" type="way" v="1" />
+    <tag id="457932987" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932987" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932987" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932988" k="lanes" o="add" type="way" v="2" />
+    <tag id="457932988" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932988" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932989" k="lanes" o="add" type="way" v="1" />
+    <tag id="457932989" k="oneway" o="add" type="way" v="yes" />
+    <tag id="457932989" k="highway" o="add" type="way" v="residential" />
+    <tag id="457932989" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="457932990" k="highway" o="add" type="way" v="service" />
+    <tag id="457932990" k="service" o="add" type="way" v="alley" />
+    <tag id="4075223" k="ref" o="none" type="relation" v="19" />
+    <tag id="4075223" k="name" o="none" type="relation" v="19" />
+    <tag id="4075223" k="type" o="none" type="relation" v="route" />
+    <tag id="4075223" k="route" o="none" type="relation" v="bus" />
+    <tag id="4075223" k="network" o="none" type="relation" v="Y&#233;lo" />
+    <tag id="4075223" k="operator" o="none" type="relation" v="RTCR" />
+    <tag id="4077328" k="ref" o="none" type="relation" v="29" />
+    <tag id="4077328" k="name" o="none" type="relation" v="29" />
+    <tag id="4077328" k="type" o="none" type="relation" v="route" />
+    <tag id="4077328" k="route" o="none" type="relation" v="bus" />
+    <tag id="4077328" k="network" o="none" type="relation" v="Y&#233;lo" />
+    <tag id="4077328" k="operator" o="none" type="relation" v="RTCR" />
+    <tag id="6769186" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769186" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769187" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769187" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769188" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769188" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769189" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769189" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769190" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769190" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769191" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769191" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769192" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769192" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6769193" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769193" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6769194" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6769194" k="restriction" o="add" type="relation" v="no_left_turn" />
+  </body>
+</changeset>

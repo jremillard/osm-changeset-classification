@@ -1,0 +1,56 @@
+<changeset id="43943017" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="2" relationsDeleted="0" relationsModified="3" waysAdded="4" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="comment" v="#montreal_turn_restrictions; added TRs" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="geobase http://donnees.ville.montreal.qc.ca/dataset/geobase/resource/70c1f8c7-91a0-4553-b602-89c3edb959b5; bing; OSV; Bing" />
+  </meta>
+  <body>
+    <tag id="37859227" k="name" o="none" type="way" v="Rue Jarry Est" />
+    <tag id="37859227" k="highway" o="none" type="way" v="secondary" />
+    <tag id="37859227" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="311420924" k="name" o="none" type="way" v="Rue Saint-Hubert" />
+    <tag id="311420924" k="highway" o="none" type="way" v="secondary" />
+    <tag id="452645964" k="ref" o="none" type="way" v="335" />
+    <tag id="452645964" k="name" o="none" type="way" v="Rue Saint-Denis" />
+    <tag id="452645964" k="lanes" o="none" type="way" v="2" />
+    <tag id="452645964" k="highway" o="none" type="way" v="secondary" />
+    <tag id="452645964" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="455699697" k="ref" o="add" type="way" v="335" />
+    <tag id="455699697" k="name" o="add" type="way" v="Rue Saint-Denis" />
+    <tag id="455699697" k="lanes" o="add" type="way" v="2" />
+    <tag id="455699697" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455699697" k="history" o="add" type="way" v="Retrieved from v1" />
+    <tag id="455699698" k="name" o="add" type="way" v="Rue Jarry Est" />
+    <tag id="455699698" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455699698" k="history" o="add" type="way" v="Retrieved from v4" />
+    <tag id="455699699" k="name" o="add" type="way" v="Rue Jarry Est" />
+    <tag id="455699699" k="highway" o="add" type="way" v="secondary" />
+    <tag id="455699699" k="history" o="add" type="way" v="Retrieved from v4" />
+    <tag id="455699700" k="name" o="add" type="way" v="Rue Saint-Hubert" />
+    <tag id="455699700" k="highway" o="add" type="way" v="secondary" />
+    <tag id="4572060" k="ref" o="none" type="relation" v="335" />
+    <tag id="4572060" k="name" o="none" type="relation" v="R 335" />
+    <tag id="4572060" k="type" o="none" type="relation" v="route" />
+    <tag id="4572060" k="route" o="none" type="relation" v="road" />
+    <tag id="4572060" k="network" o="none" type="relation" v="CA:QC:R" />
+    <tag id="4572060" k="wikipedia" o="none" type="relation" v="fr:Route 335 (Qu&#233;bec)" />
+    <tag id="4572060" k="is_in:state" o="none" type="relation" v="QC" />
+    <tag id="4619221" k="ref" o="none" type="relation" v="30" />
+    <tag id="4619221" k="name" o="none" type="relation" v="30 St-Denis St-Hubert Nord / North" />
+    <tag id="4619221" k="type" o="none" type="relation" v="route" />
+    <tag id="4619221" k="route" o="none" type="relation" v="bus" />
+    <tag id="4619221" k="network" o="none" type="relation" v="STM" />
+    <tag id="4619221" k="operator" o="none" type="relation" v="STM" />
+    <tag id="4619223" k="ref" o="none" type="relation" v="30" />
+    <tag id="4619223" k="name" o="none" type="relation" v="30 St-Denis St-Hubert Sud / South" />
+    <tag id="4619223" k="type" o="none" type="relation" v="route" />
+    <tag id="4619223" k="route" o="none" type="relation" v="bus" />
+    <tag id="4619223" k="network" o="none" type="relation" v="STM" />
+    <tag id="4619223" k="operator" o="none" type="relation" v="STM" />
+    <tag id="6739474" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6739474" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6739475" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6739475" k="restriction" o="add" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

@@ -1,0 +1,962 @@
+<changeset id="44257203" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="1" relationsDeleted="2" relationsModified="67" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Renum&#233;rotations TER Auvergne-Rhone-Alpes" />
+    <tag k="created_by" v="JOSM/1.5 (11223 it)" />
+    <tag k="source" v="Fiches horaires" />
+  </meta>
+  <body>
+    <tag id="29066748" k="name" o="none" type="node" v="Lyon-Vaise" />
+    <tag id="29066748" k="train" o="add" type="node" v="yes" />
+    <tag id="29066748" k="railway" o="none" type="node" v="stop" />
+    <tag id="29066748" k="operator" o="none" type="node" v="SNCF" />
+    <tag id="29066748" k="wikipedia" o="none" type="node" v="fr:Gare de Lyon-Vaise" />
+    <tag id="29066748" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="29066748" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="231214300" k="ref" o="none" type="way" v="750000" />
+    <tag id="231214300" k="name" o="none" type="way" v="Ligne de Moret-Veneux-les-Sablons &#224; Lyon-Perrache" />
+    <tag id="231214300" k="gauge" o="none" type="way" v="1435" />
+    <tag id="231214300" k="usage" o="none" type="way" v="main" />
+    <tag id="231214300" k="oneway" o="none" type="way" v="yes" />
+    <tag id="231214300" k="source" o="none" type="way" v="GPS" />
+    <tag id="231214300" k="railway" o="none" type="way" v="rail" />
+    <tag id="231214300" k="voltage" o="none" type="way" v="25000" />
+    <tag id="231214300" k="maxspeed" o="none" type="way" v="160" />
+    <tag id="231214300" k="operator" o="none" type="way" v="SNCF R&#233;seau" />
+    <tag id="231214300" k="frequency" o="none" type="way" v="50" />
+    <tag id="231214300" k="importance" o="none" type="way" v="national" />
+    <tag id="231214300" k="start_date" o="none" type="way" v="1853" />
+    <tag id="231214300" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="231214300" k="railway:kvb" o="none" type="way" v="yes" />
+    <tag id="231214300" k="railway:radio" o="none" type="way" v="analogue" />
+    <tag id="231214300" k="passenger_lines" o="none" type="way" v="2" />
+    <tag id="231214300" k="railway:track_ref" o="none" type="way" v="2" />
+    <tag id="231214300" k="railway:traffic_mode" o="none" type="way" v="mixed" />
+    <tag id="231214300" k="railway:bidirectional" o="none" type="way" v="possible" />
+    <tag id="231214300" k="railway:preferred_direction" o="none" type="way" v="forward" />
+    <tag id="400099" k="to" o="none" type="relation" v="Amb&#233;rieu" />
+    <tag id="400099" k="ref" o="none" type="relation" v="TER 30" />
+    <tag id="400099" k="via" o="none" type="relation" v="Bourg-en-Bresse" />
+    <tag id="400099" k="from" o="none" type="relation" v="M&#226;con" />
+    <tag id="400099" k="name" o="modify" type="relation" v="TER 30 : M&#226;con &#8722; Bourg en Bresse &#8722; Amb&#233;rieu" />
+    <tag id="400099" k="type" o="none" type="relation" v="route" />
+    <tag id="400099" k="route" o="none" type="relation" v="train" />
+    <tag id="400099" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="400099" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="400099" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="400099" k="service" o="none" type="relation" v="regional" />
+    <tag id="400099" k="by_night" o="none" type="relation" v="no" />
+    <tag id="400099" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="400099" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="400099" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="976032" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="976032" k="ref" o="none" type="relation" v="TER 05" />
+    <tag id="976032" k="via" o="none" type="relation" v="Avigon, Valence, Vienne" />
+    <tag id="976032" k="from" o="none" type="relation" v="Marseille" />
+    <tag id="976032" k="name" o="modify" type="relation" v="TER 05 : (Marseille) &#8722; Avignon &#8722; Valence &#8722; Lyon" />
+    <tag id="976032" k="type" o="none" type="relation" v="route" />
+    <tag id="976032" k="route" o="none" type="relation" v="train" />
+    <tag id="976032" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="976032" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="976032" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="976032" k="service" o="none" type="relation" v="regional" />
+    <tag id="976032" k="by_night" o="none" type="relation" v="no" />
+    <tag id="976032" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="976032" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="976032" k="description" o="none" type="relation" v="Cette relation est commune aux TER PACA o&#249; elle porte le num&#233;ro 10 ; Certains trains Lyon-Vienne sont diam&#233;tralis&#233;s vers Villefranche-sur-Sa&#244;ne, via Lyon-Vaise, voir relation 26" />
+    <tag id="976032" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1050529" k="to" o="none" type="relation" v="Saint-Gervais-Les-Bains-le-Fayet" />
+    <tag id="1050529" k="ref" o="none" type="relation" v="MBE" />
+    <tag id="1050529" k="via" o="none" type="relation" v="Le Ch&#226;telard-Fronti&#232;re, Vallorcine, Chamonix" />
+    <tag id="1050529" k="from" o="none" type="relation" v="Martigny" />
+    <tag id="1050529" k="name" o="none" type="relation" v="Mont-Blanc-Express" />
+    <tag id="1050529" k="type" o="none" type="relation" v="route_master" />
+    <tag id="1050529" k="colour" o="none" type="relation" v="red" />
+    <tag id="1050529" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1050529" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes / TMR/CFF" />
+    <tag id="1050529" k="ref:TER" o="modify" type="relation" v="44" />
+    <tag id="1050529" k="service" o="none" type="relation" v="regional;touristic" />
+    <tag id="1050529" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1050529" k="operator" o="none" type="relation" v="TMR, SNCF" />
+    <tag id="1050529" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1050529" k="description" o="none" type="relation" v="Martigny - Ch&#226;telard - Chamonix - St. Gervais" />
+    <tag id="1050529" k="ref:TMR/CFF" o="none" type="relation" v="132" />
+    <tag id="1050529" k="route_master" o="none" type="relation" v="train" />
+    <tag id="1059566" k="to" o="none" type="relation" v="Romans-Bourg-de-P&#233;age" />
+    <tag id="1059566" k="ref" o="none" type="relation" v="TER 64" />
+    <tag id="1059566" k="via" o="none" type="relation" v="Die, Valence" />
+    <tag id="1059566" k="from" o="none" type="relation" v="Gap" />
+    <tag id="1059566" k="name" o="modify" type="relation" v="TER 64 : Gap &#8722; Die &#8722; Valence &#8722; (Romans)" />
+    <tag id="1059566" k="type" o="none" type="relation" v="route" />
+    <tag id="1059566" k="route" o="none" type="relation" v="train" />
+    <tag id="1059566" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1059566" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1059566" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1059566" k="service" o="none" type="relation" v="regional" />
+    <tag id="1059566" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1059566" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1059566" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1059566" k="description" o="modify" type="relation" v="Voir aussi la relation 70 pour Valence - Romans. Certains trains sont prolong&#233;s vers Brian&#231;on, voir relation TER PACA 14" />
+    <tag id="1059566" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1100478" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="1100478" k="ref" o="none" type="relation" v="TER 35" />
+    <tag id="1100478" k="via" o="none" type="relation" v="Culoz, Amb&#233;rieu" />
+    <tag id="1100478" k="from" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="1100478" k="name" o="modify" type="relation" v="TER 35 : (Chamb&#233;ry) &#8722; Culoz &#8722; Amb&#233;rieu &#8722; Lyon" />
+    <tag id="1100478" k="type" o="none" type="relation" v="route" />
+    <tag id="1100478" k="route" o="none" type="relation" v="train" />
+    <tag id="1100478" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1100478" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1100478" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1100478" k="service" o="none" type="relation" v="regional" />
+    <tag id="1100478" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1100478" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1100478" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1100478" k="description" o="none" type="relation" v="Pour Chamb&#233;ry - Culoz, voir aussi la relation 51" />
+    <tag id="1100478" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1184795" k="to" o="none" type="relation" v="Lyon-Saint-Paul" />
+    <tag id="1184795" k="ref" o="none" type="relation" v="TER 21" />
+    <tag id="1184795" k="from" o="none" type="relation" v="Brignais" />
+    <tag id="1184795" k="name" o="modify" type="relation" v="TER 21 : Brignais &#8722; Lyon" />
+    <tag id="1184795" k="type" o="none" type="relation" v="route" />
+    <tag id="1184795" k="route" o="none" type="relation" v="light_rail" />
+    <tag id="1184795" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1184795" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1184795" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1184795" k="service" o="none" type="relation" v="regional" />
+    <tag id="1184795" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1184795" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1184795" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1184795" k="description" o="none" type="relation" v="&quot;Tram-train&quot; de l'Ouest Lyonnais" />
+    <tag id="1184795" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1353260" k="to" o="none" type="relation" v="Gen&#232;ve" />
+    <tag id="1353260" k="ref" o="none" type="relation" v="TER 34" />
+    <tag id="1353260" k="from" o="none" type="relation" v="Bellegarde" />
+    <tag id="1353260" k="name" o="modify" type="relation" v="TER 34 : Bellegarde &#8722; Gen&#232;ve" />
+    <tag id="1353260" k="type" o="none" type="relation" v="route" />
+    <tag id="1353260" k="route" o="none" type="relation" v="train" />
+    <tag id="1353260" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1353260" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1353260" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1353260" k="service" o="none" type="relation" v="regional" />
+    <tag id="1353260" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1353260" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1353260" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1353260" k="description" o="none" type="relation" v="Voir aussi la relation CFF 151 pour la Plaine - Gen&#232;ve" />
+    <tag id="1353260" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1646928" k="to" o="modify" type="relation" v="Lyon-Perrache ou Lyon-Part-Dieu" />
+    <tag id="1646928" k="ref" o="none" type="relation" v="TER 10" />
+    <tag id="1646928" k="from" o="modify" type="relation" v="Saint-&#201;tienne" />
+    <tag id="1646928" k="name" o="modify" type="relation" v="TER 10 : Saint-&#201;tienne &#8722; Lyon" />
+    <tag id="1646928" k="type" o="none" type="relation" v="route" />
+    <tag id="1646928" k="route" o="none" type="relation" v="train" />
+    <tag id="1646928" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1646928" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1646928" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1646928" k="service" o="none" type="relation" v="regional" />
+    <tag id="1646928" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1646928" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1646928" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1646928" k="description" o="modify" type="relation" v="Certains trains Saint-&#201;tienne - Lyon-Part-Dieu sont prolong&#233;s vers Amb&#233;rieu, realtion 35" />
+    <tag id="1646928" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1732454" k="name" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1732454" k="type" o="none" type="relation" v="network" />
+    <tag id="1732454" k="network" o="none" type="relation" v="TER" />
+    <tag id="1732454" k="service" o="none" type="relation" v="regional" />
+    <tag id="1732454" k="website" o="none" type="relation" v="http://www.ter-sncf.com/rhone_alpes/" />
+    <tag id="1732454" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1732454" k="wikipedia" o="none" type="relation" v="fr:TER Rh&#244;ne-Alpes" />
+    <tag id="1748336" k="to" o="none" type="relation" v="Gen&#232;ve / Bellegarde" />
+    <tag id="1748336" k="ref" o="none" type="relation" v="TER 40" />
+    <tag id="1748336" k="via" o="none" type="relation" v="Annemasse" />
+    <tag id="1748336" k="from" o="none" type="relation" v="Evian - les- Bains" />
+    <tag id="1748336" k="name" o="modify" type="relation" v="TER 40 : &#201;vian &#8722; Annemasse &#8722; Gen&#232;ve / Bellegarde" />
+    <tag id="1748336" k="type" o="none" type="relation" v="route" />
+    <tag id="1748336" k="route" o="none" type="relation" v="train" />
+    <tag id="1748336" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1748336" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1748336" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1748336" k="service" o="none" type="relation" v="regional" />
+    <tag id="1748336" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1748336" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1748336" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1748336" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1749642" k="to" o="none" type="relation" v="Gen&#232;ve" />
+    <tag id="1749642" k="ref" o="none" type="relation" v="TER 42" />
+    <tag id="1749642" k="via" o="none" type="relation" v="La-Roche-sur-Foron, Annemasse" />
+    <tag id="1749642" k="from" o="none" type="relation" v="Saint-Gervais-les-Bains" />
+    <tag id="1749642" k="name" o="modify" type="relation" v="TER 42 : Saint-Gervais &#8722; Gen&#232;ve" />
+    <tag id="1749642" k="type" o="none" type="relation" v="route" />
+    <tag id="1749642" k="route" o="none" type="relation" v="train" />
+    <tag id="1749642" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1749642" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1749642" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1749642" k="service" o="none" type="relation" v="regional" />
+    <tag id="1749642" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1749642" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1749642" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1749642" k="description" o="none" type="relation" v="Pour St-Gervais - La Roche, voir aussi la relation 43, pour La Roche-Gen&#232;ve, la relation 41" />
+    <tag id="1749642" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1849404" k="to" o="add" type="relation" v="Lyon-Saint-Paul" />
+    <tag id="1849404" k="ref" o="none" type="relation" v="TER 22" />
+    <tag id="1849404" k="from" o="add" type="relation" v="Sain-Bel" />
+    <tag id="1849404" k="name" o="modify" type="relation" v="TER 22 : Sain-Bel &#8722; L'Arbresle &#8722; Tassin &#8722; Lyon" />
+    <tag id="1849404" k="type" o="none" type="relation" v="route" />
+    <tag id="1849404" k="route" o="none" type="relation" v="light_rail" />
+    <tag id="1849404" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="1849404" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="1849404" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="1849404" k="service" o="none" type="relation" v="regional" />
+    <tag id="1849404" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1849404" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1849404" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="1849404" k="description" o="none" type="relation" v="&quot;Tram-train&quot; de l'Ouest Lyonnais" />
+    <tag id="1849404" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="1959172" k="ref" o="modify" type="relation" v="TER 82" />
+    <tag id="1959172" k="via" o="none" type="relation" v="Ambert" />
+    <tag id="1959172" k="name" o="modify" type="relation" v="TER 82 : Arlanc &#8722; Ambert &#8722; Thiers &#8722; (Clermont-Ferrand)" />
+    <tag id="1959172" k="type" o="none" type="relation" v="route" />
+    <tag id="1959172" k="route" o="none" type="relation" v="bus" />
+    <tag id="1959172" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="1959172" k="bicycle" o="none" type="relation" v="no" />
+    <tag id="1959172" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="1959172" k="service" o="none" type="relation" v="regional" />
+    <tag id="1959172" k="by_night" o="none" type="relation" v="no" />
+    <tag id="1959172" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="1959172" k="wheelchair" o="none" type="relation" v="no" />
+    <tag id="1959172" k="description" o="none" type="relation" v="Correspondance &#224; Pont-de-Dore pour Clermont-Ferrand" />
+    <tag id="1959172" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2223744" k="to" o="none" type="relation" v="Gen&#232;ve" />
+    <tag id="2223744" k="ref" o="none" type="relation" v="TER 41" />
+    <tag id="2223744" k="via" o="none" type="relation" v="La-Roche-sur-Foron, Annemasse" />
+    <tag id="2223744" k="from" o="none" type="relation" v="Annecy" />
+    <tag id="2223744" k="name" o="modify" type="relation" v="TER 41 : Annecy &#8722; Annemasse &#8722; Gen&#232;ve" />
+    <tag id="2223744" k="type" o="none" type="relation" v="route" />
+    <tag id="2223744" k="route" o="none" type="relation" v="train" />
+    <tag id="2223744" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2223744" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2223744" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2223744" k="service" o="none" type="relation" v="regional" />
+    <tag id="2223744" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2223744" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2223744" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2223744" k="description" o="none" type="relation" v="Pour Annecy - La Roche, voir aussi la relation 43" />
+    <tag id="2223744" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2272829" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="2272829" k="ref" o="none" type="relation" v="TER 01" />
+    <tag id="2272829" k="via" o="none" type="relation" v="Bourgoin-Jallieu, Saint-Andr&#233;-le-Gaz" />
+    <tag id="2272829" k="from" o="none" type="relation" v="Grenoble" />
+    <tag id="2272829" k="name" o="modify" type="relation" v="TER 01 : Grenoble &#8722; Bourgoin-Jallieu &#8722; Lyon" />
+    <tag id="2272829" k="type" o="none" type="relation" v="route" />
+    <tag id="2272829" k="route" o="none" type="relation" v="train" />
+    <tag id="2272829" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2272829" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2272829" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2272829" k="service" o="none" type="relation" v="regional" />
+    <tag id="2272829" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2272829" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2272829" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2272829" k="description" o="none" type="relation" v="Pour l'ensemble des trains Grenoble - St-Andr&#233;-le-Gaz, voir la relation 62" />
+    <tag id="2272829" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2272885" k="to" o="none" type="relation" v="Valence-Ville" />
+    <tag id="2272885" k="ref" o="none" type="relation" v="TER 61" />
+    <tag id="2272885" k="via" o="none" type="relation" v="Grenoble, Saint-Marcellin" />
+    <tag id="2272885" k="from" o="none" type="relation" v="Grenoble-Universit&#233;s-Gi&#232;res" />
+    <tag id="2272885" k="name" o="modify" type="relation" v="TER 61 : Grenoble &#8722; Valence" />
+    <tag id="2272885" k="type" o="none" type="relation" v="route" />
+    <tag id="2272885" k="route" o="none" type="relation" v="train" />
+    <tag id="2272885" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2272885" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2272885" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2272885" k="service" o="none" type="relation" v="regional" />
+    <tag id="2272885" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2272885" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2272885" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2272885" k="description" o="modify" type="relation" v="Pour Grenoble - Moirans, voir aussi la relation 62. Pour Grenoble - Gi&#232;res, la 60." />
+    <tag id="2272885" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2272886" k="to" o="none" type="relation" v="Saint-Andr&#233;-le-Gaz" />
+    <tag id="2272886" k="ref" o="none" type="relation" v="TER 62" />
+    <tag id="2272886" k="via" o="none" type="relation" v="Grenoble, Rives" />
+    <tag id="2272886" k="from" o="none" type="relation" v="Grenoble-Universit&#233;s-Gi&#232;res" />
+    <tag id="2272886" k="name" o="modify" type="relation" v="TER 62 : Grenoble &#8722; Saint-Andr&#233;-le-gaz" />
+    <tag id="2272886" k="type" o="none" type="relation" v="route" />
+    <tag id="2272886" k="route" o="none" type="relation" v="train" />
+    <tag id="2272886" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2272886" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2272886" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2272886" k="service" o="none" type="relation" v="regional" />
+    <tag id="2272886" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2272886" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2272886" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2272886" k="description" o="add" type="relation" v="Certains trains sont prolong&#233;s de Grenoble &#224; Chamb&#233;y, relation 60" />
+    <tag id="2272886" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2272887" k="to" o="none" type="relation" v="Valence" />
+    <tag id="2272887" k="ref" o="none" type="relation" v="TER 02" />
+    <tag id="2272887" k="via" o="none" type="relation" v="Chamb&#233;ry, Grenoble" />
+    <tag id="2272887" k="from" o="none" type="relation" v="Gen&#232;ve ou Annecy" />
+    <tag id="2272887" k="name" o="modify" type="relation" v="TER 02 : Gen&#232;ve / Annecy &#8722; Grenoble &#8722; Valence" />
+    <tag id="2272887" k="type" o="none" type="relation" v="route" />
+    <tag id="2272887" k="route" o="none" type="relation" v="train" />
+    <tag id="2272887" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2272887" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2272887" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2272887" k="service" o="none" type="relation" v="regional" />
+    <tag id="2272887" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2272887" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2272887" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2272887" k="description" o="none" type="relation" v="Pour l'ensemble des trains voir aussi les relations 50, 51, 60 et 61" />
+    <tag id="2272887" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2272983" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="2272983" k="ref" o="none" type="relation" v="TER 54" />
+    <tag id="2272983" k="via" o="none" type="relation" v="Saint-Andr&#233;-le-Gaz" />
+    <tag id="2272983" k="from" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="2272983" k="name" o="modify" type="relation" v="TER 54 : Chamb&#233;ry &#8722; Lyon" />
+    <tag id="2272983" k="type" o="none" type="relation" v="route" />
+    <tag id="2272983" k="route" o="none" type="relation" v="train" />
+    <tag id="2272983" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2272983" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2272983" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2272983" k="service" o="none" type="relation" v="regional" />
+    <tag id="2272983" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2272983" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2272983" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2272983" k="description" o="none" type="relation" v="Pour Lyon - St-Andr&#233;-le-Gaz, voir la relation 01" />
+    <tag id="2272983" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2274103" k="to" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="2274103" k="ref" o="none" type="relation" v="TER 60" />
+    <tag id="2274103" k="via" o="none" type="relation" v="Grenoble-Universit&#233;s-Gi&#232;res" />
+    <tag id="2274103" k="from" o="none" type="relation" v="Grenoble-Universit&#233;s-Gi&#232;res" />
+    <tag id="2274103" k="name" o="modify" type="relation" v="TER 60 : Grenoble &#8722; Chamb&#233;ry" />
+    <tag id="2274103" k="type" o="none" type="relation" v="route" />
+    <tag id="2274103" k="route" o="none" type="relation" v="train" />
+    <tag id="2274103" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2274103" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2274103" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2274103" k="service" o="none" type="relation" v="regional" />
+    <tag id="2274103" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2274103" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2274103" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2274103" k="description" o="modify" type="relation" v="Certains trains sont prolong&#233;s de Grenoble &#224; St-Andr&#233;-le-Gaz, relation 62" />
+    <tag id="2274103" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2274104" k="to" o="none" type="relation" v="Gap" />
+    <tag id="2274104" k="ref" o="none" type="relation" v="TER 63" />
+    <tag id="2274104" k="via" o="none" type="relation" v="Clelles-Mens" />
+    <tag id="2274104" k="from" o="none" type="relation" v="Grenoble" />
+    <tag id="2274104" k="name" o="modify" type="relation" v="TER 63 : Grenoble &#8722; Gap" />
+    <tag id="2274104" k="type" o="none" type="relation" v="route" />
+    <tag id="2274104" k="route" o="none" type="relation" v="train" />
+    <tag id="2274104" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2274104" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2274104" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2274104" k="service" o="none" type="relation" v="regional" />
+    <tag id="2274104" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2274104" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2274104" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2274104" k="description" o="none" type="relation" v="Certains trains sont prolong&#233;s de Gap &#224; Brian&#231;on, voir relation TER PACA 15" />
+    <tag id="2274104" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2274158" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="2274158" k="ref" o="none" type="relation" v="TER 52" />
+    <tag id="2274158" k="via" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="2274158" k="from" o="none" type="relation" v="Bourg-Saint-Maurice" />
+    <tag id="2274158" k="name" o="modify" type="relation" v="TER 52 : Bourg-Saint-Maurice &#8722; Chamb&#233;ry &#8722; (Lyon)" />
+    <tag id="2274158" k="type" o="none" type="relation" v="route" />
+    <tag id="2274158" k="route" o="none" type="relation" v="train" />
+    <tag id="2274158" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2274158" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2274158" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2274158" k="service" o="none" type="relation" v="regional" />
+    <tag id="2274158" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2274158" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2274158" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2274158" k="description" o="none" type="relation" v="Pour Lyon - Chamb&#233;ry, voir la relaiton 54. Pour Chamb&#233;ry - St-Pierre-d'Albigny, la 53" />
+    <tag id="2274158" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2274159" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="2274159" k="ref" o="none" type="relation" v="TER 53" />
+    <tag id="2274159" k="via" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="2274159" k="from" o="none" type="relation" v="Modane" />
+    <tag id="2274159" k="name" o="modify" type="relation" v="TER 53 : Modane &#8722; Chamb&#233;ry &#8722; (Lyon)" />
+    <tag id="2274159" k="type" o="none" type="relation" v="route" />
+    <tag id="2274159" k="route" o="none" type="relation" v="train" />
+    <tag id="2274159" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2274159" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2274159" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2274159" k="service" o="none" type="relation" v="regional" />
+    <tag id="2274159" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2274159" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2274159" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2274159" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2276777" k="to" o="none" type="relation" v="Gen&#232;ve" />
+    <tag id="2276777" k="ref" o="none" type="relation" v="TER 51" />
+    <tag id="2276777" k="from" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="2276777" k="name" o="modify" type="relation" v="TER 51 : Chamb&#233;ry &#8722; Culoz &#8722; Gen&#232;ve" />
+    <tag id="2276777" k="type" o="none" type="relation" v="route" />
+    <tag id="2276777" k="route" o="none" type="relation" v="train" />
+    <tag id="2276777" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2276777" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2276777" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2276777" k="service" o="none" type="relation" v="regional" />
+    <tag id="2276777" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2276777" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2276777" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2276777" k="description" o="none" type="relation" v="Pour Chamb&#233;ry - Aix, voir aussi la relation 50. pour Bellegarde - Gen&#232;ve, la 34" />
+    <tag id="2276777" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2276778" k="to" o="none" type="relation" v="Chamb&#233;ry" />
+    <tag id="2276778" k="ref" o="none" type="relation" v="TER 50" />
+    <tag id="2276778" k="from" o="none" type="relation" v="Annecy" />
+    <tag id="2276778" k="name" o="modify" type="relation" v="TER 50 : Annecy &#8722; Chamb&#233;ry" />
+    <tag id="2276778" k="type" o="none" type="relation" v="route" />
+    <tag id="2276778" k="route" o="none" type="relation" v="train" />
+    <tag id="2276778" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2276778" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2276778" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2276778" k="service" o="none" type="relation" v="regional" />
+    <tag id="2276778" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2276778" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2276778" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2276778" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2278650" k="to" o="add" type="relation" v="Lyon" />
+    <tag id="2278650" k="ref" o="none" type="relation" v="TER 04" />
+    <tag id="2278650" k="via" o="add" type="relation" v="Aix-les-Bains" />
+    <tag id="2278650" k="from" o="add" type="relation" v="Annecy" />
+    <tag id="2278650" k="name" o="modify" type="relation" v="TER 04 : Annecy &#8722; Aix &#8722; Lyon" />
+    <tag id="2278650" k="type" o="none" type="relation" v="route" />
+    <tag id="2278650" k="route" o="none" type="relation" v="train" />
+    <tag id="2278650" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2278650" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2278650" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2278650" k="service" o="none" type="relation" v="regional" />
+    <tag id="2278650" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2278650" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2278650" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2278650" k="description" o="none" type="relation" v="Pour l'ensemble des trains voir aussi les relations 35 et 50" />
+    <tag id="2278650" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2283789" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="2283789" k="ref" o="none" type="relation" v="TER 03" />
+    <tag id="2283789" k="via" o="none" type="relation" v="Annemasse, Bellegarde" />
+    <tag id="2283789" k="from" o="add" type="relation" v="Saint-Gervais-les-Bains-le-Fayet ou &#201;vian-les-Bains ou Gen&#232;ve Cornavin" />
+    <tag id="2283789" k="name" o="modify" type="relation" v="TER 03 : St Gervais / Evian / Gen&#232;ve &#8722; Bellegarde &#8722; Lyon" />
+    <tag id="2283789" k="type" o="none" type="relation" v="route" />
+    <tag id="2283789" k="route" o="none" type="relation" v="train" />
+    <tag id="2283789" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2283789" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2283789" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2283789" k="service" o="none" type="relation" v="regional" />
+    <tag id="2283789" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2283789" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2283789" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2283789" k="description" o="none" type="relation" v="Pour l'ensemble des trains voir aussi les relations 35, 40 et 42" />
+    <tag id="2283789" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2294391" k="to" o="none" type="relation" v="Saint-Gervais-Les-Bains" />
+    <tag id="2294391" k="ref" o="none" type="relation" v="TER 43" />
+    <tag id="2294391" k="via" o="none" type="relation" v="La-Roche-sur-Foron" />
+    <tag id="2294391" k="from" o="none" type="relation" v="Annecy" />
+    <tag id="2294391" k="name" o="modify" type="relation" v="TER 43 : Annecy &#8722; La-Roche-sur-Foron &#8722; Saint-Gervais" />
+    <tag id="2294391" k="type" o="none" type="relation" v="route" />
+    <tag id="2294391" k="route" o="none" type="relation" v="train" />
+    <tag id="2294391" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="2294391" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="2294391" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="2294391" k="service" o="none" type="relation" v="regional" />
+    <tag id="2294391" k="by_night" o="none" type="relation" v="no" />
+    <tag id="2294391" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2294391" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="2294391" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="2827193" k="name" o="none" type="relation" v="TER Auvergne" />
+    <tag id="2827193" k="type" o="none" type="relation" v="network" />
+    <tag id="2827193" k="network" o="none" type="relation" v="TER" />
+    <tag id="2827193" k="service" o="none" type="relation" v="regional" />
+    <tag id="2827193" k="website" o="none" type="relation" v="https://www.ter.sncf.com/auvergne/" />
+    <tag id="2827193" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="2827193" k="wikipedia" o="none" type="relation" v="fr:TER Auvergne" />
+    <tag id="3090858" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="3090858" k="ref" o="none" type="relation" v="TER 32" />
+    <tag id="3090858" k="via" o="none" type="relation" v="Villard-les-Dombes" />
+    <tag id="3090858" k="from" o="none" type="relation" v="Bourg-en-Bresse" />
+    <tag id="3090858" k="name" o="modify" type="relation" v="TER 32 : Bourg-en-Bresse &#8722; Lyon" />
+    <tag id="3090858" k="type" o="none" type="relation" v="route" />
+    <tag id="3090858" k="route" o="none" type="relation" v="train" />
+    <tag id="3090858" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3090858" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3090858" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3090858" k="service" o="none" type="relation" v="regional" />
+    <tag id="3090858" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3090858" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3090858" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3090858" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3151502" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="3151502" k="ref" o="none" type="relation" v="TER 20" />
+    <tag id="3151502" k="via" o="none" type="relation" v="Lamure-sur-Azergues, Lozanne" />
+    <tag id="3151502" k="from" o="none" type="relation" v="Paray-le-Monial" />
+    <tag id="3151502" k="name" o="modify" type="relation" v="TER 20 : Paray-le-Monial &#8722; Lozanne &#8722; Lyon" />
+    <tag id="3151502" k="type" o="none" type="relation" v="route" />
+    <tag id="3151502" k="route" o="none" type="relation" v="train" />
+    <tag id="3151502" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3151502" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3151502" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3151502" k="service" o="none" type="relation" v="regional" />
+    <tag id="3151502" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3151502" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3151502" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3151502" k="description" o="none" type="relation" v="Voir aussi la relation TER Bourgone 11 pour Nevers - Moulins - Paray" />
+    <tag id="3151502" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3228455" k="to" o="add" type="relation" v="Tassin" />
+    <tag id="3228455" k="ref" o="none" type="relation" v="TER 23" />
+    <tag id="3228455" k="from" o="add" type="relation" v="Lozanne" />
+    <tag id="3228455" k="name" o="modify" type="relation" v="TER 23 : Lozanne &#8722; Tassin" />
+    <tag id="3228455" k="type" o="none" type="relation" v="route" />
+    <tag id="3228455" k="route" o="none" type="relation" v="train" />
+    <tag id="3228455" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3228455" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3228455" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3228455" k="service" o="none" type="relation" v="regional" />
+    <tag id="3228455" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3228455" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3228455" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3228455" k="description" o="add" type="relation" v="Correspondance &#224; Tassin pour Lyon St-Paul" />
+    <tag id="3228455" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3241307" k="to" o="none" type="relation" v="Le-Puy-en-Velay" />
+    <tag id="3241307" k="ref" o="modify" type="relation" v="TER 26" />
+    <tag id="3241307" k="via" o="none" type="relation" v="Arvant, Saint-Georges-d'Aurac" />
+    <tag id="3241307" k="from" o="none" type="relation" v="Clermont-Ferrand" />
+    <tag id="3241307" k="name" o="modify" type="relation" v="TER 26 : Clermont-Ferrand &#8722; Le-Puy-en-Velay" />
+    <tag id="3241307" k="type" o="none" type="relation" v="route" />
+    <tag id="3241307" k="route" o="none" type="relation" v="train" />
+    <tag id="3241307" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="3241307" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3241307" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="3241307" k="service" o="none" type="relation" v="regional" />
+    <tag id="3241307" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3241307" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3241307" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3241307" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3247071" k="to" o="none" type="relation" v="Saint-&#201;tienne-Ch&#226;teaucreux" />
+    <tag id="3247071" k="ref" o="none" type="relation" v="TER 12" />
+    <tag id="3247071" k="via" o="none" type="relation" v="Feurs" />
+    <tag id="3247071" k="from" o="none" type="relation" v="Roanne" />
+    <tag id="3247071" k="name" o="modify" type="relation" v="TER 12 : Roanne &#8722; Saint-&#201;tienne" />
+    <tag id="3247071" k="type" o="none" type="relation" v="route" />
+    <tag id="3247071" k="route" o="none" type="relation" v="train" />
+    <tag id="3247071" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3247071" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3247071" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3247071" k="service" o="none" type="relation" v="regional" />
+    <tag id="3247071" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3247071" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3247071" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3247071" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3250781" k="to" o="none" type="relation" v="Lyon-Part-Dieu ou Perache" />
+    <tag id="3250781" k="ref" o="modify" type="relation" v="TER 24" />
+    <tag id="3250781" k="via" o="none" type="relation" v="M&#226;con - Ville" />
+    <tag id="3250781" k="from" o="none" type="relation" v="Dijon - Ville" />
+    <tag id="3250781" k="name" o="modify" type="relation" v="TER 24 : (Dijon) &#8722; M&#226;con &#8722; Lyon" />
+    <tag id="3250781" k="type" o="none" type="relation" v="route" />
+    <tag id="3250781" k="route" o="none" type="relation" v="train" />
+    <tag id="3250781" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3250781" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3250781" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3250781" k="service" o="none" type="relation" v="regional" />
+    <tag id="3250781" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3250781" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3250781" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3250781" k="description" o="none" type="relation" v="Voir aussi la relation TER Bourgone 01 et 02 pour Paris - Dijon - M&#226;con ; Certains trains sont prolong&#233;s de Lyon Perrache &#224; Vienne, voir relation 05" />
+    <tag id="3250781" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3254767" k="to" o="none" type="relation" v="Clermont-Ferrand" />
+    <tag id="3254767" k="ref" o="modify" type="relation" v="TER 11" />
+    <tag id="3254767" k="via" o="none" type="relation" v="Thiers" />
+    <tag id="3254767" k="from" o="none" type="relation" v="Saint-&#201;tienne" />
+    <tag id="3254767" k="name" o="modify" type="relation" v="TER 11 : Saint-&#201;tienne &#8722; Thiers &#8722; Clermont-Ferrand" />
+    <tag id="3254767" k="type" o="none" type="relation" v="route" />
+    <tag id="3254767" k="route" o="none" type="relation" v="train" />
+    <tag id="3254767" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="3254767" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3254767" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="3254767" k="service" o="none" type="relation" v="regional" />
+    <tag id="3254767" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3254767" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3254767" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3254767" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3262836" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="3262836" k="ref" o="none" type="relation" v="TER 31" />
+    <tag id="3262836" k="via" o="none" type="relation" v="Oyonnax, Bourg en Bresse" />
+    <tag id="3262836" k="from" o="none" type="relation" v="Saint-Claude" />
+    <tag id="3262836" k="name" o="modify" type="relation" v="TER 31 : Saint-Claude &#8722; Oyonnax &#8722; Bourg-en-Bresse &#8722; (Lyon)" />
+    <tag id="3262836" k="type" o="none" type="relation" v="route" />
+    <tag id="3262836" k="route" o="none" type="relation" v="train" />
+    <tag id="3262836" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3262836" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3262836" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3262836" k="service" o="none" type="relation" v="regional" />
+    <tag id="3262836" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3262836" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3262836" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3262836" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3281974" k="ref" o="modify" type="relation" v="TER 19" />
+    <tag id="3281974" k="via" o="none" type="relation" v="Ambert" />
+    <tag id="3281974" k="name" o="modify" type="relation" v="TER 19 : Arlanc &#8722; Ambert &#8722; Vichy" />
+    <tag id="3281974" k="type" o="none" type="relation" v="route" />
+    <tag id="3281974" k="route" o="none" type="relation" v="bus" />
+    <tag id="3281974" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="3281974" k="bicycle" o="none" type="relation" v="no" />
+    <tag id="3281974" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="3281974" k="service" o="none" type="relation" v="regional" />
+    <tag id="3281974" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3281974" k="operator" o="none" type="relation" v="Keolis" />
+    <tag id="3281974" k="wheelchair" o="none" type="relation" v="no" />
+    <tag id="3281974" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="3377496" k="to" o="none" type="relation" v="Valence-Ville" />
+    <tag id="3377496" k="ref" o="none" type="relation" v="TER 70" />
+    <tag id="3377496" k="via" o="none" type="relation" v="Valence TGV" />
+    <tag id="3377496" k="from" o="none" type="relation" v="Romans-Bourg-de-P&#233;age" />
+    <tag id="3377496" k="name" o="modify" type="relation" v="TER 70 : Romans &#8722; Valence TGV &#8722; Valence" />
+    <tag id="3377496" k="type" o="none" type="relation" v="route" />
+    <tag id="3377496" k="route" o="none" type="relation" v="train" />
+    <tag id="3377496" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="3377496" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="3377496" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="3377496" k="service" o="none" type="relation" v="regional" />
+    <tag id="3377496" k="by_night" o="none" type="relation" v="no" />
+    <tag id="3377496" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="3377496" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="3377496" k="description" o="none" type="relation" v="Certains trains sont prolong&#233;s de Valence &#224; Gap, relation 64" />
+    <tag id="3377496" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4504826" k="to" o="none" type="relation" v="Saint-&#201;tienne ou Lyon-Part-Dieu" />
+    <tag id="4504826" k="ref" o="modify" type="relation" v="TER 09" />
+    <tag id="4504826" k="from" o="none" type="relation" v="Le-Puy-en-Velay" />
+    <tag id="4504826" k="name" o="modify" type="relation" v="TER 09 : Le-Puy-en-Velay &#8722; Saint-&#201;tienne &#8722; Lyon" />
+    <tag id="4504826" k="type" o="none" type="relation" v="route" />
+    <tag id="4504826" k="route" o="none" type="relation" v="train" />
+    <tag id="4504826" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4504826" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4504826" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4504826" k="service" o="none" type="relation" v="regional" />
+    <tag id="4504826" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4504826" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4504826" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4504826" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4515177" k="to" o="none" type="relation" v="Saint-&#201;tienne" />
+    <tag id="4515177" k="ref" o="none" type="relation" v="TER 11" />
+    <tag id="4515177" k="via" o="modify" type="relation" v="Thiers, Montbrison" />
+    <tag id="4515177" k="from" o="none" type="relation" v="Clermont-Ferrand" />
+    <tag id="4515177" k="name" o="modify" type="relation" v="TER 11 : Clermont &#8722; Thiers &#8722; Montbrison &#8722; Saint-&#201;tienne" />
+    <tag id="4515177" k="type" o="none" type="relation" v="route" />
+    <tag id="4515177" k="route" o="none" type="relation" v="train" />
+    <tag id="4515177" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="4515177" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4515177" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="4515177" k="service" o="none" type="relation" v="regional" />
+    <tag id="4515177" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4515177" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4515177" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4515177" k="description" o="modify" type="relation" v="Ligne int&#233;rompue jusqu'&#224; nouvel ordre entre Thiers et Montbrison, des Cars remplacent les trains" />
+    <tag id="4515177" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4515448" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="4515448" k="ref" o="modify" type="relation" v="TER 06" />
+    <tag id="4515448" k="via" o="none" type="relation" v="Roanne" />
+    <tag id="4515448" k="from" o="none" type="relation" v="Clermont-Ferrand" />
+    <tag id="4515448" k="name" o="modify" type="relation" v="TER 06 : Clermont &#8722; Roanne &#8722; Lyon" />
+    <tag id="4515448" k="type" o="none" type="relation" v="route" />
+    <tag id="4515448" k="route" o="none" type="relation" v="train" />
+    <tag id="4515448" k="colour" o="none" type="relation" v="#48335a" />
+    <tag id="4515448" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4515448" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="4515448" k="service" o="none" type="relation" v="regional" />
+    <tag id="4515448" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4515448" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4515448" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4515448" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4791430" k="to" o="add" type="relation" v="Paris-Bercy" />
+    <tag id="4791430" k="ref" o="modify" type="relation" v="TER 14" />
+    <tag id="4791430" k="from" o="add" type="relation" v="Clermont-Ferrand" />
+    <tag id="4791430" k="name" o="modify" type="relation" v="TER 14 : Clermont-Ferrand &#8722; Moulins-sur-Allier &#8722; (Paris)" />
+    <tag id="4791430" k="type" o="none" type="relation" v="route" />
+    <tag id="4791430" k="route" o="none" type="relation" v="train" />
+    <tag id="4791430" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4791430" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4791430" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4791430" k="service" o="none" type="relation" v="regional" />
+    <tag id="4791430" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4791430" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4791430" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4791430" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4791431" k="to" o="none" type="relation" v="Lyon" />
+    <tag id="4791431" k="ref" o="modify" type="relation" v="TER 06" />
+    <tag id="4791431" k="via" o="none" type="relation" v="Roanne" />
+    <tag id="4791431" k="from" o="none" type="relation" v="Clermont-Ferrand" />
+    <tag id="4791431" k="name" o="modify" type="relation" v="TER 06 : Clermont-Ferrand &#8722; Lyon" />
+    <tag id="4791431" k="type" o="none" type="relation" v="route" />
+    <tag id="4791431" k="route" o="none" type="relation" v="train" />
+    <tag id="4791431" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4791431" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4791431" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4791431" k="service" o="none" type="relation" v="regional" />
+    <tag id="4791431" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4791431" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4791431" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4791431" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4791432" k="ref" o="modify" type="relation" v="TER 15" />
+    <tag id="4791432" k="name" o="modify" type="relation" v="TER 15 : Clermont-Ferrand &#8722; Riom &#8722; Vichy" />
+    <tag id="4791432" k="type" o="none" type="relation" v="route" />
+    <tag id="4791432" k="route" o="none" type="relation" v="train" />
+    <tag id="4791432" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4791432" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4791432" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4791432" k="service" o="none" type="relation" v="regional" />
+    <tag id="4791432" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4791432" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4791432" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4791432" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4797161" k="ref" o="modify" type="relation" v="TER 80" />
+    <tag id="4797161" k="name" o="modify" type="relation" v="TER 80 : Brioude &#8722; Issoire &#8722; Clermont-Ferrand &#8722; (Riom)" />
+    <tag id="4797161" k="type" o="none" type="relation" v="route" />
+    <tag id="4797161" k="route" o="none" type="relation" v="train" />
+    <tag id="4797161" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4797161" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4797161" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4797161" k="service" o="none" type="relation" v="regional" />
+    <tag id="4797161" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4797161" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4797161" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4797161" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4801550" k="ref" o="modify" type="relation" v="TER 83" />
+    <tag id="4801550" k="name" o="modify" type="relation" v="TER 83 : Clermont-Ferrand &#8722; Mont-Dore" />
+    <tag id="4801550" k="type" o="none" type="relation" v="route" />
+    <tag id="4801550" k="route" o="none" type="relation" v="train" />
+    <tag id="4801550" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4801550" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4801550" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4801550" k="service" o="none" type="relation" v="regional" />
+    <tag id="4801550" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4801550" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4801550" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4801550" k="description" o="add" type="relation" v="Ligne int&#233;rompue jusqu'&#224; nouvel ordre, des Cars remplacent les trains" />
+    <tag id="4801550" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4801551" k="ref" o="modify" type="relation" v="TER 83" />
+    <tag id="4801551" k="name" o="modify" type="relation" v="TER 83 : Clermont-Ferrand &#8722; Ussel" />
+    <tag id="4801551" k="type" o="none" type="relation" v="route" />
+    <tag id="4801551" k="route" o="none" type="relation" v="bus" />
+    <tag id="4801551" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4801551" k="bicycle" o="none" type="relation" v="no" />
+    <tag id="4801551" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4801551" k="service" o="none" type="relation" v="regional" />
+    <tag id="4801551" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4801551" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4801551" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4801551" k="description" o="none" type="relation" v="Suite &#224; la fermeture de la section d'Eygurande-Merlines &#224; Laqueuille en attente de travaux, ligne transf&#233;r&#233;es sur route." />
+    <tag id="4801551" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4803374" k="ref" o="modify" type="relation" v="TER 16" />
+    <tag id="4803374" k="name" o="modify" type="relation" v="TER 16 : Montlu&#231;on &#8722; Grannat &#8722; Clermont-Ferrand" />
+    <tag id="4803374" k="type" o="none" type="relation" v="route" />
+    <tag id="4803374" k="route" o="none" type="relation" v="train" />
+    <tag id="4803374" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4803374" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4803374" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4803374" k="service" o="none" type="relation" v="regional" />
+    <tag id="4803374" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4803374" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4803374" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4803374" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4803375" k="ref" o="modify" type="relation" v="TER 17" />
+    <tag id="4803375" k="name" o="modify" type="relation" v="TER 17 : Montlu&#231;on &#8722; Vierzon/Bourges &#8722; (Paris)" />
+    <tag id="4803375" k="type" o="none" type="relation" v="route" />
+    <tag id="4803375" k="route" o="none" type="relation" v="train" />
+    <tag id="4803375" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4803375" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4803375" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4803375" k="service" o="none" type="relation" v="regional" />
+    <tag id="4803375" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4803375" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4803375" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4803375" k="description" o="none" type="relation" v="Voir aussi la relation 36 TER Centre et la relation 400 Intercit&#233;s" />
+    <tag id="4803375" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4803462" k="ref" o="modify" type="relation" v="TER 65" />
+    <tag id="4803462" k="name" o="modify" type="relation" v="TER 65 : Clermont-Ferrand &#8722; Aurillac &#8722; Toulouse" />
+    <tag id="4803462" k="type" o="none" type="relation" v="route" />
+    <tag id="4803462" k="route" o="none" type="relation" v="train" />
+    <tag id="4803462" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4803462" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4803462" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4803462" k="service" o="none" type="relation" v="regional" />
+    <tag id="4803462" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4803462" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4803462" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4803462" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4803468" k="ref" o="modify" type="relation" v="TER 81" />
+    <tag id="4803468" k="name" o="modify" type="relation" v="TER 81 : Clermont-Ferrand &#8722; Saint-Flour &#8722; B&#233;ziers" />
+    <tag id="4803468" k="type" o="none" type="relation" v="route" />
+    <tag id="4803468" k="route" o="none" type="relation" v="train" />
+    <tag id="4803468" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4803468" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4803468" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4803468" k="service" o="none" type="relation" v="regional" />
+    <tag id="4803468" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4803468" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4803468" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4803468" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4808256" k="ref" o="modify" type="relation" v="TER 69" />
+    <tag id="4808256" k="name" o="modify" type="relation" v="TER 69 : Neussargues &#8722; Bort-les-Orgues" />
+    <tag id="4808256" k="type" o="none" type="relation" v="route" />
+    <tag id="4808256" k="route" o="none" type="relation" v="bus" />
+    <tag id="4808256" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4808256" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4808256" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4808256" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4808257" k="ref" o="modify" type="relation" v="TER 68" />
+    <tag id="4808257" k="name" o="modify" type="relation" v="TER 68 : Mauriac &#8722; Bort-les-Orgues &#8722; Clermont-Ferrand" />
+    <tag id="4808257" k="type" o="none" type="relation" v="route" />
+    <tag id="4808257" k="route" o="none" type="relation" v="bus" />
+    <tag id="4808257" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4808257" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4808257" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4808257" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4808258" k="ref" o="modify" type="relation" v="TER 18" />
+    <tag id="4808258" k="name" o="modify" type="relation" v="TER 18 : Montlu&#231;on &#8722; Vichy &#8722; (Lyon)" />
+    <tag id="4808258" k="type" o="none" type="relation" v="route" />
+    <tag id="4808258" k="fixme" o="none" type="relation" v="Les bus n'ont pas le droit de sortir de la gare routi&#232;re &#224; gauche. Itin&#233;raire &#224; revoir dans le pseudo-quartier de la gare." />
+    <tag id="4808258" k="route" o="none" type="relation" v="bus" />
+    <tag id="4808258" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4808258" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4808258" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4808258" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4809651" k="ref" o="modify" type="relation" v="TER 07" />
+    <tag id="4809651" k="name" o="modify" type="relation" v="TER 07 : Moulins-sur-Allier &#8722; Lyon" />
+    <tag id="4809651" k="type" o="none" type="relation" v="route" />
+    <tag id="4809651" k="route" o="none" type="relation" v="train" />
+    <tag id="4809651" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4809651" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4809651" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4809651" k="service" o="none" type="relation" v="regional" />
+    <tag id="4809651" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4809651" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4809651" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4809651" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4809652" k="ref" o="modify" type="relation" v="TER 66" />
+    <tag id="4809652" k="name" o="modify" type="relation" v="TER 66 : Aurillac &#8722; Saint-Flour &#8722; (B&#233;ziers)" />
+    <tag id="4809652" k="type" o="none" type="relation" v="route" />
+    <tag id="4809652" k="route" o="none" type="relation" v="train" />
+    <tag id="4809652" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4809652" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4809652" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4809652" k="service" o="none" type="relation" v="regional" />
+    <tag id="4809652" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4809652" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4809652" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4809652" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4809653" k="ref" o="modify" type="relation" v="TER" />
+    <tag id="4809653" k="name" o="modify" type="relation" v="TER : Aurillac - Brive-la-Gaillarde" />
+    <tag id="4809653" k="type" o="none" type="relation" v="route" />
+    <tag id="4809653" k="route" o="none" type="relation" v="train" />
+    <tag id="4809653" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4809653" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4809653" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4809653" k="service" o="none" type="relation" v="regional" />
+    <tag id="4809653" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4809653" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4809653" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4809653" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4814982" k="ref" o="modify" type="relation" v="TER 27" />
+    <tag id="4814982" k="name" o="modify" type="relation" v="TER 27 : Le Puy &#8722; La Chaise Dieu" />
+    <tag id="4814982" k="type" o="none" type="relation" v="route" />
+    <tag id="4814982" k="route" o="none" type="relation" v="bus" />
+    <tag id="4814982" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4814982" k="bicycle" o="none" type="relation" v="no" />
+    <tag id="4814982" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4814982" k="service" o="none" type="relation" v="regional" />
+    <tag id="4814982" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4814982" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4814982" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4814982" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4831036" k="ref" o="modify" type="relation" v="TER 28" />
+    <tag id="4831036" k="name" o="modify" type="relation" v="TER 28 : Duni&#232;res &#8722; Firminy" />
+    <tag id="4831036" k="type" o="none" type="relation" v="route" />
+    <tag id="4831036" k="route" o="none" type="relation" v="bus" />
+    <tag id="4831036" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4831036" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4831036" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4831036" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4833855" k="ref" o="modify" type="relation" v="TER 85" />
+    <tag id="4833855" k="name" o="modify" type="relation" v="TER 85 : Clermont-Ferrand &#8722; Volvic" />
+    <tag id="4833855" k="type" o="none" type="relation" v="route" />
+    <tag id="4833855" k="route" o="none" type="relation" v="train" />
+    <tag id="4833855" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4833855" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4833855" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4833855" k="service" o="none" type="relation" v="regional" />
+    <tag id="4833855" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4833855" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4833855" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4833855" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4833856" k="ref" o="modify" type="relation" v="TER 85" />
+    <tag id="4833856" k="name" o="modify" type="relation" v="TER 85 : Volvic &#8722; Les Ancizes" />
+    <tag id="4833856" k="type" o="none" type="relation" v="route" />
+    <tag id="4833856" k="route" o="none" type="relation" v="bus" />
+    <tag id="4833856" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4833856" k="bicycle" o="none" type="relation" v="no" />
+    <tag id="4833856" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4833856" k="service" o="none" type="relation" v="regional" />
+    <tag id="4833856" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4833856" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4833856" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4833856" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="4833981" k="ref" o="modify" type="relation" v="TER 08" />
+    <tag id="4833981" k="name" o="modify" type="relation" v="TER 08 : Clermont-Ferrand &#8722; N&#238;mes" />
+    <tag id="4833981" k="type" o="none" type="relation" v="route" />
+    <tag id="4833981" k="route" o="none" type="relation" v="train" />
+    <tag id="4833981" k="colour" o="none" type="relation" v="#4ba149" />
+    <tag id="4833981" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="4833981" k="network" o="none" type="relation" v="TER Auvergne" />
+    <tag id="4833981" k="service" o="none" type="relation" v="regional" />
+    <tag id="4833981" k="by_night" o="none" type="relation" v="no" />
+    <tag id="4833981" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="4833981" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="4833981" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="6690550" k="to" o="none" type="relation" v="Vallorcine" />
+    <tag id="6690550" k="ref" o="none" type="relation" v="MBE" />
+    <tag id="6690550" k="via" o="none" type="relation" v="Chamonix" />
+    <tag id="6690550" k="from" o="none" type="relation" v="Saint-Gervais-Les-Bains-le-Fayet" />
+    <tag id="6690550" k="name" o="none" type="relation" v="MBE : Saint-Gervais -&gt; Vallorcine" />
+    <tag id="6690550" k="type" o="none" type="relation" v="route" />
+    <tag id="6690550" k="route" o="none" type="relation" v="train" />
+    <tag id="6690550" k="colour" o="none" type="relation" v="red" />
+    <tag id="6690550" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="6690550" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="6690550" k="ref:TER" o="modify" type="relation" v="44" />
+    <tag id="6690550" k="service" o="none" type="relation" v="regional;touristic" />
+    <tag id="6690550" k="by_night" o="none" type="relation" v="no" />
+    <tag id="6690550" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="6690550" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="6690550" k="ref:TMR/CFF" o="none" type="relation" v="132" />
+    <tag id="6690550" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6690552" k="to" o="none" type="relation" v="Saint-Gervais-Les-Bains-le-Fayet" />
+    <tag id="6690552" k="ref" o="none" type="relation" v="MBE" />
+    <tag id="6690552" k="via" o="none" type="relation" v="Chamonix" />
+    <tag id="6690552" k="from" o="none" type="relation" v="Vallorcine" />
+    <tag id="6690552" k="name" o="none" type="relation" v="MBE : Vallorcine -&gt; Saint-Gervais" />
+    <tag id="6690552" k="type" o="none" type="relation" v="route" />
+    <tag id="6690552" k="route" o="none" type="relation" v="train" />
+    <tag id="6690552" k="colour" o="none" type="relation" v="red" />
+    <tag id="6690552" k="bicycle" o="none" type="relation" v="yes" />
+    <tag id="6690552" k="network" o="none" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="6690552" k="ref:TER" o="modify" type="relation" v="44" />
+    <tag id="6690552" k="service" o="none" type="relation" v="regional;touristic" />
+    <tag id="6690552" k="by_night" o="none" type="relation" v="no" />
+    <tag id="6690552" k="operator" o="none" type="relation" v="SNCF" />
+    <tag id="6690552" k="wheelchair" o="none" type="relation" v="limited" />
+    <tag id="6690552" k="ref:TMR/CFF" o="none" type="relation" v="132" />
+    <tag id="6690552" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6777173" k="to" o="add" type="relation" v="Saint-&#201;tienne ou Lyon" />
+    <tag id="6777173" k="ref" o="add" type="relation" v="TER 09" />
+    <tag id="6777173" k="from" o="add" type="relation" v="Le-Puy-en-Velay ou Firminy" />
+    <tag id="6777173" k="name" o="add" type="relation" v="TER 09 : Le Puy &#8722; Firminy &#8722; Saint-&#201;tienne &#8722; (Lyon)" />
+    <tag id="6777173" k="type" o="add" type="relation" v="route" />
+    <tag id="6777173" k="route" o="add" type="relation" v="train" />
+    <tag id="6777173" k="colour" o="add" type="relation" v="#48335a" />
+    <tag id="6777173" k="bicycle" o="add" type="relation" v="yes" />
+    <tag id="6777173" k="network" o="add" type="relation" v="TER Rh&#244;ne-Alpes" />
+    <tag id="6777173" k="service" o="add" type="relation" v="regional" />
+    <tag id="6777173" k="by_night" o="add" type="relation" v="no" />
+    <tag id="6777173" k="operator" o="add" type="relation" v="SNCF" />
+    <tag id="6777173" k="wheelchair" o="add" type="relation" v="limited" />
+    <tag id="6777173" k="description" o="add" type="relation" v="Pour St-&#201;tienne &#8722; Lyon, voir aussi la relation 10" />
+    <tag id="6777173" k="public_transport:version" o="add" type="relation" v="1" />
+  </body>
+</changeset>

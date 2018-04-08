@@ -1,0 +1,582 @@
+<changeset id="44472469" schema="2">
+  <counts nodesAdded="36" nodesDeleted="0" nodesModified="1" relationsAdded="2" relationsDeleted="0" relationsModified="5" waysAdded="13" waysDeleted="1" waysModified="89" />
+  <meta>
+    <tag k="comment" v="highway details near Ettlingen" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en_GB)" />
+    <tag k="source" v="survey;Bing 2012" />
+  </meta>
+  <body>
+    <tag id="24958592" k="traffic_sign:forward" o="add" type="node" v="DE:260,DE:1020-30" />
+    <tag id="4211726" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4211726" k="lanes" o="add" type="way" v="1" />
+    <tag id="4211726" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4211726" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="4211726" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="4211726" k="source:maxspeed" o="add" type="way" v="DE:rural" />
+    <tag id="4211741" k="lanes" o="add" type="way" v="2" />
+    <tag id="4211741" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="4211741" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="4211741" k="maxspeed:backward" o="add" type="way" v="100" />
+    <tag id="4211741" k="hgv:forward:conditional" o="add" type="way" v="destination @ (weight&gt;7.5)" />
+    <tag id="4211741" k="source:maxspeed:backward" o="add" type="way" v="DE:rural" />
+    <tag id="4213873" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4213873" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4213873" k="lanes" o="modify" type="way" v="3" />
+    <tag id="4213873" k="layer" o="none" type="way" v="1" />
+    <tag id="4213873" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4213873" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4213873" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4213873" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="4213873" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="4213873" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="4213873" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4213873" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="4213873" k="change:lanes:forward" o="add" type="way" v="not_left|yes" />
+    <tag id="4213873" k="change:lanes:backward" o="add" type="way" v="no" />
+    <tag id="4213910" k="name" o="none" type="way" v="Am Brurain" />
+    <tag id="4213910" k="highway" o="none" type="way" v="residential" />
+    <tag id="4213910" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="4213910" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="4213970" k="name" o="none" type="way" v="Graf-Eberstein-Stra&#223;e" />
+    <tag id="4213970" k="highway" o="none" type="way" v="residential" />
+    <tag id="4213970" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="4213970" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="4287980" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4287980" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4287980" k="lanes" o="none" type="way" v="2" />
+    <tag id="4287980" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4287980" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4287980" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="4287980" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="4287980" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="4287980" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4287981" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4287981" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4287981" k="lanes" o="modify" type="way" v="3" />
+    <tag id="4287981" k="layer" o="none" type="way" v="1" />
+    <tag id="4287981" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4287981" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4287981" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4287981" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="4287981" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="4287981" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="4287981" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="4287981" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4287981" k="placement:backward" o="add" type="way" v="left_of:1" />
+    <tag id="4287981" k="turn:lanes:backward" o="add" type="way" v="through|right" />
+    <tag id="4288990" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4288990" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4288990" k="lanes" o="none" type="way" v="2" />
+    <tag id="4288990" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4288990" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4288990" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="4288990" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="4288990" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4288991" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4288991" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4288991" k="lanes" o="none" type="way" v="2" />
+    <tag id="4288991" k="layer" o="none" type="way" v="1" />
+    <tag id="4288991" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4288991" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4288991" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4288991" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="4288991" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="4288991" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4294990" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4294990" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4294990" k="lanes" o="none" type="way" v="2" />
+    <tag id="4294990" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4294990" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4294990" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="4294990" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="4294990" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4294991" k="ref" o="none" type="way" v="L 607" />
+    <tag id="4294991" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="4294991" k="lanes" o="add" type="way" v="2" />
+    <tag id="4294991" k="layer" o="none" type="way" v="1" />
+    <tag id="4294991" k="bridge" o="none" type="way" v="yes" />
+    <tag id="4294991" k="highway" o="none" type="way" v="secondary" />
+    <tag id="4294991" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4294991" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="4294991" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="4294991" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="4294992" k="lanes" o="add" type="way" v="2" />
+    <tag id="4294992" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="4294992" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="4304731" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="4304731" k="highway" o="none" type="way" v="residential" />
+    <tag id="4304731" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="4304731" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="4304732" k="name" o="none" type="way" v="Rosenstra&#223;e" />
+    <tag id="4304732" k="highway" o="none" type="way" v="residential" />
+    <tag id="4304732" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="4304732" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="4304733" k="name" o="none" type="way" v="Middelkerker Stra&#223;e" />
+    <tag id="4304733" k="highway" o="none" type="way" v="residential" />
+    <tag id="4304733" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4304733" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4304733" k="motor_vehicle" o="none" type="way" v="destination" />
+    <tag id="4306087" k="name" o="none" type="way" v="Scheibenhardter Stra&#223;e" />
+    <tag id="4306087" k="highway" o="none" type="way" v="residential" />
+    <tag id="4306087" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4306087" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="4306087" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="4306088" k="name" o="none" type="way" v="Gro&#223;-Ott-Stra&#223;e" />
+    <tag id="4306088" k="highway" o="none" type="way" v="residential" />
+    <tag id="4306088" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="4306088" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="4961052" k="name" o="add" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="4961052" k="highway" o="none" type="way" v="residential" />
+    <tag id="4961052" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="4961052" k="motor_vehicle" o="none" type="way" v="destination" />
+    <tag id="5097874" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="5097874" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="5097874" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="5097874" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="5097874" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097875" k="name" o="none" type="way" v="Ernst-Barlach-Ring" />
+    <tag id="5097875" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097875" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097875" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097878" k="name" o="none" type="way" v="K&#228;the-Kollwitz-Stra&#223;e" />
+    <tag id="5097878" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097878" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097878" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097879" k="name" o="none" type="way" v="Am Grabenacker" />
+    <tag id="5097879" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097879" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097879" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097880" k="name" o="none" type="way" v="Max-Beckmann-Stra&#223;e" />
+    <tag id="5097880" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097880" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097880" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097882" k="name" o="none" type="way" v="Bergwaldstra&#223;e" />
+    <tag id="5097882" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097882" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097882" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097883" k="name" o="none" type="way" v="Morgenstra&#223;e" />
+    <tag id="5097883" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097883" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="5097883" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097883" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097884" k="name" o="none" type="way" v="Morgenstra&#223;e" />
+    <tag id="5097884" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5097884" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097884" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="5097884" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="5097888" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="5097888" k="highway" o="none" type="way" v="residential" />
+    <tag id="5097888" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="5097888" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="5097888" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756033" k="name" o="none" type="way" v="Keltergasse" />
+    <tag id="23756033" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756033" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="23756033" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="23756033" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756042" k="name" o="none" type="way" v="Br&#252;ckelweg" />
+    <tag id="23756042" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756042" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756042" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756043" k="name" o="none" type="way" v="Steinig&#228;cker" />
+    <tag id="23756043" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756043" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756046" k="name" o="none" type="way" v="Georg-Blasel-Stra&#223;e" />
+    <tag id="23756046" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756046" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756046" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756051" k="name" o="none" type="way" v="Hellen&#228;cker" />
+    <tag id="23756051" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756051" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756053" k="name" o="none" type="way" v="Im Weilig" />
+    <tag id="23756053" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756053" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756057" k="name" o="none" type="way" v="Kniebisstra&#223;e" />
+    <tag id="23756057" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756057" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756057" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756058" k="name" o="none" type="way" v="Zur Dornheck" />
+    <tag id="23756058" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756058" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756060" k="name" o="none" type="way" v="Steinig&#228;cker" />
+    <tag id="23756060" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756060" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756061" k="name" o="none" type="way" v="Gansgrabenweg" />
+    <tag id="23756061" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756061" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756061" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756064" k="name" o="none" type="way" v="Willi-Egler-Weg" />
+    <tag id="23756064" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756064" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756064" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756066" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756066" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756066" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756069" k="name" o="none" type="way" v="Oskar-Kiefer-Stra&#223;e" />
+    <tag id="23756069" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756069" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756069" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756070" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756070" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756070" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756071" k="foot" o="none" type="way" v="permissive" />
+    <tag id="23756071" k="name" o="none" type="way" v="Gro&#223;-Ott-Stra&#223;e" />
+    <tag id="23756071" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756071" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756071" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756072" k="name" o="none" type="way" v="Franz-Marc-Stra&#223;e" />
+    <tag id="23756072" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756072" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756072" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756075" k="name" o="none" type="way" v="Karl-Albiker-Stra&#223;e" />
+    <tag id="23756075" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756075" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756075" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756078" k="name" o="none" type="way" v="Matthias-Hess-Weg" />
+    <tag id="23756078" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756078" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756078" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756079" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756079" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756079" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756081" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756081" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756081" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756081" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756083" k="name" o="none" type="way" v="Otto-Dix-Stra&#223;e" />
+    <tag id="23756083" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756083" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756083" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756085" k="name" o="none" type="way" v="Steinig&#228;cker" />
+    <tag id="23756085" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756085" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756087" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756087" k="highway" o="none" type="way" v="living_street" />
+    <tag id="23756087" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756088" k="name" o="none" type="way" v="Karl-Hofer-Stra&#223;e" />
+    <tag id="23756088" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756088" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756088" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756089" k="name" o="none" type="way" v="Schauinslandstra&#223;e" />
+    <tag id="23756089" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756089" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756089" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756090" k="name" o="none" type="way" v="Erich-Heckel-Stra&#223;e" />
+    <tag id="23756090" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756090" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756090" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756091" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756091" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756091" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756091" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="23756092" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="23756092" k="highway" o="none" type="way" v="residential" />
+    <tag id="23756092" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="23756092" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="24536191" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="24536191" k="highway" o="none" type="way" v="residential" />
+    <tag id="24536191" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="24536191" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24536191" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="24536192" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="24536192" k="highway" o="none" type="way" v="residential" />
+    <tag id="24536192" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24536192" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="24536193" k="name" o="none" type="way" v="Morgenstra&#223;e" />
+    <tag id="24536193" k="highway" o="none" type="way" v="residential" />
+    <tag id="24536193" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24536193" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="24536194" k="ref" o="none" type="way" v="L 607" />
+    <tag id="24536194" k="lanes" o="modify" type="way" v="3" />
+    <tag id="24536194" k="highway" o="none" type="way" v="secondary" />
+    <tag id="24536194" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="24536194" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="24536194" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="24536194" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="24536194" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="24536194" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="24536194" k="change:lanes:forward" o="add" type="way" v="not_left|yes" />
+    <tag id="24536194" k="change:lanes:backward" o="add" type="way" v="no" />
+    <tag id="24541410" k="highway" o="none" type="way" v="residential" />
+    <tag id="24541410" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24541410" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="24541430" k="name" o="none" type="way" v="Pfarrer-Benz-Stra&#223;e" />
+    <tag id="24541430" k="highway" o="none" type="way" v="residential" />
+    <tag id="24541430" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="24541430" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="34093038" k="foot" o="none" type="way" v="designated" />
+    <tag id="34093038" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="34093038" k="highway" o="none" type="way" v="path" />
+    <tag id="34093038" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="34093038" k="segregated" o="none" type="way" v="no" />
+    <tag id="34093038" k="smoothness" o="none" type="way" v="good" />
+    <tag id="41292646" k="ref" o="none" type="way" v="L 607" />
+    <tag id="41292646" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="41292646" k="lanes" o="add" type="way" v="1" />
+    <tag id="41292646" k="highway" o="none" type="way" v="secondary" />
+    <tag id="41292646" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="41292646" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="41292646" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="41292646" k="source:maxspeed" o="add" type="way" v="DE:rural" />
+    <tag id="42466603" k="ref" o="none" type="way" v="L 607" />
+    <tag id="42466603" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="42466603" k="lanes" o="none" type="way" v="1" />
+    <tag id="42466603" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42466603" k="highway" o="none" type="way" v="secondary" />
+    <tag id="42466603" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42466603" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42466603" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="42466604" k="ref" o="none" type="way" v="L 607" />
+    <tag id="42466604" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="42466604" k="lanes" o="none" type="way" v="1" />
+    <tag id="42466604" k="oneway" o="none" type="way" v="yes" />
+    <tag id="42466604" k="highway" o="none" type="way" v="secondary" />
+    <tag id="42466604" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42466604" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42466604" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="42466647" k="ref" o="none" type="way" v="L 607" />
+    <tag id="42466647" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="42466647" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="42466647" k="lanes" o="none" type="way" v="2" />
+    <tag id="42466647" k="highway" o="none" type="way" v="secondary" />
+    <tag id="42466647" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="42466647" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="42466647" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="47333715" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="47333715" k="highway" o="none" type="way" v="living_street" />
+    <tag id="47333715" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="48201971" k="ref" o="none" type="way" v="L 607" />
+    <tag id="48201971" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="48201971" k="lanes" o="add" type="way" v="2" />
+    <tag id="48201971" k="highway" o="none" type="way" v="secondary" />
+    <tag id="48201971" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="48201971" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="48201971" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="48201971" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="60110314" k="highway" o="none" type="way" v="path" />
+    <tag id="60110314" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="85547510" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="85547510" k="note" o="none" type="way" v="im SHP des NVK: III" />
+    <tag id="85547510" k="highway" o="none" type="way" v="residential" />
+    <tag id="85547510" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="85547510" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="85547514" k="name" o="none" type="way" v="Scheibenhardter Stra&#223;e" />
+    <tag id="85547514" k="highway" o="none" type="way" v="residential" />
+    <tag id="85547514" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="85547514" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="85547514" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="87022996" k="highway" o="none" type="way" v="service" />
+    <tag id="87022996" k="service" o="none" type="way" v="yard" />
+    <tag id="148052086" k="ref" o="none" type="way" v="L 607" />
+    <tag id="148052086" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="148052086" k="lanes" o="add" type="way" v="2" />
+    <tag id="148052086" k="highway" o="none" type="way" v="secondary" />
+    <tag id="148052086" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="148052086" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="148052086" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="148052086" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="148052086" k="hgv:forward:conditional" o="add" type="way" v="destination @ (weight&gt;7.5)" />
+    <tag id="232716847" k="ref" o="none" type="way" v="L 607" />
+    <tag id="232716847" k="note" o="none" type="way" v="im SHP des NVK: I" />
+    <tag id="232716847" k="lanes" o="none" type="way" v="2" />
+    <tag id="232716847" k="highway" o="none" type="way" v="secondary" />
+    <tag id="232716847" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="232716847" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="232716847" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="232716847" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="314977759" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="314977759" k="highway" o="none" type="way" v="residential" />
+    <tag id="314977759" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="314977759" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="314977759" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="324982739" k="name" o="none" type="way" v="Georg-Blasel-Stra&#223;e" />
+    <tag id="324982739" k="highway" o="none" type="way" v="residential" />
+    <tag id="324982739" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="324982739" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464035" k="name" o="none" type="way" v="Belchenstra&#223;e" />
+    <tag id="353464035" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464035" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="353464035" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464036" k="name" o="none" type="way" v="Dorfwiesenstra&#223;e" />
+    <tag id="353464036" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464036" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="353464036" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="353464036" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464041" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="353464041" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464041" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="353464041" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464042" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="353464042" k="note" o="none" type="way" v="im SHP des NVK: III" />
+    <tag id="353464042" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="353464042" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="353464042" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464044" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="353464044" k="note" o="none" type="way" v="im SHP des NVK: III" />
+    <tag id="353464044" k="highway" o="none" type="way" v="living_street" />
+    <tag id="353464044" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464049" k="name" o="none" type="way" v="Ettlinger Stra&#223;e" />
+    <tag id="353464049" k="highway" o="none" type="way" v="living_street" />
+    <tag id="353464049" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="353464049" k="maxspeed" o="none" type="way" v="7" />
+    <tag id="353464049" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464052" k="name" o="none" type="way" v="Georg-Blasel-Stra&#223;e" />
+    <tag id="353464052" k="highway" o="none" type="way" v="living_street" />
+    <tag id="353464052" k="maxspeed" o="none" type="way" v="7" />
+    <tag id="353464052" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464056" k="name" o="none" type="way" v="Im Weilig" />
+    <tag id="353464056" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464056" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="353464056" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464059" k="name" o="none" type="way" v="Morgenstra&#223;e" />
+    <tag id="353464059" k="highway" o="none" type="way" v="living_street" />
+    <tag id="353464059" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="353464059" k="maxspeed" o="none" type="way" v="7" />
+    <tag id="353464059" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464061" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="353464061" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464061" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="353464061" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="353464061" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464062" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="353464062" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464062" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="353464062" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="353464062" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="353464063" k="name" o="none" type="way" v="Scheibenhardter Stra&#223;e" />
+    <tag id="353464063" k="highway" o="none" type="way" v="residential" />
+    <tag id="353464063" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="353464063" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="353464063" k="motor_vehicle" o="add" type="way" v="destination" />
+    <tag id="460193211" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193211" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193211" k="lanes" o="add" type="way" v="2" />
+    <tag id="460193211" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193211" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193211" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193211" k="turn:forward" o="add" type="way" v="through;right" />
+    <tag id="460193211" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193211" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193211" k="hgv:forward:conditional" o="add" type="way" v="destination @ (weight&gt;7.5)" />
+    <tag id="460193212" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193212" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193212" k="lanes" o="add" type="way" v="2" />
+    <tag id="460193212" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193212" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193212" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193212" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="460193212" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193212" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193212" k="hgv:forward:conditional" o="add" type="way" v="destination @ (weight&gt;7.5)" />
+    <tag id="460193213" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193213" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193213" k="lanes" o="add" type="way" v="3" />
+    <tag id="460193213" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193213" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193213" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="460193213" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460193213" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460193213" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193213" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="460193213" k="change:lanes:forward" o="add" type="way" v="not_left|yes" />
+    <tag id="460193213" k="change:lanes:backward" o="add" type="way" v="no" />
+    <tag id="460193214" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193214" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193214" k="lanes" o="add" type="way" v="3" />
+    <tag id="460193214" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193214" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193214" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193214" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193214" k="lanes:forward" o="add" type="way" v="1" />
+    <tag id="460193214" k="lanes:backward" o="add" type="way" v="2" />
+    <tag id="460193214" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193214" k="placement:backward" o="add" type="way" v="left_of:1" />
+    <tag id="460193214" k="turn:lanes:backward" o="add" type="way" v="through|right" />
+    <tag id="460193215" k="lanes" o="add" type="way" v="1" />
+    <tag id="460193215" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460193215" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="460193216" k="lanes" o="add" type="way" v="1" />
+    <tag id="460193216" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460193216" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="460193217" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193217" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193217" k="lanes" o="add" type="way" v="2" />
+    <tag id="460193217" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193217" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193217" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193217" k="change:lanes" o="add" type="way" v="no|no" />
+    <tag id="460193217" k="turn:forward" o="add" type="way" v="left;through" />
+    <tag id="460193217" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193217" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193218" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193218" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193218" k="lanes" o="add" type="way" v="2" />
+    <tag id="460193218" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193218" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193218" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193218" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193218" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193219" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193219" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193219" k="lanes" o="add" type="way" v="3" />
+    <tag id="460193219" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193219" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193219" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193219" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193219" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460193219" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460193219" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193219" k="turn:lanes:forward" o="add" type="way" v="left|through" />
+    <tag id="460193219" k="change:lanes:forward" o="add" type="way" v="not_left|yes" />
+    <tag id="460193219" k="change:lanes:backward" o="add" type="way" v="no" />
+    <tag id="460193222" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193222" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193222" k="lanes" o="add" type="way" v="3" />
+    <tag id="460193222" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193222" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193222" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193222" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193222" k="lanes:forward" o="add" type="way" v="2" />
+    <tag id="460193222" k="lanes:backward" o="add" type="way" v="1" />
+    <tag id="460193222" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193222" k="placement:backward" o="add" type="way" v="left_of:1" />
+    <tag id="460193222" k="turn:lanes:forward" o="add" type="way" v="through|right" />
+    <tag id="460193222" k="hgv:forward:conditional" o="add" type="way" v="destination @ (weight&gt;7.5)" />
+    <tag id="460193226" k="ref" o="add" type="way" v="L 607" />
+    <tag id="460193226" k="note" o="add" type="way" v="im SHP des NVK: I" />
+    <tag id="460193226" k="lanes" o="add" type="way" v="2" />
+    <tag id="460193226" k="highway" o="add" type="way" v="secondary" />
+    <tag id="460193226" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="460193226" k="maxspeed" o="add" type="way" v="80" />
+    <tag id="460193226" k="zone:traffic" o="add" type="way" v="DE:rural" />
+    <tag id="460193226" k="source:maxspeed" o="add" type="way" v="sign" />
+    <tag id="460193226" k="hgv:forward:conditional" o="add" type="way" v="destination @ (weight&gt;7.5)" />
+    <tag id="460193229" k="lanes" o="add" type="way" v="1" />
+    <tag id="460193229" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460193229" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="460193229" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="460193229" k="destination" o="add" type="way" v="Malsch;Schluttenbach;Oberweier" />
+    <tag id="460193229" k="source:maxspeed" o="add" type="way" v="DE:rural" />
+    <tag id="460193232" k="lanes" o="add" type="way" v="1" />
+    <tag id="460193232" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460193232" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="460193232" k="hgv:conditional" o="add" type="way" v="destination @ weight&gt;7.5" />
+    <tag id="916004" k="name" o="none" type="relation" v="Deutsche Alleenstra&#223;e, Abschnitt 7 (Bad Kreuznach - Freudenstadt)" />
+    <tag id="916004" k="type" o="none" type="relation" v="route" />
+    <tag id="916004" k="route" o="none" type="relation" v="road" />
+    <tag id="916004" k="tourism" o="none" type="relation" v="yes" />
+    <tag id="916004" k="website" o="none" type="relation" v="http://alleenstrasse.com/routen.php?route=9" />
+    <tag id="3125284" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3125284" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3125285" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3125285" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="3125286" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3125286" k="restriction" o="none" type="relation" v="only_right_turn" />
+    <tag id="3125287" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3125287" k="restriction" o="none" type="relation" v="only_right_turn" />
+    <tag id="6798600" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6798600" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="6798601" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6798601" k="restriction" o="add" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

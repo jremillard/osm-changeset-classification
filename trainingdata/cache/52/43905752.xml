@@ -1,0 +1,423 @@
+<changeset id="43905752" schema="2">
+  <counts nodesAdded="99" nodesDeleted="57" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="7" waysDeleted="14" waysModified="66" />
+  <meta>
+    <tag k="comment" v="aligning tiger roads, adding roads, fixing validation warnings" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+    <tag k="source" v="Bing; New &amp; Misaligned TIGER Roads (2015); survey" />
+  </meta>
+  <body>
+    <tag id="16952908" k="name" o="add" type="way" v="North Ridge Lane" />
+    <tag id="16952908" k="highway" o="none" type="way" v="residential" />
+    <tag id="16952908" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16952908" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16952908" k="tiger:zip_left" o="add" type="way" v="86332" />
+    <tag id="16952908" k="tiger:name_base" o="add" type="way" v="Ridge" />
+    <tag id="16952908" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="16952908" k="tiger:zip_left_1" o="add" type="way" v="86332" />
+    <tag id="16952908" k="tiger:name_direction_prefix" o="add" type="way" v="N" />
+    <tag id="16958422" k="access" o="none" type="way" v="private" />
+    <tag id="16958422" k="highway" o="none" type="way" v="service" />
+    <tag id="16958422" k="service" o="add" type="way" v="driveway" />
+    <tag id="16958422" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="16958422" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16958784" k="access" o="add" type="way" v="private" />
+    <tag id="16958784" k="highway" o="modify" type="way" v="service" />
+    <tag id="16958784" k="service" o="add" type="way" v="driveway" />
+    <tag id="16958784" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16958784" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16958784" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16959727" k="highway" o="none" type="way" v="residential" />
+    <tag id="16959727" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16959727" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16959727" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16963098" k="name" o="none" type="way" v="Emerson Drive" />
+    <tag id="16963098" k="highway" o="none" type="way" v="residential" />
+    <tag id="16963098" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16963098" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16963098" k="tiger:name_base" o="none" type="way" v="Emerson" />
+    <tag id="16963098" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16963226" k="name" o="none" type="way" v="West Clare Island Drive" />
+    <tag id="16963226" k="highway" o="none" type="way" v="residential" />
+    <tag id="16963226" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16963226" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16963226" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16963226" k="tiger:name_base" o="none" type="way" v="Clare Island" />
+    <tag id="16963226" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16963226" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16963226" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16963638" k="name" o="none" type="way" v="Veda Drive" />
+    <tag id="16963638" k="name_1" o="none" type="way" v="Veda Lane" />
+    <tag id="16963638" k="highway" o="none" type="way" v="residential" />
+    <tag id="16963638" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16963638" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16963638" k="tiger:name_base" o="none" type="way" v="Veda" />
+    <tag id="16963638" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16963638" k="tiger:name_base_1" o="none" type="way" v="Veda" />
+    <tag id="16963638" k="tiger:name_type_1" o="none" type="way" v="Ln" />
+    <tag id="16963765" k="name" o="none" type="way" v="Mayo Drive" />
+    <tag id="16963765" k="highway" o="none" type="way" v="residential" />
+    <tag id="16963765" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16963765" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16963765" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16963765" k="tiger:name_base" o="none" type="way" v="Mayo" />
+    <tag id="16963765" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16963765" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16964356" k="name" o="none" type="way" v="West Hampton Road" />
+    <tag id="16964356" k="highway" o="none" type="way" v="residential" />
+    <tag id="16964356" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16964356" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16964356" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16964356" k="tiger:name_base" o="none" type="way" v="Hampton" />
+    <tag id="16964356" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16964356" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16964356" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16964366" k="name" o="none" type="way" v="South Bantry Drive" />
+    <tag id="16964366" k="highway" o="none" type="way" v="residential" />
+    <tag id="16964366" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16964366" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16964366" k="tiger:name_base" o="none" type="way" v="Bantry" />
+    <tag id="16964366" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16964366" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16964533" k="name" o="none" type="way" v="Carnaby Lane" />
+    <tag id="16964533" k="highway" o="none" type="way" v="residential" />
+    <tag id="16964533" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16964533" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16964533" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16964533" k="tiger:name_base" o="none" type="way" v="Carnaby" />
+    <tag id="16964533" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16964533" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16964778" k="name" o="none" type="way" v="South Bristol Boulevard" />
+    <tag id="16964778" k="highway" o="none" type="way" v="residential" />
+    <tag id="16964778" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16964778" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16964778" k="tiger:name_base" o="none" type="way" v="Bristol" />
+    <tag id="16964778" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="16964778" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16966450" k="name" o="none" type="way" v="West Lowell Drive" />
+    <tag id="16966450" k="highway" o="none" type="way" v="residential" />
+    <tag id="16966450" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16966450" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16966450" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16966450" k="tiger:name_base" o="none" type="way" v="Lowell" />
+    <tag id="16966450" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16966450" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16966450" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16966549" k="name" o="none" type="way" v="West Wimbledon Drive" />
+    <tag id="16966549" k="highway" o="none" type="way" v="residential" />
+    <tag id="16966549" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16966549" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16966549" k="tiger:name_base" o="none" type="way" v="Wimbledon" />
+    <tag id="16966549" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16966549" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16966751" k="name" o="none" type="way" v="Wicklow Lane" />
+    <tag id="16966751" k="highway" o="none" type="way" v="residential" />
+    <tag id="16966751" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16966751" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16966751" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16966751" k="tiger:name_base" o="none" type="way" v="Wicklow" />
+    <tag id="16966751" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16966751" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16967163" k="name" o="none" type="way" v="West Barrington Road" />
+    <tag id="16967163" k="highway" o="none" type="way" v="residential" />
+    <tag id="16967163" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16967163" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16967163" k="tiger:name_base" o="none" type="way" v="Barrington" />
+    <tag id="16967163" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16967163" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16967406" k="name" o="none" type="way" v="West Shelburne Road" />
+    <tag id="16967406" k="highway" o="none" type="way" v="residential" />
+    <tag id="16967406" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16967406" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16967406" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16967406" k="tiger:name_base" o="none" type="way" v="Shelburne" />
+    <tag id="16967406" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16967406" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16967406" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16967761" k="name" o="none" type="way" v="South Walden Boulevard" />
+    <tag id="16967761" k="highway" o="none" type="way" v="residential" />
+    <tag id="16967761" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16967761" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16967761" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16967761" k="tiger:name_base" o="none" type="way" v="Walden" />
+    <tag id="16967761" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="16967761" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16967761" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16968341" k="name" o="none" type="way" v="West Framingham Road" />
+    <tag id="16968341" k="highway" o="none" type="way" v="residential" />
+    <tag id="16968341" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16968341" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16968341" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16968341" k="tiger:name_base" o="none" type="way" v="Framingham" />
+    <tag id="16968341" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16968341" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16968341" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16968461" k="name" o="none" type="way" v="Kensington Lane" />
+    <tag id="16968461" k="highway" o="none" type="way" v="residential" />
+    <tag id="16968461" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16968461" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16968461" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16968461" k="tiger:name_base" o="none" type="way" v="Kensington" />
+    <tag id="16968461" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16968461" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16968619" k="name" o="none" type="way" v="West Abby Lane" />
+    <tag id="16968619" k="highway" o="none" type="way" v="residential" />
+    <tag id="16968619" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16968619" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16968619" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16968619" k="tiger:name_base" o="none" type="way" v="Abby" />
+    <tag id="16968619" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16968619" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16968619" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16969156" k="name" o="none" type="way" v="West Putnam Road" />
+    <tag id="16969156" k="highway" o="none" type="way" v="residential" />
+    <tag id="16969156" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16969156" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16969156" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16969156" k="tiger:name_base" o="none" type="way" v="Putnam" />
+    <tag id="16969156" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16969156" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16969156" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16969642" k="highway" o="modify" type="way" v="track" />
+    <tag id="16969642" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16969643" k="name" o="none" type="way" v="West Webster Road" />
+    <tag id="16969643" k="highway" o="modify" type="way" v="track" />
+    <tag id="16969643" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16969643" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16969643" k="tiger:name_base" o="none" type="way" v="Webster" />
+    <tag id="16969643" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16969643" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16969765" k="name" o="none" type="way" v="Magby Lane" />
+    <tag id="16969765" k="highway" o="none" type="way" v="residential" />
+    <tag id="16969765" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16969765" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16969765" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16969765" k="tiger:name_base" o="none" type="way" v="Magby" />
+    <tag id="16969765" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16969765" k="tiger:zip_left_1" o="none" type="way" v="86332" />
+    <tag id="16972291" k="name" o="none" type="way" v="Wexford Drive" />
+    <tag id="16972291" k="name_1" o="none" type="way" v="West Wexford Drive" />
+    <tag id="16972291" k="highway" o="none" type="way" v="residential" />
+    <tag id="16972291" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16972291" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16972291" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16972291" k="tiger:name_base" o="none" type="way" v="Wexford" />
+    <tag id="16972291" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16972291" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16972291" k="tiger:name_base_1" o="none" type="way" v="Wexford" />
+    <tag id="16972291" k="tiger:name_type_1" o="none" type="way" v="Dr" />
+    <tag id="16972291" k="tiger:name_direction_prefix_1" o="none" type="way" v="W" />
+    <tag id="16973394" k="name" o="none" type="way" v="Toots Turnout" />
+    <tag id="16973394" k="highway" o="none" type="way" v="residential" />
+    <tag id="16973394" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16973394" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16973394" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16973394" k="tiger:name_base" o="none" type="way" v="Toots Turnout" />
+    <tag id="16973394" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16974284" k="name" o="none" type="way" v="Mather Road" />
+    <tag id="16974284" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974284" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974284" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16974284" k="tiger:name_base" o="none" type="way" v="Mather" />
+    <tag id="16974284" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16974286" k="name" o="none" type="way" v="West Parnell Drive" />
+    <tag id="16974286" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974286" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974286" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16974286" k="tiger:name_base" o="none" type="way" v="Parnell" />
+    <tag id="16974286" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16974286" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16974538" k="name" o="none" type="way" v="South Donegal Drive" />
+    <tag id="16974538" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974538" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974538" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16974538" k="tiger:name_base" o="none" type="way" v="Donegal" />
+    <tag id="16974538" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16974538" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16974551" k="name" o="none" type="way" v="West Flint Drive" />
+    <tag id="16974551" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974551" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974551" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16974551" k="tiger:name_base" o="none" type="way" v="Flint" />
+    <tag id="16974551" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16974551" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16974590" k="highway" o="modify" type="way" v="track" />
+    <tag id="16974864" k="name" o="none" type="way" v="West Red Rock Road" />
+    <tag id="16974864" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974864" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974864" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16974864" k="tiger:name_base" o="none" type="way" v="Red Rock" />
+    <tag id="16974864" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16974864" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16975132" k="name" o="none" type="way" v="Donald Trail" />
+    <tag id="16975132" k="highway" o="none" type="way" v="residential" />
+    <tag id="16975132" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16975132" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16975132" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16975132" k="tiger:name_base" o="none" type="way" v="Donald" />
+    <tag id="16975132" k="tiger:name_type" o="none" type="way" v="Trl" />
+    <tag id="16975132" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16975133" k="name" o="none" type="way" v="Donald Trail" />
+    <tag id="16975133" k="highway" o="none" type="way" v="residential" />
+    <tag id="16975133" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16975133" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16975133" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16975133" k="tiger:name_base" o="none" type="way" v="Donald" />
+    <tag id="16975133" k="tiger:name_type" o="none" type="way" v="Trl" />
+    <tag id="16975133" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16975631" k="name" o="none" type="way" v="West Wicklow Lane" />
+    <tag id="16975631" k="highway" o="none" type="way" v="residential" />
+    <tag id="16975631" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16975631" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16975631" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16975631" k="tiger:name_base" o="none" type="way" v="Wicklow" />
+    <tag id="16975631" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16975631" k="tiger:zip_right" o="add" type="way" v="86332" />
+    <tag id="16975631" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16975828" k="name" o="none" type="way" v="Farrington Lane" />
+    <tag id="16975828" k="highway" o="none" type="way" v="residential" />
+    <tag id="16975828" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16975828" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16975828" k="tiger:name_base" o="none" type="way" v="Farrington" />
+    <tag id="16975828" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16975927" k="name" o="none" type="way" v="East Frontage Road" />
+    <tag id="16975927" k="highway" o="none" type="way" v="residential" />
+    <tag id="16975927" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16975927" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16975927" k="tiger:name_base" o="none" type="way" v="Frontage" />
+    <tag id="16975927" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="16975927" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="16976833" k="name" o="none" type="way" v="Deerfield Drive" />
+    <tag id="16976833" k="highway" o="none" type="way" v="residential" />
+    <tag id="16976833" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16976833" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16976833" k="tiger:name_base" o="none" type="way" v="Deerfield" />
+    <tag id="16976833" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16978231" k="name" o="none" type="way" v="Devon Drive" />
+    <tag id="16978231" k="highway" o="none" type="way" v="residential" />
+    <tag id="16978231" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16978231" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16978231" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16978231" k="tiger:name_base" o="none" type="way" v="Devon" />
+    <tag id="16978231" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16978363" k="name" o="none" type="way" v="South Canterbury Drive" />
+    <tag id="16978363" k="highway" o="none" type="way" v="residential" />
+    <tag id="16978363" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16978363" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16978363" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16978363" k="tiger:name_base" o="none" type="way" v="Canterbury" />
+    <tag id="16978363" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16978363" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16978855" k="name" o="none" type="way" v="Claridge Lane" />
+    <tag id="16978855" k="highway" o="none" type="way" v="residential" />
+    <tag id="16978855" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16978855" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16978855" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16978855" k="tiger:name_base" o="none" type="way" v="Claridge" />
+    <tag id="16978855" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16978855" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16978927" k="name" o="none" type="way" v="Trafaigar Drive" />
+    <tag id="16978927" k="highway" o="none" type="way" v="residential" />
+    <tag id="16978927" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16978927" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16978927" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16978927" k="tiger:name_base" o="none" type="way" v="Trafaigar" />
+    <tag id="16978927" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16979299" k="name" o="none" type="way" v="Grattan Drive" />
+    <tag id="16979299" k="highway" o="none" type="way" v="residential" />
+    <tag id="16979299" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16979299" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16979299" k="tiger:name_base" o="none" type="way" v="Grattan" />
+    <tag id="16979299" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16979470" k="name" o="none" type="way" v="Pierce Lane" />
+    <tag id="16979470" k="highway" o="none" type="way" v="residential" />
+    <tag id="16979470" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16979470" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16979470" k="tiger:name_base" o="none" type="way" v="Pierce" />
+    <tag id="16979470" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16979517" k="name" o="none" type="way" v="South Plymouth Drive" />
+    <tag id="16979517" k="highway" o="none" type="way" v="residential" />
+    <tag id="16979517" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16979517" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16979517" k="tiger:name_base" o="none" type="way" v="Plymouth" />
+    <tag id="16979517" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16979517" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16979971" k="name" o="none" type="way" v="South Chester Drive" />
+    <tag id="16979971" k="highway" o="none" type="way" v="residential" />
+    <tag id="16979971" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16979971" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16979971" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16979971" k="tiger:name_base" o="none" type="way" v="Chester" />
+    <tag id="16979971" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16979971" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16980335" k="name" o="none" type="way" v="South Steven Trail" />
+    <tag id="16980335" k="highway" o="none" type="way" v="residential" />
+    <tag id="16980335" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16980335" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16980335" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16980335" k="tiger:name_base" o="none" type="way" v="Steven" />
+    <tag id="16980335" k="tiger:name_type" o="none" type="way" v="Trl" />
+    <tag id="16980335" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="16980335" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="16980967" k="name" o="none" type="way" v="Betty Lou Lane" />
+    <tag id="16980967" k="highway" o="none" type="way" v="residential" />
+    <tag id="16980967" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16980967" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16980967" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16980967" k="tiger:name_base" o="none" type="way" v="Betty Lou" />
+    <tag id="16980967" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16981137" k="name" o="none" type="way" v="West Stevenage Lane" />
+    <tag id="16981137" k="highway" o="none" type="way" v="residential" />
+    <tag id="16981137" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16981137" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16981137" k="tiger:name_base" o="none" type="way" v="Stevenage" />
+    <tag id="16981137" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="16981137" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
+    <tag id="16981159" k="name" o="none" type="way" v="Derry Drive" />
+    <tag id="16981159" k="highway" o="none" type="way" v="residential" />
+    <tag id="16981159" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16981159" k="tiger:county" o="none" type="way" v="Yavapai, AZ" />
+    <tag id="16981159" k="tiger:zip_left" o="none" type="way" v="86332" />
+    <tag id="16981159" k="tiger:name_base" o="none" type="way" v="Derry" />
+    <tag id="16981159" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="16981159" k="tiger:zip_right" o="none" type="way" v="86332" />
+    <tag id="37416907" k="boundary" o="none" type="way" v="national_park" />
+    <tag id="37416907" k="attribution" o="none" type="way" v="US Forest Service" />
+    <tag id="455387543" k="name_1" o="add" type="way" v="West Wexford Drive" />
+    <tag id="455387543" k="highway" o="add" type="way" v="track" />
+    <tag id="455387543" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="455387543" k="tiger:county" o="add" type="way" v="Yavapai, AZ" />
+    <tag id="455387543" k="tiger:zip_left" o="add" type="way" v="86332" />
+    <tag id="455387543" k="tiger:name_base" o="add" type="way" v="Wexford" />
+    <tag id="455387543" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="455387543" k="tiger:zip_right" o="add" type="way" v="86332" />
+    <tag id="455387543" k="tiger:name_base_1" o="add" type="way" v="Wexford" />
+    <tag id="455387543" k="tiger:name_type_1" o="add" type="way" v="Dr" />
+    <tag id="455387543" k="tiger:name_direction_prefix_1" o="add" type="way" v="W" />
+    <tag id="455387544" k="highway" o="add" type="way" v="service" />
+    <tag id="455387545" k="highway" o="add" type="way" v="service" />
+    <tag id="455387546" k="name" o="add" type="way" v="West Red Rock Road" />
+    <tag id="455387546" k="highway" o="add" type="way" v="residential" />
+    <tag id="455387546" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="455387546" k="tiger:county" o="add" type="way" v="Yavapai, AZ" />
+    <tag id="455387546" k="tiger:name_base" o="add" type="way" v="Red Rock" />
+    <tag id="455387546" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="455387546" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="455387547" k="highway" o="add" type="way" v="track" />
+    <tag id="455387547" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="455387547" k="tiger:county" o="add" type="way" v="Yavapai, AZ" />
+    <tag id="455387547" k="tiger:zip_left" o="add" type="way" v="86332" />
+    <tag id="455387547" k="tiger:name_base" o="add" type="way" v="Lowell" />
+    <tag id="455387547" k="tiger:name_type" o="add" type="way" v="Dr" />
+    <tag id="455387547" k="tiger:zip_right" o="add" type="way" v="86332" />
+    <tag id="455387547" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="455387548" k="name" o="add" type="way" v="West Webster Road" />
+    <tag id="455387548" k="highway" o="add" type="way" v="residential" />
+    <tag id="455387548" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="455387548" k="tiger:county" o="add" type="way" v="Yavapai, AZ" />
+    <tag id="455387548" k="tiger:zip_left" o="add" type="way" v="86332" />
+    <tag id="455387548" k="tiger:name_base" o="add" type="way" v="Webster" />
+    <tag id="455387548" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="455387548" k="tiger:name_direction_prefix" o="add" type="way" v="W" />
+    <tag id="455387549" k="landuse" o="add" type="way" v="residential" />
+  </body>
+</changeset>

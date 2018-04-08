@@ -1,0 +1,509 @@
+<changeset id="44453988" schema="2">
+  <counts nodesAdded="312" nodesDeleted="53" nodesModified="10" relationsAdded="2" relationsDeleted="11" relationsModified="14" waysAdded="44" waysDeleted="13" waysModified="61" />
+  <meta>
+    <tag k="comment" v="Updating based on newer imagery" />
+    <tag k="created_by" v="JOSM/1.5 (9900 en)" />
+    <tag k="source" v="Bing;TIGER (2015)" />
+  </meta>
+  <body>
+    <tag id="95902958" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="485541772" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="485541774" k="barrier" o="add" type="node" v="gate" />
+    <tag id="485542251" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="513059419" k="highway" o="add" type="node" v="crossing" />
+    <tag id="513059505" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="513059506" k="highway" o="add" type="node" v="crossing" />
+    <tag id="513059542" k="highway" o="add" type="node" v="crossing" />
+    <tag id="513059542" k="crossing" o="add" type="node" v="zebra" />
+    <tag id="513059551" k="highway" o="add" type="node" v="crossing" />
+    <tag id="513059551" k="crossing" o="add" type="node" v="zebra" />
+    <tag id="1798924747" k="highway" o="add" type="node" v="stop" />
+    <tag id="2001990981" k="highway" o="add" type="node" v="stop" />
+    <tag id="3007303921" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3007303921" k="crossing" o="add" type="node" v="unmarked" />
+    <tag id="3007303929" k="traffic_calming" o="add" type="node" v="island" />
+    <tag id="10771510" k="name" o="none" type="way" v="Columbia Road" />
+    <tag id="10771510" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="10771510" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10771510" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="10771510" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10771510" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="10771510" k="tiger:name_base" o="none" type="way" v="Columbia" />
+    <tag id="10771510" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10771510" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="10771510" k="tiger:zip_left_1" o="none" type="way" v="32920" />
+    <tag id="10771510" k="tiger:zip_right_1" o="none" type="way" v="32920" />
+    <tag id="10771656" k="name" o="none" type="way" v="Flounder Street" />
+    <tag id="10771656" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="10771656" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10771656" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="10771656" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10771656" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="10771656" k="tiger:name_base" o="none" type="way" v="Flounder" />
+    <tag id="10771656" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="10771656" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="10776033" k="name" o="none" type="way" v="Dave Nisbet Drive" />
+    <tag id="10776033" k="FIXME" o="none" type="way" v="name" />
+    <tag id="10776033" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="10776033" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10776033" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="10776033" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10776033" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="10776033" k="tiger:name_base" o="none" type="way" v="Port;Scallop;George J King;Glen Cheek" />
+    <tag id="10776033" k="tiger:name_type" o="none" type="way" v="Rd;Dr;Blvd" />
+    <tag id="10776033" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="10776720" k="name" o="none" type="way" v="Discovery Place" />
+    <tag id="10776720" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="10776720" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10776720" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="10776720" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10776720" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="10776720" k="tiger:name_base" o="none" type="way" v="Discovery" />
+    <tag id="10776720" k="tiger:name_type" o="none" type="way" v="Pl" />
+    <tag id="10776720" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="10777261" k="FIXME" o="none" type="way" v="name" />
+    <tag id="10777261" k="highway" o="none" type="way" v="service" />
+    <tag id="10777261" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10777261" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="10777261" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10777261" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="10777261" k="tiger:name_base" o="none" type="way" v="Scallop;George J King;Glen Cheek" />
+    <tag id="10777261" k="tiger:name_type" o="none" type="way" v="Dr;Blvd;Dr" />
+    <tag id="10777261" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="10778605" k="name" o="none" type="way" v="Mullet Road" />
+    <tag id="10778605" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="10778605" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="10778605" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="10778605" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="10778605" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="10778605" k="tiger:name_base" o="none" type="way" v="Mullet" />
+    <tag id="10778605" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="10778605" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="22314664" k="source" o="none" type="way" v="PGS" />
+    <tag id="22314664" k="natural" o="none" type="way" v="coastline" />
+    <tag id="23117210" k="source" o="none" type="way" v="PGS" />
+    <tag id="23117213" k="source" o="none" type="way" v="PGS" />
+    <tag id="23117213" k="natural" o="none" type="way" v="coastline" />
+    <tag id="40261013" k="NHS" o="none" type="way" v="intermodal" />
+    <tag id="40261013" k="toll" o="none" type="way" v="no" />
+    <tag id="40261013" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40261013" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="40261013" k="junction" o="none" type="way" v="spui" />
+    <tag id="40261013" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="40261025" k="toll" o="none" type="way" v="no" />
+    <tag id="40261025" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40261025" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="40261025" k="junction" o="none" type="way" v="spui" />
+    <tag id="40261025" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="40261065" k="toll" o="none" type="way" v="no" />
+    <tag id="40261065" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40261065" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="40261065" k="junction" o="none" type="way" v="spui" />
+    <tag id="40261065" k="sidewalk" o="none" type="way" v="right" />
+    <tag id="40261067" k="toll" o="none" type="way" v="no" />
+    <tag id="40261067" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40261067" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="40261067" k="junction" o="none" type="way" v="spui" />
+    <tag id="40261067" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="40261068" k="toll" o="none" type="way" v="no" />
+    <tag id="40261068" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40261068" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="40261068" k="junction" o="none" type="way" v="spui" />
+    <tag id="40261068" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="40262289" k="NHS" o="none" type="way" v="intermodal" />
+    <tag id="40262289" k="toll" o="none" type="way" v="no" />
+    <tag id="40262289" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40262289" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="40262289" k="junction" o="none" type="way" v="spui" />
+    <tag id="40262289" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="40439423" k="landuse" o="none" type="way" v="basin" />
+    <tag id="48560832" k="lanes" o="add" type="way" v="2" />
+    <tag id="48560832" k="oneway" o="add" type="way" v="yes" />
+    <tag id="48560832" k="highway" o="none" type="way" v="residential" />
+    <tag id="48560837" k="NHS" o="none" type="way" v="intermodal" />
+    <tag id="48560837" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="48560837" k="name" o="none" type="way" v="George J King Boulevard" />
+    <tag id="48560837" k="lanes" o="none" type="way" v="4" />
+    <tag id="48560837" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="48560837" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="48560837" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="48560837" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="48560837" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="48560837" k="tiger:name_base" o="none" type="way" v="George J King" />
+    <tag id="48560837" k="tiger:name_type" o="none" type="way" v="Blvd" />
+    <tag id="48560837" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="168667127" k="highway" o="modify" type="way" v="service" />
+    <tag id="168667127" k="surface" o="add" type="way" v="paved" />
+    <tag id="168667129" k="pier" o="add" type="way" v="fishing" />
+    <tag id="168667129" k="layer" o="none" type="way" v="1" />
+    <tag id="168667129" k="bridge" o="none" type="way" v="yes" />
+    <tag id="168667129" k="highway" o="none" type="way" v="footway" />
+    <tag id="168667129" k="mooring" o="add" type="way" v="no" />
+    <tag id="168667129" k="man_made" o="add" type="way" v="pier" />
+    <tag id="191921077" k="toll" o="none" type="way" v="no" />
+    <tag id="191921077" k="oneway" o="none" type="way" v="yes" />
+    <tag id="191921077" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="191921077" k="junction" o="none" type="way" v="spui" />
+    <tag id="191921077" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="196802666" k="toll" o="none" type="way" v="no" />
+    <tag id="196802666" k="oneway" o="none" type="way" v="yes" />
+    <tag id="196802666" k="highway" o="none" type="way" v="primary_link" />
+    <tag id="196802666" k="junction" o="none" type="way" v="spui" />
+    <tag id="196802666" k="sidewalk" o="none" type="way" v="none" />
+    <tag id="215682895" k="natural" o="none" type="way" v="beach" />
+    <tag id="218389710" k="demolished:building" o="add" type="way" v="yes" />
+    <tag id="218390114" k="amenity" o="none" type="way" v="parking" />
+    <tag id="218390114" k="parking" o="none" type="way" v="surface" />
+    <tag id="218390115" k="lanes" o="none" type="way" v="2" />
+    <tag id="218390115" k="oneway" o="none" type="way" v="yes" />
+    <tag id="218390115" k="highway" o="none" type="way" v="service" />
+    <tag id="218390188" k="demolished:building" o="add" type="way" v="yes" />
+    <tag id="218390189" k="demolished:building" o="add" type="way" v="yes" />
+    <tag id="218390433" k="name" o="none" type="way" v="Pompano Street" />
+    <tag id="218390433" k="access" o="none" type="way" v="private" />
+    <tag id="218390433" k="highway" o="none" type="way" v="service" />
+    <tag id="218390433" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="218390433" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="218390433" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="218390433" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="218390433" k="tiger:name_base" o="none" type="way" v="Glen Cheek;Pompano" />
+    <tag id="218390433" k="tiger:name_type" o="none" type="way" v="Dr;St" />
+    <tag id="218390433" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="218390435" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218390725" k="highway" o="none" type="way" v="service" />
+    <tag id="218390725" k="mooring" o="add" type="way" v="yes" />
+    <tag id="218390725" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218390748" k="mooring" o="add" type="way" v="yes" />
+    <tag id="218390748" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218390859" k="access" o="none" type="way" v="private" />
+    <tag id="218390859" k="highway" o="none" type="way" v="service" />
+    <tag id="218390859" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="218390859" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="218390860" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218390861" k="covered" o="add" type="way" v="yes" />
+    <tag id="218390861" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218390875" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218390876" k="man_made" o="none" type="way" v="pier" />
+    <tag id="218394220" k="landuse" o="none" type="way" v="basin" />
+    <tag id="218395591" k="highway" o="none" type="way" v="track" />
+    <tag id="218395591" k="surface" o="none" type="way" v="dirt" />
+    <tag id="218492204" k="lanes" o="none" type="way" v="2" />
+    <tag id="218492204" k="highway" o="none" type="way" v="service" />
+    <tag id="218492204" k="surface" o="none" type="way" v="paved" />
+    <tag id="218493037" k="landuse" o="none" type="way" v="industrial" />
+    <tag id="296375821" k="name" o="none" type="way" v="Jetty Park Road" />
+    <tag id="296375821" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="296375821" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="296375821" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="296375821" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="296375821" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="296375821" k="tiger:name_base" o="none" type="way" v="Jetty Park" />
+    <tag id="296375821" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="296375821" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="296375823" k="NHS" o="none" type="way" v="intermodal" />
+    <tag id="296375823" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="296375823" k="lanes" o="modify" type="way" v="2" />
+    <tag id="296375823" k="oneway" o="add" type="way" v="yes" />
+    <tag id="296375823" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="296375823" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="296375824" k="lanes" o="add" type="way" v="2" />
+    <tag id="296375824" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="296375825" k="NHS" o="none" type="way" v="intermodal" />
+    <tag id="296375825" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="296375825" k="lanes" o="modify" type="way" v="2" />
+    <tag id="296375825" k="oneway" o="add" type="way" v="yes" />
+    <tag id="296375825" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="296375825" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="296954741" k="ele" o="none" type="way" v="3" />
+    <tag id="296954741" k="name" o="none" type="way" v="Jetty Park" />
+    <tag id="296954741" k="leisure" o="none" type="way" v="park" />
+    <tag id="297610879" k="name" o="none" type="way" v="Jetty Park Road" />
+    <tag id="297610879" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="297610879" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="297610879" k="tiger:county" o="none" type="way" v="Brevard, FL" />
+    <tag id="297610879" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="297610879" k="tiger:zip_left" o="none" type="way" v="32920" />
+    <tag id="297610879" k="tiger:name_base" o="none" type="way" v="Jetty Park" />
+    <tag id="297610879" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="297610879" k="tiger:zip_right" o="none" type="way" v="32920" />
+    <tag id="364839670" k="natural" o="none" type="way" v="water" />
+    <tag id="460074694" k="access" o="add" type="way" v="private" />
+    <tag id="460074694" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074694" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074694" k="demolished:highway" o="add" type="way" v="service" />
+    <tag id="460074695" k="man_made" o="add" type="way" v="pier" />
+    <tag id="460074696" k="barrier" o="add" type="way" v="fence" />
+    <tag id="460074696" k="fence_type" o="add" type="way" v="chain_link" />
+    <tag id="460074697" k="name" o="add" type="way" v="Cruise Terminal 1" />
+    <tag id="460074697" k="building" o="add" type="way" v="yes" />
+    <tag id="460074698" k="name" o="add" type="way" v="Dave Nisbet Drive" />
+    <tag id="460074698" k="FIXME" o="add" type="way" v="name" />
+    <tag id="460074698" k="layer" o="add" type="way" v="1" />
+    <tag id="460074698" k="bridge" o="add" type="way" v="yes" />
+    <tag id="460074698" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460074698" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074698" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074698" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074698" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074698" k="tiger:name_base" o="add" type="way" v="Port;Scallop;George J King;Glen Cheek" />
+    <tag id="460074698" k="tiger:name_type" o="add" type="way" v="Rd;Dr;Blvd" />
+    <tag id="460074698" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074699" k="name" o="add" type="way" v="Dave Nisbet Drive" />
+    <tag id="460074699" k="FIXME" o="add" type="way" v="name" />
+    <tag id="460074699" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460074699" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074699" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074699" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074699" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074699" k="tiger:name_base" o="add" type="way" v="Port;Scallop;George J King;Glen Cheek" />
+    <tag id="460074699" k="tiger:name_type" o="add" type="way" v="Rd;Dr;Blvd" />
+    <tag id="460074699" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074700" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074700" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074700" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074700" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074700" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074700" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074700" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="460074700" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074700" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074700" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074700" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074700" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074700" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074700" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074701" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074701" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074701" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074701" k="lanes" o="add" type="way" v="4" />
+    <tag id="460074701" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074701" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074701" k="placement" o="add" type="way" v="right_of:3" />
+    <tag id="460074701" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074701" k="turn:lanes" o="add" type="way" v="left|left|through|through" />
+    <tag id="460074701" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074701" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074701" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074701" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074701" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074701" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074702" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074702" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074702" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074702" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074702" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074702" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074702" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="460074702" k="placement" o="add" type="way" v="right_of:2" />
+    <tag id="460074702" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074702" k="turn:lanes" o="add" type="way" v="left|through|through;right" />
+    <tag id="460074702" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074702" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074702" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074702" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074702" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074702" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074703" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074703" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074703" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074703" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074703" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074703" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074703" k="placement" o="add" type="way" v="right_of:2" />
+    <tag id="460074703" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074703" k="turn:lanes" o="add" type="way" v="left|none|none" />
+    <tag id="460074703" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074703" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074703" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074703" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074703" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074703" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074704" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074704" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074704" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074704" k="lanes" o="add" type="way" v="4" />
+    <tag id="460074704" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074704" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074704" k="placement" o="add" type="way" v="right_of:3" />
+    <tag id="460074704" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074704" k="turn:lanes" o="add" type="way" v="left|left|through|through;right" />
+    <tag id="460074704" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074704" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074704" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074704" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074704" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074704" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074706" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074706" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074706" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074706" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074706" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074706" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074706" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="460074706" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074706" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074706" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074706" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074706" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074706" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074706" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074707" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074707" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074707" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074707" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074707" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074707" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074707" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074707" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074707" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074707" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074707" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074707" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074707" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074708" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074708" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074708" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074708" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074708" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074708" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074708" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074708" k="turn:lanes" o="add" type="way" v="through|through" />
+    <tag id="460074708" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074708" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074708" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074708" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074708" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074708" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074709" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074709" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074709" k="name" o="add" type="way" v="George J King Boulevard" />
+    <tag id="460074709" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074709" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074709" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074709" k="sidewalk" o="add" type="way" v="none" />
+    <tag id="460074709" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074709" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074709" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074709" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074709" k="tiger:name_base" o="add" type="way" v="George J King" />
+    <tag id="460074709" k="tiger:name_type" o="add" type="way" v="Blvd" />
+    <tag id="460074709" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074710" k="name" o="add" type="way" v="Jetty Park Road" />
+    <tag id="460074710" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074710" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460074710" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074710" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074710" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074710" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074710" k="tiger:name_base" o="add" type="way" v="Jetty Park" />
+    <tag id="460074710" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="460074710" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074711" k="name" o="add" type="way" v="Jetty Park Road" />
+    <tag id="460074711" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="460074711" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="460074711" k="tiger:county" o="add" type="way" v="Brevard, FL" />
+    <tag id="460074711" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="460074711" k="tiger:zip_left" o="add" type="way" v="32920" />
+    <tag id="460074711" k="tiger:name_base" o="add" type="way" v="Jetty Park" />
+    <tag id="460074711" k="tiger:name_type" o="add" type="way" v="Rd" />
+    <tag id="460074711" k="tiger:zip_right" o="add" type="way" v="32920" />
+    <tag id="460074712" k="amenity" o="add" type="way" v="parking" />
+    <tag id="460074712" k="parking" o="add" type="way" v="multi-storey" />
+    <tag id="460074712" k="building" o="add" type="way" v="garages" />
+    <tag id="460074713" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074713" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074713" k="highway" o="add" type="way" v="service" />
+    <tag id="460074713" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="460074714" k="lanes" o="add" type="way" v="3" />
+    <tag id="460074714" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074714" k="highway" o="add" type="way" v="service" />
+    <tag id="460074715" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074715" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074715" k="highway" o="add" type="way" v="service" />
+    <tag id="460074716" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074716" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074716" k="highway" o="add" type="way" v="service" />
+    <tag id="460074717" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074717" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074717" k="highway" o="add" type="way" v="service" />
+    <tag id="460074718" k="oneway" o="add" type="way" v="no" />
+    <tag id="460074718" k="highway" o="add" type="way" v="tertiary_link" />
+    <tag id="460074719" k="highway" o="add" type="way" v="service" />
+    <tag id="460074720" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074720" k="highway" o="add" type="way" v="service" />
+    <tag id="460074721" k="lanes" o="add" type="way" v="1" />
+    <tag id="460074721" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074721" k="highway" o="add" type="way" v="service" />
+    <tag id="460074722" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074722" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074722" k="highway" o="add" type="way" v="residential" />
+    <tag id="460074723" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074723" k="oneway" o="add" type="way" v="no" />
+    <tag id="460074723" k="highway" o="add" type="way" v="service" />
+    <tag id="460074724" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074724" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074724" k="highway" o="add" type="way" v="service" />
+    <tag id="460074725" k="highway" o="add" type="way" v="track" />
+    <tag id="460074725" k="surface" o="add" type="way" v="dirt" />
+    <tag id="460074726" k="highway" o="add" type="way" v="service" />
+    <tag id="460074726" k="mooring" o="add" type="way" v="yes" />
+    <tag id="460074726" k="man_made" o="add" type="way" v="pier" />
+    <tag id="460074727" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074727" k="highway" o="add" type="way" v="service" />
+    <tag id="460074728" k="lanes" o="add" type="way" v="1" />
+    <tag id="460074728" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074728" k="highway" o="add" type="way" v="service" />
+    <tag id="460074729" k="lanes" o="add" type="way" v="3" />
+    <tag id="460074729" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074729" k="highway" o="add" type="way" v="residential" />
+    <tag id="460074729" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="460074729" k="placement" o="add" type="way" v="right_of:2" />
+    <tag id="460074729" k="turn:lanes" o="add" type="way" v="left|none|none" />
+    <tag id="460074730" k="highway" o="add" type="way" v="track" />
+    <tag id="460074731" k="lanes" o="add" type="way" v="3" />
+    <tag id="460074731" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074731" k="highway" o="add" type="way" v="service" />
+    <tag id="460074732" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074732" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074732" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074732" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074732" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074732" k="placement" o="add" type="way" v="middle_of:2" />
+    <tag id="460074732" k="turn:lanes" o="add" type="way" v="left|none" />
+    <tag id="460074733" k="NHS" o="add" type="way" v="intermodal" />
+    <tag id="460074733" k="HFCS" o="add" type="way" v="Urban Collector" />
+    <tag id="460074733" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074733" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074733" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="460074733" k="sidewalk" o="add" type="way" v="right" />
+    <tag id="460074734" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074734" k="highway" o="add" type="way" v="service" />
+    <tag id="460074735" k="lanes" o="add" type="way" v="1" />
+    <tag id="460074735" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074735" k="highway" o="add" type="way" v="service" />
+    <tag id="460074736" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="460074736" k="highway" o="add" type="way" v="footway" />
+    <tag id="460074736" k="surface" o="add" type="way" v="concrete" />
+    <tag id="460074737" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074737" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074737" k="highway" o="add" type="way" v="service" />
+    <tag id="460074739" k="lanes" o="add" type="way" v="2" />
+    <tag id="460074739" k="oneway" o="add" type="way" v="yes" />
+    <tag id="460074739" k="highway" o="add" type="way" v="service" />
+    <tag id="2597598" k="ref" o="none" type="relation" v="9" />
+    <tag id="2597598" k="name" o="none" type="relation" v="SCAT route 9 (Cape Canaveral Loop)" />
+    <tag id="2597598" k="type" o="none" type="relation" v="route" />
+    <tag id="2597598" k="route" o="none" type="relation" v="bus" />
+    <tag id="2597598" k="source" o="none" type="relation" v="GO_Sync" />
+    <tag id="2597598" k="operator" o="none" type="relation" v="Space Coast Area Transit" />
+    <tag id="2597598" k="gtfs_route_id" o="none" type="relation" v="334" />
+    <tag id="3941541" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3941541" k="restriction" o="none" type="relation" v="no_right_turn" />
+    <tag id="3941543" k="type" o="none" type="relation" v="restriction" />
+    <tag id="3941543" k="restriction" o="modify" type="relation" v="only_left_turn" />
+    <tag id="6797410" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6797410" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6797411" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6797411" k="restriction" o="add" type="relation" v="only_left_turn" />
+  </body>
+</changeset>

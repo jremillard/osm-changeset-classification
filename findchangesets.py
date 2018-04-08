@@ -29,7 +29,7 @@ conn.execute("PRAGMA cache_size = 448576")
 with open("newchangesets.txt","wt") as toReview :
 
     changeSetCount = 1
-    for csId in range(45698048,55698048):
+    for csId in range(43698048,55698048):
         cs = osmcsclassify.ChangeSet.ChangeSet(csId)
         cs.extractFromPlanet(conn)
         texts = []  # list of text samples

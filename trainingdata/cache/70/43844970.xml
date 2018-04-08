@@ -1,0 +1,44 @@
+<changeset id="43844970" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v=" Updating turn-restrictions in Washington DC" />
+    <tag k="created_by" v="iD 2.0.1" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-GB" />
+  </meta>
+  <body>
+    <tag id="130285114" k="NHS" o="none" type="way" v="yes" />
+    <tag id="130285114" k="HFCS" o="none" type="way" v="Principal Arterial" />
+    <tag id="130285114" k="name" o="none" type="way" v="Connecticut Avenue Northwest" />
+    <tag id="130285114" k="lanes" o="none" type="way" v="6" />
+    <tag id="130285114" k="highway" o="none" type="way" v="primary" />
+    <tag id="130285114" k="note:lanes" o="none" type="way" v="center two lanes are reversible" />
+    <tag id="130285114" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="130285114" k="source:HFCS" o="none" type="way" v="District of Columbia (DC GIS)" />
+    <tag id="130285114" k="tiger:county" o="none" type="way" v="District of Columbia, DC" />
+    <tag id="130285114" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="130285114" k="tiger:zip_left" o="none" type="way" v="20015" />
+    <tag id="130285114" k="tiger:name_base" o="none" type="way" v="Connecticut" />
+    <tag id="130285114" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="130285114" k="tiger:zip_right" o="none" type="way" v="20015" />
+    <tag id="130285114" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="454865376" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454865376" k="HFCS" o="add" type="way" v="Principal Arterial" />
+    <tag id="454865376" k="name" o="add" type="way" v="Connecticut Avenue Northwest" />
+    <tag id="454865376" k="lanes" o="add" type="way" v="6" />
+    <tag id="454865376" k="highway" o="add" type="way" v="primary" />
+    <tag id="454865376" k="note:lanes" o="add" type="way" v="center two lanes are reversible" />
+    <tag id="454865376" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="454865376" k="source:HFCS" o="add" type="way" v="District of Columbia (DC GIS)" />
+    <tag id="454865376" k="tiger:county" o="add" type="way" v="District of Columbia, DC" />
+    <tag id="454865376" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="454865376" k="tiger:zip_left" o="add" type="way" v="20015" />
+    <tag id="454865376" k="tiger:name_base" o="add" type="way" v="Connecticut" />
+    <tag id="454865376" k="tiger:name_type" o="add" type="way" v="Ave" />
+    <tag id="454865376" k="tiger:zip_right" o="add" type="way" v="20015" />
+    <tag id="454865376" k="tiger:name_direction_suffix" o="add" type="way" v="NW" />
+    <tag id="6726521" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6726521" k="restriction:conditional" o="add" type="relation" v="no_left_turn @ (Mo-Fr, 07:00-09:30," />
+  </body>
+</changeset>

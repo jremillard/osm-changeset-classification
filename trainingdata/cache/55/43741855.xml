@@ -1,0 +1,663 @@
+<changeset id="43741855" schema="2">
+  <counts nodesAdded="281" nodesDeleted="203" nodesModified="1" relationsAdded="6" relationsDeleted="0" relationsModified="3" waysAdded="17" waysDeleted="2" waysModified="40" />
+  <meta>
+    <tag k="comment" v="Correcting/tweaking US 6 between Union City and PA 89 (ProjectPA)" />
+    <tag k="created_by" v="JOSM/1.5 (11223 en)" />
+  </meta>
+  <body>
+    <tag id="107048899" k="source" o="none" type="node" v="USGS OrthoPhoto" />
+    <tag id="107048899" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="107048899" k="crossing:light" o="add" type="node" v="yes" />
+    <tag id="107048899" k="crossing:barrier" o="add" type="node" v="no" />
+    <tag id="11887267" k="turn" o="add" type="way" v="right" />
+    <tag id="11887267" k="lanes" o="add" type="way" v="1" />
+    <tag id="11887267" k="oneway" o="add" type="way" v="yes" />
+    <tag id="11887267" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="11887267" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11887267" k="destination" o="add" type="way" v="Union City;Titusville" />
+    <tag id="11887267" k="destination:ref" o="add" type="way" v="US 6 West" />
+    <tag id="11887521" k="access" o="add" type="way" v="private" />
+    <tag id="11887521" k="highway" o="modify" type="way" v="service" />
+    <tag id="11887521" k="service" o="add" type="way" v="driveway" />
+    <tag id="11888067" k="name" o="none" type="way" v="Market Street" />
+    <tag id="11888067" k="lanes" o="none" type="way" v="2" />
+    <tag id="11888067" k="oneway" o="none" type="way" v="no" />
+    <tag id="11888067" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="11888067" k="old_ref" o="none" type="way" v="US 6 Bypass" />
+    <tag id="11888067" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11888067" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="11888067" k="ref:penndot" o="none" type="way" v="SR 2032" />
+    <tag id="11888215" k="name" o="none" type="way" v="Lyons Road" />
+    <tag id="11888215" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="11888215" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11888215" k="ref:penndot" o="add" type="way" v="SR 2017" />
+    <tag id="11888215" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11888215" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11888215" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11888215" k="tiger:name_base" o="none" type="way" v="Lyons" />
+    <tag id="11888215" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11888215" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11888381" k="name" o="none" type="way" v="Short Street" />
+    <tag id="11888381" k="highway" o="none" type="way" v="residential" />
+    <tag id="11888381" k="surface" o="add" type="way" v="dirt" />
+    <tag id="11888578" k="name" o="none" type="way" v="Turnpike Road" />
+    <tag id="11888578" k="highway" o="none" type="way" v="residential" />
+    <tag id="11888578" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="11888578" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11888578" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11888578" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11888578" k="tiger:name_base" o="none" type="way" v="Turnpike" />
+    <tag id="11888578" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11888856" k="usage" o="none" type="way" v="branch" />
+    <tag id="11888856" k="railway" o="none" type="way" v="rail" />
+    <tag id="11888856" k="tiger:cfcc" o="none" type="way" v="B11" />
+    <tag id="11888856" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11888856" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11888856" k="tiger:name_base" o="none" type="way" v="Alleghany Railroad:Allegheny Railroad" />
+    <tag id="11888856" k="old_railway_operator" o="none" type="way" v="PRR" />
+    <tag id="11889956" k="name" o="none" type="way" v="Dowman Street" />
+    <tag id="11889956" k="highway" o="none" type="way" v="residential" />
+    <tag id="11889956" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11889956" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11889956" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11889956" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11889956" k="tiger:name_base" o="none" type="way" v="Dowman" />
+    <tag id="11889956" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11889956" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11890189" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11890189" k="hgv" o="none" type="way" v="yes" />
+    <tag id="11890189" k="ref" o="none" type="way" v="US 6" />
+    <tag id="11890189" k="name" o="modify" type="way" v="Roosevelt Highway" />
+    <tag id="11890189" k="lanes" o="none" type="way" v="2" />
+    <tag id="11890189" k="oneway" o="add" type="way" v="no" />
+    <tag id="11890189" k="highway" o="none" type="way" v="primary" />
+    <tag id="11890189" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="11890189" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11890189" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="11890189" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="11890189" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="11890189" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="11890189" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="11890189" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="11890189" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="11890194" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11890194" k="hgv" o="none" type="way" v="yes" />
+    <tag id="11890194" k="ref" o="none" type="way" v="US 6" />
+    <tag id="11890194" k="name" o="modify" type="way" v="Roosevelt Highway" />
+    <tag id="11890194" k="lanes" o="none" type="way" v="2" />
+    <tag id="11890194" k="oneway" o="add" type="way" v="no" />
+    <tag id="11890194" k="highway" o="none" type="way" v="primary" />
+    <tag id="11890194" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="11890194" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11890194" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="11890194" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="11890194" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="11890194" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="11890194" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="11890194" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="11890194" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="11890522" k="name" o="none" type="way" v="Bridge Street" />
+    <tag id="11890522" k="highway" o="none" type="way" v="residential" />
+    <tag id="11890522" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11890522" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11890522" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11890522" k="tiger:name_base" o="none" type="way" v="Bridge" />
+    <tag id="11890522" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11891441" k="name" o="none" type="way" v="Westley Way" />
+    <tag id="11891441" k="highway" o="modify" type="way" v="service" />
+    <tag id="11891441" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11891441" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11891441" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11891441" k="tiger:name_base" o="none" type="way" v="Westley" />
+    <tag id="11891441" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="11891628" k="name" o="none" type="way" v="Liberty Street" />
+    <tag id="11891628" k="highway" o="none" type="way" v="residential" />
+    <tag id="11891628" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="11891628" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11891628" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11891628" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11891628" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11891628" k="tiger:name_base" o="none" type="way" v="Liberty" />
+    <tag id="11891628" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11891628" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11891628" k="tiger:zip_left_1" o="none" type="way" v="16438" />
+    <tag id="11891628" k="tiger:zip_left_2" o="none" type="way" v="16438" />
+    <tag id="11891628" k="tiger:zip_left_3" o="none" type="way" v="16438" />
+    <tag id="11891929" k="name" o="none" type="way" v="East Street" />
+    <tag id="11891929" k="highway" o="none" type="way" v="residential" />
+    <tag id="11891929" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11891929" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11891929" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11891929" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11891929" k="tiger:name_base" o="none" type="way" v="East" />
+    <tag id="11891929" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11891929" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11894008" k="name" o="none" type="way" v="Warden Street" />
+    <tag id="11894008" k="lanes" o="none" type="way" v="2" />
+    <tag id="11894008" k="highway" o="none" type="way" v="residential" />
+    <tag id="11894008" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11894008" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11894008" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11894008" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11894008" k="tiger:name_base" o="none" type="way" v="Warden" />
+    <tag id="11894008" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11894008" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11894048" k="name" o="none" type="way" v="Hoyt Road" />
+    <tag id="11894048" k="name_1" o="none" type="way" v="Game Land Road" />
+    <tag id="11894048" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="11894048" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="11894048" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11894048" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11894048" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11894048" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11894048" k="tiger:name_base" o="none" type="way" v="Hoyt" />
+    <tag id="11894048" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11894048" k="tiger:name_base_1" o="none" type="way" v="Game Land" />
+    <tag id="11894048" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="11897009" k="ref" o="none" type="way" v="PA 89" />
+    <tag id="11897009" k="lanes" o="add" type="way" v="2" />
+    <tag id="11897009" k="oneway" o="add" type="way" v="no" />
+    <tag id="11897009" k="highway" o="none" type="way" v="secondary" />
+    <tag id="11897009" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11897009" k="maxspeed" o="add" type="way" v="50 mph" />
+    <tag id="11897009" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11897009" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11897009" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11897009" k="tiger:zip_left" o="none" type="way" v="16407" />
+    <tag id="11897009" k="tiger:name_base" o="none" type="way" v="State Route 89" />
+    <tag id="11897009" k="tiger:zip_right" o="none" type="way" v="16407" />
+    <tag id="11897009" k="destination:forward" o="add" type="way" v="Wattsburg;North East" />
+    <tag id="11897009" k="old_ref_legislative" o="none" type="way" v="88" />
+    <tag id="11897009" k="destination:backward" o="add" type="way" v="Corry;Titusville" />
+    <tag id="11898092" k="ref" o="add" type="way" v="SR 2019" />
+    <tag id="11898092" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="11898092" k="lanes" o="add" type="way" v="2" />
+    <tag id="11898092" k="oneway" o="add" type="way" v="no" />
+    <tag id="11898092" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="11898092" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11898092" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="11898092" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="11898092" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11898092" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11898092" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="11898092" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11898092" k="tiger:name_base_1" o="none" type="way" v="State Route 89" />
+    <tag id="11898092" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="11898452" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11898452" k="hgv" o="none" type="way" v="yes" />
+    <tag id="11898452" k="ref" o="none" type="way" v="US 6" />
+    <tag id="11898452" k="name" o="none" type="way" v="East High Street" />
+    <tag id="11898452" k="lanes" o="none" type="way" v="2" />
+    <tag id="11898452" k="oneway" o="none" type="way" v="no" />
+    <tag id="11898452" k="highway" o="none" type="way" v="primary" />
+    <tag id="11898452" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="11898452" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="11898452" k="alt_name" o="none" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="11898452" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="11898452" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="11898452" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="11898452" k="destination:forward" o="none" type="way" v="Corry;Warren" />
+    <tag id="11898452" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="11898452" k="destination:backward" o="none" type="way" v="Titusville;Meadville" />
+    <tag id="11898707" k="name" o="none" type="way" v="Tarbell Road" />
+    <tag id="11898707" k="highway" o="none" type="way" v="residential" />
+    <tag id="11898707" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="11898707" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11898707" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11898707" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11898707" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11898707" k="tiger:name_base" o="none" type="way" v="Tarbell" />
+    <tag id="11898707" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11898707" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11898946" k="name" o="none" type="way" v="Willow Street" />
+    <tag id="11898946" k="highway" o="none" type="way" v="residential" />
+    <tag id="11898946" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11898946" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11898946" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11898946" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11898946" k="tiger:name_base" o="none" type="way" v="Willow" />
+    <tag id="11898946" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11898946" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11901139" k="name" o="none" type="way" v="Mitchell Road" />
+    <tag id="11901139" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="11901139" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="11901139" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11901139" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11901139" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11901139" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11901139" k="tiger:name_base" o="none" type="way" v="Mitchell" />
+    <tag id="11901139" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11901139" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11902821" k="name" o="none" type="way" v="Elgin Road" />
+    <tag id="11902821" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="11902821" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11902821" k="ref:penndot" o="add" type="way" v="SR 2018" />
+    <tag id="11902821" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11902821" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11902821" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11902821" k="tiger:name_base" o="none" type="way" v="Elgin" />
+    <tag id="11902821" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11902821" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11903937" k="name" o="none" type="way" v="Wattsburg Street" />
+    <tag id="11903937" k="highway" o="none" type="way" v="residential" />
+    <tag id="11903937" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11903937" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11903937" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11903937" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11903937" k="tiger:name_base" o="none" type="way" v="Wattsburg" />
+    <tag id="11903937" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11903937" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11904359" k="name" o="none" type="way" v="Prospect Street" />
+    <tag id="11904359" k="highway" o="none" type="way" v="residential" />
+    <tag id="11904359" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11904359" k="tiger:county" o="none" type="way" v="Erie, PA" />
+    <tag id="11904359" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11904359" k="tiger:zip_left" o="none" type="way" v="16438" />
+    <tag id="11904359" k="tiger:name_base" o="none" type="way" v="Prospect" />
+    <tag id="11904359" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="11904359" k="tiger:zip_right" o="none" type="way" v="16438" />
+    <tag id="11904702" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11904702" k="hgv" o="none" type="way" v="yes" />
+    <tag id="11904702" k="ref" o="none" type="way" v="US 6" />
+    <tag id="11904702" k="name" o="none" type="way" v="Roosevelt Highway" />
+    <tag id="11904702" k="lanes" o="none" type="way" v="2" />
+    <tag id="11904702" k="oneway" o="add" type="way" v="no" />
+    <tag id="11904702" k="highway" o="none" type="way" v="primary" />
+    <tag id="11904702" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="11904702" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11904702" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="11904702" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="11904702" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="11904702" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="11904702" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="11904702" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="11904702" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="11904714" k="NHS" o="none" type="way" v="yes" />
+    <tag id="11904714" k="hgv" o="none" type="way" v="yes" />
+    <tag id="11904714" k="ref" o="none" type="way" v="US 6" />
+    <tag id="11904714" k="name" o="none" type="way" v="Roosevelt Highway" />
+    <tag id="11904714" k="lanes" o="none" type="way" v="2" />
+    <tag id="11904714" k="oneway" o="add" type="way" v="no" />
+    <tag id="11904714" k="highway" o="none" type="way" v="primary" />
+    <tag id="11904714" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="11904714" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="11904714" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="11904714" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="11904714" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="11904714" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="11904714" k="maxspeed:advisory" o="add" type="way" v="40 mph" />
+    <tag id="11904714" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="11904714" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="11904714" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="38507556" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="38507556" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="38507556" k="admin_level" o="none" type="way" v="8" />
+    <tag id="64387270" k="ref" o="none" type="way" v="PA 89" />
+    <tag id="64387270" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="64387270" k="lanes" o="add" type="way" v="2" />
+    <tag id="64387270" k="oneway" o="add" type="way" v="no" />
+    <tag id="64387270" k="highway" o="none" type="way" v="secondary" />
+    <tag id="64387270" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="64387270" k="maxspeed" o="add" type="way" v="50 mph" />
+    <tag id="64387270" k="destination:forward" o="add" type="way" v="Wattsburg;North East" />
+    <tag id="64387270" k="old_ref_legislative" o="none" type="way" v="88" />
+    <tag id="64387270" k="destination:backward" o="add" type="way" v="Corry;Titusville" />
+    <tag id="64387271" k="NHS" o="none" type="way" v="yes" />
+    <tag id="64387271" k="hgv" o="none" type="way" v="yes" />
+    <tag id="64387271" k="ref" o="none" type="way" v="US 6;PA 89" />
+    <tag id="64387271" k="name" o="none" type="way" v="Roosevelt Highway" />
+    <tag id="64387271" k="lanes" o="none" type="way" v="2" />
+    <tag id="64387271" k="oneway" o="add" type="way" v="no" />
+    <tag id="64387271" k="highway" o="none" type="way" v="primary" />
+    <tag id="64387271" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="64387271" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="64387271" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="64387271" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="64387271" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="64387271" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="64387271" k="destination:forward" o="add" type="way" v="Corry;Titusville;Warren" />
+    <tag id="64387271" k="old_ref_legislative" o="none" type="way" v="88" />
+    <tag id="64387271" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="370238713" k="highway" o="none" type="way" v="service" />
+    <tag id="370238714" k="highway" o="none" type="way" v="service" />
+    <tag id="378935820" k="source" o="none" type="way" v="Bing" />
+    <tag id="378935820" k="landuse" o="none" type="way" v="residential" />
+    <tag id="378935822" k="name" o="add" type="way" v="Union City Christian-Missionary Alliance Church" />
+    <tag id="378935822" k="source" o="none" type="way" v="Bing" />
+    <tag id="378935822" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="378935822" k="building" o="modify" type="way" v="church" />
+    <tag id="378935822" k="religion" o="add" type="way" v="christian" />
+    <tag id="378935822" k="denomination" o="add" type="way" v="alliance" />
+    <tag id="378935823" k="ele" o="add" type="way" v="403" />
+    <tag id="378935823" k="name" o="add" type="way" v="Saint Teresa Cemetery" />
+    <tag id="378935823" k="landuse" o="add" type="way" v="cemetery" />
+    <tag id="378935823" k="religion" o="add" type="way" v="christian" />
+    <tag id="378935823" k="gnis:created" o="add" type="way" v="08/02/1979" />
+    <tag id="378935823" k="gnis:state_id" o="add" type="way" v="42" />
+    <tag id="378935823" k="gnis:county_id" o="add" type="way" v="049" />
+    <tag id="378935823" k="gnis:feature_id" o="add" type="way" v="1186735" />
+    <tag id="378935827" k="ele" o="add" type="way" v="403" />
+    <tag id="378935827" k="name" o="add" type="way" v="Saint Teresa Cemetery" />
+    <tag id="378935827" k="landuse" o="add" type="way" v="cemetery" />
+    <tag id="378935827" k="religion" o="add" type="way" v="christian" />
+    <tag id="378935827" k="gnis:created" o="add" type="way" v="08/02/1979" />
+    <tag id="378935827" k="gnis:state_id" o="add" type="way" v="42" />
+    <tag id="378935827" k="gnis:county_id" o="add" type="way" v="049" />
+    <tag id="378935827" k="gnis:feature_id" o="add" type="way" v="1186735" />
+    <tag id="454026700" k="NHS" o="none" type="way" v="yes" />
+    <tag id="454026700" k="hgv" o="none" type="way" v="yes" />
+    <tag id="454026700" k="ref" o="none" type="way" v="US 6" />
+    <tag id="454026700" k="name" o="none" type="way" v="East High Street" />
+    <tag id="454026700" k="lanes" o="none" type="way" v="3" />
+    <tag id="454026700" k="oneway" o="none" type="way" v="no" />
+    <tag id="454026700" k="highway" o="none" type="way" v="primary" />
+    <tag id="454026700" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="454026700" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454026700" k="alt_name" o="none" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454026700" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="454026700" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="454026700" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454026700" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="454026700" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="454026700" k="destination:forward" o="none" type="way" v="Corry;Warren" />
+    <tag id="454026700" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="454026700" k="turn:lanes:backward" o="none" type="way" v="left;through|right" />
+    <tag id="454026700" k="destination:lanes:backward" o="none" type="way" v="Titusville|Erie;North East" />
+    <tag id="454026700" k="destination:ref:lanes:backward" o="none" type="way" v="US 6 West;PA 8 South|PA 8 North" />
+    <tag id="454026700" k="destination:ref:to:lanes:backward" o="none" type="way" v="none|PA 97" />
+    <tag id="454026701" k="NHS" o="none" type="way" v="yes" />
+    <tag id="454026701" k="hgv" o="none" type="way" v="yes" />
+    <tag id="454026701" k="ref" o="none" type="way" v="US 6" />
+    <tag id="454026701" k="name" o="none" type="way" v="East High Street" />
+    <tag id="454026701" k="lanes" o="none" type="way" v="2" />
+    <tag id="454026701" k="oneway" o="none" type="way" v="no" />
+    <tag id="454026701" k="highway" o="none" type="way" v="primary" />
+    <tag id="454026701" k="rcn_ref" o="none" type="way" v="Y" />
+    <tag id="454026701" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="454026701" k="alt_name" o="none" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454026701" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="454026701" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="454026701" k="source:hgv" o="none" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454026701" k="destination:forward" o="none" type="way" v="Corry;Warren" />
+    <tag id="454026701" k="old_ref_legislative" o="none" type="way" v="304" />
+    <tag id="454026701" k="destination:backward" o="none" type="way" v="Titusville" />
+    <tag id="454026701" k="destination:ref:backward" o="none" type="way" v="US 6 West;PA 8 South" />
+    <tag id="454061094" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061094" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061094" k="ref" o="add" type="way" v="US 6;PA 89" />
+    <tag id="454061094" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061094" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061094" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061094" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061094" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061094" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061094" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061094" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061094" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061094" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061094" k="destination:forward" o="add" type="way" v="Corry;Titusville;Warren" />
+    <tag id="454061094" k="old_ref_legislative" o="add" type="way" v="88" />
+    <tag id="454061094" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061096" k="ref" o="add" type="way" v="PA 89" />
+    <tag id="454061096" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061096" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061096" k="highway" o="add" type="way" v="secondary" />
+    <tag id="454061096" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061096" k="maxspeed" o="add" type="way" v="50 mph" />
+    <tag id="454061096" k="destination:forward" o="add" type="way" v="Wattsburg;North East" />
+    <tag id="454061096" k="old_ref_legislative" o="add" type="way" v="88" />
+    <tag id="454061096" k="destination:backward" o="add" type="way" v="Corry;Titusville" />
+    <tag id="454061097" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061097" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061097" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061097" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061097" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061097" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061097" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061097" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061097" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061097" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061097" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061097" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061097" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061097" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061097" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061097" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061098" k="ref" o="add" type="way" v="PA 89" />
+    <tag id="454061098" k="turn" o="add" type="way" v="right" />
+    <tag id="454061098" k="lanes" o="add" type="way" v="1" />
+    <tag id="454061098" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454061098" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="454061098" k="destination" o="add" type="way" v="North East" />
+    <tag id="454061098" k="destination:ref" o="add" type="way" v="PA 89 North" />
+    <tag id="454061099" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061099" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061099" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061099" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061099" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061099" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061099" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061099" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061099" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061099" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061099" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061099" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061099" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061099" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061099" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061099" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061101" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061101" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061101" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061101" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061101" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061101" k="layer" o="add" type="way" v="1" />
+    <tag id="454061101" k="bridge" o="add" type="way" v="yes" />
+    <tag id="454061101" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061101" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061101" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061101" k="surface" o="add" type="way" v="concrete" />
+    <tag id="454061101" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061101" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061101" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061101" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061101" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061101" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061101" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061102" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061102" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061102" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061102" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061102" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061102" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061102" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061102" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061102" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061102" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061102" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061102" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061102" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061102" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061102" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061102" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061103" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061103" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061103" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061103" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061103" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061103" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061103" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061103" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061103" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061103" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061103" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061103" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061103" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061103" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061103" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061103" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061104" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061104" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061104" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061104" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061104" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061104" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061104" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061104" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061104" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061104" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061104" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061104" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061104" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061104" k="maxspeed:advisory" o="add" type="way" v="50 mph" />
+    <tag id="454061104" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061104" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061104" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061105" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061105" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061105" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061105" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061105" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061105" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061105" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061105" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061105" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061105" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061105" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061105" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061105" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061105" k="maxspeed:advisory" o="add" type="way" v="45 mph" />
+    <tag id="454061105" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061105" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061105" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061106" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061106" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061106" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061106" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061106" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061106" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061106" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061106" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061106" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061106" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061106" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="454061106" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061106" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061106" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061106" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061106" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061107" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061107" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061107" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061107" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061107" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061107" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061107" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061107" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061107" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061107" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061107" k="maxspeed" o="add" type="way" v="45 mph" />
+    <tag id="454061107" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061107" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061107" k="maxspeed:advisory" o="add" type="way" v="45 mph" />
+    <tag id="454061107" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061107" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061107" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061108" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061108" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061108" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061108" k="name" o="add" type="way" v="Roosevelt Highway" />
+    <tag id="454061108" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061108" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061108" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061108" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061108" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061108" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061108" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="454061108" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061108" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061108" k="maxspeed:advisory" o="add" type="way" v="40 mph" />
+    <tag id="454061108" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061108" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061108" k="destination:backward" o="add" type="way" v="Union City;Titusville;Meadville" />
+    <tag id="454061109" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061109" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061109" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061109" k="name" o="add" type="way" v="East High Street" />
+    <tag id="454061109" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061109" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061109" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061109" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061109" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061109" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061109" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="454061109" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="454061109" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061109" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061109" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061109" k="destination:backward" o="add" type="way" v="Titusville;Meadville" />
+    <tag id="454061110" k="NHS" o="add" type="way" v="yes" />
+    <tag id="454061110" k="hgv" o="add" type="way" v="yes" />
+    <tag id="454061110" k="ref" o="add" type="way" v="US 6" />
+    <tag id="454061110" k="name" o="add" type="way" v="East High Street" />
+    <tag id="454061110" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061110" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061110" k="highway" o="add" type="way" v="primary" />
+    <tag id="454061110" k="rcn_ref" o="add" type="way" v="Y" />
+    <tag id="454061110" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061110" k="alt_name" o="add" type="way" v="Grand Army of the Republic Highway" />
+    <tag id="454061110" k="maxspeed" o="add" type="way" v="35 mph" />
+    <tag id="454061110" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="454061110" k="source:hgv" o="add" type="way" v="PennDOT ftp://ftp.dot.state.pa.us/public/Bureaus/BOMO/MC/Publication411.pdf" />
+    <tag id="454061110" k="destination:forward" o="add" type="way" v="Corry;Warren" />
+    <tag id="454061110" k="old_ref_legislative" o="add" type="way" v="304" />
+    <tag id="454061110" k="destination:backward" o="add" type="way" v="Titusville;Meadville" />
+    <tag id="454061111" k="name" o="add" type="way" v="Market Street" />
+    <tag id="454061111" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061111" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061111" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454061111" k="old_ref" o="add" type="way" v="US 6 Bypass" />
+    <tag id="454061111" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061111" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="454061111" k="ref:penndot" o="add" type="way" v="SR 2032" />
+    <tag id="454061112" k="name" o="add" type="way" v="Market Street" />
+    <tag id="454061112" k="lanes" o="add" type="way" v="2" />
+    <tag id="454061112" k="oneway" o="add" type="way" v="no" />
+    <tag id="454061112" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454061112" k="old_ref" o="add" type="way" v="US 6 Bypass" />
+    <tag id="454061112" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454061112" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="454061112" k="ref:penndot" o="add" type="way" v="SR 2032" />
+    <tag id="443940" k="ref" o="none" type="relation" v="6" />
+    <tag id="443940" k="name" o="none" type="relation" v="US 6 (PA)" />
+    <tag id="443940" k="type" o="none" type="relation" v="route" />
+    <tag id="443940" k="route" o="none" type="relation" v="road" />
+    <tag id="443940" k="symbol" o="none" type="relation" v="http://upload.wikimedia.org/wikipedia/commons/e/ef/US_6.svg" />
+    <tag id="443940" k="network" o="none" type="relation" v="US:US" />
+    <tag id="443940" k="wikipedia" o="none" type="relation" v="en:U.S. Route 6 in Pennsylvania" />
+    <tag id="443940" k="is_in:state" o="none" type="relation" v="PA" />
+    <tag id="1015985" k="ref" o="none" type="relation" v="89" />
+    <tag id="1015985" k="type" o="none" type="relation" v="route" />
+    <tag id="1015985" k="is_in" o="none" type="relation" v="PA" />
+    <tag id="1015985" k="route" o="none" type="relation" v="road" />
+    <tag id="1015985" k="network" o="none" type="relation" v="US:PA" />
+    <tag id="1066191" k="ref" o="none" type="relation" v="Y" />
+    <tag id="1066191" k="name" o="none" type="relation" v="BicyclePA Route Y" />
+    <tag id="1066191" k="type" o="none" type="relation" v="route" />
+    <tag id="1066191" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1066191" k="network" o="none" type="relation" v="rcn" />
+    <tag id="1066191" k="cycle_network" o="none" type="relation" v="US:PA" />
+    <tag id="6718552" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6718552" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6718553" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6718553" k="restriction" o="add" type="relation" v="only_right_turn" />
+    <tag id="6718554" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6718554" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6718555" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6718555" k="restriction" o="add" type="relation" v="no_right_turn" />
+    <tag id="6718556" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6718556" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="6718557" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6718557" k="restriction" o="add" type="relation" v="only_straight_on" />
+  </body>
+</changeset>

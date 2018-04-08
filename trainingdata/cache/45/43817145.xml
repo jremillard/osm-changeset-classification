@@ -1,0 +1,776 @@
+<changeset id="43817145" schema="2">
+  <counts nodesAdded="819" nodesDeleted="223" nodesModified="22" relationsAdded="0" relationsDeleted="1" relationsModified="3" waysAdded="121" waysDeleted="35" waysModified="152" />
+  <meta>
+    <tag k="comment" v="Marseille LA Cayolle  voies + nouveaux &#233;quipements + emprises r&#233;sidences +corrections Osmose" />
+    <tag k="created_by" v="JOSM/1.5 (10526 fr)" />
+    <tag k="source" v="BD Ortho IGN; cadastre; survey" />
+  </meta>
+  <body>
+    <tag id="308240988" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="308240988" k="highway" o="add" type="node" v="crossing" />
+    <tag id="308240988" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="308240988" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="308241197" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="308241197" k="highway" o="add" type="node" v="crossing" />
+    <tag id="308241197" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="308241197" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="344485707" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="344485707" k="highway" o="add" type="node" v="crossing" />
+    <tag id="344485707" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="344485707" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="485381755" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="485381755" k="highway" o="add" type="node" v="crossing" />
+    <tag id="485381755" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="485381755" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="675377827" k="barrier" o="add" type="node" v="gate" />
+    <tag id="675393825" k="highway" o="none" type="node" v="turning_circle" />
+    <tag id="675393826" k="access" o="add" type="node" v="private" />
+    <tag id="675393826" k="barrier" o="add" type="node" v="gate" />
+    <tag id="742393884" k="amenity" o="none" type="node" v="recycling" />
+    <tag id="742393884" k="recycling_type" o="add" type="node" v="container" />
+    <tag id="742393884" k="recycling:glass" o="none" type="node" v="yes" />
+    <tag id="742393884" k="recycling:cartons" o="none" type="node" v="yes" />
+    <tag id="742393884" k="recycling:plastic" o="none" type="node" v="yes" />
+    <tag id="793511140" k="highway" o="add" type="node" v="crossing" />
+    <tag id="793511140" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="793511140" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="1390760001" k="highway" o="add" type="node" v="crossing" />
+    <tag id="1390760001" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1390760001" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="1390760001" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="1755114533" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="1755114533" k="highway" o="add" type="node" v="crossing" />
+    <tag id="1755114533" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1755114533" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="1812862389" k="highway" o="add" type="node" v="crossing" />
+    <tag id="1812862389" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1812862389" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="1812862389" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="1902413549" k="highway" o="add" type="node" v="crossing" />
+    <tag id="1902413549" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1902413549" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="1902413549" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="1902665521" k="highway" o="add" type="node" v="crossing" />
+    <tag id="1902665521" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="1902665521" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="1902665521" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="1903995747" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="1903995747" k="barrier" o="none" type="node" v="gate" />
+    <tag id="1903995751" k="source" o="none" type="node" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="1903995751" k="barrier" o="none" type="node" v="gate" />
+    <tag id="4487019038" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487019038" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487019038" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487019038" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="4487019665" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="4487019665" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487019665" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487019665" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487020737" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487020737" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487020737" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487020737" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="4487021773" k="name" o="none" type="node" v="Th&#233;&#226;tre du Centaure" />
+    <tag id="4487021773" k="source" o="add" type="node" v="survey" />
+    <tag id="4487021773" k="amenity" o="none" type="node" v="theatre" />
+    <tag id="4487021773" k="wikipedia" o="add" type="node" v="fr:Th&#233;&#226;tre du Centaure" />
+    <tag id="4487021773" k="addr:street" o="none" type="node" v="Rue Marguerite de Provence" />
+    <tag id="4487022236" k="source" o="add" type="node" v="BD Ortho IGN" />
+    <tag id="4487022236" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487022236" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487022236" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487023314" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487023314" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487023314" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487023314" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="4487023498" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487023498" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487023498" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487023498" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="4487023725" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487023725" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487023725" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487023725" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="4487024743" k="highway" o="add" type="node" v="crossing" />
+    <tag id="4487024743" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="4487024743" k="crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="4487024743" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="12369820" k="name" o="modify" type="way" v="Avenue du Bassin" />
+    <tag id="12369820" k="highway" o="none" type="way" v="residential" />
+    <tag id="53424784" k="name" o="none" type="way" v="Traverse Valette" />
+    <tag id="53424784" k="lanes" o="none" type="way" v="2" />
+    <tag id="53424784" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53424784" k="highway" o="none" type="way" v="residential" />
+    <tag id="53424786" k="access" o="none" type="way" v="private" />
+    <tag id="53424786" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53424786" k="highway" o="none" type="way" v="residential" />
+    <tag id="53424787" k="access" o="add" type="way" v="private" />
+    <tag id="53424787" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53424787" k="highway" o="none" type="way" v="service" />
+    <tag id="53424788" k="name" o="none" type="way" v="Les Hauts de Mazargues" />
+    <tag id="53424788" k="access" o="none" type="way" v="private" />
+    <tag id="53424788" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53424788" k="highway" o="none" type="way" v="residential" />
+    <tag id="53424791" k="name" o="none" type="way" v="Boulevard des C&#232;dres" />
+    <tag id="53424791" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53424791" k="highway" o="none" type="way" v="residential" />
+    <tag id="53424794" k="access" o="add" type="way" v="private" />
+    <tag id="53424794" k="source" o="modify" type="way" v="BD Ortho IGN" />
+    <tag id="53424794" k="highway" o="none" type="way" v="service" />
+    <tag id="53425041" k="name" o="none" type="way" v="Impasse Fernand Karabadjakian" />
+    <tag id="53425041" k="lanes" o="add" type="way" v="2" />
+    <tag id="53425041" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53425041" k="highway" o="none" type="way" v="residential" />
+    <tag id="53425046" k="name" o="none" type="way" v="Rue Capitaine Jean Croisa" />
+    <tag id="53425046" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53425046" k="highway" o="none" type="way" v="residential" />
+    <tag id="53425046" k="ref:FR:FANTOIR" o="none" type="way" v="132094712Y" />
+    <tag id="53425058" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53425058" k="highway" o="none" type="way" v="service" />
+    <tag id="53425074" k="access" o="add" type="way" v="private" />
+    <tag id="53425074" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="53425074" k="highway" o="none" type="way" v="service" />
+    <tag id="64546287" k="name" o="none" type="way" v="All&#233;e des P&#234;cheurs" />
+    <tag id="64546287" k="highway" o="none" type="way" v="residential" />
+    <tag id="64546297" k="name" o="none" type="way" v="All&#233;e de la Fontaine Veyre" />
+    <tag id="64546297" k="highway" o="none" type="way" v="residential" />
+    <tag id="64546331" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="64546331" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="64546466" k="name" o="none" type="way" v="Chemin de Sormiou" />
+    <tag id="64546466" k="lanes" o="none" type="way" v="2" />
+    <tag id="64546466" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="64546466" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="64546466" k="parking:lane:left" o="add" type="way" v="parallel" />
+    <tag id="120676350" k="name" o="none" type="way" v="Boulevard du Chalet" />
+    <tag id="120676350" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="120676350" k="highway" o="none" type="way" v="residential" />
+    <tag id="120676353" k="name" o="none" type="way" v="Boulevard Cauviere" />
+    <tag id="120676353" k="lanes" o="add" type="way" v="2" />
+    <tag id="120676353" k="highway" o="none" type="way" v="residential" />
+    <tag id="120676353" k="parking:lane:right" o="add" type="way" v="132098821P" />
+    <tag id="122372753" k="access" o="none" type="way" v="private" />
+    <tag id="122372753" k="highway" o="none" type="way" v="residential" />
+    <tag id="123183355" k="name" o="none" type="way" v="Avenue de la Soude" />
+    <tag id="123183355" k="lanes" o="none" type="way" v="2" />
+    <tag id="123183355" k="oneway" o="none" type="way" v="no" />
+    <tag id="123183355" k="highway" o="none" type="way" v="residential" />
+    <tag id="125157252" k="name" o="none" type="way" v="Rue Capitaine Jean Croisa" />
+    <tag id="125157252" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="125157252" k="highway" o="none" type="way" v="residential" />
+    <tag id="125157252" k="ref:FR:FANTOIR" o="none" type="way" v="132094712Y" />
+    <tag id="125157256" k="name" o="none" type="way" v="Rue Capitaine Jean Croisa" />
+    <tag id="125157256" k="oneway" o="none" type="way" v="yes" />
+    <tag id="125157256" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="125157256" k="highway" o="none" type="way" v="residential" />
+    <tag id="125157256" k="ref:FR:FANTOIR" o="none" type="way" v="132094712Y" />
+    <tag id="126619170" k="oneway" o="none" type="way" v="yes" />
+    <tag id="126619170" k="highway" o="none" type="way" v="service" />
+    <tag id="126619181" k="amenity" o="none" type="way" v="parking" />
+    <tag id="126619181" k="parking" o="none" type="way" v="surface" />
+    <tag id="126623424" k="source" o="none" type="way" v="Bing" />
+    <tag id="126623424" k="highway" o="none" type="way" v="service" />
+    <tag id="126623424" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="131904956" k="name" o="modify" type="way" v="Chemin de la Soude" />
+    <tag id="131904956" k="lanes" o="none" type="way" v="2" />
+    <tag id="131904956" k="oneway" o="none" type="way" v="no" />
+    <tag id="131904956" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="131904956" k="ref:FR:FANTOIR" o="add" type="way" v="132098821P" />
+    <tag id="131904969" k="name" o="none" type="way" v="Chemin de Morgiou" />
+    <tag id="131904969" k="lanes" o="none" type="way" v="2" />
+    <tag id="131904969" k="oneway" o="none" type="way" v="no" />
+    <tag id="131904969" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="131904969" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="153532193" k="wall" o="none" type="way" v="no" />
+    <tag id="153532193" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153532193" k="building" o="none" type="way" v="yes" />
+    <tag id="153533911" k="name" o="add" type="way" v="Les Travaux du Midi" />
+    <tag id="153533911" k="office" o="add" type="way" v="company" />
+    <tag id="153533911" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153533911" k="building" o="none" type="way" v="yes" />
+    <tag id="153534029" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153534029" k="building" o="none" type="way" v="yes" />
+    <tag id="153534700" k="name" o="add" type="way" v="Gedimat Sophonet" />
+    <tag id="153534700" k="shop" o="add" type="way" v="doityourself" />
+    <tag id="153534700" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153534700" k="building" o="none" type="way" v="yes" />
+    <tag id="153535941" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153535941" k="building" o="none" type="way" v="yes" />
+    <tag id="153536437" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153536437" k="building" o="none" type="way" v="yes" />
+    <tag id="153536632" k="name" o="add" type="way" v="Mazargues" />
+    <tag id="153536632" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153536632" k="building" o="none" type="way" v="yes" />
+    <tag id="153536632" k="ref:FR:FINESS" o="add" type="way" v="130014178" />
+    <tag id="153536632" k="contact:street" o="add" type="way" v="Avenue Colgate" />
+    <tag id="153536632" k="social_facility" o="add" type="way" v="group_home" />
+    <tag id="153536632" k="contact:housenumber" o="add" type="way" v="37" />
+    <tag id="153536632" k="social_facility:for" o="add" type="way" v="senior" />
+    <tag id="153538247" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153538247" k="building" o="none" type="way" v="yes" />
+    <tag id="153542152" k="wall" o="none" type="way" v="no" />
+    <tag id="153542152" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153542152" k="building" o="none" type="way" v="yes" />
+    <tag id="153542254" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153542254" k="building" o="none" type="way" v="yes" />
+    <tag id="153545704" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153545704" k="building" o="none" type="way" v="yes" />
+    <tag id="153547017" k="wall" o="none" type="way" v="no" />
+    <tag id="153547017" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153547017" k="building" o="none" type="way" v="yes" />
+    <tag id="153547550" k="wall" o="none" type="way" v="no" />
+    <tag id="153547550" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153547550" k="building" o="none" type="way" v="yes" />
+    <tag id="153548749" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153548749" k="building" o="none" type="way" v="yes" />
+    <tag id="153549143" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="153549143" k="building" o="none" type="way" v="yes" />
+    <tag id="153550908" k="name" o="none" type="way" v="Sporting club omnisport et culturel de la Cayolle" />
+    <tag id="153550908" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012 + Terrain + bing" />
+    <tag id="153550908" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="153550908" k="building" o="none" type="way" v="yes" />
+    <tag id="153553159" k="wall" o="none" type="way" v="no" />
+    <tag id="153553159" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153553159" k="building" o="none" type="way" v="yes" />
+    <tag id="153554347" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153554347" k="building" o="none" type="way" v="yes" />
+    <tag id="153554376" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153554376" k="building" o="none" type="way" v="yes" />
+    <tag id="153556087" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153556087" k="building" o="none" type="way" v="yes" />
+    <tag id="153556120" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153556120" k="building" o="none" type="way" v="yes" />
+    <tag id="153557813" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153557813" k="building" o="none" type="way" v="yes" />
+    <tag id="153558586" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153558586" k="building" o="none" type="way" v="yes" />
+    <tag id="153558767" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153558767" k="building" o="none" type="way" v="yes" />
+    <tag id="153563900" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153563900" k="building" o="none" type="way" v="yes" />
+    <tag id="153568452" k="wall" o="none" type="way" v="no" />
+    <tag id="153568452" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153568452" k="building" o="none" type="way" v="yes" />
+    <tag id="153568458" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153568458" k="building" o="none" type="way" v="yes" />
+    <tag id="153570261" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153570261" k="building" o="none" type="way" v="yes" />
+    <tag id="153571192" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153571192" k="building" o="none" type="way" v="yes" />
+    <tag id="153572300" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="153572300" k="building" o="none" type="way" v="yes" />
+    <tag id="153572514" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153572514" k="building" o="none" type="way" v="yes" />
+    <tag id="153572962" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153572962" k="building" o="none" type="way" v="yes" />
+    <tag id="153574095" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153574095" k="building" o="none" type="way" v="yes" />
+    <tag id="153574162" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="153574162" k="building" o="none" type="way" v="yes" />
+    <tag id="155502340" k="oneway" o="none" type="way" v="yes" />
+    <tag id="155502340" k="highway" o="none" type="way" v="service" />
+    <tag id="155502345" k="oneway" o="none" type="way" v="yes" />
+    <tag id="155502345" k="highway" o="none" type="way" v="service" />
+    <tag id="161981629" k="name" o="none" type="way" v="Chemin de Sormiou" />
+    <tag id="161981629" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="162097596" k="name" o="none" type="way" v="Boulevard du Vaisseau" />
+    <tag id="162097596" k="lanes" o="none" type="way" v="2" />
+    <tag id="162097596" k="highway" o="none" type="way" v="residential" />
+    <tag id="168147750" k="name" o="none" type="way" v="Coll&#232;ge Roy d'Espagne" />
+    <tag id="168147750" k="source" o="none" type="way" v="data.gouv.fr:Minist&#232;re de l'&#201;ducation nationale, de la Jeunesse et de la Vie associative - 05/2012" />
+    <tag id="168147750" k="amenity" o="none" type="way" v="school" />
+    <tag id="168147750" k="ref:UAI" o="none" type="way" v="0131602W" />
+    <tag id="168147750" k="school:FR" o="modify" type="way" v="coll&#232;ge" />
+    <tag id="170028245" k="highway" o="none" type="way" v="track" />
+    <tag id="170367355" k="highway" o="none" type="way" v="residential" />
+    <tag id="172572461" k="name" o="modify" type="way" v="Avenue de la Jarre" />
+    <tag id="172572461" k="lanes" o="none" type="way" v="2" />
+    <tag id="172572461" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="172572461" k="highway" o="none" type="way" v="residential" />
+    <tag id="179747428" k="source" o="none" type="way" v="Bing" />
+    <tag id="179747428" k="landuse" o="none" type="way" v="retail" />
+    <tag id="179807326" k="name" o="none" type="way" v="Parc de la Jarre" />
+    <tag id="179807326" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179807326" k="landuse" o="none" type="way" v="residential" />
+    <tag id="179807327" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179807327" k="landuse" o="none" type="way" v="residential" />
+    <tag id="179807328" k="name" o="none" type="way" v="Villa del Sol" />
+    <tag id="179807328" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179807328" k="landuse" o="none" type="way" v="residential" />
+    <tag id="179816210" k="name" o="none" type="way" v="Rue Marguerite de Provence" />
+    <tag id="179816210" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="179816210" k="highway" o="none" type="way" v="residential" />
+    <tag id="179830456" k="name" o="none" type="way" v="Les All&#233;es du Roy" />
+    <tag id="179830456" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179830456" k="landuse" o="none" type="way" v="residential" />
+    <tag id="179838120" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179838120" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="179947355" k="access" o="none" type="way" v="private" />
+    <tag id="179947355" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179947355" k="highway" o="none" type="way" v="service" />
+    <tag id="179961321" k="oneway" o="none" type="way" v="yes" />
+    <tag id="179961321" k="source" o="none" type="way" v="Bing" />
+    <tag id="179961321" k="highway" o="none" type="way" v="service" />
+    <tag id="179961321" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="179961331" k="source" o="none" type="way" v="Bing" />
+    <tag id="179961331" k="highway" o="none" type="way" v="service" />
+    <tag id="179961331" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="179961345" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="179961345" k="barrier" o="none" type="way" v="wall" />
+    <tag id="179961346" k="source" o="none" type="way" v="Bing" />
+    <tag id="179961346" k="amenity" o="none" type="way" v="parking" />
+    <tag id="179961346" k="parking" o="none" type="way" v="surface" />
+    <tag id="180239252" k="source" o="modify" type="way" v="survey" />
+    <tag id="180239252" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="180239253" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="180239254" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012 + Terrain + bing" />
+    <tag id="180239254" k="highway" o="none" type="way" v="service" />
+    <tag id="180239256" k="name" o="none" type="way" v="&#201;cole primaire Calanques de Sormiou" />
+    <tag id="180239256" k="source" o="none" type="way" v="data.gouv.fr:Minist&#232;re de l'&#201;ducation nationale, de la Jeunesse et de la Vie associative - 05/2012" />
+    <tag id="180239256" k="amenity" o="none" type="way" v="school" />
+    <tag id="180239256" k="ref:UAI" o="none" type="way" v="0130545X" />
+    <tag id="180239256" k="school:FR" o="none" type="way" v="primaire" />
+    <tag id="180239258" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180239258" k="landuse" o="none" type="way" v="brownfield" />
+    <tag id="180243325" k="name" o="none" type="way" v="Boulevard des Calanques" />
+    <tag id="180243325" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180243325" k="highway" o="none" type="way" v="residential" />
+    <tag id="180243326" k="name" o="none" type="way" v="Les logis de la Gradule" />
+    <tag id="180243326" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012 + Terrain + bing" />
+    <tag id="180243326" k="landuse" o="none" type="way" v="residential" />
+    <tag id="180243326" k="operator" o="none" type="way" v="Erelia" />
+    <tag id="180243329" k="name" o="none" type="way" v="R&#233;sidence Terrasses de Sormiou" />
+    <tag id="180243329" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012 + Terrain + bing" />
+    <tag id="180243329" k="landuse" o="none" type="way" v="residential" />
+    <tag id="180243330" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180243330" k="landuse" o="none" type="way" v="brownfield" />
+    <tag id="180243332" k="access" o="none" type="way" v="private" />
+    <tag id="180243332" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012 + Terrain + bing" />
+    <tag id="180243332" k="highway" o="none" type="way" v="service" />
+    <tag id="180243337" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180243337" k="barrier" o="none" type="way" v="fence" />
+    <tag id="180247456" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180247456" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="180247457" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180247457" k="landuse" o="none" type="way" v="brownfield" />
+    <tag id="180247458" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180247458" k="barrier" o="none" type="way" v="fence" />
+    <tag id="180253423" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180253423" k="building" o="none" type="way" v="yes" />
+    <tag id="180253432" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="180253432" k="natural" o="none" type="way" v="wood" />
+    <tag id="180253432" k="leaf_type" o="none" type="way" v="needleleaved" />
+    <tag id="181767009" k="name" o="none" type="way" v="Rue Victoria Marino" />
+    <tag id="181767009" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="181767009" k="highway" o="none" type="way" v="residential" />
+    <tag id="181767009" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="181767112" k="name" o="none" type="way" v="Rue Victoria Marino" />
+    <tag id="181767112" k="oneway" o="none" type="way" v="yes" />
+    <tag id="181767112" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="181767112" k="highway" o="none" type="way" v="residential" />
+    <tag id="238643353" k="access" o="add" type="way" v="private" />
+    <tag id="238643353" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="238643353" k="highway" o="none" type="way" v="service" />
+    <tag id="238643355" k="access" o="add" type="way" v="private" />
+    <tag id="238643355" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="238643355" k="highway" o="none" type="way" v="service" />
+    <tag id="239064345" k="source" o="none" type="way" v="Bing" />
+    <tag id="239064345" k="amenity" o="none" type="way" v="parking_space" />
+    <tag id="239064345" k="parking_space" o="none" type="way" v="disabled" />
+    <tag id="239064345" k="capacity:disabled" o="none" type="way" v="10" />
+    <tag id="254134312" k="amenity" o="none" type="way" v="parking" />
+    <tag id="254134312" k="parking" o="none" type="way" v="surface" />
+    <tag id="278317244" k="name" o="none" type="way" v="Avenue Colgate" />
+    <tag id="278317244" k="lanes" o="none" type="way" v="2" />
+    <tag id="278317244" k="oneway" o="none" type="way" v="no" />
+    <tag id="278317244" k="highway" o="none" type="way" v="residential" />
+    <tag id="443384387" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="443384387" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2008" />
+    <tag id="443384387" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="443384387" k="admin_level" o="none" type="way" v="10" />
+    <tag id="451322127" k="lit" o="none" type="way" v="yes" />
+    <tag id="451322127" k="oneway" o="none" type="way" v="no" />
+    <tag id="451322127" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="451322127" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="451897704" k="name" o="none" type="way" v="Avenue de la Soude" />
+    <tag id="451897704" k="lanes" o="none" type="way" v="2" />
+    <tag id="451897704" k="oneway" o="modify" type="way" v="yes" />
+    <tag id="451897704" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="451897739" k="name" o="none" type="way" v="Chemin de Sormiou" />
+    <tag id="451897739" k="oneway" o="none" type="way" v="yes" />
+    <tag id="451897739" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="451897740" k="name" o="none" type="way" v="Chemin de Sormiou" />
+    <tag id="451897740" k="oneway" o="none" type="way" v="yes" />
+    <tag id="451897740" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="451897741" k="name" o="none" type="way" v="Chemin de Sormiou" />
+    <tag id="451897741" k="oneway" o="none" type="way" v="yes" />
+    <tag id="451897741" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="451897741" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="451897743" k="note" o="add" type="way" v="futur Parc de la Jarre" />
+    <tag id="451897743" k="landuse" o="add" type="way" v="grass" />
+    <tag id="451897924" k="name" o="add" type="way" v="Le Parc de Manon" />
+    <tag id="451897924" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="451897924" k="building" o="none" type="way" v="yes" />
+    <tag id="451897940" k="wall" o="none" type="way" v="yes" />
+    <tag id="451897940" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="451897940" k="building" o="none" type="way" v="yes" />
+    <tag id="451897976" k="name" o="add" type="way" v="Rue Yann de l'&#201;cotais" />
+    <tag id="451897976" k="source" o="none" type="way" v="BD Ortho IGN" />
+    <tag id="451897976" k="highway" o="none" type="way" v="residential" />
+    <tag id="451897976" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="451897978" k="name" o="add" type="way" v="Rue Ir&#232;ne Calmettes" />
+    <tag id="451897978" k="lanes" o="add" type="way" v="2" />
+    <tag id="451897978" k="source" o="none" type="way" v="BD Ortho IGN" />
+    <tag id="451897978" k="highway" o="none" type="way" v="residential" />
+    <tag id="451897978" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="453523291" k="name" o="none" type="way" v="Avenue de la Martheline" />
+    <tag id="453523291" k="lanes" o="none" type="way" v="2" />
+    <tag id="453523291" k="source" o="none" type="way" v="survey" />
+    <tag id="453523291" k="highway" o="none" type="way" v="residential" />
+    <tag id="453523291" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="453523291" k="parking:lane:both" o="none" type="way" v="parallel" />
+    <tag id="454624141" k="access" o="add" type="way" v="private" />
+    <tag id="454624141" k="amenity" o="add" type="way" v="parking" />
+    <tag id="454624141" k="parking" o="add" type="way" v="surface" />
+    <tag id="454624142" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624142" k="sport" o="add" type="way" v="multi" />
+    <tag id="454624142" k="source" o="add" type="way" v="survey" />
+    <tag id="454624142" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="454624142" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="454624143" k="source" o="add" type="way" v="survey" />
+    <tag id="454624143" k="amenity" o="add" type="way" v="parking" />
+    <tag id="454624143" k="parking" o="add" type="way" v="surface" />
+    <tag id="454624144" k="amenity" o="add" type="way" v="parking" />
+    <tag id="454624144" k="parking" o="add" type="way" v="surface" />
+    <tag id="454624145" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624145" k="sport" o="add" type="way" v="soccer" />
+    <tag id="454624145" k="source" o="add" type="way" v="survey" />
+    <tag id="454624145" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="454624145" k="surface" o="add" type="way" v="artificial_turf" />
+    <tag id="454624146" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624146" k="amenity" o="add" type="way" v="parking" />
+    <tag id="454624146" k="parking" o="add" type="way" v="surface" />
+    <tag id="454624147" k="name" o="add" type="way" v="Al Fourqane la cayolle" />
+    <tag id="454624147" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624147" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="454624147" k="building" o="add" type="way" v="yes" />
+    <tag id="454624147" k="religion" o="add" type="way" v="muslim" />
+    <tag id="454624148" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624148" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624148" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624148" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624148" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="454624149" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624149" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624149" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624149" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624150" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624150" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624150" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624150" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624150" k="parking:lane:both" o="add" type="way" v="132098821P" />
+    <tag id="454624153" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624153" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624153" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624153" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624153" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="454624163" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624163" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624163" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624163" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624163" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="454624176" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624176" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624176" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454624176" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624176" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624176" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="454624185" k="name" o="add" type="way" v="Avenue de la Jarre" />
+    <tag id="454624185" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624185" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624185" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624190" k="name" o="add" type="way" v="Avenue de la Soude" />
+    <tag id="454624190" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624190" k="oneway" o="add" type="way" v="no" />
+    <tag id="454624190" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624191" k="name" o="add" type="way" v="Avenue de la Soude" />
+    <tag id="454624191" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624191" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454624191" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624192" k="name" o="add" type="way" v="Chemin de Sormiou" />
+    <tag id="454624192" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624192" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="454624192" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="454624193" k="name" o="add" type="way" v="Hameau de la Pin&#232;de" />
+    <tag id="454624193" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624194" k="name" o="add" type="way" v="Hameau desPins" />
+    <tag id="454624194" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624195" k="name" o="add" type="way" v="Hameau du Rocher" />
+    <tag id="454624195" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624196" k="name" o="add" type="way" v="Impasse Fernand Karabadjakian" />
+    <tag id="454624196" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624196" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624196" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624197" k="name" o="add" type="way" v="Impasse Fernand Karabadjakian" />
+    <tag id="454624197" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624197" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624197" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624197" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="454624198" k="name" o="add" type="way" v="Les Calanques" />
+    <tag id="454624198" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624199" k="name" o="add" type="way" v="Les Hauts de Mazargues" />
+    <tag id="454624199" k="access" o="add" type="way" v="private" />
+    <tag id="454624199" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624199" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624200" k="name" o="add" type="way" v="Maison de quartier du Baou de Sormiou" />
+    <tag id="454624200" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624200" k="source" o="add" type="way" v="survey" />
+    <tag id="454624200" k="amenity" o="add" type="way" v="community_centre" />
+    <tag id="454624200" k="building" o="add" type="way" v="yes" />
+    <tag id="454624201" k="name" o="add" type="way" v="Parc Ludico Sportif de la Cayolle" />
+    <tag id="454624201" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624201" k="source" o="add" type="way" v="survey" />
+    <tag id="454624201" k="leisure" o="add" type="way" v="sports_centre" />
+    <tag id="454624201" k="alt_name" o="add" type="way" v="Parc Ludico Sportif de La Cayolle" />
+    <tag id="454624201" k="operator" o="add" type="way" v="Mairie des 9e et 10e arrondissements" />
+    <tag id="454624202" k="name" o="add" type="way" v="Parc de la Valette" />
+    <tag id="454624202" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624203" k="name" o="add" type="way" v="Peintres Roux" />
+    <tag id="454624203" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624204" k="name" o="add" type="way" v="Rue Capitaine Jean Croisa" />
+    <tag id="454624204" k="oneway" o="add" type="way" v="yes" />
+    <tag id="454624204" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624204" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624204" k="ref:FR:FANTOIR" o="add" type="way" v="132094712Y" />
+    <tag id="454624205" k="name" o="add" type="way" v="Rue Capitaine Jean Croisa" />
+    <tag id="454624205" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624205" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624205" k="ref:FR:FANTOIR" o="add" type="way" v="132094712Y" />
+    <tag id="454624205" k="parking:lane:both" o="add" type="way" v="parallel" />
+    <tag id="454624206" k="name" o="add" type="way" v="Rue Capitaine Jean Croisa" />
+    <tag id="454624206" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="454624206" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624206" k="ref:FR:FANTOIR" o="add" type="way" v="132094712Y" />
+    <tag id="454624207" k="name" o="add" type="way" v="Rue Ir&#232;ne Calmettes" />
+    <tag id="454624207" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624207" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624207" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624207" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="454624207" k="parking:lane:right" o="add" type="way" v="parallel" />
+    <tag id="454624208" k="name" o="add" type="way" v="Rue Ir&#232;ne Calmettes" />
+    <tag id="454624208" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624208" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624208" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624208" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="454624209" k="name" o="add" type="way" v="Rue Ir&#232;ne Calmettes" />
+    <tag id="454624209" k="lanes" o="add" type="way" v="2" />
+    <tag id="454624209" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624209" k="highway" o="add" type="way" v="residential" />
+    <tag id="454624210" k="name" o="add" type="way" v="R&#233;sidence La Madrague" />
+    <tag id="454624210" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624210" k="building" o="add" type="way" v="yes" />
+    <tag id="454624211" k="source" o="add" type="way" v="survey" />
+    <tag id="454624211" k="landuse" o="add" type="way" v="brownfield" />
+    <tag id="454624212" k="source" o="add" type="way" v="survey" />
+    <tag id="454624212" k="landuse" o="add" type="way" v="grass" />
+    <tag id="454624213" k="landuse" o="add" type="way" v="construction" />
+    <tag id="454624214" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624215" k="source" o="add" type="way" v="survey" />
+    <tag id="454624215" k="landuse" o="add" type="way" v="construction" />
+    <tag id="454624216" k="source" o="add" type="way" v="survey" />
+    <tag id="454624216" k="landuse" o="add" type="way" v="grass" />
+    <tag id="454624217" k="source" o="add" type="way" v="survey" />
+    <tag id="454624217" k="landuse" o="add" type="way" v="brownfield" />
+    <tag id="454624218" k="source" o="add" type="way" v="survey" />
+    <tag id="454624218" k="landuse" o="add" type="way" v="construction" />
+    <tag id="454624219" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624220" k="landuse" o="add" type="way" v="retail" />
+    <tag id="454624221" k="name" o="add" type="way" v="Vaucanson" />
+    <tag id="454624221" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624222" k="name" o="add" type="way" v="Villa Chanteraine" />
+    <tag id="454624222" k="landuse" o="add" type="way" v="residential" />
+    <tag id="454624223" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624223" k="building" o="add" type="way" v="yes" />
+    <tag id="454624224" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624224" k="building" o="add" type="way" v="garage" />
+    <tag id="454624225" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624225" k="building" o="add" type="way" v="yes" />
+    <tag id="454624226" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624226" k="building" o="add" type="way" v="garage" />
+    <tag id="454624227" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624227" k="building" o="add" type="way" v="yes" />
+    <tag id="454624228" k="wall" o="add" type="way" v="no" />
+    <tag id="454624228" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624228" k="building" o="add" type="way" v="yes" />
+    <tag id="454624229" k="wall" o="add" type="way" v="no" />
+    <tag id="454624229" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624229" k="building" o="add" type="way" v="yes" />
+    <tag id="454624230" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624230" k="building" o="add" type="way" v="yes" />
+    <tag id="454624231" k="wall" o="add" type="way" v="no" />
+    <tag id="454624231" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624231" k="building" o="add" type="way" v="yes" />
+    <tag id="454624232" k="wall" o="add" type="way" v="yes" />
+    <tag id="454624232" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624232" k="building" o="add" type="way" v="yes" />
+    <tag id="454624233" k="wall" o="add" type="way" v="no" />
+    <tag id="454624233" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624233" k="building" o="add" type="way" v="yes" />
+    <tag id="454624234" k="wall" o="add" type="way" v="no" />
+    <tag id="454624234" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624234" k="building" o="add" type="way" v="yes" />
+    <tag id="454624235" k="wall" o="add" type="way" v="no" />
+    <tag id="454624235" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624235" k="building" o="add" type="way" v="yes" />
+    <tag id="454624236" k="wall" o="add" type="way" v="no" />
+    <tag id="454624236" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624236" k="building" o="add" type="way" v="yes" />
+    <tag id="454624237" k="wall" o="add" type="way" v="no" />
+    <tag id="454624237" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624237" k="building" o="add" type="way" v="yes" />
+    <tag id="454624238" k="wall" o="add" type="way" v="no" />
+    <tag id="454624238" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624238" k="building" o="add" type="way" v="yes" />
+    <tag id="454624239" k="wall" o="add" type="way" v="no" />
+    <tag id="454624239" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624239" k="building" o="add" type="way" v="yes" />
+    <tag id="454624240" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624240" k="building" o="add" type="way" v="yes" />
+    <tag id="454624241" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624241" k="building" o="add" type="way" v="yes" />
+    <tag id="454624249" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624249" k="building" o="add" type="way" v="yes" />
+    <tag id="454624258" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624258" k="building" o="add" type="way" v="yes" />
+    <tag id="454624267" k="source" o="add" type="way" v="survey" />
+    <tag id="454624267" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624278" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624287" k="access" o="add" type="way" v="private" />
+    <tag id="454624287" k="highway" o="add" type="way" v="service" />
+    <tag id="454624287" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="454624288" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624288" k="highway" o="add" type="way" v="track" />
+    <tag id="454624289" k="access" o="add" type="way" v="private" />
+    <tag id="454624289" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624289" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624290" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624291" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624292" k="access" o="add" type="way" v="private" />
+    <tag id="454624292" k="highway" o="add" type="way" v="service" />
+    <tag id="454624292" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="454624293" k="highway" o="add" type="way" v="service" />
+    <tag id="454624294" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624295" k="access" o="add" type="way" v="private" />
+    <tag id="454624295" k="highway" o="add" type="way" v="service" />
+    <tag id="454624300" k="highway" o="add" type="way" v="steps" />
+    <tag id="454624301" k="access" o="add" type="way" v="private" />
+    <tag id="454624301" k="highway" o="add" type="way" v="service" />
+    <tag id="454624301" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="454624302" k="highway" o="add" type="way" v="service" />
+    <tag id="454624303" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624303" k="source" o="add" type="way" v="survey" />
+    <tag id="454624303" k="highway" o="add" type="way" v="steps" />
+    <tag id="454624308" k="access" o="add" type="way" v="private" />
+    <tag id="454624308" k="highway" o="add" type="way" v="service" />
+    <tag id="454624308" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="454624312" k="access" o="add" type="way" v="private" />
+    <tag id="454624312" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624312" k="highway" o="add" type="way" v="service" />
+    <tag id="454624319" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624323" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624323" k="source" o="add" type="way" v="survey" />
+    <tag id="454624323" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624327" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624331" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624332" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="454624332" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624333" k="source" o="add" type="way" v="survey" />
+    <tag id="454624333" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624335" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624336" k="access" o="add" type="way" v="private" />
+    <tag id="454624336" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624336" k="highway" o="add" type="way" v="service" />
+    <tag id="454624337" k="source" o="add" type="way" v="survey" />
+    <tag id="454624337" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624338" k="access" o="add" type="way" v="private" />
+    <tag id="454624338" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624338" k="highway" o="add" type="way" v="service" />
+    <tag id="454624339" k="access" o="add" type="way" v="private" />
+    <tag id="454624339" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624339" k="highway" o="add" type="way" v="service" />
+    <tag id="454624340" k="access" o="add" type="way" v="private" />
+    <tag id="454624340" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624340" k="highway" o="add" type="way" v="service" />
+    <tag id="454624341" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624342" k="access" o="add" type="way" v="private" />
+    <tag id="454624342" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624342" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624343" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624343" k="highway" o="add" type="way" v="track" />
+    <tag id="454624344" k="source" o="add" type="way" v="survey" />
+    <tag id="454624344" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624345" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624345" k="highway" o="add" type="way" v="service" />
+    <tag id="454624345" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="454624346" k="source" o="add" type="way" v="survey" />
+    <tag id="454624346" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624347" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="454624348" k="source" o="add" type="way" v="survey" />
+    <tag id="454624348" k="highway" o="add" type="way" v="service" />
+    <tag id="454624349" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2016" />
+    <tag id="454624349" k="highway" o="add" type="way" v="construction" />
+    <tag id="454624350" k="source" o="add" type="way" v="survey" />
+    <tag id="454624350" k="highway" o="add" type="way" v="service" />
+    <tag id="454624351" k="access" o="add" type="way" v="private" />
+    <tag id="454624351" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624351" k="highway" o="add" type="way" v="service" />
+    <tag id="454624352" k="highway" o="add" type="way" v="service" />
+    <tag id="454624353" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624354" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624354" k="source" o="add" type="way" v="survey" />
+    <tag id="454624354" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624355" k="source" o="add" type="way" v="survey" />
+    <tag id="454624355" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624356" k="fixme" o="add" type="way" v="trac&#233; approximatif" />
+    <tag id="454624356" k="source" o="add" type="way" v="survey" />
+    <tag id="454624356" k="highway" o="add" type="way" v="pedestrian" />
+    <tag id="454624357" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624358" k="highway" o="add" type="way" v="service" />
+    <tag id="454624359" k="access" o="add" type="way" v="private" />
+    <tag id="454624359" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624359" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624360" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624360" k="highway" o="add" type="way" v="track" />
+    <tag id="454624361" k="access" o="add" type="way" v="private" />
+    <tag id="454624361" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624361" k="highway" o="add" type="way" v="service" />
+    <tag id="454624362" k="access" o="add" type="way" v="private" />
+    <tag id="454624362" k="source" o="add" type="way" v="BD Ortho IGN" />
+    <tag id="454624362" k="highway" o="add" type="way" v="service" />
+    <tag id="454624363" k="source" o="add" type="way" v="survey" />
+    <tag id="454624363" k="highway" o="add" type="way" v="footway" />
+    <tag id="454624364" k="access" o="add" type="way" v="private" />
+    <tag id="454624364" k="highway" o="add" type="way" v="service" />
+    <tag id="1419198" k="to" o="none" type="relation" v="Beauvallon" />
+    <tag id="1419198" k="ref" o="none" type="relation" v="23" />
+    <tag id="1419198" k="from" o="none" type="relation" v="M&#233;tro Rond-Point du Prado" />
+    <tag id="1419198" k="name" o="none" type="relation" v="Bus 23: M&#233;tro Rond-Point du Prado =&gt; Beauvallon" />
+    <tag id="1419198" k="type" o="none" type="relation" v="route" />
+    <tag id="1419198" k="route" o="none" type="relation" v="bus" />
+    <tag id="1419198" k="colour" o="none" type="relation" v="#e98e00" />
+    <tag id="1419198" k="network" o="none" type="relation" v="RTM" />
+    <tag id="1419198" k="website" o="none" type="relation" v="http://www.rtm.fr/" />
+    <tag id="1419198" k="operator" o="none" type="relation" v="RTM" />
+    <tag id="1419198" k="opening_hours" o="none" type="relation" v="Mo-Sa 05:00-21:00; Su 06:00-21:00" />
+    <tag id="1771619" k="to" o="none" type="relation" v="M&#233;tro Rond-Point du Prado" />
+    <tag id="1771619" k="ref" o="none" type="relation" v="23" />
+    <tag id="1771619" k="from" o="none" type="relation" v="Beauvallon" />
+    <tag id="1771619" k="name" o="none" type="relation" v="Bus 23: Beauvallon =&gt; M&#233;tro Rond-Point du Prado" />
+    <tag id="1771619" k="type" o="none" type="relation" v="route" />
+    <tag id="1771619" k="route" o="none" type="relation" v="bus" />
+    <tag id="1771619" k="colour" o="none" type="relation" v="#e98e00" />
+    <tag id="1771619" k="network" o="none" type="relation" v="RTM" />
+    <tag id="1771619" k="website" o="none" type="relation" v="http://www.rtm.fr/" />
+    <tag id="1771619" k="operator" o="none" type="relation" v="RTM" />
+    <tag id="1771619" k="opening_hours" o="none" type="relation" v="Mo-Sa 05:00-21:00; Su 06:00-21:00" />
+  </body>
+</changeset>
