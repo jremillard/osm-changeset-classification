@@ -1,5 +1,5 @@
 <changeset id="30995620" schema="2">
-  <counts nodesAdded="332" nodesDeleted="291" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="2" waysDeleted="2" waysModified="0" />
+  <counts nodesAdded="332" nodesDeleted="291" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="2" waysDeleted="2" waysModified="2" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Brenn&#225; (relation 433962)." />
@@ -8,29 +8,29 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="344246176" k="admin_level" o="add" type="way" v="10" />
-    <tag id="344246176" k="boundary" o="add" type="way" v="administrative" />
     <tag id="344246176" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="344246197" k="admin_level" o="add" type="way" v="10" />
-    <tag id="344246197" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="344246176" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="344246176" k="admin_level" o="add" type="way" v="10" />
     <tag id="344246197" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="430699" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="430699" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="430699" k="name" o="none" type="relation" v="Vesel&#237; nad Plou&#269;nic&#237;" />
-    <tag id="430699" k="ref" o="none" type="relation" v="609838" />
-    <tag id="430699" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="430699" k="type" o="none" type="relation" v="boundary" />
-    <tag id="433962" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="433962" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="433962" k="name" o="none" type="relation" v="Brenn&#225;" />
-    <tag id="433962" k="ref" o="none" type="relation" v="609820" />
-    <tag id="433962" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="433962" k="type" o="none" type="relation" v="boundary" />
-    <tag id="430685" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="430685" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="430685" k="name" o="none" type="relation" v="Bo&#382;&#237;kov" />
+    <tag id="344246197" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="344246197" k="admin_level" o="add" type="way" v="10" />
     <tag id="430685" k="ref" o="none" type="relation" v="790524" />
-    <tag id="430685" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="430685" k="name" o="none" type="relation" v="Bo&#382;&#237;kov" />
     <tag id="430685" k="type" o="none" type="relation" v="boundary" />
+    <tag id="430685" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="430685" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="430685" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="430699" k="ref" o="none" type="relation" v="609838" />
+    <tag id="430699" k="name" o="none" type="relation" v="Vesel&#237; nad Plou&#269;nic&#237;" />
+    <tag id="430699" k="type" o="none" type="relation" v="boundary" />
+    <tag id="430699" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="430699" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="430699" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="433962" k="ref" o="none" type="relation" v="609820" />
+    <tag id="433962" k="name" o="none" type="relation" v="Brenn&#225;" />
+    <tag id="433962" k="type" o="none" type="relation" v="boundary" />
+    <tag id="433962" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="433962" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="433962" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

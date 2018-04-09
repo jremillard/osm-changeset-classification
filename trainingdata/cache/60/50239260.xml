@@ -1,17 +1,17 @@
 <changeset id="50239260" schema="2">
-  <counts nodesAdded="4" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="0" />
+  <counts nodesAdded="4" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="0" />
   <meta>
     <tag k="comment" v="Note #1041061: add housename for pub" />
     <tag k="created_by" v="JOSM/1.5 (12450 en_GB)" />
     <tag k="source" v="survey, bing" />
   </meta>
   <body>
-    <tag id="507081189" k="addr:housename" o="add" type="way" v="Philipstown House" />
-    <tag id="507081189" k="addr:street" o="add" type="way" v="Belmont Grove" />
-    <tag id="507081189" k="building" o="add" type="way" v="yes" />
-    <tag id="683894548" k="addr:street" o="none" type="node" v="Belmont Grove" />
-    <tag id="683894548" k="amenity" o="none" type="node" v="pub" />
     <tag id="683894548" k="name" o="none" type="node" v="Galloping Green" />
+    <tag id="683894548" k="amenity" o="none" type="node" v="pub" />
+    <tag id="683894548" k="addr:street" o="none" type="node" v="Belmont Grove" />
     <tag id="683894548" k="opening_hours" o="none" type="node" v="Mo-Th 12:00-23:30; Fr-Sa 12:00-00:30; Su12:30-23:00" />
+    <tag id="507081189" k="building" o="add" type="way" v="yes" />
+    <tag id="507081189" k="addr:street" o="add" type="way" v="Belmont Grove" />
+    <tag id="507081189" k="addr:housename" o="add" type="way" v="Philipstown House" />
   </body>
 </changeset>

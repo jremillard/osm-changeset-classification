@@ -1,5 +1,5 @@
 <changeset id="33197356" schema="2">
-  <counts nodesAdded="60" nodesDeleted="67" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="3" waysDeleted="3" waysModified="2" />
+  <counts nodesAdded="60" nodesDeleted="67" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="3" waysDeleted="3" waysModified="5" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Horn&#237; Rudn&#225; (relation 428117)." />
@@ -8,68 +8,68 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="364621371" k="admin_level" o="add" type="way" v="8" />
-    <tag id="364621371" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="364621371" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="364621372" k="admin_level" o="add" type="way" v="8" />
-    <tag id="364621372" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="364621372" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="364621373" k="admin_level" o="add" type="way" v="10" />
-    <tag id="364621373" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="364621373" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="292243914" k="admin_level" o="none" type="way" v="10" />
-    <tag id="292243914" k="boundary" o="none" type="way" v="administrative" />
-    <tag id="292243914" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="292223518" k="admin_level" o="none" type="way" v="8" />
-    <tag id="292223518" k="boundary" o="none" type="way" v="administrative" />
     <tag id="292223518" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="429686" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="429686" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="429686" k="name" o="none" type="relation" v="Horn&#237; Hyn&#269;ina" />
-    <tag id="429686" k="ref" o="none" type="relation" v="724661" />
-    <tag id="429686" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="429686" k="type" o="none" type="relation" v="boundary" />
-    <tag id="428117" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="428117" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="292223518" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="292223518" k="admin_level" o="none" type="way" v="8" />
+    <tag id="292243914" k="source" o="none" type="way" v="cuzk:ruian" />
+    <tag id="292243914" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="292243914" k="admin_level" o="none" type="way" v="10" />
+    <tag id="364621371" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="364621371" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="364621371" k="admin_level" o="add" type="way" v="8" />
+    <tag id="364621372" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="364621372" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="364621372" k="admin_level" o="add" type="way" v="8" />
+    <tag id="364621373" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="364621373" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="364621373" k="admin_level" o="add" type="way" v="10" />
+    <tag id="428117" k="ref" o="none" type="relation" v="743348" />
     <tag id="428117" k="name" o="none" type="relation" v="Horn&#237; Rudn&#225;" />
+    <tag id="428117" k="type" o="none" type="relation" v="boundary" />
+    <tag id="428117" k="source" o="none" type="relation" v="cuzk:ruian" />
     <tag id="428117" k="name:cs" o="add" type="relation" v="Horn&#237; Rudn&#225;" />
     <tag id="428117" k="name:de" o="none" type="relation" v="Ober-Rauden" />
-    <tag id="428117" k="ref" o="none" type="relation" v="743348" />
-    <tag id="428117" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="428117" k="type" o="none" type="relation" v="boundary" />
-    <tag id="429981" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="429981" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="428117" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="428117" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="429686" k="ref" o="none" type="relation" v="724661" />
+    <tag id="429686" k="name" o="none" type="relation" v="Horn&#237; Hyn&#269;ina" />
+    <tag id="429686" k="type" o="none" type="relation" v="boundary" />
+    <tag id="429686" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="429686" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="429686" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="429981" k="ref" o="none" type="relation" v="743330" />
     <tag id="429981" k="name" o="none" type="relation" v="Doln&#237; Rudn&#225;" />
+    <tag id="429981" k="type" o="none" type="relation" v="boundary" />
+    <tag id="429981" k="source" o="none" type="relation" v="cuzk:ruian" />
     <tag id="429981" k="name:cs" o="add" type="relation" v="Doln&#237; Rudn&#225;" />
     <tag id="429981" k="name:de" o="none" type="relation" v="Nieder-Rauden" />
-    <tag id="429981" k="ref" o="none" type="relation" v="743330" />
-    <tag id="429981" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="429981" k="type" o="none" type="relation" v="boundary" />
-    <tag id="431271" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="431271" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="431271" k="name" o="none" type="relation" v="Pohledy" />
+    <tag id="429981" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="429981" k="admin_level" o="none" type="relation" v="10" />
     <tag id="431271" k="ref" o="none" type="relation" v="724670" />
-    <tag id="431271" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="431271" k="name" o="none" type="relation" v="Pohledy" />
     <tag id="431271" k="type" o="none" type="relation" v="boundary" />
-    <tag id="441880" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="441880" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="441880" k="name" o="none" type="relation" v="Pohledy" />
-    <tag id="441880" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="441880" k="population" o="none" type="relation" v="321" />
-    <tag id="441880" k="ref" o="none" type="relation" v="CZ0533578550" />
-    <tag id="441880" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="441880" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="441880" k="type" o="none" type="relation" v="boundary" />
-    <tag id="441880" k="wikipedia" o="none" type="relation" v="cs:Pohledy" />
-    <tag id="436719" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="436719" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="436719" k="name" o="none" type="relation" v="Rudn&#225;" />
-    <tag id="436719" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="436719" k="population" o="none" type="relation" v="173" />
+    <tag id="431271" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="431271" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="431271" k="admin_level" o="none" type="relation" v="10" />
     <tag id="436719" k="ref" o="none" type="relation" v="CZ0533578703" />
-    <tag id="436719" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="436719" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="436719" k="name" o="none" type="relation" v="Rudn&#225;" />
     <tag id="436719" k="type" o="none" type="relation" v="boundary" />
+    <tag id="436719" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="436719" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="436719" k="wikipedia" o="none" type="relation" v="cs:Rudn&#225; (okres Svitavy)" />
+    <tag id="436719" k="population" o="none" type="relation" v="173" />
+    <tag id="436719" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="436719" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="436719" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="441880" k="ref" o="none" type="relation" v="CZ0533578550" />
+    <tag id="441880" k="name" o="none" type="relation" v="Pohledy" />
+    <tag id="441880" k="type" o="none" type="relation" v="boundary" />
+    <tag id="441880" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="441880" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="441880" k="wikipedia" o="none" type="relation" v="cs:Pohledy" />
+    <tag id="441880" k="population" o="none" type="relation" v="321" />
+    <tag id="441880" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="441880" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="441880" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

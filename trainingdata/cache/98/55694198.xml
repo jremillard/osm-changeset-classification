@@ -1,1 +1,18 @@
-<changeset id="55694198" schema="1"><counts nodesAdded="8" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="1" /><meta><tag k="changesets_count" v="8" /><tag k="comment" v="Parque de la vida" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="es" /></meta><body><tag id="555270596" k="highway" o="add" type="way" v="footway" /><tag id="555270598" k="highway" o="add" type="way" v="footway" /><tag id="555270600" k="highway" o="add" type="way" v="footway" /><tag id="555270001" k="name" o="modify" type="way" v="Plazoleta medioambiente" /></body></changeset>
+<changeset id="55694198" schema="2">
+  <counts nodesAdded="8" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="8" />
+    <tag k="comment" v="Parque de la vida" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="es" />
+  </meta>
+  <body>
+    <tag id="555270001" k="name" o="modify" type="way" v="Plazoleta medioambiente" />
+    <tag id="555270001" k="leisure" o="none" type="way" v="park" />
+    <tag id="555270596" k="highway" o="add" type="way" v="footway" />
+    <tag id="555270598" k="highway" o="add" type="way" v="footway" />
+    <tag id="555270600" k="highway" o="add" type="way" v="footway" />
+  </body>
+</changeset>

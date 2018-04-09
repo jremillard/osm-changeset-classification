@@ -1,5 +1,5 @@
 <changeset id="10503270" schema="2">
-  <counts nodesAdded="157" nodesDeleted="5" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="9" waysDeleted="1" waysModified="6" />
+  <counts nodesAdded="157" nodesDeleted="5" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="9" waysDeleted="1" waysModified="7" />
   <meta>
     <tag k="build" v="2.3-129-g04001aa" />
     <tag k="comment" v="868668768" />
@@ -7,6 +7,14 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="13860108" k="source" o="none" type="way" v="PGS" />
+    <tag id="13860108" k="natural" o="none" type="way" v="coastline" />
+    <tag id="137866967" k="leisure" o="none" type="way" v="park" />
+    <tag id="147362812" k="barrier" o="none" type="way" v="wall" />
+    <tag id="147362813" k="access" o="add" type="way" v="private" />
+    <tag id="147362813" k="highway" o="modify" type="way" v="service" />
+    <tag id="147372904" k="barrier" o="none" type="way" v="fence" />
+    <tag id="147416997" k="leisure" o="none" type="way" v="park" />
     <tag id="147426509" k="access" o="add" type="way" v="private" />
     <tag id="147426509" k="highway" o="add" type="way" v="service" />
     <tag id="147426510" k="access" o="add" type="way" v="private" />
@@ -19,13 +27,5 @@
     <tag id="147426827" k="natural" o="add" type="way" v="beach" />
     <tag id="147426948" k="natural" o="add" type="way" v="wetland" />
     <tag id="147427086" k="natural" o="add" type="way" v="wetland" />
-    <tag id="147362813" k="access" o="add" type="way" v="private" />
-    <tag id="147362813" k="highway" o="modify" type="way" v="service" />
-    <tag id="13860108" k="natural" o="none" type="way" v="coastline" />
-    <tag id="13860108" k="source" o="none" type="way" v="PGS" />
-    <tag id="147416997" k="leisure" o="none" type="way" v="park" />
-    <tag id="147362812" k="barrier" o="none" type="way" v="wall" />
-    <tag id="147372904" k="barrier" o="none" type="way" v="fence" />
-    <tag id="137866967" k="leisure" o="none" type="way" v="park" />
   </body>
 </changeset>

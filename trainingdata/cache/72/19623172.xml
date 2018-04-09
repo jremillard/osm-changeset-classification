@@ -1,5 +1,5 @@
 <changeset id="19623172" schema="2">
-  <counts nodesAdded="130" nodesDeleted="4" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="37" waysDeleted="1" waysModified="12" />
+  <counts nodesAdded="130" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="37" waysDeleted="1" waysModified="13" />
   <meta>
     <tag k="build" v="2.3-605-gbec0ea7" />
     <tag k="comment" v="Lohmar &#196;nderungen 241213_2" />
@@ -7,6 +7,45 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="326166962" k="highway" o="none" type="node" v="turning_circle" />
+    <tag id="2300513661" k="addr:city" o="none" type="node" v="Lohmar" />
+    <tag id="2300513661" k="addr:street" o="none" type="node" v="Jahnstra&#223;e" />
+    <tag id="2300513661" k="addr:country" o="none" type="node" v="DE" />
+    <tag id="2300513661" k="addr:postcode" o="none" type="node" v="53797" />
+    <tag id="2300513661" k="addr:housenumber" o="none" type="node" v="9" />
+    <tag id="28293933" k="name" o="none" type="way" v="Parkstra&#223;e" />
+    <tag id="28293933" k="highway" o="none" type="way" v="residential" />
+    <tag id="29422616" k="name" o="none" type="way" v="St&#228;dtischer Friedhof" />
+    <tag id="29422616" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="29613247" k="name" o="none" type="way" v="Heinrich-Heine-Stra&#223;e" />
+    <tag id="29613247" k="highway" o="none" type="way" v="service" />
+    <tag id="29613247" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="29623694" k="name" o="none" type="way" v="Altenrather Stra&#223;e" />
+    <tag id="29623694" k="highway" o="none" type="way" v="residential" />
+    <tag id="29623694" k="postal_code" o="none" type="way" v="53797" />
+    <tag id="29734450" k="landuse" o="none" type="way" v="residential" />
+    <tag id="104199645" k="natural" o="none" type="way" v="scrub" />
+    <tag id="131904300" k="name" o="none" type="way" v="Sankt Johannes" />
+    <tag id="131904300" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="131904300" k="building" o="add" type="way" v="yes" />
+    <tag id="131904300" k="religion" o="none" type="way" v="christian" />
+    <tag id="131904300" k="denomination" o="none" type="way" v="catholic" />
+    <tag id="142440482" k="ref" o="none" type="way" v="Luftbild Troisdorf 2007" />
+    <tag id="142440482" k="source" o="none" type="way" v="HiRes aerial imagery" />
+    <tag id="142440482" k="boundary" o="none" type="way" v="aerial_views" />
+    <tag id="142440482" k="resolution" o="none" type="way" v="0.10" />
+    <tag id="142440482" k="start_date" o="none" type="way" v="2007-10-14" />
+    <tag id="142440482" k="description" o="none" type="way" v="Grenze der Hochaufl&#246;senden Bilder f&#252;r Troisdorf (10cm, 2007)." />
+    <tag id="219698881" k="name" o="none" type="way" v="Breiter Weg" />
+    <tag id="219698881" k="highway" o="none" type="way" v="residential" />
+    <tag id="220514573" k="highway" o="none" type="way" v="service" />
+    <tag id="220514573" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="252491097" k="name" o="none" type="way" v="Wiesenpfad" />
+    <tag id="252491097" k="highway" o="none" type="way" v="residential" />
+    <tag id="253187140" k="name" o="add" type="way" v="Kaufland Parkplatz" />
+    <tag id="253187140" k="amenity" o="none" type="way" v="parking" />
+    <tag id="253391263" k="highway" o="add" type="way" v="footway" />
+    <tag id="253391264" k="highway" o="add" type="way" v="footway" />
     <tag id="253391265" k="highway" o="add" type="way" v="footway" />
     <tag id="253391266" k="highway" o="add" type="way" v="footway" />
     <tag id="253391267" k="highway" o="add" type="way" v="footway" />
@@ -14,11 +53,14 @@
     <tag id="253391269" k="highway" o="add" type="way" v="path" />
     <tag id="253391270" k="building" o="add" type="way" v="yes" />
     <tag id="253391271" k="highway" o="add" type="way" v="footway" />
+    <tag id="253391272" k="highway" o="add" type="way" v="footway" />
     <tag id="253391395" k="highway" o="add" type="way" v="footway" />
     <tag id="253391396" k="highway" o="add" type="way" v="footway" />
+    <tag id="253391397" k="highway" o="add" type="way" v="footway" />
     <tag id="253392061" k="highway" o="add" type="way" v="footway" />
     <tag id="253392062" k="highway" o="add" type="way" v="footway" />
     <tag id="253392063" k="highway" o="add" type="way" v="footway" />
+    <tag id="253392064" k="highway" o="add" type="way" v="footway" />
     <tag id="253392065" k="highway" o="add" type="way" v="footway" />
     <tag id="253392172" k="highway" o="add" type="way" v="footway" />
     <tag id="253392173" k="highway" o="add" type="way" v="footway" />
@@ -37,47 +79,5 @@
     <tag id="253393459" k="highway" o="add" type="way" v="service" />
     <tag id="253393460" k="highway" o="add" type="way" v="service" />
     <tag id="253393461" k="highway" o="add" type="way" v="service" />
-    <tag id="2300513661" k="addr:city" o="none" type="node" v="Lohmar" />
-    <tag id="2300513661" k="addr:country" o="none" type="node" v="DE" />
-    <tag id="2300513661" k="addr:housenumber" o="none" type="node" v="9" />
-    <tag id="2300513661" k="addr:postcode" o="none" type="node" v="53797" />
-    <tag id="2300513661" k="addr:street" o="none" type="node" v="Jahnstra&#223;e" />
-    <tag id="326166962" k="highway" o="none" type="node" v="turning_circle" />
-    <tag id="253391263" k="highway" o="add" type="way" v="footway" />
-    <tag id="253391264" k="highway" o="add" type="way" v="footway" />
-    <tag id="253391272" k="highway" o="add" type="way" v="footway" />
-    <tag id="253391397" k="highway" o="add" type="way" v="footway" />
-    <tag id="253392064" k="highway" o="add" type="way" v="footway" />
-    <tag id="131904300" k="amenity" o="none" type="way" v="place_of_worship" />
-    <tag id="131904300" k="building" o="add" type="way" v="yes" />
-    <tag id="131904300" k="denomination" o="none" type="way" v="catholic" />
-    <tag id="131904300" k="name" o="none" type="way" v="Sankt Johannes" />
-    <tag id="131904300" k="religion" o="none" type="way" v="christian" />
-    <tag id="253187140" k="amenity" o="none" type="way" v="parking" />
-    <tag id="253187140" k="name" o="add" type="way" v="Kaufland Parkplatz" />
-    <tag id="29422616" k="landuse" o="none" type="way" v="cemetery" />
-    <tag id="29422616" k="name" o="none" type="way" v="St&#228;dtischer Friedhof" />
-    <tag id="29734450" k="landuse" o="none" type="way" v="residential" />
-    <tag id="219698881" k="highway" o="none" type="way" v="residential" />
-    <tag id="219698881" k="name" o="none" type="way" v="Breiter Weg" />
-    <tag id="220514573" k="highway" o="none" type="way" v="service" />
-    <tag id="220514573" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="142440482" k="boundary" o="none" type="way" v="aerial_views" />
-    <tag id="142440482" k="description" o="none" type="way" v="Grenze der Hochaufl&#246;senden Bilder f&#252;r Troisdorf (10cm, 2007)." />
-    <tag id="142440482" k="ref" o="none" type="way" v="Luftbild Troisdorf 2007" />
-    <tag id="142440482" k="resolution" o="none" type="way" v="0.10" />
-    <tag id="142440482" k="source" o="none" type="way" v="HiRes aerial imagery" />
-    <tag id="142440482" k="start_date" o="none" type="way" v="2007-10-14" />
-    <tag id="104199645" k="natural" o="none" type="way" v="scrub" />
-    <tag id="28293933" k="highway" o="none" type="way" v="residential" />
-    <tag id="28293933" k="name" o="none" type="way" v="Parkstra&#223;e" />
-    <tag id="29613247" k="highway" o="none" type="way" v="service" />
-    <tag id="29613247" k="name" o="none" type="way" v="Heinrich-Heine-Stra&#223;e" />
-    <tag id="29613247" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="29623694" k="highway" o="none" type="way" v="residential" />
-    <tag id="29623694" k="name" o="none" type="way" v="Altenrather Stra&#223;e" />
-    <tag id="29623694" k="postal_code" o="none" type="way" v="53797" />
-    <tag id="252491097" k="highway" o="none" type="way" v="residential" />
-    <tag id="252491097" k="name" o="none" type="way" v="Wiesenpfad" />
   </body>
 </changeset>

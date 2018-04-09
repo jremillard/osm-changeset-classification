@@ -1,1 +1,23 @@
-<changeset id="44483068" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="This bike shop was founded in 1989 by Terry Clements" /><tag k="created_by" v="iD 2.0.1" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="4559402031" k="description" o="add" type="node" v="Founded in 1989 Terry's Cycle is the Mid-Michigan's premiere purveyor of quality cycling goods and services. 989-463-5260" /><tag id="4559402031" k="name" o="add" type="node" v="Terry's Cycle" /><tag id="4559402031" k="opening_hours" o="modify" type="node" v="Summer - M-F 9:30-6:00; Sat 10-3; Sun Closed  Winter - M-F: 9:30-5:30; Sat 10-3; Sun Closed" /><tag id="4559402031" k="service:bicycle:Bicycle_Sales_and_Service" o="add" type="node" v="yes" /></body></changeset>
+<changeset id="44483068" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="This bike shop was founded in 1989 by Terry Clements" />
+    <tag k="created_by" v="iD 2.0.1" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4559402031" k="name" o="add" type="node" v="Terry's Cycle" />
+    <tag id="4559402031" k="shop" o="none" type="node" v="bicycle" />
+    <tag id="4559402031" k="operator" o="none" type="node" v="Mike Napieralski &amp; Chris Maltby" />
+    <tag id="4559402031" k="addr:city" o="none" type="node" v="Alma" />
+    <tag id="4559402031" k="addr:state" o="none" type="node" v="MI" />
+    <tag id="4559402031" k="addr:street" o="none" type="node" v="North State Street" />
+    <tag id="4559402031" k="description" o="add" type="node" v="Founded in 1989 Terry's Cycle is the Mid-Michigan's premiere purveyor of quality cycling goods and services. 989-463-5260" />
+    <tag id="4559402031" k="addr:postcode" o="none" type="node" v="48801" />
+    <tag id="4559402031" k="opening_hours" o="modify" type="node" v="Summer - M-F 9:30-6:00; Sat 10-3; Sun Closed  Winter - M-F: 9:30-5:30; Sat 10-3; Sun Closed" />
+    <tag id="4559402031" k="addr:housenumber" o="none" type="node" v="317" />
+    <tag id="4559402031" k="service:bicycle:Bicycle_Sales_and_Service" o="add" type="node" v="yes" />
+  </body>
+</changeset>

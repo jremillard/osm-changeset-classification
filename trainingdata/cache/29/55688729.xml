@@ -1,1 +1,24 @@
-<changeset id="55688729" schema="1"><counts nodesAdded="19" nodesModified="3" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="1" /><meta><tag k="changesets_count" v="620" /><tag k="comment" v="Residential off N Willow" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="555238892" k="natural" o="add" type="way" v="water" /><tag id="555238892" k="water" o="add" type="way" v="pond" /><tag id="555238893" k="natural" o="add" type="way" v="water" /><tag id="555238893" k="water" o="add" type="way" v="pond" /><tag id="19587321" k="highway" o="modify" type="way" v="service" /><tag id="19587321" k="service" o="add" type="way" v="driveway" /></body></changeset>
+<changeset id="55688729" schema="2">
+  <counts nodesAdded="19" nodesDeleted="2" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="2" waysModified="3" />
+  <meta>
+    <tag k="changesets_count" v="620" />
+    <tag k="comment" v="Residential off N Willow" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="19587321" k="highway" o="modify" type="way" v="service" />
+    <tag id="19587321" k="service" o="add" type="way" v="driveway" />
+    <tag id="19587321" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="19587321" k="tiger:county" o="none" type="way" v="Putnam, TN" />
+    <tag id="19587321" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="19587321" k="tiger:name_base" o="none" type="way" v="Shipley Church" />
+    <tag id="19587321" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="555238892" k="water" o="add" type="way" v="pond" />
+    <tag id="555238892" k="natural" o="add" type="way" v="water" />
+    <tag id="555238893" k="water" o="add" type="way" v="pond" />
+    <tag id="555238893" k="natural" o="add" type="way" v="water" />
+  </body>
+</changeset>

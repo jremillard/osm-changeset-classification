@@ -1,5 +1,5 @@
 <changeset id="14141883" schema="2">
-  <counts nodesAdded="113" nodesDeleted="109" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="2" />
+  <counts nodesAdded="113" nodesDeleted="109" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="3" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of P&#225;tek u Loun (relation 427032)." />
@@ -8,26 +8,26 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="194313542" k="admin_level" o="add" type="way" v="10" />
-    <tag id="194313542" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="194313542" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="181728918" k="admin_level" o="none" type="way" v="10" />
-    <tag id="181728918" k="boundary" o="none" type="way" v="administrative" />
     <tag id="181728918" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="181728923" k="admin_level" o="none" type="way" v="10" />
-    <tag id="181728923" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="181728918" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="181728918" k="admin_level" o="none" type="way" v="10" />
     <tag id="181728923" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="427032" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="427032" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="427032" k="name" o="none" type="relation" v="P&#225;tek u Loun" />
+    <tag id="181728923" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="181728923" k="admin_level" o="none" type="way" v="10" />
+    <tag id="194313542" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="194313542" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="194313542" k="admin_level" o="add" type="way" v="10" />
     <tag id="427032" k="ref" o="none" type="relation" v="718271" />
-    <tag id="427032" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="427032" k="name" o="none" type="relation" v="P&#225;tek u Loun" />
     <tag id="427032" k="type" o="none" type="relation" v="boundary" />
-    <tag id="435685" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="435685" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="435685" k="name" o="none" type="relation" v="Radonice nad Oh&#345;&#237;" />
+    <tag id="427032" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="427032" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="427032" k="admin_level" o="none" type="relation" v="10" />
     <tag id="435685" k="ref" o="none" type="relation" v="718289" />
-    <tag id="435685" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="435685" k="name" o="none" type="relation" v="Radonice nad Oh&#345;&#237;" />
     <tag id="435685" k="type" o="none" type="relation" v="boundary" />
+    <tag id="435685" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="435685" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="435685" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

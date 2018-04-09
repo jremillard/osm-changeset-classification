@@ -1,5 +1,5 @@
 <changeset id="15899002" schema="2">
-  <counts nodesAdded="185" nodesDeleted="15" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="37" waysDeleted="4" waysModified="11" />
+  <counts nodesAdded="185" nodesDeleted="15" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="37" waysDeleted="4" waysModified="15" />
   <meta>
     <tag k="build" v="2.3-584-g996bb4d" />
     <tag k="comment" v="R&#246;srath Buildings 290413_2" />
@@ -7,6 +7,38 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="27097229" k="name" o="none" type="way" v="Volberg" />
+    <tag id="27097229" k="highway" o="none" type="way" v="residential" />
+    <tag id="27097229" k="surface" o="none" type="way" v="paved" />
+    <tag id="28181839" k="name" o="none" type="way" v="Julweg" />
+    <tag id="28181839" k="highway" o="none" type="way" v="residential" />
+    <tag id="32934018" k="boat" o="none" type="way" v="no" />
+    <tag id="32934018" k="name" o="none" type="way" v="S&#252;lz" />
+    <tag id="32934018" k="waterway" o="none" type="way" v="river" />
+    <tag id="35173621" k="name" o="none" type="way" v="Vordersten B&#252;chel" />
+    <tag id="35173621" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="35340890" k="ref" o="none" type="way" v="L 284" />
+    <tag id="35340890" k="name" o="none" type="way" v="Hauptstra&#223;e" />
+    <tag id="35340890" k="note" o="none" type="way" v="L 284 zwischen R&#246;srath und A 4 / AS Untereschbach hat ein deutlich h&#246;heres Verkehraufkommen als benachbarte Landesstra&#223;en und schlie&#223;t auch R&#246;srath und Lohmar an die A 4 an. Wegen dieser Netzfunktion im Bundesfernstra&#223;ennetz highway=primary gesetzt." />
+    <tag id="35340890" k="layer" o="none" type="way" v="1" />
+    <tag id="35340890" k="bridge" o="none" type="way" v="yes" />
+    <tag id="35340890" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="35340890" k="highway" o="none" type="way" v="secondary" />
+    <tag id="35340890" k="strassen-nrw:abs" o="none" type="way" v="5009035O5009034O" />
+    <tag id="49188409" k="ref" o="none" type="way" v="L 284" />
+    <tag id="49188409" k="name" o="none" type="way" v="Bergische Landstra&#223;e" />
+    <tag id="49188409" k="note" o="none" type="way" v="L 284 zwischen R&#246;srath und A 4 / AS Untereschbach hat ein deutlich h&#246;heres Verkehraufkommen als benachbarte Landesstra&#223;en und schlie&#223;t auch R&#246;srath und Lohmar an die A 4 an. Wegen dieser Netzfunktion im Bundesfernstra&#223;ennetz highway=primary gesetzt." />
+    <tag id="49188409" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="49188409" k="highway" o="none" type="way" v="secondary" />
+    <tag id="49188409" k="strassen-nrw:abs" o="none" type="way" v="5009034O5009021O" />
+    <tag id="51194299" k="name" o="none" type="way" v="Am Hammer" />
+    <tag id="51194299" k="highway" o="none" type="way" v="residential" />
+    <tag id="108989016" k="landuse" o="none" type="way" v="residential" />
+    <tag id="113516536" k="landuse" o="none" type="way" v="residential" />
+    <tag id="158889493" k="name" o="none" type="way" v="Sonnenstrahl" />
+    <tag id="158889493" k="amenity" o="none" type="way" v="kindergarten" />
+    <tag id="158889493" k="building" o="none" type="way" v="yes" />
+    <tag id="158889494" k="building" o="none" type="way" v="yes" />
     <tag id="219288293" k="highway" o="add" type="way" v="service" />
     <tag id="219288294" k="building" o="add" type="way" v="yes" />
     <tag id="219288296" k="landuse" o="add" type="way" v="construction" />
@@ -15,6 +47,9 @@
     <tag id="219289766" k="building" o="add" type="way" v="yes" />
     <tag id="219289767" k="building" o="add" type="way" v="yes" />
     <tag id="219289768" k="highway" o="add" type="way" v="residential" />
+    <tag id="219291263" k="landuse" o="add" type="way" v="residential" />
+    <tag id="219291265" k="name" o="add" type="way" v="Volberg" />
+    <tag id="219291265" k="highway" o="add" type="way" v="residential" />
     <tag id="219292963" k="building" o="add" type="way" v="yes" />
     <tag id="219292964" k="building" o="add" type="way" v="yes" />
     <tag id="219292965" k="building" o="add" type="way" v="yes" />
@@ -43,40 +78,5 @@
     <tag id="219293680" k="building" o="add" type="way" v="yes" />
     <tag id="219293681" k="highway" o="add" type="way" v="service" />
     <tag id="219293826" k="building" o="add" type="way" v="yes" />
-    <tag id="219291263" k="landuse" o="add" type="way" v="residential" />
-    <tag id="219291265" k="highway" o="add" type="way" v="residential" />
-    <tag id="219291265" k="name" o="add" type="way" v="Volberg" />
-    <tag id="49188409" k="highway" o="none" type="way" v="secondary" />
-    <tag id="49188409" k="name" o="none" type="way" v="Bergische Landstra&#223;e" />
-    <tag id="49188409" k="note" o="none" type="way" v="L 284 zwischen R&#246;srath und A 4 / AS Untereschbach hat ein deutlich h&#246;heres Verkehraufkommen als benachbarte Landesstra&#223;en und schlie&#223;t auch R&#246;srath und Lohmar an die A 4 an. Wegen dieser Netzfunktion im Bundesfernstra&#223;ennetz highway=primary gesetzt." />
-    <tag id="49188409" k="ref" o="none" type="way" v="L 284" />
-    <tag id="49188409" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
-    <tag id="49188409" k="strassen-nrw:abs" o="none" type="way" v="5009034O5009021O" />
-    <tag id="158889494" k="building" o="none" type="way" v="yes" />
-    <tag id="158889493" k="amenity" o="none" type="way" v="kindergarten" />
-    <tag id="158889493" k="building" o="none" type="way" v="yes" />
-    <tag id="158889493" k="name" o="none" type="way" v="Sonnenstrahl" />
-    <tag id="35173621" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="35173621" k="name" o="none" type="way" v="Vordersten B&#252;chel" />
-    <tag id="51194299" k="highway" o="none" type="way" v="residential" />
-    <tag id="51194299" k="name" o="none" type="way" v="Am Hammer" />
-    <tag id="32934018" k="boat" o="none" type="way" v="no" />
-    <tag id="32934018" k="name" o="none" type="way" v="S&#252;lz" />
-    <tag id="32934018" k="waterway" o="none" type="way" v="river" />
-    <tag id="27097229" k="highway" o="none" type="way" v="residential" />
-    <tag id="27097229" k="name" o="none" type="way" v="Volberg" />
-    <tag id="27097229" k="surface" o="none" type="way" v="paved" />
-    <tag id="35340890" k="bridge" o="none" type="way" v="yes" />
-    <tag id="35340890" k="highway" o="none" type="way" v="secondary" />
-    <tag id="35340890" k="layer" o="none" type="way" v="1" />
-    <tag id="35340890" k="name" o="none" type="way" v="Hauptstra&#223;e" />
-    <tag id="35340890" k="note" o="none" type="way" v="L 284 zwischen R&#246;srath und A 4 / AS Untereschbach hat ein deutlich h&#246;heres Verkehraufkommen als benachbarte Landesstra&#223;en und schlie&#223;t auch R&#246;srath und Lohmar an die A 4 an. Wegen dieser Netzfunktion im Bundesfernstra&#223;ennetz highway=primary gesetzt." />
-    <tag id="35340890" k="ref" o="none" type="way" v="L 284" />
-    <tag id="35340890" k="source" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
-    <tag id="35340890" k="strassen-nrw:abs" o="none" type="way" v="5009035O5009034O" />
-    <tag id="28181839" k="highway" o="none" type="way" v="residential" />
-    <tag id="28181839" k="name" o="none" type="way" v="Julweg" />
-    <tag id="108989016" k="landuse" o="none" type="way" v="residential" />
-    <tag id="113516536" k="landuse" o="none" type="way" v="residential" />
   </body>
 </changeset>

@@ -1,1 +1,21 @@
-<changeset id="55607296" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="4" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="243" /><tag k="comment" v="Regolati gli accessi nei pressi dello svincolo di Soverato della SS106" /><tag k="created_by" v="iD 2.5.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="it" /></meta><body><tag id="7918861" k="restriction" o="add" type="relation" v="no_straight_on" /><tag id="7918861" k="type" o="add" type="relation" v="restriction" /><tag id="7918862" k="restriction" o="add" type="relation" v="no_left_turn" /><tag id="7918862" k="type" o="add" type="relation" v="restriction" /><tag id="7918863" k="restriction" o="add" type="relation" v="no_u_turn" /><tag id="7918863" k="type" o="add" type="relation" v="restriction" /><tag id="7918864" k="restriction" o="add" type="relation" v="no_straight_on" /><tag id="7918864" k="type" o="add" type="relation" v="restriction" /></body></changeset>
+<changeset id="55607296" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="4" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="243" />
+    <tag k="comment" v="Regolati gli accessi nei pressi dello svincolo di Soverato della SS106" />
+    <tag k="created_by" v="iD 2.5.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="it" />
+  </meta>
+  <body>
+    <tag id="7918861" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7918861" k="restriction" o="add" type="relation" v="no_straight_on" />
+    <tag id="7918862" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7918862" k="restriction" o="add" type="relation" v="no_left_turn" />
+    <tag id="7918863" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7918863" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="7918864" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7918864" k="restriction" o="add" type="relation" v="no_straight_on" />
+  </body>
+</changeset>

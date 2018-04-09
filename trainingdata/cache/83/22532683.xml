@@ -1,11 +1,17 @@
 <changeset id="22532683" schema="2">
-  <counts nodesAdded="180" nodesDeleted="1" nodesModified="2" relationsAdded="2" relationsDeleted="0" relationsModified="1" waysAdded="26" waysDeleted="0" waysModified="4" />
+  <counts nodesAdded="180" nodesDeleted="1" nodesModified="1" relationsAdded="2" relationsDeleted="0" relationsModified="1" waysAdded="26" waysDeleted="0" waysModified="4" />
   <meta>
     <tag k="comment" v="Do&#322;hobycz&#243;w 14052404" />
     <tag k="created_by" v="JOSM/1.5 (7174 uk)" />
     <tag k="source" v="Mapbox" />
   </meta>
   <body>
+    <tag id="71777135" k="boundary" o="none" type="node" v="country_border" />
+    <tag id="371830701" k="access" o="add" type="node" v="destination" />
+    <tag id="371830701" k="source" o="none" type="node" v="http://ump.waw.pl/ retrieved 11:01:43 04/03/09 (UMP-Zamosc/src/inne.drogi.txt)" />
+    <tag id="371830701" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="371830701" k="motorcar" o="add" type="node" v="yes" />
+    <tag id="371830701" k="motorcycle" o="add" type="node" v="yes" />
     <tag id="2878908346" k="access" o="add" type="node" v="destination" />
     <tag id="2878908346" k="barrier" o="add" type="node" v="lift_gate" />
     <tag id="2878908346" k="motorcar" o="add" type="node" v="yes" />
@@ -28,83 +34,77 @@
     <tag id="2878908384" k="barrier" o="add" type="node" v="lift_gate" />
     <tag id="2878908384" k="motorcar" o="add" type="node" v="yes" />
     <tag id="2878908384" k="motorcycle" o="add" type="node" v="yes" />
-    <tag id="284131618" k="building" o="add" type="way" v="roof" />
-    <tag id="284131618" k="layer" o="add" type="way" v="1" />
-    <tag id="284131621" k="building" o="add" type="way" v="yes" />
-    <tag id="284131623" k="building" o="add" type="way" v="yes" />
-    <tag id="284131625" k="building" o="add" type="way" v="yes" />
-    <tag id="284131627" k="highway" o="add" type="way" v="service" />
-    <tag id="284131627" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131630" k="highway" o="add" type="way" v="service" />
-    <tag id="284131630" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131633" k="highway" o="add" type="way" v="service" />
-    <tag id="284131633" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131636" k="highway" o="add" type="way" v="service" />
-    <tag id="284131636" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131638" k="highway" o="add" type="way" v="service" />
-    <tag id="284131638" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131641" k="highway" o="add" type="way" v="service" />
-    <tag id="284131641" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131642" k="highway" o="add" type="way" v="service" />
-    <tag id="284131642" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131644" k="highway" o="add" type="way" v="service" />
-    <tag id="284131644" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131646" k="highway" o="add" type="way" v="service" />
-    <tag id="284131646" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131648" k="highway" o="add" type="way" v="service" />
-    <tag id="284131648" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131650" k="highway" o="add" type="way" v="service" />
-    <tag id="284131650" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131652" k="highway" o="add" type="way" v="service" />
-    <tag id="284131652" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131655" k="highway" o="add" type="way" v="service" />
-    <tag id="284131655" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131660" k="highway" o="add" type="way" v="service" />
-    <tag id="284131660" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131661" k="highway" o="add" type="way" v="service" />
-    <tag id="284131661" k="oneway" o="add" type="way" v="yes" />
-    <tag id="284131664" k="barrier" o="add" type="way" v="fence" />
-    <tag id="284131667" k="barrier" o="add" type="way" v="fence" />
-    <tag id="284131670" k="barrier" o="add" type="way" v="fence" />
-    <tag id="284131675" k="highway" o="add" type="way" v="secondary" />
-    <tag id="284131675" k="ref" o="add" type="way" v="844" />
-    <tag id="3769049" k="amenity" o="add" type="relation" v="border_station" />
-    <tag id="3769049" k="checkpoint" o="add" type="relation" v="national border" />
-    <tag id="3769049" k="country" o="add" type="relation" v="PL;UA" />
-    <tag id="3769049" k="landuse" o="add" type="relation" v="commercial" />
-    <tag id="3769049" k="name" o="add" type="relation" v="Przej&#347;cie graniczne Do&#322;hobycz&#243;w" />
-    <tag id="3769049" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="3769050" k="amenity" o="add" type="relation" v="parking" />
-    <tag id="3769050" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="71777135" k="boundary" o="none" type="node" v="country_border" />
-    <tag id="371830701" k="access" o="add" type="node" v="destination" />
-    <tag id="371830701" k="barrier" o="add" type="node" v="lift_gate" />
-    <tag id="371830701" k="motorcar" o="add" type="node" v="yes" />
-    <tag id="371830701" k="motorcycle" o="add" type="node" v="yes" />
-    <tag id="371830701" k="source" o="none" type="node" v="http://ump.waw.pl/ retrieved 11:01:43 04/03/09 (UMP-Zamosc/src/inne.drogi.txt)" />
+    <tag id="33022129" k="ref" o="none" type="way" v="844" />
+    <tag id="33022129" k="highway" o="none" type="way" v="secondary" />
+    <tag id="109815342" k="barrier" o="add" type="way" v="fence" />
+    <tag id="139845857" k="ref" o="none" type="way" v="&#1058;-14-08" />
     <tag id="139845857" k="highway" o="none" type="way" v="secondary" />
     <tag id="139845857" k="loc_ref" o="none" type="way" v="&#1058;-14-08" />
-    <tag id="139845857" k="ref" o="none" type="way" v="&#1058;-14-08" />
-    <tag id="200253986" k="admin_level" o="none" type="way" v="2" />
-    <tag id="200253986" k="border_type" o="none" type="way" v="territorial" />
-    <tag id="200253986" k="boundary" o="none" type="way" v="administrative" />
-    <tag id="200253986" k="left:country" o="none" type="way" v="Ukraine" />
     <tag id="200253986" k="name" o="none" type="way" v="Polska &#8212; &#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1072;" />
     <tag id="200253986" k="name:en" o="none" type="way" v="Poland &#8212; Ukraine" />
     <tag id="200253986" k="name:fr" o="none" type="way" v="Pologne &#8212; Ukraine" />
     <tag id="200253986" k="name:pl" o="none" type="way" v="Polska &#8212; Ukraina" />
     <tag id="200253986" k="name:uk" o="none" type="way" v="&#1055;&#1086;&#1083;&#1100;&#1097;&#1072; &#8212; &#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1072;" />
+    <tag id="200253986" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="200253986" k="admin_level" o="none" type="way" v="2" />
+    <tag id="200253986" k="border_type" o="none" type="way" v="territorial" />
+    <tag id="200253986" k="left:country" o="none" type="way" v="Ukraine" />
     <tag id="200253986" k="right:country" o="none" type="way" v="Poland" />
-    <tag id="109815342" k="barrier" o="add" type="way" v="fence" />
-    <tag id="33022129" k="highway" o="none" type="way" v="secondary" />
-    <tag id="33022129" k="ref" o="none" type="way" v="844" />
-    <tag id="1492988" k="distance" o="none" type="relation" v="89,2" />
-    <tag id="1492988" k="name" o="none" type="relation" v="Droga wojew&#243;dzka nr 844" />
-    <tag id="1492988" k="network" o="none" type="relation" v="pl:regional" />
-    <tag id="1492988" k="note" o="none" type="relation" v="D&#322;ugo&#347;&#263; w/g strony LZDW" />
+    <tag id="284131618" k="layer" o="add" type="way" v="1" />
+    <tag id="284131618" k="building" o="add" type="way" v="roof" />
+    <tag id="284131621" k="building" o="add" type="way" v="yes" />
+    <tag id="284131623" k="building" o="add" type="way" v="yes" />
+    <tag id="284131625" k="building" o="add" type="way" v="yes" />
+    <tag id="284131627" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131627" k="highway" o="add" type="way" v="service" />
+    <tag id="284131630" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131630" k="highway" o="add" type="way" v="service" />
+    <tag id="284131633" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131633" k="highway" o="add" type="way" v="service" />
+    <tag id="284131636" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131636" k="highway" o="add" type="way" v="service" />
+    <tag id="284131638" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131638" k="highway" o="add" type="way" v="service" />
+    <tag id="284131641" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131641" k="highway" o="add" type="way" v="service" />
+    <tag id="284131642" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131642" k="highway" o="add" type="way" v="service" />
+    <tag id="284131644" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131644" k="highway" o="add" type="way" v="service" />
+    <tag id="284131646" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131646" k="highway" o="add" type="way" v="service" />
+    <tag id="284131648" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131648" k="highway" o="add" type="way" v="service" />
+    <tag id="284131650" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131650" k="highway" o="add" type="way" v="service" />
+    <tag id="284131652" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131652" k="highway" o="add" type="way" v="service" />
+    <tag id="284131655" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131655" k="highway" o="add" type="way" v="service" />
+    <tag id="284131660" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131660" k="highway" o="add" type="way" v="service" />
+    <tag id="284131661" k="oneway" o="add" type="way" v="yes" />
+    <tag id="284131661" k="highway" o="add" type="way" v="service" />
+    <tag id="284131664" k="barrier" o="add" type="way" v="fence" />
+    <tag id="284131667" k="barrier" o="add" type="way" v="fence" />
+    <tag id="284131670" k="barrier" o="add" type="way" v="fence" />
+    <tag id="284131675" k="ref" o="add" type="way" v="844" />
+    <tag id="284131675" k="highway" o="add" type="way" v="secondary" />
     <tag id="1492988" k="ref" o="none" type="relation" v="844" />
-    <tag id="1492988" k="route" o="none" type="relation" v="road" />
+    <tag id="1492988" k="name" o="none" type="relation" v="Droga wojew&#243;dzka nr 844" />
+    <tag id="1492988" k="note" o="none" type="relation" v="D&#322;ugo&#347;&#263; w/g strony LZDW" />
     <tag id="1492988" k="type" o="none" type="relation" v="route" />
+    <tag id="1492988" k="route" o="none" type="relation" v="road" />
+    <tag id="1492988" k="network" o="none" type="relation" v="pl:regional" />
+    <tag id="1492988" k="distance" o="none" type="relation" v="89,2" />
     <tag id="1492988" k="wikipedia" o="none" type="relation" v="pl:Droga_wojew&#243;dzka_nr_844" />
+    <tag id="3769049" k="name" o="add" type="relation" v="Przej&#347;cie graniczne Do&#322;hobycz&#243;w" />
+    <tag id="3769049" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="3769049" k="amenity" o="add" type="relation" v="border_station" />
+    <tag id="3769049" k="country" o="add" type="relation" v="PL;UA" />
+    <tag id="3769049" k="landuse" o="add" type="relation" v="commercial" />
+    <tag id="3769049" k="checkpoint" o="add" type="relation" v="national border" />
+    <tag id="3769050" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="3769050" k="amenity" o="add" type="relation" v="parking" />
   </body>
 </changeset>

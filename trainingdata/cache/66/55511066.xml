@@ -1,1 +1,22 @@
-<changeset id="55511066" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="1" waysAdded="1" waysModified="1" /><meta><tag k="comment" v="Fix cycling network: solved broken routes" /><tag k="created_by" v="JOSM/1.5 (11826 nl)" /><tag k="source" v="osma.vmarc.be; knooppuntnet.nl" /></meta><body><tag id="553668796" k="bicycle" o="add" type="way" v="designated" /><tag id="553668796" k="foot" o="add" type="way" v="designated" /><tag id="553668796" k="highway" o="add" type="way" v="path" /></body></changeset>
+<changeset id="55511066" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Fix cycling network: solved broken routes" />
+    <tag k="created_by" v="JOSM/1.5 (11826 nl)" />
+    <tag k="source" v="osma.vmarc.be; knooppuntnet.nl" />
+  </meta>
+  <body>
+    <tag id="442123333" k="foot" o="none" type="way" v="designated" />
+    <tag id="442123333" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="442123333" k="highway" o="none" type="way" v="path" />
+    <tag id="553668796" k="foot" o="add" type="way" v="designated" />
+    <tag id="553668796" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="553668796" k="highway" o="add" type="way" v="path" />
+    <tag id="178454" k="name" o="none" type="relation" v="FN Herzogenrath 4908 28-59" />
+    <tag id="178454" k="note" o="none" type="relation" v="28-59" />
+    <tag id="178454" k="type" o="none" type="relation" v="route" />
+    <tag id="178454" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="178454" k="source" o="none" type="relation" v="gpsfietsroutes.nl" />
+    <tag id="178454" k="network" o="none" type="relation" v="rcn" />
+  </body>
+</changeset>

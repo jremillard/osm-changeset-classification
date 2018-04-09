@@ -1,5 +1,5 @@
 <changeset id="14747999" schema="2">
-  <counts nodesAdded="39" nodesDeleted="52" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="2" waysDeleted="2" waysModified="0" />
+  <counts nodesAdded="39" nodesDeleted="52" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="2" waysDeleted="2" waysModified="2" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of B&#345;ezov&#225; u Broumova (relation 431058)." />
@@ -8,56 +8,56 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="202433117" k="admin_level" o="add" type="way" v="8" />
-    <tag id="202433117" k="boundary" o="add" type="way" v="administrative" />
     <tag id="202433117" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="202433118" k="admin_level" o="add" type="way" v="8" />
-    <tag id="202433118" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="202433117" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="202433117" k="admin_level" o="add" type="way" v="8" />
     <tag id="202433118" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="431058" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="431058" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="431058" k="name" o="none" type="relation" v="B&#345;ezov&#225; u Broumova" />
-    <tag id="431058" k="ref" o="none" type="relation" v="614670" />
-    <tag id="431058" k="source" o="none" type="relation" v="cuzk:km" />
-    <tag id="431058" k="type" o="none" type="relation" v="boundary" />
-    <tag id="432257" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="432257" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="432257" k="name" o="none" type="relation" v="Vern&#233;&#345;ovice" />
-    <tag id="432257" k="ref" o="none" type="relation" v="614688" />
-    <tag id="432257" k="source" o="none" type="relation" v="cuzk:km" />
-    <tag id="432257" k="type" o="none" type="relation" v="boundary" />
-    <tag id="440611" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="440611" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="440611" k="name" o="none" type="relation" v="Vern&#233;&#345;ovice" />
-    <tag id="440611" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="440611" k="population" o="none" type="relation" v="351" />
-    <tag id="440611" k="ref" o="none" type="relation" v="CZ0523547743" />
-    <tag id="440611" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="440611" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="440611" k="type" o="none" type="relation" v="boundary" />
-    <tag id="431033" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="431033" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="431033" k="name" o="none" type="relation" v="Jet&#345;ichov" />
+    <tag id="202433118" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="202433118" k="admin_level" o="add" type="way" v="8" />
     <tag id="431033" k="ref" o="none" type="relation" v="659193" />
-    <tag id="431033" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="431033" k="name" o="none" type="relation" v="Jet&#345;ichov" />
     <tag id="431033" k="type" o="none" type="relation" v="boundary" />
-    <tag id="440639" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="440639" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="440639" k="name" o="none" type="relation" v="Jet&#345;ichov" />
-    <tag id="440639" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="440639" k="population" o="none" type="relation" v="462" />
+    <tag id="431033" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="431033" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="431033" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="431058" k="ref" o="none" type="relation" v="614670" />
+    <tag id="431058" k="name" o="none" type="relation" v="B&#345;ezov&#225; u Broumova" />
+    <tag id="431058" k="type" o="none" type="relation" v="boundary" />
+    <tag id="431058" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="431058" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="431058" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="432257" k="ref" o="none" type="relation" v="614688" />
+    <tag id="432257" k="name" o="none" type="relation" v="Vern&#233;&#345;ovice" />
+    <tag id="432257" k="type" o="none" type="relation" v="boundary" />
+    <tag id="432257" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="432257" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="432257" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="440611" k="ref" o="none" type="relation" v="CZ0523547743" />
+    <tag id="440611" k="name" o="none" type="relation" v="Vern&#233;&#345;ovice" />
+    <tag id="440611" k="type" o="none" type="relation" v="boundary" />
+    <tag id="440611" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="440611" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="440611" k="population" o="none" type="relation" v="351" />
+    <tag id="440611" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="440611" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="440611" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
     <tag id="440639" k="ref" o="none" type="relation" v="CZ0523574155" />
-    <tag id="440639" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="440639" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="440639" k="name" o="none" type="relation" v="Jet&#345;ichov" />
     <tag id="440639" k="type" o="none" type="relation" v="boundary" />
-    <tag id="440693" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="440693" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="440693" k="name" o="none" type="relation" v="Mezim&#283;st&#237;" />
-    <tag id="440693" k="name:prefix" o="none" type="relation" v="m&#283;sto" />
-    <tag id="440693" k="population" o="none" type="relation" v="2641" />
+    <tag id="440639" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="440639" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="440639" k="population" o="none" type="relation" v="462" />
+    <tag id="440639" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="440639" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="440639" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
     <tag id="440693" k="ref" o="none" type="relation" v="CZ0523574252" />
-    <tag id="440693" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="440693" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="440693" k="name" o="none" type="relation" v="Mezim&#283;st&#237;" />
     <tag id="440693" k="type" o="none" type="relation" v="boundary" />
+    <tag id="440693" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="440693" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="440693" k="population" o="none" type="relation" v="2641" />
+    <tag id="440693" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="440693" k="name:prefix" o="none" type="relation" v="m&#283;sto" />
+    <tag id="440693" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

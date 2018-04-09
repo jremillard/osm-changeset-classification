@@ -1,5 +1,5 @@
 <changeset id="11244868" schema="2">
-  <counts nodesAdded="8" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="2" waysDeleted="2" waysModified="0" />
+  <counts nodesAdded="8" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="2" waysDeleted="2" waysModified="2" />
   <meta>
     <tag k="comment" v="License Change: Los Angeles (Ostteil, Zentrum Anaheim) 1.1/zoom=15, URL=http://www.openstreetmap.org/?lat=33.953043&amp;lon=-118.070068&amp;zoom=15: Created objects new - highways, nodes [12.4.9-22.16]" />
     <tag k="created_by" v="JOSM/1.5 (5047 de)" />
@@ -7,37 +7,37 @@
   <body>
     <tag id="1709163804" k="highway" o="add" type="node" v="turning_circle" />
     <tag id="1709163816" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="158773448" k="highway" o="add" type="way" v="residential" />
     <tag id="158773448" k="name" o="add" type="way" v="Los Nietos Road" />
+    <tag id="158773448" k="highway" o="add" type="way" v="residential" />
     <tag id="158773448" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="158773448" k="tiger:tlid" o="add" type="way" v="142651201:142651202:141739532:141739557:141739276:141747464:141747466:141747469:141748775" />
     <tag id="158773448" k="tiger:county" o="add" type="way" v="Los Angeles, CA" />
+    <tag id="158773448" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="158773448" k="tiger:zip_left" o="add" type="way" v="90670" />
     <tag id="158773448" k="tiger:name_base" o="add" type="way" v="Los Nietos" />
     <tag id="158773448" k="tiger:name_type" o="add" type="way" v="Rd" />
     <tag id="158773448" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="158773448" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="158773448" k="tiger:tlid" o="add" type="way" v="142651201:142651202:141739532:141739557:141739276:141747464:141747466:141747469:141748775" />
-    <tag id="158773448" k="tiger:zip_left" o="add" type="way" v="90670" />
     <tag id="158773448" k="tiger:zip_right" o="add" type="way" v="90670" />
-    <tag id="158773466" k="bridge" o="add" type="way" v="yes" />
-    <tag id="158773466" k="electrified" o="add" type="way" v="no" />
+    <tag id="158773466" k="name" o="add" type="way" v="San Bernardino Subdivision" />
     <tag id="158773466" k="gauge" o="add" type="way" v="1435" />
     <tag id="158773466" k="layer" o="add" type="way" v="1" />
-    <tag id="158773466" k="name" o="add" type="way" v="San Bernardino Subdivision" />
-    <tag id="158773466" k="old_railway_operator" o="add" type="way" v="AT&amp;SF" />
-    <tag id="158773466" k="operator" o="add" type="way" v="BNSF" />
-    <tag id="158773466" k="railway" o="add" type="way" v="rail" />
+    <tag id="158773466" k="bridge" o="add" type="way" v="yes" />
     <tag id="158773466" k="source" o="add" type="way" v="yahoo_imagery" />
-    <tag id="1477499" k="FIXME" o="none" type="relation" v="continue west" />
-    <tag id="1477499" k="name" o="none" type="relation" v="San Bernardino Subdivision" />
-    <tag id="1477499" k="operator" o="none" type="relation" v="BNSF" />
-    <tag id="1477499" k="route" o="none" type="relation" v="railway" />
-    <tag id="1477499" k="type" o="none" type="relation" v="route" />
-    <tag id="904839" k="FIXME" o="none" type="relation" v="complete in LA" />
+    <tag id="158773466" k="railway" o="add" type="way" v="rail" />
+    <tag id="158773466" k="operator" o="add" type="way" v="BNSF" />
+    <tag id="158773466" k="electrified" o="add" type="way" v="no" />
+    <tag id="158773466" k="old_railway_operator" o="add" type="way" v="AT&amp;SF" />
+    <tag id="904839" k="ref" o="none" type="relation" v="3; 4" />
     <tag id="904839" k="name" o="none" type="relation" v="Southwest Chief" />
+    <tag id="904839" k="type" o="none" type="relation" v="route" />
+    <tag id="904839" k="FIXME" o="none" type="relation" v="complete in LA" />
+    <tag id="904839" k="route" o="none" type="relation" v="train" />
     <tag id="904839" k="network" o="none" type="relation" v="Amtrak Intercity" />
     <tag id="904839" k="operator" o="none" type="relation" v="Amtrak" />
-    <tag id="904839" k="ref" o="none" type="relation" v="3; 4" />
-    <tag id="904839" k="route" o="none" type="relation" v="train" />
-    <tag id="904839" k="type" o="none" type="relation" v="route" />
+    <tag id="1477499" k="name" o="none" type="relation" v="San Bernardino Subdivision" />
+    <tag id="1477499" k="type" o="none" type="relation" v="route" />
+    <tag id="1477499" k="FIXME" o="none" type="relation" v="continue west" />
+    <tag id="1477499" k="route" o="none" type="relation" v="railway" />
+    <tag id="1477499" k="operator" o="none" type="relation" v="BNSF" />
   </body>
 </changeset>

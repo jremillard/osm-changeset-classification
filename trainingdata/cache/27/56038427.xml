@@ -1,1 +1,13 @@
-<changeset id="56038427" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="Add Dentist." /><tag k="created_by" v="OsmAnd 2.8.2" /></meta><body><tag id="5383974138" k="addr:housenumber" o="add" type="node" v="31-22" /><tag id="5383974138" k="addr:street" o="add" type="node" v="Steinway Street" /><tag id="5383974138" k="amenity" o="add" type="node" v="dentist" /><tag id="5383974138" k="name" o="add" type="node" v="Dr. Ora R. Canter - Orthodontist" /></body></changeset>
+<changeset id="56038427" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="Add Dentist." />
+    <tag k="created_by" v="OsmAnd 2.8.2" />
+  </meta>
+  <body>
+    <tag id="5383974138" k="name" o="add" type="node" v="Dr. Ora R. Canter - Orthodontist" />
+    <tag id="5383974138" k="amenity" o="add" type="node" v="dentist" />
+    <tag id="5383974138" k="addr:street" o="add" type="node" v="Steinway Street" />
+    <tag id="5383974138" k="addr:housenumber" o="add" type="node" v="31-22" />
+  </body>
+</changeset>

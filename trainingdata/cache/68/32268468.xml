@@ -5,6 +5,8 @@
     <tag k="created_by" v="Merkaartor 0.18 (de)" />
   </meta>
   <body>
+    <tag id="97945127" k="ref" o="none" type="way" v="L4151" />
+    <tag id="97945127" k="highway" o="none" type="way" v="tertiary" />
     <tag id="356971805" k="highway" o="add" type="way" v="service" />
     <tag id="356971810" k="highway" o="add" type="way" v="service" />
     <tag id="356971816" k="highway" o="add" type="way" v="service" />
@@ -13,17 +15,15 @@
     <tag id="356971821" k="natural" o="add" type="way" v="water" />
     <tag id="356971822" k="barrier" o="add" type="way" v="wall" />
     <tag id="356971823" k="highway" o="add" type="way" v="service" />
+    <tag id="356971824" k="layer" o="add" type="way" v="1" />
     <tag id="356971824" k="bridge" o="add" type="way" v="yes" />
     <tag id="356971824" k="highway" o="add" type="way" v="service" />
-    <tag id="356971824" k="layer" o="add" type="way" v="1" />
     <tag id="356971825" k="barrier" o="add" type="way" v="wall" />
     <tag id="356971826" k="highway" o="add" type="way" v="footway" />
-    <tag id="97945127" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="97945127" k="ref" o="none" type="way" v="L4151" />
-    <tag id="3662529" k="building" o="modify" type="relation" v="castle" />
-    <tag id="3662529" k="castle_type" o="add" type="relation" v="stately" />
-    <tag id="3662529" k="historic" o="none" type="relation" v="castle" />
     <tag id="3662529" k="name" o="modify" type="relation" v="Schloss V&#246;stenhof" />
     <tag id="3662529" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="3662529" k="building" o="modify" type="relation" v="castle" />
+    <tag id="3662529" k="historic" o="none" type="relation" v="castle" />
+    <tag id="3662529" k="castle_type" o="add" type="relation" v="stately" />
   </body>
 </changeset>

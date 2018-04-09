@@ -1,1 +1,18 @@
-<changeset id="56264634" schema="1"><counts nodesAdded="0" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="StreetComplete:quest_type" v="AddBikeParkingCapacity" /><tag k="comment" v="Add bicycle parking capacities" /><tag k="created_by" v="StreetComplete 3.7" /><tag k="source" v="survey" /></meta><body><tag id="4235321191" k="capacity" o="add" type="node" v="6" /><tag id="5225492783" k="capacity" o="add" type="node" v="48" /></body></changeset>
+<changeset id="56264634" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddBikeParkingCapacity" />
+    <tag k="comment" v="Add bicycle parking capacities" />
+    <tag k="created_by" v="StreetComplete 3.7" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="4235321191" k="amenity" o="none" type="node" v="bicycle_parking" />
+    <tag id="4235321191" k="capacity" o="add" type="node" v="6" />
+    <tag id="5225492783" k="fee" o="none" type="node" v="no" />
+    <tag id="5225492783" k="amenity" o="none" type="node" v="bicycle_parking" />
+    <tag id="5225492783" k="covered" o="none" type="node" v="no" />
+    <tag id="5225492783" k="capacity" o="add" type="node" v="48" />
+    <tag id="5225492783" k="bicycle_parking" o="none" type="node" v="stands" />
+  </body>
+</changeset>

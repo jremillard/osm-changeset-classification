@@ -1,1 +1,37 @@
-<changeset id="53156098" schema="1"><counts nodesAdded="2" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="2" /><meta><tag k="changesets_count" v="1" /><tag k="comment" v="I wanted to make it known to all about where Enrique's Restaruant is located.  It is a great place to eat.  I also want to list my business since I do not use yellow pages.  I am one of the few inspectors that do not solict Realtors for referrels" /><tag k="created_by" v="iD 2.4.3" /><tag k="host" v="http://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5182037513" k="addr:city" o="add" type="node" v="Ponca City" /><tag id="5182037513" k="addr:housenumber" o="add" type="node" v="2213" /><tag id="5182037513" k="addr:postcode" o="add" type="node" v="74601" /><tag id="5182037513" k="addr:state" o="add" type="node" v="OK" /><tag id="5182037513" k="addr:street" o="add" type="node" v="N Waverly Street" /><tag id="5182037513" k="amenity" o="add" type="node" v="cafe" /><tag id="5182037513" k="cuisine" o="add" type="node" v="mexican" /><tag id="5182037513" k="internet_access:fee" o="add" type="node" v="yes" /><tag id="5182037513" k="name" o="add" type="node" v="Enrique's Mexican Restaurant" /><tag id="5182037513" k="outdoor_seating" o="add" type="node" v="yes" /><tag id="5182037513" k="smoking" o="add" type="node" v="no" /><tag id="5182037514" k="addr:city" o="add" type="node" v="Ponca City" /><tag id="5182037514" k="addr:housenumber" o="add" type="node" v="2127" /><tag id="5182037514" k="addr:postcode" o="add" type="node" v="74601" /><tag id="5182037514" k="addr:state" o="add" type="node" v="OK" /><tag id="5182037514" k="addr:street" o="add" type="node" v="Garden Street" /><tag id="5182037514" k="description" o="add" type="node" v="Performs Home Inspections for person's who purchase a home.  Also performs Mold Testing, Well Water Testing, Radon Testing, IR Scanning, etc." /><tag id="5182037514" k="name" o="add" type="node" v="Lake's Home Inspection" /></body></changeset>
+<changeset id="53156098" schema="2">
+  <counts nodesAdded="2" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="changesets_count" v="1" />
+    <tag k="comment" v="I wanted to make it known to all about where Enrique's Restaruant is located.  It is a great place to eat.  I also want to list my business since I do not use yellow pages.  I am one of the few inspectors that do not solict Realtors for referrels" />
+    <tag k="created_by" v="iD 2.4.3" />
+    <tag k="host" v="http://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="3430728590" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="5182037513" k="name" o="add" type="node" v="Enrique's Mexican Restaurant" />
+    <tag id="5182037513" k="amenity" o="add" type="node" v="cafe" />
+    <tag id="5182037513" k="cuisine" o="add" type="node" v="mexican" />
+    <tag id="5182037513" k="smoking" o="add" type="node" v="no" />
+    <tag id="5182037513" k="addr:city" o="add" type="node" v="Ponca City" />
+    <tag id="5182037513" k="addr:state" o="add" type="node" v="OK" />
+    <tag id="5182037513" k="addr:street" o="add" type="node" v="N Waverly Street" />
+    <tag id="5182037513" k="addr:postcode" o="add" type="node" v="74601" />
+    <tag id="5182037513" k="outdoor_seating" o="add" type="node" v="yes" />
+    <tag id="5182037513" k="addr:housenumber" o="add" type="node" v="2213" />
+    <tag id="5182037513" k="internet_access:fee" o="add" type="node" v="yes" />
+    <tag id="5182037514" k="name" o="add" type="node" v="Lake's Home Inspection" />
+    <tag id="5182037514" k="addr:city" o="add" type="node" v="Ponca City" />
+    <tag id="5182037514" k="addr:state" o="add" type="node" v="OK" />
+    <tag id="5182037514" k="addr:street" o="add" type="node" v="Garden Street" />
+    <tag id="5182037514" k="description" o="add" type="node" v="Performs Home Inspections for person's who purchase a home.  Also performs Mold Testing, Well Water Testing, Radon Testing, IR Scanning, etc." />
+    <tag id="5182037514" k="addr:postcode" o="add" type="node" v="74601" />
+    <tag id="5182037514" k="addr:housenumber" o="add" type="node" v="2127" />
+    <tag id="200854858" k="source" o="none" type="way" v="bing" />
+    <tag id="200854858" k="highway" o="none" type="way" v="service" />
+    <tag id="200854858" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="200854864" k="source" o="none" type="way" v="bing" />
+    <tag id="200854864" k="highway" o="none" type="way" v="service" />
+  </body>
+</changeset>

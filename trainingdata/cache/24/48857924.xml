@@ -1,133 +1,133 @@
 <changeset id="48857924" schema="2">
-  <counts nodesAdded="0" nodesDeleted="1" nodesModified="2" relationsAdded="0" relationsDeleted="2" relationsModified="1" waysAdded="0" waysDeleted="3" waysModified="31" />
+  <counts nodesAdded="0" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="2" relationsModified="3" waysAdded="0" waysDeleted="3" waysModified="34" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Revert all changesets by Mara Tol except changeset 48793549 because of wrong tagging change from highway=* to highway=cycleway." />
     <tag k="created_by" v="osmtools/30252 (linux)" />
   </meta>
   <body>
+    <tag id="1300005557" k="name" o="none" type="node" v="Kletterger&#252;st" />
     <tag id="1300005557" k="leisure" o="none" type="node" v="playground" />
     <tag id="1300005557" k="loc_ref" o="none" type="node" v="34" />
-    <tag id="1300005557" k="name" o="none" type="node" v="Kletterger&#252;st" />
     <tag id="1642796545" k="addr:city" o="none" type="node" v="Bad Homburg v.d. H&#246;he" />
-    <tag id="1642796545" k="addr:country" o="none" type="node" v="DE" />
-    <tag id="1642796545" k="addr:housenumber" o="none" type="node" v="16" />
-    <tag id="1642796545" k="addr:postcode" o="none" type="node" v="61350" />
     <tag id="1642796545" k="addr:street" o="none" type="node" v="Viktoriaweg" />
-    <tag id="23655332" k="highway" o="modify" type="way" v="residential" />
-    <tag id="23655332" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="23655332" k="name" o="none" type="way" v="Staufenstra&#223;e" />
-    <tag id="25164250" k="highway" o="none" type="way" v="secondary" />
-    <tag id="25164250" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="25164250" k="name" o="none" type="way" v="Schmelzweg" />
-    <tag id="25164250" k="oneway" o="none" type="way" v="no" />
-    <tag id="25164250" k="source" o="none" type="way" v="yahoo sat" />
-    <tag id="412954875" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="412954875" k="foot" o="none" type="way" v="yes" />
-    <tag id="412954875" k="highway" o="none" type="way" v="track" />
-    <tag id="412954875" k="surface" o="none" type="way" v="paved" />
-    <tag id="412954875" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="79193487" k="highway" o="modify" type="way" v="service" />
-    <tag id="79193487" k="name" o="none" type="way" v="An der Jupiters&#228;ule" />
-    <tag id="79193487" k="surface" o="none" type="way" v="paved" />
+    <tag id="1642796545" k="addr:country" o="none" type="node" v="DE" />
+    <tag id="1642796545" k="addr:postcode" o="none" type="node" v="61350" />
+    <tag id="1642796545" k="addr:housenumber" o="none" type="node" v="16" />
+    <tag id="8077483" k="name" o="none" type="way" v="Weinbergsweg" />
     <tag id="8077483" k="highway" o="modify" type="way" v="residential" />
     <tag id="8077483" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="8077483" k="name" o="none" type="way" v="Weinbergsweg" />
-    <tag id="319593443" k="highway" o="modify" type="way" v="track" />
-    <tag id="319593443" k="lcn" o="none" type="way" v="yes" />
-    <tag id="319593443" k="tracktype" o="none" type="way" v="grade2" />
-    <tag id="319593447" k="highway" o="modify" type="way" v="track" />
-    <tag id="319593447" k="tracktype" o="none" type="way" v="grade2" />
-    <tag id="176380346" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="176380346" k="foot" o="none" type="way" v="designated" />
-    <tag id="176380346" k="highway" o="modify" type="way" v="path" />
-    <tag id="176380346" k="incline" o="none" type="way" v="up" />
-    <tag id="176380346" k="surface" o="none" type="way" v="paving_stones" />
-    <tag id="321660499" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="321660499" k="foot" o="none" type="way" v="designated" />
-    <tag id="321660499" k="highway" o="modify" type="way" v="path" />
-    <tag id="321660499" k="surface" o="none" type="way" v="paving_stones" />
-    <tag id="431489757" k="highway" o="modify" type="way" v="service" />
-    <tag id="431489757" k="name" o="none" type="way" v="An der Jupiters&#228;ule" />
-    <tag id="431489757" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="23995772" k="bridge" o="none" type="way" v="yes" />
-    <tag id="23995772" k="highway" o="modify" type="way" v="track" />
-    <tag id="23995772" k="layer" o="none" type="way" v="1" />
-    <tag id="23995772" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="23995772" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="321443583" k="hgv" o="none" type="way" v="destination" />
-    <tag id="321443583" k="highway" o="modify" type="way" v="residential" />
-    <tag id="321443583" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="321443583" k="name" o="none" type="way" v="K&#246;pperner Stra&#223;e" />
-    <tag id="28609362" k="highway" o="modify" type="way" v="track" />
-    <tag id="28609362" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="28609362" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="15024196" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
     <tag id="15024196" k="highway" o="modify" type="way" v="tertiary" />
     <tag id="15024196" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="15024196" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
-    <tag id="53791110" k="highway" o="none" type="way" v="track" />
-    <tag id="53791110" k="motorcar" o="none" type="way" v="no" />
-    <tag id="53791110" k="name" o="none" type="way" v="Tiefentaler Weg" />
-    <tag id="53791110" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="53791110" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="66836847" k="highway" o="none" type="way" v="secondary" />
-    <tag id="66836847" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="66836847" k="name" o="none" type="way" v="Schmelzweg" />
-    <tag id="66836847" k="source" o="none" type="way" v="yahoo sat" />
-    <tag id="297971199" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="297971199" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="297971199" k="name" o="none" type="way" v="Wallstra&#223;e" />
-    <tag id="28077542" k="highway" o="modify" type="way" v="track" />
-    <tag id="28077542" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="23655332" k="name" o="none" type="way" v="Staufenstra&#223;e" />
+    <tag id="23655332" k="highway" o="modify" type="way" v="residential" />
+    <tag id="23655332" k="maxspeed" o="none" type="way" v="30" />
     <tag id="23995769" k="highway" o="modify" type="way" v="track" />
     <tag id="23995769" k="surface" o="none" type="way" v="paved" />
     <tag id="23995769" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="366362829" k="highway" o="modify" type="way" v="residential" />
-    <tag id="366362829" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="366362829" k="name" o="none" type="way" v="Auf der Steinkaut" />
-    <tag id="48806907" k="highway" o="modify" type="way" v="residential" />
-    <tag id="48806907" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="48806907" k="name" o="none" type="way" v="Auf der Steinkaut" />
-    <tag id="26636202" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="26636202" k="highway" o="modify" type="way" v="service" />
-    <tag id="26636202" k="lit" o="none" type="way" v="no" />
-    <tag id="26636202" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="24325196" k="highway" o="modify" type="way" v="track" />
+    <tag id="23995772" k="layer" o="none" type="way" v="1" />
+    <tag id="23995772" k="bridge" o="none" type="way" v="yes" />
+    <tag id="23995772" k="highway" o="modify" type="way" v="track" />
+    <tag id="23995772" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="23995772" k="tracktype" o="none" type="way" v="grade1" />
     <tag id="24325196" k="lcn" o="none" type="way" v="yes" />
+    <tag id="24325196" k="highway" o="modify" type="way" v="track" />
     <tag id="24325196" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="38623713" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="38623713" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="38623713" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
-    <tag id="37723022" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="37723022" k="highway" o="modify" type="way" v="track" />
-    <tag id="37723022" k="note" o="none" type="way" v="Fr&#252;here Obernhainer Stra&#223;e (zur&#252;ckgebaut)" />
-    <tag id="37723022" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="37723022" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="418076307" k="highway" o="none" type="way" v="service" />
-    <tag id="31050782" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="31050782" k="highway" o="modify" type="way" v="residential" />
-    <tag id="31050782" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="31050782" k="name" o="none" type="way" v="K&#246;pperner Stra&#223;e" />
-    <tag id="31050782" k="source:maxspeed" o="none" type="way" v="sign" />
-    <tag id="24325836" k="bicycle" o="none" type="way" v="yes" />
     <tag id="24325836" k="foot" o="none" type="way" v="designated" />
+    <tag id="24325836" k="bicycle" o="none" type="way" v="yes" />
     <tag id="24325836" k="highway" o="modify" type="way" v="path" />
     <tag id="24325836" k="incline" o="none" type="way" v="down" />
     <tag id="24325836" k="surface" o="none" type="way" v="paving_stones" />
-    <tag id="321443582" k="hgv" o="none" type="way" v="destination" />
-    <tag id="321443582" k="highway" o="modify" type="way" v="residential" />
-    <tag id="321443582" k="maxspeed" o="none" type="way" v="70" />
-    <tag id="321443582" k="name" o="none" type="way" v="K&#246;pperner Stra&#223;e" />
+    <tag id="25164250" k="name" o="none" type="way" v="Schmelzweg" />
+    <tag id="25164250" k="oneway" o="none" type="way" v="no" />
+    <tag id="25164250" k="source" o="none" type="way" v="yahoo sat" />
+    <tag id="25164250" k="highway" o="none" type="way" v="secondary" />
+    <tag id="25164250" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="26636202" k="lit" o="none" type="way" v="no" />
+    <tag id="26636202" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="26636202" k="highway" o="modify" type="way" v="service" />
+    <tag id="26636202" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="28077542" k="highway" o="modify" type="way" v="track" />
+    <tag id="28077542" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="28609362" k="highway" o="modify" type="way" v="track" />
+    <tag id="28609362" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="28609362" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="31050782" k="name" o="none" type="way" v="K&#246;pperner Stra&#223;e" />
+    <tag id="31050782" k="highway" o="modify" type="way" v="residential" />
+    <tag id="31050782" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="31050782" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="31050782" k="source:maxspeed" o="none" type="way" v="sign" />
     <tag id="35271972" k="highway" o="modify" type="way" v="track" />
     <tag id="35271972" k="surface" o="none" type="way" v="asphalt" />
     <tag id="35271972" k="tracktype" o="none" type="way" v="grade1" />
     <tag id="37383454" k="highway" o="modify" type="way" v="track" />
     <tag id="37383454" k="surface" o="none" type="way" v="asphalt" />
     <tag id="37383454" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="37723022" k="note" o="none" type="way" v="Fr&#252;here Obernhainer Stra&#223;e (zur&#252;ckgebaut)" />
+    <tag id="37723022" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="37723022" k="highway" o="modify" type="way" v="track" />
+    <tag id="37723022" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="37723022" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="38623713" k="name" o="none" type="way" v="Bahnhofstra&#223;e" />
+    <tag id="38623713" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="38623713" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="48806907" k="name" o="none" type="way" v="Auf der Steinkaut" />
+    <tag id="48806907" k="highway" o="modify" type="way" v="residential" />
+    <tag id="48806907" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="53791110" k="name" o="none" type="way" v="Tiefentaler Weg" />
+    <tag id="53791110" k="highway" o="none" type="way" v="track" />
+    <tag id="53791110" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="53791110" k="motorcar" o="none" type="way" v="no" />
+    <tag id="53791110" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="66836847" k="name" o="none" type="way" v="Schmelzweg" />
+    <tag id="66836847" k="source" o="none" type="way" v="yahoo sat" />
+    <tag id="66836847" k="highway" o="none" type="way" v="secondary" />
+    <tag id="66836847" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="79193487" k="name" o="none" type="way" v="An der Jupiters&#228;ule" />
+    <tag id="79193487" k="highway" o="modify" type="way" v="service" />
+    <tag id="79193487" k="surface" o="none" type="way" v="paved" />
+    <tag id="176380346" k="foot" o="none" type="way" v="designated" />
+    <tag id="176380346" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="176380346" k="highway" o="modify" type="way" v="path" />
+    <tag id="176380346" k="incline" o="none" type="way" v="up" />
+    <tag id="176380346" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="297971199" k="name" o="none" type="way" v="Wallstra&#223;e" />
+    <tag id="297971199" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="297971199" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="319593443" k="lcn" o="none" type="way" v="yes" />
+    <tag id="319593443" k="highway" o="modify" type="way" v="track" />
+    <tag id="319593443" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="319593447" k="highway" o="modify" type="way" v="track" />
+    <tag id="319593447" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="321443582" k="hgv" o="none" type="way" v="destination" />
+    <tag id="321443582" k="name" o="none" type="way" v="K&#246;pperner Stra&#223;e" />
+    <tag id="321443582" k="highway" o="modify" type="way" v="residential" />
+    <tag id="321443582" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="321443583" k="hgv" o="none" type="way" v="destination" />
+    <tag id="321443583" k="name" o="none" type="way" v="K&#246;pperner Stra&#223;e" />
+    <tag id="321443583" k="highway" o="modify" type="way" v="residential" />
+    <tag id="321443583" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="321660499" k="foot" o="none" type="way" v="designated" />
+    <tag id="321660499" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="321660499" k="highway" o="modify" type="way" v="path" />
+    <tag id="321660499" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="366362829" k="name" o="none" type="way" v="Auf der Steinkaut" />
+    <tag id="366362829" k="highway" o="modify" type="way" v="residential" />
+    <tag id="366362829" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="412954875" k="foot" o="none" type="way" v="yes" />
+    <tag id="412954875" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="412954875" k="highway" o="none" type="way" v="track" />
+    <tag id="412954875" k="surface" o="none" type="way" v="paved" />
+    <tag id="412954875" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="418076307" k="highway" o="none" type="way" v="service" />
+    <tag id="431489757" k="name" o="none" type="way" v="An der Jupiters&#228;ule" />
+    <tag id="431489757" k="highway" o="modify" type="way" v="service" />
+    <tag id="431489757" k="surface" o="none" type="way" v="asphalt" />
     <tag id="540250" k="name" o="none" type="relation" v="Radwegenetz Kriftel" />
+    <tag id="540250" k="type" o="none" type="relation" v="route" />
+    <tag id="540250" k="route" o="none" type="relation" v="bicycle" />
     <tag id="540250" k="network" o="none" type="relation" v="lcn" />
     <tag id="540250" k="operator" o="none" type="relation" v="Gemeinde Kriftel" />
-    <tag id="540250" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="540250" k="type" o="none" type="relation" v="route" />
   </body>
 </changeset>

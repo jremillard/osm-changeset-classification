@@ -1,1 +1,31 @@
-<changeset id="38867877" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="2" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="Added Business" /><tag k="created_by" v="iD 1.9.3" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-US" /></meta><body><tag id="4147658456" k="addr:city" o="add" type="node" v="Farmville" /><tag id="4147658456" k="addr:housenumber" o="add" type="node" v="1406" /><tag id="4147658456" k="addr:postcode" o="add" type="node" v="23901" /><tag id="4147658456" k="addr:state" o="add" type="node" v="VA" /><tag id="4147658456" k="addr:street" o="add" type="node" v="South Main Street" /><tag id="4147658456" k="description" o="add" type="node" v="Licensed Professional Counselor" /><tag id="4147658456" k="name" o="add" type="node" v="Dennis Gowin, LPC" /><tag id="4147658456" k="phone" o="add" type="node" v="434-808-2426" /><tag id="4147658456" k="website" o="add" type="node" v="http://www.facebook.com/discoverycounseling.org" /><tag id="4147658456" k="wheelchair" o="add" type="node" v="yes" /></body></changeset>
+<changeset id="38867877" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="Added Business" />
+    <tag k="created_by" v="iD 1.9.3" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4147658456" k="name" o="add" type="node" v="Dennis Gowin, LPC" />
+    <tag id="4147658456" k="phone" o="add" type="node" v="434-808-2426" />
+    <tag id="4147658456" k="website" o="add" type="node" v="http://www.facebook.com/discoverycounseling.org" />
+    <tag id="4147658456" k="addr:city" o="add" type="node" v="Farmville" />
+    <tag id="4147658456" k="addr:state" o="add" type="node" v="VA" />
+    <tag id="4147658456" k="wheelchair" o="add" type="node" v="yes" />
+    <tag id="4147658456" k="addr:street" o="add" type="node" v="South Main Street" />
+    <tag id="4147658456" k="description" o="add" type="node" v="Licensed Professional Counselor" />
+    <tag id="4147658456" k="addr:postcode" o="add" type="node" v="23901" />
+    <tag id="4147658456" k="addr:housenumber" o="add" type="node" v="1406" />
+    <tag id="1928807" k="ref" o="none" type="relation" v="15" />
+    <tag id="1928807" k="name" o="none" type="relation" v="US 15 Business (Farmville, VA)" />
+    <tag id="1928807" k="type" o="none" type="relation" v="route" />
+    <tag id="1928807" k="route" o="none" type="relation" v="road" />
+    <tag id="1928807" k="network" o="none" type="relation" v="US:US" />
+    <tag id="1928807" k="modifier" o="none" type="relation" v="Business" />
+    <tag id="1928807" k="is_in:state" o="none" type="relation" v="VA" />
+    <tag id="2534565" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="2534565" k="amenity" o="none" type="relation" v="parking" />
+  </body>
+</changeset>

@@ -1,41 +1,41 @@
 <changeset id="1075335" schema="2">
-  <counts nodesAdded="9" nodesDeleted="16" nodesModified="15" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="2" waysModified="7" />
+  <counts nodesAdded="9" nodesDeleted="16" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="2" waysModified="9" />
   <meta>
     <tag k="comment" v="none" />
     <tag k="created_by" v="JOSM/1.5 (1553 de)" />
   </meta>
   <body>
-    <tag id="390356060" k="bus_routes" o="add" type="node" v="40;45" />
-    <tag id="390356060" k="highway" o="add" type="node" v="bus_stop" />
-    <tag id="390356060" k="name" o="add" type="node" v="Ziegenstra&#223;e" />
-    <tag id="390356060" k="operator" o="add" type="node" v="VAG" />
-    <tag id="34065031" k="highway" o="add" type="way" v="residential" />
-    <tag id="34065031" k="name" o="add" type="way" v="Flu&#223;stra&#223;e" />
-    <tag id="34065031" k="surface" o="add" type="way" v="paved" />
     <tag id="27254430" k="highway" o="none" type="node" v="traffic_signals" />
     <tag id="251370942" k="highway" o="none" type="node" v="traffic_signals" />
-    <tag id="31359584" k="highway" o="none" type="way" v="secondary" />
-    <tag id="31359584" k="name" o="none" type="way" v="Schmausenbuckstra&#223;e" />
-    <tag id="31991297" k="railway" o="none" type="way" v="tram" />
-    <tag id="27710592" k="landuse" o="modify" type="way" v="residential" />
-    <tag id="31359583" k="highway" o="none" type="way" v="secondary" />
-    <tag id="31359583" k="name" o="none" type="way" v="Laufamholzstra&#223;e" />
-    <tag id="31359583" k="oneway" o="none" type="way" v="yes" />
-    <tag id="5892177" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="5892177" k="oneway" o="none" type="way" v="yes" />
+    <tag id="390356060" k="name" o="add" type="node" v="Ziegenstra&#223;e" />
+    <tag id="390356060" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="390356060" k="operator" o="add" type="node" v="VAG" />
+    <tag id="390356060" k="bus_routes" o="add" type="node" v="40;45" />
+    <tag id="5114619" k="name" o="none" type="way" v="Flu&#223;stra&#223;e" />
     <tag id="5114619" k="highway" o="none" type="way" v="secondary" />
     <tag id="5114619" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="5114619" k="name" o="none" type="way" v="Flu&#223;stra&#223;e" />
-    <tag id="29320045" k="abutters" o="none" type="way" v="mixed" />
-    <tag id="29320045" k="highway" o="none" type="way" v="secondary" />
+    <tag id="5892177" k="oneway" o="none" type="way" v="yes" />
+    <tag id="5892177" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="27710592" k="landuse" o="modify" type="way" v="residential" />
+    <tag id="29320045" k="ref" o="none" type="way" v="St 2241" />
     <tag id="29320045" k="name" o="none" type="way" v="Ostendstra&#223;e" />
     <tag id="29320045" k="oneway" o="none" type="way" v="yes" />
-    <tag id="29320045" k="ref" o="none" type="way" v="St 2241" />
     <tag id="29320045" k="source" o="none" type="way" v="yahoo; extrapolation" />
+    <tag id="29320045" k="highway" o="none" type="way" v="secondary" />
+    <tag id="29320045" k="abutters" o="none" type="way" v="mixed" />
+    <tag id="31359583" k="name" o="none" type="way" v="Laufamholzstra&#223;e" />
+    <tag id="31359583" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31359583" k="highway" o="none" type="way" v="secondary" />
+    <tag id="31359584" k="name" o="none" type="way" v="Schmausenbuckstra&#223;e" />
+    <tag id="31359584" k="highway" o="none" type="way" v="secondary" />
+    <tag id="31991297" k="railway" o="none" type="way" v="tram" />
+    <tag id="34065031" k="name" o="add" type="way" v="Flu&#223;stra&#223;e" />
+    <tag id="34065031" k="highway" o="add" type="way" v="residential" />
+    <tag id="34065031" k="surface" o="add" type="way" v="paved" />
+    <tag id="69170" k="type" o="none" type="relation" v="restriction" />
+    <tag id="69170" k="restriction" o="none" type="relation" v="only_straight_on" />
+    <tag id="122428" k="type" o="none" type="relation" v="restriction" />
     <tag id="122428" k="comment" o="none" type="relation" v="Sign actually allows straight+right, but in OSM separate crossings" />
     <tag id="122428" k="restriction" o="none" type="relation" v="only_straight_on" />
-    <tag id="122428" k="type" o="none" type="relation" v="restriction" />
-    <tag id="69170" k="restriction" o="none" type="relation" v="only_straight_on" />
-    <tag id="69170" k="type" o="none" type="relation" v="restriction" />
   </body>
 </changeset>

@@ -1,29 +1,29 @@
 <changeset id="1891563" schema="2">
-  <counts nodesAdded="4" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <counts nodesAdded="4" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
   <meta>
     <tag k="comment" v="Correction de l'upload foir&#233; de l'edit d'hier soir." />
     <tag k="created_by" v="Potlatch 1.1a" />
   </meta>
   <body>
-    <tag id="247701911" k="bicycle" o="none" type="node" v="no" />
-    <tag id="247701911" k="foot" o="none" type="node" v="no" />
-    <tag id="247701911" k="highway" o="none" type="node" v="motorway_junction" />
-    <tag id="247701911" k="ref" o="none" type="node" v="10" />
     <tag id="60079432" k="converted_by" o="none" type="node" v="Track2osm" />
-    <tag id="36809935" k="highway" o="none" type="way" v="motorway" />
-    <tag id="36809935" k="int_ref" o="none" type="way" v="E 09" />
-    <tag id="36809935" k="name" o="none" type="way" v="L'Occitane" />
-    <tag id="36809935" k="oneway" o="none" type="way" v="yes" />
-    <tag id="36809935" k="ref" o="none" type="way" v="A 20" />
-    <tag id="30357368" k="bicycle" o="none" type="way" v="no" />
+    <tag id="247701911" k="ref" o="none" type="node" v="10" />
+    <tag id="247701911" k="foot" o="none" type="node" v="no" />
+    <tag id="247701911" k="bicycle" o="none" type="node" v="no" />
+    <tag id="247701911" k="highway" o="none" type="node" v="motorway_junction" />
+    <tag id="30357368" k="ref" o="modify" type="way" v="A 62; A 20" />
     <tag id="30357368" k="foot" o="none" type="way" v="no" />
+    <tag id="30357368" k="name" o="modify" type="way" v="L'Autoroute des deux mers; L'Occitane" />
+    <tag id="30357368" k="toll" o="none" type="way" v="yes" />
+    <tag id="30357368" k="lanes" o="add" type="way" v="2" />
+    <tag id="30357368" k="oneway" o="none" type="way" v="yes" />
+    <tag id="30357368" k="bicycle" o="none" type="way" v="no" />
     <tag id="30357368" k="highway" o="none" type="way" v="motorway" />
     <tag id="30357368" k="int_ref" o="add" type="way" v="E 09" />
-    <tag id="30357368" k="lanes" o="add" type="way" v="2" />
-    <tag id="30357368" k="name" o="modify" type="way" v="L'Autoroute des deux mers; L'Occitane" />
-    <tag id="30357368" k="oneway" o="none" type="way" v="yes" />
     <tag id="30357368" k="operator" o="none" type="way" v="Autoroutes du Sud de la France" />
-    <tag id="30357368" k="ref" o="modify" type="way" v="A 62; A 20" />
-    <tag id="30357368" k="toll" o="none" type="way" v="yes" />
+    <tag id="36809935" k="ref" o="none" type="way" v="A 20" />
+    <tag id="36809935" k="name" o="none" type="way" v="L'Occitane" />
+    <tag id="36809935" k="oneway" o="none" type="way" v="yes" />
+    <tag id="36809935" k="highway" o="none" type="way" v="motorway" />
+    <tag id="36809935" k="int_ref" o="none" type="way" v="E 09" />
   </body>
 </changeset>

@@ -1,5 +1,5 @@
 <changeset id="11283924" schema="2">
-  <counts nodesAdded="1723" nodesDeleted="90" nodesModified="8" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="295" waysDeleted="4" waysModified="79" />
+  <counts nodesAdded="1723" nodesDeleted="90" nodesModified="4" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="295" waysDeleted="4" waysModified="80" />
   <meta>
     <tag k="build" v="2.3-380-gd20f3c8" />
     <tag k="comment" v="Misiones 20120413#01" />
@@ -7,12 +7,220 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="198420492" k="name" o="none" type="node" v="San Ignacio" />
+    <tag id="198420492" k="place" o="none" type="node" v="town" />
+    <tag id="198420492" k="wikipedia" o="add" type="node" v="es:San_Ignacio_(Misiones)" />
+    <tag id="198420492" k="source_ref" o="none" type="node" v="http://earth-info.nga.mil/gns/html/cntyfile/ar.zip" />
+    <tag id="198420492" k="is_in:region" o="add" type="node" v="Misiones" />
+    <tag id="198420492" k="is_in:country" o="modify" type="node" v="Argentine" />
+    <tag id="198420492" k="is_in:district" o="add" type="node" v="San Ignacio" />
+    <tag id="623938282" k="name" o="modify" type="node" v="xxx" />
+    <tag id="623938282" k="tourism" o="none" type="node" v="camp_site" />
+    <tag id="1379660966" k="name" o="none" type="node" v="Gendarmeria Nacional" />
+    <tag id="1379660966" k="amenity" o="none" type="node" v="police" />
+    <tag id="1379660979" k="name" o="none" type="node" v="Municipalitad San Ignacio" />
+    <tag id="1379660979" k="amenity" o="none" type="node" v="townhall" />
+    <tag id="1379729216" k="name" o="modify" type="node" v="Restaurante Da Valentino" />
+    <tag id="1379729216" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="1379729217" k="name" o="modify" type="node" v="La Misi&#243;n" />
+    <tag id="1379729217" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="1379730051" k="name" o="none" type="node" v="Hotel Portal del Sol" />
+    <tag id="1379730051" k="tourism" o="none" type="node" v="hotel" />
+    <tag id="1379747783" k="name" o="none" type="node" v="Residencial Doka" />
+    <tag id="1379747783" k="tourism" o="none" type="node" v="hotel" />
+    <tag id="1713886114" k="historic" o="add" type="node" v="monument" />
+    <tag id="1714043174" k="barrier" o="add" type="node" v="gate" />
+    <tag id="1714204594" k="amenity" o="add" type="node" v="cafe" />
+    <tag id="1714266252" k="barrier" o="add" type="node" v="gate" />
+    <tag id="1714272874" k="natural" o="add" type="node" v="tree" />
+    <tag id="1714272876" k="natural" o="add" type="node" v="tree" />
+    <tag id="1714272886" k="natural" o="add" type="node" v="tree" />
+    <tag id="1714272900" k="natural" o="add" type="node" v="tree" />
+    <tag id="1714287695" k="man_made" o="add" type="node" v="tower" />
+    <tag id="25678062" k="name" o="none" type="way" v="Arroyo Yabebiry" />
+    <tag id="25678062" k="waterway" o="none" type="way" v="river" />
+    <tag id="26163422" k="natural" o="none" type="way" v="water" />
+    <tag id="26163422" k="waterway" o="none" type="way" v="riverbank" />
+    <tag id="40619956" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="41946146" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946146" k="name" o="none" type="way" v="Av. Quiroga" />
+    <tag id="41946146" k="oneway" o="add" type="way" v="no" />
+    <tag id="41946146" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946146" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946147" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946147" k="name" o="modify" type="way" v="Cabral Sgto" />
+    <tag id="41946147" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946147" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946175" k="name" o="none" type="way" v="Urquiza" />
+    <tag id="41946175" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946187" k="name" o="none" type="way" v="Alcora" />
+    <tag id="41946187" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946190" k="name" o="none" type="way" v="Saenz Pena" />
+    <tag id="41946190" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946306" k="name" o="none" type="way" v="Hipolito Irigoyen" />
+    <tag id="41946306" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946308" k="name" o="none" type="way" v="Indipendecia" />
+    <tag id="41946308" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946357" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946357" k="name" o="add" type="way" v="Sarmiento" />
+    <tag id="41946357" k="oneway" o="add" type="way" v="yes" />
+    <tag id="41946357" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946357" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946419" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946419" k="name" o="modify" type="way" v="Sarmiento" />
+    <tag id="41946419" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946419" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946482" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946482" k="name" o="none" type="way" v="Lavalle" />
+    <tag id="41946482" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946483" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946483" k="name" o="none" type="way" v="San Martin" />
+    <tag id="41946483" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946483" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946517" k="highway" o="modify" type="way" v="track" />
+    <tag id="41946517" k="tracktype" o="add" type="way" v="grade2" />
+    <tag id="41946633" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946633" k="name" o="none" type="way" v="Rivadavia" />
+    <tag id="41946633" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946633" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946639" k="name" o="modify" type="way" v="Bolivar" />
+    <tag id="41946639" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946653" k="name" o="none" type="way" v="Uruguay" />
+    <tag id="41946653" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946698" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946698" k="name" o="modify" type="way" v="Paraguay" />
+    <tag id="41946698" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946698" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946701" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946701" k="name" o="none" type="way" v="Alberdi" />
+    <tag id="41946701" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946701" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946702" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946702" k="name" o="none" type="way" v="Brasil" />
+    <tag id="41946702" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946723" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946723" k="name" o="modify" type="way" v="Bolivar" />
+    <tag id="41946723" k="oneway" o="add" type="way" v="yes" />
+    <tag id="41946723" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946724" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946724" k="name" o="modify" type="way" v="Bolivar" />
+    <tag id="41946724" k="oneway" o="add" type="way" v="-1" />
+    <tag id="41946724" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946801" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946801" k="name" o="none" type="way" v="Rivadavia" />
+    <tag id="41946801" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946801" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946803" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946803" k="name" o="none" type="way" v="San Martin" />
+    <tag id="41946803" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946803" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946804" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946804" k="name" o="none" type="way" v="Lavalle" />
+    <tag id="41946804" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946806" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946806" k="name" o="none" type="way" v="Mariano Moreno" />
+    <tag id="41946806" k="oneway" o="add" type="way" v="-1" />
+    <tag id="41946806" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="41946806" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41946875" k="name" o="none" type="way" v="Mitre Bartolome" />
+    <tag id="41946875" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946877" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946881" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="41946882" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946882" k="name" o="none" type="way" v="Marcello De Alvear" />
+    <tag id="41946882" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946910" k="name" o="modify" type="way" v="Av. Roca" />
+    <tag id="41946910" k="highway" o="none" type="way" v="residential" />
+    <tag id="41946920" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946921" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946926" k="lit" o="add" type="way" v="yes" />
+    <tag id="41946926" k="name" o="none" type="way" v="Uruguay" />
+    <tag id="41946926" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41946959" k="name" o="none" type="way" v="Martin Guemes" />
+    <tag id="41946959" k="highway" o="modify" type="way" v="residential" />
+    <tag id="41947017" k="highway" o="modify" type="way" v="residential" />
+    <tag id="44835842" k="ref" o="none" type="way" v="RP 210" />
+    <tag id="44835842" k="highway" o="none" type="way" v="secondary" />
+    <tag id="44835842" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="49710973" k="name" o="none" type="way" v="Azcuenaga" />
+    <tag id="49710973" k="highway" o="modify" type="way" v="residential" />
+    <tag id="97542460" k="ref" o="modify" type="way" v="RN 12" />
+    <tag id="97542460" k="lanes" o="add" type="way" v="2" />
+    <tag id="97542460" k="highway" o="none" type="way" v="trunk" />
+    <tag id="97542460" k="surface" o="modify" type="way" v="asphalt" />
+    <tag id="98219666" k="highway" o="none" type="way" v="residential" />
+    <tag id="98219666" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="98219667" k="highway" o="none" type="way" v="residential" />
+    <tag id="98223323" k="highway" o="modify" type="way" v="residential" />
+    <tag id="107786739" k="landuse" o="add" type="way" v="cemetery" />
+    <tag id="107786744" k="highway" o="none" type="way" v="residential" />
+    <tag id="107786751" k="highway" o="none" type="way" v="residential" />
+    <tag id="107786762" k="highway" o="modify" type="way" v="track" />
+    <tag id="107786762" k="tracktype" o="add" type="way" v="grade2" />
+    <tag id="107786773" k="highway" o="none" type="way" v="residential" />
+    <tag id="107786776" k="highway" o="none" type="way" v="residential" />
+    <tag id="107786782" k="highway" o="none" type="way" v="residential" />
+    <tag id="107786782" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="107789710" k="lit" o="add" type="way" v="yes" />
+    <tag id="107789710" k="name" o="add" type="way" v="Mariano Moreno" />
+    <tag id="107789710" k="oneway" o="add" type="way" v="yes" />
+    <tag id="107789710" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="107789710" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="107789711" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="107789713" k="highway" o="none" type="way" v="residential" />
+    <tag id="107794664" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="116398813" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398814" k="highway" o="modify" type="way" v="track" />
+    <tag id="116398814" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="116398816" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398818" k="highway" o="modify" type="way" v="track" />
+    <tag id="116398818" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="116398820" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398821" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398822" k="lit" o="add" type="way" v="no" />
+    <tag id="116398822" k="highway" o="modify" type="way" v="un#" />
+    <tag id="116398822" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="116398825" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398826" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398829" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398831" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398832" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398833" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398835" k="highway" o="modify" type="way" v="service" />
+    <tag id="116398836" k="highway" o="modify" type="way" v="service" />
+    <tag id="118270657" k="natural" o="none" type="way" v="wood" />
+    <tag id="123845847" k="lit" o="add" type="way" v="yes" />
+    <tag id="123845847" k="name" o="add" type="way" v="Sarmiento" />
+    <tag id="123845847" k="oneway" o="add" type="way" v="yes" />
+    <tag id="123845847" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="123845847" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="123854134" k="name" o="add" type="way" v="Casa Museo de Horacio Quiroga" />
+    <tag id="123854134" k="tourism" o="add" type="way" v="museum" />
+    <tag id="123854134" k="building" o="none" type="way" v="yes" />
+    <tag id="159235942" k="building" o="none" type="way" v="yes" />
+    <tag id="159236471" k="name" o="none" type="way" v="Marcello De Alvear" />
+    <tag id="159236471" k="highway" o="modify" type="way" v="residential" />
+    <tag id="159239255" k="lit" o="add" type="way" v="yes" />
+    <tag id="159239255" k="name" o="none" type="way" v="Av. Quiroga" />
+    <tag id="159239255" k="oneway" o="none" type="way" v="-1" />
+    <tag id="159239255" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="159239255" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="159239268" k="lit" o="add" type="way" v="yes" />
+    <tag id="159239268" k="name" o="none" type="way" v="Av. Quiroga" />
+    <tag id="159239268" k="oneway" o="none" type="way" v="yes" />
+    <tag id="159239268" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="159239268" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="159239272" k="lit" o="add" type="way" v="yes" />
+    <tag id="159239272" k="name" o="modify" type="way" v="Quiroga" />
+    <tag id="159239272" k="oneway" o="add" type="way" v="no" />
+    <tag id="159239272" k="highway" o="modify" type="way" v="tertiary" />
     <tag id="159280156" k="building" o="add" type="way" v="yes" />
     <tag id="159280158" k="building" o="add" type="way" v="yes" />
     <tag id="159280415" k="building" o="add" type="way" v="yes" />
+    <tag id="159280416" k="amenity" o="add" type="way" v="public_building" />
+    <tag id="159280416" k="building" o="add" type="way" v="yes" />
     <tag id="159280418" k="building" o="add" type="way" v="yes" />
     <tag id="159280420" k="building" o="add" type="way" v="yes" />
-    <tag id="1713886114" k="historic" o="add" type="node" v="monument" />
     <tag id="159284643" k="highway" o="add" type="way" v="footway" />
     <tag id="159284646" k="highway" o="add" type="way" v="footway" />
     <tag id="159284648" k="landuse" o="add" type="way" v="recreation_ground" />
@@ -35,7 +243,10 @@
     <tag id="159291707" k="building" o="add" type="way" v="yes" />
     <tag id="159291715" k="building" o="add" type="way" v="yes" />
     <tag id="159291717" k="building" o="add" type="way" v="yes" />
+    <tag id="159291720" k="tourism" o="add" type="way" v="museum" />
+    <tag id="159291720" k="building" o="add" type="way" v="yes" />
     <tag id="159291722" k="building" o="add" type="way" v="yes" />
+    <tag id="159292572" k="barrier" o="add" type="way" v="fence" />
     <tag id="159292574" k="leisure" o="add" type="way" v="swimming_pool" />
     <tag id="159292576" k="highway" o="add" type="way" v="service" />
     <tag id="159292576" k="service" o="add" type="way" v="driveway" />
@@ -47,6 +258,8 @@
     <tag id="159293020" k="building" o="add" type="way" v="yes" />
     <tag id="159293021" k="building" o="add" type="way" v="yes" />
     <tag id="159293700" k="highway" o="add" type="way" v="footway" />
+    <tag id="159295108" k="highway" o="add" type="way" v="footway" />
+    <tag id="159295738" k="highway" o="add" type="way" v="residential" />
     <tag id="159295739" k="building" o="add" type="way" v="yes" />
     <tag id="159295740" k="landuse" o="add" type="way" v="recreation_ground" />
     <tag id="159295741" k="building" o="add" type="way" v="yes" />
@@ -59,14 +272,18 @@
     <tag id="159296137" k="building" o="add" type="way" v="yes" />
     <tag id="159296138" k="building" o="add" type="way" v="yes" />
     <tag id="159296139" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="159296158" k="building" o="add" type="way" v="yes" />
+    <tag id="159296158" k="building:use" o="add" type="way" v="residential" />
+    <tag id="159296159" k="building" o="add" type="way" v="yes" />
+    <tag id="159296159" k="building:use" o="add" type="way" v="residential" />
     <tag id="159296410" k="building" o="add" type="way" v="yes" />
     <tag id="159296411" k="building" o="add" type="way" v="yes" />
     <tag id="159296414" k="building" o="add" type="way" v="yes" />
     <tag id="159296416" k="building" o="add" type="way" v="yes" />
     <tag id="159296418" k="building" o="add" type="way" v="yes" />
-    <tag id="159297624" k="highway" o="add" type="way" v="residential" />
     <tag id="159297624" k="lit" o="add" type="way" v="yes" />
     <tag id="159297624" k="name" o="add" type="way" v="Marcello De Alvear" />
+    <tag id="159297624" k="highway" o="add" type="way" v="residential" />
     <tag id="159297625" k="building" o="add" type="way" v="yes" />
     <tag id="159297626" k="highway" o="add" type="way" v="track" />
     <tag id="159297626" k="tracktype" o="add" type="way" v="grade3" />
@@ -86,83 +303,84 @@
     <tag id="159297642" k="building" o="add" type="way" v="yes" />
     <tag id="159297643" k="highway" o="add" type="way" v="track" />
     <tag id="159297643" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="159299652" k="building" o="add" type="way" v="yes" />
     <tag id="159299652" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299655" k="building" o="add" type="way" v="yes" />
+    <tag id="159299652" k="building" o="add" type="way" v="yes" />
     <tag id="159299655" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299656" k="building" o="add" type="way" v="yes" />
+    <tag id="159299655" k="building" o="add" type="way" v="yes" />
     <tag id="159299656" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299658" k="landuse" o="add" type="way" v="greenfield" />
-    <tag id="159299662" k="building" o="add" type="way" v="yes" />
+    <tag id="159299656" k="building" o="add" type="way" v="yes" />
+    <tag id="159299658" k="area" o="add" type="way" v="yes" />
+    <tag id="159299658" k="name" o="add" type="way" v="San Ignacio Min&#237;" />
+    <tag id="159299658" k="tourism" o="add" type="way" v="attraction" />
     <tag id="159299662" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299664" k="building" o="add" type="way" v="yes" />
+    <tag id="159299662" k="building" o="add" type="way" v="yes" />
     <tag id="159299664" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299667" k="building" o="add" type="way" v="yes" />
+    <tag id="159299664" k="building" o="add" type="way" v="yes" />
     <tag id="159299667" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299669" k="building" o="add" type="way" v="yes" />
+    <tag id="159299667" k="building" o="add" type="way" v="yes" />
     <tag id="159299669" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299675" k="building" o="add" type="way" v="yes" />
+    <tag id="159299669" k="building" o="add" type="way" v="yes" />
     <tag id="159299675" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299677" k="building" o="add" type="way" v="yes" />
+    <tag id="159299675" k="building" o="add" type="way" v="yes" />
     <tag id="159299677" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299678" k="building" o="add" type="way" v="yes" />
+    <tag id="159299677" k="building" o="add" type="way" v="yes" />
     <tag id="159299678" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299681" k="building" o="add" type="way" v="yes" />
+    <tag id="159299678" k="building" o="add" type="way" v="yes" />
     <tag id="159299681" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299689" k="building" o="add" type="way" v="yes" />
+    <tag id="159299681" k="building" o="add" type="way" v="yes" />
     <tag id="159299689" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299691" k="building" o="add" type="way" v="yes" />
+    <tag id="159299689" k="building" o="add" type="way" v="yes" />
     <tag id="159299691" k="ruins" o="add" type="way" v="yes" />
+    <tag id="159299691" k="building" o="add" type="way" v="yes" />
     <tag id="159299693" k="building" o="add" type="way" v="yes" />
     <tag id="159299696" k="building" o="add" type="way" v="yes" />
-    <tag id="159299701" k="building" o="add" type="way" v="yes" />
     <tag id="159299701" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159299703" k="building" o="add" type="way" v="yes" />
+    <tag id="159299701" k="building" o="add" type="way" v="yes" />
     <tag id="159299703" k="ruins" o="add" type="way" v="yes" />
+    <tag id="159299703" k="building" o="add" type="way" v="yes" />
     <tag id="159301121" k="building" o="add" type="way" v="yes" />
-    <tag id="159301123" k="building" o="add" type="way" v="yes" />
     <tag id="159301123" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159301125" k="building" o="add" type="way" v="yes" />
+    <tag id="159301123" k="building" o="add" type="way" v="yes" />
     <tag id="159301125" k="ruins" o="add" type="way" v="yes" />
+    <tag id="159301125" k="building" o="add" type="way" v="yes" />
     <tag id="159301127" k="building" o="add" type="way" v="yes" />
     <tag id="159301128" k="building" o="add" type="way" v="yes" />
-    <tag id="159301129" k="building" o="add" type="way" v="yes" />
     <tag id="159301129" k="ruins" o="add" type="way" v="yes" />
-    <tag id="159301131" k="building" o="add" type="way" v="yes" />
+    <tag id="159301129" k="building" o="add" type="way" v="yes" />
     <tag id="159301131" k="ruins" o="add" type="way" v="yes" />
+    <tag id="159301131" k="building" o="add" type="way" v="yes" />
     <tag id="159302571" k="building" o="add" type="way" v="yes" />
-    <tag id="159302571" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302571" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302571" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302572" k="building" o="add" type="way" v="yes" />
-    <tag id="159302572" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302572" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302572" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302579" k="building" o="add" type="way" v="yes" />
     <tag id="159302581" k="building" o="add" type="way" v="yes" />
-    <tag id="159302581" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302581" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302581" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302583" k="building" o="add" type="way" v="yes" />
-    <tag id="159302583" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302583" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302583" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302585" k="building" o="add" type="way" v="yes" />
     <tag id="159302591" k="building" o="add" type="way" v="yes" />
-    <tag id="159302591" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302591" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302591" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302593" k="building" o="add" type="way" v="yes" />
-    <tag id="159302593" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302593" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302593" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302596" k="building" o="add" type="way" v="yes" />
-    <tag id="159302596" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302596" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302596" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302597" k="building" o="add" type="way" v="yes" />
-    <tag id="159302597" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302597" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302597" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302603" k="building" o="add" type="way" v="yes" />
-    <tag id="159302603" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302603" k="man_made" o="add" type="way" v="works" />
+    <tag id="159302603" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302606" k="building" o="add" type="way" v="yes" />
-    <tag id="159302606" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159302606" k="man_made" o="add" type="way" v="works" />
-    <tag id="1714043174" k="barrier" o="add" type="node" v="gate" />
+    <tag id="159302606" k="building:use" o="add" type="way" v="industrial" />
     <tag id="159303033" k="leisure" o="add" type="way" v="swimming_pool" />
     <tag id="159303034" k="barrier" o="add" type="way" v="fence" />
     <tag id="159303452" k="building" o="add" type="way" v="yes" />
@@ -174,6 +392,8 @@
     <tag id="159303460" k="building" o="add" type="way" v="yes" />
     <tag id="159303461" k="access" o="add" type="way" v="permissive" />
     <tag id="159303461" k="highway" o="add" type="way" v="service" />
+    <tag id="159304908" k="highway" o="add" type="way" v="track" />
+    <tag id="159304908" k="tracktype" o="add" type="way" v="grade4" />
     <tag id="159304909" k="natural" o="add" type="way" v="wood" />
     <tag id="159304910" k="landuse" o="add" type="way" v="farmyard" />
     <tag id="159304911" k="building" o="add" type="way" v="yes" />
@@ -207,13 +427,15 @@
     <tag id="159306171" k="highway" o="add" type="way" v="track" />
     <tag id="159306171" k="tracktype" o="add" type="way" v="grade3" />
     <tag id="159306173" k="highway" o="add" type="way" v="service" />
+    <tag id="159306341" k="highway" o="add" type="way" v="residential" />
+    <tag id="159306344" k="landuse" o="add" type="way" v="residential" />
     <tag id="159306673" k="landuse" o="add" type="way" v="orchard" />
-    <tag id="159306674" k="lnd" o="add" type="way" v="orch" />
+    <tag id="159306674" k="landuse" o="add" type="way" v="orchard" />
     <tag id="159308045" k="building" o="add" type="way" v="yes" />
-    <tag id="159308046" k="addr:street" o="add" type="way" v="RN 12 km 1398" />
-    <tag id="159308046" k="contact:phone" o="add" type="way" v="+54 (3752) 470169" />
     <tag id="159308046" k="name" o="add" type="way" v="Camping La Familia" />
     <tag id="159308046" k="tourism" o="add" type="way" v="camp_site" />
+    <tag id="159308046" k="addr:street" o="add" type="way" v="RN 12 km 1398" />
+    <tag id="159308046" k="contact:phone" o="add" type="way" v="+54 (3752) 470169" />
     <tag id="159308049" k="building" o="add" type="way" v="yes" />
     <tag id="159308050" k="building" o="add" type="way" v="yes" />
     <tag id="159308051" k="highway" o="add" type="way" v="residential" />
@@ -237,63 +459,80 @@
     <tag id="159309822" k="building" o="add" type="way" v="yes" />
     <tag id="159309823" k="building" o="add" type="way" v="yes" />
     <tag id="159310146" k="landuse" o="add" type="way" v="commercial" />
+    <tag id="159311686" k="place" o="add" type="way" v="town" />
+    <tag id="159311686" k="landuse" o="add" type="way" v="residential" />
+    <tag id="159311686" k="place_name" o="add" type="way" v="San Ignacio" />
+    <tag id="159311686" k="is_in:region" o="add" type="way" v="Misiones" />
     <tag id="159311686" k="is_in:country" o="add" type="way" v="Argentine" />
     <tag id="159311686" k="is_in:district" o="add" type="way" v="San Ignacio" />
-    <tag id="159311686" k="is_in:region" o="add" type="way" v="Misiones" />
-    <tag id="159311686" k="landuse" o="add" type="way" v="residential" />
-    <tag id="159311686" k="place" o="add" type="way" v="town" />
-    <tag id="159311686" k="place_name" o="add" type="way" v="San Ignacio" />
     <tag id="159311701" k="landuse" o="add" type="way" v="commercial" />
     <tag id="159311986" k="building" o="add" type="way" v="yes" />
     <tag id="159311987" k="building" o="add" type="way" v="yes" />
     <tag id="159311989" k="building" o="add" type="way" v="yes" />
     <tag id="159313194" k="landuse" o="add" type="way" v="recreation_ground" />
-    <tag id="159313195" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159313195" k="lit" o="add" type="way" v="yes" />
     <tag id="159313195" k="name" o="add" type="way" v="Sarmiento" />
     <tag id="159313195" k="oneway" o="add" type="way" v="yes" />
+    <tag id="159313195" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159313195" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159313196" k="landuse" o="add" type="way" v="recreation_ground" />
     <tag id="159313197" k="building" o="add" type="way" v="yes" />
-    <tag id="159313199" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159313199" k="lit" o="add" type="way" v="yes" />
     <tag id="159313199" k="oneway" o="add" type="way" v="yes" />
+    <tag id="159313199" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159313199" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159313205" k="amenity" o="add" type="way" v="place_of_worship" />
     <tag id="159313205" k="building" o="add" type="way" v="yes" />
+    <tag id="159313205" k="religion" o="add" type="way" v="christian" />
     <tag id="159313205" k="building:use" o="add" type="way" v="church" />
     <tag id="159313205" k="denomination" o="add" type="way" v="roman_catholic" />
-    <tag id="159313205" k="religion" o="add" type="way" v="christian" />
-    <tag id="159313206" k="highway" o="add" type="way" v="residential" />
     <tag id="159313206" k="lit" o="add" type="way" v="yes" />
     <tag id="159313206" k="name" o="add" type="way" v="Sarmiento" />
     <tag id="159313206" k="oneway" o="add" type="way" v="yes" />
+    <tag id="159313206" k="highway" o="add" type="way" v="residential" />
     <tag id="159313206" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159313523" k="building" o="add" type="way" v="yes" />
     <tag id="159313867" k="building" o="add" type="way" v="yes" />
     <tag id="159313868" k="building" o="add" type="way" v="yes" />
     <tag id="159313869" k="building" o="add" type="way" v="yes" />
     <tag id="159314298" k="landuse" o="add" type="way" v="commercial" />
-    <tag id="1714204594" k="amenity" o="add" type="node" v="cafe" />
     <tag id="159315174" k="building" o="add" type="way" v="yes" />
-    <tag id="159316001" k="access" o="add" type="way" v="permissive" />
+    <tag id="159315568" k="access" o="add" type="way" v="permissive" />
+    <tag id="159315568" k="highway" o="add" type="way" v="service" />
+    <tag id="159315568" k="service" o="add" type="way" v="driveway" />
+    <tag id="159315622" k="access" o="add" type="way" v="permissive" />
+    <tag id="159315622" k="highway" o="add" type="way" v="service" />
+    <tag id="159315622" k="service" o="add" type="way" v="driveway" />
     <tag id="159316001" k="area" o="add" type="way" v="yes" />
+    <tag id="159316001" k="access" o="add" type="way" v="permissive" />
     <tag id="159316001" k="highway" o="add" type="way" v="service" />
-    <tag id="159316584" k="amenity" o="add" type="way" v="bus_station" />
     <tag id="159316584" k="area" o="add" type="way" v="yes" />
     <tag id="159316584" k="name" o="add" type="way" v="Terminal de omnibuses" />
-    <tag id="159317696" k="highway" o="add" type="way" v="residential" />
+    <tag id="159316584" k="amenity" o="add" type="way" v="bus_station" />
+    <tag id="159317599" k="lit" o="add" type="way" v="yes" />
+    <tag id="159317599" k="name" o="add" type="way" v="Alberdi" />
+    <tag id="159317599" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="159317599" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159317696" k="lit" o="add" type="way" v="yes" />
     <tag id="159317696" k="name" o="add" type="way" v="Uruguay" />
-    <tag id="159317937" k="highway" o="add" type="way" v="residential" />
+    <tag id="159317696" k="highway" o="add" type="way" v="residential" />
+    <tag id="159317936" k="lit" o="add" type="way" v="yes" />
+    <tag id="159317936" k="name" o="add" type="way" v="Rivadavia" />
+    <tag id="159317936" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="159317936" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159317937" k="lit" o="add" type="way" v="yes" />
     <tag id="159317937" k="name" o="add" type="way" v="Brasil" />
-    <tag id="159319203" k="highway" o="add" type="way" v="residential" />
+    <tag id="159317937" k="highway" o="add" type="way" v="residential" />
+    <tag id="159318075" k="lit" o="add" type="way" v="yes" />
+    <tag id="159318075" k="name" o="add" type="way" v="Paraguay" />
+    <tag id="159318075" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="159318075" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159319203" k="lit" o="add" type="way" v="yes" />
     <tag id="159319203" k="name" o="add" type="way" v="Lavalle" />
-    <tag id="159319204" k="highway" o="add" type="way" v="residential" />
+    <tag id="159319203" k="highway" o="add" type="way" v="residential" />
     <tag id="159319204" k="lit" o="add" type="way" v="yes" />
     <tag id="159319204" k="name" o="add" type="way" v="Lavalle" />
+    <tag id="159319204" k="highway" o="add" type="way" v="residential" />
     <tag id="159319209" k="amenity" o="add" type="way" v="hospital" />
     <tag id="159320728" k="building" o="add" type="way" v="yes" />
     <tag id="159320729" k="building" o="add" type="way" v="yes" />
@@ -308,44 +547,42 @@
     <tag id="159320738" k="building" o="add" type="way" v="yes" />
     <tag id="159320739" k="building" o="add" type="way" v="yes" />
     <tag id="159320740" k="building" o="add" type="way" v="yes" />
-    <tag id="159320979" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159320979" k="lit" o="add" type="way" v="yes" />
     <tag id="159320979" k="name" o="add" type="way" v="Av. Quiroga" />
     <tag id="159320979" k="oneway" o="add" type="way" v="no" />
+    <tag id="159320979" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159320979" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159320980" k="highway" o="add" type="way" v="residential" />
     <tag id="159320980" k="lit" o="add" type="way" v="yes" />
     <tag id="159320980" k="name" o="add" type="way" v="San Martin" />
+    <tag id="159320980" k="highway" o="add" type="way" v="residential" />
     <tag id="159320980" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159320982" k="landuse" o="add" type="way" v="recreation_ground" />
     <tag id="159321156" k="landuse" o="add" type="way" v="recreation_ground" />
     <tag id="159321158" k="building" o="add" type="way" v="yes" />
-    <tag id="1714266252" k="barrier" o="add" type="node" v="gate" />
+    <tag id="159321294" k="access" o="add" type="way" v="permissive" />
+    <tag id="159321294" k="highway" o="add" type="way" v="service" />
     <tag id="159321296" k="access" o="add" type="way" v="yes" />
     <tag id="159321296" k="highway" o="add" type="way" v="service" />
     <tag id="159321446" k="highway" o="add" type="way" v="footway" />
+    <tag id="159321447" k="highway" o="add" type="way" v="footway" />
     <tag id="159321633" k="building" o="add" type="way" v="yes" />
-    <tag id="159321634" k="building" o="add" type="way" v="yes" />
     <tag id="159321634" k="ruins" o="add" type="way" v="yes" />
+    <tag id="159321634" k="building" o="add" type="way" v="yes" />
     <tag id="159321635" k="highway" o="add" type="way" v="footway" />
-    <tag id="1714272874" k="natural" o="add" type="node" v="tree" />
-    <tag id="1714272876" k="natural" o="add" type="node" v="tree" />
-    <tag id="1714272886" k="natural" o="add" type="node" v="tree" />
-    <tag id="1714272900" k="natural" o="add" type="node" v="tree" />
     <tag id="159322007" k="landuse" o="add" type="way" v="commercial" />
     <tag id="159322009" k="landuse" o="add" type="way" v="grass" />
     <tag id="159322135" k="building" o="add" type="way" v="yes" />
     <tag id="159323040" k="building" o="add" type="way" v="yes" />
-    <tag id="159323041" k="highway" o="add" type="way" v="residential" />
     <tag id="159323041" k="lit" o="add" type="way" v="yes" />
     <tag id="159323041" k="name" o="add" type="way" v="Alberdi" />
+    <tag id="159323041" k="highway" o="add" type="way" v="residential" />
     <tag id="159323042" k="building" o="add" type="way" v="yes" />
     <tag id="159323043" k="building" o="add" type="way" v="yes" />
     <tag id="159323044" k="highway" o="add" type="way" v="track" />
     <tag id="159323044" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="159323045" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159323045" k="lit" o="add" type="way" v="yes" />
     <tag id="159323045" k="name" o="add" type="way" v="Rivadavia" />
+    <tag id="159323045" k="highway" o="add" type="way" v="tertiary" />
     <tag id="159323045" k="surface" o="add" type="way" v="asphalt" />
     <tag id="159323046" k="building" o="add" type="way" v="yes" />
     <tag id="159323047" k="highway" o="add" type="way" v="track" />
@@ -360,7 +597,6 @@
     <tag id="159323191" k="highway" o="add" type="way" v="track" />
     <tag id="159323191" k="tracktype" o="add" type="way" v="grade4" />
     <tag id="159323345" k="building" o="add" type="way" v="yes" />
-    <tag id="1714287695" k="man_made" o="add" type="node" v="tower" />
     <tag id="159323811" k="landuse" o="add" type="way" v="recreation_ground" />
     <tag id="159323812" k="building" o="add" type="way" v="yes" />
     <tag id="159323813" k="building" o="add" type="way" v="yes" />
@@ -378,10 +614,10 @@
     <tag id="159324262" k="building" o="add" type="way" v="yes" />
     <tag id="159324306" k="highway" o="add" type="way" v="service" />
     <tag id="159324307" k="building" o="add" type="way" v="yes" />
-    <tag id="159324692" k="leisure" o="add" type="way" v="pitch" />
     <tag id="159324692" k="sport" o="add" type="way" v="soccer" />
-    <tag id="159324693" k="amenity" o="add" type="way" v="parking" />
+    <tag id="159324692" k="leisure" o="add" type="way" v="pitch" />
     <tag id="159324693" k="area" o="add" type="way" v="yes" />
+    <tag id="159324693" k="amenity" o="add" type="way" v="parking" />
     <tag id="159324755" k="building" o="add" type="way" v="yes" />
     <tag id="159324756" k="building" o="add" type="way" v="yes" />
     <tag id="159324757" k="building" o="add" type="way" v="yes" />
@@ -399,6 +635,8 @@
     <tag id="159324896" k="building" o="add" type="way" v="yes" />
     <tag id="159325103" k="building" o="add" type="way" v="yes" />
     <tag id="159325105" k="building" o="add" type="way" v="yes" />
+    <tag id="159325580" k="highway" o="add" type="way" v="track" />
+    <tag id="159325580" k="tracktype" o="add" type="way" v="grade3" />
     <tag id="159325581" k="highway" o="add" type="way" v="track" />
     <tag id="159325581" k="tracktype" o="add" type="way" v="grade3" />
     <tag id="159325582" k="highway" o="add" type="way" v="track" />
@@ -414,249 +652,5 @@
     <tag id="159326825" k="building" o="add" type="way" v="yes" />
     <tag id="159326826" k="building" o="add" type="way" v="yes" />
     <tag id="159326990" k="landuse" o="add" type="way" v="farmyard" />
-    <tag id="1379660979" k="amenity" o="none" type="node" v="townhall" />
-    <tag id="1379660979" k="name" o="none" type="node" v="Municipalitad San Ignacio" />
-    <tag id="1379729216" k="amenity" o="none" type="node" v="restaurant" />
-    <tag id="1379729216" k="name" o="modify" type="node" v="Restaurante Da Valentino" />
-    <tag id="1379730051" k="name" o="none" type="node" v="Hotel Portal del Sol" />
-    <tag id="1379730051" k="tourism" o="none" type="node" v="hotel" />
-    <tag id="1379747783" k="name" o="none" type="node" v="Residencial Doka" />
-    <tag id="1379747783" k="tourism" o="none" type="node" v="hotel" />
-    <tag id="1379729217" k="amenity" o="none" type="node" v="restaurant" />
-    <tag id="1379729217" k="name" o="modify" type="node" v="La Misi&#243;n" />
-    <tag id="623938282" k="name" o="modify" type="node" v="xxx" />
-    <tag id="623938282" k="tourism" o="none" type="node" v="camp_site" />
-    <tag id="198420492" k="is_in:country" o="modify" type="node" v="Argentine" />
-    <tag id="198420492" k="is_in:district" o="add" type="node" v="San Ignacio" />
-    <tag id="198420492" k="is_in:region" o="add" type="node" v="Misiones" />
-    <tag id="198420492" k="name" o="none" type="node" v="San Ignacio" />
-    <tag id="198420492" k="place" o="none" type="node" v="town" />
-    <tag id="198420492" k="source_ref" o="none" type="node" v="http://earth-info.nga.mil/gns/html/cntyfile/ar.zip" />
-    <tag id="198420492" k="wikipedia" o="add" type="node" v="es:San_Ignacio_(Misiones)" />
-    <tag id="1379660966" k="amenity" o="none" type="node" v="police" />
-    <tag id="1379660966" k="name" o="none" type="node" v="Gendarmeria Nacional" />
-    <tag id="159280416" k="amenity" o="add" type="way" v="public_building" />
-    <tag id="159280416" k="building" o="add" type="way" v="yes" />
-    <tag id="159291720" k="building" o="add" type="way" v="yes" />
-    <tag id="159291720" k="tourism" o="add" type="way" v="museum" />
-    <tag id="159292572" k="barrier" o="add" type="way" v="fence" />
-    <tag id="159295108" k="highway" o="add" type="way" v="footway" />
-    <tag id="159295738" k="highway" o="add" type="way" v="residential" />
-    <tag id="159296158" k="building" o="add" type="way" v="yes" />
-    <tag id="159296158" k="building:use" o="add" type="way" v="residential" />
-    <tag id="159296159" k="building" o="add" type="way" v="yes" />
-    <tag id="159296159" k="building:use" o="add" type="way" v="residential" />
-    <tag id="159299658" k="area" o="add" type="way" v="yes" />
-    <tag id="159299658" k="name" o="add" type="way" v="San Ignacio Min&#237;" />
-    <tag id="159299658" k="tourism" o="add" type="way" v="attraction" />
-    <tag id="159304908" k="highway" o="add" type="way" v="track" />
-    <tag id="159304908" k="tracktype" o="add" type="way" v="grade4" />
-    <tag id="159306341" k="highway" o="add" type="way" v="residential" />
-    <tag id="159306344" k="landuse" o="add" type="way" v="residential" />
-    <tag id="159306674" k="landuse" o="add" type="way" v="orchard" />
-    <tag id="159315568" k="access" o="add" type="way" v="permissive" />
-    <tag id="159315568" k="highway" o="add" type="way" v="service" />
-    <tag id="159315568" k="service" o="add" type="way" v="driveway" />
-    <tag id="159315622" k="access" o="add" type="way" v="permissive" />
-    <tag id="159315622" k="highway" o="add" type="way" v="service" />
-    <tag id="159315622" k="service" o="add" type="way" v="driveway" />
-    <tag id="159317599" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="159317599" k="lit" o="add" type="way" v="yes" />
-    <tag id="159317599" k="name" o="add" type="way" v="Alberdi" />
-    <tag id="159317599" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159317936" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="159317936" k="lit" o="add" type="way" v="yes" />
-    <tag id="159317936" k="name" o="add" type="way" v="Rivadavia" />
-    <tag id="159317936" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159318075" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="159318075" k="lit" o="add" type="way" v="yes" />
-    <tag id="159318075" k="name" o="add" type="way" v="Paraguay" />
-    <tag id="159318075" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159321294" k="access" o="add" type="way" v="permissive" />
-    <tag id="159321294" k="highway" o="add" type="way" v="service" />
-    <tag id="159321447" k="highway" o="add" type="way" v="footway" />
-    <tag id="159325580" k="highway" o="add" type="way" v="track" />
-    <tag id="159325580" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="41946306" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946306" k="name" o="none" type="way" v="Hipolito Irigoyen" />
-    <tag id="41946653" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946653" k="name" o="none" type="way" v="Uruguay" />
-    <tag id="123845847" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="123845847" k="lit" o="add" type="way" v="yes" />
-    <tag id="123845847" k="name" o="add" type="way" v="Sarmiento" />
-    <tag id="123845847" k="oneway" o="add" type="way" v="yes" />
-    <tag id="123845847" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946882" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946882" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946882" k="name" o="none" type="way" v="Marcello De Alvear" />
-    <tag id="41946357" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946357" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946357" k="name" o="add" type="way" v="Sarmiento" />
-    <tag id="41946357" k="oneway" o="add" type="way" v="yes" />
-    <tag id="41946357" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946926" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946926" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946926" k="name" o="none" type="way" v="Uruguay" />
-    <tag id="41946910" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946910" k="name" o="modify" type="way" v="Av. Roca" />
-    <tag id="41946419" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946419" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946419" k="name" o="modify" type="way" v="Sarmiento" />
-    <tag id="41946419" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946801" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946801" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946801" k="name" o="none" type="way" v="Rivadavia" />
-    <tag id="41946801" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946881" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="41946877" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946701" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946701" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946701" k="name" o="none" type="way" v="Alberdi" />
-    <tag id="41946701" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946479" k="landuse" o="none" type="way" v="greenfield" />
-    <tag id="41946479" k="name" o="modify" type="way" v="San Ignacio Min&#237;" />
-    <tag id="41946479" k="tourism" o="none" type="way" v="attraction" />
-    <tag id="107786762" k="highway" o="modify" type="way" v="track" />
-    <tag id="107786762" k="tracktype" o="add" type="way" v="grade2" />
-    <tag id="41946698" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946698" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946698" k="name" o="modify" type="way" v="Paraguay" />
-    <tag id="41946698" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="98219666" k="highway" o="none" type="way" v="residential" />
-    <tag id="98219666" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="41946804" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946804" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946804" k="name" o="none" type="way" v="Lavalle" />
-    <tag id="49710973" k="highway" o="modify" type="way" v="residential" />
-    <tag id="49710973" k="name" o="none" type="way" v="Azcuenaga" />
-    <tag id="41946803" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946803" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946803" k="name" o="none" type="way" v="San Martin" />
-    <tag id="41946803" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41947017" k="highway" o="modify" type="way" v="residential" />
-    <tag id="98219667" k="highway" o="none" type="way" v="residential" />
-    <tag id="98223323" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946921" k="highway" o="modify" type="way" v="residential" />
-    <tag id="97542460" k="highway" o="none" type="way" v="trunk" />
-    <tag id="97542460" k="lanes" o="add" type="way" v="2" />
-    <tag id="97542460" k="ref" o="modify" type="way" v="RN 12" />
-    <tag id="97542460" k="surface" o="modify" type="way" v="asphalt" />
-    <tag id="41946959" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946959" k="name" o="none" type="way" v="Martin Guemes" />
-    <tag id="41946960" k="highway" o="modify" type="way" v="residential" />
-    <tag id="44835842" k="highway" o="none" type="way" v="secondary" />
-    <tag id="44835842" k="ref" o="none" type="way" v="RP 210" />
-    <tag id="44835842" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25678062" k="name" o="none" type="way" v="Arroyo Yabebiry" />
-    <tag id="25678062" k="waterway" o="none" type="way" v="river" />
-    <tag id="107786739" k="landuse" o="add" type="way" v="cemetery" />
-    <tag id="107786776" k="highway" o="none" type="way" v="residential" />
-    <tag id="107786782" k="highway" o="none" type="way" v="residential" />
-    <tag id="107786782" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="107786751" k="highway" o="none" type="way" v="residential" />
-    <tag id="107786744" k="highway" o="none" type="way" v="residential" />
-    <tag id="107794664" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="41946175" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946175" k="name" o="none" type="way" v="Urquiza" />
-    <tag id="159236471" k="highway" o="modify" type="way" v="residential" />
-    <tag id="159236471" k="name" o="none" type="way" v="Marcello De Alvear" />
-    <tag id="41946308" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946308" k="name" o="none" type="way" v="Indipendecia" />
-    <tag id="41946633" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946633" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946633" k="name" o="none" type="way" v="Rivadavia" />
-    <tag id="41946633" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946483" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946483" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946483" k="name" o="none" type="way" v="San Martin" />
-    <tag id="41946483" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159235942" k="building" o="none" type="way" v="yes" />
-    <tag id="41946723" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946723" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946723" k="name" o="modify" type="way" v="Bolivar" />
-    <tag id="41946723" k="oneway" o="add" type="way" v="yes" />
-    <tag id="41946724" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946724" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946724" k="name" o="modify" type="way" v="Bolivar" />
-    <tag id="41946724" k="oneway" o="add" type="way" v="-1" />
-    <tag id="41946702" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946702" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946702" k="name" o="none" type="way" v="Brasil" />
-    <tag id="41946482" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946482" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946482" k="name" o="none" type="way" v="Lavalle" />
-    <tag id="41946146" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946146" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946146" k="name" o="none" type="way" v="Av. Quiroga" />
-    <tag id="41946146" k="oneway" o="add" type="way" v="no" />
-    <tag id="41946146" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="107789710" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="107789710" k="lit" o="add" type="way" v="yes" />
-    <tag id="107789710" k="name" o="add" type="way" v="Mariano Moreno" />
-    <tag id="107789710" k="oneway" o="add" type="way" v="yes" />
-    <tag id="107789710" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159239255" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="159239255" k="lit" o="add" type="way" v="yes" />
-    <tag id="159239255" k="name" o="none" type="way" v="Av. Quiroga" />
-    <tag id="159239255" k="oneway" o="none" type="way" v="-1" />
-    <tag id="159239255" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159239268" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="159239268" k="lit" o="add" type="way" v="yes" />
-    <tag id="159239268" k="name" o="none" type="way" v="Av. Quiroga" />
-    <tag id="159239268" k="oneway" o="none" type="way" v="yes" />
-    <tag id="159239268" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946806" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946806" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946806" k="name" o="none" type="way" v="Mariano Moreno" />
-    <tag id="41946806" k="oneway" o="add" type="way" v="-1" />
-    <tag id="41946806" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41946875" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946875" k="name" o="none" type="way" v="Mitre Bartolome" />
-    <tag id="107789713" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946920" k="highway" o="modify" type="way" v="residential" />
-    <tag id="41946187" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946187" k="name" o="none" type="way" v="Alcora" />
-    <tag id="41946147" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="41946147" k="lit" o="add" type="way" v="yes" />
-    <tag id="41946147" k="name" o="modify" type="way" v="Cabral Sgto" />
-    <tag id="41946147" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="159239272" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="159239272" k="lit" o="add" type="way" v="yes" />
-    <tag id="159239272" k="name" o="modify" type="way" v="Quiroga" />
-    <tag id="159239272" k="oneway" o="add" type="way" v="no" />
-    <tag id="41946190" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946190" k="name" o="none" type="way" v="Saenz Pena" />
-    <tag id="41946639" k="highway" o="none" type="way" v="residential" />
-    <tag id="41946639" k="name" o="modify" type="way" v="Bolivar" />
-    <tag id="116398821" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398835" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398816" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398826" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398831" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398832" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398825" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398833" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398836" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398813" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398820" k="highway" o="modify" type="way" v="service" />
-    <tag id="116398829" k="highway" o="modify" type="way" v="service" />
-    <tag id="107786773" k="highway" o="none" type="way" v="residential" />
-    <tag id="26163422" k="natural" o="none" type="way" v="water" />
-    <tag id="26163422" k="waterway" o="none" type="way" v="riverbank" />
-    <tag id="107789711" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="41946517" k="highway" o="modify" type="way" v="track" />
-    <tag id="41946517" k="tracktype" o="add" type="way" v="grade2" />
-    <tag id="118270657" k="natural" o="none" type="way" v="wood" />
-    <tag id="116398814" k="highway" o="modify" type="way" v="track" />
-    <tag id="116398814" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="116398818" k="highway" o="modify" type="way" v="track" />
-    <tag id="116398818" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="116398822" k="highway" o="modify" type="way" v="un#" />
-    <tag id="116398822" k="lit" o="add" type="way" v="no" />
-    <tag id="116398822" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="40619956" k="highway" o="modify" type="way" v="unclassified" />
-    <tag id="123854134" k="building" o="none" type="way" v="yes" />
-    <tag id="123854134" k="name" o="add" type="way" v="Casa Museo de Horacio Quiroga" />
-    <tag id="123854134" k="tourism" o="add" type="way" v="museum" />
   </body>
 </changeset>

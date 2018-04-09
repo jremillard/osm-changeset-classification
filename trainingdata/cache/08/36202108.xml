@@ -6,21 +6,21 @@
     <tag k="source" v="local Knowledge" />
   </meta>
   <body>
-    <tag id="3913121657" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="337954717" k="bus" o="add" type="node" v="yes" />
+    <tag id="337954717" k="public_transport" o="none" type="node" v="stop_position" />
     <tag id="3913121657" k="name" o="add" type="node" v="Opernhaus" />
+    <tag id="3913121657" k="highway" o="add" type="node" v="bus_stop" />
     <tag id="3913121657" k="network" o="add" type="node" v="VGN" />
     <tag id="3913121657" k="operator" o="add" type="node" v="VAG" />
     <tag id="3913121657" k="public_transport" o="add" type="node" v="platform" />
-    <tag id="337954717" k="bus" o="add" type="node" v="yes" />
-    <tag id="337954717" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="904852" k="by_night" o="none" type="relation" v="only" />
+    <tag id="904852" k="to" o="none" type="relation" v="Erlangen Hugenottenplatz" />
+    <tag id="904852" k="ref" o="none" type="relation" v="N10" />
     <tag id="904852" k="from" o="none" type="relation" v="N&#252;rnberg Hauptbahnhof" />
     <tag id="904852" k="name" o="none" type="relation" v="Nightliner N10 N&#252;rnberg Hauptbahnhof - Erlangen Hugenottenplatz" />
     <tag id="904852" k="note" o="none" type="relation" v="Stand 2016" />
-    <tag id="904852" k="public_transport:version" o="none" type="relation" v="2" />
-    <tag id="904852" k="ref" o="none" type="relation" v="N10" />
-    <tag id="904852" k="route" o="none" type="relation" v="bus" />
-    <tag id="904852" k="to" o="none" type="relation" v="Erlangen Hugenottenplatz" />
     <tag id="904852" k="type" o="none" type="relation" v="route" />
+    <tag id="904852" k="route" o="none" type="relation" v="bus" />
+    <tag id="904852" k="by_night" o="none" type="relation" v="only" />
+    <tag id="904852" k="public_transport:version" o="none" type="relation" v="2" />
   </body>
 </changeset>

@@ -1,1 +1,67 @@
-<changeset id="41226397" schema="1"><counts nodesAdded="9" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="5" /><meta><tag k="comment" v="Added speed limits in residential zone. Added local rescue group + parking." /><tag k="created_by" v="iD 1.9.7" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-us" /></meta><body><tag id="4334670980" k="amenity" o="add" type="node" v="police" /><tag id="4334670980" k="description" o="add" type="node" v="Founded in 1999,  Rampart Search and Rescue is an organization of highly skilled search and rescue professionals capable of providing effective response to numerous emergencies, disasters and public safety incidents under the Adams County Sheriff." /><tag id="4334670980" k="name" o="add" type="node" v="Rampart Search and Rescue" /><tag id="4334670980" k="note" o="add" type="node" v="Meets on the second floor of the Adams County Sheriff's substation." /><tag id="4334670980" k="phone" o="add" type="node" v="303-227-1574" /><tag id="4334670980" k="website" o="add" type="node" v="www.rampartsar.com" /><tag id="435562985" k="amenity" o="add" type="way" v="parking" /><tag id="435562986" k="amenity" o="add" type="way" v="parking" /><tag id="16974181" k="maxspeed" o="add" type="way" v="25 mph" /><tag id="16964978" k="maxspeed" o="add" type="way" v="25 mph" /><tag id="16974176" k="maxspeed" o="add" type="way" v="25 mph" /><tag id="16979722" k="maxspeed" o="add" type="way" v="25 mph" /><tag id="16968827" k="maxspeed" o="add" type="way" v="25 mph" /></body></changeset>
+<changeset id="41226397" schema="2">
+  <counts nodesAdded="9" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="5" />
+  <meta>
+    <tag k="comment" v="Added speed limits in residential zone. Added local rescue group + parking." />
+    <tag k="created_by" v="iD 1.9.7" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-us" />
+  </meta>
+  <body>
+    <tag id="4334670980" k="name" o="add" type="node" v="Rampart Search and Rescue" />
+    <tag id="4334670980" k="note" o="add" type="node" v="Meets on the second floor of the Adams County Sheriff's substation." />
+    <tag id="4334670980" k="phone" o="add" type="node" v="303-227-1574" />
+    <tag id="4334670980" k="amenity" o="add" type="node" v="police" />
+    <tag id="4334670980" k="website" o="add" type="node" v="www.rampartsar.com" />
+    <tag id="4334670980" k="description" o="add" type="node" v="Founded in 1999,  Rampart Search and Rescue is an organization of highly skilled search and rescue professionals capable of providing effective response to numerous emergencies, disasters and public safety incidents under the Adams County Sheriff." />
+    <tag id="16964978" k="name" o="none" type="way" v="Corona Street" />
+    <tag id="16964978" k="highway" o="none" type="way" v="residential" />
+    <tag id="16964978" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="16964978" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16964978" k="tiger:county" o="none" type="way" v="Adams, CO" />
+    <tag id="16964978" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16964978" k="tiger:name_base" o="none" type="way" v="Corona" />
+    <tag id="16964978" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="16968827" k="name" o="none" type="way" v="East 134th Avenue" />
+    <tag id="16968827" k="highway" o="none" type="way" v="residential" />
+    <tag id="16968827" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="16968827" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16968827" k="tiger:county" o="none" type="way" v="Adams, CO" />
+    <tag id="16968827" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16968827" k="tiger:zip_left" o="none" type="way" v="80241" />
+    <tag id="16968827" k="tiger:name_base" o="none" type="way" v="134th" />
+    <tag id="16968827" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16968827" k="tiger:zip_right" o="none" type="way" v="80241" />
+    <tag id="16968827" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="16974176" k="name" o="none" type="way" v="East 130th Avenue" />
+    <tag id="16974176" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974176" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="16974176" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974176" k="tiger:county" o="none" type="way" v="Adams, CO" />
+    <tag id="16974176" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16974176" k="tiger:zip_left" o="none" type="way" v="80241" />
+    <tag id="16974176" k="tiger:name_base" o="none" type="way" v="130th" />
+    <tag id="16974176" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16974176" k="tiger:zip_right" o="none" type="way" v="80241" />
+    <tag id="16974176" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="16974181" k="name" o="none" type="way" v="East 130th Avenue" />
+    <tag id="16974181" k="highway" o="none" type="way" v="residential" />
+    <tag id="16974181" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="16974181" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16974181" k="tiger:county" o="none" type="way" v="Adams, CO" />
+    <tag id="16974181" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16974181" k="tiger:name_base" o="none" type="way" v="130th" />
+    <tag id="16974181" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="16974181" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="16979722" k="name" o="none" type="way" v="High Street" />
+    <tag id="16979722" k="highway" o="none" type="way" v="residential" />
+    <tag id="16979722" k="maxspeed" o="add" type="way" v="25 mph" />
+    <tag id="16979722" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="16979722" k="tiger:county" o="none" type="way" v="Adams, CO" />
+    <tag id="16979722" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="16979722" k="tiger:name_base" o="none" type="way" v="High" />
+    <tag id="16979722" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="435562985" k="amenity" o="add" type="way" v="parking" />
+    <tag id="435562986" k="amenity" o="add" type="way" v="parking" />
+  </body>
+</changeset>

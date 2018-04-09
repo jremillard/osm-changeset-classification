@@ -1,1 +1,18 @@
-<changeset id="56101772" schema="1"><counts nodesAdded="2" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="2" /><meta><tag k="comment" v="Added missing streets" /><tag k="created_by" v="JOSM/1.5 (10526 en)" /><tag k="source" v="Bing" /></meta><body><tag id="558933995" k="highway" o="add" type="way" v="service" /><tag id="558933996" k="highway" o="add" type="way" v="service" /></body></changeset>
+<changeset id="56101772" schema="2">
+  <counts nodesAdded="2" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Added missing streets" />
+    <tag k="created_by" v="JOSM/1.5 (10526 en)" />
+    <tag k="source" v="Bing" />
+  </meta>
+  <body>
+    <tag id="110810668" k="highway" o="none" type="way" v="service" />
+    <tag id="110830960" k="lanes" o="none" type="way" v="2" />
+    <tag id="110830960" k="oneway" o="none" type="way" v="no" />
+    <tag id="110830960" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="110830960" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110830960" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="558933995" k="highway" o="add" type="way" v="service" />
+    <tag id="558933996" k="highway" o="add" type="way" v="service" />
+  </body>
+</changeset>

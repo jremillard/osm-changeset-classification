@@ -1,5 +1,5 @@
 <changeset id="11429746" schema="2">
-  <counts nodesAdded="266" nodesDeleted="13" nodesModified="9" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="44" waysDeleted="1" waysModified="41" />
+  <counts nodesAdded="266" nodesDeleted="13" nodesModified="6" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="44" waysDeleted="1" waysModified="42" />
   <meta>
     <tag k="build" v="2.3-380-gd20f3c8" />
     <tag k="comment" v="Saarland 20120427#01" />
@@ -7,8 +7,195 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
-    <tag id="161272815" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="276204650" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="276204933" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="279796397" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="361491425" k="barrier" o="none" type="node" v="bollard" />
+    <tag id="514208400" k="name" o="modify" type="node" v="ALDI" />
+    <tag id="514208400" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="514208400" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="514208444" k="name" o="modify" type="node" v="Wasgau" />
+    <tag id="514208444" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="514208444" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="736954566" k="name" o="none" type="node" v="Kindergarten" />
+    <tag id="736954566" k="amenity" o="none" type="node" v="kindergarten" />
+    <tag id="1371143237" k="name" o="none" type="node" v="Wiebelskirchen Ohlenbachhalle" />
+    <tag id="1371143237" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1371143237" k="stop_id" o="none" type="node" v="30727" />
+    <tag id="1579744137" k="name" o="modify" type="node" v="LIDL" />
+    <tag id="1579744137" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="25307210" k="lit" o="add" type="way" v="yes" />
+    <tag id="25307210" k="ref" o="none" type="way" v="L 286" />
+    <tag id="25307210" k="name" o="none" type="way" v="Im Stauch" />
+    <tag id="25307210" k="lanes" o="add" type="way" v="1" />
+    <tag id="25307210" k="oneway" o="none" type="way" v="yes" />
+    <tag id="25307210" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25307210" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25307210" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25308190" k="name" o="none" type="way" v="Tr&#228;nkenweg" />
+    <tag id="25308190" k="highway" o="none" type="way" v="residential" />
+    <tag id="25308266" k="lit" o="add" type="way" v="yes" />
+    <tag id="25308266" k="name" o="none" type="way" v="Im Katzent&#252;mpel" />
+    <tag id="25308266" k="oneway" o="add" type="way" v="no" />
+    <tag id="25308266" k="highway" o="none" type="way" v="residential" />
+    <tag id="25308266" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25308276" k="name" o="none" type="way" v="August-Bebel-Stra&#223;e" />
+    <tag id="25308276" k="noexit" o="add" type="way" v="yes" />
+    <tag id="25308276" k="oneway" o="add" type="way" v="no" />
+    <tag id="25308276" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345409" k="name" o="none" type="way" v="Reiherweg" />
+    <tag id="25345409" k="noexit" o="add" type="way" v="yes" />
+    <tag id="25345409" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345423" k="name" o="none" type="way" v="Bussardweg" />
+    <tag id="25345423" k="noexit" o="add" type="way" v="yes" />
+    <tag id="25345423" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345593" k="lit" o="add" type="way" v="yes" />
+    <tag id="25345593" k="name" o="none" type="way" v="Freiherr-vom-Stein-Stra&#223;e" />
+    <tag id="25345593" k="lanes" o="add" type="way" v="2" />
+    <tag id="25345593" k="noexit" o="add" type="way" v="no" />
+    <tag id="25345593" k="oneway" o="add" type="way" v="no" />
+    <tag id="25345593" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345593" k="surface" o="add" type="way" v="paved" />
+    <tag id="25345595" k="highway" o="modify" type="way" v="service" />
+    <tag id="25345595" k="servide" o="add" type="way" v="driveway" />
+    <tag id="25345595" k="surface" o="add" type="way" v="paved" />
+    <tag id="25345633" k="lit" o="add" type="way" v="yes" />
+    <tag id="25345633" k="name" o="none" type="way" v="Kallenbergstra&#223;e" />
+    <tag id="25345633" k="lanes" o="add" type="way" v="2" />
+    <tag id="25345633" k="oneway" o="add" type="way" v="no" />
+    <tag id="25345633" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345633" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25345644" k="name" o="none" type="way" v="Am Kallenberg" />
+    <tag id="25345644" k="lanes" o="add" type="way" v="2" />
+    <tag id="25345644" k="noexit" o="add" type="way" v="yes" />
+    <tag id="25345644" k="oneway" o="add" type="way" v="no" />
+    <tag id="25345644" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345644" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25345671" k="name" o="none" type="way" v="Julius-Schwarz-Stra&#223;e" />
+    <tag id="25345671" k="lanes" o="add" type="way" v="2" />
+    <tag id="25345671" k="oneway" o="add" type="way" v="no" />
+    <tag id="25345671" k="highway" o="none" type="way" v="residential" />
+    <tag id="25345671" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25368153" k="lit" o="add" type="way" v="yes" />
+    <tag id="25368153" k="ref" o="none" type="way" v="L 286" />
+    <tag id="25368153" k="name" o="modify" type="way" v="Landsweiler Stra&#223;e" />
+    <tag id="25368153" k="lanes" o="add" type="way" v="2" />
+    <tag id="25368153" k="oneway" o="add" type="way" v="no" />
+    <tag id="25368153" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25368153" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25368727" k="lit" o="add" type="way" v="yes" />
+    <tag id="25368727" k="name" o="modify" type="way" v="Ostpreu&#223;enweg" />
+    <tag id="25368727" k="lanes" o="add" type="way" v="2" />
+    <tag id="25368727" k="oneway" o="add" type="way" v="no" />
+    <tag id="25368727" k="highway" o="none" type="way" v="residential" />
+    <tag id="25368727" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25368735" k="lit" o="add" type="way" v="yes" />
+    <tag id="25368735" k="name" o="modify" type="way" v="Ostpreu&#223;enweg" />
+    <tag id="25368735" k="lanes" o="add" type="way" v="2" />
+    <tag id="25368735" k="oneway" o="add" type="way" v="no" />
+    <tag id="25368735" k="highway" o="none" type="way" v="residential" />
+    <tag id="25368735" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25368737" k="lit" o="add" type="way" v="yes" />
+    <tag id="25368737" k="name" o="modify" type="way" v="Ostpreu&#223;enweg" />
+    <tag id="25368737" k="lanes" o="add" type="way" v="2" />
+    <tag id="25368737" k="oneway" o="add" type="way" v="no" />
+    <tag id="25368737" k="highway" o="none" type="way" v="residential" />
+    <tag id="25368737" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25368761" k="name" o="none" type="way" v="Brandenburger Weg" />
+    <tag id="25368761" k="highway" o="none" type="way" v="residential" />
+    <tag id="25369325" k="name" o="modify" type="way" v="Landsweiler Stra&#223;e" />
+    <tag id="25369325" k="highway" o="none" type="way" v="residential" />
+    <tag id="25422381" k="name" o="none" type="way" v="Tr&#228;nkenweg" />
+    <tag id="25422381" k="noexit" o="add" type="way" v="yes" />
+    <tag id="25422381" k="highway" o="none" type="way" v="residential" />
+    <tag id="25440387" k="lit" o="add" type="way" v="yes" />
+    <tag id="25440387" k="name" o="none" type="way" v="Am Friedhof" />
+    <tag id="25440387" k="lanes" o="add" type="way" v="2" />
+    <tag id="25440387" k="noexit" o="add" type="way" v="yes" />
+    <tag id="25440387" k="oneway" o="add" type="way" v="no" />
+    <tag id="25440387" k="highway" o="none" type="way" v="residential" />
+    <tag id="25440981" k="ref" o="none" type="way" v="L 286" />
+    <tag id="25440981" k="name" o="none" type="way" v="Keplerstra&#223;e" />
+    <tag id="25440981" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25659490" k="foot" o="none" type="way" v="yes" />
+    <tag id="25659490" k="name" o="modify" type="way" v="Landsweiler Stra&#223;e" />
+    <tag id="25659490" k="lanes" o="add" type="way" v="2" />
+    <tag id="25659490" k="oneway" o="add" type="way" v="no" />
+    <tag id="25659490" k="highway" o="none" type="way" v="residential" />
+    <tag id="25659490" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25659499" k="foot" o="none" type="way" v="yes" />
+    <tag id="25659499" k="access" o="none" type="way" v="no" />
+    <tag id="25659499" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="25659499" k="highway" o="none" type="way" v="service" />
+    <tag id="25659499" k="motorcar" o="none" type="way" v="no" />
+    <tag id="25660070" k="sport" o="none" type="way" v="swimming" />
+    <tag id="25660070" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="25672178" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
+    <tag id="25672178" k="lanes" o="add" type="way" v="2" />
+    <tag id="25672178" k="oneway" o="add" type="way" v="no" />
+    <tag id="25672178" k="highway" o="none" type="way" v="residential" />
+    <tag id="25672178" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25672178" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25672194" k="ref" o="none" type="way" v="L 286" />
+    <tag id="25672194" k="foot" o="none" type="way" v="yes" />
+    <tag id="25672194" k="name" o="modify" type="way" v="Schiffweiler Stra&#223;e" />
+    <tag id="25672194" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="25672194" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="25672194" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="25672194" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="25680715" k="name" o="none" type="way" v="Auf den R&#246;sen" />
+    <tag id="25680715" k="leisure" o="modify" type="way" v="pitch" />
+    <tag id="25680863" k="lit" o="add" type="way" v="yes" />
+    <tag id="25680863" k="ref" o="none" type="way" v="L 124" />
+    <tag id="25680863" k="name" o="none" type="way" v="Kuchenbergstra&#223;e" />
+    <tag id="25680863" k="lanes" o="add" type="way" v="2" />
+    <tag id="25680863" k="oneway" o="add" type="way" v="no" />
+    <tag id="25680863" k="highway" o="none" type="way" v="secondary" />
+    <tag id="25680863" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25683864" k="ref" o="none" type="way" v="L 286" />
+    <tag id="25683864" k="name" o="modify" type="way" v="Schiffweiler Stra&#223;e" />
+    <tag id="25683864" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="27746140" k="place" o="add" type="way" v="suburb" />
+    <tag id="27746140" k="landuse" o="none" type="way" v="residential" />
+    <tag id="27746140" k="place_name" o="add" type="way" v="Wiebelskirchen" />
+    <tag id="27746140" k="is_in:region" o="add" type="way" v="Saarland" />
+    <tag id="27746140" k="is_in:country" o="add" type="way" v="Germany" />
+    <tag id="27746140" k="is_in:district" o="add" type="way" v="Landkreis Neunkirchen" />
+    <tag id="32235759" k="highway" o="none" type="way" v="footway" />
+    <tag id="32795494" k="leisure" o="none" type="way" v="park" />
+    <tag id="34835832" k="name" o="none" type="way" v="Julius-Schwarz-Stra&#223;e" />
+    <tag id="34835832" k="lanes" o="add" type="way" v="2" />
+    <tag id="34835832" k="oneway" o="add" type="way" v="no" />
+    <tag id="34835832" k="highway" o="none" type="way" v="residential" />
+    <tag id="34835832" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="54050084" k="name" o="none" type="way" v="Gewerbepark Kohlwald" />
+    <tag id="54050084" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="54050085" k="landuse" o="none" type="way" v="residential" />
+    <tag id="56198062" k="name" o="add" type="way" v="Friedhof Wiebelskirchen" />
+    <tag id="56198062" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="58993747" k="lit" o="add" type="way" v="yes" />
+    <tag id="58993747" k="ref" o="none" type="way" v="L 286" />
+    <tag id="58993747" k="foot" o="none" type="way" v="yes" />
+    <tag id="58993747" k="name" o="modify" type="way" v="Schiffweiler Stra&#223;e" />
+    <tag id="58993747" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="58993747" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="58993747" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="58993747" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="58993747" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="119158204" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="135160260" k="name" o="none" type="way" v="Blies" />
+    <tag id="135160260" k="waterway" o="none" type="way" v="river" />
+    <tag id="140139797" k="ref" o="none" type="way" v="L 124" />
+    <tag id="140139797" k="name" o="none" type="way" v="Ottweilerstra&#223;e" />
+    <tag id="140139797" k="highway" o="none" type="way" v="secondary" />
+    <tag id="140139797" k="cycleway" o="none" type="way" v="track" />
+    <tag id="144433490" k="name" o="none" type="way" v="Lidl" />
+    <tag id="144433490" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="144433490" k="building" o="add" type="way" v="yes" />
+    <tag id="144433583" k="building" o="add" type="way" v="yes" />
+    <tag id="144433583" k="building:use" o="add" type="way" v="school" />
     <tag id="161272815" k="sport" o="add" type="way" v="soccer" />
+    <tag id="161272815" k="leisure" o="add" type="way" v="pitch" />
     <tag id="161272972" k="building" o="add" type="way" v="yes" />
     <tag id="161272973" k="building" o="add" type="way" v="yes" />
     <tag id="161272973" k="builidng:use" o="add" type="way" v="residential" />
@@ -17,6 +204,9 @@
     <tag id="161272975" k="building" o="add" type="way" v="yes" />
     <tag id="161272975" k="builidng:use" o="add" type="way" v="residential" />
     <tag id="161273658" k="building" o="add" type="way" v="yes" />
+    <tag id="161273659" k="area" o="add" type="way" v="yes" />
+    <tag id="161273659" k="name" o="add" type="way" v="Freiherr-vom-Stein-Schule" />
+    <tag id="161273659" k="amenity" o="add" type="way" v="school" />
     <tag id="161273660" k="building" o="add" type="way" v="yes" />
     <tag id="161273741" k="building" o="add" type="way" v="yes" />
     <tag id="161273741" k="building:use" o="add" type="way" v="residential" />
@@ -36,13 +226,19 @@
     <tag id="161273821" k="building:use" o="add" type="way" v="school" />
     <tag id="161273822" k="building" o="add" type="way" v="yes" />
     <tag id="161273822" k="building:use" o="add" type="way" v="school" />
+    <tag id="161273986" k="area" o="add" type="way" v="yes" />
+    <tag id="161273986" k="name" o="add" type="way" v="Freibad Wiebelskirchen" />
+    <tag id="161273986" k="sport" o="add" type="way" v="swimming" />
+    <tag id="161273986" k="leisure" o="add" type="way" v="water_park" />
+    <tag id="161273986" k="tourism" o="add" type="way" v="attraction" />
+    <tag id="161273986" k="operator" o="add" type="way" v="Stadt Neunkirchen" />
     <tag id="161274852" k="natural" o="add" type="way" v="wood" />
-    <tag id="161275837" k="highway" o="add" type="way" v="residential" />
-    <tag id="161275837" k="lanes" o="add" type="way" v="2" />
     <tag id="161275837" k="lit" o="add" type="way" v="yes" />
     <tag id="161275837" k="name" o="add" type="way" v="Freiherr-vom-Stein-Stra&#223;e" />
+    <tag id="161275837" k="lanes" o="add" type="way" v="2" />
     <tag id="161275837" k="noexit" o="add" type="way" v="yes" />
     <tag id="161275837" k="oneway" o="add" type="way" v="no" />
+    <tag id="161275837" k="highway" o="add" type="way" v="residential" />
     <tag id="161275837" k="surface" o="add" type="way" v="paved" />
     <tag id="161276125" k="building" o="add" type="way" v="yes" />
     <tag id="161276126" k="highway" o="add" type="way" v="service" />
@@ -53,260 +249,64 @@
     <tag id="161276130" k="building" o="add" type="way" v="yes" />
     <tag id="161277857" k="building" o="add" type="way" v="yes" />
     <tag id="161277857" k="building:use" o="add" type="way" v="school" />
+    <tag id="161277859" k="building" o="add" type="way" v="yes" />
+    <tag id="161277859" k="addr:street" o="add" type="way" v="Im Katzent&#252;mpel" />
+    <tag id="161277859" k="addr:housenumber" o="add" type="way" v="1" />
     <tag id="161277861" k="building" o="add" type="way" v="yes" />
     <tag id="161277861" k="building:use" o="add" type="way" v="gymnasium" />
+    <tag id="161277863" k="area" o="add" type="way" v="yes" />
+    <tag id="161277863" k="name" o="add" type="way" v="Grundschule Friedrich von Schiller " />
+    <tag id="161277863" k="amenity" o="add" type="way" v="school" />
+    <tag id="161277863" k="addr:street" o="add" type="way" v="Kuchenbergstra&#223;e" />
+    <tag id="161277863" k="contact:fax" o="add" type="way" v="+49 (6821) 953475" />
+    <tag id="161277863" k="addr:postcode" o="add" type="way" v="66540" />
+    <tag id="161277863" k="contact:email" o="add" type="way" v="grundschule-wiebelskirchen@web.de" />
+    <tag id="161277863" k="contact:phone" o="add" type="way" v="+49 (6821) 53691" />
+    <tag id="161277863" k="contact:website" o="add" type="way" v="http://www.grundschule-wiebelskirchen.de/" />
+    <tag id="161277863" k="addr:housenumber" o="add" type="way" v="47" />
     <tag id="161277864" k="building" o="add" type="way" v="yes" />
-    <tag id="161278242" k="leisure" o="add" type="way" v="pitch" />
     <tag id="161278242" k="sport" o="add" type="way" v="tennis" />
+    <tag id="161278242" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="161278636" k="name" o="add" type="way" v="Maximilian-Kolbe-Schule" />
+    <tag id="161278636" k="amenity" o="add" type="way" v="school" />
+    <tag id="161278636" k="operator" o="add" type="way" v="Bistum Trier" />
+    <tag id="161278636" k="addr:street" o="add" type="way" v="Pr&#228;lat-Sch&#252;tz-Stra&#223;e" />
+    <tag id="161278636" k="contact:fax" o="add" type="way" v="+49 (6821) 950444" />
+    <tag id="161278636" k="addr:postcode" o="add" type="way" v="66540" />
+    <tag id="161278636" k="contact:email" o="add" type="way" v="maximilian-kolbe.schule@bistum-trier.de" />
+    <tag id="161278636" k="contact:phone" o="add" type="way" v="+49 (6821) 95040" />
+    <tag id="161278636" k="contact:website" o="add" type="way" v="http://www.maximilian-kolbe-schule.de/" />
+    <tag id="161278636" k="addr:housenumber" o="add" type="way" v="15" />
     <tag id="161278637" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="161278956" k="name" o="add" type="way" v="Dreifaltigkeitskirche" />
     <tag id="161278956" k="amenity" o="add" type="way" v="place_of_worship" />
     <tag id="161278956" k="building" o="add" type="way" v="yes" />
-    <tag id="161278956" k="denomination" o="add" type="way" v="roman_catholic" />
-    <tag id="161278956" k="name" o="add" type="way" v="Dreifaltigkeitskirche" />
     <tag id="161278956" k="religion" o="add" type="way" v="christian" />
+    <tag id="161278956" k="denomination" o="add" type="way" v="roman_catholic" />
     <tag id="161278957" k="building" o="add" type="way" v="yes" />
     <tag id="161278958" k="building" o="add" type="way" v="yes" />
     <tag id="161278959" k="building" o="add" type="way" v="yes" />
     <tag id="161278960" k="building" o="add" type="way" v="yes" />
     <tag id="161279328" k="building" o="add" type="way" v="yes" />
-    <tag id="161279330" k="building" o="add" type="way" v="yes" />
-    <tag id="161279331" k="building" o="add" type="way" v="yes" />
-    <tag id="161279332" k="access" o="add" type="way" v="yes" />
-    <tag id="161279332" k="amenity" o="add" type="way" v="parking" />
-    <tag id="161279332" k="area" o="add" type="way" v="yes" />
-    <tag id="161279332" k="fee" o="add" type="way" v="no" />
-    <tag id="161279332" k="parking" o="add" type="way" v="surface" />
-    <tag id="161279332" k="surface" o="add" type="way" v="paved" />
-    <tag id="276204933" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="736954566" k="amenity" o="none" type="node" v="kindergarten" />
-    <tag id="736954566" k="name" o="none" type="node" v="Kindergarten" />
-    <tag id="276204650" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="361491425" k="barrier" o="none" type="node" v="bollard" />
-    <tag id="279796397" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="514208444" k="name" o="modify" type="node" v="Wasgau" />
-    <tag id="514208444" k="shop" o="none" type="node" v="supermarket" />
-    <tag id="514208444" k="wheelchair" o="none" type="node" v="yes" />
-    <tag id="1371143237" k="highway" o="none" type="node" v="bus_stop" />
-    <tag id="1371143237" k="name" o="none" type="node" v="Wiebelskirchen Ohlenbachhalle" />
-    <tag id="1371143237" k="stop_id" o="none" type="node" v="30727" />
-    <tag id="1579744137" k="name" o="modify" type="node" v="LIDL" />
-    <tag id="1579744137" k="shop" o="none" type="node" v="supermarket" />
-    <tag id="514208400" k="name" o="modify" type="node" v="ALDI" />
-    <tag id="514208400" k="shop" o="none" type="node" v="supermarket" />
-    <tag id="514208400" k="wheelchair" o="none" type="node" v="yes" />
-    <tag id="161273659" k="amenity" o="add" type="way" v="school" />
-    <tag id="161273659" k="area" o="add" type="way" v="yes" />
-    <tag id="161273659" k="name" o="add" type="way" v="Freiherr-vom-Stein-Schule" />
-    <tag id="161273986" k="area" o="add" type="way" v="yes" />
-    <tag id="161273986" k="leisure" o="add" type="way" v="water_park" />
-    <tag id="161273986" k="name" o="add" type="way" v="Freibad Wiebelskirchen" />
-    <tag id="161273986" k="operator" o="add" type="way" v="Stadt Neunkirchen" />
-    <tag id="161273986" k="sport" o="add" type="way" v="swimming" />
-    <tag id="161273986" k="tourism" o="add" type="way" v="attraction" />
-    <tag id="161277859" k="addr:housenumber" o="add" type="way" v="1" />
-    <tag id="161277859" k="addr:street" o="add" type="way" v="Im Katzent&#252;mpel" />
-    <tag id="161277859" k="building" o="add" type="way" v="yes" />
-    <tag id="161277863" k="addr:housenumber" o="add" type="way" v="47" />
-    <tag id="161277863" k="addr:postcode" o="add" type="way" v="66540" />
-    <tag id="161277863" k="addr:street" o="add" type="way" v="Kuchenbergstra&#223;e" />
-    <tag id="161277863" k="amenity" o="add" type="way" v="school" />
-    <tag id="161277863" k="area" o="add" type="way" v="yes" />
-    <tag id="161277863" k="contact:email" o="add" type="way" v="grundschule-wiebelskirchen@web.de" />
-    <tag id="161277863" k="contact:fax" o="add" type="way" v="+49 (6821) 953475" />
-    <tag id="161277863" k="contact:phone" o="add" type="way" v="+49 (6821) 53691" />
-    <tag id="161277863" k="contact:website" o="add" type="way" v="http://www.grundschule-wiebelskirchen.de/" />
-    <tag id="161277863" k="name" o="add" type="way" v="Grundschule Friedrich von Schiller " />
-    <tag id="161278636" k="addr:housenumber" o="add" type="way" v="15" />
-    <tag id="161278636" k="addr:postcode" o="add" type="way" v="66540" />
-    <tag id="161278636" k="addr:street" o="add" type="way" v="Pr&#228;lat-Sch&#252;tz-Stra&#223;e" />
-    <tag id="161278636" k="amenity" o="add" type="way" v="school" />
-    <tag id="161278636" k="contact:email" o="add" type="way" v="maximilian-kolbe.schule@bistum-trier.de" />
-    <tag id="161278636" k="contact:fax" o="add" type="way" v="+49 (6821) 950444" />
-    <tag id="161278636" k="contact:phone" o="add" type="way" v="+49 (6821) 95040" />
-    <tag id="161278636" k="contact:website" o="add" type="way" v="http://www.maximilian-kolbe-schule.de/" />
-    <tag id="161278636" k="name" o="add" type="way" v="Maximilian-Kolbe-Schule" />
-    <tag id="161278636" k="operator" o="add" type="way" v="Bistum Trier" />
-    <tag id="161279329" k="addr:housenumber" o="add" type="way" v="1b" />
-    <tag id="161279329" k="addr:postcode" o="add" type="way" v="66540" />
-    <tag id="161279329" k="addr:street" o="add" type="way" v="Im Katzent&#252;mpel" />
+    <tag id="161279329" k="name" o="add" type="way" v="Annaheim Wiebelskirchen" />
     <tag id="161279329" k="amenity" o="add" type="way" v="social_facility" />
-    <tag id="161279329" k="contact:email" o="add" type="way" v="info@annaheim-wiebelskirchen.de" />
+    <tag id="161279329" k="operator" o="add" type="way" v="Alten- &amp; Pflegezentrum Annaheim Wiebelskirchen GmbH" />
+    <tag id="161279329" k="wheelchair" o="add" type="way" v="yes" />
+    <tag id="161279329" k="addr:street" o="add" type="way" v="Im Katzent&#252;mpel" />
     <tag id="161279329" k="contact:fax" o="add" type="way" v="+49 (6821) 90470-333" />
+    <tag id="161279329" k="addr:postcode" o="add" type="way" v="66540" />
+    <tag id="161279329" k="contact:email" o="add" type="way" v="info@annaheim-wiebelskirchen.de" />
     <tag id="161279329" k="contact:phone" o="add" type="way" v="+49 (6821) 90470-0" />
     <tag id="161279329" k="contact:website" o="add" type="way" v="http://www.annaheim-wiebelskirchen.de/" />
-    <tag id="161279329" k="name" o="add" type="way" v="Annaheim Wiebelskirchen" />
-    <tag id="161279329" k="operator" o="add" type="way" v="Alten- &amp; Pflegezentrum Annaheim Wiebelskirchen GmbH" />
     <tag id="161279329" k="social_facility" o="add" type="way" v="group_home" />
-    <tag id="161279329" k="wheelchair" o="add" type="way" v="yes" />
-    <tag id="25680715" k="leisure" o="modify" type="way" v="pitch" />
-    <tag id="25680715" k="name" o="none" type="way" v="Auf den R&#246;sen" />
-    <tag id="25307210" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="25307210" k="lanes" o="add" type="way" v="1" />
-    <tag id="25307210" k="lit" o="add" type="way" v="yes" />
-    <tag id="25307210" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="25307210" k="name" o="none" type="way" v="Im Stauch" />
-    <tag id="25307210" k="oneway" o="none" type="way" v="yes" />
-    <tag id="25307210" k="ref" o="none" type="way" v="L 286" />
-    <tag id="25307210" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25345644" k="highway" o="none" type="way" v="residential" />
-    <tag id="25345644" k="lanes" o="add" type="way" v="2" />
-    <tag id="25345644" k="name" o="none" type="way" v="Am Kallenberg" />
-    <tag id="25345644" k="noexit" o="add" type="way" v="yes" />
-    <tag id="25345644" k="oneway" o="add" type="way" v="no" />
-    <tag id="25345644" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="34835832" k="highway" o="none" type="way" v="residential" />
-    <tag id="34835832" k="lanes" o="add" type="way" v="2" />
-    <tag id="34835832" k="name" o="none" type="way" v="Julius-Schwarz-Stra&#223;e" />
-    <tag id="34835832" k="oneway" o="add" type="way" v="no" />
-    <tag id="34835832" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25672178" k="highway" o="none" type="way" v="residential" />
-    <tag id="25672178" k="lanes" o="add" type="way" v="2" />
-    <tag id="25672178" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="25672178" k="name" o="none" type="way" v="R&#246;merstra&#223;e" />
-    <tag id="25672178" k="oneway" o="add" type="way" v="no" />
-    <tag id="25672178" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25345671" k="highway" o="none" type="way" v="residential" />
-    <tag id="25345671" k="lanes" o="add" type="way" v="2" />
-    <tag id="25345671" k="name" o="none" type="way" v="Julius-Schwarz-Stra&#223;e" />
-    <tag id="25345671" k="oneway" o="add" type="way" v="no" />
-    <tag id="25345671" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25440981" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="25440981" k="name" o="none" type="way" v="Keplerstra&#223;e" />
-    <tag id="25440981" k="ref" o="none" type="way" v="L 286" />
-    <tag id="25368153" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="25368153" k="lanes" o="add" type="way" v="2" />
-    <tag id="25368153" k="lit" o="add" type="way" v="yes" />
-    <tag id="25368153" k="name" o="modify" type="way" v="Landsweiler Stra&#223;e" />
-    <tag id="25368153" k="oneway" o="add" type="way" v="no" />
-    <tag id="25368153" k="ref" o="none" type="way" v="L 286" />
-    <tag id="25368153" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="27746140" k="is_in:country" o="add" type="way" v="Germany" />
-    <tag id="27746140" k="is_in:district" o="add" type="way" v="Landkreis Neunkirchen" />
-    <tag id="27746140" k="is_in:region" o="add" type="way" v="Saarland" />
-    <tag id="27746140" k="landuse" o="none" type="way" v="residential" />
-    <tag id="27746140" k="place" o="add" type="way" v="suburb" />
-    <tag id="27746140" k="place_name" o="add" type="way" v="Wiebelskirchen" />
-    <tag id="25345633" k="highway" o="none" type="way" v="residential" />
-    <tag id="25345633" k="lanes" o="add" type="way" v="2" />
-    <tag id="25345633" k="lit" o="add" type="way" v="yes" />
-    <tag id="25345633" k="name" o="none" type="way" v="Kallenbergstra&#223;e" />
-    <tag id="25345633" k="oneway" o="add" type="way" v="no" />
-    <tag id="25345633" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="32235759" k="highway" o="none" type="way" v="footway" />
-    <tag id="25345595" k="highway" o="modify" type="way" v="service" />
-    <tag id="25345595" k="servide" o="add" type="way" v="driveway" />
-    <tag id="25345595" k="surface" o="add" type="way" v="paved" />
-    <tag id="56198062" k="landuse" o="none" type="way" v="cemetery" />
-    <tag id="56198062" k="name" o="add" type="way" v="Friedhof Wiebelskirchen" />
-    <tag id="25422381" k="highway" o="none" type="way" v="residential" />
-    <tag id="25422381" k="name" o="none" type="way" v="Tr&#228;nkenweg" />
-    <tag id="25422381" k="noexit" o="add" type="way" v="yes" />
-    <tag id="25660070" k="leisure" o="add" type="way" v="swimming_pool" />
-    <tag id="25660070" k="sport" o="none" type="way" v="swimming" />
-    <tag id="25345409" k="highway" o="none" type="way" v="residential" />
-    <tag id="25345409" k="name" o="none" type="way" v="Reiherweg" />
-    <tag id="25345409" k="noexit" o="add" type="way" v="yes" />
-    <tag id="25345423" k="highway" o="none" type="way" v="residential" />
-    <tag id="25345423" k="name" o="none" type="way" v="Bussardweg" />
-    <tag id="25345423" k="noexit" o="add" type="way" v="yes" />
-    <tag id="135160260" k="name" o="none" type="way" v="Blies" />
-    <tag id="135160260" k="waterway" o="none" type="way" v="river" />
-    <tag id="140139797" k="cycleway" o="none" type="way" v="track" />
-    <tag id="140139797" k="highway" o="none" type="way" v="secondary" />
-    <tag id="140139797" k="name" o="none" type="way" v="Ottweilerstra&#223;e" />
-    <tag id="140139797" k="ref" o="none" type="way" v="L 124" />
-    <tag id="58993747" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="58993747" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="58993747" k="foot" o="none" type="way" v="yes" />
-    <tag id="58993747" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="58993747" k="lit" o="add" type="way" v="yes" />
-    <tag id="58993747" k="maxspeed" o="none" type="way" v="70" />
-    <tag id="58993747" k="name" o="modify" type="way" v="Schiffweiler Stra&#223;e" />
-    <tag id="58993747" k="ref" o="none" type="way" v="L 286" />
-    <tag id="58993747" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25308190" k="highway" o="none" type="way" v="residential" />
-    <tag id="25308190" k="name" o="none" type="way" v="Tr&#228;nkenweg" />
-    <tag id="25308276" k="highway" o="none" type="way" v="residential" />
-    <tag id="25308276" k="name" o="none" type="way" v="August-Bebel-Stra&#223;e" />
-    <tag id="25308276" k="noexit" o="add" type="way" v="yes" />
-    <tag id="25308276" k="oneway" o="add" type="way" v="no" />
-    <tag id="25368735" k="highway" o="none" type="way" v="residential" />
-    <tag id="25368735" k="lanes" o="add" type="way" v="2" />
-    <tag id="25368735" k="lit" o="add" type="way" v="yes" />
-    <tag id="25368735" k="name" o="modify" type="way" v="Ostpreu&#223;enweg" />
-    <tag id="25368735" k="oneway" o="add" type="way" v="no" />
-    <tag id="25368735" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25368737" k="highway" o="none" type="way" v="residential" />
-    <tag id="25368737" k="lanes" o="add" type="way" v="2" />
-    <tag id="25368737" k="lit" o="add" type="way" v="yes" />
-    <tag id="25368737" k="name" o="modify" type="way" v="Ostpreu&#223;enweg" />
-    <tag id="25368737" k="oneway" o="add" type="way" v="no" />
-    <tag id="25368737" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25368727" k="highway" o="none" type="way" v="residential" />
-    <tag id="25368727" k="lanes" o="add" type="way" v="2" />
-    <tag id="25368727" k="lit" o="add" type="way" v="yes" />
-    <tag id="25368727" k="name" o="modify" type="way" v="Ostpreu&#223;enweg" />
-    <tag id="25368727" k="oneway" o="add" type="way" v="no" />
-    <tag id="25368727" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25368761" k="highway" o="none" type="way" v="residential" />
-    <tag id="25368761" k="name" o="none" type="way" v="Brandenburger Weg" />
-    <tag id="25345593" k="highway" o="none" type="way" v="residential" />
-    <tag id="25345593" k="lanes" o="add" type="way" v="2" />
-    <tag id="25345593" k="lit" o="add" type="way" v="yes" />
-    <tag id="25345593" k="name" o="none" type="way" v="Freiherr-vom-Stein-Stra&#223;e" />
-    <tag id="25345593" k="noexit" o="add" type="way" v="no" />
-    <tag id="25345593" k="oneway" o="add" type="way" v="no" />
-    <tag id="25345593" k="surface" o="add" type="way" v="paved" />
-    <tag id="25308266" k="highway" o="none" type="way" v="residential" />
-    <tag id="25308266" k="lit" o="add" type="way" v="yes" />
-    <tag id="25308266" k="name" o="none" type="way" v="Im Katzent&#252;mpel" />
-    <tag id="25308266" k="oneway" o="add" type="way" v="no" />
-    <tag id="25308266" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25659499" k="access" o="none" type="way" v="no" />
-    <tag id="25659499" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="25659499" k="foot" o="none" type="way" v="yes" />
-    <tag id="25659499" k="highway" o="none" type="way" v="service" />
-    <tag id="25659499" k="motorcar" o="none" type="way" v="no" />
-    <tag id="54050084" k="landuse" o="none" type="way" v="commercial" />
-    <tag id="54050084" k="name" o="none" type="way" v="Gewerbepark Kohlwald" />
-    <tag id="54050085" k="landuse" o="none" type="way" v="residential" />
-    <tag id="25659490" k="foot" o="none" type="way" v="yes" />
-    <tag id="25659490" k="highway" o="none" type="way" v="residential" />
-    <tag id="25659490" k="lanes" o="add" type="way" v="2" />
-    <tag id="25659490" k="name" o="modify" type="way" v="Landsweiler Stra&#223;e" />
-    <tag id="25659490" k="oneway" o="add" type="way" v="no" />
-    <tag id="25659490" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25683864" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="25683864" k="name" o="modify" type="way" v="Schiffweiler Stra&#223;e" />
-    <tag id="25683864" k="ref" o="none" type="way" v="L 286" />
-    <tag id="25680863" k="highway" o="none" type="way" v="secondary" />
-    <tag id="25680863" k="lanes" o="add" type="way" v="2" />
-    <tag id="25680863" k="lit" o="add" type="way" v="yes" />
-    <tag id="25680863" k="name" o="none" type="way" v="Kuchenbergstra&#223;e" />
-    <tag id="25680863" k="oneway" o="add" type="way" v="no" />
-    <tag id="25680863" k="ref" o="none" type="way" v="L 124" />
-    <tag id="25680863" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="144433583" k="building" o="add" type="way" v="yes" />
-    <tag id="144433583" k="building:use" o="add" type="way" v="school" />
-    <tag id="25672194" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="25672194" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="25672194" k="foot" o="none" type="way" v="yes" />
-    <tag id="25672194" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="25672194" k="maxspeed" o="none" type="way" v="70" />
-    <tag id="25672194" k="name" o="modify" type="way" v="Schiffweiler Stra&#223;e" />
-    <tag id="25672194" k="ref" o="none" type="way" v="L 286" />
-    <tag id="25369325" k="highway" o="none" type="way" v="residential" />
-    <tag id="25369325" k="name" o="modify" type="way" v="Landsweiler Stra&#223;e" />
-    <tag id="32795494" k="leisure" o="none" type="way" v="park" />
-    <tag id="119158204" k="landuse" o="none" type="way" v="commercial" />
-    <tag id="144433490" k="building" o="add" type="way" v="yes" />
-    <tag id="144433490" k="name" o="none" type="way" v="Lidl" />
-    <tag id="144433490" k="shop" o="none" type="way" v="supermarket" />
-    <tag id="25440387" k="highway" o="none" type="way" v="residential" />
-    <tag id="25440387" k="lanes" o="add" type="way" v="2" />
-    <tag id="25440387" k="lit" o="add" type="way" v="yes" />
-    <tag id="25440387" k="name" o="none" type="way" v="Am Friedhof" />
-    <tag id="25440387" k="noexit" o="add" type="way" v="yes" />
-    <tag id="25440387" k="oneway" o="add" type="way" v="no" />
+    <tag id="161279329" k="addr:housenumber" o="add" type="way" v="1b" />
+    <tag id="161279330" k="building" o="add" type="way" v="yes" />
+    <tag id="161279331" k="building" o="add" type="way" v="yes" />
+    <tag id="161279332" k="fee" o="add" type="way" v="no" />
+    <tag id="161279332" k="area" o="add" type="way" v="yes" />
+    <tag id="161279332" k="access" o="add" type="way" v="yes" />
+    <tag id="161279332" k="amenity" o="add" type="way" v="parking" />
+    <tag id="161279332" k="parking" o="add" type="way" v="surface" />
+    <tag id="161279332" k="surface" o="add" type="way" v="paved" />
   </body>
 </changeset>

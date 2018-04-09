@@ -1,1 +1,34 @@
-<changeset id="56076615" schema="1"><counts nodesAdded="2" nodesModified="5" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="4" /><meta><tag k="changesets_count" v="231" /><tag k="comment" v="Connected the segments https://www.openstreetmap.org/way/33400112, https://www.openstreetmap.org/way/24799754 to https://www.openstreetmap.org/way/405165521" /><tag k="created_by" v="iD 2.4.1" /><tag k="imagery_used" v="Mapbox Satellite" /><tag k="locale" v="en-US" /></meta><body><tag id="558711112" k="highway" o="add" type="way" v="motorway_link" /><tag id="558711112" k="oneway" o="add" type="way" v="yes" /></body></changeset>
+<changeset id="56076615" schema="2">
+  <counts nodesAdded="2" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="4" />
+  <meta>
+    <tag k="changesets_count" v="231" />
+    <tag k="comment" v="Connected the segments https://www.openstreetmap.org/way/33400112, https://www.openstreetmap.org/way/24799754 to https://www.openstreetmap.org/way/405165521" />
+    <tag k="created_by" v="iD 2.4.1" />
+    <tag k="imagery_used" v="Mapbox Satellite" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="24799754" k="lanes" o="none" type="way" v="1" />
+    <tag id="24799754" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24799754" k="bicycle" o="none" type="way" v="no" />
+    <tag id="24799754" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="24799754" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="24799754" k="turn:lanes" o="none" type="way" v="through" />
+    <tag id="24799754" k="destination" o="none" type="way" v="Hill Street;Chinatown;Civic Center" />
+    <tag id="33400112" k="name" o="none" type="way" v="North Hill Street" />
+    <tag id="33400112" k="lanes" o="none" type="way" v="2" />
+    <tag id="33400112" k="oneway" o="none" type="way" v="yes" />
+    <tag id="33400112" k="highway" o="none" type="way" v="secondary" />
+    <tag id="33400112" k="turn:lanes" o="none" type="way" v="|merge_to_left" />
+    <tag id="54148212" k="highway" o="none" type="way" v="footway" />
+    <tag id="405165521" k="name" o="none" type="way" v="North Hill Street" />
+    <tag id="405165521" k="lanes" o="none" type="way" v="4" />
+    <tag id="405165521" k="highway" o="none" type="way" v="secondary" />
+    <tag id="405165521" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="405165521" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="405165521" k="turn:lanes:forward" o="none" type="way" v="|" />
+    <tag id="405165521" k="turn:lanes:backward" o="none" type="way" v="|merge_to_left" />
+    <tag id="558711112" k="oneway" o="add" type="way" v="yes" />
+    <tag id="558711112" k="highway" o="add" type="way" v="motorway_link" />
+  </body>
+</changeset>

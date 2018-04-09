@@ -1,1 +1,32 @@
-<changeset id="55739929" schema="1"><counts nodesAdded="1" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="changesets_count" v="239" /><tag k="comment" v="suppression doublon ajout adresse" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="fr" /></meta><body><tag id="5360930594" k="addr:city" o="add" type="node" v="Paris" /><tag id="5360930594" k="addr:housenumber" o="add" type="node" v="7" /><tag id="5360930594" k="addr:postcode" o="add" type="node" v="75005" /><tag id="5360930594" k="addr:street" o="add" type="node" v="Rue Royer-Collard" /><tag id="3170317826" k="addr:city" o="add" type="node" v="Paris" /><tag id="3170317826" k="addr:housenumber" o="add" type="node" v="7" /><tag id="3170317826" k="addr:postcode" o="add" type="node" v="75005" /><tag id="3170317826" k="addr:street" o="add" type="node" v="Rue Royer-Collard" /></body></changeset>
+<changeset id="55739929" schema="2">
+  <counts nodesAdded="1" nodesDeleted="1" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="239" />
+    <tag k="comment" v="suppression doublon ajout adresse" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="fr" />
+  </meta>
+  <body>
+    <tag id="3170317826" k="name" o="none" type="node" v="Le Pantalon" />
+    <tag id="3170317826" k="amenity" o="none" type="node" v="bar" />
+    <tag id="3170317826" k="brewery" o="none" type="node" v="Guinness;Delirium Tremens;Chouffe;Tripel Karmeliet" />
+    <tag id="3170317826" k="addr:city" o="add" type="node" v="Paris" />
+    <tag id="3170317826" k="addr:street" o="add" type="node" v="Rue Royer-Collard" />
+    <tag id="3170317826" k="happy_hours" o="none" type="node" v="Mo-Su 17:30-19:30" />
+    <tag id="3170317826" k="contact:city" o="none" type="node" v="Paris" />
+    <tag id="3170317826" k="addr:postcode" o="add" type="node" v="75005" />
+    <tag id="3170317826" k="opening_hours" o="none" type="node" v="Mo-Su 17:30-02:00" />
+    <tag id="3170317826" k="contact:street" o="none" type="node" v="Rue Royer-Collard" />
+    <tag id="3170317826" k="addr:housenumber" o="add" type="node" v="7" />
+    <tag id="3170317826" k="contact:postcode" o="none" type="node" v="75005" />
+    <tag id="3170317826" k="contact:housenumber" o="none" type="node" v="7" />
+    <tag id="5360930594" k="addr:city" o="add" type="node" v="Paris" />
+    <tag id="5360930594" k="addr:street" o="add" type="node" v="Rue Royer-Collard" />
+    <tag id="5360930594" k="addr:postcode" o="add" type="node" v="75005" />
+    <tag id="5360930594" k="addr:housenumber" o="add" type="node" v="7" />
+    <tag id="58734885" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2010" />
+    <tag id="58734885" k="building" o="none" type="way" v="yes" />
+  </body>
+</changeset>

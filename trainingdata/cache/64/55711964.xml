@@ -1,1 +1,20 @@
-<changeset id="55711964" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="changesets_count" v="7" /><tag k="comment" v="Updated max speed, added extra 'height:physical' tag because of physical height restriction over the road." /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="PDOK Luchtfoto Beeldmateriaal 25cm" /><tag k="locale" v="nl" /></meta><body><tag id="6390698" k="maxheight:physical" o="add" type="way" v="3" /><tag id="6390698" k="maxspeed" o="modify" type="way" v="30" /></body></changeset>
+<changeset id="55711964" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="7" />
+    <tag k="comment" v="Updated max speed, added extra 'height:physical' tag because of physical height restriction over the road." />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="PDOK Luchtfoto Beeldmateriaal 25cm" />
+    <tag k="locale" v="nl" />
+  </meta>
+  <body>
+    <tag id="6390698" k="name" o="none" type="way" v="Oosterweg" />
+    <tag id="6390698" k="lanes" o="none" type="way" v="1" />
+    <tag id="6390698" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="6390698" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="6390698" k="maxspeed" o="modify" type="way" v="30" />
+    <tag id="6390698" k="maxheight" o="none" type="way" v="3" />
+    <tag id="6390698" k="maxheight:physical" o="add" type="way" v="3" />
+  </body>
+</changeset>

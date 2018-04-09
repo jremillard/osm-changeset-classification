@@ -1,1 +1,20 @@
-<changeset id="52335071" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="osmose: fix dupe nodes" /><tag k="created_by" v="JOSM/1.5 (12712 en)" /><tag k="source" v="Bing" /></meta><body><tag id="4943424415" k="addr:city" o="add" type="node" v="Los Angeles" /><tag id="4943424415" k="addr:postcode" o="add" type="node" v="90021" /><tag id="4943424415" k="addr:state" o="add" type="node" v="CA" /><tag id="4943424415" k="description" o="add" type="node" v="&quot;Agency specializes in the garment industry. We know how important label and garment packing are to clothing brands - without the right label, an item cannot be sold. We know retailers depend on labels arriving on time, every time, at the right price. And" /><tag id="4943424415" k="email" o="add" type="node" v="info@agencypacking.com" /><tag id="4943424415" k="phone" o="add" type="node" v="213-628-3419" /><tag id="4943424415" k="website" o="add" type="node" v="http://agencypacking.com" /></body></changeset>
+<changeset id="52335071" schema="2">
+  <counts nodesAdded="0" nodesDeleted="1" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="osmose: fix dupe nodes" />
+    <tag k="created_by" v="JOSM/1.5 (12712 en)" />
+    <tag k="source" v="Bing" />
+  </meta>
+  <body>
+    <tag id="4943424415" k="name" o="none" type="node" v="Agency Garment Packing" />
+    <tag id="4943424415" k="email" o="add" type="node" v="info@agencypacking.com" />
+    <tag id="4943424415" k="phone" o="add" type="node" v="213-628-3419" />
+    <tag id="4943424415" k="website" o="add" type="node" v="http://agencypacking.com" />
+    <tag id="4943424415" k="addr:city" o="add" type="node" v="Los Angeles" />
+    <tag id="4943424415" k="addr:state" o="add" type="node" v="CA" />
+    <tag id="4943424415" k="addr:street" o="none" type="node" v="Stanford Avenue" />
+    <tag id="4943424415" k="description" o="add" type="node" v="&quot;Agency specializes in the garment industry. We know how important label and garment packing are to clothing brands - without the right label, an item cannot be sold. We know retailers depend on labels arriving on time, every time, at the right price. And" />
+    <tag id="4943424415" k="addr:postcode" o="add" type="node" v="90021" />
+    <tag id="4943424415" k="addr:housenumber" o="none" type="node" v="1036" />
+  </body>
+</changeset>

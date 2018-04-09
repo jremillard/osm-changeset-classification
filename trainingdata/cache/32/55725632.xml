@@ -1,1 +1,168 @@
-<changeset id="55725632" schema="1"><counts nodesAdded="7" nodesModified="7" relationsAdded="3" relationsModified="1" waysAdded="0" waysModified="3" /><meta><tag k="comment" v="Add bus_stops to relation 2" /><tag k="created_by" v="JOSM/1.5 (13265 en_GB)" /></meta><body><tag id="5359854785" k="bus" o="add" type="node" v="yes" /><tag id="5359854785" k="name" o="add" type="node" v="George Street (Stand E)" /><tag id="5359854785" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854785" k="public_transport:version" o="add" type="node" v="2" /><tag id="5359854786" k="bus" o="add" type="node" v="yes" /><tag id="5359854786" k="name" o="add" type="node" v="George Street (Stand D)" /><tag id="5359854786" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854786" k="public_transport:version" o="add" type="node" v="2" /><tag id="5359854787" k="bus" o="add" type="node" v="yes" /><tag id="5359854787" k="name" o="add" type="node" v="Common Garden Street (Stop A)" /><tag id="5359854787" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854787" k="public_transport:version" o="add" type="node" v="2" /><tag id="5359854788" k="bus" o="add" type="node" v="yes" /><tag id="5359854788" k="name" o="add" type="node" v="Common Garden Street (Stop B)" /><tag id="5359854788" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854788" k="public_transport:version" o="add" type="node" v="2" /><tag id="5359854789" k="bus" o="add" type="node" v="yes" /><tag id="5359854789" k="name" o="add" type="node" v="Common Garden Street (Stop C)" /><tag id="5359854789" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854789" k="public_transport:version" o="add" type="node" v="2" /><tag id="5359854790" k="bus" o="add" type="node" v="yes" /><tag id="5359854790" k="name" o="add" type="node" v="Infirmary" /><tag id="5359854790" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854790" k="public_transport:version" o="add" type="node" v="2" /><tag id="5359854791" k="bus" o="add" type="node" v="yes" /><tag id="5359854791" k="name" o="add" type="node" v="Infirmary" /><tag id="5359854791" k="public_transport" o="add" type="node" v="stop_position" /><tag id="5359854791" k="public_transport:version" o="add" type="node" v="2" /><tag id="7931834" k="name" o="add" type="relation" v="George Street" /><tag id="7931834" k="public_transport" o="add" type="relation" v="stop_area" /><tag id="7931834" k="public_transport:version" o="add" type="relation" v="2" /><tag id="7931834" k="type" o="add" type="relation" v="public_transport" /><tag id="7931835" k="name" o="add" type="relation" v="Common Garden Street" /><tag id="7931835" k="public_transport" o="add" type="relation" v="stop_area" /><tag id="7931835" k="public_transport:version" o="add" type="relation" v="2" /><tag id="7931835" k="type" o="add" type="relation" v="public_transport" /><tag id="7931836" k="name" o="add" type="relation" v="Infirmary" /><tag id="7931836" k="public_transport" o="add" type="relation" v="stop_area" /><tag id="7931836" k="public_transport:version" o="add" type="relation" v="2" /><tag id="7931836" k="type" o="add" type="relation" v="public_transport" /><tag id="2080447349" k="public_transport" o="add" type="node" v="platform" /><tag id="2080447349" k="public_transport:version" o="add" type="node" v="2" /><tag id="2080447351" k="public_transport" o="add" type="node" v="platform" /><tag id="2080447351" k="public_transport:version" o="add" type="node" v="2" /><tag id="1109969090" k="public_transport" o="add" type="node" v="platform" /><tag id="1109969090" k="public_transport:version" o="add" type="node" v="2" /><tag id="5139517094" k="public_transport" o="add" type="node" v="platform" /><tag id="5139517094" k="public_transport:version" o="add" type="node" v="2" /><tag id="2080447352" k="public_transport" o="add" type="node" v="platform" /><tag id="2080447352" k="public_transport:version" o="add" type="node" v="2" /><tag id="2080447353" k="public_transport" o="add" type="node" v="platform" /><tag id="2080447353" k="public_transport:version" o="add" type="node" v="2" /><tag id="3930574638" k="public_transport" o="add" type="node" v="platform" /><tag id="3930574638" k="public_transport:version" o="add" type="node" v="2" /></body></changeset>
+<changeset id="55725632" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="7" relationsAdded="3" relationsDeleted="0" relationsModified="1" waysAdded="0" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="comment" v="Add bus_stops to relation 2" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en_GB)" />
+  </meta>
+  <body>
+    <tag id="1109969090" k="ref" o="none" type="node" v="lanatpjm" />
+    <tag id="1109969090" k="name" o="none" type="node" v="Infirmary" />
+    <tag id="1109969090" k="bench" o="none" type="node" v="yes" />
+    <tag id="1109969090" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1109969090" k="shelter" o="none" type="node" v="yes" />
+    <tag id="1109969090" k="naptan:Street" o="none" type="node" v="South Road" />
+    <tag id="1109969090" k="naptan:Bearing" o="none" type="node" v="SE" />
+    <tag id="1109969090" k="naptan:AtcoCode" o="none" type="node" v="250020112" />
+    <tag id="1109969090" k="naptan:Indicator" o="none" type="node" v="opp" />
+    <tag id="1109969090" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="1109969090" k="naptan:CommonName" o="none" type="node" v="Infirmary" />
+    <tag id="1109969090" k="naptan:NaptanCode" o="none" type="node" v="lanatpjm" />
+    <tag id="1109969090" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="1109969090" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="2080447349" k="ref" o="none" type="node" v="lanatpdp" />
+    <tag id="2080447349" k="name" o="none" type="node" v="Common Garden Street (Stop C)" />
+    <tag id="2080447349" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="2080447349" k="naptan:Street" o="none" type="node" v="Common Garden Street" />
+    <tag id="2080447349" k="naptan:Bearing" o="none" type="node" v="E" />
+    <tag id="2080447349" k="naptan:AtcoCode" o="none" type="node" v="250020094" />
+    <tag id="2080447349" k="naptan:Indicator" o="none" type="node" v="Stop C" />
+    <tag id="2080447349" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2080447349" k="naptan:CommonName" o="none" type="node" v="Common Garden Street" />
+    <tag id="2080447349" k="naptan:NaptanCode" o="none" type="node" v="lanatpdp" />
+    <tag id="2080447349" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="2080447349" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="2080447351" k="ref" o="none" type="node" v="landagdp" />
+    <tag id="2080447351" k="name" o="none" type="node" v="Common Garden Street (Stop B)" />
+    <tag id="2080447351" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="2080447351" k="naptan:Street" o="none" type="node" v="Common Garden Street" />
+    <tag id="2080447351" k="naptan:Bearing" o="none" type="node" v="E" />
+    <tag id="2080447351" k="naptan:AtcoCode" o="none" type="node" v="2500877" />
+    <tag id="2080447351" k="naptan:Indicator" o="none" type="node" v="Stop B" />
+    <tag id="2080447351" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2080447351" k="naptan:CommonName" o="none" type="node" v="Common Garden Street" />
+    <tag id="2080447351" k="naptan:NaptanCode" o="none" type="node" v="landagdp" />
+    <tag id="2080447351" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="2080447351" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="2080447352" k="ref" o="none" type="node" v="lanatpdt" />
+    <tag id="2080447352" k="name" o="none" type="node" v="George Street (Stand E)" />
+    <tag id="2080447352" k="bench" o="none" type="node" v="yes" />
+    <tag id="2080447352" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="2080447352" k="shelter" o="none" type="node" v="yes" />
+    <tag id="2080447352" k="naptan:Street" o="none" type="node" v="George Street" />
+    <tag id="2080447352" k="naptan:Bearing" o="none" type="node" v="W" />
+    <tag id="2080447352" k="naptan:AtcoCode" o="none" type="node" v="250020095" />
+    <tag id="2080447352" k="naptan:Indicator" o="none" type="node" v="Stand E" />
+    <tag id="2080447352" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2080447352" k="naptan:CommonName" o="none" type="node" v="George Street" />
+    <tag id="2080447352" k="naptan:NaptanCode" o="none" type="node" v="lanatpdt" />
+    <tag id="2080447352" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="2080447352" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="2080447353" k="ref" o="none" type="node" v="landagpw" />
+    <tag id="2080447353" k="name" o="none" type="node" v="Infirmary" />
+    <tag id="2080447353" k="bench" o="none" type="node" v="yes" />
+    <tag id="2080447353" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="2080447353" k="shelter" o="none" type="node" v="yes" />
+    <tag id="2080447353" k="naptan:Street" o="none" type="node" v="Ashton Road" />
+    <tag id="2080447353" k="naptan:Bearing" o="none" type="node" v="S" />
+    <tag id="2080447353" k="naptan:AtcoCode" o="none" type="node" v="2500902" />
+    <tag id="2080447353" k="naptan:Landmark" o="none" type="node" v="Royal Lancaster Infirmary" />
+    <tag id="2080447353" k="naptan:verified" o="none" type="node" v="yes" />
+    <tag id="2080447353" k="naptan:Indicator" o="none" type="node" v="o/s" />
+    <tag id="2080447353" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="2080447353" k="naptan:CommonName" o="none" type="node" v="Infirmary" />
+    <tag id="2080447353" k="naptan:NaptanCode" o="none" type="node" v="landagpw" />
+    <tag id="2080447353" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="2080447353" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="3930574638" k="ref" o="none" type="node" v="landagjg" />
+    <tag id="3930574638" k="name" o="none" type="node" v="George Street (Stand D)" />
+    <tag id="3930574638" k="bench" o="none" type="node" v="yes" />
+    <tag id="3930574638" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="3930574638" k="shelter" o="none" type="node" v="yes" />
+    <tag id="3930574638" k="naptan:Street" o="none" type="node" v="George Street" />
+    <tag id="3930574638" k="naptan:Bearing" o="none" type="node" v="W" />
+    <tag id="3930574638" k="naptan:AtcoCode" o="none" type="node" v="2500883" />
+    <tag id="3930574638" k="naptan:Indicator" o="none" type="node" v="Stand D" />
+    <tag id="3930574638" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="3930574638" k="naptan:CommonName" o="none" type="node" v="George Street" />
+    <tag id="3930574638" k="naptan:NaptanCode" o="none" type="node" v="landagjg" />
+    <tag id="3930574638" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="3930574638" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5139517094" k="ref" o="none" type="node" v="lanatpdm" />
+    <tag id="5139517094" k="name" o="none" type="node" v="Common Garden Street (Stop A)" />
+    <tag id="5139517094" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="5139517094" k="naptan:Street" o="none" type="node" v="Common Garden Street" />
+    <tag id="5139517094" k="naptan:Bearing" o="none" type="node" v="E" />
+    <tag id="5139517094" k="naptan:AtcoCode" o="none" type="node" v="250020093" />
+    <tag id="5139517094" k="naptan:Indicator" o="none" type="node" v="Stop A" />
+    <tag id="5139517094" k="public_transport" o="add" type="node" v="platform" />
+    <tag id="5139517094" k="naptan:CommonName" o="none" type="node" v="Common Garden Street" />
+    <tag id="5139517094" k="naptan:NaptanCode" o="none" type="node" v="lanatpdm" />
+    <tag id="5139517094" k="naptan:LocalityCode" o="none" type="node" v="N0078718" />
+    <tag id="5139517094" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854785" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854785" k="name" o="add" type="node" v="George Street (Stand E)" />
+    <tag id="5359854785" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854785" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854786" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854786" k="name" o="add" type="node" v="George Street (Stand D)" />
+    <tag id="5359854786" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854786" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854787" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854787" k="name" o="add" type="node" v="Common Garden Street (Stop A)" />
+    <tag id="5359854787" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854787" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854788" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854788" k="name" o="add" type="node" v="Common Garden Street (Stop B)" />
+    <tag id="5359854788" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854788" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854789" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854789" k="name" o="add" type="node" v="Common Garden Street (Stop C)" />
+    <tag id="5359854789" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854789" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854790" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854790" k="name" o="add" type="node" v="Infirmary" />
+    <tag id="5359854790" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854790" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="5359854791" k="bus" o="add" type="node" v="yes" />
+    <tag id="5359854791" k="name" o="add" type="node" v="Infirmary" />
+    <tag id="5359854791" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5359854791" k="public_transport:version" o="add" type="node" v="2" />
+    <tag id="4433780" k="lcn" o="none" type="way" v="yes" />
+    <tag id="4433780" k="name" o="none" type="way" v="Common Garden Street" />
+    <tag id="4433780" k="lanes" o="none" type="way" v="1" />
+    <tag id="4433780" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4433780" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="4433780" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="4433781" k="lcn" o="none" type="way" v="yes" />
+    <tag id="4433781" k="name" o="none" type="way" v="George Street" />
+    <tag id="4433781" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4433781" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="4433781" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="4433903" k="ref" o="none" type="way" v="A6" />
+    <tag id="4433903" k="name" o="none" type="way" v="South Road" />
+    <tag id="4433903" k="source" o="none" type="way" v="survey" />
+    <tag id="4433903" k="highway" o="none" type="way" v="primary" />
+    <tag id="4433903" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="4433903" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="4433903" k="source:maxspeed" o="none" type="way" v="survey" />
+    <tag id="7931744" k="to" o="none" type="relation" v="Lancaster University" />
+    <tag id="7931744" k="ref" o="none" type="relation" v="2" />
+    <tag id="7931744" k="from" o="none" type="relation" v="Heysham" />
+    <tag id="7931744" k="type" o="none" type="relation" v="route" />
+    <tag id="7931744" k="route" o="none" type="relation" v="bus" />
+    <tag id="7931744" k="network" o="none" type="relation" v="Stagecoach in Lancashire" />
+    <tag id="7931744" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7931834" k="name" o="add" type="relation" v="George Street" />
+    <tag id="7931834" k="type" o="add" type="relation" v="public_transport" />
+    <tag id="7931834" k="public_transport" o="add" type="relation" v="stop_area" />
+    <tag id="7931834" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="7931835" k="name" o="add" type="relation" v="Common Garden Street" />
+    <tag id="7931835" k="type" o="add" type="relation" v="public_transport" />
+    <tag id="7931835" k="public_transport" o="add" type="relation" v="stop_area" />
+    <tag id="7931835" k="public_transport:version" o="add" type="relation" v="2" />
+    <tag id="7931836" k="name" o="add" type="relation" v="Infirmary" />
+    <tag id="7931836" k="type" o="add" type="relation" v="public_transport" />
+    <tag id="7931836" k="public_transport" o="add" type="relation" v="stop_area" />
+    <tag id="7931836" k="public_transport:version" o="add" type="relation" v="2" />
+  </body>
+</changeset>

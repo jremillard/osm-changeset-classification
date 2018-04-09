@@ -1,1 +1,28 @@
-<changeset id="55908786" schema="1"><counts nodesAdded="11" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="0" /><meta><tag k="comment" v="BAG update" /><tag k="created_by" v="JOSM/1.5 (13265 en_GB)" /><tag k="source" v="BAG" /></meta><body><tag id="5373515313" k="addr:city" o="add" type="node" v="'t Veld" /><tag id="5373515313" k="addr:housenumber" o="add" type="node" v="8" /><tag id="5373515313" k="addr:postcode" o="add" type="node" v="1735GL" /><tag id="5373515313" k="addr:street" o="add" type="node" v="Zwarteweg" /><tag id="5373515313" k="source" o="add" type="node" v="BAG" /><tag id="5373515313" k="source:date" o="add" type="node" v="2018-01-30" /><tag id="557130428" k="building" o="add" type="way" v="construction" /><tag id="557130428" k="construction" o="add" type="way" v="yes" /><tag id="557130428" k="ref:bag" o="add" type="way" v="1911100000586829" /><tag id="557130428" k="source" o="add" type="way" v="BAG" /><tag id="557130428" k="source:date" o="add" type="way" v="2018-01-30" /><tag id="557130428" k="start_date" o="add" type="way" v="2017" /><tag id="557130429" k="building" o="add" type="way" v="construction" /><tag id="557130429" k="construction" o="add" type="way" v="house" /><tag id="557130429" k="ref:bag" o="add" type="way" v="1911100000586828" /><tag id="557130429" k="source" o="add" type="way" v="BAG" /><tag id="557130429" k="source:date" o="add" type="way" v="2018-01-30" /><tag id="557130429" k="start_date" o="add" type="way" v="2017" /></body></changeset>
+<changeset id="55908786" schema="2">
+  <counts nodesAdded="11" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="BAG update" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en_GB)" />
+    <tag k="source" v="BAG" />
+  </meta>
+  <body>
+    <tag id="5373515313" k="source" o="add" type="node" v="BAG" />
+    <tag id="5373515313" k="addr:city" o="add" type="node" v="'t Veld" />
+    <tag id="5373515313" k="addr:street" o="add" type="node" v="Zwarteweg" />
+    <tag id="5373515313" k="source:date" o="add" type="node" v="2018-01-30" />
+    <tag id="5373515313" k="addr:postcode" o="add" type="node" v="1735GL" />
+    <tag id="5373515313" k="addr:housenumber" o="add" type="node" v="8" />
+    <tag id="557130428" k="source" o="add" type="way" v="BAG" />
+    <tag id="557130428" k="ref:bag" o="add" type="way" v="1911100000586829" />
+    <tag id="557130428" k="building" o="add" type="way" v="construction" />
+    <tag id="557130428" k="start_date" o="add" type="way" v="2017" />
+    <tag id="557130428" k="source:date" o="add" type="way" v="2018-01-30" />
+    <tag id="557130428" k="construction" o="add" type="way" v="yes" />
+    <tag id="557130429" k="source" o="add" type="way" v="BAG" />
+    <tag id="557130429" k="ref:bag" o="add" type="way" v="1911100000586828" />
+    <tag id="557130429" k="building" o="add" type="way" v="construction" />
+    <tag id="557130429" k="start_date" o="add" type="way" v="2017" />
+    <tag id="557130429" k="source:date" o="add" type="way" v="2018-01-30" />
+    <tag id="557130429" k="construction" o="add" type="way" v="house" />
+  </body>
+</changeset>

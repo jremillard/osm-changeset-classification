@@ -1,1 +1,31 @@
-<changeset id="56274927" schema="1"><counts nodesAdded="10" nodesModified="4" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="3" /><meta><tag k="changesets_count" v="783" /><tag k="comment" v="changed former Technosport parking lot to brownfield area (the building has since been torn down and the parking lot is fenced off); deleted non-existent turn restriction" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5406078877" k="access" o="add" type="node" v="private" /><tag id="5406078877" k="barrier" o="add" type="node" v="gate" /><tag id="5406078878" k="access" o="add" type="node" v="private" /><tag id="5406078878" k="barrier" o="add" type="node" v="gate" /><tag id="560575068" k="barrier" o="add" type="way" v="fence" /><tag id="560575068" k="fence_type" o="add" type="way" v="chain_link" /><tag id="227717916" k="service" o="modify" type="way" v="driveway" /><tag id="227717937" k="landuse" o="add" type="way" v="brownfield" /></body></changeset>
+<changeset id="56274927" schema="2">
+  <counts nodesAdded="10" nodesDeleted="2" nodesModified="0" relationsAdded="0" relationsDeleted="1" relationsModified="1" waysAdded="1" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="changesets_count" v="783" />
+    <tag k="comment" v="changed former Technosport parking lot to brownfield area (the building has since been torn down and the parking lot is fenced off); deleted non-existent turn restriction" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="5406078877" k="access" o="add" type="node" v="private" />
+    <tag id="5406078877" k="barrier" o="add" type="node" v="gate" />
+    <tag id="5406078878" k="access" o="add" type="node" v="private" />
+    <tag id="5406078878" k="barrier" o="add" type="node" v="gate" />
+    <tag id="227717916" k="highway" o="none" type="way" v="service" />
+    <tag id="227717916" k="service" o="modify" type="way" v="driveway" />
+    <tag id="227717916" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="227717937" k="landuse" o="add" type="way" v="brownfield" />
+    <tag id="227717937" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="503249201" k="name" o="none" type="way" v="Costigan House" />
+    <tag id="503249201" k="building" o="none" type="way" v="commercial" />
+    <tag id="503249201" k="addr:city" o="none" type="way" v="Calgary" />
+    <tag id="503249201" k="addr:street" o="none" type="way" v="17 Avenue SW" />
+    <tag id="503249201" k="addr:postcode" o="none" type="way" v="T2S 0A4" />
+    <tag id="503249201" k="addr:province" o="none" type="way" v="Alberta" />
+    <tag id="503249201" k="addr:housenumber" o="none" type="way" v="219" />
+    <tag id="560575068" k="barrier" o="add" type="way" v="fence" />
+    <tag id="560575068" k="fence_type" o="add" type="way" v="chain_link" />
+  </body>
+</changeset>

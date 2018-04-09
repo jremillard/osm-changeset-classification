@@ -1,1 +1,20 @@
-<changeset id="52906177" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="cleanup opening_hours" /><tag k="created_by" v="reverter;JOSM/1.5 (12039 de)" /><tag k="source" v="knowledge &amp; esri image" /></meta><body><tag id="5162479925" k="addr:city" o="add" type="node" v="Wilmington" /><tag id="5162479925" k="addr:housenumber" o="add" type="node" v="414" /><tag id="5162479925" k="addr:postcode" o="add" type="node" v="90744" /><tag id="5162479925" k="addr:state" o="add" type="node" v="CA" /><tag id="5162479925" k="addr:street" o="add" type="node" v="West C Street" /><tag id="5162479925" k="description" o="add" type="node" v="Smart Recycling is a full service scrap metal company operating five days a week." /><tag id="5162479925" k="name" o="add" type="node" v="Smart Recycling, Inc." /><tag id="5162479925" k="opening_hours" o="add" type="node" v="Mo-Fr 08:00-17:00" /><tag id="5162479925" k="phone" o="add" type="node" v="+1-310-830-8277" /><tag id="5162479925" k="website" o="add" type="node" v="http://smartrecycling.com" /></body></changeset>
+<changeset id="52906177" schema="2">
+  <counts nodesAdded="0" nodesDeleted="1" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="cleanup opening_hours" />
+    <tag k="created_by" v="reverter;JOSM/1.5 (12039 de)" />
+    <tag k="source" v="knowledge &amp; esri image" />
+  </meta>
+  <body>
+    <tag id="5162479925" k="name" o="add" type="node" v="Smart Recycling, Inc." />
+    <tag id="5162479925" k="phone" o="add" type="node" v="+1-310-830-8277" />
+    <tag id="5162479925" k="website" o="add" type="node" v="http://smartrecycling.com" />
+    <tag id="5162479925" k="addr:city" o="add" type="node" v="Wilmington" />
+    <tag id="5162479925" k="addr:state" o="add" type="node" v="CA" />
+    <tag id="5162479925" k="addr:street" o="add" type="node" v="West C Street" />
+    <tag id="5162479925" k="description" o="add" type="node" v="Smart Recycling is a full service scrap metal company operating five days a week." />
+    <tag id="5162479925" k="addr:postcode" o="add" type="node" v="90744" />
+    <tag id="5162479925" k="opening_hours" o="add" type="node" v="Mo-Fr 08:00-17:00" />
+    <tag id="5162479925" k="addr:housenumber" o="add" type="node" v="414" />
+  </body>
+</changeset>

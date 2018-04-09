@@ -1,5 +1,5 @@
 <changeset id="19704292" schema="2">
-  <counts nodesAdded="5" nodesDeleted="27" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="5" nodesDeleted="27" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Hr&#225;dek na Vl&#225;rsk&#233; dr&#225;ze (relation 431754)." />
@@ -8,20 +8,20 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="254254088" k="admin_level" o="add" type="way" v="10" />
-    <tag id="254254088" k="boundary" o="add" type="way" v="administrative" />
     <tag id="254254088" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="431754" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="431754" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="431754" k="name" o="none" type="relation" v="Hr&#225;dek na Vl&#225;rsk&#233; dr&#225;ze" />
-    <tag id="431754" k="ref" o="none" type="relation" v="750077" />
-    <tag id="431754" k="source" o="none" type="relation" v="cuzk:km" />
-    <tag id="431754" k="type" o="none" type="relation" v="boundary" />
-    <tag id="428563" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="428563" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="428563" k="name" o="none" type="relation" v="Divnice" />
+    <tag id="254254088" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="254254088" k="admin_level" o="add" type="way" v="10" />
     <tag id="428563" k="ref" o="none" type="relation" v="750069" />
-    <tag id="428563" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="428563" k="name" o="none" type="relation" v="Divnice" />
     <tag id="428563" k="type" o="none" type="relation" v="boundary" />
+    <tag id="428563" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="428563" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="428563" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="431754" k="ref" o="none" type="relation" v="750077" />
+    <tag id="431754" k="name" o="none" type="relation" v="Hr&#225;dek na Vl&#225;rsk&#233; dr&#225;ze" />
+    <tag id="431754" k="type" o="none" type="relation" v="boundary" />
+    <tag id="431754" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="431754" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="431754" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

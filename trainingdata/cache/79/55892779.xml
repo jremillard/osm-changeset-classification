@@ -1,1 +1,39 @@
-<changeset id="55892779" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="5" /><meta><tag k="StreetComplete:quest_type" v="AddMaxSpeed" /><tag k="comment" v="Add speed limits" /><tag k="created_by" v="StreetComplete 3.5" /><tag k="source" v="survey" /></meta><body><tag id="24938786" k="maxspeed" o="add" type="way" v="30" /><tag id="24938786" k="maxspeed:type" o="add" type="way" v="DE:zone30" /><tag id="24938797" k="maxspeed" o="add" type="way" v="30" /><tag id="24938797" k="maxspeed:type" o="add" type="way" v="DE:zone30" /><tag id="25108528" k="maxspeed" o="add" type="way" v="30" /><tag id="25108528" k="maxspeed:type" o="add" type="way" v="DE:zone30" /><tag id="261197014" k="maxspeed" o="add" type="way" v="50" /><tag id="261197014" k="maxspeed:type" o="add" type="way" v="sign" /><tag id="261197015" k="maxspeed" o="add" type="way" v="50" /><tag id="261197015" k="maxspeed:type" o="add" type="way" v="sign" /></body></changeset>
+<changeset id="55892779" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="5" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddMaxSpeed" />
+    <tag k="comment" v="Add speed limits" />
+    <tag k="created_by" v="StreetComplete 3.5" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="24938786" k="name" o="none" type="way" v="Krummer Blockweg" />
+    <tag id="24938786" k="source" o="none" type="way" v="Bing Sat, an GPS-Tracks ausgerichtet (&quot;Couchmapping&quot;)" />
+    <tag id="24938786" k="highway" o="none" type="way" v="residential" />
+    <tag id="24938786" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="24938786" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="24938786" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="24938786" k="cycleway:both" o="none" type="way" v="no" />
+    <tag id="24938786" k="maxspeed:type" o="add" type="way" v="DE:zone30" />
+    <tag id="24938797" k="name" o="none" type="way" v="Boelkestra&#223;e" />
+    <tag id="24938797" k="highway" o="none" type="way" v="residential" />
+    <tag id="24938797" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="24938797" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="24938797" k="maxspeed:type" o="add" type="way" v="DE:zone30" />
+    <tag id="25108528" k="name" o="none" type="way" v="Commandeurstrate" />
+    <tag id="25108528" k="highway" o="none" type="way" v="residential" />
+    <tag id="25108528" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="25108528" k="maxspeed" o="add" type="way" v="30" />
+    <tag id="25108528" k="maxspeed:type" o="add" type="way" v="DE:zone30" />
+    <tag id="261197014" k="name" o="none" type="way" v="Ostfriesenstra&#223;e" />
+    <tag id="261197014" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="261197014" k="surface" o="none" type="way" v="concrete" />
+    <tag id="261197014" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="261197014" k="maxspeed:type" o="add" type="way" v="sign" />
+    <tag id="261197015" k="name" o="none" type="way" v="Ostfriesenstra&#223;e" />
+    <tag id="261197015" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="261197015" k="surface" o="none" type="way" v="concrete" />
+    <tag id="261197015" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="261197015" k="maxspeed:type" o="add" type="way" v="sign" />
+  </body>
+</changeset>

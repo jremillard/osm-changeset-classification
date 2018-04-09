@@ -1,81 +1,64 @@
 <changeset id="42108356" schema="2">
-  <counts nodesAdded="54" nodesDeleted="1" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="8" waysDeleted="9" waysModified="67" />
+  <counts nodesAdded="54" nodesDeleted="1" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="8" waysDeleted="9" waysModified="76" />
   <meta>
     <tag k="comment" v="Post-import of NLS.fi road subnet 920905" />
     <tag k="created_by" v="JOSM/1.5 (10526 en_GB)" />
     <tag k="source" v="MML Ortokuva; MML Peruskartta" />
   </meta>
   <body>
-    <tag id="442107399" k="highway" o="add" type="way" v="service" />
-    <tag id="442107399" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107399" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107400" k="highway" o="add" type="way" v="service" />
-    <tag id="442107400" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107400" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107401" k="highway" o="add" type="way" v="service" />
-    <tag id="442107401" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107401" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107402" k="highway" o="add" type="way" v="service" />
-    <tag id="442107402" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107402" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107403" k="highway" o="add" type="way" v="service" />
-    <tag id="442107403" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107404" k="highway" o="add" type="way" v="service" />
-    <tag id="442107404" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107404" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107405" k="highway" o="add" type="way" v="service" />
-    <tag id="442107405" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107405" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="442107406" k="highway" o="add" type="way" v="service" />
-    <tag id="442107406" k="service" o="add" type="way" v="driveway" />
-    <tag id="442107406" k="surface" o="add" type="way" v="unpaved" />
-    <tag id="2394256794" k="FIXME" o="add" type="node" v="jatka/continue" />
     <tag id="847759563" k="highway" o="none" type="node" v="bus_stop" />
-    <tag id="436712457" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="436712457" k="name" o="none" type="way" v="Isoviidantie" />
-    <tag id="436712457" k="name:fi" o="none" type="way" v="Isoviidantie" />
-    <tag id="436712457" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104498" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="442104498" k="name" o="none" type="way" v="Aumatie" />
-    <tag id="442104498" k="name:fi" o="none" type="way" v="Aumatie" />
-    <tag id="442104498" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="231005425" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="231005425" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="2394256794" k="FIXME" o="add" type="node" v="jatka/continue" />
+    <tag id="71216914" k="ref" o="none" type="way" v="44" />
+    <tag id="71216914" k="name" o="none" type="way" v="Laviantie" />
+    <tag id="71216914" k="highway" o="none" type="way" v="primary" />
+    <tag id="71216914" k="name:fi" o="none" type="way" v="Laviantie" />
+    <tag id="71216914" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="228649211" k="ref" o="add" type="way" v="13207" />
+    <tag id="228649211" k="name" o="none" type="way" v="Verttuuntie" />
+    <tag id="228649211" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="228649211" k="name:fi" o="none" type="way" v="Verttuuntie" />
+    <tag id="228649211" k="surface" o="modify" type="way" v="unpaved" />
+    <tag id="228649211" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="228649213" k="ref" o="add" type="way" v="13207" />
+    <tag id="228649213" k="name" o="none" type="way" v="Verttuuntie" />
+    <tag id="228649213" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="228649213" k="name:fi" o="none" type="way" v="Verttuuntie" />
+    <tag id="228649213" k="surface" o="modify" type="way" v="unpaved" />
+    <tag id="228649213" k="maxspeed" o="none" type="way" v="60" />
     <tag id="231005425" k="name" o="none" type="way" v="Hemi&#228;ntie" />
+    <tag id="231005425" k="highway" o="none" type="way" v="unclassified" />
     <tag id="231005425" k="name:fi" o="none" type="way" v="Hemi&#228;ntie" />
     <tag id="231005425" k="surface" o="none" type="way" v="compacted" />
-    <tag id="71216914" k="highway" o="none" type="way" v="primary" />
-    <tag id="71216914" k="maxspeed" o="none" type="way" v="80" />
-    <tag id="71216914" k="name" o="none" type="way" v="Laviantie" />
-    <tag id="71216914" k="name:fi" o="none" type="way" v="Laviantie" />
-    <tag id="71216914" k="ref" o="none" type="way" v="44" />
-    <tag id="442104509" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="231005425" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="436712457" k="name" o="none" type="way" v="Isoviidantie" />
+    <tag id="436712457" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="436712457" k="name:fi" o="none" type="way" v="Isoviidantie" />
+    <tag id="436712457" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104498" k="name" o="none" type="way" v="Aumatie" />
+    <tag id="442104498" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="442104498" k="name:fi" o="none" type="way" v="Aumatie" />
+    <tag id="442104498" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104509" k="name" o="none" type="way" v="Narvintie" />
+    <tag id="442104509" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104509" k="name:fi" o="none" type="way" v="Narvintie" />
     <tag id="442104509" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104511" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104511" k="name" o="none" type="way" v="Perki&#246;ntie" />
+    <tag id="442104511" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104511" k="name:fi" o="none" type="way" v="Perki&#246;ntie" />
     <tag id="442104511" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104514" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104514" k="name" o="none" type="way" v="Saarentie" />
+    <tag id="442104514" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104514" k="name:fi" o="none" type="way" v="Saarentie" />
     <tag id="442104514" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104518" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104518" k="name" o="none" type="way" v="Vanhatie" />
+    <tag id="442104518" k="highway" o="none" type="way" v="unclassified" />
     <tag id="442104518" k="name:fi" o="none" type="way" v="Vanhatie" />
     <tag id="442104518" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104520" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="442104520" k="name" o="none" type="way" v="Verttuuntie" />
-    <tag id="442104520" k="name:fi" o="none" type="way" v="Verttuuntie" />
     <tag id="442104520" k="ref" o="none" type="way" v="13207" />
+    <tag id="442104520" k="name" o="none" type="way" v="Verttuuntie" />
+    <tag id="442104520" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="442104520" k="name:fi" o="none" type="way" v="Verttuuntie" />
     <tag id="442104520" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="228649213" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="228649213" k="maxspeed" o="none" type="way" v="60" />
-    <tag id="228649213" k="name" o="none" type="way" v="Verttuuntie" />
-    <tag id="228649213" k="name:fi" o="none" type="way" v="Verttuuntie" />
-    <tag id="228649213" k="ref" o="add" type="way" v="13207" />
-    <tag id="228649213" k="surface" o="modify" type="way" v="unpaved" />
     <tag id="442104522" k="highway" o="modify" type="way" v="service" />
     <tag id="442104522" k="service" o="add" type="way" v="driveway" />
     <tag id="442104522" k="surface" o="none" type="way" v="unpaved" />
@@ -85,6 +68,9 @@
     <tag id="442104525" k="highway" o="modify" type="way" v="service" />
     <tag id="442104525" k="service" o="add" type="way" v="driveway" />
     <tag id="442104525" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104526" k="highway" o="modify" type="way" v="service" />
+    <tag id="442104526" k="service" o="add" type="way" v="driveway" />
+    <tag id="442104526" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104529" k="highway" o="modify" type="way" v="service" />
     <tag id="442104529" k="service" o="add" type="way" v="driveway" />
     <tag id="442104529" k="surface" o="none" type="way" v="unpaved" />
@@ -97,20 +83,11 @@
     <tag id="442104536" k="highway" o="modify" type="way" v="service" />
     <tag id="442104536" k="service" o="add" type="way" v="driveway" />
     <tag id="442104536" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104540" k="highway" o="none" type="way" v="track" />
+    <tag id="442104540" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104541" k="highway" o="modify" type="way" v="service" />
     <tag id="442104541" k="service" o="add" type="way" v="driveway" />
     <tag id="442104541" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104645" k="highway" o="modify" type="way" v="service" />
-    <tag id="442104645" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="228649211" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="228649211" k="maxspeed" o="none" type="way" v="80" />
-    <tag id="228649211" k="name" o="none" type="way" v="Verttuuntie" />
-    <tag id="228649211" k="name:fi" o="none" type="way" v="Verttuuntie" />
-    <tag id="228649211" k="ref" o="add" type="way" v="13207" />
-    <tag id="228649211" k="surface" o="modify" type="way" v="unpaved" />
-    <tag id="442104526" k="highway" o="modify" type="way" v="service" />
-    <tag id="442104526" k="service" o="add" type="way" v="driveway" />
-    <tag id="442104526" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104543" k="highway" o="modify" type="way" v="service" />
     <tag id="442104543" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104544" k="highway" o="none" type="way" v="track" />
@@ -129,6 +106,8 @@
     <tag id="442104558" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104559" k="highway" o="modify" type="way" v="service" />
     <tag id="442104559" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104560" k="highway" o="none" type="way" v="track" />
+    <tag id="442104560" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104564" k="highway" o="modify" type="way" v="service" />
     <tag id="442104564" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104566" k="highway" o="modify" type="way" v="service" />
@@ -137,12 +116,10 @@
     <tag id="442104567" k="highway" o="modify" type="way" v="service" />
     <tag id="442104567" k="service" o="add" type="way" v="driveway" />
     <tag id="442104567" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104570" k="highway" o="modify" type="way" v="service" />
-    <tag id="442104570" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104540" k="highway" o="none" type="way" v="track" />
-    <tag id="442104540" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104568" k="highway" o="modify" type="way" v="service" />
     <tag id="442104568" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104570" k="highway" o="modify" type="way" v="service" />
+    <tag id="442104570" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104575" k="highway" o="modify" type="way" v="service" />
     <tag id="442104575" k="service" o="add" type="way" v="driveway" />
     <tag id="442104575" k="surface" o="none" type="way" v="unpaved" />
@@ -166,13 +143,13 @@
     <tag id="442104595" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104597" k="highway" o="modify" type="way" v="service" />
     <tag id="442104597" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104598" k="highway" o="none" type="way" v="track" />
+    <tag id="442104598" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104603" k="highway" o="modify" type="way" v="service" />
     <tag id="442104603" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104607" k="highway" o="modify" type="way" v="service" />
     <tag id="442104607" k="service" o="add" type="way" v="driveway" />
     <tag id="442104607" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104598" k="highway" o="none" type="way" v="track" />
-    <tag id="442104598" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104608" k="highway" o="modify" type="way" v="service" />
     <tag id="442104608" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104610" k="highway" o="modify" type="way" v="service" />
@@ -205,8 +182,8 @@
     <tag id="442104642" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104643" k="highway" o="modify" type="way" v="service" />
     <tag id="442104643" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="442104560" k="highway" o="none" type="way" v="track" />
-    <tag id="442104560" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442104645" k="highway" o="modify" type="way" v="service" />
+    <tag id="442104645" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104650" k="highway" o="modify" type="way" v="service" />
     <tag id="442104650" k="service" o="add" type="way" v="driveway" />
     <tag id="442104650" k="surface" o="none" type="way" v="unpaved" />
@@ -219,5 +196,28 @@
     <tag id="442104654" k="surface" o="none" type="way" v="unpaved" />
     <tag id="442104656" k="highway" o="modify" type="way" v="service" />
     <tag id="442104656" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="442107399" k="highway" o="add" type="way" v="service" />
+    <tag id="442107399" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107399" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107400" k="highway" o="add" type="way" v="service" />
+    <tag id="442107400" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107400" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107401" k="highway" o="add" type="way" v="service" />
+    <tag id="442107401" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107401" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107402" k="highway" o="add" type="way" v="service" />
+    <tag id="442107402" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107402" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107403" k="highway" o="add" type="way" v="service" />
+    <tag id="442107403" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107404" k="highway" o="add" type="way" v="service" />
+    <tag id="442107404" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107404" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107405" k="highway" o="add" type="way" v="service" />
+    <tag id="442107405" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107405" k="surface" o="add" type="way" v="unpaved" />
+    <tag id="442107406" k="highway" o="add" type="way" v="service" />
+    <tag id="442107406" k="service" o="add" type="way" v="driveway" />
+    <tag id="442107406" k="surface" o="add" type="way" v="unpaved" />
   </body>
 </changeset>

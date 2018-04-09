@@ -1,5 +1,5 @@
 <changeset id="10303722" schema="2">
-  <counts nodesAdded="364" nodesDeleted="43" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="44" waysDeleted="5" waysModified="5" />
+  <counts nodesAdded="364" nodesDeleted="43" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="44" waysDeleted="5" waysModified="8" />
   <meta>
     <tag k="build" v="2.3-127-gbce938f" />
     <tag k="comment" v="765432211111223456778" />
@@ -7,26 +7,41 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="1042052656" k="name" o="none" type="node" v="Al Saqr Field" />
+    <tag id="1042052656" k="source" o="none" type="node" v="ourairports.com" />
+    <tag id="1042052656" k="aeroway" o="none" type="node" v="aerodrome" />
+    <tag id="124388113" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="124388233" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="142749110" k="name" o="none" type="way" v="Hangar" />
+    <tag id="142749110" k="landuse" o="none" type="way" v="retail" />
+    <tag id="142749111" k="barrier" o="modify" type="way" v="fence" />
+    <tag id="142749112" k="aeroway" o="none" type="way" v="apron" />
     <tag id="144298120" k="leisure" o="add" type="way" v="park" />
     <tag id="144298122" k="barrier" o="add" type="way" v="fence" />
     <tag id="144298125" k="leisure" o="add" type="way" v="park" />
     <tag id="144298130" k="leisure" o="add" type="way" v="park" />
-    <tag id="144298132" k="landuse" o="add" type="way" v="residential" />
+    <tag id="144298134" k="highway" o="add" type="way" v="construction" />
     <tag id="144303385" k="barrier" o="add" type="way" v="fence" />
     <tag id="144303386" k="landuse" o="add" type="way" v="reservoir" />
+    <tag id="144303390" k="highway" o="add" type="way" v="track" />
     <tag id="144303391" k="barrier" o="add" type="way" v="fence" />
-    <tag id="144303392" k="highway" o="add" type="way" v="sand" />
+    <tag id="144303392" k="natural" o="add" type="way" v="sand" />
+    <tag id="144303395" k="aeroway" o="add" type="way" v="apron" />
+    <tag id="144303397" k="aeroway" o="add" type="way" v="apron" />
     <tag id="144303398" k="amenity" o="add" type="way" v="public_building" />
     <tag id="144303398" k="building" o="add" type="way" v="yes" />
     <tag id="144303399" k="landuse" o="add" type="way" v="retail" />
+    <tag id="144303401" k="highway" o="add" type="way" v="construction" />
     <tag id="144303403" k="barrier" o="add" type="way" v="fence" />
     <tag id="144304125" k="highway" o="add" type="way" v="track" />
     <tag id="144304126" k="highway" o="add" type="way" v="track" />
     <tag id="144306407" k="highway" o="add" type="way" v="construction" />
     <tag id="144306409" k="highway" o="add" type="way" v="construction" />
     <tag id="144306411" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="144306415" k="highway" o="add" type="way" v="construction" />
     <tag id="144306416" k="highway" o="add" type="way" v="tertiary" />
     <tag id="144307360" k="highway" o="add" type="way" v="track" />
+    <tag id="144307361" k="highway" o="add" type="way" v="track" />
     <tag id="144307362" k="highway" o="add" type="way" v="track" />
     <tag id="144307771" k="highway" o="add" type="way" v="construction" />
     <tag id="144307772" k="highway" o="add" type="way" v="construction" />
@@ -43,22 +58,5 @@
     <tag id="144308394" k="aeroway" o="add" type="way" v="taxiway" />
     <tag id="144308679" k="highway" o="add" type="way" v="track" />
     <tag id="144308680" k="highway" o="add" type="way" v="track" />
-    <tag id="1042052656" k="aeroway" o="none" type="node" v="aerodrome" />
-    <tag id="1042052656" k="name" o="none" type="node" v="Al Saqr Field" />
-    <tag id="1042052656" k="source" o="none" type="node" v="ourairports.com" />
-    <tag id="144298134" k="highway" o="add" type="way" v="construction" />
-    <tag id="144303390" k="highway" o="add" type="way" v="track" />
-    <tag id="144303392" k="natural" o="add" type="way" v="sand" />
-    <tag id="144303395" k="aeroway" o="add" type="way" v="apron" />
-    <tag id="144303397" k="aeroway" o="add" type="way" v="apron" />
-    <tag id="144303401" k="highway" o="add" type="way" v="construction" />
-    <tag id="144306415" k="highway" o="add" type="way" v="construction" />
-    <tag id="144307361" k="highway" o="add" type="way" v="track" />
-    <tag id="124388113" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="142749111" k="barrier" o="modify" type="way" v="fence" />
-    <tag id="142749110" k="landuse" o="none" type="way" v="retail" />
-    <tag id="142749110" k="name" o="none" type="way" v="Hangar" />
-    <tag id="142749112" k="aeroway" o="none" type="way" v="apron" />
-    <tag id="124388233" k="highway" o="none" type="way" v="tertiary" />
   </body>
 </changeset>

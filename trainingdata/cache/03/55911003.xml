@@ -1,1 +1,27 @@
-<changeset id="55911003" schema="1"><counts nodesAdded="1" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="2" /><tag k="comment" v="Changed and added a couple of places around Lynnwood Wa" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5373648028" k="addr:city" o="add" type="node" v="Lynnwood" /><tag id="5373648028" k="addr:housenumber" o="add" type="node" v="7600" /><tag id="5373648028" k="addr:postcode" o="add" type="node" v="98036" /><tag id="5373648028" k="addr:state" o="add" type="node" v="WA" /><tag id="5373648028" k="addr:street" o="add" type="node" v="196th Street Southwest" /><tag id="5373648028" k="description" o="add" type="node" v="Local game store offering weekly Magic the Gathering tournaments and other events seen on their website. " /><tag id="5373648028" k="name" o="add" type="node" v="Around the Table Game Pub" /><tag id="5373648028" k="phone" o="add" type="node" v="425-582-2745" /><tag id="3517854174" k="name" o="modify" type="node" v="Starbucks at Safeway" /><tag id="2102155082" k="name" o="modify" type="node" v="Safeway" /><tag id="2102155082" k="operator" o="add" type="node" v="Safeway" /></body></changeset>
+<changeset id="55911003" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="2" />
+    <tag k="comment" v="Changed and added a couple of places around Lynnwood Wa" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="2102155082" k="name" o="modify" type="node" v="Safeway" />
+    <tag id="2102155082" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="2102155082" k="operator" o="add" type="node" v="Safeway" />
+    <tag id="3517854174" k="name" o="modify" type="node" v="Starbucks at Safeway" />
+    <tag id="3517854174" k="amenity" o="none" type="node" v="cafe" />
+    <tag id="3517854174" k="cuisine" o="none" type="node" v="coffee_shop" />
+    <tag id="5373648028" k="name" o="add" type="node" v="Around the Table Game Pub" />
+    <tag id="5373648028" k="phone" o="add" type="node" v="425-582-2745" />
+    <tag id="5373648028" k="addr:city" o="add" type="node" v="Lynnwood" />
+    <tag id="5373648028" k="addr:state" o="add" type="node" v="WA" />
+    <tag id="5373648028" k="addr:street" o="add" type="node" v="196th Street Southwest" />
+    <tag id="5373648028" k="description" o="add" type="node" v="Local game store offering weekly Magic the Gathering tournaments and other events seen on their website. " />
+    <tag id="5373648028" k="addr:postcode" o="add" type="node" v="98036" />
+    <tag id="5373648028" k="addr:housenumber" o="add" type="node" v="7600" />
+  </body>
+</changeset>

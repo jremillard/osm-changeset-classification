@@ -1,1 +1,25 @@
-<changeset id="56374380" schema="1"><counts nodesAdded="2" nodesModified="1" relationsAdded="0" relationsModified="1" waysAdded="1" waysModified="3" /><meta><tag k="comment" v="Bijj Marhulzenweg fietspad ingetekend, site N18 zegt dat tot de tunnel Esweg klaar is, de fietsers bij de Marhulzenweg kunnern oversteken" /><tag k="created_by" v="JOSM/1.5 (13265 en)" /><tag k="source" v="geodata.nationaalgeoregister.nl: Luchtfoto Actueel Ortho 25cm RGB" /></meta><body><tag id="561434548" k="highway" o="add" type="way" v="cycleway" /><tag id="6690842" k="maxspeed" o="add" type="way" v="60" /></body></changeset>
+<changeset id="56374380" schema="2">
+  <counts nodesAdded="2" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="1" waysModified="4" />
+  <meta>
+    <tag k="comment" v="Bijj Marhulzenweg fietspad ingetekend, site N18 zegt dat tot de tunnel Esweg klaar is, de fietsers bij de Marhulzenweg kunnern oversteken" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en)" />
+    <tag k="source" v="geodata.nationaalgeoregister.nl: Luchtfoto Actueel Ortho 25cm RGB" />
+  </meta>
+  <body>
+    <tag id="6690842" k="name" o="none" type="way" v="Marhulzenweg" />
+    <tag id="6690842" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="6690842" k="maxspeed" o="add" type="way" v="60" />
+    <tag id="246235726" k="ref" o="none" type="way" v="N18" />
+    <tag id="246235726" k="oneway" o="none" type="way" v="yes" />
+    <tag id="246235726" k="highway" o="none" type="way" v="trunk" />
+    <tag id="246235726" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="246235726" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="246235726" k="description" o="none" type="way" v="N18 (2018)" />
+    <tag id="246235726" k="construction" o="none" type="way" v="trunk" />
+    <tag id="561434548" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="1687654" k="note" o="none" type="relation" v="39-52" />
+    <tag id="1687654" k="type" o="none" type="relation" v="route" />
+    <tag id="1687654" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1687654" k="network" o="none" type="relation" v="rcn" />
+  </body>
+</changeset>

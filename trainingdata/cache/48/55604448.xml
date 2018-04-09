@@ -1,1 +1,17 @@
-<changeset id="55604448" schema="1"><counts nodesAdded="6" nodesModified="1" relationsAdded="0" relationsModified="1" waysAdded="2" waysModified="1" /><meta><tag k="comment" v="Added drive up to farm buildings" /><tag k="created_by" v="JOSM/1.5 (13170 en_GB)" /><tag k="source" v="survey_2017-01-14" /></meta><body><tag id="554502250" k="highway" o="add" type="way" v="service" /><tag id="554502251" k="highway" o="add" type="way" v="service" /></body></changeset>
+<changeset id="55604448" schema="2">
+  <counts nodesAdded="6" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="2" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Added drive up to farm buildings" />
+    <tag k="created_by" v="JOSM/1.5 (13170 en_GB)" />
+    <tag k="source" v="survey_2017-01-14" />
+  </meta>
+  <body>
+    <tag id="4570792" k="highway" o="none" type="way" v="footway" />
+    <tag id="554502250" k="highway" o="add" type="way" v="service" />
+    <tag id="554502251" k="highway" o="add" type="way" v="service" />
+    <tag id="457084" k="name" o="none" type="relation" v="Stour &amp; Orwell Walk" />
+    <tag id="457084" k="type" o="none" type="relation" v="route" />
+    <tag id="457084" k="route" o="none" type="relation" v="hiking" />
+    <tag id="457084" k="network" o="none" type="relation" v="rwn" />
+  </body>
+</changeset>

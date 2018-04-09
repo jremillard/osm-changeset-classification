@@ -1,114 +1,381 @@
 <changeset id="6028057" schema="2">
-  <counts nodesAdded="711" nodesDeleted="37" nodesModified="72" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="100" waysDeleted="3" waysModified="30" />
+  <counts nodesAdded="711" nodesDeleted="37" nodesModified="20" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="100" waysDeleted="3" waysModified="32" />
   <meta>
     <tag k="comment" v="Abchasien 20101013-2" />
     <tag k="created_by" v="Potlatch 1.4 (save de)" />
   </meta>
   <body>
-    <tag id="81243956" k="highway" o="add" type="way" v="residential" />
-    <tag id="81243956" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="27829088" k="source" o="none" type="node" v="PGS" />
+    <tag id="27829404" k="source" o="none" type="node" v="PGS" />
+    <tag id="27829590" k="source" o="add" type="node" v="PGS" />
+    <tag id="27830563" k="source" o="none" type="node" v="PGS" />
+    <tag id="27830798" k="source" o="none" type="node" v="PGS" />
+    <tag id="27831300" k="source" o="none" type="node" v="PGS" />
+    <tag id="27831333" k="source" o="none" type="node" v="PGS" />
+    <tag id="27831597" k="source" o="none" type="node" v="PGS" />
+    <tag id="27832834" k="source" o="none" type="node" v="PGS" />
+    <tag id="27833409" k="source" o="none" type="node" v="PGS" />
+    <tag id="27833606" k="source" o="none" type="node" v="PGS" />
+    <tag id="27839151" k="source" o="add" type="node" v="PGS" />
+    <tag id="27839884" k="source" o="add" type="node" v="PGS" />
+    <tag id="27840989" k="source" o="none" type="node" v="PGS" />
+    <tag id="27841213" k="source" o="none" type="node" v="PGS" />
+    <tag id="27841450" k="source" o="none" type="node" v="PGS" />
+    <tag id="27841685" k="source" o="none" type="node" v="PGS" />
+    <tag id="27842623" k="source" o="none" type="node" v="PGS" />
+    <tag id="27843176" k="source" o="none" type="node" v="PGS" />
+    <tag id="27843688" k="source" o="none" type="node" v="PGS" />
+    <tag id="27843926" k="source" o="none" type="node" v="PGS" />
+    <tag id="27845422" k="source" o="none" type="node" v="PGS" />
+    <tag id="27845660" k="source" o="none" type="node" v="PGS" />
+    <tag id="27847988" k="source" o="none" type="node" v="PGS" />
+    <tag id="27848311" k="source" o="add" type="node" v="PGS" />
+    <tag id="27849400" k="source" o="add" type="node" v="PGS" />
+    <tag id="27849834" k="source" o="none" type="node" v="PGS" />
+    <tag id="27850297" k="source" o="none" type="node" v="PGS" />
+    <tag id="27850555" k="source" o="add" type="node" v="PGS" />
+    <tag id="27850911" k="source" o="add" type="node" v="PGS" />
+    <tag id="27851134" k="source" o="add" type="node" v="PGS" />
+    <tag id="27852060" k="source" o="none" type="node" v="PGS" />
+    <tag id="27852271" k="source" o="none" type="node" v="PGS" />
+    <tag id="27852402" k="source" o="none" type="node" v="PGS" />
+    <tag id="27853098" k="source" o="none" type="node" v="PGS" />
+    <tag id="27853353" k="source" o="none" type="node" v="PGS" />
+    <tag id="27853708" k="source" o="none" type="node" v="PGS" />
+    <tag id="27853893" k="source" o="none" type="node" v="PGS" />
+    <tag id="27854568" k="source" o="none" type="node" v="PGS" />
+    <tag id="27855095" k="source" o="none" type="node" v="PGS" />
+    <tag id="27855232" k="source" o="none" type="node" v="PGS" />
+    <tag id="27859133" k="source" o="add" type="node" v="PGS" />
+    <tag id="27859860" k="source" o="add" type="node" v="PGS" />
+    <tag id="27859942" k="source" o="none" type="node" v="PGS" />
+    <tag id="27860465" k="source" o="add" type="node" v="PGS" />
+    <tag id="27860537" k="source" o="add" type="node" v="PGS" />
+    <tag id="27861294" k="source" o="none" type="node" v="PGS" />
+    <tag id="27862445" k="source" o="none" type="node" v="PGS" />
+    <tag id="27863509" k="source" o="none" type="node" v="PGS" />
+    <tag id="27863778" k="source" o="none" type="node" v="PGS" />
+    <tag id="27863813" k="source" o="none" type="node" v="PGS" />
+    <tag id="27864470" k="source" o="none" type="node" v="PGS" />
+    <tag id="27864641" k="source" o="none" type="node" v="PGS" />
+    <tag id="27865046" k="source" o="none" type="node" v="PGS" />
+    <tag id="27870144" k="source" o="none" type="node" v="PGS" />
+    <tag id="27870411" k="source" o="add" type="node" v="PGS" />
+    <tag id="27870737" k="source" o="add" type="node" v="PGS" />
+    <tag id="27871026" k="source" o="add" type="node" v="PGS" />
+    <tag id="27872045" k="source" o="none" type="node" v="PGS" />
+    <tag id="27872141" k="source" o="none" type="node" v="PGS" />
+    <tag id="27872506" k="source" o="add" type="node" v="PGS" />
+    <tag id="27873695" k="source" o="none" type="node" v="PGS" />
+    <tag id="27873923" k="source" o="none" type="node" v="PGS" />
+    <tag id="27874419" k="source" o="none" type="node" v="PGS" />
+    <tag id="27875005" k="source" o="none" type="node" v="PGS" />
+    <tag id="27876046" k="source" o="none" type="node" v="PGS" />
+    <tag id="512071085" k="name" o="modify" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082; (Cape Red Lighthouse)" />
+    <tag id="512071085" k="name:en" o="add" type="node" v="Cape Red Lighthouse" />
+    <tag id="512071085" k="name:ru" o="add" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082;" />
+    <tag id="512071085" k="natural" o="none" type="node" v="cape" />
+    <tag id="512071085" k="is_in:town" o="add" type="node" v="Sukhumi" />
+    <tag id="517236792" k="name" o="modify" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082; (Cape Red Lighthouse)" />
+    <tag id="517236792" k="place" o="none" type="node" v="suburb" />
+    <tag id="517236792" k="name:en" o="add" type="node" v="Cape Red Lighthouse" />
+    <tag id="517236792" k="name:ru" o="add" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082;" />
+    <tag id="517236792" k="is_in:town" o="add" type="node" v="Sukhumi" />
+    <tag id="517236951" k="name" o="modify" type="node" v="&#1053;&#1086;&#1074;&#1099;&#1081; &#1088;&#1072;&#1081;&#1086;&#1085; (New District)" />
+    <tag id="517236951" k="place" o="none" type="node" v="suburb" />
+    <tag id="517236951" k="name:en" o="add" type="node" v="New District" />
+    <tag id="517236951" k="name:ru" o="add" type="node" v="&#1053;&#1086;&#1074;&#1099;&#1081; &#1088;&#1072;&#1081;&#1086;&#1085;" />
+    <tag id="517236951" k="is_in:town" o="add" type="node" v="Sukhumi" />
+    <tag id="517236952" k="name" o="modify" type="node" v="&#1051;&#1077;&#1095;&#1082;&#1086;&#1087; (Lechkop)" />
+    <tag id="517236952" k="place" o="none" type="node" v="village" />
+    <tag id="517236952" k="name:de" o="add" type="node" v="Letschkop" />
+    <tag id="517236952" k="name:en" o="add" type="node" v="Lechkop" />
+    <tag id="517236952" k="name:ka" o="add" type="node" v="&#4314;&#4308;&#4329;&#4313;&#4317;&#4324;&#4312;" />
+    <tag id="517236952" k="name:ru" o="add" type="node" v="&#1051;&#1077;&#1095;&#1082;&#1086;&#1087;" />
+    <tag id="517236952" k="is_in:region" o="add" type="node" v="Abkhazeti" />
+    <tag id="517236952" k="is_in:country" o="add" type="node" v="Abkhazia; Georgia" />
+    <tag id="517236952" k="is_in:district" o="add" type="node" v="Sukhumi" />
+    <tag id="920578420" k="amenity" o="none" type="node" v="fuel" />
+    <tag id="920578420" k="operator" o="none" type="node" v="&#1040;&#1047;&#1057;" />
+    <tag id="920578420" k="fuel:diesel" o="none" type="node" v="yes" />
+    <tag id="920578420" k="fuel:octane_91" o="none" type="node" v="yes" />
+    <tag id="920578420" k="fuel:octane_95" o="none" type="node" v="yes" />
+    <tag id="920578420" k="fuel:octane_98" o="none" type="node" v="yes" />
+    <tag id="922917217" k="name" o="none" type="node" v="Amra" />
+    <tag id="922917217" k="fixme" o="none" type="node" v="operator? tenant? address?" />
+    <tag id="922917217" k="amenity" o="none" type="node" v="cafe" />
+    <tag id="946567296" k="name" o="add" type="node" v="Public School No. 7" />
+    <tag id="946567296" k="amenity" o="add" type="node" v="school" />
+    <tag id="946567296" k="is_in:town" o="add" type="node" v="Sukhumi" />
+    <tag id="946579467" k="fixme" o="add" type="node" v="address? name? tenant?" />
+    <tag id="946579467" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="946579467" k="operator" o="add" type="node" v="A3C" />
+    <tag id="946579468" k="fixme" o="add" type="node" v="name? tenant? address?" />
+    <tag id="946579468" k="amenity" o="add" type="node" v="cafe" />
+    <tag id="946579468" k="addr:city" o="add" type="node" v="Sukhumi" />
+    <tag id="946579468" k="addr:country" o="add" type="node" v="Abkhazia" />
+    <tag id="946591494" k="man_made" o="add" type="node" v="tower" />
+    <tag id="946638497" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="25356866" k="lit" o="add" type="way" v="yes" />
+    <tag id="25356866" k="ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="25356866" k="name" o="modify" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072; (Aiaaira Ave.)" />
+    <tag id="25356866" k="oneway" o="add" type="way" v="yes" />
+    <tag id="25356866" k="highway" o="modify" type="way" v="secondary" />
+    <tag id="25356866" k="name:en" o="add" type="way" v="Aiaaira Avenue" />
+    <tag id="25356866" k="name:ru" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072;" />
+    <tag id="25356866" k="nat_ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="25356866" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25356866" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="25356867" k="lit" o="add" type="way" v="yes" />
+    <tag id="25356867" k="ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="25356867" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1051;&#1072;&#1082;&#1086;&#1073;&#1072; (Lakoba Str.)" />
+    <tag id="25356867" k="oneway" o="none" type="way" v="yes" />
+    <tag id="25356867" k="highway" o="none" type="way" v="secondary" />
+    <tag id="25356867" k="name:en" o="add" type="way" v="Lakoba Street" />
+    <tag id="25356867" k="nat_ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="25356867" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25356867" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="25356868" k="lit" o="add" type="way" v="yes" />
+    <tag id="25356868" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1048;&#1085;&#1072;&#1083;-&#1080;&#1087;&#1072; (Inal-Ipa Str.)" />
+    <tag id="25356868" k="highway" o="none" type="way" v="residential" />
+    <tag id="25356868" k="name:en" o="add" type="way" v="Inal-Ipa Street" />
+    <tag id="25356868" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1048;&#1085;&#1072;&#1083;-&#1080;&#1087;&#1072;" />
+    <tag id="25356868" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25356868" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="25356870" k="lit" o="add" type="way" v="yes" />
+    <tag id="25356870" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1040;&#1082;. &#1057;&#1072;&#1093;&#1072;&#1088;&#1086;&#1074;&#1072; (Acad. Sakharov Str.)" />
+    <tag id="25356870" k="highway" o="none" type="way" v="residential" />
+    <tag id="25356870" k="name:en" o="add" type="way" v="Acad. Sakharov Street" />
+    <tag id="25356870" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1082;. &#1057;&#1072;&#1093;&#1072;&#1088;&#1086;&#1074;&#1072;" />
+    <tag id="25356870" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25356870" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="41289871" k="natural" o="none" type="way" v="water" />
+    <tag id="41289871" k="int_name" o="none" type="way" v="Lake Sukhum" />
+    <tag id="41415958" k="ref" o="none" type="way" v="E 97 / &#4321; 1" />
+    <tag id="41415958" k="name" o="none" type="way" v="&#1091;&#1083;. &#1069;&#1096;&#1073;&#1072; / ul. &#200;&#353;ba" />
+    <tag id="41415958" k="type" o="none" type="way" v="route" />
+    <tag id="41415958" k="layer" o="none" type="way" v="1" />
+    <tag id="41415958" k="route" o="none" type="way" v="road" />
+    <tag id="41415958" k="highway" o="none" type="way" v="primary" />
+    <tag id="41415958" k="int_ref" o="none" type="way" v="E 97" />
+    <tag id="41415958" k="nat_ref" o="none" type="way" v="&#4321; 1" />
+    <tag id="41415958" k="network" o="none" type="way" v="e-road" />
+    <tag id="41415967" k="ref" o="none" type="way" v="E 97; &#4321; 1" />
+    <tag id="41415967" k="name" o="none" type="way" v="&#1091;&#1083;. &#1044;&#1079;&#1080;&#1076;&#1079;&#1072;&#1088;&#1080;&#1103; (Dzidzaria Str.)" />
+    <tag id="41415967" k="highway" o="none" type="way" v="primary" />
+    <tag id="41415967" k="int_ref" o="none" type="way" v="E 97" />
+    <tag id="41415967" k="name:de" o="none" type="way" v="Dsidsariastra&#223;e" />
+    <tag id="41415967" k="name:en" o="none" type="way" v="Dzidzaria Street" />
+    <tag id="41415967" k="nat_ref" o="none" type="way" v="&#4321; 1" />
+    <tag id="41424620" k="name" o="none" type="way" v="&#1041;&#1079;&#1099;&#1073;&#1089;&#1082;&#1086;&#1077; &#1096;&#1086;&#1089;&#1089;&#1077; / Bzybskoe &#353;osse" />
+    <tag id="41424620" k="highway" o="none" type="way" v="secondary" />
+    <tag id="41438754" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="41992061" k="highway" o="none" type="way" v="residential" />
+    <tag id="41992063" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015697" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015746" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015746" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1055;&#1072;&#1088;&#1082;&#1086;&#1074;&#1072;&#1103; (Park Str.)" />
+    <tag id="46015746" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015746" k="name:en" o="add" type="way" v="Park Street" />
+    <tag id="46015746" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1055;&#1072;&#1088;&#1082;&#1086;&#1074;&#1072;&#1103;" />
+    <tag id="46015746" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015746" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="46015750" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015750" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103; (Shamil Str.)" />
+    <tag id="46015750" k="oneway" o="add" type="way" v="no" />
+    <tag id="46015750" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015750" k="name:en" o="add" type="way" v="Shamil Street" />
+    <tag id="46015750" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103;" />
+    <tag id="46015750" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015750" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="46015773" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015773" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1044;&#1073;&#1072;&#1088; (Dbar Str.)" />
+    <tag id="46015773" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015773" k="name:en" o="add" type="way" v="Dbar Street" />
+    <tag id="46015773" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1044;&#1073;&#1072;&#1088;" />
+    <tag id="46015773" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015773" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="46015780" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015780" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1042;&#1086;&#1088;&#1086;&#1085;&#1086;&#1074;&#1072; (Voronov Str.)" />
+    <tag id="46015780" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015780" k="name:en" o="add" type="way" v="Voronov Street" />
+    <tag id="46015780" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1042;&#1086;&#1088;&#1086;&#1085;&#1086;&#1074;&#1072;" />
+    <tag id="46015780" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015780" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="46015783" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015783" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1040;&#1073;&#1072;&#1079;&#1080;&#1085;&#1089;&#1082;&#1072;&#1103; (Abaza Str.)" />
+    <tag id="46015783" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015783" k="name:en" o="add" type="way" v="Abaza Street" />
+    <tag id="46015783" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1073;&#1072;&#1079;&#1080;&#1085;&#1089;&#1082;&#1072;&#1103;" />
+    <tag id="46015783" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015783" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="46015793" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015793" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1040;&#1080;&#1076;&#1075;&#1099;&#1087;&#1072;&#1088;&#1072; (Aidgypara Str.)" />
+    <tag id="46015793" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015793" k="name:en" o="add" type="way" v="Aidgypara Street" />
+    <tag id="46015793" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1080;&#1076;&#1075;&#1099;&#1087;&#1072;&#1088;&#1072;" />
+    <tag id="46015793" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015793" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="46015867" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015916" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015945" k="lit" o="add" type="way" v="yes" />
+    <tag id="46015945" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
+    <tag id="46015945" k="highway" o="none" type="way" v="residential" />
+    <tag id="46015945" k="name:en" o="add" type="way" v="Gulia Street" />
+    <tag id="46015945" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
+    <tag id="46015945" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="46015945" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="66167956" k="lit" o="add" type="way" v="yes" />
+    <tag id="66167956" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103; (Shamil Str.)" />
+    <tag id="66167956" k="oneway" o="add" type="way" v="no" />
+    <tag id="66167956" k="highway" o="modify" type="way" v="residential" />
+    <tag id="66167956" k="name:en" o="add" type="way" v="Shamil Street" />
+    <tag id="66167956" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103;" />
+    <tag id="66167956" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="66167956" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="66214413" k="lit" o="add" type="way" v="yes" />
+    <tag id="66214413" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1050;&#1086;&#1085;&#1092;&#1077;&#1076;&#1077;&#1088;&#1072;&#1090;&#1086;&#1074; (Confederation Str.)" />
+    <tag id="66214413" k="highway" o="none" type="way" v="residential" />
+    <tag id="66214413" k="name:en" o="add" type="way" v="Confederation Street" />
+    <tag id="66214413" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1050;&#1086;&#1085;&#1092;&#1077;&#1076;&#1077;&#1088;&#1072;&#1090;&#1086;&#1074;" />
+    <tag id="66214413" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="66214413" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="78475115" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="78475115" k="highway" o="none" type="way" v="residential" />
+    <tag id="78749789" k="usage" o="none" type="way" v="main" />
+    <tag id="78749789" k="railway" o="none" type="way" v="rail" />
+    <tag id="78749789" k="operator" o="none" type="way" v="&#1040;&#1191;&#1089;&#1085;&#1099; &#1040;&#1080;&#1203;&#1072;&#1072;&#1084;&#1193;&#1072; (Abkhazian Railway)" />
+    <tag id="78749789" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="79142963" k="lit" o="add" type="way" v="yes" />
+    <tag id="79142963" k="ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="79142963" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072; (Vladislav Ardzinba Str.)" />
+    <tag id="79142963" k="oneway" o="add" type="way" v="yes" />
+    <tag id="79142963" k="highway" o="none" type="way" v="secondary" />
+    <tag id="79142963" k="name:en" o="add" type="way" v="Vladislav Ardzinba Street" />
+    <tag id="79142963" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072;" />
+    <tag id="79142963" k="nat_ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="79142963" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="79142963" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81174016" k="name" o="none" type="way" v="Black Sea" />
+    <tag id="81174016" k="source" o="none" type="way" v="IRS;PGS;ScanEx" />
+    <tag id="81174016" k="natural" o="none" type="way" v="coastline" />
+    <tag id="81178181" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81178181" k="highway" o="none" type="way" v="residential" />
+    <tag id="81178199" k="source" o="none" type="way" v="ScanEx" />
+    <tag id="81178199" k="highway" o="none" type="way" v="residential" />
     <tag id="81243956" k="lit" o="add" type="way" v="yes" />
     <tag id="81243956" k="name" o="add" type="way" v="&#1091;&#1083;. &#1044;&#1073;&#1072;&#1088; (Dbar Str.)" />
+    <tag id="81243956" k="highway" o="add" type="way" v="residential" />
     <tag id="81243956" k="name:en" o="add" type="way" v="Dbar Street" />
     <tag id="81243956" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1044;&#1073;&#1072;&#1088;" />
     <tag id="81243956" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81243957" k="highway" o="add" type="way" v="residential" />
-    <tag id="81243957" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81243956" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81243957" k="lit" o="add" type="way" v="yes" />
     <tag id="81243957" k="name" o="add" type="way" v="&#1091;&#1083;. &#1042;&#1086;&#1088;&#1086;&#1085;&#1086;&#1074;&#1072; (Voronov Str.)" />
+    <tag id="81243957" k="highway" o="add" type="way" v="residential" />
     <tag id="81243957" k="name:en" o="add" type="way" v="Voronov Street" />
     <tag id="81243957" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1042;&#1086;&#1088;&#1086;&#1085;&#1086;&#1074;&#1072;" />
     <tag id="81243957" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81243958" k="highway" o="add" type="way" v="residential" />
-    <tag id="81243958" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81243957" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81243958" k="lit" o="add" type="way" v="yes" />
     <tag id="81243958" k="name" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1073;&#1072;&#1079;&#1080;&#1085;&#1089;&#1082;&#1072;&#1103; (Abaza Str.)" />
+    <tag id="81243958" k="highway" o="add" type="way" v="residential" />
     <tag id="81243958" k="name:en" o="add" type="way" v="Abaza Street" />
     <tag id="81243958" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1073;&#1072;&#1079;&#1080;&#1085;&#1089;&#1082;&#1072;&#1103;" />
     <tag id="81243958" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81244159" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244159" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81243958" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81244159" k="lit" o="add" type="way" v="yes" />
     <tag id="81244159" k="name" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1082;. &#1057;&#1072;&#1093;&#1072;&#1088;&#1086;&#1074;&#1072; (Acad. Sakharov Str.)" />
+    <tag id="81244159" k="highway" o="add" type="way" v="residential" />
     <tag id="81244159" k="name:en" o="add" type="way" v="Acad. Sakharov Street" />
     <tag id="81244159" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1082;. &#1057;&#1072;&#1093;&#1072;&#1088;&#1086;&#1074;&#1072;" />
     <tag id="81244159" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81244410" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244159" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81244410" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244412" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244410" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244411" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244411" k="highway" o="add" type="way" v="residential" />
     <tag id="81244412" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244413" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244413" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81244412" k="highway" o="add" type="way" v="residential" />
     <tag id="81244413" k="lit" o="add" type="way" v="yes" />
     <tag id="81244413" k="name" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1080;&#1076;&#1075;&#1099;&#1087;&#1072;&#1088;&#1072; (Aidgypara Str.)" />
+    <tag id="81244413" k="highway" o="add" type="way" v="residential" />
     <tag id="81244413" k="name:en" o="add" type="way" v="Aidgypara Street" />
     <tag id="81244413" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1080;&#1076;&#1075;&#1099;&#1087;&#1072;&#1088;&#1072;" />
     <tag id="81244413" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81244414" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244414" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81244413" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81244414" k="lit" o="add" type="way" v="yes" />
     <tag id="81244414" k="name" o="add" type="way" v="&#1091;&#1083;. &#1048;&#1085;&#1072;&#1083;-&#1080;&#1087;&#1072; (Inal-Ipa Str.)" />
+    <tag id="81244414" k="highway" o="add" type="way" v="residential" />
     <tag id="81244414" k="name:en" o="add" type="way" v="Inal-Ipa Street" />
     <tag id="81244414" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1048;&#1085;&#1072;&#1083;-&#1080;&#1087;&#1072;" />
     <tag id="81244414" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81244485" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244414" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81244484" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244484" k="highway" o="add" type="way" v="residential" />
     <tag id="81244485" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244485" k="highway" o="add" type="way" v="residential" />
     <tag id="81244486" k="building" o="add" type="way" v="yes" />
     <tag id="81244486" k="man_made" o="add" type="way" v="works" />
     <tag id="81244487" k="highway" o="add" type="way" v="service" />
     <tag id="81244488" k="landuse" o="add" type="way" v="industrial" />
-    <tag id="81244489" k="highway" o="add" type="way" v="residential" />
     <tag id="81244489" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244490" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244489" k="highway" o="add" type="way" v="residential" />
     <tag id="81244490" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244492" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244490" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244491" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244491" k="highway" o="add" type="way" v="residential" />
     <tag id="81244492" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244493" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244492" k="highway" o="add" type="way" v="residential" />
     <tag id="81244493" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244496" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244493" k="highway" o="add" type="way" v="residential" />
     <tag id="81244496" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244646" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="81244496" k="highway" o="add" type="way" v="residential" />
     <tag id="81244646" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244647" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244646" k="highway" o="add" type="way" v="unclassified" />
     <tag id="81244647" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244648" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244647" k="highway" o="add" type="way" v="residential" />
     <tag id="81244648" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244652" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244648" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244650" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244650" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244651" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244651" k="highway" o="add" type="way" v="residential" />
     <tag id="81244652" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244653" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244652" k="highway" o="add" type="way" v="residential" />
     <tag id="81244653" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244654" k="highway" o="add" type="way" v="residential" />
+    <tag id="81244653" k="highway" o="add" type="way" v="residential" />
     <tag id="81244654" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244654" k="highway" o="add" type="way" v="residential" />
     <tag id="81244655" k="landuse" o="add" type="way" v="military" />
-    <tag id="81244656" k="highway" o="add" type="way" v="unclassified" />
     <tag id="81244656" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81244656" k="highway" o="add" type="way" v="unclassified" />
     <tag id="81244657" k="natural" o="add" type="way" v="wood" />
-    <tag id="81245374" k="highway" o="add" type="way" v="residential" />
     <tag id="81245374" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81245375" k="highway" o="add" type="way" v="residential" />
+    <tag id="81245374" k="highway" o="add" type="way" v="residential" />
     <tag id="81245375" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81245376" k="highway" o="add" type="way" v="residential" />
+    <tag id="81245375" k="highway" o="add" type="way" v="residential" />
     <tag id="81245376" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81245376" k="highway" o="add" type="way" v="residential" />
     <tag id="81245377" k="building" o="add" type="way" v="yes" />
-    <tag id="81245380" k="highway" o="add" type="way" v="residential" />
     <tag id="81245380" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81245380" k="highway" o="add" type="way" v="residential" />
     <tag id="81245385" k="landuse" o="add" type="way" v="brownfield" />
-    <tag id="81245388" k="highway" o="add" type="way" v="unclassified" />
     <tag id="81245388" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81245390" k="highway" o="add" type="way" v="residential" />
+    <tag id="81245388" k="highway" o="add" type="way" v="unclassified" />
     <tag id="81245390" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81245392" k="highway" o="add" type="way" v="residential" />
+    <tag id="81245390" k="highway" o="add" type="way" v="residential" />
     <tag id="81245392" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81245393" k="highway" o="add" type="way" v="residential" />
+    <tag id="81245392" k="highway" o="add" type="way" v="residential" />
     <tag id="81245393" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81245393" k="highway" o="add" type="way" v="residential" />
     <tag id="81245394" k="landuse" o="add" type="way" v="cemetery" />
     <tag id="81245411" k="landuse" o="add" type="way" v="industrial" />
     <tag id="81245412" k="landuse" o="add" type="way" v="industrial" />
+    <tag id="81245460" k="boat" o="add" type="way" v="no" />
+    <tag id="81245460" k="waterway" o="add" type="way" v="stream" />
     <tag id="81245489" k="landuse" o="add" type="way" v="industrial" />
     <tag id="81245490" k="landuse" o="add" type="way" v="industrial" />
-    <tag id="946567296" k="amenity" o="add" type="node" v="school" />
-    <tag id="946567296" k="is_in:town" o="add" type="node" v="Sukhumi" />
-    <tag id="946567296" k="name" o="add" type="node" v="Public School No. 7" />
     <tag id="81245589" k="amenity" o="add" type="way" v="school" />
     <tag id="81245589" k="building" o="add" type="way" v="yes" />
     <tag id="81245590" k="building" o="add" type="way" v="yes" />
@@ -117,14 +384,18 @@
     <tag id="81245755" k="building" o="add" type="way" v="yes" />
     <tag id="81245756" k="building" o="add" type="way" v="yes" />
     <tag id="81245757" k="building" o="add" type="way" v="yes" />
-    <tag id="81245758" k="highway" o="add" type="way" v="residential" />
     <tag id="81245758" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81245758" k="highway" o="add" type="way" v="residential" />
     <tag id="81245761" k="highway" o="add" type="way" v="residential" />
     <tag id="81245762" k="building" o="add" type="way" v="yes" />
     <tag id="81245763" k="highway" o="add" type="way" v="service" />
+    <tag id="81245764" k="usage" o="add" type="way" v="industrial" />
+    <tag id="81245764" k="railway" o="add" type="way" v="rail" />
     <tag id="81245776" k="highway" o="add" type="way" v="unclassified" />
-    <tag id="81245777" k="amenity" o="add" type="way" v="parking" />
     <tag id="81245777" k="area" o="add" type="way" v="yes" />
+    <tag id="81245777" k="amenity" o="add" type="way" v="parking" />
+    <tag id="81245854" k="usage" o="add" type="way" v="industrial" />
+    <tag id="81245854" k="railway" o="add" type="way" v="rail" />
     <tag id="81246311" k="highway" o="add" type="way" v="service" />
     <tag id="81246362" k="boat" o="add" type="way" v="no" />
     <tag id="81246362" k="waterway" o="add" type="way" v="stream" />
@@ -132,394 +403,120 @@
     <tag id="81246363" k="layer" o="add" type="way" v="-1" />
     <tag id="81246363" k="tunnel" o="add" type="way" v="yes" />
     <tag id="81246363" k="waterway" o="add" type="way" v="stream" />
+    <tag id="81246389" k="sport" o="add" type="way" v="soccer" />
+    <tag id="81246389" k="leisure" o="add" type="way" v="pitch" />
     <tag id="81246390" k="leisure" o="add" type="way" v="pitch" />
-    <tag id="1223601" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="946579467" k="amenity" o="add" type="node" v="fuel" />
-    <tag id="946579467" k="fixme" o="add" type="node" v="address? name? tenant?" />
-    <tag id="946579467" k="operator" o="add" type="node" v="A3C" />
-    <tag id="946579468" k="addr:city" o="add" type="node" v="Sukhumi" />
-    <tag id="946579468" k="addr:country" o="add" type="node" v="Abkhazia" />
-    <tag id="946579468" k="amenity" o="add" type="node" v="cafe" />
-    <tag id="946579468" k="fixme" o="add" type="node" v="name? tenant? address?" />
     <tag id="81246509" k="building" o="add" type="way" v="yes" />
     <tag id="81246510" k="building" o="add" type="way" v="yes" />
     <tag id="81246511" k="building" o="add" type="way" v="yes" />
     <tag id="81246512" k="landuse" o="add" type="way" v="brownfield" />
-    <tag id="81246531" k="leisure" o="add" type="way" v="pitch" />
     <tag id="81246531" k="sport" o="add" type="way" v="tennis" />
+    <tag id="81246531" k="leisure" o="add" type="way" v="pitch" />
     <tag id="81246676" k="landuse" o="add" type="way" v="forest" />
     <tag id="81246681" k="leisure" o="add" type="way" v="park" />
     <tag id="81246682" k="landuse" o="add" type="way" v="recreation_ground" />
-    <tag id="946591494" k="man_made" o="add" type="node" v="tower" />
-    <tag id="81247050" k="building" o="add" type="way" v="yes" />
-    <tag id="81247050" k="man_made" o="add" type="way" v="works" />
-    <tag id="81247051" k="highway" o="add" type="way" v="service" />
-    <tag id="81247051" k="service" o="add" type="way" v="driveway" />
-    <tag id="81247051" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81247052" k="building" o="add" type="way" v="yes" />
-    <tag id="81247053" k="highway" o="add" type="way" v="service" />
-    <tag id="81247053" k="service" o="add" type="way" v="driveway" />
-    <tag id="81247053" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81247054" k="amenity" o="add" type="way" v="parking" />
-    <tag id="81247054" k="area" o="add" type="way" v="yes" />
-    <tag id="81247055" k="amenity" o="add" type="way" v="public_building" />
-    <tag id="81247055" k="building" o="add" type="way" v="yes" />
-    <tag id="81247055" k="name" o="add" type="way" v="Central Market" />
-    <tag id="81247056" k="highway" o="add" type="way" v="service" />
-    <tag id="81247056" k="service" o="add" type="way" v="driveway" />
-    <tag id="81247056" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81247129" k="building" o="add" type="way" v="yes" />
-    <tag id="81247672" k="highway" o="add" type="way" v="secondary" />
-    <tag id="81247672" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81247672" k="lit" o="add" type="way" v="yes" />
-    <tag id="81247672" k="name" o="add" type="way" v="&#1091;&#1083;. &#1051;&#1072;&#1082;&#1086;&#1073;&#1072; (Lakoba Str.)" />
-    <tag id="81247672" k="name:en" o="add" type="way" v="Lakoba Street" />
-    <tag id="81247672" k="nat_ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="81247672" k="oneway" o="add" type="way" v="yes" />
-    <tag id="81247672" k="ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="81247672" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81247673" k="highway" o="add" type="way" v="secondary" />
-    <tag id="81247673" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81247673" k="lit" o="add" type="way" v="yes" />
-    <tag id="81247673" k="name" o="add" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072; (Vladislav Ardzinba Str.)" />
-    <tag id="81247673" k="name:en" o="add" type="way" v="Vladislav Ardzinba Street" />
-    <tag id="81247673" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072;" />
-    <tag id="81247673" k="nat_ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="81247673" k="oneway" o="add" type="way" v="yes" />
-    <tag id="81247673" k="ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="81247673" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81247674" k="highway" o="add" type="way" v="residential" />
-    <tag id="81247674" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81247674" k="lit" o="add" type="way" v="yes" />
-    <tag id="81247674" k="name" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
-    <tag id="81247674" k="name:en" o="add" type="way" v="Gulia Street" />
-    <tag id="81247674" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
-    <tag id="81247674" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81247675" k="highway" o="add" type="way" v="residential" />
-    <tag id="81247675" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81247675" k="lit" o="add" type="way" v="yes" />
-    <tag id="81247675" k="name" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
-    <tag id="81247675" k="name:en" o="add" type="way" v="Gulia Street" />
-    <tag id="81247675" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
-    <tag id="81247675" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81247676" k="highway" o="add" type="way" v="residential" />
-    <tag id="81247676" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81247676" k="lit" o="add" type="way" v="yes" />
-    <tag id="81247676" k="name" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
-    <tag id="81247676" k="name:en" o="add" type="way" v="Gulia Street" />
-    <tag id="81247676" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
-    <tag id="81247676" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81247677" k="highway" o="add" type="way" v="residential" />
-    <tag id="81247677" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81247677" k="lit" o="add" type="way" v="yes" />
-    <tag id="81247677" k="name" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072; (Aiaaira Ave.)" />
-    <tag id="81247677" k="name:en" o="add" type="way" v="Aiaaira Avenue" />
-    <tag id="81247677" k="name:ru" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072;" />
-    <tag id="81247677" k="oneway" o="add" type="way" v="no" />
-    <tag id="81247677" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81249966" k="highway" o="add" type="way" v="residential" />
-    <tag id="81249966" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81249967" k="highway" o="add" type="way" v="residential" />
-    <tag id="81249967" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81249968" k="highway" o="add" type="way" v="residential" />
-    <tag id="81249968" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81249969" k="highway" o="add" type="way" v="residential" />
-    <tag id="81249970" k="landuse" o="add" type="way" v="industrial" />
-    <tag id="946638497" k="railway" o="add" type="node" v="level_crossing" />
-    <tag id="81249971" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="81249971" k="landuse" o="add" type="way" v="residential" />
-    <tag id="81249971" k="place" o="add" type="way" v="suburb" />
-    <tag id="81249971" k="place_name" o="add" type="way" v="New District" />
-    <tag id="81249972" k="highway" o="add" type="way" v="service" />
-    <tag id="81249972" k="service" o="add" type="way" v="driveway" />
-    <tag id="81249973" k="highway" o="add" type="way" v="residential" />
-    <tag id="81249973" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81249974" k="highway" o="add" type="way" v="residential" />
-    <tag id="81249974" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="922917217" k="amenity" o="none" type="node" v="cafe" />
-    <tag id="922917217" k="fixme" o="none" type="node" v="operator? tenant? address?" />
-    <tag id="922917217" k="name" o="none" type="node" v="Amra" />
-    <tag id="27848311" k="source" o="add" type="node" v="PGS" />
-    <tag id="27859133" k="source" o="add" type="node" v="PGS" />
-    <tag id="27847988" k="source" o="none" type="node" v="PGS" />
-    <tag id="27830798" k="source" o="none" type="node" v="PGS" />
-    <tag id="27829590" k="source" o="add" type="node" v="PGS" />
-    <tag id="27850911" k="source" o="add" type="node" v="PGS" />
-    <tag id="27872506" k="source" o="add" type="node" v="PGS" />
-    <tag id="27850297" k="source" o="none" type="node" v="PGS" />
-    <tag id="27850555" k="source" o="add" type="node" v="PGS" />
-    <tag id="27851134" k="source" o="add" type="node" v="PGS" />
-    <tag id="27860465" k="source" o="add" type="node" v="PGS" />
-    <tag id="27860537" k="source" o="add" type="node" v="PGS" />
-    <tag id="27870411" k="source" o="add" type="node" v="PGS" />
-    <tag id="27871026" k="source" o="add" type="node" v="PGS" />
-    <tag id="27829088" k="source" o="none" type="node" v="PGS" />
-    <tag id="27829404" k="source" o="none" type="node" v="PGS" />
-    <tag id="27870144" k="source" o="none" type="node" v="PGS" />
-    <tag id="27839884" k="source" o="add" type="node" v="PGS" />
-    <tag id="27849400" k="source" o="add" type="node" v="PGS" />
-    <tag id="27859860" k="source" o="add" type="node" v="PGS" />
-    <tag id="27870737" k="source" o="add" type="node" v="PGS" />
-    <tag id="27849834" k="source" o="none" type="node" v="PGS" />
-    <tag id="27859942" k="source" o="none" type="node" v="PGS" />
-    <tag id="27839151" k="source" o="add" type="node" v="PGS" />
-    <tag id="517236792" k="is_in:town" o="add" type="node" v="Sukhumi" />
-    <tag id="517236792" k="name" o="modify" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082; (Cape Red Lighthouse)" />
-    <tag id="517236792" k="name:en" o="add" type="node" v="Cape Red Lighthouse" />
-    <tag id="517236792" k="name:ru" o="add" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082;" />
-    <tag id="517236792" k="place" o="none" type="node" v="suburb" />
-    <tag id="512071085" k="is_in:town" o="add" type="node" v="Sukhumi" />
-    <tag id="512071085" k="name" o="modify" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082; (Cape Red Lighthouse)" />
-    <tag id="512071085" k="name:en" o="add" type="node" v="Cape Red Lighthouse" />
-    <tag id="512071085" k="name:ru" o="add" type="node" v="&#1052;&#1099;&#1089; &#1050;&#1088;&#1072;&#1089;&#1085;&#1099;&#1081; &#1052;&#1072;&#1103;&#1082;" />
-    <tag id="512071085" k="natural" o="none" type="node" v="cape" />
-    <tag id="27832834" k="source" o="none" type="node" v="PGS" />
-    <tag id="27833409" k="source" o="none" type="node" v="PGS" />
-    <tag id="27845660" k="source" o="none" type="node" v="PGS" />
-    <tag id="27854568" k="source" o="none" type="node" v="PGS" />
-    <tag id="27863778" k="source" o="none" type="node" v="PGS" />
-    <tag id="27876046" k="source" o="none" type="node" v="PGS" />
-    <tag id="27842623" k="source" o="none" type="node" v="PGS" />
-    <tag id="27843176" k="source" o="none" type="node" v="PGS" />
-    <tag id="27845422" k="source" o="none" type="node" v="PGS" />
-    <tag id="27855095" k="source" o="none" type="node" v="PGS" />
-    <tag id="27855232" k="source" o="none" type="node" v="PGS" />
-    <tag id="27863813" k="source" o="none" type="node" v="PGS" />
-    <tag id="27865046" k="source" o="none" type="node" v="PGS" />
-    <tag id="27873923" k="source" o="none" type="node" v="PGS" />
-    <tag id="27831597" k="source" o="none" type="node" v="PGS" />
-    <tag id="27833606" k="source" o="none" type="node" v="PGS" />
-    <tag id="27843926" k="source" o="none" type="node" v="PGS" />
-    <tag id="27853098" k="source" o="none" type="node" v="PGS" />
-    <tag id="27864470" k="source" o="none" type="node" v="PGS" />
-    <tag id="27873695" k="source" o="none" type="node" v="PGS" />
-    <tag id="27831300" k="source" o="none" type="node" v="PGS" />
-    <tag id="27831333" k="source" o="none" type="node" v="PGS" />
-    <tag id="27841685" k="source" o="none" type="node" v="PGS" />
-    <tag id="27843688" k="source" o="none" type="node" v="PGS" />
-    <tag id="27852402" k="source" o="none" type="node" v="PGS" />
-    <tag id="27853893" k="source" o="none" type="node" v="PGS" />
-    <tag id="27862445" k="source" o="none" type="node" v="PGS" />
-    <tag id="27864641" k="source" o="none" type="node" v="PGS" />
-    <tag id="27875005" k="source" o="none" type="node" v="PGS" />
-    <tag id="27840989" k="source" o="none" type="node" v="PGS" />
-    <tag id="27841213" k="source" o="none" type="node" v="PGS" />
-    <tag id="27852060" k="source" o="none" type="node" v="PGS" />
-    <tag id="27853353" k="source" o="none" type="node" v="PGS" />
-    <tag id="27853708" k="source" o="none" type="node" v="PGS" />
-    <tag id="27863509" k="source" o="none" type="node" v="PGS" />
-    <tag id="27872045" k="source" o="none" type="node" v="PGS" />
-    <tag id="27874419" k="source" o="none" type="node" v="PGS" />
-    <tag id="27830563" k="source" o="none" type="node" v="PGS" />
-    <tag id="27841450" k="source" o="none" type="node" v="PGS" />
-    <tag id="27852271" k="source" o="none" type="node" v="PGS" />
-    <tag id="27861294" k="source" o="none" type="node" v="PGS" />
-    <tag id="27872141" k="source" o="none" type="node" v="PGS" />
-    <tag id="920578420" k="amenity" o="none" type="node" v="fuel" />
-    <tag id="920578420" k="fuel:diesel" o="none" type="node" v="yes" />
-    <tag id="920578420" k="fuel:octane_91" o="none" type="node" v="yes" />
-    <tag id="920578420" k="fuel:octane_95" o="none" type="node" v="yes" />
-    <tag id="920578420" k="fuel:octane_98" o="none" type="node" v="yes" />
-    <tag id="920578420" k="operator" o="none" type="node" v="&#1040;&#1047;&#1057;" />
-    <tag id="517236951" k="is_in:town" o="add" type="node" v="Sukhumi" />
-    <tag id="517236951" k="name" o="modify" type="node" v="&#1053;&#1086;&#1074;&#1099;&#1081; &#1088;&#1072;&#1081;&#1086;&#1085; (New District)" />
-    <tag id="517236951" k="name:en" o="add" type="node" v="New District" />
-    <tag id="517236951" k="name:ru" o="add" type="node" v="&#1053;&#1086;&#1074;&#1099;&#1081; &#1088;&#1072;&#1081;&#1086;&#1085;" />
-    <tag id="517236951" k="place" o="none" type="node" v="suburb" />
-    <tag id="517236952" k="is_in:country" o="add" type="node" v="Abkhazia; Georgia" />
-    <tag id="517236952" k="is_in:district" o="add" type="node" v="Sukhumi" />
-    <tag id="517236952" k="is_in:region" o="add" type="node" v="Abkhazeti" />
-    <tag id="517236952" k="name" o="modify" type="node" v="&#1051;&#1077;&#1095;&#1082;&#1086;&#1087; (Lechkop)" />
-    <tag id="517236952" k="name:de" o="add" type="node" v="Letschkop" />
-    <tag id="517236952" k="name:en" o="add" type="node" v="Lechkop" />
-    <tag id="517236952" k="name:ka" o="add" type="node" v="&#4314;&#4308;&#4329;&#4313;&#4317;&#4324;&#4312;" />
-    <tag id="517236952" k="name:ru" o="add" type="node" v="&#1051;&#1077;&#1095;&#1082;&#1086;&#1087;" />
-    <tag id="517236952" k="place" o="none" type="node" v="village" />
-    <tag id="81244411" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244411" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244484" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244484" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244491" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244491" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244650" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244650" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81244651" k="highway" o="add" type="way" v="residential" />
-    <tag id="81244651" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="81245460" k="boat" o="add" type="way" v="no" />
-    <tag id="81245460" k="waterway" o="add" type="way" v="stream" />
-    <tag id="81245764" k="railway" o="add" type="way" v="rail" />
-    <tag id="81245764" k="usage" o="add" type="way" v="industrial" />
-    <tag id="81245854" k="railway" o="add" type="way" v="rail" />
-    <tag id="81245854" k="usage" o="add" type="way" v="industrial" />
-    <tag id="81246389" k="leisure" o="add" type="way" v="pitch" />
-    <tag id="81246389" k="sport" o="add" type="way" v="soccer" />
-    <tag id="81246683" k="highway" o="add" type="way" v="secondary" />
-    <tag id="81246683" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81246683" k="lit" o="add" type="way" v="yes" />
+    <tag id="81246683" k="ref" o="add" type="way" v="&#4321; 1" />
     <tag id="81246683" k="name" o="add" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103; (Shamil Str.)" />
+    <tag id="81246683" k="oneway" o="add" type="way" v="yes" />
+    <tag id="81246683" k="highway" o="add" type="way" v="secondary" />
     <tag id="81246683" k="name:en" o="add" type="way" v="Shamil Street" />
     <tag id="81246683" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103;" />
     <tag id="81246683" k="nat_ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="81246683" k="oneway" o="add" type="way" v="yes" />
-    <tag id="81246683" k="ref" o="add" type="way" v="&#4321; 1" />
     <tag id="81246683" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81246685" k="highway" o="add" type="way" v="residential" />
-    <tag id="81246685" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81246683" k="is_in:town" o="add" type="way" v="Sukhumi" />
     <tag id="81246685" k="lit" o="add" type="way" v="yes" />
     <tag id="81246685" k="name" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072; (Aiaaira Ave.)" />
+    <tag id="81246685" k="oneway" o="add" type="way" v="no" />
+    <tag id="81246685" k="highway" o="add" type="way" v="residential" />
     <tag id="81246685" k="name:en" o="add" type="way" v="Aiaaira Avenue" />
     <tag id="81246685" k="name:ru" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072;" />
-    <tag id="81246685" k="oneway" o="add" type="way" v="no" />
     <tag id="81246685" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015773" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015773" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015773" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015773" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1044;&#1073;&#1072;&#1088; (Dbar Str.)" />
-    <tag id="46015773" k="name:en" o="add" type="way" v="Dbar Street" />
-    <tag id="46015773" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1044;&#1073;&#1072;&#1088;" />
-    <tag id="46015773" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015780" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015780" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015780" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015780" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1042;&#1086;&#1088;&#1086;&#1085;&#1086;&#1074;&#1072; (Voronov Str.)" />
-    <tag id="46015780" k="name:en" o="add" type="way" v="Voronov Street" />
-    <tag id="46015780" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1042;&#1086;&#1088;&#1086;&#1085;&#1086;&#1074;&#1072;" />
-    <tag id="46015780" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="81174016" k="name" o="none" type="way" v="Black Sea" />
-    <tag id="81174016" k="natural" o="none" type="way" v="coastline" />
-    <tag id="81174016" k="source" o="none" type="way" v="IRS;PGS;ScanEx" />
-    <tag id="25356870" k="highway" o="none" type="way" v="residential" />
-    <tag id="25356870" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="25356870" k="lit" o="add" type="way" v="yes" />
-    <tag id="25356870" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1040;&#1082;. &#1057;&#1072;&#1093;&#1072;&#1088;&#1086;&#1074;&#1072; (Acad. Sakharov Str.)" />
-    <tag id="25356870" k="name:en" o="add" type="way" v="Acad. Sakharov Street" />
-    <tag id="25356870" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1082;. &#1057;&#1072;&#1093;&#1072;&#1088;&#1086;&#1074;&#1072;" />
-    <tag id="25356870" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015783" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015783" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015783" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015783" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1040;&#1073;&#1072;&#1079;&#1080;&#1085;&#1089;&#1082;&#1072;&#1103; (Abaza Str.)" />
-    <tag id="46015783" k="name:en" o="add" type="way" v="Abaza Street" />
-    <tag id="46015783" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1073;&#1072;&#1079;&#1080;&#1085;&#1089;&#1082;&#1072;&#1103;" />
-    <tag id="46015783" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="66214413" k="highway" o="none" type="way" v="residential" />
-    <tag id="66214413" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="66214413" k="lit" o="add" type="way" v="yes" />
-    <tag id="66214413" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1050;&#1086;&#1085;&#1092;&#1077;&#1076;&#1077;&#1088;&#1072;&#1090;&#1086;&#1074; (Confederation Str.)" />
-    <tag id="66214413" k="name:en" o="add" type="way" v="Confederation Street" />
-    <tag id="66214413" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1050;&#1086;&#1085;&#1092;&#1077;&#1076;&#1077;&#1088;&#1072;&#1090;&#1086;&#1074;" />
-    <tag id="66214413" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015793" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015793" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015793" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015793" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1040;&#1080;&#1076;&#1075;&#1099;&#1087;&#1072;&#1088;&#1072; (Aidgypara Str.)" />
-    <tag id="46015793" k="name:en" o="add" type="way" v="Aidgypara Street" />
-    <tag id="46015793" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1040;&#1080;&#1076;&#1075;&#1099;&#1087;&#1072;&#1088;&#1072;" />
-    <tag id="46015793" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41424620" k="highway" o="none" type="way" v="secondary" />
-    <tag id="41424620" k="name" o="none" type="way" v="&#1041;&#1079;&#1099;&#1073;&#1089;&#1082;&#1086;&#1077; &#1096;&#1086;&#1089;&#1089;&#1077; / Bzybskoe &#353;osse" />
-    <tag id="81178181" k="highway" o="none" type="way" v="residential" />
-    <tag id="81178181" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="25356868" k="highway" o="none" type="way" v="residential" />
-    <tag id="25356868" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="25356868" k="lit" o="add" type="way" v="yes" />
-    <tag id="25356868" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1048;&#1085;&#1072;&#1083;-&#1080;&#1087;&#1072; (Inal-Ipa Str.)" />
-    <tag id="25356868" k="name:en" o="add" type="way" v="Inal-Ipa Street" />
-    <tag id="25356868" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1048;&#1085;&#1072;&#1083;-&#1080;&#1087;&#1072;" />
-    <tag id="25356868" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41289871" k="int_name" o="none" type="way" v="Lake Sukhum" />
-    <tag id="41289871" k="natural" o="none" type="way" v="water" />
-    <tag id="41415958" k="highway" o="none" type="way" v="primary" />
-    <tag id="41415958" k="int_ref" o="none" type="way" v="E 97" />
-    <tag id="41415958" k="layer" o="none" type="way" v="1" />
-    <tag id="41415958" k="name" o="none" type="way" v="&#1091;&#1083;. &#1069;&#1096;&#1073;&#1072; / ul. &#200;&#353;ba" />
-    <tag id="41415958" k="nat_ref" o="none" type="way" v="&#4321; 1" />
-    <tag id="41415958" k="network" o="none" type="way" v="e-road" />
-    <tag id="41415958" k="ref" o="none" type="way" v="E 97 / &#4321; 1" />
-    <tag id="41415958" k="route" o="none" type="way" v="road" />
-    <tag id="41415958" k="type" o="none" type="way" v="route" />
-    <tag id="81178199" k="highway" o="none" type="way" v="residential" />
-    <tag id="81178199" k="source" o="none" type="way" v="ScanEx" />
-    <tag id="41415967" k="highway" o="none" type="way" v="primary" />
-    <tag id="41415967" k="int_ref" o="none" type="way" v="E 97" />
-    <tag id="41415967" k="name" o="none" type="way" v="&#1091;&#1083;. &#1044;&#1079;&#1080;&#1076;&#1079;&#1072;&#1088;&#1080;&#1103; (Dzidzaria Str.)" />
-    <tag id="41415967" k="name:de" o="none" type="way" v="Dsidsariastra&#223;e" />
-    <tag id="41415967" k="name:en" o="none" type="way" v="Dzidzaria Street" />
-    <tag id="41415967" k="nat_ref" o="none" type="way" v="&#4321; 1" />
-    <tag id="41415967" k="ref" o="none" type="way" v="E 97; &#4321; 1" />
-    <tag id="46015916" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015867" k="highway" o="none" type="way" v="residential" />
-    <tag id="78749789" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="78749789" k="operator" o="none" type="way" v="&#1040;&#1191;&#1089;&#1085;&#1099; &#1040;&#1080;&#1203;&#1072;&#1072;&#1084;&#1193;&#1072; (Abkhazian Railway)" />
-    <tag id="78749789" k="railway" o="none" type="way" v="rail" />
-    <tag id="78749789" k="usage" o="none" type="way" v="main" />
-    <tag id="46015746" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015746" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015746" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015746" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1055;&#1072;&#1088;&#1082;&#1086;&#1074;&#1072;&#1103; (Park Str.)" />
-    <tag id="46015746" k="name:en" o="add" type="way" v="Park Street" />
-    <tag id="46015746" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1055;&#1072;&#1088;&#1082;&#1086;&#1074;&#1072;&#1103;" />
-    <tag id="46015746" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015741" k="highway" o="none" type="way" v="secondary" />
-    <tag id="46015741" k="name" o="none" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072;" />
-    <tag id="46015741" k="oneway" o="none" type="way" v="yes" />
-    <tag id="66167956" k="highway" o="modify" type="way" v="residential" />
-    <tag id="66167956" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="66167956" k="lit" o="add" type="way" v="yes" />
-    <tag id="66167956" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103; (Shamil Str.)" />
-    <tag id="66167956" k="name:en" o="add" type="way" v="Shamil Street" />
-    <tag id="66167956" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103;" />
-    <tag id="66167956" k="oneway" o="add" type="way" v="no" />
-    <tag id="66167956" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015697" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015750" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015750" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015750" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015750" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103; (Shamil Str.)" />
-    <tag id="46015750" k="name:en" o="add" type="way" v="Shamil Street" />
-    <tag id="46015750" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1064;&#1072;&#1084;&#1080;&#1083;&#1103;" />
-    <tag id="46015750" k="oneway" o="add" type="way" v="no" />
-    <tag id="46015750" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="79142963" k="highway" o="none" type="way" v="secondary" />
-    <tag id="79142963" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="79142963" k="lit" o="add" type="way" v="yes" />
-    <tag id="79142963" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072; (Vladislav Ardzinba Str.)" />
-    <tag id="79142963" k="name:en" o="add" type="way" v="Vladislav Ardzinba Street" />
-    <tag id="79142963" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072;" />
-    <tag id="79142963" k="nat_ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="79142963" k="oneway" o="add" type="way" v="yes" />
-    <tag id="79142963" k="ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="79142963" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25356866" k="highway" o="modify" type="way" v="secondary" />
-    <tag id="25356866" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="25356866" k="lit" o="add" type="way" v="yes" />
-    <tag id="25356866" k="name" o="modify" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072; (Aiaaira Ave.)" />
-    <tag id="25356866" k="name:en" o="add" type="way" v="Aiaaira Avenue" />
-    <tag id="25356866" k="name:ru" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072;" />
-    <tag id="25356866" k="nat_ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="25356866" k="oneway" o="add" type="way" v="yes" />
-    <tag id="25356866" k="ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="25356866" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="78475115" k="highway" o="none" type="way" v="residential" />
-    <tag id="78475115" k="source" o="add" type="way" v="ScanEx" />
-    <tag id="25356867" k="highway" o="none" type="way" v="secondary" />
-    <tag id="25356867" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="25356867" k="lit" o="add" type="way" v="yes" />
-    <tag id="25356867" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1051;&#1072;&#1082;&#1086;&#1073;&#1072; (Lakoba Str.)" />
-    <tag id="25356867" k="name:en" o="add" type="way" v="Lakoba Street" />
-    <tag id="25356867" k="nat_ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="25356867" k="oneway" o="none" type="way" v="yes" />
-    <tag id="25356867" k="ref" o="add" type="way" v="&#4321; 1" />
-    <tag id="25356867" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="46015945" k="highway" o="none" type="way" v="residential" />
-    <tag id="46015945" k="is_in:town" o="add" type="way" v="Sukhumi" />
-    <tag id="46015945" k="lit" o="add" type="way" v="yes" />
-    <tag id="46015945" k="name" o="modify" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
-    <tag id="46015945" k="name:en" o="add" type="way" v="Gulia Street" />
-    <tag id="46015945" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
-    <tag id="46015945" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41992063" k="highway" o="none" type="way" v="residential" />
-    <tag id="41438754" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="41992061" k="highway" o="none" type="way" v="residential" />
+    <tag id="81246685" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81247050" k="building" o="add" type="way" v="yes" />
+    <tag id="81247050" k="man_made" o="add" type="way" v="works" />
+    <tag id="81247051" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81247051" k="highway" o="add" type="way" v="service" />
+    <tag id="81247051" k="service" o="add" type="way" v="driveway" />
+    <tag id="81247052" k="building" o="add" type="way" v="yes" />
+    <tag id="81247053" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81247053" k="highway" o="add" type="way" v="service" />
+    <tag id="81247053" k="service" o="add" type="way" v="driveway" />
+    <tag id="81247054" k="area" o="add" type="way" v="yes" />
+    <tag id="81247054" k="amenity" o="add" type="way" v="parking" />
+    <tag id="81247055" k="name" o="add" type="way" v="Central Market" />
+    <tag id="81247055" k="amenity" o="add" type="way" v="public_building" />
+    <tag id="81247055" k="building" o="add" type="way" v="yes" />
+    <tag id="81247056" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81247056" k="highway" o="add" type="way" v="service" />
+    <tag id="81247056" k="service" o="add" type="way" v="driveway" />
+    <tag id="81247129" k="building" o="add" type="way" v="yes" />
+    <tag id="81247672" k="lit" o="add" type="way" v="yes" />
+    <tag id="81247672" k="ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="81247672" k="name" o="add" type="way" v="&#1091;&#1083;. &#1051;&#1072;&#1082;&#1086;&#1073;&#1072; (Lakoba Str.)" />
+    <tag id="81247672" k="oneway" o="add" type="way" v="yes" />
+    <tag id="81247672" k="highway" o="add" type="way" v="secondary" />
+    <tag id="81247672" k="name:en" o="add" type="way" v="Lakoba Street" />
+    <tag id="81247672" k="nat_ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="81247672" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81247672" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81247673" k="lit" o="add" type="way" v="yes" />
+    <tag id="81247673" k="ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="81247673" k="name" o="add" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072; (Vladislav Ardzinba Str.)" />
+    <tag id="81247673" k="oneway" o="add" type="way" v="yes" />
+    <tag id="81247673" k="highway" o="add" type="way" v="secondary" />
+    <tag id="81247673" k="name:en" o="add" type="way" v="Vladislav Ardzinba Street" />
+    <tag id="81247673" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1080;&#1084;. &#1042;&#1083;&#1072;&#1076;&#1080;&#1089;&#1083;&#1072;&#1074;&#1072; &#1040;&#1088;&#1076;&#1079;&#1080;&#1085;&#1073;&#1072;" />
+    <tag id="81247673" k="nat_ref" o="add" type="way" v="&#4321; 1" />
+    <tag id="81247673" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81247673" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81247674" k="lit" o="add" type="way" v="yes" />
+    <tag id="81247674" k="name" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
+    <tag id="81247674" k="highway" o="add" type="way" v="residential" />
+    <tag id="81247674" k="name:en" o="add" type="way" v="Gulia Street" />
+    <tag id="81247674" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
+    <tag id="81247674" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81247674" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81247675" k="lit" o="add" type="way" v="yes" />
+    <tag id="81247675" k="name" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
+    <tag id="81247675" k="highway" o="add" type="way" v="residential" />
+    <tag id="81247675" k="name:en" o="add" type="way" v="Gulia Street" />
+    <tag id="81247675" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
+    <tag id="81247675" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81247675" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81247676" k="lit" o="add" type="way" v="yes" />
+    <tag id="81247676" k="name" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072; (Gulia Str.)" />
+    <tag id="81247676" k="highway" o="add" type="way" v="residential" />
+    <tag id="81247676" k="name:en" o="add" type="way" v="Gulia Street" />
+    <tag id="81247676" k="name:ru" o="add" type="way" v="&#1091;&#1083;. &#1043;&#1091;&#1083;&#1080;&#1072;" />
+    <tag id="81247676" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81247676" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81247677" k="lit" o="add" type="way" v="yes" />
+    <tag id="81247677" k="name" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072; (Aiaaira Ave.)" />
+    <tag id="81247677" k="oneway" o="add" type="way" v="no" />
+    <tag id="81247677" k="highway" o="add" type="way" v="residential" />
+    <tag id="81247677" k="name:en" o="add" type="way" v="Aiaaira Avenue" />
+    <tag id="81247677" k="name:ru" o="add" type="way" v="&#1087;&#1088;. &#1040;&#1080;&#1072;&#1072;&#1080;&#1088;&#1072;" />
+    <tag id="81247677" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="81247677" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81249966" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81249966" k="highway" o="add" type="way" v="residential" />
+    <tag id="81249967" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81249967" k="highway" o="add" type="way" v="residential" />
+    <tag id="81249968" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81249968" k="highway" o="add" type="way" v="residential" />
+    <tag id="81249969" k="highway" o="add" type="way" v="residential" />
+    <tag id="81249970" k="landuse" o="add" type="way" v="industrial" />
+    <tag id="81249971" k="place" o="add" type="way" v="suburb" />
+    <tag id="81249971" k="landuse" o="add" type="way" v="residential" />
+    <tag id="81249971" k="is_in:town" o="add" type="way" v="Sukhumi" />
+    <tag id="81249971" k="place_name" o="add" type="way" v="New District" />
+    <tag id="81249972" k="highway" o="add" type="way" v="service" />
+    <tag id="81249972" k="service" o="add" type="way" v="driveway" />
+    <tag id="81249973" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81249973" k="highway" o="add" type="way" v="residential" />
+    <tag id="81249974" k="source" o="add" type="way" v="ScanEx" />
+    <tag id="81249974" k="highway" o="add" type="way" v="residential" />
+    <tag id="1223601" k="type" o="add" type="relation" v="multipolygon" />
   </body>
 </changeset>

@@ -1,1 +1,27 @@
-<changeset id="55824395" schema="1"><counts nodesAdded="2" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="poi" /><tag k="created_by" v="JOSM/1.5 (13265 en)" /><tag k="source" v="-" /></meta><body><tag id="5367683430" k="amenity" o="add" type="node" v="restaurant" /><tag id="5367683430" k="cuisine" o="add" type="node" v="crepe" /><tag id="5367683430" k="name" o="add" type="node" v="Po drodze" /><tag id="5367683430" k="opening_hours" o="add" type="node" v="Mo-Sa 10:00-18:00; Sa 11:00-18:00" /><tag id="5367683431" k="amenity" o="add" type="node" v="restaurant" /><tag id="5367683431" k="cuisine" o="add" type="node" v="italian" /><tag id="5367683431" k="name" o="add" type="node" v="Canis" /><tag id="5367683431" k="opening_hours" o="add" type="node" v="Mo-Su 12:00-00:00" /><tag id="2507388630" k="cuisine" o="modify" type="node" v="ukrainian" /><tag id="2507388630" k="name" o="modify" type="node" v="Pan Kotowski" /><tag id="2507388630" k="opening_hours" o="add" type="node" v="Mo-Fr 10:00-23:00; Sa-Su 13:00-23:00" /><tag id="3892659303" k="name" o="modify" type="node" v="Ciao Ciao" /><tag id="3892659303" k="opening_hours" o="modify" type="node" v="Su-Th 10:00-21:00; Fr-Sa 10:00-22:00" /></body></changeset>
+<changeset id="55824395" schema="2">
+  <counts nodesAdded="2" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="poi" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en)" />
+    <tag k="source" v="-" />
+  </meta>
+  <body>
+    <tag id="2507388630" k="name" o="modify" type="node" v="Pan Kotowski" />
+    <tag id="2507388630" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="2507388630" k="cuisine" o="modify" type="node" v="ukrainian" />
+    <tag id="2507388630" k="opening_hours" o="add" type="node" v="Mo-Fr 10:00-23:00; Sa-Su 13:00-23:00" />
+    <tag id="3892659303" k="name" o="modify" type="node" v="Ciao Ciao" />
+    <tag id="3892659303" k="source" o="none" type="node" v="survey" />
+    <tag id="3892659303" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="3892659303" k="cuisine" o="none" type="node" v="italian" />
+    <tag id="3892659303" k="opening_hours" o="modify" type="node" v="Su-Th 10:00-21:00; Fr-Sa 10:00-22:00" />
+    <tag id="5367683430" k="name" o="add" type="node" v="Po drodze" />
+    <tag id="5367683430" k="amenity" o="add" type="node" v="restaurant" />
+    <tag id="5367683430" k="cuisine" o="add" type="node" v="crepe" />
+    <tag id="5367683430" k="opening_hours" o="add" type="node" v="Mo-Sa 10:00-18:00; Sa 11:00-18:00" />
+    <tag id="5367683431" k="name" o="add" type="node" v="Canis" />
+    <tag id="5367683431" k="amenity" o="add" type="node" v="restaurant" />
+    <tag id="5367683431" k="cuisine" o="add" type="node" v="italian" />
+    <tag id="5367683431" k="opening_hours" o="add" type="node" v="Mo-Su 12:00-00:00" />
+  </body>
+</changeset>

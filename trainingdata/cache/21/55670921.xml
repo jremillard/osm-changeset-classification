@@ -1,1 +1,38 @@
-<changeset id="55670921" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="1" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="changesets_count" v="1" /><tag k="comment" v="this is my business and people can not find it.. your mapping (used by estatesales.net) is directing people across the street" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5355717572" k="addr:city" o="add" type="node" v="Cheektowaga" /><tag id="5355717572" k="addr:housenumber" o="add" type="node" v="1684" /><tag id="5355717572" k="addr:postcode" o="add" type="node" v="14225" /><tag id="5355717572" k="addr:state" o="add" type="node" v="NY" /><tag id="5355717572" k="addr:street" o="add" type="node" v="Walden Avenue" /><tag id="5355717572" k="addr:unit" o="add" type="node" v="Suite 200" /><tag id="5355717572" k="description" o="add" type="node" v="ESTATE SALE CLEARANCE WAREHOUSE and ESTATE LIQUIDATION SERVICES" /><tag id="5355717572" k="email" o="add" type="node" v="info@stewartestateswny.com" /><tag id="5355717572" k="name" o="add" type="node" v="Stewart Estate Services" /><tag id="5355717572" k="website" o="add" type="node" v="www.WNY.estate" /><tag id="278321330" k="oneway" o="modify" type="way" v="reversible" /></body></changeset>
+<changeset id="55670921" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="1" />
+    <tag k="comment" v="this is my business and people can not find it.. your mapping (used by estatesales.net) is directing people across the street" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="5355717572" k="name" o="add" type="node" v="Stewart Estate Services" />
+    <tag id="5355717572" k="email" o="add" type="node" v="info@stewartestateswny.com" />
+    <tag id="5355717572" k="website" o="add" type="node" v="www.WNY.estate" />
+    <tag id="5355717572" k="addr:city" o="add" type="node" v="Cheektowaga" />
+    <tag id="5355717572" k="addr:unit" o="add" type="node" v="Suite 200" />
+    <tag id="5355717572" k="addr:state" o="add" type="node" v="NY" />
+    <tag id="5355717572" k="addr:street" o="add" type="node" v="Walden Avenue" />
+    <tag id="5355717572" k="description" o="add" type="node" v="ESTATE SALE CLEARANCE WAREHOUSE and ESTATE LIQUIDATION SERVICES" />
+    <tag id="5355717572" k="addr:postcode" o="add" type="node" v="14225" />
+    <tag id="5355717572" k="addr:housenumber" o="add" type="node" v="1684" />
+    <tag id="278321330" k="hgv" o="none" type="way" v="designated" />
+    <tag id="278321330" k="name" o="none" type="way" v="Walden Avenue" />
+    <tag id="278321330" k="oneway" o="modify" type="way" v="reversible" />
+    <tag id="278321330" k="highway" o="none" type="way" v="primary" />
+    <tag id="278321330" k="maxspeed" o="none" type="way" v="45 mph" />
+    <tag id="278321330" k="nysdot_ref" o="none" type="way" v="952Q" />
+    <tag id="278321330" k="tiger:cfcc" o="none" type="way" v="A31" />
+    <tag id="278321330" k="tiger:county" o="none" type="way" v="Erie, NY" />
+    <tag id="278321330" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="278321330" k="tiger:zip_left" o="none" type="way" v="14211" />
+    <tag id="278321330" k="tiger:name_base" o="none" type="way" v="Walden" />
+    <tag id="278321330" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="278321330" k="tiger:zip_right" o="none" type="way" v="14211" />
+    <tag id="278321330" k="hgv:state_network" o="none" type="way" v="yes" />
+    <tag id="278321330" k="source:hgv:state_network" o="none" type="way" v="NYSDOT https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/repository/2010%20trk%20access%20bk.pdf" />
+  </body>
+</changeset>

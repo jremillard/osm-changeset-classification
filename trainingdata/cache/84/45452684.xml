@@ -1,1 +1,21 @@
-<changeset id="45452684" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="New property owner again. Public access is limited to two times per year. Dates for public access are on the sacred oak facebook page." /><tag k="created_by" v="iD 2.0.2" /><tag k="host" v="https://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="4630735367" k="addr:city" o="add" type="node" v="phila" /><tag id="4630735367" k="addr:housenumber" o="add" type="node" v="2121" /><tag id="4630735367" k="addr:postcode" o="add" type="node" v="19149" /><tag id="4630735367" k="addr:state" o="add" type="node" v="pa" /><tag id="4630735367" k="addr:street" o="add" type="node" v="Longshore Avenue" /><tag id="4630735367" k="description" o="add" type="node" v="Welcome to the Church of Christ where all are invited to come hear the Word of God preached directly from the Holy Scriptures.  Radio Broadcast Saturday: WTMR 800 AM -  6:45 A.M. to 7:15 A.M. Friday: WINB Radio (www.winb.com) - 5:30 P.M." /></body></changeset>
+<changeset id="45452684" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="New property owner again. Public access is limited to two times per year. Dates for public access are on the sacred oak facebook page." />
+    <tag k="created_by" v="iD 2.0.2" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4630735367" k="name" o="none" type="node" v="Church of Christ" />
+    <tag id="4630735367" k="amenity" o="none" type="node" v="place_of_worship" />
+    <tag id="4630735367" k="religion" o="none" type="node" v="christian" />
+    <tag id="4630735367" k="addr:city" o="add" type="node" v="phila" />
+    <tag id="4630735367" k="addr:state" o="add" type="node" v="pa" />
+    <tag id="4630735367" k="addr:street" o="add" type="node" v="Longshore Avenue" />
+    <tag id="4630735367" k="description" o="add" type="node" v="Welcome to the Church of Christ where all are invited to come hear the Word of God preached directly from the Holy Scriptures.  Radio Broadcast Saturday: WTMR 800 AM -  6:45 A.M. to 7:15 A.M. Friday: WINB Radio (www.winb.com) - 5:30 P.M." />
+    <tag id="4630735367" k="addr:postcode" o="add" type="node" v="19149" />
+    <tag id="4630735367" k="addr:housenumber" o="add" type="node" v="2121" />
+  </body>
+</changeset>

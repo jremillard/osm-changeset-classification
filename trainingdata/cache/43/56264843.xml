@@ -1,1 +1,147 @@
-<changeset id="56264843" schema="1"><counts nodesAdded="92" nodesModified="90" relationsAdded="0" relationsModified="0" waysAdded="4" waysModified="40" /><meta><tag k="changesets_count" v="31" /><tag k="comment" v="Realignment of Multiple Features in the Armadale CBD Area" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-AU" /></meta><body><tag id="560501327" k="highway" o="add" type="way" v="tertiary" /><tag id="560501327" k="name" o="add" type="way" v="William Street" /><tag id="560501327" k="oneway" o="add" type="way" v="yes" /><tag id="560501328" k="highway" o="add" type="way" v="tertiary" /><tag id="560501328" k="name" o="add" type="way" v="William Street" /><tag id="560501328" k="oneway" o="add" type="way" v="yes" /><tag id="560501329" k="highway" o="add" type="way" v="tertiary" /><tag id="560501329" k="name" o="add" type="way" v="Church Avenue" /><tag id="560501329" k="oneway" o="add" type="way" v="yes" /><tag id="560501330" k="leisure" o="add" type="way" v="park" /><tag id="560501330" k="name" o="add" type="way" v="Alderson Park" /><tag id="175812248" k="oneway" o="add" type="way" v="yes" /><tag id="175810721" k="oneway" o="add" type="way" v="yes" /><tag id="175810690" k="highway" o="modify" type="way" v="residential" /><tag id="175810692" k="highway" o="modify" type="way" v="residential" /><tag id="175810736" k="highway" o="modify" type="way" v="residential" /><tag id="175810765" k="highway" o="modify" type="way" v="residential" /><tag id="175810768" k="highway" o="modify" type="way" v="residential" /><tag id="175810770" k="highway" o="modify" type="way" v="residential" /><tag id="175810779" k="highway" o="modify" type="way" v="residential" /><tag id="175810777" k="highway" o="modify" type="way" v="residential" /><tag id="175810754" k="highway" o="modify" type="way" v="residential" /><tag id="175810737" k="highway" o="modify" type="way" v="residential" /><tag id="175810742" k="highway" o="modify" type="way" v="residential" /><tag id="175810752" k="highway" o="modify" type="way" v="residential" /><tag id="175810753" k="highway" o="modify" type="way" v="residential" /><tag id="175810724" k="highway" o="modify" type="way" v="residential" /><tag id="24679267" k="highway" o="modify" type="way" v="residential" /><tag id="23077997" k="highway" o="modify" type="way" v="residential" /></body></changeset>
+<changeset id="56264843" schema="2">
+  <counts nodesAdded="92" nodesDeleted="9" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="1" waysModified="41" />
+  <meta>
+    <tag k="changesets_count" v="31" />
+    <tag k="comment" v="Realignment of Multiple Features in the Armadale CBD Area" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-AU" />
+  </meta>
+  <body>
+    <tag id="268600851" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="268607705" k="highway" o="none" type="node" v="turning_circle" />
+    <tag id="1101711043" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="23077997" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="23077997" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23077997" k="highway" o="modify" type="way" v="residential" />
+    <tag id="24679267" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="24679267" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24679267" k="highway" o="modify" type="way" v="residential" />
+    <tag id="24712844" k="name" o="none" type="way" v="Hobbs Drive" />
+    <tag id="24712844" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24712844" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="24712844" k="source:name" o="none" type="way" v="Main Roads Western Australia" />
+    <tag id="24712855" k="name" o="none" type="way" v="Deerness Way" />
+    <tag id="24712855" k="highway" o="none" type="way" v="residential" />
+    <tag id="24712857" k="name" o="none" type="way" v="Lensham Place" />
+    <tag id="24712857" k="highway" o="none" type="way" v="residential" />
+    <tag id="51062800" k="name" o="none" type="way" v="Rice Place" />
+    <tag id="51062800" k="highway" o="none" type="way" v="residential" />
+    <tag id="175810690" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810690" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810690" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810692" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810692" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810692" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810696" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810696" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810696" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810700" k="name" o="none" type="way" v="Hobbs Drive" />
+    <tag id="175810700" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810700" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810700" k="source:name" o="none" type="way" v="Main Roads Western Australia" />
+    <tag id="175810704" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810704" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810704" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810712" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810712" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810712" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="175810714" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810714" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810714" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810715" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810715" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810715" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810716" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810716" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810716" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="175810721" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810721" k="oneway" o="add" type="way" v="yes" />
+    <tag id="175810721" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810724" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810724" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810729" k="name" o="none" type="way" v="Hobbs Drive" />
+    <tag id="175810729" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810729" k="source:name" o="none" type="way" v="Main Roads Western Australia" />
+    <tag id="175810731" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810731" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810731" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810735" k="name" o="none" type="way" v="Commerce Avenue" />
+    <tag id="175810735" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810735" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810736" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810736" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810737" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810737" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810737" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810739" k="name" o="none" type="way" v="Commerce Avenue" />
+    <tag id="175810739" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810739" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810742" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810742" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810742" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="175810745" k="name" o="none" type="way" v="Hobbs Drive" />
+    <tag id="175810745" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810745" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810745" k="source:name" o="none" type="way" v="Main Roads Western Australia" />
+    <tag id="175810752" k="name" o="none" type="way" v="Seventh Road" />
+    <tag id="175810752" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810752" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810753" k="name" o="none" type="way" v="Seventh Road" />
+    <tag id="175810753" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810753" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810754" k="name" o="none" type="way" v="Wungong Road" />
+    <tag id="175810754" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810754" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810757" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175810757" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175810765" k="name" o="none" type="way" v="Avonlea Road" />
+    <tag id="175810765" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810765" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810768" k="name" o="none" type="way" v="Avonlea Road" />
+    <tag id="175810768" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810768" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810770" k="name" o="none" type="way" v="Seventh Road" />
+    <tag id="175810770" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810770" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810777" k="name" o="none" type="way" v="Seventh Road" />
+    <tag id="175810777" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175810777" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="175810777" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="175810779" k="name" o="none" type="way" v="Seventh Road" />
+    <tag id="175810779" k="oneway" o="none" type="way" v="yes" />
+    <tag id="175810779" k="highway" o="modify" type="way" v="residential" />
+    <tag id="175812248" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175812248" k="oneway" o="add" type="way" v="yes" />
+    <tag id="175812248" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175963197" k="name" o="none" type="way" v="Church Avenue" />
+    <tag id="175963197" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="175963197" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="450351201" k="gauge" o="none" type="way" v="1067" />
+    <tag id="450351201" k="usage" o="none" type="way" v="main" />
+    <tag id="450351201" k="railway" o="none" type="way" v="rail" />
+    <tag id="450351201" k="passenger_lines" o="none" type="way" v="1" />
+    <tag id="538301270" k="gauge" o="none" type="way" v="1067" />
+    <tag id="538301270" k="railway" o="none" type="way" v="rail" />
+    <tag id="538301270" k="service" o="none" type="way" v="yard" />
+    <tag id="538301270" k="voltage" o="none" type="way" v="25000" />
+    <tag id="538301270" k="frequency" o="none" type="way" v="50" />
+    <tag id="538301270" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="545684309" k="name" o="none" type="way" v="Sixth Road" />
+    <tag id="545684309" k="highway" o="none" type="way" v="residential" />
+    <tag id="545684309" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="553433717" k="landuse" o="none" type="way" v="residential" />
+    <tag id="560501327" k="name" o="add" type="way" v="William Street" />
+    <tag id="560501327" k="oneway" o="add" type="way" v="yes" />
+    <tag id="560501327" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="560501328" k="name" o="add" type="way" v="William Street" />
+    <tag id="560501328" k="oneway" o="add" type="way" v="yes" />
+    <tag id="560501328" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="560501329" k="name" o="add" type="way" v="Church Avenue" />
+    <tag id="560501329" k="oneway" o="add" type="way" v="yes" />
+    <tag id="560501329" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="560501330" k="name" o="add" type="way" v="Alderson Park" />
+    <tag id="560501330" k="leisure" o="add" type="way" v="park" />
+  </body>
+</changeset>

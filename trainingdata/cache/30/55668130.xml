@@ -1,1 +1,29 @@
-<changeset id="55668130" schema="1"><counts nodesAdded="22" nodesModified="21" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="3" /><meta><tag k="comment" v="added road geometry as per imagery" /><tag k="created_by" v="JOSM/1.5 (13053 en)" /><tag k="source" v="Bing; Esri World Imagery" /></meta><body><tag id="554991861" k="fixme" o="add" type="way" v="name" /><tag id="554991861" k="highway" o="add" type="way" v="residential" /><tag id="554991861" k="oneway" o="add" type="way" v="yes" /><tag id="554991861" k="surface" o="add" type="way" v="paved" /><tag id="554991862" k="highway" o="add" type="way" v="secondary" /><tag id="554991862" k="Mullewa - Wubin Road" o="add" type="way" v="Mullewa - Wubin Road" /><tag id="554991862" k="surface" o="add" type="way" v="paved" /><tag id="554991863" k="highway" o="add" type="way" v="secondary" /><tag id="554991863" k="name" o="add" type="way" v="Winfield Road;Mullewa - Wubin Road" /><tag id="554991863" k="source" o="add" type="way" v="GPS" /></body></changeset>
+<changeset id="55668130" schema="2">
+  <counts nodesAdded="22" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="comment" v="added road geometry as per imagery" />
+    <tag k="created_by" v="JOSM/1.5 (13053 en)" />
+    <tag k="source" v="Bing; Esri World Imagery" />
+  </meta>
+  <body>
+    <tag id="1939596881" k="railway" o="none" type="node" v="level_crossing" />
+    <tag id="29398972" k="name" o="none" type="way" v="Stokes Road" />
+    <tag id="29398972" k="highway" o="none" type="way" v="residential" />
+    <tag id="90758826" k="name" o="none" type="way" v="Mullewa - Wubin Road" />
+    <tag id="90758826" k="source" o="none" type="way" v="GPS" />
+    <tag id="90758826" k="highway" o="none" type="way" v="secondary" />
+    <tag id="237055767" k="name" o="none" type="way" v="Winfield Road;Mullewa - Wubin Road" />
+    <tag id="237055767" k="source" o="none" type="way" v="GPS" />
+    <tag id="237055767" k="highway" o="none" type="way" v="secondary" />
+    <tag id="554991861" k="fixme" o="add" type="way" v="name" />
+    <tag id="554991861" k="oneway" o="add" type="way" v="yes" />
+    <tag id="554991861" k="highway" o="add" type="way" v="residential" />
+    <tag id="554991861" k="surface" o="add" type="way" v="paved" />
+    <tag id="554991862" k="highway" o="add" type="way" v="secondary" />
+    <tag id="554991862" k="surface" o="add" type="way" v="paved" />
+    <tag id="554991862" k="Mullewa - Wubin Road" o="add" type="way" v="Mullewa - Wubin Road" />
+    <tag id="554991863" k="name" o="add" type="way" v="Winfield Road;Mullewa - Wubin Road" />
+    <tag id="554991863" k="source" o="add" type="way" v="GPS" />
+    <tag id="554991863" k="highway" o="add" type="way" v="secondary" />
+  </body>
+</changeset>

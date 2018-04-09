@@ -1,1 +1,21 @@
-<changeset id="55791889" schema="1"><counts nodesAdded="15" nodesModified="0" relationsAdded="1" relationsModified="0" waysAdded="1" waysModified="3" /><meta><tag k="changesets_count" v="300" /><tag k="comment" v="Add marsh to Dawley Conservancy Park" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="7939214" k="natural" o="add" type="relation" v="wetland" /><tag id="7939214" k="type" o="add" type="relation" v="multipolygon" /><tag id="479067615" k="natural" o="modify" type="way" v="wetland" /><tag id="479067615" k="wetland" o="add" type="way" v="marsh" /></body></changeset>
+<changeset id="55791889" schema="2">
+  <counts nodesAdded="15" nodesDeleted="1" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="changesets_count" v="300" />
+    <tag k="comment" v="Add marsh to Dawley Conservancy Park" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="479067615" k="name" o="none" type="way" v="Dunn's Marsh Natural Area" />
+    <tag id="479067615" k="natural" o="modify" type="way" v="wetland" />
+    <tag id="479067615" k="wetland" o="add" type="way" v="marsh" />
+    <tag id="556152697" k="natural" o="none" type="way" v="wood" />
+    <tag id="556152697" k="leaf_cycle" o="none" type="way" v="deciduous" />
+    <tag id="556156589" k="landuse" o="none" type="way" v="meadow" />
+    <tag id="7939214" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="7939214" k="natural" o="add" type="relation" v="wetland" />
+  </body>
+</changeset>

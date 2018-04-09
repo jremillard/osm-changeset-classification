@@ -1,5 +1,5 @@
 <changeset id="17318314" schema="2">
-  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="3" waysDeleted="1" waysModified="5" />
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="3" waysDeleted="1" waysModified="6" />
   <meta>
     <tag k="build" v="2.3-596-gc119528" />
     <tag k="comment" v="Fix keepright 18821824" />
@@ -7,37 +7,39 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
-    <tag id="233258923" k="bridge" o="add" type="way" v="yes" />
-    <tag id="233258923" k="cycleway" o="add" type="way" v="shared" />
-    <tag id="233258923" k="foot" o="add" type="way" v="yes" />
-    <tag id="233258923" k="highway" o="add" type="way" v="cycleway" />
-    <tag id="233258924" k="cycleway" o="add" type="way" v="shared" />
-    <tag id="233258924" k="foot" o="add" type="way" v="yes" />
-    <tag id="233258924" k="highway" o="add" type="way" v="cycleway" />
-    <tag id="35151856" k="cycleway" o="none" type="way" v="shared" />
-    <tag id="35151856" k="foot" o="none" type="way" v="yes" />
-    <tag id="35151856" k="highway" o="none" type="way" v="cycleway" />
-    <tag id="19742875" k="boat" o="none" type="way" v="no" />
-    <tag id="19742875" k="name" o="add" type="way" v="Cobbins Brook" />
-    <tag id="19742875" k="waterway" o="none" type="way" v="stream" />
     <tag id="19742764" k="boat" o="none" type="way" v="no" />
     <tag id="19742764" k="name" o="add" type="way" v="Cobbins Brook" />
     <tag id="19742764" k="waterway" o="none" type="way" v="stream" />
-    <tag id="37763466" k="boat" o="none" type="way" v="no" />
-    <tag id="37763466" k="name" o="add" type="way" v="Cobbins Brook" />
-    <tag id="37763466" k="waterway" o="none" type="way" v="stream" />
+    <tag id="19742875" k="boat" o="none" type="way" v="no" />
+    <tag id="19742875" k="name" o="add" type="way" v="Cobbins Brook" />
+    <tag id="19742875" k="waterway" o="none" type="way" v="stream" />
     <tag id="19742887" k="boat" o="none" type="way" v="no" />
     <tag id="19742887" k="name" o="add" type="way" v="Cobbins Brook" />
     <tag id="19742887" k="waterway" o="none" type="way" v="stream" />
-    <tag id="1992599" k="name" o="none" type="relation" v="NCN National Route 1" />
-    <tag id="1992599" k="network" o="none" type="relation" v="ncn" />
-    <tag id="1992599" k="note" o="none" type="relation" v="Greenwich Foot Tunnel (incl) to junction with NCN51 (in Colchester)" />
-    <tag id="1992599" k="operator" o="none" type="relation" v="Sustrans" />
+    <tag id="35151856" k="foot" o="none" type="way" v="yes" />
+    <tag id="35151856" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="35151856" k="cycleway" o="none" type="way" v="shared" />
+    <tag id="37763466" k="boat" o="none" type="way" v="no" />
+    <tag id="37763466" k="name" o="add" type="way" v="Cobbins Brook" />
+    <tag id="37763466" k="waterway" o="none" type="way" v="stream" />
+    <tag id="233258923" k="foot" o="add" type="way" v="yes" />
+    <tag id="233258923" k="bridge" o="add" type="way" v="yes" />
+    <tag id="233258923" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="233258923" k="cycleway" o="add" type="way" v="shared" />
+    <tag id="233258924" k="foot" o="add" type="way" v="yes" />
+    <tag id="233258924" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="233258924" k="cycleway" o="add" type="way" v="shared" />
     <tag id="1992599" k="ref" o="none" type="relation" v="1" />
-    <tag id="1992599" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1992599" k="name" o="none" type="relation" v="NCN National Route 1" />
+    <tag id="1992599" k="note" o="none" type="relation" v="Greenwich Foot Tunnel (incl) to junction with NCN51 (in Colchester)" />
     <tag id="1992599" k="type" o="none" type="relation" v="route" />
-    <tag id="2793118" k="alt_name" o="none" type="relation" v="Capitals Route - part United Kingdom" />
+    <tag id="1992599" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1992599" k="network" o="none" type="relation" v="ncn" />
+    <tag id="1992599" k="operator" o="none" type="relation" v="Sustrans" />
+    <tag id="2793118" k="ref" o="none" type="relation" v="EV2" />
     <tag id="2793118" k="name" o="none" type="relation" v="EuroVelo 2 - part United Kingdom" />
+    <tag id="2793118" k="type" o="none" type="relation" v="route" />
+    <tag id="2793118" k="route" o="none" type="relation" v="bicycle" />
     <tag id="2793118" k="name:cs" o="none" type="relation" v="Cesta hlavn&#237;mi m&#283;sty - sekce Spojen&#233; kr&#225;lovstv&#237;" />
     <tag id="2793118" k="name:de" o="none" type="relation" v="Hauptstadt-Route - teil Vereinigtes K&#246;nigreich" />
     <tag id="2793118" k="name:en" o="none" type="relation" v="Capitals Route - part United Kingdom" />
@@ -50,8 +52,6 @@
     <tag id="2793118" k="name:pl" o="none" type="relation" v="Szlak Stolic - cz&#281;&#347;&#263; Wielka Brytania" />
     <tag id="2793118" k="name:tr" o="none" type="relation" v="Ba&#351;kentler Rotas&#305; - k&#305;s&#305;m Birle&#351;ik Krall&#305;k" />
     <tag id="2793118" k="network" o="none" type="relation" v="icn" />
-    <tag id="2793118" k="ref" o="none" type="relation" v="EV2" />
-    <tag id="2793118" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="2793118" k="type" o="none" type="relation" v="route" />
+    <tag id="2793118" k="alt_name" o="none" type="relation" v="Capitals Route - part United Kingdom" />
   </body>
 </changeset>

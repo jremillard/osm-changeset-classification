@@ -1,1 +1,48 @@
-<changeset id="39103736" schema="1"><counts nodesAdded="21" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="2" /><meta><tag k="comment" v="Added Points and edited a few roads" /><tag k="created_by" v="iD 1.9.4" /><tag k="host" v="https://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-US" /></meta><body><tag id="4166193182" k="building" o="add" type="node" v="yes" /><tag id="4166193182" k="building:levels" o="add" type="node" v="1" /><tag id="4166193182" k="description" o="add" type="node" v="Bus Barn for the Buhler School System" /><tag id="4166193182" k="name" o="add" type="node" v="Buhler Bus Barn" /><tag id="415599075" k="leisure" o="add" type="way" v="pitch" /><tag id="415599075" k="name" o="add" type="way" v="Bhuler High School Sport Field" /><tag id="415599075" k="sport" o="add" type="way" v="football" /><tag id="415599075" k="surface" o="add" type="way" v="grass" /><tag id="415599079" k="access" o="add" type="way" v="destination" /><tag id="415599079" k="bicycle" o="add" type="way" v="yes" /><tag id="415599079" k="foot" o="add" type="way" v="yes" /><tag id="415599079" k="highway" o="add" type="way" v="footway" /><tag id="415599079" k="horse" o="add" type="way" v="no" /><tag id="415599079" k="lit" o="add" type="way" v="yes" /><tag id="415599079" k="motor_vehicle" o="add" type="way" v="no" /><tag id="13217346" k="oneway" o="add" type="way" v="no" /><tag id="13217346" k="surface" o="add" type="way" v="paved" /><tag id="13218167" k="maxspeed" o="add" type="way" v="55 mph" /></body></changeset>
+<changeset id="39103736" schema="2">
+  <counts nodesAdded="21" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Added Points and edited a few roads" />
+    <tag k="created_by" v="iD 1.9.4" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4166193182" k="name" o="add" type="node" v="Buhler Bus Barn" />
+    <tag id="4166193182" k="building" o="add" type="node" v="yes" />
+    <tag id="4166193182" k="description" o="add" type="node" v="Bus Barn for the Buhler School System" />
+    <tag id="4166193182" k="building:levels" o="add" type="node" v="1" />
+    <tag id="13217346" k="name" o="none" type="way" v="North Main Street" />
+    <tag id="13217346" k="oneway" o="add" type="way" v="no" />
+    <tag id="13217346" k="highway" o="none" type="way" v="residential" />
+    <tag id="13217346" k="surface" o="add" type="way" v="paved" />
+    <tag id="13217346" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="13217346" k="tiger:county" o="none" type="way" v="Reno, KS" />
+    <tag id="13217346" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="13217346" k="tiger:zip_left" o="none" type="way" v="67522" />
+    <tag id="13217346" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="13217346" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="13217346" k="tiger:zip_right" o="none" type="way" v="67522" />
+    <tag id="13217346" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="13218167" k="name" o="none" type="way" v="East 82nd Avenue" />
+    <tag id="13218167" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="13218167" k="maxspeed" o="add" type="way" v="55 mph" />
+    <tag id="13218167" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="13218167" k="tiger:county" o="none" type="way" v="Reno, KS" />
+    <tag id="13218167" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="13218167" k="tiger:name_base" o="none" type="way" v="82nd" />
+    <tag id="13218167" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="13218167" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="415599075" k="name" o="add" type="way" v="Bhuler High School Sport Field" />
+    <tag id="415599075" k="sport" o="add" type="way" v="football" />
+    <tag id="415599075" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="415599075" k="surface" o="add" type="way" v="grass" />
+    <tag id="415599079" k="lit" o="add" type="way" v="yes" />
+    <tag id="415599079" k="foot" o="add" type="way" v="yes" />
+    <tag id="415599079" k="horse" o="add" type="way" v="no" />
+    <tag id="415599079" k="access" o="add" type="way" v="destination" />
+    <tag id="415599079" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="415599079" k="highway" o="add" type="way" v="footway" />
+    <tag id="415599079" k="motor_vehicle" o="add" type="way" v="no" />
+  </body>
+</changeset>

@@ -1,5 +1,5 @@
 <changeset id="50069700" schema="2">
-  <counts nodesAdded="19" nodesDeleted="17" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="19" nodesDeleted="17" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Martin&#283;ves u Libochovic (relation 427868)." />
@@ -8,20 +8,20 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="505407993" k="admin_level" o="add" type="way" v="10" />
-    <tag id="505407993" k="boundary" o="add" type="way" v="administrative" />
     <tag id="505407993" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="435817" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="435817" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="435817" k="name" o="none" type="relation" v="Rade&#353;&#237;n u Martin&#283;vsi" />
-    <tag id="435817" k="ref" o="none" type="relation" v="737542" />
-    <tag id="435817" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="435817" k="type" o="none" type="relation" v="boundary" />
-    <tag id="427868" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="427868" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="427868" k="name" o="none" type="relation" v="Martin&#283;ves u Libochovic" />
+    <tag id="505407993" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="505407993" k="admin_level" o="add" type="way" v="10" />
     <tag id="427868" k="ref" o="none" type="relation" v="692026" />
-    <tag id="427868" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="427868" k="name" o="none" type="relation" v="Martin&#283;ves u Libochovic" />
     <tag id="427868" k="type" o="none" type="relation" v="boundary" />
+    <tag id="427868" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="427868" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="427868" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="435817" k="ref" o="none" type="relation" v="737542" />
+    <tag id="435817" k="name" o="none" type="relation" v="Rade&#353;&#237;n u Martin&#283;vsi" />
+    <tag id="435817" k="type" o="none" type="relation" v="boundary" />
+    <tag id="435817" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="435817" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="435817" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

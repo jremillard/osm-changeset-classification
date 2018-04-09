@@ -1,5 +1,5 @@
 <changeset id="30763766" schema="2">
-  <counts nodesAdded="0" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="0" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Petrohrad (relation 439287)." />
@@ -8,40 +8,40 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="342640488" k="admin_level" o="add" type="way" v="8" />
-    <tag id="342640488" k="boundary" o="add" type="way" v="administrative" />
     <tag id="342640488" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="425247" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425247" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425247" k="name" o="none" type="relation" v="Petrohrad" />
-    <tag id="425247" k="ref" o="none" type="relation" v="719692" />
-    <tag id="425247" k="source" o="modify" type="relation" v="cuzk:ruian" />
-    <tag id="425247" k="type" o="none" type="relation" v="boundary" />
-    <tag id="425177" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425177" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425177" k="name" o="none" type="relation" v="Stebno u Petrohradu" />
+    <tag id="342640488" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="342640488" k="admin_level" o="add" type="way" v="8" />
     <tag id="425177" k="ref" o="none" type="relation" v="755389" />
-    <tag id="425177" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425177" k="name" o="none" type="relation" v="Stebno u Petrohradu" />
     <tag id="425177" k="type" o="none" type="relation" v="boundary" />
-    <tag id="439295" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="439295" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="439295" k="name" o="none" type="relation" v="Kryry" />
-    <tag id="439295" k="name:prefix" o="none" type="relation" v="m&#283;sto" />
-    <tag id="439295" k="population" o="none" type="relation" v="2406" />
-    <tag id="439295" k="ref" o="none" type="relation" v="CZ0424566314" />
-    <tag id="439295" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="439295" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="439295" k="type" o="none" type="relation" v="boundary" />
-    <tag id="439295" k="wikipedia" o="none" type="relation" v="cs:Kryry" />
-    <tag id="439287" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="439287" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="439287" k="name" o="none" type="relation" v="Petrohrad" />
-    <tag id="439287" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="439287" k="population" o="none" type="relation" v="643" />
+    <tag id="425177" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425177" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425177" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="425247" k="ref" o="none" type="relation" v="719692" />
+    <tag id="425247" k="name" o="none" type="relation" v="Petrohrad" />
+    <tag id="425247" k="type" o="none" type="relation" v="boundary" />
+    <tag id="425247" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425247" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425247" k="admin_level" o="none" type="relation" v="10" />
     <tag id="439287" k="ref" o="none" type="relation" v="CZ0424566560" />
-    <tag id="439287" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="439287" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="439287" k="name" o="none" type="relation" v="Petrohrad" />
     <tag id="439287" k="type" o="none" type="relation" v="boundary" />
+    <tag id="439287" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="439287" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="439287" k="wikipedia" o="none" type="relation" v="cs:Petrohrad (okres Louny)" />
+    <tag id="439287" k="population" o="none" type="relation" v="643" />
+    <tag id="439287" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="439287" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="439287" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="439295" k="ref" o="none" type="relation" v="CZ0424566314" />
+    <tag id="439295" k="name" o="none" type="relation" v="Kryry" />
+    <tag id="439295" k="type" o="none" type="relation" v="boundary" />
+    <tag id="439295" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="439295" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="439295" k="wikipedia" o="none" type="relation" v="cs:Kryry" />
+    <tag id="439295" k="population" o="none" type="relation" v="2406" />
+    <tag id="439295" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="439295" k="name:prefix" o="none" type="relation" v="m&#283;sto" />
+    <tag id="439295" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

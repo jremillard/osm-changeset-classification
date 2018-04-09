@@ -1,1 +1,26 @@
-<changeset id="38868447" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="comment" v="Updated URL to be cleaner Updated formate of hours Added description and services." /><tag k="created_by" v="iD 1.9.3" /><tag k="host" v="https://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-us" /></meta><body><tag id="3262128088" k="description" o="add" type="node" v="Specially trained pediatric therapists help maximize the developmental and functional potential of each child through a variety of rehabilitation and therapy treatments." /><tag id="3262128088" k="note" o="add" type="node" v="Audiology Hippotherapy Occupational therapy Physical therapy Speech-language pathology" /><tag id="3262128088" k="opening_hours" o="modify" type="node" v="Mo-Fr 07:30-18:00." /><tag id="3262128088" k="website" o="modify" type="node" v="http://www.childrenscolorado.org/about/locations/colorado-springs/printers-park" /><tag id="205175209" k="amenity" o="add" type="way" v="hospital" /></body></changeset>
+<changeset id="38868447" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Updated URL to be cleaner Updated formate of hours Added description and services." />
+    <tag k="created_by" v="iD 1.9.3" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-us" />
+  </meta>
+  <body>
+    <tag id="3262128088" k="name" o="none" type="node" v="Children's Hospital Colorado Therapy Care at Printers Park, Colorado Springs" />
+    <tag id="3262128088" k="note" o="add" type="node" v="Audiology Hippotherapy Occupational therapy Physical therapy Speech-language pathology" />
+    <tag id="3262128088" k="phone" o="none" type="node" v="719-305-8000" />
+    <tag id="3262128088" k="amenity" o="none" type="node" v="clinic" />
+    <tag id="3262128088" k="website" o="modify" type="node" v="http://www.childrenscolorado.org/about/locations/colorado-springs/printers-park" />
+    <tag id="3262128088" k="addr:city" o="none" type="node" v="Colorado Springs" />
+    <tag id="3262128088" k="addr:state" o="none" type="node" v="CO" />
+    <tag id="3262128088" k="addr:street" o="none" type="node" v="S. Union Blvd, Suite 255, Printers Park Medical Plaza" />
+    <tag id="3262128088" k="description" o="add" type="node" v="Specially trained pediatric therapists help maximize the developmental and functional potential of each child through a variety of rehabilitation and therapy treatments." />
+    <tag id="3262128088" k="addr:postcode" o="none" type="node" v="80920" />
+    <tag id="3262128088" k="opening_hours" o="modify" type="node" v="Mo-Fr 07:30-18:00." />
+    <tag id="3262128088" k="addr:housenumber" o="none" type="node" v="175" />
+    <tag id="205175209" k="source" o="none" type="way" v="Bing" />
+    <tag id="205175209" k="amenity" o="add" type="way" v="hospital" />
+  </body>
+</changeset>

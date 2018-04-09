@@ -1,11 +1,17 @@
 <changeset id="33487190" schema="2">
-  <counts nodesAdded="167" nodesDeleted="25" nodesModified="6" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="31" waysDeleted="6" waysModified="52" />
+  <counts nodesAdded="167" nodesDeleted="25" nodesModified="6" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="31" waysDeleted="6" waysModified="58" />
   <meta>
     <tag k="comment" v="Corrections Bano sur Plogastel-St-Germain (+Notes 416814 416817 416820)" />
     <tag k="created_by" v="JOSM/1.5 (8491 fr)" />
     <tag k="source" v="Bano + Bing + cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2015 + Notes OSM" />
   </meta>
   <body>
+    <tag id="1261317861" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1261317892" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1301789930" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="1301789956" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="3261787165" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="3261807917" k="highway" o="add" type="node" v="turning_circle" />
     <tag id="3708234435" k="addr:housenumber" o="add" type="node" v="1" />
     <tag id="3708234436" k="addr:housenumber" o="add" type="node" v="10" />
     <tag id="3708234437" k="addr:housenumber" o="add" type="node" v="11" />
@@ -20,259 +26,253 @@
     <tag id="3708234446" k="addr:housenumber" o="add" type="node" v="7" />
     <tag id="3708234447" k="addr:housenumber" o="add" type="node" v="8" />
     <tag id="3708234448" k="addr:housenumber" o="add" type="node" v="9" />
-    <tag id="366842538" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="41706271" k="CLC:id" o="none" type="way" v="FR-254643" />
+    <tag id="41706271" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="41706271" k="landuse" o="none" type="way" v="residential" />
+    <tag id="41706271" k="CLC:code" o="none" type="way" v="112" />
+    <tag id="41706271" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="86867818" k="ref" o="none" type="way" v="D 240" />
+    <tag id="86867818" k="name" o="add" type="way" v="Rue de Parc Zale" />
+    <tag id="86867818" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="86867818" k="highway" o="none" type="way" v="secondary" />
+    <tag id="86867818" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="86867818" k="ref:FR:FANTOIR" o="add" type="way" v="291670650L" />
+    <tag id="86874335" k="ref" o="none" type="way" v="D 57" />
+    <tag id="86874335" k="name" o="add" type="way" v="Place de l'&#201;glise" />
+    <tag id="86874335" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="86874335" k="highway" o="none" type="way" v="secondary" />
+    <tag id="86874335" k="ref:FR:FANTOIR" o="add" type="way" v="291670197U" />
+    <tag id="86929936" k="ref" o="none" type="way" v="D 57" />
+    <tag id="86929936" k="name" o="add" type="way" v="Route de Pouldreuzic" />
+    <tag id="86929936" k="source" o="none" type="way" v="Bing" />
+    <tag id="86929936" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="110133172" k="name" o="add" type="way" v="R&#233;sidence du Manoir" />
+    <tag id="110133172" k="noexit" o="none" type="way" v="yes" />
+    <tag id="110133172" k="highway" o="none" type="way" v="residential" />
+    <tag id="110133172" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110133172" k="ref:FR:FANTOIR" o="add" type="way" v="29167A375G" />
+    <tag id="110133174" k="name" o="add" type="way" v="Rue de Briscoul Huella" />
+    <tag id="110133174" k="highway" o="none" type="way" v="residential" />
+    <tag id="110133174" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110133180" k="name" o="add" type="way" v="Rue des &#201;coles" />
+    <tag id="110133180" k="highway" o="none" type="way" v="residential" />
+    <tag id="110133180" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110262023" k="name" o="add" type="way" v="Rue de Kerzerguern" />
+    <tag id="110262023" k="highway" o="none" type="way" v="residential" />
+    <tag id="110262023" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110262030" k="name" o="add" type="way" v="Rue des Sabotiers" />
+    <tag id="110262030" k="highway" o="none" type="way" v="residential" />
+    <tag id="110262030" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110262031" k="name" o="add" type="way" v="Rue des Bruy&#232;res" />
+    <tag id="110262031" k="highway" o="none" type="way" v="residential" />
+    <tag id="110262031" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110262031" k="ref:FR:FANTOIR" o="add" type="way" v="291670093F" />
+    <tag id="110262037" k="name" o="add" type="way" v="Impasse du Kastel" />
+    <tag id="110262037" k="noexit" o="none" type="way" v="yes" />
+    <tag id="110262037" k="highway" o="none" type="way" v="residential" />
+    <tag id="110262037" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110451352" k="name" o="add" type="way" v="Cit&#233; du Roz" />
+    <tag id="110451352" k="noexit" o="none" type="way" v="yes" />
+    <tag id="110451352" k="highway" o="none" type="way" v="residential" />
+    <tag id="110451352" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="110451355" k="name" o="add" type="way" v="Cit&#233; Ty Guen" />
+    <tag id="110451355" k="noexit" o="none" type="way" v="yes" />
+    <tag id="110451355" k="highway" o="none" type="way" v="residential" />
+    <tag id="110451355" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="112264626" k="name" o="add" type="way" v="Route de Kermarigou" />
+    <tag id="112264626" k="access" o="add" type="way" v="destination" />
+    <tag id="112264626" k="noexit" o="none" type="way" v="yes" />
+    <tag id="112264626" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="112264626" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="112264628" k="name" o="add" type="way" v="Route de Kermarigou" />
+    <tag id="112264628" k="noexit" o="none" type="way" v="yes" />
+    <tag id="112264628" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="112264628" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="112264629" k="name" o="add" type="way" v="Rue de la Fontaine" />
+    <tag id="112264629" k="noexit" o="none" type="way" v="yes" />
+    <tag id="112264629" k="highway" o="none" type="way" v="residential" />
+    <tag id="112264629" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="112264632" k="name" o="add" type="way" v="Route de Kermarigou" />
+    <tag id="112264632" k="access" o="modify" type="way" v="destination" />
+    <tag id="112264632" k="highway" o="modify" type="way" v="residential" />
+    <tag id="115032918" k="name" o="add" type="way" v="Cit&#233; des Hortensias" />
+    <tag id="115032918" k="noexit" o="none" type="way" v="yes" />
+    <tag id="115032918" k="highway" o="none" type="way" v="residential" />
+    <tag id="115032918" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115032926" k="name" o="add" type="way" v="Cit&#233; des Hortensias" />
+    <tag id="115032926" k="highway" o="none" type="way" v="residential" />
+    <tag id="115032926" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115032941" k="name" o="add" type="way" v="R&#233;sidence du Manoir" />
+    <tag id="115032941" k="noexit" o="none" type="way" v="yes" />
+    <tag id="115032941" k="highway" o="none" type="way" v="residential" />
+    <tag id="115032941" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115032941" k="ref:FR:FANTOIR" o="add" type="way" v="29167A375G" />
+    <tag id="115091068" k="ref" o="none" type="way" v="D 57" />
+    <tag id="115091068" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="115091068" k="highway" o="none" type="way" v="secondary" />
+    <tag id="115091068" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115091070" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="115091070" k="oneway" o="none" type="way" v="yes" />
+    <tag id="115091070" k="highway" o="none" type="way" v="secondary" />
+    <tag id="115091071" k="ref" o="none" type="way" v="D 57" />
+    <tag id="115091071" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="115091071" k="oneway" o="none" type="way" v="yes" />
+    <tag id="115091071" k="highway" o="none" type="way" v="secondary" />
+    <tag id="115091071" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115091072" k="name" o="add" type="way" v="Cit&#233; des Pins" />
+    <tag id="115091072" k="noexit" o="none" type="way" v="yes" />
+    <tag id="115091072" k="highway" o="none" type="way" v="residential" />
+    <tag id="115091072" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115091073" k="name" o="add" type="way" v="Rue Stang Keleron" />
+    <tag id="115091073" k="noexit" o="none" type="way" v="yes" />
+    <tag id="115091073" k="highway" o="none" type="way" v="residential" />
+    <tag id="115091073" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115091075" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="115091075" k="oneway" o="none" type="way" v="yes" />
+    <tag id="115091075" k="highway" o="none" type="way" v="secondary" />
+    <tag id="115091079" k="ref" o="none" type="way" v="D 57" />
+    <tag id="115091079" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="115091079" k="oneway" o="none" type="way" v="yes" />
+    <tag id="115091079" k="highway" o="none" type="way" v="secondary" />
+    <tag id="115091079" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="118045461" k="noexit" o="none" type="way" v="yes" />
+    <tag id="118045461" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="118045461" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="177400255" k="ref" o="none" type="way" v="D 57" />
+    <tag id="177400255" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="177400255" k="highway" o="none" type="way" v="secondary" />
+    <tag id="177400255" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="227001470" k="name" o="add" type="way" v="Rue de Briscoul" />
+    <tag id="227001470" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="227001470" k="highway" o="none" type="way" v="secondary" />
+    <tag id="227001470" k="ref:FR:FANTOIR" o="add" type="way" v="291670080S" />
+    <tag id="263235509" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="263235509" k="building" o="none" type="way" v="yes" />
+    <tag id="263235563" k="name" o="add" type="way" v="Gendarmerie Nationale" />
+    <tag id="263235563" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="263235563" k="amenity" o="add" type="way" v="police" />
+    <tag id="263235563" k="building" o="none" type="way" v="yes" />
+    <tag id="263235627" k="name" o="add" type="way" v="&#201;glise Saint-Pierre" />
+    <tag id="263235627" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="263235627" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="263235627" k="building" o="none" type="way" v="yes" />
+    <tag id="263235627" k="religion" o="none" type="way" v="christian" />
+    <tag id="263235627" k="denomination" o="none" type="way" v="catholic" />
+    <tag id="263236030" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
+    <tag id="263236030" k="building" o="none" type="way" v="yes" />
+    <tag id="263238227" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
+    <tag id="263238227" k="building" o="none" type="way" v="yes" />
+    <tag id="263238248" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="263238248" k="building" o="none" type="way" v="yes" />
+    <tag id="263238287" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
+    <tag id="263238287" k="building" o="none" type="way" v="yes" />
+    <tag id="263238318" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
+    <tag id="263238318" k="building" o="none" type="way" v="yes" />
+    <tag id="319715832" k="name" o="add" type="way" v="Rue de Briscoul" />
+    <tag id="319715832" k="highway" o="none" type="way" v="residential" />
+    <tag id="319715871" k="name" o="add" type="way" v="Rue de Briscoul" />
+    <tag id="319715871" k="highway" o="none" type="way" v="residential" />
+    <tag id="319717081" k="name" o="add" type="way" v="All&#233;e des Sources" />
+    <tag id="319717081" k="highway" o="none" type="way" v="residential" />
+    <tag id="319717085" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="319717087" k="name" o="add" type="way" v="Lotissement Park Dr&#233;on" />
+    <tag id="319717087" k="highway" o="none" type="way" v="residential" />
+    <tag id="319717089" k="name" o="add" type="way" v="Lotissement Park Dr&#233;on" />
+    <tag id="319717089" k="highway" o="none" type="way" v="residential" />
+    <tag id="319717090" k="name" o="add" type="way" v="Cit&#233; de Menez Goueron" />
+    <tag id="319717090" k="highway" o="none" type="way" v="residential" />
+    <tag id="319720266" k="name" o="add" type="way" v="Rue du Stade" />
+    <tag id="319720266" k="highway" o="modify" type="way" v="residential" />
+    <tag id="319720266" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="319721618" k="name" o="add" type="way" v="Rue du Leurre" />
+    <tag id="319721618" k="highway" o="none" type="way" v="residential" />
+    <tag id="319721619" k="name" o="add" type="way" v="Cit&#233; Ty Guen" />
+    <tag id="319721619" k="highway" o="none" type="way" v="residential" />
+    <tag id="319721674" k="name" o="add" type="way" v="Hameau de Kerleron" />
+    <tag id="319721674" k="highway" o="none" type="way" v="residential" />
+    <tag id="319721675" k="name" o="add" type="way" v="Hameau de Kerleron" />
+    <tag id="319721675" k="highway" o="none" type="way" v="residential" />
+    <tag id="319751691" k="name" o="add" type="way" v="Chemin de Pont Cleguer" />
+    <tag id="319751691" k="highway" o="none" type="way" v="residential" />
+    <tag id="319751692" k="name" o="add" type="way" v="Chemin de Pont Cleguer" />
+    <tag id="319751692" k="highway" o="none" type="way" v="residential" />
     <tag id="366842538" k="sport" o="add" type="way" v="tennis" />
-    <tag id="366842539" k="leisure" o="add" type="way" v="pitch" />
+    <tag id="366842538" k="leisure" o="add" type="way" v="pitch" />
     <tag id="366842539" k="sport" o="add" type="way" v="tennis" />
-    <tag id="366842540" k="highway" o="add" type="way" v="residential" />
+    <tag id="366842539" k="leisure" o="add" type="way" v="pitch" />
     <tag id="366842540" k="name" o="add" type="way" v="All&#233;e de Menez Goueron" />
     <tag id="366842540" k="noexit" o="add" type="way" v="yes" />
-    <tag id="366842540" k="ref:FR:FANTOIR" o="add" type="way" v="291670525A" />
+    <tag id="366842540" k="highway" o="add" type="way" v="residential" />
     <tag id="366842540" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842541" k="highway" o="add" type="way" v="service" />
+    <tag id="366842540" k="ref:FR:FANTOIR" o="add" type="way" v="291670525A" />
     <tag id="366842541" k="name" o="add" type="way" v="Chemin des Enfants" />
-    <tag id="366842542" k="highway" o="add" type="way" v="residential" />
+    <tag id="366842541" k="highway" o="add" type="way" v="service" />
     <tag id="366842542" k="name" o="add" type="way" v="Cit&#233; des Pins" />
+    <tag id="366842542" k="highway" o="add" type="way" v="residential" />
     <tag id="366842542" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842543" k="highway" o="add" type="way" v="residential" />
     <tag id="366842543" k="name" o="add" type="way" v="Cit&#233; du Roz" />
     <tag id="366842543" k="noexit" o="add" type="way" v="yes" />
+    <tag id="366842543" k="highway" o="add" type="way" v="residential" />
     <tag id="366842543" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842544" k="highway" o="add" type="way" v="secondary" />
-    <tag id="366842544" k="maxspeed" o="add" type="way" v="90" />
     <tag id="366842544" k="ref" o="add" type="way" v="D 240" />
     <tag id="366842544" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="366842544" k="highway" o="add" type="way" v="secondary" />
     <tag id="366842544" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842547" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="366842544" k="maxspeed" o="add" type="way" v="90" />
     <tag id="366842547" k="ref" o="add" type="way" v="D 57" />
     <tag id="366842547" k="source" o="add" type="way" v="Bing" />
-    <tag id="366842548" k="highway" o="add" type="way" v="residential" />
+    <tag id="366842547" k="highway" o="add" type="way" v="tertiary" />
     <tag id="366842548" k="name" o="add" type="way" v="Hameau de Kerleron" />
+    <tag id="366842548" k="highway" o="add" type="way" v="residential" />
+    <tag id="366842549" k="name" o="add" type="way" v="Route de Kermarigou" />
     <tag id="366842549" k="access" o="add" type="way" v="destination" />
     <tag id="366842549" k="highway" o="add" type="way" v="track" />
-    <tag id="366842549" k="name" o="add" type="way" v="Route de Kermarigou" />
+    <tag id="366842550" k="name" o="add" type="way" v="Route de Kermarigou" />
     <tag id="366842550" k="access" o="add" type="way" v="destination" />
     <tag id="366842550" k="highway" o="add" type="way" v="residential" />
-    <tag id="366842550" k="name" o="add" type="way" v="Route de Kermarigou" />
-    <tag id="366842551" k="highway" o="add" type="way" v="residential" />
     <tag id="366842551" k="name" o="add" type="way" v="Rue Stang Keleron" />
-    <tag id="366842552" k="highway" o="add" type="way" v="secondary" />
-    <tag id="366842552" k="name" o="add" type="way" v="Rue du Kastel" />
+    <tag id="366842551" k="highway" o="add" type="way" v="residential" />
     <tag id="366842552" k="ref" o="add" type="way" v="D 57" />
+    <tag id="366842552" k="name" o="add" type="way" v="Rue du Kastel" />
+    <tag id="366842552" k="highway" o="add" type="way" v="secondary" />
     <tag id="366842552" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842553" k="highway" o="add" type="way" v="residential" />
     <tag id="366842553" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="366842554" k="highway" o="add" type="way" v="service" />
+    <tag id="366842553" k="highway" o="add" type="way" v="residential" />
     <tag id="366842554" k="name" o="add" type="way" v="R&#233;sidence Ty K&#234;r" />
-    <tag id="366842555" k="highway" o="add" type="way" v="residential" />
+    <tag id="366842554" k="highway" o="add" type="way" v="service" />
     <tag id="366842555" k="name" o="add" type="way" v="Venelle de Rullan" />
-    <tag id="366842555" k="ref:FR:FANTOIR" o="add" type="way" v="291670775X" />
+    <tag id="366842555" k="highway" o="add" type="way" v="residential" />
     <tag id="366842555" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842556" k="building" o="add" type="way" v="yes" />
+    <tag id="366842555" k="ref:FR:FANTOIR" o="add" type="way" v="291670775X" />
     <tag id="366842556" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842557" k="building" o="add" type="way" v="yes" />
+    <tag id="366842556" k="building" o="add" type="way" v="yes" />
     <tag id="366842557" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842558" k="building" o="add" type="way" v="yes" />
+    <tag id="366842557" k="building" o="add" type="way" v="yes" />
     <tag id="366842558" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842559" k="building" o="add" type="way" v="yes" />
+    <tag id="366842558" k="building" o="add" type="way" v="yes" />
     <tag id="366842559" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842560" k="building" o="add" type="way" v="yes" />
+    <tag id="366842559" k="building" o="add" type="way" v="yes" />
     <tag id="366842560" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842561" k="building" o="add" type="way" v="yes" />
+    <tag id="366842560" k="building" o="add" type="way" v="yes" />
     <tag id="366842561" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842562" k="building" o="add" type="way" v="yes" />
-    <tag id="366842562" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="366842561" k="building" o="add" type="way" v="yes" />
     <tag id="366842562" k="wall" o="add" type="way" v="no" />
-    <tag id="366842563" k="building" o="add" type="way" v="yes" />
+    <tag id="366842562" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
+    <tag id="366842562" k="building" o="add" type="way" v="yes" />
     <tag id="366842563" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="366842564" k="building" o="add" type="way" v="yes" />
+    <tag id="366842563" k="building" o="add" type="way" v="yes" />
     <tag id="366842564" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
+    <tag id="366842564" k="building" o="add" type="way" v="yes" />
     <tag id="366842565" k="highway" o="add" type="way" v="residential" />
     <tag id="366842566" k="highway" o="add" type="way" v="path" />
-    <tag id="366842567" k="highway" o="add" type="way" v="residential" />
     <tag id="366842567" k="noexit" o="add" type="way" v="yes" />
+    <tag id="366842567" k="highway" o="add" type="way" v="residential" />
     <tag id="366842567" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="366842568" k="highway" o="add" type="way" v="secondary" />
     <tag id="366842568" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
+    <tag id="366842568" k="highway" o="add" type="way" v="secondary" />
     <tag id="366842569" k="highway" o="add" type="way" v="residential" />
     <tag id="366842570" k="highway" o="add" type="way" v="track" />
     <tag id="5454934" k="name" o="add" type="relation" v="Lotissement Park Dr&#233;on" />
     <tag id="5454934" k="type" o="add" type="relation" v="associatedStreet" />
-    <tag id="1261317861" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="1261317892" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="1301789930" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="1301789956" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="3261787165" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="3261807917" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="319717081" k="highway" o="none" type="way" v="residential" />
-    <tag id="319717081" k="name" o="add" type="way" v="All&#233;e des Sources" />
-    <tag id="319751691" k="highway" o="none" type="way" v="residential" />
-    <tag id="319751691" k="name" o="add" type="way" v="Chemin de Pont Cleguer" />
-    <tag id="115032918" k="highway" o="none" type="way" v="residential" />
-    <tag id="115032918" k="name" o="add" type="way" v="Cit&#233; des Hortensias" />
-    <tag id="115032918" k="noexit" o="none" type="way" v="yes" />
-    <tag id="115032918" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="115032926" k="highway" o="none" type="way" v="residential" />
-    <tag id="115032926" k="name" o="add" type="way" v="Cit&#233; des Hortensias" />
-    <tag id="115032926" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="115091072" k="highway" o="none" type="way" v="residential" />
-    <tag id="115091072" k="name" o="add" type="way" v="Cit&#233; des Pins" />
-    <tag id="115091072" k="noexit" o="none" type="way" v="yes" />
-    <tag id="115091072" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="319717090" k="highway" o="none" type="way" v="residential" />
-    <tag id="319717090" k="name" o="add" type="way" v="Cit&#233; de Menez Goueron" />
-    <tag id="319721619" k="highway" o="none" type="way" v="residential" />
-    <tag id="319721619" k="name" o="add" type="way" v="Cit&#233; Ty Guen" />
-    <tag id="319751692" k="highway" o="none" type="way" v="residential" />
-    <tag id="319751692" k="name" o="add" type="way" v="Chemin de Pont Cleguer" />
-    <tag id="110451355" k="highway" o="none" type="way" v="residential" />
-    <tag id="110451355" k="name" o="add" type="way" v="Cit&#233; Ty Guen" />
-    <tag id="110451355" k="noexit" o="none" type="way" v="yes" />
-    <tag id="110451355" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="263235563" k="amenity" o="add" type="way" v="police" />
-    <tag id="263235563" k="building" o="none" type="way" v="yes" />
-    <tag id="263235563" k="name" o="add" type="way" v="Gendarmerie Nationale" />
-    <tag id="263235563" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
-    <tag id="319717089" k="highway" o="none" type="way" v="residential" />
-    <tag id="319717089" k="name" o="add" type="way" v="Lotissement Park Dr&#233;on" />
-    <tag id="319721674" k="highway" o="none" type="way" v="residential" />
-    <tag id="319721674" k="name" o="add" type="way" v="Hameau de Kerleron" />
-    <tag id="319721675" k="highway" o="none" type="way" v="residential" />
-    <tag id="319721675" k="name" o="add" type="way" v="Hameau de Kerleron" />
-    <tag id="110451352" k="highway" o="none" type="way" v="residential" />
-    <tag id="110451352" k="name" o="add" type="way" v="Cit&#233; du Roz" />
-    <tag id="110451352" k="noexit" o="none" type="way" v="yes" />
-    <tag id="110451352" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="110262037" k="highway" o="none" type="way" v="residential" />
-    <tag id="110262037" k="name" o="add" type="way" v="Impasse du Kastel" />
-    <tag id="110262037" k="noexit" o="none" type="way" v="yes" />
-    <tag id="110262037" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="112264626" k="access" o="add" type="way" v="destination" />
-    <tag id="112264626" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="112264626" k="name" o="add" type="way" v="Route de Kermarigou" />
-    <tag id="112264626" k="noexit" o="none" type="way" v="yes" />
-    <tag id="112264626" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="112264628" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="112264628" k="name" o="add" type="way" v="Route de Kermarigou" />
-    <tag id="112264628" k="noexit" o="none" type="way" v="yes" />
-    <tag id="112264628" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="319717087" k="highway" o="none" type="way" v="residential" />
-    <tag id="319717087" k="name" o="add" type="way" v="Lotissement Park Dr&#233;on" />
-    <tag id="112264632" k="access" o="modify" type="way" v="destination" />
-    <tag id="112264632" k="highway" o="modify" type="way" v="residential" />
-    <tag id="112264632" k="name" o="add" type="way" v="Route de Kermarigou" />
-    <tag id="86874335" k="highway" o="none" type="way" v="secondary" />
-    <tag id="86874335" k="name" o="add" type="way" v="Place de l'&#201;glise" />
-    <tag id="86874335" k="ref" o="none" type="way" v="D 57" />
-    <tag id="86874335" k="ref:FR:FANTOIR" o="add" type="way" v="291670197U" />
-    <tag id="86874335" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
-    <tag id="86929936" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="86929936" k="name" o="add" type="way" v="Route de Pouldreuzic" />
-    <tag id="86929936" k="ref" o="none" type="way" v="D 57" />
-    <tag id="86929936" k="source" o="none" type="way" v="Bing" />
-    <tag id="319715871" k="highway" o="none" type="way" v="residential" />
-    <tag id="319715871" k="name" o="add" type="way" v="Rue de Briscoul" />
-    <tag id="110133174" k="highway" o="none" type="way" v="residential" />
-    <tag id="110133174" k="name" o="add" type="way" v="Rue de Briscoul Huella" />
-    <tag id="110133174" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="319715832" k="highway" o="none" type="way" v="residential" />
-    <tag id="319715832" k="name" o="add" type="way" v="Rue de Briscoul" />
-    <tag id="115091073" k="highway" o="none" type="way" v="residential" />
-    <tag id="115091073" k="name" o="add" type="way" v="Rue Stang Keleron" />
-    <tag id="115091073" k="noexit" o="none" type="way" v="yes" />
-    <tag id="115091073" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="227001470" k="highway" o="none" type="way" v="secondary" />
-    <tag id="227001470" k="name" o="add" type="way" v="Rue de Briscoul" />
-    <tag id="227001470" k="ref:FR:FANTOIR" o="add" type="way" v="291670080S" />
-    <tag id="227001470" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2010" />
-    <tag id="110262023" k="highway" o="none" type="way" v="residential" />
-    <tag id="110262023" k="name" o="add" type="way" v="Rue de Kerzerguern" />
-    <tag id="110262023" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="112264629" k="highway" o="none" type="way" v="residential" />
-    <tag id="112264629" k="name" o="add" type="way" v="Rue de la Fontaine" />
-    <tag id="112264629" k="noexit" o="none" type="way" v="yes" />
-    <tag id="112264629" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="110262031" k="highway" o="none" type="way" v="residential" />
-    <tag id="110262031" k="name" o="add" type="way" v="Rue des Bruy&#232;res" />
-    <tag id="110262031" k="ref:FR:FANTOIR" o="add" type="way" v="291670093F" />
-    <tag id="110262031" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="86867818" k="highway" o="none" type="way" v="secondary" />
-    <tag id="86867818" k="name" o="add" type="way" v="Rue de Parc Zale" />
-    <tag id="86867818" k="ref" o="none" type="way" v="D 240" />
-    <tag id="86867818" k="ref:FR:FANTOIR" o="add" type="way" v="291670650L" />
-    <tag id="86867818" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
-    <tag id="86867818" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="115091071" k="highway" o="none" type="way" v="secondary" />
-    <tag id="115091071" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="115091071" k="oneway" o="none" type="way" v="yes" />
-    <tag id="115091071" k="ref" o="none" type="way" v="D 57" />
-    <tag id="115091071" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="319721618" k="highway" o="none" type="way" v="residential" />
-    <tag id="319721618" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="115091070" k="highway" o="none" type="way" v="secondary" />
-    <tag id="115091070" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="115091070" k="oneway" o="none" type="way" v="yes" />
-    <tag id="115091075" k="highway" o="none" type="way" v="secondary" />
-    <tag id="115091075" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="115091075" k="oneway" o="none" type="way" v="yes" />
-    <tag id="115091068" k="highway" o="none" type="way" v="secondary" />
-    <tag id="115091068" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="115091068" k="ref" o="none" type="way" v="D 57" />
-    <tag id="115091068" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="115091079" k="highway" o="none" type="way" v="secondary" />
-    <tag id="115091079" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="115091079" k="oneway" o="none" type="way" v="yes" />
-    <tag id="115091079" k="ref" o="none" type="way" v="D 57" />
-    <tag id="115091079" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="110133180" k="highway" o="none" type="way" v="residential" />
-    <tag id="110133180" k="name" o="add" type="way" v="Rue des &#201;coles" />
-    <tag id="110133180" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="110262030" k="highway" o="none" type="way" v="residential" />
-    <tag id="110262030" k="name" o="add" type="way" v="Rue des Sabotiers" />
-    <tag id="110262030" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="115032941" k="highway" o="none" type="way" v="residential" />
-    <tag id="115032941" k="name" o="add" type="way" v="R&#233;sidence du Manoir" />
-    <tag id="115032941" k="noexit" o="none" type="way" v="yes" />
-    <tag id="115032941" k="ref:FR:FANTOIR" o="add" type="way" v="29167A375G" />
-    <tag id="115032941" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="177400255" k="highway" o="none" type="way" v="secondary" />
-    <tag id="177400255" k="name" o="add" type="way" v="Rue du Leurre" />
-    <tag id="177400255" k="ref" o="none" type="way" v="D 57" />
-    <tag id="177400255" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="319720266" k="highway" o="modify" type="way" v="residential" />
-    <tag id="319720266" k="name" o="add" type="way" v="Rue du Stade" />
-    <tag id="319720266" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="110133172" k="highway" o="none" type="way" v="residential" />
-    <tag id="110133172" k="name" o="add" type="way" v="R&#233;sidence du Manoir" />
-    <tag id="110133172" k="noexit" o="none" type="way" v="yes" />
-    <tag id="110133172" k="ref:FR:FANTOIR" o="add" type="way" v="29167A375G" />
-    <tag id="110133172" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="41706271" k="CLC:code" o="none" type="way" v="112" />
-    <tag id="41706271" k="CLC:id" o="none" type="way" v="FR-254643" />
-    <tag id="41706271" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="41706271" k="landuse" o="none" type="way" v="residential" />
-    <tag id="41706271" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="263236030" k="building" o="none" type="way" v="yes" />
-    <tag id="263236030" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="263238248" k="building" o="none" type="way" v="yes" />
-    <tag id="263238248" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
-    <tag id="263238287" k="building" o="none" type="way" v="yes" />
-    <tag id="263238287" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="263235509" k="building" o="none" type="way" v="yes" />
-    <tag id="263235509" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
-    <tag id="263238227" k="building" o="none" type="way" v="yes" />
-    <tag id="263238227" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="263238318" k="building" o="none" type="way" v="yes" />
-    <tag id="263238318" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2015" />
-    <tag id="118045461" k="highway" o="modify" type="way" v="unclassified" />
-    <tag id="118045461" k="noexit" o="none" type="way" v="yes" />
-    <tag id="118045461" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="263235627" k="amenity" o="none" type="way" v="place_of_worship" />
-    <tag id="263235627" k="building" o="none" type="way" v="yes" />
-    <tag id="263235627" k="denomination" o="none" type="way" v="catholic" />
-    <tag id="263235627" k="name" o="add" type="way" v="&#201;glise Saint-Pierre" />
-    <tag id="263235627" k="religion" o="none" type="way" v="christian" />
-    <tag id="263235627" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2014" />
-    <tag id="319717085" k="highway" o="none" type="way" v="unclassified" />
   </body>
 </changeset>

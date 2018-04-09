@@ -1,1 +1,46 @@
-<changeset id="55983362" schema="1"><counts nodesAdded="4" nodesModified="3" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="2" /><meta><tag k="changesets_count" v="92" /><tag k="comment" v="Added entrance, street crossing, pedestrian path, made edit to bus stop" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="ideditor:walkthrough_progress" v="line;navigation;startEditing" /><tag k="ideditor:walkthrough_started" v="yes" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-GB" /></meta><body><tag id="5379698140" k="access" o="add" type="node" v="yes" /><tag id="5379698140" k="entrance" o="add" type="node" v="main" /><tag id="557838279" k="crossing" o="add" type="way" v="uncontrolled" /><tag id="557838279" k="footway" o="add" type="way" v="crossing" /><tag id="557838279" k="highway" o="add" type="way" v="footway" /><tag id="557838279" k="surface" o="add" type="way" v="asphalt" /><tag id="557838280" k="highway" o="add" type="way" v="footway" /><tag id="557838280" k="surface" o="add" type="way" v="concrete" /><tag id="481695567" k="crossing" o="add" type="node" v="uncontrolled" /><tag id="481695567" k="highway" o="add" type="node" v="crossing" /><tag id="5379696834" k="highway" o="modify" type="node" v="platform" /></body></changeset>
+<changeset id="55983362" schema="2">
+  <counts nodesAdded="4" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="changesets_count" v="92" />
+    <tag k="comment" v="Added entrance, street crossing, pedestrian path, made edit to bus stop" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="ideditor:walkthrough_progress" v="line;navigation;startEditing" />
+    <tag k="ideditor:walkthrough_started" v="yes" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-GB" />
+  </meta>
+  <body>
+    <tag id="481695567" k="highway" o="add" type="node" v="crossing" />
+    <tag id="481695567" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="5379696834" k="bus" o="none" type="node" v="yes" />
+    <tag id="5379696834" k="ref" o="none" type="node" v="1817" />
+    <tag id="5379696834" k="name" o="none" type="node" v="University Hospital (Southbound)" />
+    <tag id="5379696834" k="bench" o="none" type="node" v="yes" />
+    <tag id="5379696834" k="highway" o="modify" type="node" v="platform" />
+    <tag id="5379696834" k="surface" o="none" type="node" v="concrete:plates" />
+    <tag id="5379696834" k="operator" o="none" type="node" v="London Transit Commission" />
+    <tag id="5379696834" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="5379698140" k="access" o="add" type="node" v="yes" />
+    <tag id="5379698140" k="entrance" o="add" type="node" v="main" />
+    <tag id="40046722" k="name" o="none" type="way" v="Perth Drive" />
+    <tag id="40046722" k="is_in" o="none" type="way" v="London,Ontario,Canada" />
+    <tag id="40046722" k="lanes" o="none" type="way" v="2" />
+    <tag id="40046722" k="highway" o="none" type="way" v="residential" />
+    <tag id="142286108" k="name" o="none" type="way" v="University Hospital" />
+    <tag id="142286108" k="amenity" o="none" type="way" v="hospital" />
+    <tag id="142286108" k="building" o="none" type="way" v="yes" />
+    <tag id="142286108" k="operator" o="none" type="way" v="London Health Sciences Centre" />
+    <tag id="142286108" k="addr:city" o="none" type="way" v="London" />
+    <tag id="142286108" k="emergency" o="none" type="way" v="yes" />
+    <tag id="142286108" k="addr:street" o="none" type="way" v="Windermere Road" />
+    <tag id="142286108" k="addr:province" o="none" type="way" v="Ontario" />
+    <tag id="142286108" k="addr:housenumber" o="none" type="way" v="339" />
+    <tag id="557838279" k="footway" o="add" type="way" v="crossing" />
+    <tag id="557838279" k="highway" o="add" type="way" v="footway" />
+    <tag id="557838279" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="557838279" k="crossing" o="add" type="way" v="uncontrolled" />
+    <tag id="557838280" k="highway" o="add" type="way" v="footway" />
+    <tag id="557838280" k="surface" o="add" type="way" v="concrete" />
+  </body>
+</changeset>

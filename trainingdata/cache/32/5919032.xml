@@ -1,16 +1,16 @@
 <changeset id="5919032" schema="2">
-  <counts nodesAdded="5" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="1" waysModified="1" />
+  <counts nodesAdded="5" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="1" waysModified="2" />
   <meta>
     <tag k="comment" v="Rotterdam Station Lombardijen: Fixed Keep Right error #13378501 by introducing a pedistrian area" />
     <tag k="created_by" v="JOSM/1.5 (3514 en)" />
   </meta>
   <body>
-    <tag id="1201563" k="area" o="add" type="relation" v="yes" />
-    <tag id="1201563" k="highway" o="add" type="relation" v="pedestrian" />
-    <tag id="1201563" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="7326690" k="AND_nosr_r" o="none" type="way" v="15251981" />
-    <tag id="7326690" k="highway" o="none" type="way" v="service" />
     <tag id="7326690" k="name" o="none" type="way" v="Zuidkreek" />
+    <tag id="7326690" k="highway" o="none" type="way" v="service" />
     <tag id="7326690" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="7326690" k="AND_nosr_r" o="none" type="way" v="15251981" />
+    <tag id="1201563" k="area" o="add" type="relation" v="yes" />
+    <tag id="1201563" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="1201563" k="highway" o="add" type="relation" v="pedestrian" />
   </body>
 </changeset>

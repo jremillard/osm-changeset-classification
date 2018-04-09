@@ -1,5 +1,5 @@
 <changeset id="44500983" schema="2">
-  <counts nodesAdded="55" nodesDeleted="69" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="9" waysAdded="3" waysDeleted="3" waysModified="1" />
+  <counts nodesAdded="55" nodesDeleted="69" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="9" waysAdded="3" waysDeleted="3" waysModified="4" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Zbiroh (relation 438901)." />
@@ -8,91 +8,91 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="460403194" k="admin_level" o="add" type="way" v="8" />
-    <tag id="460403194" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="460403194" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="460403196" k="admin_level" o="add" type="way" v="8" />
-    <tag id="460403196" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="460403196" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="460403197" k="admin_level" o="add" type="way" v="8" />
-    <tag id="460403197" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="460403197" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="179894375" k="admin_level" o="none" type="way" v="8" />
-    <tag id="179894375" k="boundary" o="none" type="way" v="administrative" />
     <tag id="179894375" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="439822" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="439822" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="439822" k="name" o="none" type="relation" v="Cekov" />
-    <tag id="439822" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="439822" k="population" o="none" type="relation" v="133" />
-    <tag id="439822" k="ref" o="none" type="relation" v="CZ0326559768" />
-    <tag id="439822" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="439822" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="439822" k="type" o="none" type="relation" v="boundary" />
-    <tag id="439822" k="wikidata" o="none" type="relation" v="Q2239738" />
-    <tag id="439822" k="wikipedia" o="none" type="relation" v="cs:Cekov" />
-    <tag id="425522" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425522" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425522" k="name" o="none" type="relation" v="Tere&#353;ov" />
-    <tag id="425522" k="ref" o="none" type="relation" v="766453" />
-    <tag id="425522" k="source" o="modify" type="relation" v="cuzk:ruian" />
-    <tag id="425522" k="type" o="none" type="relation" v="boundary" />
-    <tag id="425438" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425438" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425438" k="name" o="none" type="relation" v="Cekov" />
-    <tag id="425438" k="ref" o="none" type="relation" v="617440" />
-    <tag id="425438" k="source" o="modify" type="relation" v="cuzk:ruian" />
-    <tag id="425438" k="type" o="none" type="relation" v="boundary" />
-    <tag id="425322" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425322" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425322" k="name" o="none" type="relation" v="Draho&#328;&#367;v &#218;jezd" />
+    <tag id="179894375" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179894375" k="admin_level" o="none" type="way" v="8" />
+    <tag id="460403194" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="460403194" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="460403194" k="admin_level" o="add" type="way" v="8" />
+    <tag id="460403196" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="460403196" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="460403196" k="admin_level" o="add" type="way" v="8" />
+    <tag id="460403197" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="460403197" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="460403197" k="admin_level" o="add" type="way" v="8" />
     <tag id="425322" k="ref" o="none" type="relation" v="631779" />
-    <tag id="425322" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="425322" k="name" o="none" type="relation" v="Draho&#328;&#367;v &#218;jezd" />
     <tag id="425322" k="type" o="none" type="relation" v="boundary" />
-    <tag id="438900" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="438900" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="438900" k="name" o="none" type="relation" v="Tere&#353;ov" />
-    <tag id="438900" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="438900" k="population" o="none" type="relation" v="149" />
+    <tag id="425322" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="425322" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425322" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="425325" k="ref" o="none" type="relation" v="631795" />
+    <tag id="425325" k="name" o="none" type="relation" v="T&#345;ebnu&#353;ka" />
+    <tag id="425325" k="type" o="none" type="relation" v="boundary" />
+    <tag id="425325" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425325" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425325" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="425438" k="ref" o="none" type="relation" v="617440" />
+    <tag id="425438" k="name" o="none" type="relation" v="Cekov" />
+    <tag id="425438" k="type" o="none" type="relation" v="boundary" />
+    <tag id="425438" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425438" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425438" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="425522" k="ref" o="none" type="relation" v="766453" />
+    <tag id="425522" k="name" o="none" type="relation" v="Tere&#353;ov" />
+    <tag id="425522" k="type" o="none" type="relation" v="boundary" />
+    <tag id="425522" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425522" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425522" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="425756" k="ref" o="none" type="relation" v="791504" />
+    <tag id="425756" k="name" o="none" type="relation" v="Zbiroh" />
+    <tag id="425756" k="type" o="none" type="relation" v="boundary" />
+    <tag id="425756" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="425756" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="425756" k="admin_level" o="none" type="relation" v="10" />
     <tag id="438900" k="ref" o="none" type="relation" v="CZ0326566802" />
-    <tag id="438900" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="438900" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="438900" k="name" o="none" type="relation" v="Tere&#353;ov" />
     <tag id="438900" k="type" o="none" type="relation" v="boundary" />
+    <tag id="438900" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="438900" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="438900" k="wikidata" o="none" type="relation" v="Q2175649" />
     <tag id="438900" k="wikipedia" o="none" type="relation" v="cs:Tere&#353;ov" />
-    <tag id="425325" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425325" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425325" k="name" o="none" type="relation" v="T&#345;ebnu&#353;ka" />
-    <tag id="425325" k="ref" o="none" type="relation" v="631795" />
-    <tag id="425325" k="source" o="modify" type="relation" v="cuzk:ruian" />
-    <tag id="425325" k="type" o="none" type="relation" v="boundary" />
-    <tag id="425756" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="425756" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="425756" k="name" o="none" type="relation" v="Zbiroh" />
-    <tag id="425756" k="ref" o="none" type="relation" v="791504" />
-    <tag id="425756" k="source" o="modify" type="relation" v="cuzk:ruian" />
-    <tag id="425756" k="type" o="none" type="relation" v="boundary" />
-    <tag id="438901" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="438901" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="438901" k="name" o="none" type="relation" v="Zbiroh" />
-    <tag id="438901" k="name:prefix" o="none" type="relation" v="m&#283;sto" />
-    <tag id="438901" k="population" o="none" type="relation" v="2534" />
+    <tag id="438900" k="population" o="none" type="relation" v="149" />
+    <tag id="438900" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="438900" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="438900" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
     <tag id="438901" k="ref" o="none" type="relation" v="CZ0326560260" />
-    <tag id="438901" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="438901" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="438901" k="name" o="none" type="relation" v="Zbiroh" />
     <tag id="438901" k="type" o="none" type="relation" v="boundary" />
+    <tag id="438901" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="438901" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="438901" k="wikidata" o="none" type="relation" v="Q168234" />
     <tag id="438901" k="wikipedia" o="none" type="relation" v="cs:Zbiroh" />
-    <tag id="439790" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="439790" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="439790" k="name" o="none" type="relation" v="Draho&#328;&#367;v &#218;jezd" />
-    <tag id="439790" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="439790" k="population" o="none" type="relation" v="134" />
+    <tag id="438901" k="population" o="none" type="relation" v="2534" />
+    <tag id="438901" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="438901" k="name:prefix" o="none" type="relation" v="m&#283;sto" />
+    <tag id="438901" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
     <tag id="439790" k="ref" o="none" type="relation" v="CZ0326530379" />
-    <tag id="439790" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="439790" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="439790" k="name" o="none" type="relation" v="Draho&#328;&#367;v &#218;jezd" />
     <tag id="439790" k="type" o="none" type="relation" v="boundary" />
+    <tag id="439790" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="439790" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="439790" k="wikidata" o="none" type="relation" v="Q616179" />
     <tag id="439790" k="wikipedia" o="none" type="relation" v="cs:Draho&#328;&#367;v &#218;jezd" />
+    <tag id="439790" k="population" o="none" type="relation" v="134" />
+    <tag id="439790" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="439790" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="439790" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="439822" k="ref" o="none" type="relation" v="CZ0326559768" />
+    <tag id="439822" k="name" o="none" type="relation" v="Cekov" />
+    <tag id="439822" k="type" o="none" type="relation" v="boundary" />
+    <tag id="439822" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="439822" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="439822" k="wikidata" o="none" type="relation" v="Q2239738" />
+    <tag id="439822" k="wikipedia" o="none" type="relation" v="cs:Cekov" />
+    <tag id="439822" k="population" o="none" type="relation" v="133" />
+    <tag id="439822" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="439822" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="439822" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

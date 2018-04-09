@@ -1,1 +1,62 @@
-<changeset id="56404736" schema="1"><counts nodesAdded="25" nodesModified="25" relationsAdded="0" relationsModified="0" waysAdded="15" waysModified="2" /><meta><tag k="comment" v="Added missing service roads in Atlanta" /><tag k="created_by" v="JOSM/1.5 (13367 en)" /><tag k="source" v="Mapbox Satellite , Mapbox Telemetry" /></meta><body><tag id="5415815151" k="addr:city" o="add" type="node" v="Atlanta" /><tag id="5415815151" k="addr:housenumber" o="add" type="node" v="42" /><tag id="5415815151" k="addr:postcode" o="add" type="node" v="30309" /><tag id="5415815151" k="addr:street" o="add" type="node" v="25th Street Northwest" /><tag id="561693325" k="highway" o="add" type="way" v="service" /><tag id="561693325" k="oneway" o="add" type="way" v="yes" /><tag id="561693325" k="service" o="add" type="way" v="parking_aisle" /><tag id="561693328" k="highway" o="add" type="way" v="service" /><tag id="561693328" k="oneway" o="add" type="way" v="yes" /><tag id="561693330" k="highway" o="add" type="way" v="service" /><tag id="561693330" k="oneway" o="add" type="way" v="yes" /><tag id="561693330" k="service" o="add" type="way" v="parking_aisle" /><tag id="561693332" k="highway" o="add" type="way" v="service" /><tag id="561693332" k="oneway" o="add" type="way" v="yes" /><tag id="561693334" k="highway" o="add" type="way" v="service" /><tag id="561693334" k="service" o="add" type="way" v="parking_aisle" /><tag id="561693336" k="highway" o="add" type="way" v="service" /><tag id="561693338" k="highway" o="add" type="way" v="service" /><tag id="561693340" k="highway" o="add" type="way" v="service" /><tag id="561693340" k="service" o="add" type="way" v="parking_aisle" /><tag id="561693342" k="highway" o="add" type="way" v="service" /><tag id="561693344" k="highway" o="add" type="way" v="service" /><tag id="561693346" k="highway" o="add" type="way" v="service" /><tag id="561693346" k="service" o="add" type="way" v="parking_aisle" /><tag id="561693349" k="highway" o="add" type="way" v="service" /><tag id="561693351" k="highway" o="add" type="way" v="service" /><tag id="561693351" k="service" o="add" type="way" v="parking_aisle" /><tag id="561693353" k="highway" o="add" type="way" v="service" /><tag id="561693355" k="highway" o="add" type="way" v="service" /><tag id="561693355" k="service" o="add" type="way" v="parking_aisle" /></body></changeset>
+<changeset id="56404736" schema="2">
+  <counts nodesAdded="25" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="15" waysDeleted="1" waysModified="3" />
+  <meta>
+    <tag k="comment" v="Added missing service roads in Atlanta" />
+    <tag k="created_by" v="JOSM/1.5 (13367 en)" />
+    <tag k="source" v="Mapbox Satellite , Mapbox Telemetry" />
+  </meta>
+  <body>
+    <tag id="5415815151" k="addr:city" o="add" type="node" v="Atlanta" />
+    <tag id="5415815151" k="addr:street" o="add" type="node" v="25th Street Northwest" />
+    <tag id="5415815151" k="addr:postcode" o="add" type="node" v="30309" />
+    <tag id="5415815151" k="addr:housenumber" o="add" type="node" v="42" />
+    <tag id="9268145" k="name" o="none" type="way" v="25th Street Northwest" />
+    <tag id="9268145" k="highway" o="none" type="way" v="residential" />
+    <tag id="9268145" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="9268145" k="tiger:county" o="none" type="way" v="Fulton, GA" />
+    <tag id="9268145" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="9268145" k="tiger:zip_left" o="none" type="way" v="30309" />
+    <tag id="9268145" k="tiger:name_base" o="none" type="way" v="25th" />
+    <tag id="9268145" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="9268145" k="tiger:zip_right" o="none" type="way" v="30309" />
+    <tag id="9268145" k="tiger:name_direction_suffix" o="none" type="way" v="NW" />
+    <tag id="38978512" k="ref" o="none" type="way" v="US 19; GA 9" />
+    <tag id="38978512" k="HFCS" o="none" type="way" v="Principal Arterial - Other" />
+    <tag id="38978512" k="name" o="none" type="way" v="Peachtree Street" />
+    <tag id="38978512" k="lanes" o="none" type="way" v="6" />
+    <tag id="38978512" k="highway" o="none" type="way" v="primary" />
+    <tag id="38978512" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="38978512" k="tiger:cfcc" o="none" type="way" v="A35" />
+    <tag id="38978512" k="tiger:county" o="none" type="way" v="Fulton, GA" />
+    <tag id="38978512" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="38978512" k="tiger:name_base" o="none" type="way" v="Peachtree" />
+    <tag id="38978512" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="38978512" k="tiger:name_base_1" o="none" type="way" v="State Route 141" />
+    <tag id="561693325" k="oneway" o="add" type="way" v="yes" />
+    <tag id="561693325" k="highway" o="add" type="way" v="service" />
+    <tag id="561693325" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561693328" k="oneway" o="add" type="way" v="yes" />
+    <tag id="561693328" k="highway" o="add" type="way" v="service" />
+    <tag id="561693330" k="oneway" o="add" type="way" v="yes" />
+    <tag id="561693330" k="highway" o="add" type="way" v="service" />
+    <tag id="561693330" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561693332" k="oneway" o="add" type="way" v="yes" />
+    <tag id="561693332" k="highway" o="add" type="way" v="service" />
+    <tag id="561693334" k="highway" o="add" type="way" v="service" />
+    <tag id="561693334" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561693336" k="highway" o="add" type="way" v="service" />
+    <tag id="561693338" k="highway" o="add" type="way" v="service" />
+    <tag id="561693340" k="highway" o="add" type="way" v="service" />
+    <tag id="561693340" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561693342" k="highway" o="add" type="way" v="service" />
+    <tag id="561693344" k="highway" o="add" type="way" v="service" />
+    <tag id="561693346" k="highway" o="add" type="way" v="service" />
+    <tag id="561693346" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561693349" k="highway" o="add" type="way" v="service" />
+    <tag id="561693351" k="highway" o="add" type="way" v="service" />
+    <tag id="561693351" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561693353" k="highway" o="add" type="way" v="service" />
+    <tag id="561693355" k="highway" o="add" type="way" v="service" />
+    <tag id="561693355" k="service" o="add" type="way" v="parking_aisle" />
+  </body>
+</changeset>

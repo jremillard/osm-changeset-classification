@@ -1,5 +1,5 @@
 <changeset id="33193086" schema="2">
-  <counts nodesAdded="25" nodesDeleted="23" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="2" />
+  <counts nodesAdded="25" nodesDeleted="23" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="3" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Loket (relation 441461)." />
@@ -8,46 +8,46 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="364591579" k="admin_level" o="add" type="way" v="8" />
-    <tag id="364591579" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="364591579" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="180611152" k="admin_level" o="none" type="way" v="8" />
-    <tag id="180611152" k="boundary" o="none" type="way" v="administrative" />
     <tag id="180611152" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="180611153" k="admin_level" o="none" type="way" v="8" />
-    <tag id="180611153" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="180611152" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="180611152" k="admin_level" o="none" type="way" v="8" />
     <tag id="180611153" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="441497" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="441497" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="441497" k="name" o="none" type="relation" v="D&#283;kanovice" />
-    <tag id="441497" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="441497" k="population" o="none" type="relation" v="63" />
-    <tag id="441497" k="ref" o="none" type="relation" v="CZ0201532746" />
-    <tag id="441497" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="441497" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="441497" k="type" o="none" type="relation" v="boundary" />
-    <tag id="441497" k="wikipedia" o="none" type="relation" v="cs:D&#283;kanovice" />
-    <tag id="428290" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="428290" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="428290" k="name" o="none" type="relation" v="D&#283;kanovice" />
+    <tag id="180611153" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="180611153" k="admin_level" o="none" type="way" v="8" />
+    <tag id="364591579" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="364591579" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="364591579" k="admin_level" o="add" type="way" v="8" />
     <tag id="428290" k="ref" o="none" type="relation" v="625426" />
-    <tag id="428290" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="428290" k="name" o="none" type="relation" v="D&#283;kanovice" />
     <tag id="428290" k="type" o="none" type="relation" v="boundary" />
-    <tag id="441461" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="441461" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="441461" k="name" o="none" type="relation" v="Loket" />
-    <tag id="441461" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="441461" k="population" o="none" type="relation" v="557" />
-    <tag id="441461" k="ref" o="none" type="relation" v="CZ0201530093" />
-    <tag id="441461" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="441461" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="441461" k="type" o="none" type="relation" v="boundary" />
-    <tag id="441461" k="wikipedia" o="none" type="relation" v="cs:Loket (okres Bene&#353;ov)" />
-    <tag id="429790" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="429790" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="429790" k="name" o="none" type="relation" v="Loket u Doln&#237;ch Kralovic" />
+    <tag id="428290" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="428290" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="428290" k="admin_level" o="none" type="relation" v="10" />
     <tag id="429790" k="ref" o="none" type="relation" v="686492" />
-    <tag id="429790" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="429790" k="name" o="none" type="relation" v="Loket u Doln&#237;ch Kralovic" />
     <tag id="429790" k="type" o="none" type="relation" v="boundary" />
+    <tag id="429790" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="429790" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="429790" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="441461" k="ref" o="none" type="relation" v="CZ0201530093" />
+    <tag id="441461" k="name" o="none" type="relation" v="Loket" />
+    <tag id="441461" k="type" o="none" type="relation" v="boundary" />
+    <tag id="441461" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="441461" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="441461" k="wikipedia" o="none" type="relation" v="cs:Loket (okres Bene&#353;ov)" />
+    <tag id="441461" k="population" o="none" type="relation" v="557" />
+    <tag id="441461" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="441461" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="441461" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="441497" k="ref" o="none" type="relation" v="CZ0201532746" />
+    <tag id="441497" k="name" o="none" type="relation" v="D&#283;kanovice" />
+    <tag id="441497" k="type" o="none" type="relation" v="boundary" />
+    <tag id="441497" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="441497" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="441497" k="wikipedia" o="none" type="relation" v="cs:D&#283;kanovice" />
+    <tag id="441497" k="population" o="none" type="relation" v="63" />
+    <tag id="441497" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="441497" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="441497" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

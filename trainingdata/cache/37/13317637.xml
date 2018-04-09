@@ -5,18 +5,14 @@
     <tag k="created_by" v="JOSM/1.5 (5485 es);reverter_plugin/28656" />
   </meta>
   <body>
-    <tag id="180185897" k="admin_level" o="add" type="way" v="2" />
-    <tag id="180185897" k="border_type" o="add" type="way" v="territorial" />
+    <tag id="180185897" k="note" o="add" type="way" v="robot-generated-200nm-border" />
     <tag id="180185897" k="boundary" o="add" type="way" v="administrative" />
     <tag id="180185897" k="maritime" o="add" type="way" v="yes" />
-    <tag id="180185897" k="note" o="add" type="way" v="robot-generated-200nm-border" />
-    <tag id="288247" k="admin_level" o="add" type="relation" v="2" />
-    <tag id="288247" k="border_type" o="add" type="relation" v="nation" />
-    <tag id="288247" k="boundary" o="add" type="relation" v="administrative" />
-    <tag id="288247" k="int_name" o="add" type="relation" v="Peru" />
-    <tag id="288247" k="is_in:continent" o="add" type="relation" v="South America" />
-    <tag id="288247" k="ISO3166-1" o="add" type="relation" v="pe" />
+    <tag id="180185897" k="admin_level" o="add" type="way" v="2" />
+    <tag id="180185897" k="border_type" o="add" type="way" v="territorial" />
     <tag id="288247" k="name" o="add" type="relation" v="Per&#250;" />
+    <tag id="288247" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="288247" k="place" o="add" type="relation" v="country" />
     <tag id="288247" k="name:ar" o="add" type="relation" v="&#1576;&#1610;&#1585;&#1608;" />
     <tag id="288247" k="name:be" o="add" type="relation" v="&#1055;&#1077;&#1088;&#1091;" />
     <tag id="288247" k="name:br" o="add" type="relation" v="Perou" />
@@ -55,7 +51,15 @@
     <tag id="288247" k="name:th" o="add" type="relation" v="&#3611;&#3619;&#3632;&#3648;&#3607;&#3624;&#3648;&#3611;&#3619;&#3641;" />
     <tag id="288247" k="name:uk" o="add" type="relation" v="&#1055;&#1077;&#1088;&#1091;" />
     <tag id="288247" k="name:zh" o="add" type="relation" v="&#31192;&#40065;" />
+    <tag id="288247" k="boundary" o="add" type="relation" v="administrative" />
+    <tag id="288247" k="int_name" o="add" type="relation" v="Peru" />
+    <tag id="288247" k="timezone" o="add" type="relation" v="America/Lima" />
+    <tag id="288247" k="ISO3166-1" o="add" type="relation" v="pe" />
+    <tag id="288247" k="admin_level" o="add" type="relation" v="2" />
+    <tag id="288247" k="border_type" o="add" type="relation" v="nation" />
+    <tag id="288247" k="wikipedia:en" o="add" type="relation" v="en:Peru" />
     <tag id="288247" k="official_name" o="add" type="relation" v="Rep&#250;blica del Per&#250;" />
+    <tag id="288247" k="is_in:continent" o="add" type="relation" v="South America" />
     <tag id="288247" k="official_name:el" o="add" type="relation" v="&#916;&#951;&#956;&#959;&#954;&#961;&#945;&#964;&#943;&#945; &#964;&#959;&#965; &#928;&#949;&#961;&#959;&#973;" />
     <tag id="288247" k="official_name:en" o="add" type="relation" v="Republic of Peru" />
     <tag id="288247" k="official_name:es" o="add" type="relation" v="Rep&#250;blica del Per&#250;" />
@@ -70,9 +74,5 @@
     <tag id="288247" k="official_name:sk" o="add" type="relation" v="Peru&#225;nska republika" />
     <tag id="288247" k="official_name:sv" o="add" type="relation" v="Republiken Peru" />
     <tag id="288247" k="official_name:vi" o="add" type="relation" v="C&#7897;ng h&#242;a Peru" />
-    <tag id="288247" k="place" o="add" type="relation" v="country" />
-    <tag id="288247" k="timezone" o="add" type="relation" v="America/Lima" />
-    <tag id="288247" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="288247" k="wikipedia:en" o="add" type="relation" v="en:Peru" />
   </body>
 </changeset>

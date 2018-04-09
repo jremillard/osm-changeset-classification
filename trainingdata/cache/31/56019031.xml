@@ -1,1 +1,21 @@
-<changeset id="56019031" schema="1"><counts nodesAdded="511" nodesModified="35" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="2" /><meta><tag k="comment" v="Rectified points in La Uvita - San Mateo Road." /><tag k="created_by" v="JOSM/1.5 (13367 en)" /><tag k="source" v="Bing; OpenStreetMap (Standard Black &amp; White); OpenStreetMap Carto (Standard)" /></meta><body><tag id="558127611" k="highway" o="add" type="way" v="secondary_link" /><tag id="558127611" k="lanes" o="add" type="way" v="2" /><tag id="558127615" k="highway" o="add" type="way" v="secondary" /><tag id="558127615" k="lanes" o="add" type="way" v="2" /><tag id="558127615" k="name" o="add" type="way" v="La Uvita - San Mateo" /><tag id="558127615" k="surface" o="add" type="way" v="paved" /></body></changeset>
+<changeset id="56019031" schema="2">
+  <counts nodesAdded="511" nodesDeleted="226" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="5" waysModified="7" />
+  <meta>
+    <tag k="comment" v="Rectified points in La Uvita - San Mateo Road." />
+    <tag k="created_by" v="JOSM/1.5 (13367 en)" />
+    <tag k="source" v="Bing; OpenStreetMap (Standard Black &amp; White); OpenStreetMap Carto (Standard)" />
+  </meta>
+  <body>
+    <tag id="54845513" k="highway" o="none" type="way" v="residential" />
+    <tag id="217903226" k="name" o="none" type="way" v="Carrera 3" />
+    <tag id="217903226" k="oneway" o="none" type="way" v="no" />
+    <tag id="217903226" k="highway" o="none" type="way" v="residential" />
+    <tag id="217903226" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="558127611" k="lanes" o="add" type="way" v="2" />
+    <tag id="558127611" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="558127615" k="name" o="add" type="way" v="La Uvita - San Mateo" />
+    <tag id="558127615" k="lanes" o="add" type="way" v="2" />
+    <tag id="558127615" k="highway" o="add" type="way" v="secondary" />
+    <tag id="558127615" k="surface" o="add" type="way" v="paved" />
+  </body>
+</changeset>

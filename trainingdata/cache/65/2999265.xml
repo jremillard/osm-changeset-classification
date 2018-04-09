@@ -1,19 +1,46 @@
 <changeset id="2999265" schema="2">
-  <counts nodesAdded="63" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="23" waysDeleted="0" waysModified="10" />
+  <counts nodesAdded="63" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="23" waysDeleted="0" waysModified="10" />
   <meta>
     <tag k="comment" v="Hiking to Wellingen at 20091031 (part 1)." />
     <tag k="created_by" v="JOSM/1.5 (2221 de)" />
   </meta>
   <body>
+    <tag id="309116972" k="highway" o="none" type="node" v="incline" />
+    <tag id="419824009" k="amenity" o="none" type="node" v="hunting_stand" />
+    <tag id="419824009" k="shelter" o="none" type="node" v="yes" />
     <tag id="549032816" k="natural" o="add" type="node" v="spring" />
     <tag id="549032820" k="natural" o="add" type="node" v="spring" />
-    <tag id="549032826" k="amenity" o="add" type="node" v="hunting_stand" />
     <tag id="549032826" k="height" o="add" type="node" v="3" />
+    <tag id="549032826" k="amenity" o="add" type="node" v="hunting_stand" />
     <tag id="549032826" k="shelter" o="add" type="node" v="yes" />
-    <tag id="549032847" k="amenity" o="add" type="node" v="hunting_stand" />
-    <tag id="549032847" k="height" o="add" type="node" v="2" />
     <tag id="549032847" k="hide" o="add" type="node" v="no" />
+    <tag id="549032847" k="height" o="add" type="node" v="2" />
+    <tag id="549032847" k="amenity" o="add" type="node" v="hunting_stand" />
     <tag id="549032847" k="shelter" o="add" type="node" v="no" />
+    <tag id="35201572" k="access" o="none" type="way" v="agricultural" />
+    <tag id="35201572" k="highway" o="none" type="way" v="track" />
+    <tag id="35201572" k="surface" o="modify" type="way" v="gravel" />
+    <tag id="35201572" k="tracktype" o="modify" type="way" v="grade3" />
+    <tag id="35279407" k="landuse" o="none" type="way" v="farmyard" />
+    <tag id="35428586" k="landuse" o="none" type="way" v="meadow" />
+    <tag id="35444946" k="barrier" o="none" type="way" v="fence" />
+    <tag id="35444946" k="landuse" o="none" type="way" v="meadow" />
+    <tag id="35444947" k="highway" o="none" type="way" v="service" />
+    <tag id="35444947" k="service" o="none" type="way" v="driveway" />
+    <tag id="35444947" k="surface" o="none" type="way" v="paved" />
+    <tag id="42144704" k="waterway" o="none" type="way" v="drain" />
+    <tag id="42144705" k="layer" o="none" type="way" v="-1" />
+    <tag id="42144705" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="42144705" k="waterway" o="none" type="way" v="drain" />
+    <tag id="42144706" k="waterway" o="none" type="way" v="drain" />
+    <tag id="42144707" k="layer" o="none" type="way" v="-1" />
+    <tag id="42144707" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="42144707" k="waterway" o="none" type="way" v="drain" />
+    <tag id="42144708" k="access" o="none" type="way" v="agricultural" />
+    <tag id="42144708" k="cutting" o="none" type="way" v="yes" />
+    <tag id="42144708" k="highway" o="none" type="way" v="track" />
+    <tag id="42144708" k="surface" o="none" type="way" v="grass" />
+    <tag id="42144708" k="tracktype" o="modify" type="way" v="grade5" />
     <tag id="43485129" k="access" o="add" type="way" v="agricultural" />
     <tag id="43485129" k="highway" o="add" type="way" v="track" />
     <tag id="43485129" k="surface" o="add" type="way" v="grass" />
@@ -64,32 +91,5 @@
     <tag id="43485150" k="barrier" o="add" type="way" v="hedge" />
     <tag id="43485150" k="landuse" o="add" type="way" v="allotments" />
     <tag id="43485151" k="building" o="add" type="way" v="yes" />
-    <tag id="309116972" k="highway" o="none" type="node" v="incline" />
-    <tag id="419824009" k="amenity" o="none" type="node" v="hunting_stand" />
-    <tag id="419824009" k="shelter" o="none" type="node" v="yes" />
-    <tag id="35201572" k="access" o="none" type="way" v="agricultural" />
-    <tag id="35201572" k="highway" o="none" type="way" v="track" />
-    <tag id="35201572" k="surface" o="modify" type="way" v="gravel" />
-    <tag id="35201572" k="tracktype" o="modify" type="way" v="grade3" />
-    <tag id="35279407" k="landuse" o="none" type="way" v="farmyard" />
-    <tag id="42144704" k="waterway" o="none" type="way" v="drain" />
-    <tag id="42144705" k="layer" o="none" type="way" v="-1" />
-    <tag id="42144705" k="tunnel" o="none" type="way" v="yes" />
-    <tag id="42144705" k="waterway" o="none" type="way" v="drain" />
-    <tag id="42144706" k="waterway" o="none" type="way" v="drain" />
-    <tag id="42144707" k="layer" o="none" type="way" v="-1" />
-    <tag id="42144707" k="tunnel" o="none" type="way" v="yes" />
-    <tag id="42144707" k="waterway" o="none" type="way" v="drain" />
-    <tag id="42144708" k="access" o="none" type="way" v="agricultural" />
-    <tag id="42144708" k="cutting" o="none" type="way" v="yes" />
-    <tag id="42144708" k="highway" o="none" type="way" v="track" />
-    <tag id="42144708" k="surface" o="none" type="way" v="grass" />
-    <tag id="42144708" k="tracktype" o="modify" type="way" v="grade5" />
-    <tag id="35428586" k="landuse" o="none" type="way" v="meadow" />
-    <tag id="35444946" k="barrier" o="none" type="way" v="fence" />
-    <tag id="35444946" k="landuse" o="none" type="way" v="meadow" />
-    <tag id="35444947" k="highway" o="none" type="way" v="service" />
-    <tag id="35444947" k="service" o="none" type="way" v="driveway" />
-    <tag id="35444947" k="surface" o="none" type="way" v="paved" />
   </body>
 </changeset>

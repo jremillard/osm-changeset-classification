@@ -1,1 +1,55 @@
-<changeset id="56286746" schema="1"><counts nodesAdded="53" nodesModified="12" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="18" /><meta><tag k="comment" v="add landuse" /><tag k="created_by" v="JOSM/1.5 (13367 en_GB)" /></meta><body><tag id="560664980" k="landuse" o="add" type="way" v="farmyard" /><tag id="560664980" k="name" o="add" type="way" v="Brant Farm" /><tag id="560664981" k="landuse" o="add" type="way" v="forest" /><tag id="560664981" k="source" o="add" type="way" v="bing" /><tag id="560664982" k="landuse" o="add" type="way" v="quarry" /><tag id="560664982" k="source" o="add" type="way" v="bing" /><tag id="105407848" k="source:maxspeed" o="modify" type="way" v="GB:nsl_single" /><tag id="490635956" k="construction" o="add" type="way" v="Pumping Station (under construction)" /></body></changeset>
+<changeset id="56286746" schema="2">
+  <counts nodesAdded="53" nodesDeleted="6" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="1" waysModified="19" />
+  <meta>
+    <tag k="comment" v="add landuse" />
+    <tag k="created_by" v="JOSM/1.5 (13367 en_GB)" />
+  </meta>
+  <body>
+    <tag id="27694376" k="ref" o="none" type="way" v="B4195" />
+    <tag id="27694376" k="name" o="none" type="way" v="Bewdley Road North" />
+    <tag id="27694376" k="highway" o="none" type="way" v="secondary" />
+    <tag id="27694376" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="81581296" k="name" o="none" type="way" v="Burlish Park" />
+    <tag id="81581296" k="landuse" o="none" type="way" v="residential" />
+    <tag id="105407848" k="ref" o="none" type="way" v="B4195" />
+    <tag id="105407848" k="name" o="none" type="way" v="Bewdley Road North" />
+    <tag id="105407848" k="highway" o="none" type="way" v="secondary" />
+    <tag id="105407848" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="105407848" k="source:maxspeed" o="modify" type="way" v="GB:nsl_single" />
+    <tag id="132976030" k="ref" o="none" type="way" v="B4195" />
+    <tag id="132976030" k="name" o="none" type="way" v="Bewdley Road" />
+    <tag id="132976030" k="highway" o="none" type="way" v="secondary" />
+    <tag id="132976030" k="maxspeed" o="none" type="way" v="60 mph" />
+    <tag id="132976030" k="source:maxspeed" o="none" type="way" v="UK:nsl_single" />
+    <tag id="132976035" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="132976035" k="designation" o="none" type="way" v="public_footpath" />
+    <tag id="132976041" k="access" o="none" type="way" v="private" />
+    <tag id="132976041" k="highway" o="none" type="way" v="service" />
+    <tag id="132976041" k="service" o="none" type="way" v="driveway" />
+    <tag id="132976041" k="designation" o="none" type="way" v="public_footpath" />
+    <tag id="132976066" k="barrier" o="none" type="way" v="hedge" />
+    <tag id="132976067" k="barrier" o="none" type="way" v="hedge" />
+    <tag id="132976068" k="barrier" o="none" type="way" v="hedge" />
+    <tag id="132976069" k="natural" o="none" type="way" v="wood" />
+    <tag id="490635956" k="source" o="none" type="way" v="survey" />
+    <tag id="490635956" k="landuse" o="none" type="way" v="construction" />
+    <tag id="490635956" k="operator" o="none" type="way" v="Severn Trent Water" />
+    <tag id="490635956" k="construction" o="add" type="way" v="Pumping Station (under construction)" />
+    <tag id="498042681" k="access" o="none" type="way" v="private" />
+    <tag id="498042681" k="highway" o="none" type="way" v="service" />
+    <tag id="498042681" k="service" o="none" type="way" v="driveway" />
+    <tag id="498315308" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="498315311" k="barrier" o="none" type="way" v="hedge" />
+    <tag id="498315312" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="498316129" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="506032538" k="name" o="none" type="way" v="Brant Caravan Park" />
+    <tag id="506032538" k="tourism" o="none" type="way" v="caravan_site" />
+    <tag id="506032539" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="560664980" k="name" o="add" type="way" v="Brant Farm" />
+    <tag id="560664980" k="landuse" o="add" type="way" v="farmyard" />
+    <tag id="560664981" k="source" o="add" type="way" v="bing" />
+    <tag id="560664981" k="landuse" o="add" type="way" v="forest" />
+    <tag id="560664982" k="source" o="add" type="way" v="bing" />
+    <tag id="560664982" k="landuse" o="add" type="way" v="quarry" />
+  </body>
+</changeset>

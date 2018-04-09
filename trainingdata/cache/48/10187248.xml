@@ -1,5 +1,5 @@
 <changeset id="10187248" schema="2">
-  <counts nodesAdded="802" nodesDeleted="114" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="65" waysDeleted="13" waysModified="19" />
+  <counts nodesAdded="802" nodesDeleted="114" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="65" waysDeleted="13" waysModified="31" />
   <meta>
     <tag k="build" v="2.3-121-geaece4c" />
     <tag k="comment" v="Major road fixup to fix MapDust bug 1189652.  http://www.mapdust.com/detail/1189652" />
@@ -7,416 +7,408 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
-    <tag id="1559368216" k="highway" o="add" type="node" v="turning_circle" />
     <tag id="1559368216" k="source" o="add" type="node" v="bing" />
-    <tag id="142486990" k="highway" o="add" type="way" v="residential" />
-    <tag id="142486990" k="source" o="add" type="way" v="bing" />
-    <tag id="142486990" k="surface" o="add" type="way" v="paved" />
-    <tag id="142486993" k="highway" o="add" type="way" v="residential" />
-    <tag id="142486993" k="source" o="add" type="way" v="bing" />
-    <tag id="142486993" k="surface" o="add" type="way" v="paved" />
-    <tag id="142486994" k="highway" o="add" type="way" v="residential" />
-    <tag id="142486994" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142486994" k="source" o="add" type="way" v="bing" />
-    <tag id="142486994" k="surface" o="add" type="way" v="paved" />
-    <tag id="142486995" k="highway" o="add" type="way" v="residential" />
-    <tag id="142486995" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142486995" k="source" o="add" type="way" v="bing" />
-    <tag id="142486995" k="surface" o="add" type="way" v="paved" />
-    <tag id="142486996" k="highway" o="add" type="way" v="residential" />
-    <tag id="142486996" k="source" o="add" type="way" v="bing" />
-    <tag id="142486996" k="surface" o="add" type="way" v="paved" />
-    <tag id="142487342" k="highway" o="add" type="way" v="residential" />
-    <tag id="142487342" k="name" o="add" type="way" v="South Jackson Road" />
-    <tag id="142487342" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142487342" k="source" o="add" type="way" v="bing" />
-    <tag id="142487342" k="surface" o="add" type="way" v="paved" />
-    <tag id="142487343" k="highway" o="add" type="way" v="residential" />
-    <tag id="142487343" k="name" o="add" type="way" v="South Jackson Road" />
-    <tag id="142487343" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142487343" k="source" o="add" type="way" v="bing" />
-    <tag id="142487343" k="surface" o="add" type="way" v="paved" />
-    <tag id="142487756" k="highway" o="add" type="way" v="service" />
-    <tag id="142487756" k="source" o="add" type="way" v="bing" />
-    <tag id="142487756" k="surface" o="add" type="way" v="paved" />
-    <tag id="142487757" k="highway" o="add" type="way" v="service" />
-    <tag id="142487757" k="source" o="add" type="way" v="bing" />
-    <tag id="142487757" k="surface" o="add" type="way" v="paved" />
-    <tag id="142487758" k="highway" o="add" type="way" v="service" />
-    <tag id="142487758" k="source" o="add" type="way" v="bing" />
-    <tag id="142487758" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488948" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488948" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142488948" k="source" o="add" type="way" v="bing" />
-    <tag id="142488948" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488949" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488949" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142488949" k="source" o="add" type="way" v="bing" />
-    <tag id="142488949" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488951" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488951" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142488951" k="source" o="add" type="way" v="bing" />
-    <tag id="142488951" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488952" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488952" k="source" o="add" type="way" v="bing" />
-    <tag id="142488952" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488953" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488953" k="source" o="add" type="way" v="bing" />
-    <tag id="142488953" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488955" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488955" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142488955" k="source" o="add" type="way" v="bing" />
-    <tag id="142488955" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488981" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488981" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142488981" k="source" o="add" type="way" v="bing" />
-    <tag id="142488981" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488983" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488983" k="source" o="add" type="way" v="bing" />
-    <tag id="142488983" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489743" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489743" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142489743" k="source" o="add" type="way" v="bing" />
-    <tag id="142489743" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489744" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489744" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142489744" k="source" o="add" type="way" v="bing" />
-    <tag id="142489744" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489746" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489746" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142489746" k="source" o="add" type="way" v="bing" />
-    <tag id="142489746" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489747" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489747" k="source" o="add" type="way" v="bing" />
-    <tag id="142489747" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489748" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489748" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142489748" k="source" o="add" type="way" v="bing" />
-    <tag id="142489748" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489749" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489749" k="source" o="add" type="way" v="bing" />
-    <tag id="142489749" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489750" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489750" k="source" o="add" type="way" v="bing" />
-    <tag id="142489750" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489949" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489949" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142489949" k="source" o="add" type="way" v="bing" />
-    <tag id="142489949" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489950" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489950" k="source" o="add" type="way" v="bing" />
-    <tag id="142489950" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489951" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489951" k="source" o="add" type="way" v="bing" />
-    <tag id="142489951" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489952" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489952" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142489952" k="source" o="add" type="way" v="bing" />
-    <tag id="142489952" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489953" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489953" k="source" o="add" type="way" v="bing" />
-    <tag id="142489953" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489954" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489954" k="source" o="add" type="way" v="bing" />
-    <tag id="142489954" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489955" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489955" k="source" o="add" type="way" v="bing" />
-    <tag id="142489955" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490097" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490097" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142490097" k="source" o="add" type="way" v="bing" />
-    <tag id="142490097" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490098" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490098" k="source" o="add" type="way" v="bing" />
-    <tag id="142490098" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490100" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490100" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142490100" k="source" o="add" type="way" v="bing" />
-    <tag id="142490100" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490314" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490314" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142490314" k="source" o="add" type="way" v="bing" />
-    <tag id="142490314" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490316" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490316" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142490316" k="source" o="add" type="way" v="bing" />
-    <tag id="142490316" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490317" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490317" k="source" o="add" type="way" v="bing" />
-    <tag id="142490317" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490318" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490318" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142490318" k="source" o="add" type="way" v="bing" />
-    <tag id="142490318" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491113" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491113" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142491113" k="source" o="add" type="way" v="bing" />
-    <tag id="142491113" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491114" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491114" k="source" o="add" type="way" v="bing" />
-    <tag id="142491114" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491116" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491116" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142491116" k="source" o="add" type="way" v="bing" />
-    <tag id="142491116" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491118" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491118" k="source" o="add" type="way" v="bing" />
-    <tag id="142491118" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491121" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491121" k="source" o="add" type="way" v="bing" />
-    <tag id="142491121" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491123" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491123" k="source" o="add" type="way" v="bing" />
-    <tag id="142491123" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491125" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491125" k="source" o="add" type="way" v="bing" />
-    <tag id="142491125" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491127" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491127" k="source" o="add" type="way" v="bing" />
-    <tag id="142491127" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491128" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491128" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142491128" k="source" o="add" type="way" v="bing" />
-    <tag id="142491128" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491131" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491131" k="source" o="add" type="way" v="bing" />
-    <tag id="142491131" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491133" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491133" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142491133" k="source" o="add" type="way" v="bing" />
-    <tag id="142491133" k="surface" o="add" type="way" v="paved" />
-    <tag id="142492091" k="highway" o="add" type="way" v="residential" />
-    <tag id="142492091" k="source" o="add" type="way" v="bing" />
-    <tag id="142492091" k="surface" o="add" type="way" v="paved" />
-    <tag id="142492092" k="highway" o="add" type="way" v="residential" />
-    <tag id="142492092" k="source" o="add" type="way" v="bing" />
-    <tag id="142492092" k="surface" o="add" type="way" v="paved" />
-    <tag id="142492093" k="highway" o="add" type="way" v="residential" />
-    <tag id="142492093" k="source" o="add" type="way" v="bing" />
-    <tag id="142492093" k="surface" o="add" type="way" v="paved" />
-    <tag id="142492094" k="highway" o="add" type="way" v="residential" />
-    <tag id="142492094" k="source" o="add" type="way" v="bing" />
-    <tag id="142492094" k="surface" o="add" type="way" v="paved" />
-    <tag id="142486991" k="highway" o="add" type="way" v="service" />
-    <tag id="142486991" k="surface" o="add" type="way" v="paved" />
-    <tag id="142486992" k="highway" o="add" type="way" v="residential" />
-    <tag id="142486992" k="name" o="add" type="way" v="Jackson Road" />
-    <tag id="142486992" k="source" o="add" type="way" v="bing" />
-    <tag id="142486992" k="surface" o="add" type="way" v="paved" />
-    <tag id="142487344" k="highway" o="add" type="way" v="service" />
-    <tag id="142487344" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488947" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488947" k="source" o="add" type="way" v="bing" />
-    <tag id="142488947" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488950" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488950" k="junction" o="add" type="way" v="roundabout" />
-    <tag id="142488950" k="source" o="add" type="way" v="bing" />
-    <tag id="142488950" k="surface" o="add" type="way" v="paved" />
-    <tag id="142488954" k="highway" o="add" type="way" v="residential" />
-    <tag id="142488954" k="source" o="add" type="way" v="bing" />
-    <tag id="142488954" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489742" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489742" k="oneway" o="add" type="way" v="yes" />
-    <tag id="142489742" k="source" o="add" type="way" v="bing" />
-    <tag id="142489742" k="surface" o="add" type="way" v="paved" />
-    <tag id="142489745" k="highway" o="add" type="way" v="residential" />
-    <tag id="142489745" k="source" o="add" type="way" v="bing" />
-    <tag id="142489745" k="surface" o="add" type="way" v="paved" />
-    <tag id="142490315" k="highway" o="add" type="way" v="residential" />
-    <tag id="142490315" k="source" o="add" type="way" v="bing" />
-    <tag id="142490315" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491120" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491120" k="source" o="add" type="way" v="bing" />
-    <tag id="142491120" k="surface" o="add" type="way" v="paved" />
-    <tag id="142491135" k="highway" o="add" type="way" v="residential" />
-    <tag id="142491135" k="source" o="add" type="way" v="bing" />
-    <tag id="142491135" k="surface" o="add" type="way" v="paved" />
-    <tag id="11345938" k="highway" o="none" type="way" v="residential" />
-    <tag id="11345938" k="name" o="none" type="way" v="Morgan Rd" />
-    <tag id="11345938" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11345938" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11345938" k="tiger:name_base" o="none" type="way" v="Morgan" />
-    <tag id="11345938" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="11345938" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="11345938" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11345938" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11345938" k="tiger:tlid" o="none" type="way" v="16338138:16338140" />
-    <tag id="11345938" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="1559368216" k="highway" o="add" type="node" v="turning_circle" />
     <tag id="11317785" k="highway" o="none" type="way" v="residential" />
     <tag id="11317785" k="surface" o="add" type="way" v="paved" />
     <tag id="11317785" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11317785" k="tiger:tlid" o="none" type="way" v="16338136" />
     <tag id="11317785" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11317785" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
     <tag id="11317785" k="tiger:reviewed" o="modify" type="way" v="yes" />
     <tag id="11317785" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11317785" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11317785" k="tiger:tlid" o="none" type="way" v="16338136" />
     <tag id="11317785" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
     <tag id="11320369" k="highway" o="none" type="way" v="residential" />
     <tag id="11320369" k="surface" o="add" type="way" v="unpaved" />
     <tag id="11320369" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11320369" k="tiger:tlid" o="none" type="way" v="16374510" />
     <tag id="11320369" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11320369" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
     <tag id="11320369" k="tiger:reviewed" o="modify" type="way" v="yes" />
     <tag id="11320369" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11320369" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11320369" k="tiger:tlid" o="none" type="way" v="16374510" />
     <tag id="11320369" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
     <tag id="11320372" k="highway" o="none" type="way" v="residential" />
     <tag id="11320372" k="surface" o="add" type="way" v="unpaved" />
     <tag id="11320372" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11320372" k="tiger:tlid" o="none" type="way" v="16374516" />
     <tag id="11320372" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11320372" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
     <tag id="11320372" k="tiger:reviewed" o="modify" type="way" v="yes" />
     <tag id="11320372" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11320372" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11320372" k="tiger:tlid" o="none" type="way" v="16374516" />
     <tag id="11320372" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
     <tag id="11320373" k="highway" o="none" type="way" v="residential" />
     <tag id="11320373" k="surface" o="add" type="way" v="unpaved" />
     <tag id="11320373" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11320373" k="tiger:tlid" o="none" type="way" v="16374519" />
     <tag id="11320373" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11320373" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
     <tag id="11320373" k="tiger:reviewed" o="modify" type="way" v="yes" />
     <tag id="11320373" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11320373" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11320373" k="tiger:tlid" o="none" type="way" v="16374519" />
     <tag id="11320373" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="11320920" k="highway" o="none" type="way" v="residential" />
-    <tag id="11320920" k="name" o="add" type="way" v="Carl Martin Avenue" />
-    <tag id="11320920" k="surface" o="add" type="way" v="paved" />
-    <tag id="11320920" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11320920" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11320920" k="tiger:reviewed" o="modify" type="way" v="yes" />
-    <tag id="11320920" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11320920" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11320920" k="tiger:tlid" o="none" type="way" v="16376778" />
-    <tag id="11320920" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="11326063" k="highway" o="none" type="way" v="residential" />
-    <tag id="11326063" k="name" o="modify" type="way" v="South Jackson Road" />
-    <tag id="11326063" k="surface" o="add" type="way" v="paved" />
-    <tag id="11326063" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11326063" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11326063" k="tiger:name_base" o="none" type="way" v="Jackson" />
-    <tag id="11326063" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
-    <tag id="11326063" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="11326063" k="tiger:reviewed" o="modify" type="way" v="yes" />
-    <tag id="11326063" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11326063" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11326063" k="tiger:tlid" o="none" type="way" v="16374528" />
-    <tag id="11326063" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="11330706" k="highway" o="none" type="way" v="residential" />
-    <tag id="11330706" k="name" o="none" type="way" v="Pezzana Dr" />
-    <tag id="11330706" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11330706" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11330706" k="tiger:name_base" o="none" type="way" v="Pezzana" />
-    <tag id="11330706" k="tiger:name_type" o="none" type="way" v="Dr" />
-    <tag id="11330706" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="11330706" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11330706" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11330706" k="tiger:tlid" o="none" type="way" v="16457790" />
-    <tag id="11330706" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="46972083" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="46972083" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
-    <tag id="46972083" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="46972083" k="lanes" o="none" type="way" v="2" />
-    <tag id="46972083" k="name" o="none" type="way" v="Center Rd" />
-    <tag id="46972083" k="oneway" o="none" type="way" v="yes" />
-    <tag id="11354293" k="highway" o="none" type="way" v="residential" />
-    <tag id="11354293" k="name" o="none" type="way" v="Keystone Rd" />
-    <tag id="11354293" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11354293" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11354293" k="tiger:name_base" o="none" type="way" v="Keystone" />
-    <tag id="11354293" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="11354293" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="11354293" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11354293" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11354293" k="tiger:tlid" o="none" type="way" v="16420068:16338119:16336955" />
-    <tag id="11354293" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="11354293" k="tiger:zip_left" o="none" type="way" v="34292" />
-    <tag id="11354293" k="tiger:zip_right" o="none" type="way" v="34292" />
-    <tag id="11354783" k="highway" o="none" type="way" v="residential" />
-    <tag id="11354783" k="name" o="none" type="way" v="Lee Rd" />
-    <tag id="11354783" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11354783" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11354783" k="tiger:name_base" o="none" type="way" v="Lee" />
-    <tag id="11354783" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="11354783" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="11354783" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11354783" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11354783" k="tiger:tlid" o="none" type="way" v="16374291:16338122:16336950:16336956" />
-    <tag id="11354783" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="48035577" k="highway" o="none" type="way" v="residential" />
-    <tag id="48035577" k="name" o="modify" type="way" v="Jackson Road" />
-    <tag id="48035577" k="oneway" o="none" type="way" v="yes" />
-    <tag id="48035664" k="highway" o="none" type="way" v="residential" />
-    <tag id="48035664" k="name" o="modify" type="way" v="Jackson Road" />
-    <tag id="48035664" k="oneway" o="none" type="way" v="yes" />
     <tag id="11320660" k="highway" o="modify" type="way" v="service" />
     <tag id="11320660" k="surface" o="add" type="way" v="unpaved" />
     <tag id="11320660" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11320660" k="tiger:tlid" o="none" type="way" v="16423320" />
     <tag id="11320660" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11320660" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
     <tag id="11320660" k="tiger:reviewed" o="modify" type="way" v="yes" />
     <tag id="11320660" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11320660" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11320660" k="tiger:tlid" o="none" type="way" v="16423320" />
     <tag id="11320660" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="46971827" k="HFCS" o="none" type="way" v="Urban Collector" />
-    <tag id="46971827" k="highway" o="none" type="way" v="secondary" />
-    <tag id="46971827" k="lanes" o="none" type="way" v="2" />
-    <tag id="46971827" k="name" o="none" type="way" v="E Venice Ave" />
-    <tag id="46971827" k="name_1" o="none" type="way" v="Venice Farm Rd" />
-    <tag id="46971827" k="old_ref:1945" o="none" type="way" v="770" />
-    <tag id="46971827" k="tiger:cfcc" o="none" type="way" v="A45" />
-    <tag id="46971827" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="46971827" k="tiger:name_base" o="none" type="way" v="Venice" />
-    <tag id="46971827" k="tiger:name_base_1" o="none" type="way" v="Venice Farm" />
-    <tag id="46971827" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
-    <tag id="46971827" k="tiger:name_type" o="none" type="way" v="Ave" />
-    <tag id="46971827" k="tiger:name_type_1" o="none" type="way" v="Rd" />
-    <tag id="46971827" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="46971827" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="46971827" k="tiger:tlid" o="none" type="way" v="16430296:16430319:16430320:16457463:16455918:16456051:16456050:16455901:16430224:16430225:16457720:16456783:16456784:16432981:16456794:16430288" />
-    <tag id="46971827" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="46971827" k="tiger:zip_left" o="none" type="way" v="34292" />
-    <tag id="11326061" k="highway" o="none" type="way" v="residential" />
+    <tag id="11320920" k="name" o="add" type="way" v="Carl Martin Avenue" />
+    <tag id="11320920" k="highway" o="none" type="way" v="residential" />
+    <tag id="11320920" k="surface" o="add" type="way" v="paved" />
+    <tag id="11320920" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11320920" k="tiger:tlid" o="none" type="way" v="16376778" />
+    <tag id="11320920" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11320920" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11320920" k="tiger:reviewed" o="modify" type="way" v="yes" />
+    <tag id="11320920" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11320920" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11321950" k="HFCS" o="none" type="way" v="Rural Principal Arterial - Other" />
+    <tag id="11321950" k="name" o="none" type="way" v="W River Rd" />
+    <tag id="11321950" k="lanes" o="none" type="way" v="2" />
+    <tag id="11321950" k="highway" o="none" type="way" v="secondary" />
+    <tag id="11321950" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11321950" k="tiger:tlid" o="none" type="way" v="16336971:16423322:16423323:16337549" />
+    <tag id="11321950" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11321950" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11321950" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11321950" k="tiger:name_base" o="none" type="way" v="River" />
+    <tag id="11321950" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11321950" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11321950" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11321950" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
     <tag id="11326061" k="name" o="modify" type="way" v="South Jackson Road" />
+    <tag id="11326061" k="highway" o="none" type="way" v="residential" />
     <tag id="11326061" k="surface" o="add" type="way" v="paved" />
     <tag id="11326061" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11326061" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11326061" k="tiger:name_base" o="none" type="way" v="Jackson" />
-    <tag id="11326061" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
-    <tag id="11326061" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="11326061" k="tiger:reviewed" o="modify" type="way" v="yes" />
-    <tag id="11326061" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11326061" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
     <tag id="11326061" k="tiger:tlid" o="none" type="way" v="16403713:16403714" />
-    <tag id="11326061" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11326061" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11326061" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11326061" k="tiger:reviewed" o="modify" type="way" v="yes" />
     <tag id="11326061" k="tiger:zip_left" o="none" type="way" v="34292" />
+    <tag id="11326061" k="tiger:name_base" o="none" type="way" v="Jackson" />
+    <tag id="11326061" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11326061" k="tiger:separated" o="none" type="way" v="no" />
     <tag id="11326061" k="tiger:zip_right" o="none" type="way" v="34292" />
-    <tag id="11321950" k="HFCS" o="none" type="way" v="Rural Principal Arterial - Other" />
-    <tag id="11321950" k="highway" o="none" type="way" v="secondary" />
-    <tag id="11321950" k="lanes" o="none" type="way" v="2" />
-    <tag id="11321950" k="name" o="none" type="way" v="W River Rd" />
-    <tag id="11321950" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11321950" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11321950" k="tiger:name_base" o="none" type="way" v="River" />
-    <tag id="11321950" k="tiger:name_direction_prefix" o="none" type="way" v="W" />
-    <tag id="11321950" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="11321950" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="11321950" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11321950" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11321950" k="tiger:tlid" o="none" type="way" v="16336971:16423322:16423323:16337549" />
-    <tag id="11321950" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
-    <tag id="134914795" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="11326061" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11326061" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="11326063" k="name" o="modify" type="way" v="South Jackson Road" />
+    <tag id="11326063" k="highway" o="none" type="way" v="residential" />
+    <tag id="11326063" k="surface" o="add" type="way" v="paved" />
+    <tag id="11326063" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11326063" k="tiger:tlid" o="none" type="way" v="16374528" />
+    <tag id="11326063" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11326063" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11326063" k="tiger:reviewed" o="modify" type="way" v="yes" />
+    <tag id="11326063" k="tiger:name_base" o="none" type="way" v="Jackson" />
+    <tag id="11326063" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11326063" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11326063" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11326063" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="11330706" k="name" o="none" type="way" v="Pezzana Dr" />
+    <tag id="11330706" k="highway" o="none" type="way" v="residential" />
+    <tag id="11330706" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11330706" k="tiger:tlid" o="none" type="way" v="16457790" />
+    <tag id="11330706" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11330706" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11330706" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11330706" k="tiger:name_base" o="none" type="way" v="Pezzana" />
+    <tag id="11330706" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="11330706" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11330706" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11345938" k="name" o="none" type="way" v="Morgan Rd" />
+    <tag id="11345938" k="highway" o="none" type="way" v="residential" />
+    <tag id="11345938" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11345938" k="tiger:tlid" o="none" type="way" v="16338138:16338140" />
+    <tag id="11345938" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11345938" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11345938" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11345938" k="tiger:name_base" o="none" type="way" v="Morgan" />
+    <tag id="11345938" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11345938" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11345938" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11354293" k="name" o="none" type="way" v="Keystone Rd" />
+    <tag id="11354293" k="highway" o="none" type="way" v="residential" />
+    <tag id="11354293" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11354293" k="tiger:tlid" o="none" type="way" v="16420068:16338119:16336955" />
+    <tag id="11354293" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11354293" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11354293" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11354293" k="tiger:zip_left" o="none" type="way" v="34292" />
+    <tag id="11354293" k="tiger:name_base" o="none" type="way" v="Keystone" />
+    <tag id="11354293" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11354293" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11354293" k="tiger:zip_right" o="none" type="way" v="34292" />
+    <tag id="11354293" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="11354783" k="name" o="none" type="way" v="Lee Rd" />
+    <tag id="11354783" k="highway" o="none" type="way" v="residential" />
+    <tag id="11354783" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="11354783" k="tiger:tlid" o="none" type="way" v="16374291:16338122:16336950:16336956" />
+    <tag id="11354783" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="11354783" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="11354783" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="11354783" k="tiger:name_base" o="none" type="way" v="Lee" />
+    <tag id="11354783" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="11354783" k="tiger:separated" o="none" type="way" v="no" />
+    <tag id="11354783" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="46971827" k="HFCS" o="none" type="way" v="Urban Collector" />
+    <tag id="46971827" k="name" o="none" type="way" v="E Venice Ave" />
+    <tag id="46971827" k="lanes" o="none" type="way" v="2" />
+    <tag id="46971827" k="name_1" o="none" type="way" v="Venice Farm Rd" />
+    <tag id="46971827" k="highway" o="none" type="way" v="secondary" />
+    <tag id="46971827" k="tiger:cfcc" o="none" type="way" v="A45" />
+    <tag id="46971827" k="tiger:tlid" o="none" type="way" v="16430296:16430319:16430320:16457463:16455918:16456051:16456050:16455901:16430224:16430225:16457720:16456783:16456784:16432981:16456794:16430288" />
+    <tag id="46971827" k="old_ref:1945" o="none" type="way" v="770" />
+    <tag id="46971827" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
+    <tag id="46971827" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
+    <tag id="46971827" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="46971827" k="tiger:zip_left" o="none" type="way" v="34292" />
+    <tag id="46971827" k="tiger:name_base" o="none" type="way" v="Venice" />
+    <tag id="46971827" k="tiger:name_type" o="none" type="way" v="Ave" />
+    <tag id="46971827" k="tiger:name_base_1" o="none" type="way" v="Venice Farm" />
+    <tag id="46971827" k="tiger:name_type_1" o="none" type="way" v="Rd" />
+    <tag id="46971827" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="46971827" k="tiger:name_direction_prefix" o="none" type="way" v="E" />
+    <tag id="46972083" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
+    <tag id="46972083" k="name" o="none" type="way" v="Center Rd" />
+    <tag id="46972083" k="lanes" o="none" type="way" v="2" />
+    <tag id="46972083" k="oneway" o="none" type="way" v="yes" />
+    <tag id="46972083" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="46972083" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="48035577" k="name" o="modify" type="way" v="Jackson Road" />
+    <tag id="48035577" k="oneway" o="none" type="way" v="yes" />
+    <tag id="48035577" k="highway" o="none" type="way" v="residential" />
+    <tag id="48035664" k="name" o="modify" type="way" v="Jackson Road" />
+    <tag id="48035664" k="oneway" o="none" type="way" v="yes" />
+    <tag id="48035664" k="highway" o="none" type="way" v="residential" />
     <tag id="134914795" k="HFCS" o="none" type="way" v="Urban Minor Arterial" />
-    <tag id="134914795" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="134914795" k="lanes" o="none" type="way" v="2" />
     <tag id="134914795" k="name" o="none" type="way" v="Center Rd" />
+    <tag id="134914795" k="lanes" o="none" type="way" v="2" />
     <tag id="134914795" k="oneway" o="none" type="way" v="yes" />
-    <tag id="11318897" k="highway" o="none" type="way" v="residential" />
-    <tag id="11318897" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="11318897" k="tiger:county" o="none" type="way" v="Sarasota, FL" />
-    <tag id="11318897" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="11318897" k="tiger:separated" o="none" type="way" v="no" />
-    <tag id="11318897" k="tiger:source" o="none" type="way" v="tiger_import_dch_v0.6_20070809" />
-    <tag id="11318897" k="tiger:tlid" o="none" type="way" v="16337010" />
-    <tag id="11318897" k="tiger:upload_uuid" o="none" type="way" v="bulk_upload.pl-5cfbd143-b196-4089-9bf3-97f610d38fc3" />
+    <tag id="134914795" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="134914795" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="142486990" k="source" o="add" type="way" v="bing" />
+    <tag id="142486990" k="highway" o="add" type="way" v="residential" />
+    <tag id="142486990" k="surface" o="add" type="way" v="paved" />
+    <tag id="142486991" k="highway" o="add" type="way" v="service" />
+    <tag id="142486991" k="surface" o="add" type="way" v="paved" />
+    <tag id="142486992" k="name" o="add" type="way" v="Jackson Road" />
+    <tag id="142486992" k="source" o="add" type="way" v="bing" />
+    <tag id="142486992" k="highway" o="add" type="way" v="residential" />
+    <tag id="142486992" k="surface" o="add" type="way" v="paved" />
+    <tag id="142486993" k="source" o="add" type="way" v="bing" />
+    <tag id="142486993" k="highway" o="add" type="way" v="residential" />
+    <tag id="142486993" k="surface" o="add" type="way" v="paved" />
+    <tag id="142486994" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142486994" k="source" o="add" type="way" v="bing" />
+    <tag id="142486994" k="highway" o="add" type="way" v="residential" />
+    <tag id="142486994" k="surface" o="add" type="way" v="paved" />
+    <tag id="142486995" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142486995" k="source" o="add" type="way" v="bing" />
+    <tag id="142486995" k="highway" o="add" type="way" v="residential" />
+    <tag id="142486995" k="surface" o="add" type="way" v="paved" />
+    <tag id="142486996" k="source" o="add" type="way" v="bing" />
+    <tag id="142486996" k="highway" o="add" type="way" v="residential" />
+    <tag id="142486996" k="surface" o="add" type="way" v="paved" />
+    <tag id="142487342" k="name" o="add" type="way" v="South Jackson Road" />
+    <tag id="142487342" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142487342" k="source" o="add" type="way" v="bing" />
+    <tag id="142487342" k="highway" o="add" type="way" v="residential" />
+    <tag id="142487342" k="surface" o="add" type="way" v="paved" />
+    <tag id="142487343" k="name" o="add" type="way" v="South Jackson Road" />
+    <tag id="142487343" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142487343" k="source" o="add" type="way" v="bing" />
+    <tag id="142487343" k="highway" o="add" type="way" v="residential" />
+    <tag id="142487343" k="surface" o="add" type="way" v="paved" />
+    <tag id="142487344" k="highway" o="add" type="way" v="service" />
+    <tag id="142487344" k="surface" o="add" type="way" v="paved" />
+    <tag id="142487756" k="source" o="add" type="way" v="bing" />
+    <tag id="142487756" k="highway" o="add" type="way" v="service" />
+    <tag id="142487756" k="surface" o="add" type="way" v="paved" />
+    <tag id="142487757" k="source" o="add" type="way" v="bing" />
+    <tag id="142487757" k="highway" o="add" type="way" v="service" />
+    <tag id="142487757" k="surface" o="add" type="way" v="paved" />
+    <tag id="142487758" k="source" o="add" type="way" v="bing" />
+    <tag id="142487758" k="highway" o="add" type="way" v="service" />
+    <tag id="142487758" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488947" k="source" o="add" type="way" v="bing" />
+    <tag id="142488947" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488947" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488948" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142488948" k="source" o="add" type="way" v="bing" />
+    <tag id="142488948" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488948" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488949" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142488949" k="source" o="add" type="way" v="bing" />
+    <tag id="142488949" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488949" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488950" k="source" o="add" type="way" v="bing" />
+    <tag id="142488950" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488950" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488950" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142488951" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142488951" k="source" o="add" type="way" v="bing" />
+    <tag id="142488951" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488951" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488952" k="source" o="add" type="way" v="bing" />
+    <tag id="142488952" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488952" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488953" k="source" o="add" type="way" v="bing" />
+    <tag id="142488953" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488953" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488954" k="source" o="add" type="way" v="bing" />
+    <tag id="142488954" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488954" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488955" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142488955" k="source" o="add" type="way" v="bing" />
+    <tag id="142488955" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488955" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488981" k="source" o="add" type="way" v="bing" />
+    <tag id="142488981" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488981" k="surface" o="add" type="way" v="paved" />
+    <tag id="142488981" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142488983" k="source" o="add" type="way" v="bing" />
+    <tag id="142488983" k="highway" o="add" type="way" v="residential" />
+    <tag id="142488983" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489742" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142489742" k="source" o="add" type="way" v="bing" />
+    <tag id="142489742" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489742" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489743" k="source" o="add" type="way" v="bing" />
+    <tag id="142489743" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489743" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489743" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142489744" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142489744" k="source" o="add" type="way" v="bing" />
+    <tag id="142489744" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489744" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489745" k="source" o="add" type="way" v="bing" />
+    <tag id="142489745" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489745" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489746" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142489746" k="source" o="add" type="way" v="bing" />
+    <tag id="142489746" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489746" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489747" k="source" o="add" type="way" v="bing" />
+    <tag id="142489747" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489747" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489748" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142489748" k="source" o="add" type="way" v="bing" />
+    <tag id="142489748" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489748" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489749" k="source" o="add" type="way" v="bing" />
+    <tag id="142489749" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489749" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489750" k="source" o="add" type="way" v="bing" />
+    <tag id="142489750" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489750" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489949" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142489949" k="source" o="add" type="way" v="bing" />
+    <tag id="142489949" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489949" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489950" k="source" o="add" type="way" v="bing" />
+    <tag id="142489950" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489950" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489951" k="source" o="add" type="way" v="bing" />
+    <tag id="142489951" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489951" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489952" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142489952" k="source" o="add" type="way" v="bing" />
+    <tag id="142489952" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489952" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489953" k="source" o="add" type="way" v="bing" />
+    <tag id="142489953" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489953" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489954" k="source" o="add" type="way" v="bing" />
+    <tag id="142489954" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489954" k="surface" o="add" type="way" v="paved" />
+    <tag id="142489955" k="source" o="add" type="way" v="bing" />
+    <tag id="142489955" k="highway" o="add" type="way" v="residential" />
+    <tag id="142489955" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490097" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142490097" k="source" o="add" type="way" v="bing" />
+    <tag id="142490097" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490097" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490098" k="source" o="add" type="way" v="bing" />
+    <tag id="142490098" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490098" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490100" k="oneway" o="add" type="way" v="yes" />
+    <tag id="142490100" k="source" o="add" type="way" v="bing" />
+    <tag id="142490100" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490100" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490314" k="source" o="add" type="way" v="bing" />
+    <tag id="142490314" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490314" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490314" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142490315" k="source" o="add" type="way" v="bing" />
+    <tag id="142490315" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490315" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490316" k="source" o="add" type="way" v="bing" />
+    <tag id="142490316" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490316" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490316" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142490317" k="source" o="add" type="way" v="bing" />
+    <tag id="142490317" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490317" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490318" k="source" o="add" type="way" v="bing" />
+    <tag id="142490318" k="highway" o="add" type="way" v="residential" />
+    <tag id="142490318" k="surface" o="add" type="way" v="paved" />
+    <tag id="142490318" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142491113" k="source" o="add" type="way" v="bing" />
+    <tag id="142491113" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491113" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491113" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142491114" k="source" o="add" type="way" v="bing" />
+    <tag id="142491114" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491114" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491116" k="source" o="add" type="way" v="bing" />
+    <tag id="142491116" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491116" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491116" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142491118" k="source" o="add" type="way" v="bing" />
+    <tag id="142491118" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491118" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491120" k="source" o="add" type="way" v="bing" />
+    <tag id="142491120" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491120" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491121" k="source" o="add" type="way" v="bing" />
+    <tag id="142491121" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491121" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491123" k="source" o="add" type="way" v="bing" />
+    <tag id="142491123" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491123" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491125" k="source" o="add" type="way" v="bing" />
+    <tag id="142491125" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491125" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491127" k="source" o="add" type="way" v="bing" />
+    <tag id="142491127" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491127" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491128" k="source" o="add" type="way" v="bing" />
+    <tag id="142491128" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491128" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491128" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142491131" k="source" o="add" type="way" v="bing" />
+    <tag id="142491131" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491131" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491133" k="source" o="add" type="way" v="bing" />
+    <tag id="142491133" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491133" k="surface" o="add" type="way" v="paved" />
+    <tag id="142491133" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="142491135" k="source" o="add" type="way" v="bing" />
+    <tag id="142491135" k="highway" o="add" type="way" v="residential" />
+    <tag id="142491135" k="surface" o="add" type="way" v="paved" />
+    <tag id="142492091" k="source" o="add" type="way" v="bing" />
+    <tag id="142492091" k="highway" o="add" type="way" v="residential" />
+    <tag id="142492091" k="surface" o="add" type="way" v="paved" />
+    <tag id="142492092" k="source" o="add" type="way" v="bing" />
+    <tag id="142492092" k="highway" o="add" type="way" v="residential" />
+    <tag id="142492092" k="surface" o="add" type="way" v="paved" />
+    <tag id="142492093" k="source" o="add" type="way" v="bing" />
+    <tag id="142492093" k="highway" o="add" type="way" v="residential" />
+    <tag id="142492093" k="surface" o="add" type="way" v="paved" />
+    <tag id="142492094" k="source" o="add" type="way" v="bing" />
+    <tag id="142492094" k="highway" o="add" type="way" v="residential" />
+    <tag id="142492094" k="surface" o="add" type="way" v="paved" />
   </body>
 </changeset>

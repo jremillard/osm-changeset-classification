@@ -1,1 +1,21 @@
-<changeset id="55670102" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="1" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="remove historic boundaries for Kgr. W&#252;rttemberg (and Baden) continues partial edit. Breaks Baden relation" /><tag k="created_by" v="JOSM/1.5 (13353 en)" /><tag k="source" v="knowledge;discussion on talk-de: https://lists.openstreetmap.org/pipermail/talk-de/2018-January/114602.html" /></meta><body /></changeset>
+<changeset id="55670102" schema="2">
+  <counts nodesAdded="0" nodesDeleted="33" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="0" waysDeleted="2" waysModified="2" />
+  <meta>
+    <tag k="comment" v="remove historic boundaries for Kgr. W&#252;rttemberg (and Baden) continues partial edit. Breaks Baden relation" />
+    <tag k="created_by" v="JOSM/1.5 (13353 en)" />
+    <tag k="source" v="knowledge;discussion on talk-de: https://lists.openstreetmap.org/pipermail/talk-de/2018-January/114602.html" />
+  </meta>
+  <body>
+    <tag id="6153362" k="name" o="none" type="relation" v="Baden" />
+    <tag id="6153362" k="type" o="none" type="relation" v="boundary" />
+    <tag id="6153362" k="source" o="none" type="relation" v="http://www.unsere-ahnen.de/digi_buecher/Uebersichtskarte_Messtischblaetter.htm" />
+    <tag id="6153362" k="name:fr" o="none" type="relation" v="Bade" />
+    <tag id="6153362" k="boundary" o="none" type="relation" v="historic" />
+    <tag id="6153362" k="end_date" o="none" type="relation" v="1945" />
+    <tag id="6153362" k="start_date" o="none" type="relation" v="1806" />
+    <tag id="6153362" k="official_name" o="none" type="relation" v="Gro&#223;herzogtum Baden" />
+    <tag id="6153362" k="official_name:en" o="none" type="relation" v="Grand Duchy of Baden" />
+    <tag id="6153362" k="official_name:fr" o="none" type="relation" v="Grand-duch&#233; de Bade" />
+    <tag id="6153362" k="alt_official_name" o="none" type="relation" v="Republik Baden" />
+  </body>
+</changeset>

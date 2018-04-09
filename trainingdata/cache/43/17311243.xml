@@ -1,5 +1,5 @@
 <changeset id="17311243" schema="2">
-  <counts nodesAdded="23" nodesDeleted="17" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="2" />
+  <counts nodesAdded="23" nodesDeleted="17" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="3" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Krop&#225;&#269;ova Vrutice (relation 426884)." />
@@ -8,26 +8,26 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="233193850" k="admin_level" o="add" type="way" v="10" />
-    <tag id="233193850" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="233193850" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="179391019" k="admin_level" o="none" type="way" v="10" />
-    <tag id="179391019" k="boundary" o="none" type="way" v="administrative" />
     <tag id="179391019" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="179407669" k="admin_level" o="none" type="way" v="10" />
-    <tag id="179407669" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179391019" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179391019" k="admin_level" o="none" type="way" v="10" />
     <tag id="179407669" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="427432" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="427432" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="427432" k="name" o="none" type="relation" v="St&#345;&#237;&#382;ovice" />
-    <tag id="427432" k="ref" o="none" type="relation" v="758086" />
-    <tag id="427432" k="source" o="none" type="relation" v="cuzk:km" />
-    <tag id="427432" k="type" o="none" type="relation" v="boundary" />
-    <tag id="426884" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="426884" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="426884" k="name" o="none" type="relation" v="Krop&#225;&#269;ova Vrutice" />
+    <tag id="179407669" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179407669" k="admin_level" o="none" type="way" v="10" />
+    <tag id="233193850" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="233193850" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="233193850" k="admin_level" o="add" type="way" v="10" />
     <tag id="426884" k="ref" o="none" type="relation" v="675041" />
-    <tag id="426884" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="426884" k="name" o="none" type="relation" v="Krop&#225;&#269;ova Vrutice" />
     <tag id="426884" k="type" o="none" type="relation" v="boundary" />
+    <tag id="426884" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="426884" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="426884" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="427432" k="ref" o="none" type="relation" v="758086" />
+    <tag id="427432" k="name" o="none" type="relation" v="St&#345;&#237;&#382;ovice" />
+    <tag id="427432" k="type" o="none" type="relation" v="boundary" />
+    <tag id="427432" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="427432" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="427432" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

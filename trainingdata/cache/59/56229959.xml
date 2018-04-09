@@ -1,1 +1,18 @@
-<changeset id="56229959" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="StreetComplete:quest_type" v="AddMaxSpeed" /><tag k="comment" v="Add speed limits" /><tag k="created_by" v="StreetComplete 3.6" /><tag k="source" v="survey" /></meta><body><tag id="29425486" k="maxspeed" o="add" type="way" v="50" /><tag id="29425486" k="maxspeed:type" o="add" type="way" v="sign" /></body></changeset>
+<changeset id="56229959" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddMaxSpeed" />
+    <tag k="comment" v="Add speed limits" />
+    <tag k="created_by" v="StreetComplete 3.6" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="29425486" k="name" o="none" type="way" v="Umfahrungsstra&#223;e" />
+    <tag id="29425486" k="layer" o="none" type="way" v="1" />
+    <tag id="29425486" k="width" o="none" type="way" v="7" />
+    <tag id="29425486" k="bridge" o="none" type="way" v="yes" />
+    <tag id="29425486" k="highway" o="none" type="way" v="residential" />
+    <tag id="29425486" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="29425486" k="maxspeed:type" o="add" type="way" v="sign" />
+  </body>
+</changeset>

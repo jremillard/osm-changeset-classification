@@ -1,1 +1,40 @@
-<changeset id="56293559" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="1" relationsModified="2" waysAdded="1" waysModified="1" /><meta><tag k="changesets_count" v="74" /><tag k="comment" v="interdiction de tournee &#224; gauche via bd faidherbe" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="fr" /></meta><body><tag id="560719156" k="highway" o="add" type="way" v="secondary" /><tag id="560719156" k="maxspeed" o="add" type="way" v="50" /><tag id="560719156" k="maxspeed:type" o="add" type="way" v="sign" /><tag id="560719156" k="name" o="add" type="way" v="Boulevard du G&#233;n&#233;ral Faidherbe" /><tag id="560719156" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2009" /><tag id="560719156" k="surface" o="add" type="way" v="asphalt" /><tag id="8015071" k="restriction" o="add" type="relation" v="no_u_turn" /><tag id="8015071" k="type" o="add" type="relation" v="restriction" /></body></changeset>
+<changeset id="56293559" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="74" />
+    <tag k="comment" v="interdiction de tournee &#224; gauche via bd faidherbe" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="fr" />
+  </meta>
+  <body>
+    <tag id="467812519" k="name" o="none" type="way" v="Boulevard du G&#233;n&#233;ral Faidherbe" />
+    <tag id="467812519" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2009" />
+    <tag id="467812519" k="highway" o="none" type="way" v="secondary" />
+    <tag id="467812519" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="467812519" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="467812519" k="maxspeed:type" o="none" type="way" v="sign" />
+    <tag id="560719156" k="name" o="add" type="way" v="Boulevard du G&#233;n&#233;ral Faidherbe" />
+    <tag id="560719156" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre ; mise &#224; jour : 2009" />
+    <tag id="560719156" k="highway" o="add" type="way" v="secondary" />
+    <tag id="560719156" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="560719156" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="560719156" k="maxspeed:type" o="add" type="way" v="sign" />
+    <tag id="1830578" k="to" o="none" type="relation" v="Le Plessis" />
+    <tag id="1830578" k="ref" o="none" type="relation" v="A" />
+    <tag id="1830578" k="from" o="none" type="relation" v="Eurespace" />
+    <tag id="1830578" k="name" o="none" type="relation" v="Ligne A : Eurespace &#8594; Le Plessis" />
+    <tag id="1830578" k="type" o="none" type="relation" v="route" />
+    <tag id="1830578" k="route" o="none" type="relation" v="bus" />
+    <tag id="1830578" k="colour" o="none" type="relation" v="#4C1B1B" />
+    <tag id="1830578" k="network" o="none" type="relation" v="Choletbus" />
+    <tag id="1830578" k="operator" o="none" type="relation" v="TPC" />
+    <tag id="1830578" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="4549219" k="name" o="none" type="relation" v="Boulevard du G&#233;n&#233;ral Faidherbe" />
+    <tag id="4549219" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="4549219" k="ref:FR:FANTOIR" o="none" type="relation" v="490991680L" />
+    <tag id="8015071" k="type" o="add" type="relation" v="restriction" />
+    <tag id="8015071" k="restriction" o="add" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

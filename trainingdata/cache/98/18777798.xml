@@ -1,5 +1,5 @@
 <changeset id="18777798" schema="2">
-  <counts nodesAdded="102" nodesDeleted="116" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="2" />
+  <counts nodesAdded="102" nodesDeleted="116" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="3" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Vini&#269;n&#233; &#352;umice (relation 442034)." />
@@ -8,62 +8,62 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="245154966" k="admin_level" o="add" type="way" v="8" />
-    <tag id="245154966" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="245154966" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="179090012" k="admin_level" o="none" type="way" v="7" />
-    <tag id="179090012" k="boundary" o="none" type="way" v="administrative" />
     <tag id="179090012" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="179090015" k="admin_level" o="none" type="way" v="7" />
-    <tag id="179090015" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179090012" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179090012" k="admin_level" o="none" type="way" v="7" />
     <tag id="179090015" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="426811" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="426811" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="426811" k="name" o="none" type="relation" v="Kovalovice" />
-    <tag id="426811" k="ref" o="none" type="relation" v="671282" />
-    <tag id="426811" k="source" o="none" type="relation" v="cuzk:km" />
-    <tag id="426811" k="type" o="none" type="relation" v="boundary" />
-    <tag id="442034" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="442034" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="442034" k="is_in:country" o="none" type="relation" v="&#268;esko" />
-    <tag id="442034" k="is_in:lau" o="none" type="relation" v="CZ0643" />
-    <tag id="442034" k="is_in:lau:1" o="none" type="relation" v="CZ0643" />
-    <tag id="442034" k="is_in:nuts" o="none" type="relation" v="CZ064" />
-    <tag id="442034" k="is_in:nuts:3" o="none" type="relation" v="CZ064" />
-    <tag id="442034" k="name" o="none" type="relation" v="Vini&#269;n&#233; &#352;umice" />
-    <tag id="442034" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="442034" k="population" o="none" type="relation" v="1257" />
-    <tag id="442034" k="ref" o="none" type="relation" v="CZ0643584126" />
-    <tag id="442034" k="ref:lau" o="none" type="relation" v="584126" />
-    <tag id="442034" k="ref:lau:2" o="none" type="relation" v="584126" />
-    <tag id="442034" k="ref:nuts:5" o="none" type="relation" v="CZ0643 584126" />
-    <tag id="442034" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="442034" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="442034" k="type" o="none" type="relation" v="boundary" />
-    <tag id="442034" k="wikipedia" o="none" type="relation" v="cs:Vini&#269;n&#233; &#352;umice" />
-    <tag id="423623" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="423623" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="423623" k="name" o="none" type="relation" v="Vini&#269;n&#233; &#352;umice" />
+    <tag id="179090015" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179090015" k="admin_level" o="none" type="way" v="7" />
+    <tag id="245154966" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="245154966" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="245154966" k="admin_level" o="add" type="way" v="8" />
     <tag id="423623" k="ref" o="none" type="relation" v="782360" />
-    <tag id="423623" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="423623" k="name" o="none" type="relation" v="Vini&#269;n&#233; &#352;umice" />
     <tag id="423623" k="type" o="none" type="relation" v="boundary" />
-    <tag id="442054" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="442054" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="442054" k="is_in:country" o="none" type="relation" v="&#268;esko" />
-    <tag id="442054" k="is_in:lau" o="none" type="relation" v="CZ0643" />
-    <tag id="442054" k="is_in:lau:1" o="none" type="relation" v="CZ0643" />
-    <tag id="442054" k="is_in:nuts" o="none" type="relation" v="CZ064" />
-    <tag id="442054" k="is_in:nuts:3" o="none" type="relation" v="CZ064" />
-    <tag id="442054" k="name" o="none" type="relation" v="Kovalovice" />
-    <tag id="442054" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="442054" k="population" o="none" type="relation" v="612" />
+    <tag id="423623" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="423623" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="423623" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="426811" k="ref" o="none" type="relation" v="671282" />
+    <tag id="426811" k="name" o="none" type="relation" v="Kovalovice" />
+    <tag id="426811" k="type" o="none" type="relation" v="boundary" />
+    <tag id="426811" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="426811" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="426811" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="442034" k="ref" o="none" type="relation" v="CZ0643584126" />
+    <tag id="442034" k="name" o="none" type="relation" v="Vini&#269;n&#233; &#352;umice" />
+    <tag id="442034" k="type" o="none" type="relation" v="boundary" />
+    <tag id="442034" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="442034" k="ref:lau" o="none" type="relation" v="584126" />
+    <tag id="442034" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="442034" k="is_in:lau" o="none" type="relation" v="CZ0643" />
+    <tag id="442034" k="ref:lau:2" o="none" type="relation" v="584126" />
+    <tag id="442034" k="wikipedia" o="none" type="relation" v="cs:Vini&#269;n&#233; &#352;umice" />
+    <tag id="442034" k="is_in:nuts" o="none" type="relation" v="CZ064" />
+    <tag id="442034" k="population" o="none" type="relation" v="1257" />
+    <tag id="442034" k="ref:nuts:5" o="none" type="relation" v="CZ0643 584126" />
+    <tag id="442034" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="442034" k="is_in:lau:1" o="none" type="relation" v="CZ0643" />
+    <tag id="442034" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="442034" k="is_in:nuts:3" o="none" type="relation" v="CZ064" />
+    <tag id="442034" k="is_in:country" o="none" type="relation" v="&#268;esko" />
+    <tag id="442034" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
     <tag id="442054" k="ref" o="none" type="relation" v="CZ0643583227" />
-    <tag id="442054" k="ref:lau" o="none" type="relation" v="583227" />
-    <tag id="442054" k="ref:lau:2" o="none" type="relation" v="583227" />
-    <tag id="442054" k="ref:nuts:5" o="none" type="relation" v="CZ0643 583227" />
-    <tag id="442054" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="442054" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="442054" k="name" o="none" type="relation" v="Kovalovice" />
     <tag id="442054" k="type" o="none" type="relation" v="boundary" />
+    <tag id="442054" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="442054" k="ref:lau" o="none" type="relation" v="583227" />
+    <tag id="442054" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="442054" k="is_in:lau" o="none" type="relation" v="CZ0643" />
+    <tag id="442054" k="ref:lau:2" o="none" type="relation" v="583227" />
     <tag id="442054" k="wikipedia" o="none" type="relation" v="cs:Kovalovice" />
+    <tag id="442054" k="is_in:nuts" o="none" type="relation" v="CZ064" />
+    <tag id="442054" k="population" o="none" type="relation" v="612" />
+    <tag id="442054" k="ref:nuts:5" o="none" type="relation" v="CZ0643 583227" />
+    <tag id="442054" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="442054" k="is_in:lau:1" o="none" type="relation" v="CZ0643" />
+    <tag id="442054" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="442054" k="is_in:nuts:3" o="none" type="relation" v="CZ064" />
+    <tag id="442054" k="is_in:country" o="none" type="relation" v="&#268;esko" />
+    <tag id="442054" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

@@ -1,5 +1,5 @@
 <changeset id="14114787" schema="2">
-  <counts nodesAdded="1172" nodesDeleted="81" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="135" waysDeleted="22" waysModified="18" />
+  <counts nodesAdded="1172" nodesDeleted="81" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="135" waysDeleted="22" waysModified="40" />
   <meta>
     <tag k="build" v="2.3-538-gb4f7198" />
     <tag k="comment" v="2354554545" />
@@ -7,7 +7,47 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="2041937391" k="barrier" o="add" type="node" v="lift_gate" />
     <tag id="2044465016" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="114922223" k="highway" o="none" type="way" v="secondary" />
+    <tag id="141211924" k="highway" o="none" type="way" v="secondary" />
+    <tag id="143836593" k="ref" o="none" type="way" v="E40" />
+    <tag id="143836593" k="name" o="none" type="way" v="Tashkent-Samarqand - Termez" />
+    <tag id="143836593" k="type" o="none" type="way" v="route" />
+    <tag id="143836593" k="lanes" o="none" type="way" v="2" />
+    <tag id="143836593" k="route" o="none" type="way" v="road" />
+    <tag id="143836593" k="oneway" o="none" type="way" v="yes" />
+    <tag id="143836593" k="source" o="none" type="way" v="GPS track" />
+    <tag id="143836593" k="highway" o="none" type="way" v="trunk" />
+    <tag id="143836593" k="int_ref" o="none" type="way" v="E 40" />
+    <tag id="143836593" k="nat_ref" o="none" type="way" v="M39" />
+    <tag id="143836593" k="network" o="none" type="way" v="e-road" />
+    <tag id="143836593" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="143836593" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="167370756" k="ref" o="none" type="way" v="A376" />
+    <tag id="167370756" k="name" o="none" type="way" v="Jizzax-Guliston road" />
+    <tag id="167370756" k="oneway" o="add" type="way" v="yes" />
+    <tag id="167370756" k="highway" o="none" type="way" v="primary" />
+    <tag id="173467725" k="highway" o="none" type="way" v="residential" />
+    <tag id="173467725" k="waterway" o="none" type="way" v="river" />
+    <tag id="173467739" k="highway" o="none" type="way" v="residential" />
+    <tag id="173467763" k="highway" o="none" type="way" v="residential" />
+    <tag id="173467765" k="highway" o="none" type="way" v="residential" />
+    <tag id="173467770" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="173467974" k="oneway" o="modify" type="way" v="no" />
+    <tag id="173467974" k="highway" o="none" type="way" v="residential" />
+    <tag id="173469582" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="173469584" k="highway" o="none" type="way" v="track" />
+    <tag id="173477790" k="name" o="none" type="way" v="&#1044;&#1078;&#1080;&#1079;&#1072;&#1082;&#1089;&#1082;&#1072;&#1103; &#1044;&#1072;&#1084;&#1073;&#1072;" />
+    <tag id="173477790" k="waterway" o="none" type="way" v="dam" />
+    <tag id="175063800" k="oneway" o="modify" type="way" v="no" />
+    <tag id="175063800" k="highway" o="none" type="way" v="residential" />
+    <tag id="175070954" k="ref" o="none" type="way" v="A376" />
+    <tag id="175070954" k="name" o="none" type="way" v="Jizzax-Guliston road" />
+    <tag id="175070954" k="highway" o="none" type="way" v="primary" />
+    <tag id="193674804" k="highway" o="none" type="way" v="residential" />
+    <tag id="193674833" k="highway" o="none" type="way" v="residential" />
+    <tag id="193674844" k="leisure" o="add" type="way" v="pitch" />
     <tag id="193937564" k="natural" o="add" type="way" v="water" />
     <tag id="193937565" k="highway" o="add" type="way" v="track" />
     <tag id="193937566" k="highway" o="add" type="way" v="residential" />
@@ -53,10 +93,10 @@
     <tag id="193937613" k="waterway" o="add" type="way" v="dam" />
     <tag id="193937614" k="highway" o="add" type="way" v="unclassified" />
     <tag id="193937615" k="natural" o="add" type="way" v="water" />
-    <tag id="193937616" k="bridge" o="add" type="way" v="yes" />
-    <tag id="193937616" k="highway" o="add" type="way" v="unclassified" />
     <tag id="193937616" k="lanes" o="add" type="way" v="2" />
     <tag id="193937616" k="layer" o="add" type="way" v="2" />
+    <tag id="193937616" k="bridge" o="add" type="way" v="yes" />
+    <tag id="193937616" k="highway" o="add" type="way" v="unclassified" />
     <tag id="193937617" k="highway" o="add" type="way" v="unclassified" />
     <tag id="193942091" k="highway" o="add" type="way" v="residential" />
     <tag id="193942094" k="highway" o="add" type="way" v="pedestrian" />
@@ -79,164 +119,124 @@
     <tag id="193942132" k="highway" o="add" type="way" v="residential" />
     <tag id="193942134" k="highway" o="add" type="way" v="pedestrian" />
     <tag id="193953762" k="leisure" o="add" type="way" v="park" />
-    <tag id="193953767" k="highway" o="add" type="way" v="service" />
+    <tag id="193953765" k="oneway" o="add" type="way" v="no" />
+    <tag id="193953765" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193953767" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953768" k="highway" o="add" type="way" v="secondary" />
+    <tag id="193953767" k="highway" o="add" type="way" v="service" />
     <tag id="193953768" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953770" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953768" k="highway" o="add" type="way" v="secondary" />
     <tag id="193953770" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953772" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953770" k="highway" o="add" type="way" v="primary" />
     <tag id="193953772" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953781" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953772" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953775" k="name" o="add" type="way" v="Jizzax-Guliston road" />
+    <tag id="193953775" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953775" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953778" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953778" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="193953781" k="ref" o="add" type="way" v="A376" />
     <tag id="193953781" k="name" o="add" type="way" v="Jizzax-Guliston road" />
     <tag id="193953781" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953781" k="ref" o="add" type="way" v="A376" />
+    <tag id="193953781" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953783" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953783" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193953784" k="highway" o="add" type="way" v="residential" />
-    <tag id="193953788" k="highway" o="add" type="way" v="primary" />
-    <tag id="193953788" k="name" o="add" type="way" v="Jizzax-Guliston road" />
-    <tag id="193953788" k="name:ru" o="add" type="way" v="&#1058;&#1072;&#1096;&#1082;&#1077;&#1085;&#1090;&#1089;&#1082;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
     <tag id="193953788" k="ref" o="add" type="way" v="A376" />
+    <tag id="193953788" k="name" o="add" type="way" v="Jizzax-Guliston road" />
+    <tag id="193953788" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953788" k="name:ru" o="add" type="way" v="&#1058;&#1072;&#1096;&#1082;&#1077;&#1085;&#1090;&#1089;&#1082;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
     <tag id="193953793" k="amenity" o="add" type="way" v="bus_station" />
-    <tag id="193953796" k="bridge" o="add" type="way" v="viaduct" />
-    <tag id="193953796" k="highway" o="add" type="way" v="unclassified" />
     <tag id="193953796" k="lanes" o="add" type="way" v="1" />
     <tag id="193953796" k="layer" o="add" type="way" v="2" />
+    <tag id="193953796" k="bridge" o="add" type="way" v="viaduct" />
+    <tag id="193953796" k="highway" o="add" type="way" v="unclassified" />
     <tag id="193953799" k="highway" o="add" type="way" v="residential" />
-    <tag id="193953800" k="highway" o="add" type="way" v="primary" />
     <tag id="193953800" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953800" k="highway" o="add" type="way" v="primary" />
     <tag id="193953803" k="highway" o="add" type="way" v="path" />
-    <tag id="193953810" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953807" k="highway" o="add" type="way" v="construction" />
+    <tag id="193953810" k="ref" o="add" type="way" v="A376" />
     <tag id="193953810" k="name" o="add" type="way" v="Jizzax-Guliston road" />
     <tag id="193953810" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953810" k="ref" o="add" type="way" v="A376" />
-    <tag id="193953812" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953810" k="highway" o="add" type="way" v="primary" />
     <tag id="193953812" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953812" k="highway" o="add" type="way" v="primary" />
     <tag id="193953814" k="highway" o="add" type="way" v="residential" />
-    <tag id="193953816" k="highway" o="add" type="way" v="primary" />
     <tag id="193953816" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953820" k="highway" o="add" type="way" v="service" />
+    <tag id="193953816" k="highway" o="add" type="way" v="primary" />
     <tag id="193953820" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953820" k="highway" o="add" type="way" v="service" />
+    <tag id="193953823" k="layer" o="add" type="way" v="2" />
     <tag id="193953823" k="bridge" o="add" type="way" v="viaduct" />
     <tag id="193953823" k="highway" o="add" type="way" v="unclassified" />
-    <tag id="193953823" k="layer" o="add" type="way" v="2" />
-    <tag id="193953825" k="highway" o="add" type="way" v="service" />
     <tag id="193953825" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953828" k="highway" o="add" type="way" v="service" />
+    <tag id="193953825" k="highway" o="add" type="way" v="service" />
     <tag id="193953828" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953828" k="highway" o="add" type="way" v="service" />
     <tag id="193953831" k="highway" o="add" type="way" v="residential" />
-    <tag id="193953835" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953833" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193953833" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193953835" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953840" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953835" k="highway" o="add" type="way" v="primary" />
+    <tag id="193953838" k="highway" o="add" type="way" v="construction" />
     <tag id="193953840" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193959857" k="highway" o="add" type="way" v="residential" />
+    <tag id="193953840" k="highway" o="add" type="way" v="primary" />
     <tag id="193959857" k="oneway" o="add" type="way" v="yes" />
+    <tag id="193959857" k="highway" o="add" type="way" v="residential" />
     <tag id="193959858" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959859" k="highway" o="add" type="way" v="primary" />
+    <tag id="193959859" k="ref" o="add" type="way" v="A376" />
     <tag id="193959859" k="name" o="add" type="way" v="Jizzax-Guliston road" />
     <tag id="193959859" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193959859" k="ref" o="add" type="way" v="A376" />
+    <tag id="193959859" k="highway" o="add" type="way" v="primary" />
     <tag id="193959860" k="highway" o="add" type="way" v="residential" />
     <tag id="193959861" k="highway" o="add" type="way" v="residential" />
     <tag id="193959862" k="leisure" o="add" type="way" v="park" />
     <tag id="193959863" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959864" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193959864" k="oneway" o="add" type="way" v="no" />
+    <tag id="193959864" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193959865" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959867" k="bridge" o="add" type="way" v="yes" />
-    <tag id="193959867" k="highway" o="add" type="way" v="primary" />
+    <tag id="193959867" k="ref" o="add" type="way" v="A376" />
+    <tag id="193959867" k="name" o="add" type="way" v="Jizzax-Guliston road" />
     <tag id="193959867" k="lanes" o="add" type="way" v="2" />
     <tag id="193959867" k="layer" o="add" type="way" v="2" />
-    <tag id="193959867" k="name" o="add" type="way" v="Jizzax-Guliston road" />
-    <tag id="193959867" k="ref" o="add" type="way" v="A376" />
+    <tag id="193959867" k="bridge" o="add" type="way" v="yes" />
+    <tag id="193959867" k="highway" o="add" type="way" v="primary" />
     <tag id="193959868" k="highway" o="add" type="way" v="residential" />
     <tag id="193959870" k="highway" o="add" type="way" v="residential" />
     <tag id="193959871" k="highway" o="add" type="way" v="residential" />
     <tag id="193959872" k="highway" o="add" type="way" v="residential" />
     <tag id="193959873" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959874" k="highway" o="add" type="way" v="primary" />
+    <tag id="193959874" k="ref" o="add" type="way" v="A376" />
     <tag id="193959874" k="name" o="add" type="way" v="Jizzax-Guliston road" />
     <tag id="193959874" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193959874" k="ref" o="add" type="way" v="A376" />
+    <tag id="193959874" k="highway" o="add" type="way" v="primary" />
     <tag id="193959875" k="highway" o="add" type="way" v="residential" />
     <tag id="193959876" k="highway" o="add" type="way" v="residential" />
     <tag id="193959878" k="highway" o="add" type="way" v="residential" />
     <tag id="193959879" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959880" k="highway" o="add" type="way" v="construction" />
     <tag id="193959880" k="oneway" o="add" type="way" v="no" />
+    <tag id="193959880" k="highway" o="add" type="way" v="construction" />
     <tag id="193959881" k="highway" o="add" type="way" v="residential" />
     <tag id="193959882" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959883" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193959883" k="oneway" o="add" type="way" v="no" />
+    <tag id="193959883" k="highway" o="add" type="way" v="tertiary" />
     <tag id="193959884" k="highway" o="add" type="way" v="residential" />
     <tag id="193959885" k="highway" o="add" type="way" v="residential" />
     <tag id="193959886" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959887" k="highway" o="add" type="way" v="secondary" />
     <tag id="193959887" k="ref" o="add" type="way" v="4P34" />
-    <tag id="193959888" k="highway" o="add" type="way" v="construction" />
+    <tag id="193959887" k="highway" o="add" type="way" v="secondary" />
     <tag id="193959888" k="oneway" o="add" type="way" v="no" />
-    <tag id="193959889" k="highway" o="add" type="way" v="primary" />
-    <tag id="193959889" k="name" o="add" type="way" v="Jizzax-Guliston road" />
+    <tag id="193959888" k="highway" o="add" type="way" v="construction" />
     <tag id="193959889" k="ref" o="add" type="way" v="A376" />
+    <tag id="193959889" k="name" o="add" type="way" v="Jizzax-Guliston road" />
+    <tag id="193959889" k="highway" o="add" type="way" v="primary" />
     <tag id="193959890" k="leisure" o="add" type="way" v="park" />
     <tag id="193959891" k="highway" o="add" type="way" v="residential" />
     <tag id="193959892" k="highway" o="add" type="way" v="residential" />
-    <tag id="193959893" k="highway" o="add" type="way" v="secondary" />
     <tag id="193959893" k="ref" o="add" type="way" v="4P34" />
+    <tag id="193959893" k="highway" o="add" type="way" v="secondary" />
     <tag id="193959894" k="highway" o="add" type="way" v="residential" />
     <tag id="193959895" k="highway" o="add" type="way" v="residential" />
     <tag id="193959896" k="highway" o="add" type="way" v="residential" />
-    <tag id="2041937391" k="barrier" o="add" type="node" v="lift_gate" />
-    <tag id="193953765" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="193953765" k="oneway" o="add" type="way" v="no" />
-    <tag id="193953775" k="highway" o="add" type="way" v="primary" />
-    <tag id="193953775" k="name" o="add" type="way" v="Jizzax-Guliston road" />
-    <tag id="193953775" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953778" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="193953778" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953783" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="193953783" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953807" k="highway" o="add" type="way" v="construction" />
-    <tag id="193953833" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="193953833" k="oneway" o="add" type="way" v="yes" />
-    <tag id="193953838" k="highway" o="add" type="way" v="construction" />
-    <tag id="173467725" k="highway" o="none" type="way" v="residential" />
-    <tag id="173467725" k="waterway" o="none" type="way" v="river" />
-    <tag id="173467739" k="highway" o="none" type="way" v="residential" />
-    <tag id="173467765" k="highway" o="none" type="way" v="residential" />
-    <tag id="173469582" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="173469584" k="highway" o="none" type="way" v="track" />
-    <tag id="173477790" k="name" o="none" type="way" v="&#1044;&#1078;&#1080;&#1079;&#1072;&#1082;&#1089;&#1082;&#1072;&#1103; &#1044;&#1072;&#1084;&#1073;&#1072;" />
-    <tag id="173477790" k="waterway" o="none" type="way" v="dam" />
-    <tag id="173467763" k="highway" o="none" type="way" v="residential" />
-    <tag id="175063800" k="highway" o="none" type="way" v="residential" />
-    <tag id="175063800" k="oneway" o="modify" type="way" v="no" />
-    <tag id="173467974" k="highway" o="none" type="way" v="residential" />
-    <tag id="173467974" k="oneway" o="modify" type="way" v="no" />
-    <tag id="173467770" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="143836593" k="highway" o="none" type="way" v="trunk" />
-    <tag id="143836593" k="int_ref" o="none" type="way" v="E 40" />
-    <tag id="143836593" k="lanes" o="none" type="way" v="2" />
-    <tag id="143836593" k="maxspeed" o="none" type="way" v="100" />
-    <tag id="143836593" k="name" o="none" type="way" v="Tashkent-Samarqand - Termez" />
-    <tag id="143836593" k="nat_ref" o="none" type="way" v="M39" />
-    <tag id="143836593" k="network" o="none" type="way" v="e-road" />
-    <tag id="143836593" k="oneway" o="none" type="way" v="yes" />
-    <tag id="143836593" k="ref" o="none" type="way" v="E40" />
-    <tag id="143836593" k="route" o="none" type="way" v="road" />
-    <tag id="143836593" k="source" o="none" type="way" v="GPS track" />
-    <tag id="143836593" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="143836593" k="type" o="none" type="way" v="route" />
-    <tag id="193674833" k="highway" o="none" type="way" v="residential" />
-    <tag id="193674844" k="leisure" o="add" type="way" v="pitch" />
-    <tag id="167370756" k="highway" o="none" type="way" v="primary" />
-    <tag id="167370756" k="name" o="none" type="way" v="Jizzax-Guliston road" />
-    <tag id="167370756" k="oneway" o="add" type="way" v="yes" />
-    <tag id="167370756" k="ref" o="none" type="way" v="A376" />
-    <tag id="193674804" k="highway" o="none" type="way" v="residential" />
-    <tag id="114922223" k="highway" o="none" type="way" v="secondary" />
-    <tag id="141211924" k="highway" o="none" type="way" v="secondary" />
-    <tag id="175070954" k="highway" o="none" type="way" v="primary" />
-    <tag id="175070954" k="name" o="none" type="way" v="Jizzax-Guliston road" />
-    <tag id="175070954" k="ref" o="none" type="way" v="A376" />
   </body>
 </changeset>

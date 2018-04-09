@@ -1,1 +1,24 @@
-<changeset id="56134180" schema="1"><counts nodesAdded="5" nodesModified="53" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="4" /><meta><tag k="changesets_count" v="3949" /><tag k="comment" v="Wege,Fl&#228;chen angepasst" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Latest available ortho geoportail.lu" /><tag k="locale" v="de" /></meta><body><tag id="559281062" k="building" o="add" type="way" v="yes" /><tag id="144720606" k="demolished:building" o="add" type="way" v="yes" /><tag id="144720642" k="demolished:building" o="add" type="way" v="yes" /></body></changeset>
+<changeset id="56134180" schema="2">
+  <counts nodesAdded="5" nodesDeleted="11" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="1" waysModified="5" />
+  <meta>
+    <tag k="changesets_count" v="3949" />
+    <tag k="comment" v="Wege,Fl&#228;chen angepasst" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Latest available ortho geoportail.lu" />
+    <tag k="locale" v="de" />
+  </meta>
+  <body>
+    <tag id="144720606" k="addr:city" o="none" type="way" v="Strassen" />
+    <tag id="144720606" k="addr:street" o="none" type="way" v="Route d'Arlon" />
+    <tag id="144720606" k="addr:country" o="none" type="way" v="LU" />
+    <tag id="144720606" k="addr:postcode" o="none" type="way" v="8008" />
+    <tag id="144720606" k="addr:housenumber" o="none" type="way" v="152" />
+    <tag id="144720606" k="demolished:building" o="add" type="way" v="yes" />
+    <tag id="144720642" k="demolished:building" o="add" type="way" v="yes" />
+    <tag id="172537960" k="landuse" o="none" type="way" v="residential" />
+    <tag id="172537960" k="designation" o="none" type="way" v="Pescher IV" />
+    <tag id="432767618" k="building" o="none" type="way" v="apartments" />
+    <tag id="559281062" k="building" o="add" type="way" v="yes" />
+  </body>
+</changeset>

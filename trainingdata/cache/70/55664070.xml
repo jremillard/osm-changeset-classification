@@ -1,1 +1,45 @@
-<changeset id="55664070" schema="1"><counts nodesAdded="1" nodesModified="3" relationsAdded="1" relationsModified="0" waysAdded="0" waysModified="2" /><meta><tag k="comment" v="public transport details" /><tag k="created_by" v="JOSM/1.5 (13265 en_GB)" /><tag k="source" v="local_knowledge;ESRI" /></meta><body><tag id="5355217228" k="addr:city" o="add" type="node" v="Clonmel" /><tag id="5355217228" k="addr:street" o="add" type="node" v="Thomas Street" /><tag id="5355217228" k="name" o="add" type="node" v="Clonmel" /><tag id="5355217228" k="network" o="add" type="node" v="InterCity" /><tag id="5355217228" k="operator" o="add" type="node" v="Irish Rail" /><tag id="5355217228" k="phone" o="add" type="node" v="+353 53 21982" /><tag id="5355217228" k="public_transport" o="add" type="node" v="station" /><tag id="5355217228" k="railway" o="add" type="node" v="station" /><tag id="5355217228" k="train" o="add" type="node" v="yes" /><tag id="5355217228" k="website" o="add" type="node" v="http://www.irishrail.ie/travel-information/clonmel" /><tag id="5355217228" k="wikidata" o="add" type="node" v="Q1124923" /><tag id="7925355" k="name" o="add" type="relation" v="Clonmel" /><tag id="7925355" k="network" o="add" type="relation" v="InterCity" /><tag id="7925355" k="operator" o="add" type="relation" v="Irish Rail" /><tag id="7925355" k="public_transport" o="add" type="relation" v="stop_area" /><tag id="7925355" k="train" o="add" type="relation" v="yes" /><tag id="7925355" k="type" o="add" type="relation" v="public_transport" /><tag id="1524148180" k="public_transport" o="add" type="node" v="stop_position" /><tag id="1524148180" k="railway" o="modify" type="node" v="stop" /><tag id="1524148180" k="train" o="add" type="node" v="yes" /><tag id="2133707505" k="name" o="add" type="node" v="Clonmel" /><tag id="2133707505" k="network" o="add" type="node" v="InterCity" /><tag id="2133707505" k="operator" o="add" type="node" v="Irish Rail" /><tag id="2133707505" k="public_transport" o="add" type="node" v="stop_position" /><tag id="2133707505" k="railway" o="add" type="node" v="stop" /><tag id="2133707505" k="train" o="add" type="node" v="yes" /><tag id="203358391" k="public_transport" o="add" type="way" v="platform" /><tag id="203358394" k="public_transport" o="add" type="way" v="platform" /></body></changeset>
+<changeset id="55664070" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="2" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="public transport details" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en_GB)" />
+    <tag k="source" v="local_knowledge;ESRI" />
+  </meta>
+  <body>
+    <tag id="1524148180" k="name" o="none" type="node" v="Clonmel" />
+    <tag id="1524148180" k="train" o="add" type="node" v="yes" />
+    <tag id="1524148180" k="network" o="none" type="node" v="InterCity" />
+    <tag id="1524148180" k="railway" o="modify" type="node" v="stop" />
+    <tag id="1524148180" k="operator" o="none" type="node" v="Irish Rail" />
+    <tag id="1524148180" k="wikidata" o="none" type="node" v="Q1124923" />
+    <tag id="1524148180" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="1524148205" k="railway" o="none" type="node" v="switch" />
+    <tag id="2133707505" k="name" o="add" type="node" v="Clonmel" />
+    <tag id="2133707505" k="train" o="add" type="node" v="yes" />
+    <tag id="2133707505" k="network" o="add" type="node" v="InterCity" />
+    <tag id="2133707505" k="railway" o="add" type="node" v="stop" />
+    <tag id="2133707505" k="operator" o="add" type="node" v="Irish Rail" />
+    <tag id="2133707505" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="5355217228" k="name" o="add" type="node" v="Clonmel" />
+    <tag id="5355217228" k="phone" o="add" type="node" v="+353 53 21982" />
+    <tag id="5355217228" k="train" o="add" type="node" v="yes" />
+    <tag id="5355217228" k="network" o="add" type="node" v="InterCity" />
+    <tag id="5355217228" k="railway" o="add" type="node" v="station" />
+    <tag id="5355217228" k="website" o="add" type="node" v="http://www.irishrail.ie/travel-information/clonmel" />
+    <tag id="5355217228" k="operator" o="add" type="node" v="Irish Rail" />
+    <tag id="5355217228" k="wikidata" o="add" type="node" v="Q1124923" />
+    <tag id="5355217228" k="addr:city" o="add" type="node" v="Clonmel" />
+    <tag id="5355217228" k="addr:street" o="add" type="node" v="Thomas Street" />
+    <tag id="5355217228" k="public_transport" o="add" type="node" v="station" />
+    <tag id="203358391" k="railway" o="none" type="way" v="platform" />
+    <tag id="203358391" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="203358394" k="railway" o="none" type="way" v="platform" />
+    <tag id="203358394" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="7925355" k="name" o="add" type="relation" v="Clonmel" />
+    <tag id="7925355" k="type" o="add" type="relation" v="public_transport" />
+    <tag id="7925355" k="train" o="add" type="relation" v="yes" />
+    <tag id="7925355" k="network" o="add" type="relation" v="InterCity" />
+    <tag id="7925355" k="operator" o="add" type="relation" v="Irish Rail" />
+    <tag id="7925355" k="public_transport" o="add" type="relation" v="stop_area" />
+  </body>
+</changeset>

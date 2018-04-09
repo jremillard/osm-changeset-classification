@@ -1,142 +1,142 @@
 <changeset id="17101389" schema="2">
-  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="14" waysAdded="0" waysDeleted="1" waysModified="3" />
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="14" waysAdded="0" waysDeleted="1" waysModified="4" />
   <meta>
     <tag k="comment" v="r17101158 R&#252;ckg&#228;ngig" />
     <tag k="created_by" v="JOSM/1.5 (5866 de);reverter_plugin/29503" />
   </meta>
   <body>
     <tag id="1451960289" k="amenity" o="add" type="node" v="bicycle_parking" />
-    <tag id="1451960289" k="bicycle_parking" o="add" type="node" v="stands" />
-    <tag id="1451960289" k="capacity" o="add" type="node" v="5" />
     <tag id="1451960289" k="covered" o="add" type="node" v="yes" />
-    <tag id="1855296699" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1451960289" k="capacity" o="add" type="node" v="5" />
+    <tag id="1451960289" k="bicycle_parking" o="add" type="node" v="stands" />
     <tag id="1855296699" k="name" o="none" type="node" v="Siegen Freudenberger Stra&#223;e" />
+    <tag id="1855296699" k="highway" o="none" type="node" v="bus_stop" />
     <tag id="1855296699" k="operator" o="none" type="node" v="VGWS" />
-    <tag id="160106603" k="access:forward" o="add" type="way" v="delivery" />
-    <tag id="160106603" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="160106603" k="bridge" o="add" type="way" v="yes" />
-    <tag id="160106603" k="highway" o="add" type="way" v="residential" />
-    <tag id="160106603" k="layer" o="add" type="way" v="2" />
-    <tag id="160106603" k="loc_name" o="add" type="way" v="Hufeisenbr&#252;cke" />
-    <tag id="160106603" k="name" o="add" type="way" v="Freudenberger Stra&#223;e" />
-    <tag id="160106603" k="psv" o="add" type="way" v="yes" />
-    <tag id="160106603" k="ref" o="add" type="way" v="K 10" />
-    <tag id="160106603" k="source:ref" o="add" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
-    <tag id="145109882" k="landuse" o="add" type="way" v="railway" />
-    <tag id="23805163" k="access:forward" o="none" type="way" v="delivery" />
-    <tag id="23805163" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="23805163" k="bridge" o="none" type="way" v="yes" />
-    <tag id="23805163" k="highway" o="none" type="way" v="residential" />
-    <tag id="23805163" k="layer" o="none" type="way" v="2" />
-    <tag id="23805163" k="loc_name" o="none" type="way" v="Hufeisenbr&#252;cke" />
-    <tag id="23805163" k="name" o="none" type="way" v="Freudenberger Stra&#223;e" />
     <tag id="23805163" k="psv" o="none" type="way" v="yes" />
     <tag id="23805163" k="ref" o="none" type="way" v="K 10" />
+    <tag id="23805163" k="name" o="none" type="way" v="Freudenberger Stra&#223;e" />
+    <tag id="23805163" k="layer" o="none" type="way" v="2" />
+    <tag id="23805163" k="bridge" o="none" type="way" v="yes" />
+    <tag id="23805163" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="23805163" k="highway" o="none" type="way" v="residential" />
+    <tag id="23805163" k="loc_name" o="none" type="way" v="Hufeisenbr&#252;cke" />
     <tag id="23805163" k="source:ref" o="none" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
-    <tag id="2452447" k="from" o="none" type="relation" v="Fischbacherberg" />
-    <tag id="2452447" k="name" o="none" type="relation" v="Bus C111 Siegen" />
-    <tag id="2452447" k="network" o="none" type="relation" v="VGWS" />
-    <tag id="2452447" k="operator" o="none" type="relation" v="VWS" />
-    <tag id="2452447" k="ref" o="none" type="relation" v="C111" />
-    <tag id="2452447" k="route" o="none" type="relation" v="bus" />
-    <tag id="2452447" k="to" o="none" type="relation" v="Haardter Berg/Uni" />
-    <tag id="2452447" k="type" o="none" type="relation" v="route" />
-    <tag id="1528685" k="name" o="none" type="relation" v="Bus SB1 Siegen - Olpe" />
-    <tag id="1528685" k="network" o="none" type="relation" v="VGWS" />
-    <tag id="1528685" k="ref" o="none" type="relation" v="SB1" />
-    <tag id="1528685" k="route" o="none" type="relation" v="bus" />
-    <tag id="1528685" k="type" o="none" type="relation" v="route" />
-    <tag id="2336738" k="colour" o="none" type="relation" v="#BFCA07" />
-    <tag id="2336738" k="network" o="none" type="relation" v="VGWS" />
-    <tag id="2336738" k="operator" o="none" type="relation" v="VWS" />
-    <tag id="2336738" k="ref" o="none" type="relation" v="C116" />
-    <tag id="2336738" k="route" o="none" type="relation" v="bus" />
-    <tag id="2336738" k="type" o="none" type="relation" v="route" />
-    <tag id="2096477" k="name" o="none" type="relation" v="Europ&#228;ischer Fernwanderweg E1, Deutschland, Nordrhein-Westfalen S&#252;d" />
-    <tag id="2096477" k="network" o="none" type="relation" v="nwn" />
-    <tag id="2096477" k="note" o="none" type="relation" v="kein eigenes Symbol, wenn X-Wege benutzt werden" />
-    <tag id="2096477" k="operator" o="none" type="relation" v="European Ramblers Association" />
-    <tag id="2096477" k="operator:de" o="none" type="relation" v="Deutscher Wanderverband" />
-    <tag id="2096477" k="osmc:symbol" o="none" type="relation" v="white:black::X:white" />
-    <tag id="2096477" k="ref" o="none" type="relation" v="E1" />
-    <tag id="2096477" k="route" o="none" type="relation" v="hiking" />
-    <tag id="2096477" k="symbol" o="none" type="relation" v="Wei&#223;es Andreaskreuz auf schwarzem Grund" />
-    <tag id="2096477" k="type" o="none" type="relation" v="route" />
-    <tag id="2096477" k="website" o="none" type="relation" v="http://www.era-ewv-ferp.com/index.php?topmenu_id=29&amp;id=29&amp;page_id=99&amp;module=text" />
-    <tag id="2096477" k="wikipedia" o="none" type="relation" v="en:E1 European long distance path" />
-    <tag id="2096477" k="wikipedia:de" o="none" type="relation" v="http://de.wikipedia.org/wiki/Europ%C3%A4ischer_Fernwanderweg_E1" />
-    <tag id="2096477" k="wiki:symbol" o="none" type="relation" v="Symbol_E1.png" />
-    <tag id="61151" k="operator" o="none" type="relation" v="Kreis Siegen" />
+    <tag id="23805163" k="access:forward" o="none" type="way" v="delivery" />
+    <tag id="145109882" k="landuse" o="add" type="way" v="railway" />
+    <tag id="160106603" k="psv" o="add" type="way" v="yes" />
+    <tag id="160106603" k="ref" o="add" type="way" v="K 10" />
+    <tag id="160106603" k="name" o="add" type="way" v="Freudenberger Stra&#223;e" />
+    <tag id="160106603" k="layer" o="add" type="way" v="2" />
+    <tag id="160106603" k="bridge" o="add" type="way" v="yes" />
+    <tag id="160106603" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="160106603" k="highway" o="add" type="way" v="residential" />
+    <tag id="160106603" k="loc_name" o="add" type="way" v="Hufeisenbr&#252;cke" />
+    <tag id="160106603" k="source:ref" o="add" type="way" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" />
+    <tag id="160106603" k="access:forward" o="add" type="way" v="delivery" />
     <tag id="61151" k="ref" o="none" type="relation" v="K 10" />
-    <tag id="61151" k="route" o="none" type="relation" v="road" />
     <tag id="61151" k="type" o="none" type="relation" v="route" />
-    <tag id="69917" k="description" o="none" type="relation" v="Durch drei Bundesl&#228;nder auf den Spuren der beiden K&#246;nigsh&#228;user Oranien-Nassau" />
-    <tag id="69917" k="name" o="none" type="relation" v="Oranierroute" />
-    <tag id="69917" k="network" o="none" type="relation" v="rcn" />
+    <tag id="61151" k="route" o="none" type="relation" v="road" />
+    <tag id="61151" k="operator" o="none" type="relation" v="Kreis Siegen" />
     <tag id="69917" k="ref" o="none" type="relation" v="Or" />
-    <tag id="69917" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="69917" k="name" o="none" type="relation" v="Oranierroute" />
     <tag id="69917" k="type" o="none" type="relation" v="route" />
+    <tag id="69917" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="69917" k="network" o="none" type="relation" v="rcn" />
     <tag id="69917" k="website" o="none" type="relation" v="www.radroutenplaner.hessen.de/themenrouten_info.asp?dbspalte=126" />
-    <tag id="124706" k="name" o="none" type="relation" v="Radverkehrsnetz NRW, Kreis Siegen-Wittgenstein" />
-    <tag id="124706" k="network" o="none" type="relation" v="rcn" />
-    <tag id="124706" k="operator" o="none" type="relation" v="Ministerium f&#252;r Bauen und Verkehr Nordrhein-Westfalen" />
-    <tag id="124706" k="ref" o="none" type="relation" v="NRW" />
-    <tag id="124706" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="124706" k="type" o="none" type="relation" v="route" />
-    <tag id="124706" k="website" o="none" type="relation" v="www.radverkehrsnetz.nrw.de" />
-    <tag id="949816" k="name" o="none" type="relation" v="SI 10" />
-    <tag id="949816" k="network" o="none" type="relation" v="lcn" />
-    <tag id="949816" k="ref" o="none" type="relation" v="SI 10" />
-    <tag id="949816" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="949816" k="type" o="none" type="relation" v="route" />
-    <tag id="949814" k="name" o="none" type="relation" v="SI 9" />
-    <tag id="949814" k="network" o="none" type="relation" v="lcn" />
-    <tag id="949814" k="ref" o="none" type="relation" v="SI 9" />
-    <tag id="949814" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="949814" k="type" o="none" type="relation" v="route" />
-    <tag id="949813" k="name" o="none" type="relation" v="SI 12" />
-    <tag id="949813" k="network" o="none" type="relation" v="lcn" />
-    <tag id="949813" k="ref" o="none" type="relation" v="SI 12" />
-    <tag id="949813" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="949813" k="type" o="none" type="relation" v="route" />
-    <tag id="1997157" k="description" o="none" type="relation" v="von Aachen bis Bad Laasphe" />
-    <tag id="1997157" k="name" o="none" type="relation" v="[D4] Mittelland-Route (NRW)" />
-    <tag id="1997157" k="network" o="none" type="relation" v="ncn" />
-    <tag id="1997157" k="note" o="none" type="relation" v="bundeslandweise aufgeteilt, weil die alte Relation zu gro&#223; wurde" />
-    <tag id="1997157" k="ref" o="none" type="relation" v="D4" />
-    <tag id="1997157" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="1997157" k="type" o="none" type="relation" v="route" />
-    <tag id="1997157" k="wikipedia" o="none" type="relation" v="de:D-Route" />
-    <tag id="75391" k="description" o="none" type="relation" v="Vom Bahnhof Plettenberg f&#252;hrt der Weg durch die Innenstadt des Ortes zur Nordhelle, von dort weiter nach Meinerzhagen, &#252;ber den Unnenberg und Gummersbach nach Wiehl, N&#252;mbrecht, Waldbr&#246;l und Morsbach nach Siegen" />
-    <tag id="75391" k="distance" o="none" type="relation" v="115 km" />
+    <tag id="69917" k="description" o="none" type="relation" v="Durch drei Bundesl&#228;nder auf den Spuren der beiden K&#246;nigsh&#228;user Oranien-Nassau" />
     <tag id="75391" k="lwn" o="none" type="relation" v="Siegen" />
-    <tag id="75391" k="name" o="none" type="relation" v="[X11] Lenne-Sieg-Weg [Siegen]" />
-    <tag id="75391" k="network" o="none" type="relation" v="nwn" />
-    <tag id="75391" k="operator" o="none" type="relation" v="Sauerl&#228;ndischer Gebirgsverein" />
-    <tag id="75391" k="osmc:symbol" o="none" type="relation" v="black:black:black_rectangle:X11:white" />
     <tag id="75391" k="ref" o="none" type="relation" v="X11" />
+    <tag id="75391" k="name" o="none" type="relation" v="[X11] Lenne-Sieg-Weg [Siegen]" />
+    <tag id="75391" k="type" o="none" type="relation" v="route" />
     <tag id="75391" k="route" o="none" type="relation" v="hiking" />
     <tag id="75391" k="status" o="none" type="relation" v="complete@20100424" />
     <tag id="75391" k="symbol" o="none" type="relation" v="Wei&#223; X11 auf scharzem Grund" />
-    <tag id="75391" k="type" o="none" type="relation" v="route" />
+    <tag id="75391" k="network" o="none" type="relation" v="nwn" />
+    <tag id="75391" k="distance" o="none" type="relation" v="115 km" />
+    <tag id="75391" k="operator" o="none" type="relation" v="Sauerl&#228;ndischer Gebirgsverein" />
+    <tag id="75391" k="description" o="none" type="relation" v="Vom Bahnhof Plettenberg f&#252;hrt der Weg durch die Innenstadt des Ortes zur Nordhelle, von dort weiter nach Meinerzhagen, &#252;ber den Unnenberg und Gummersbach nach Wiehl, N&#252;mbrecht, Waldbr&#246;l und Morsbach nach Siegen" />
+    <tag id="75391" k="osmc:symbol" o="none" type="relation" v="black:black:black_rectangle:X11:white" />
     <tag id="75391" k="wiki:symbol" o="none" type="relation" v="Wanderwegzeichen_X11.png" />
+    <tag id="124706" k="ref" o="none" type="relation" v="NRW" />
+    <tag id="124706" k="name" o="none" type="relation" v="Radverkehrsnetz NRW, Kreis Siegen-Wittgenstein" />
+    <tag id="124706" k="type" o="none" type="relation" v="route" />
+    <tag id="124706" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="124706" k="network" o="none" type="relation" v="rcn" />
+    <tag id="124706" k="website" o="none" type="relation" v="www.radverkehrsnetz.nrw.de" />
+    <tag id="124706" k="operator" o="none" type="relation" v="Ministerium f&#252;r Bauen und Verkehr Nordrhein-Westfalen" />
     <tag id="297115" k="lwn" o="none" type="relation" v="Siegen" />
+    <tag id="297115" k="ref" o="none" type="relation" v="X19" />
     <tag id="297115" k="name" o="none" type="relation" v="[X19] Schl&#246;sserweg [Siegen]" />
+    <tag id="297115" k="type" o="none" type="relation" v="route" />
+    <tag id="297115" k="route" o="none" type="relation" v="hiking" />
+    <tag id="297115" k="symbol" o="none" type="relation" v="de.sgv.x.19" />
     <tag id="297115" k="network" o="none" type="relation" v="nwn" />
     <tag id="297115" k="operator" o="none" type="relation" v="Sauerl&#228;ndischer Gebirgsverein" />
     <tag id="297115" k="osmc:symbol" o="none" type="relation" v="black:black::X19:white" />
-    <tag id="297115" k="ref" o="none" type="relation" v="X19" />
-    <tag id="297115" k="route" o="none" type="relation" v="hiking" />
-    <tag id="297115" k="symbol" o="none" type="relation" v="de.sgv.x.19" />
-    <tag id="297115" k="type" o="none" type="relation" v="route" />
     <tag id="297115" k="wiki:symbol" o="none" type="relation" v="Wanderwegzeichen_X19.png" />
+    <tag id="298738" k="ref" o="none" type="relation" v="X24" />
     <tag id="298738" k="name" o="none" type="relation" v="[X24] M&#246;hne-Westerwald-Weg" />
+    <tag id="298738" k="type" o="none" type="relation" v="route" />
+    <tag id="298738" k="route" o="none" type="relation" v="hiking" />
+    <tag id="298738" k="symbol" o="none" type="relation" v="Wei&#223; &quot;X24&quot; auf schwarzem Grund" />
     <tag id="298738" k="network" o="none" type="relation" v="nwn" />
     <tag id="298738" k="operator" o="none" type="relation" v="Sauerl&#228;ndischer Gebirgsverein" />
     <tag id="298738" k="osmc:symbol" o="none" type="relation" v="red:black:black_rectangle:X24:white" />
-    <tag id="298738" k="ref" o="none" type="relation" v="X24" />
-    <tag id="298738" k="route" o="none" type="relation" v="hiking" />
-    <tag id="298738" k="symbol" o="none" type="relation" v="Wei&#223; &quot;X24&quot; auf schwarzem Grund" />
-    <tag id="298738" k="type" o="none" type="relation" v="route" />
+    <tag id="949813" k="ref" o="none" type="relation" v="SI 12" />
+    <tag id="949813" k="name" o="none" type="relation" v="SI 12" />
+    <tag id="949813" k="type" o="none" type="relation" v="route" />
+    <tag id="949813" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="949813" k="network" o="none" type="relation" v="lcn" />
+    <tag id="949814" k="ref" o="none" type="relation" v="SI 9" />
+    <tag id="949814" k="name" o="none" type="relation" v="SI 9" />
+    <tag id="949814" k="type" o="none" type="relation" v="route" />
+    <tag id="949814" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="949814" k="network" o="none" type="relation" v="lcn" />
+    <tag id="949816" k="ref" o="none" type="relation" v="SI 10" />
+    <tag id="949816" k="name" o="none" type="relation" v="SI 10" />
+    <tag id="949816" k="type" o="none" type="relation" v="route" />
+    <tag id="949816" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="949816" k="network" o="none" type="relation" v="lcn" />
+    <tag id="1528685" k="ref" o="none" type="relation" v="SB1" />
+    <tag id="1528685" k="name" o="none" type="relation" v="Bus SB1 Siegen - Olpe" />
+    <tag id="1528685" k="type" o="none" type="relation" v="route" />
+    <tag id="1528685" k="route" o="none" type="relation" v="bus" />
+    <tag id="1528685" k="network" o="none" type="relation" v="VGWS" />
+    <tag id="1997157" k="ref" o="none" type="relation" v="D4" />
+    <tag id="1997157" k="name" o="none" type="relation" v="[D4] Mittelland-Route (NRW)" />
+    <tag id="1997157" k="note" o="none" type="relation" v="bundeslandweise aufgeteilt, weil die alte Relation zu gro&#223; wurde" />
+    <tag id="1997157" k="type" o="none" type="relation" v="route" />
+    <tag id="1997157" k="route" o="none" type="relation" v="bicycle" />
+    <tag id="1997157" k="network" o="none" type="relation" v="ncn" />
+    <tag id="1997157" k="wikipedia" o="none" type="relation" v="de:D-Route" />
+    <tag id="1997157" k="description" o="none" type="relation" v="von Aachen bis Bad Laasphe" />
+    <tag id="2096477" k="ref" o="none" type="relation" v="E1" />
+    <tag id="2096477" k="name" o="none" type="relation" v="Europ&#228;ischer Fernwanderweg E1, Deutschland, Nordrhein-Westfalen S&#252;d" />
+    <tag id="2096477" k="note" o="none" type="relation" v="kein eigenes Symbol, wenn X-Wege benutzt werden" />
+    <tag id="2096477" k="type" o="none" type="relation" v="route" />
+    <tag id="2096477" k="route" o="none" type="relation" v="hiking" />
+    <tag id="2096477" k="symbol" o="none" type="relation" v="Wei&#223;es Andreaskreuz auf schwarzem Grund" />
+    <tag id="2096477" k="network" o="none" type="relation" v="nwn" />
+    <tag id="2096477" k="website" o="none" type="relation" v="http://www.era-ewv-ferp.com/index.php?topmenu_id=29&amp;id=29&amp;page_id=99&amp;module=text" />
+    <tag id="2096477" k="operator" o="none" type="relation" v="European Ramblers Association" />
+    <tag id="2096477" k="wikipedia" o="none" type="relation" v="en:E1 European long distance path" />
+    <tag id="2096477" k="operator:de" o="none" type="relation" v="Deutscher Wanderverband" />
+    <tag id="2096477" k="osmc:symbol" o="none" type="relation" v="white:black::X:white" />
+    <tag id="2096477" k="wiki:symbol" o="none" type="relation" v="Symbol_E1.png" />
+    <tag id="2096477" k="wikipedia:de" o="none" type="relation" v="http://de.wikipedia.org/wiki/Europ%C3%A4ischer_Fernwanderweg_E1" />
+    <tag id="2336738" k="ref" o="none" type="relation" v="C116" />
+    <tag id="2336738" k="type" o="none" type="relation" v="route" />
+    <tag id="2336738" k="route" o="none" type="relation" v="bus" />
+    <tag id="2336738" k="colour" o="none" type="relation" v="#BFCA07" />
+    <tag id="2336738" k="network" o="none" type="relation" v="VGWS" />
+    <tag id="2336738" k="operator" o="none" type="relation" v="VWS" />
+    <tag id="2452447" k="to" o="none" type="relation" v="Haardter Berg/Uni" />
+    <tag id="2452447" k="ref" o="none" type="relation" v="C111" />
+    <tag id="2452447" k="from" o="none" type="relation" v="Fischbacherberg" />
+    <tag id="2452447" k="name" o="none" type="relation" v="Bus C111 Siegen" />
+    <tag id="2452447" k="type" o="none" type="relation" v="route" />
+    <tag id="2452447" k="route" o="none" type="relation" v="bus" />
+    <tag id="2452447" k="network" o="none" type="relation" v="VGWS" />
+    <tag id="2452447" k="operator" o="none" type="relation" v="VWS" />
   </body>
 </changeset>

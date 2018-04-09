@@ -1,1 +1,31 @@
-<changeset id="56368308" schema="1"><counts nodesAdded="17" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="8" waysModified="1" /><meta><tag k="comment" v="Added missing service roads in parking lots" /><tag k="created_by" v="JOSM/1.5 (13392 en)" /><tag k="source" v="Mapbox Satellite; Mapbox Telemetry" /></meta><body><tag id="561377776" k="highway" o="add" type="way" v="service" /><tag id="561377776" k="service" o="add" type="way" v="parking_aisle" /><tag id="561377777" k="highway" o="add" type="way" v="service" /><tag id="561377777" k="service" o="add" type="way" v="parking_aisle" /><tag id="561377778" k="highway" o="add" type="way" v="service" /><tag id="561377778" k="service" o="add" type="way" v="parking_aisle" /><tag id="561377779" k="highway" o="add" type="way" v="service" /><tag id="561377779" k="service" o="add" type="way" v="parking_aisle" /><tag id="561377780" k="highway" o="add" type="way" v="service" /><tag id="561377780" k="service" o="add" type="way" v="parking_aisle" /><tag id="561377781" k="highway" o="add" type="way" v="service" /><tag id="561377782" k="highway" o="add" type="way" v="service" /><tag id="561377783" k="highway" o="add" type="way" v="service" /></body></changeset>
+<changeset id="56368308" schema="2">
+  <counts nodesAdded="17" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="8" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Added missing service roads in parking lots" />
+    <tag k="created_by" v="JOSM/1.5 (13392 en)" />
+    <tag k="source" v="Mapbox Satellite; Mapbox Telemetry" />
+  </meta>
+  <body>
+    <tag id="68209971" k="highway" o="none" type="node" v="turning_circle" />
+    <tag id="9170278" k="name" o="none" type="way" v="Wilburn Road" />
+    <tag id="9170278" k="highway" o="none" type="way" v="residential" />
+    <tag id="9170278" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="9170278" k="tiger:county" o="none" type="way" v="DeKalb, GA" />
+    <tag id="9170278" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="9170278" k="tiger:name_base" o="none" type="way" v="Wilburn" />
+    <tag id="9170278" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="561377776" k="highway" o="add" type="way" v="service" />
+    <tag id="561377776" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561377777" k="highway" o="add" type="way" v="service" />
+    <tag id="561377777" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561377778" k="highway" o="add" type="way" v="service" />
+    <tag id="561377778" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561377779" k="highway" o="add" type="way" v="service" />
+    <tag id="561377779" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561377780" k="highway" o="add" type="way" v="service" />
+    <tag id="561377780" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561377781" k="highway" o="add" type="way" v="service" />
+    <tag id="561377782" k="highway" o="add" type="way" v="service" />
+    <tag id="561377783" k="highway" o="add" type="way" v="service" />
+  </body>
+</changeset>

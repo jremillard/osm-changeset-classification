@@ -1,1 +1,28 @@
-<changeset id="56301402" schema="1"><counts nodesAdded="8" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="2" /><meta><tag k="comment" v="Dodanie parkingu przy Biedronce" /><tag k="created_by" v="JOSM/1.5 (13367 pl)" /><tag k="source" v="Mapbox - zdj&#281;cia satelitarne" /></meta><body><tag id="560780945" k="highway" o="add" type="way" v="service" /><tag id="560780946" k="access" o="add" type="way" v="customers" /><tag id="560780946" k="amenity" o="add" type="way" v="parking" /><tag id="560780946" k="parking" o="add" type="way" v="surface" /><tag id="560780946" k="surface" o="add" type="way" v="asphalt" /></body></changeset>
+<changeset id="56301402" schema="2">
+  <counts nodesAdded="8" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Dodanie parkingu przy Biedronce" />
+    <tag k="created_by" v="JOSM/1.5 (13367 pl)" />
+    <tag k="source" v="Mapbox - zdj&#281;cia satelitarne" />
+  </meta>
+  <body>
+    <tag id="383189637" k="ref" o="none" type="way" v="52" />
+    <tag id="383189637" k="name" o="none" type="way" v="&#379;ywiecka" />
+    <tag id="383189637" k="lanes" o="none" type="way" v="4" />
+    <tag id="383189637" k="highway" o="none" type="way" v="secondary" />
+    <tag id="383189637" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="383189637" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="383189637" k="maxaxleload" o="none" type="way" v="10" />
+    <tag id="383189637" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="383189637" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="383189637" k="source:maxspeed" o="none" type="way" v="PL:urban" />
+    <tag id="383189637" k="source:maxaxleload" o="none" type="way" v="Rozporz&#261;dzenie Ministra Infrastruktury i Budownictwa z dnia 21 kwietnia 2017 r" />
+    <tag id="383189637" k="maxspeed:conditional" o="none" type="way" v="60 @ (23:00-05:00)" />
+    <tag id="406081585" k="highway" o="none" type="way" v="footway" />
+    <tag id="560780945" k="highway" o="add" type="way" v="service" />
+    <tag id="560780946" k="access" o="add" type="way" v="customers" />
+    <tag id="560780946" k="amenity" o="add" type="way" v="parking" />
+    <tag id="560780946" k="parking" o="add" type="way" v="surface" />
+    <tag id="560780946" k="surface" o="add" type="way" v="asphalt" />
+  </body>
+</changeset>

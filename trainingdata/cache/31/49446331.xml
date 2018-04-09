@@ -1,5 +1,5 @@
 <changeset id="49446331" schema="2">
-  <counts nodesAdded="8" nodesDeleted="5" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="1" waysModified="6" />
+  <counts nodesAdded="8" nodesDeleted="5" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="1" waysModified="7" />
   <meta>
     <tag k="comment" v="add new foot/bicycle connection in Bahnstadt. See also: http://www.openstreetmap.org/note/1003674" />
     <tag k="created_by" v="iD 2.2.1" />
@@ -8,57 +8,57 @@
     <tag k="locale" v="en" />
   </meta>
   <body>
+    <tag id="3709003419" k="foot" o="none" type="node" v="yes" />
+    <tag id="3709003419" k="barrier" o="none" type="node" v="bollard" />
+    <tag id="3709003419" k="bicycle" o="none" type="node" v="yes" />
+    <tag id="4909158096" k="foot" o="add" type="node" v="yes" />
     <tag id="4909158096" k="access" o="add" type="node" v="no" />
     <tag id="4909158096" k="barrier" o="add" type="node" v="block" />
     <tag id="4909158096" k="bicycle" o="add" type="node" v="yes" />
-    <tag id="4909158096" k="foot" o="add" type="node" v="yes" />
-    <tag id="499671455" k="construction" o="add" type="way" v="service" />
-    <tag id="499671455" k="fixme" o="add" type="way" v="Is this going to be permanent? Check road type / connection to &quot;Gr&#252;ne Meile&quot;, etc." />
-    <tag id="499671455" k="highway" o="add" type="way" v="construction" />
-    <tag id="499671455" k="source" o="add" type="way" v="survey (2017-06-11)" />
-    <tag id="499671456" k="bicycle" o="add" type="way" v="designated" />
-    <tag id="499671456" k="foot" o="add" type="way" v="designated" />
-    <tag id="499671456" k="highway" o="add" type="way" v="cycleway" />
-    <tag id="499671456" k="source" o="add" type="way" v="survey" />
-    <tag id="499671457" k="bicycle" o="add" type="way" v="designated" />
-    <tag id="499671457" k="foot" o="add" type="way" v="designated" />
-    <tag id="499671457" k="highway" o="add" type="way" v="path" />
-    <tag id="499671457" k="surface" o="add" type="way" v="paved" />
-    <tag id="499671458" k="bicycle" o="add" type="way" v="designated" />
-    <tag id="499671458" k="foot" o="add" type="way" v="designated" />
-    <tag id="499671458" k="highway" o="add" type="way" v="path" />
-    <tag id="499671458" k="oneway" o="add" type="way" v="yes" />
-    <tag id="499671458" k="segregated" o="add" type="way" v="no" />
-    <tag id="499671458" k="source:geometry" o="add" type="way" v="Bing 2012" />
-    <tag id="499671458" k="surface" o="add" type="way" v="paving_stones" />
-    <tag id="3709003419" k="barrier" o="none" type="node" v="bollard" />
-    <tag id="3709003419" k="bicycle" o="none" type="node" v="yes" />
-    <tag id="3709003419" k="foot" o="none" type="node" v="yes" />
-    <tag id="487709981" k="highway" o="none" type="way" v="service" />
+    <tag id="235235069" k="foot" o="none" type="way" v="designated" />
+    <tag id="235235069" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="235235069" k="highway" o="none" type="way" v="path" />
+    <tag id="235235069" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="235235069" k="segregated" o="none" type="way" v="no" />
+    <tag id="235235069" k="source:geometry" o="none" type="way" v="Bing 2012" />
+    <tag id="304706527" k="lit" o="none" type="way" v="yes" />
+    <tag id="304706527" k="lanes" o="none" type="way" v="2" />
+    <tag id="304706527" k="highway" o="none" type="way" v="service" />
+    <tag id="304706527" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="304706527" k="smoothness" o="none" type="way" v="intermediate" />
     <tag id="487709981" k="oneway" o="none" type="way" v="yes" />
+    <tag id="487709981" k="highway" o="none" type="way" v="service" />
     <tag id="487709981" k="service" o="none" type="way" v="parking_aisle" />
     <tag id="487709981" k="surface" o="none" type="way" v="paved" />
-    <tag id="487709992" k="highway" o="none" type="way" v="service" />
     <tag id="487709992" k="oneway" o="none" type="way" v="yes" />
+    <tag id="487709992" k="highway" o="none" type="way" v="service" />
     <tag id="487709992" k="service" o="none" type="way" v="parking_aisle" />
     <tag id="487709992" k="surface" o="none" type="way" v="paved" />
     <tag id="487710001" k="highway" o="none" type="way" v="service" />
     <tag id="487710001" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="304706527" k="highway" o="none" type="way" v="service" />
-    <tag id="304706527" k="lanes" o="none" type="way" v="2" />
-    <tag id="304706527" k="lit" o="none" type="way" v="yes" />
-    <tag id="304706527" k="smoothness" o="none" type="way" v="intermediate" />
-    <tag id="304706527" k="surface" o="none" type="way" v="paving_stones" />
-    <tag id="497600927" k="bicycle" o="none" type="way" v="designated" />
     <tag id="497600927" k="foot" o="none" type="way" v="designated" />
-    <tag id="497600927" k="highway" o="none" type="way" v="path" />
     <tag id="497600927" k="oneway" o="none" type="way" v="yes" />
+    <tag id="497600927" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="497600927" k="highway" o="none" type="way" v="path" />
     <tag id="497600927" k="surface" o="none" type="way" v="paved" />
-    <tag id="235235069" k="bicycle" o="none" type="way" v="designated" />
-    <tag id="235235069" k="foot" o="none" type="way" v="designated" />
-    <tag id="235235069" k="highway" o="none" type="way" v="path" />
-    <tag id="235235069" k="segregated" o="none" type="way" v="no" />
-    <tag id="235235069" k="source:geometry" o="none" type="way" v="Bing 2012" />
-    <tag id="235235069" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="499671455" k="fixme" o="add" type="way" v="Is this going to be permanent? Check road type / connection to &quot;Gr&#252;ne Meile&quot;, etc." />
+    <tag id="499671455" k="source" o="add" type="way" v="survey (2017-06-11)" />
+    <tag id="499671455" k="highway" o="add" type="way" v="construction" />
+    <tag id="499671455" k="construction" o="add" type="way" v="service" />
+    <tag id="499671456" k="foot" o="add" type="way" v="designated" />
+    <tag id="499671456" k="source" o="add" type="way" v="survey" />
+    <tag id="499671456" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="499671456" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="499671457" k="foot" o="add" type="way" v="designated" />
+    <tag id="499671457" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="499671457" k="highway" o="add" type="way" v="path" />
+    <tag id="499671457" k="surface" o="add" type="way" v="paved" />
+    <tag id="499671458" k="foot" o="add" type="way" v="designated" />
+    <tag id="499671458" k="oneway" o="add" type="way" v="yes" />
+    <tag id="499671458" k="bicycle" o="add" type="way" v="designated" />
+    <tag id="499671458" k="highway" o="add" type="way" v="path" />
+    <tag id="499671458" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="499671458" k="segregated" o="add" type="way" v="no" />
+    <tag id="499671458" k="source:geometry" o="add" type="way" v="Bing 2012" />
   </body>
 </changeset>

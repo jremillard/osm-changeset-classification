@@ -1,1 +1,26 @@
-<changeset id="55579975" schema="1"><counts nodesAdded="0" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="StreetComplete:quest_type" v="AddOpeningHours" /><tag k="comment" v="Add opening hours" /><tag k="created_by" v="StreetComplete 3.4" /><tag k="source" v="survey" /></meta><body><tag id="3126994442" k="opening_hours" o="add" type="node" v="Mo-Fr 07:45-16:00, Sa,Su 09:00-16:30" /><tag id="849784668" k="opening_hours" o="add" type="node" v="Mo-Fr 09:30-22:00, Sa,Su 10:00-22:00" /></body></changeset>
+<changeset id="55579975" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddOpeningHours" />
+    <tag k="comment" v="Add opening hours" />
+    <tag k="created_by" v="StreetComplete 3.4" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="849784668" k="name" o="none" type="node" v="South Circular Pharmacy" />
+    <tag id="849784668" k="amenity" o="none" type="node" v="pharmacy" />
+    <tag id="849784668" k="dispensing" o="none" type="node" v="yes" />
+    <tag id="849784668" k="addr:street" o="none" type="node" v="South Circular Road" />
+    <tag id="849784668" k="opening_hours" o="add" type="node" v="Mo-Fr 09:30-22:00, Sa,Su 10:00-22:00" />
+    <tag id="849784668" k="addr:housenumber" o="none" type="node" v="80" />
+    <tag id="3126994442" k="name" o="none" type="node" v="Brother Hubbard South" />
+    <tag id="3126994442" k="phone" o="none" type="node" v="+353-1-441-6596" />
+    <tag id="3126994442" k="amenity" o="none" type="node" v="cafe" />
+    <tag id="3126994442" k="cuisine" o="none" type="node" v="mediterranean" />
+    <tag id="3126994442" k="website" o="none" type="node" v="http://sistersadie.ie" />
+    <tag id="3126994442" k="addr:street" o="none" type="node" v="Harrington Street" />
+    <tag id="3126994442" k="opening_hours" o="add" type="node" v="Mo-Fr 07:45-16:00, Sa,Su 09:00-16:30" />
+    <tag id="3126994442" k="diet:vegetarian" o="none" type="node" v="yes" />
+    <tag id="3126994442" k="addr:housenumber" o="none" type="node" v="46" />
+  </body>
+</changeset>

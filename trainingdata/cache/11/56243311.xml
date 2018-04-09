@@ -1,1 +1,18 @@
-<changeset id="56243311" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="StreetComplete:quest_type" v="AddBuildingLevels" /><tag k="comment" v="Add building and roof levels" /><tag k="created_by" v="StreetComplete 3.7" /><tag k="source" v="survey" /></meta><body><tag id="146405947" k="building:levels" o="add" type="way" v="1" /><tag id="146405947" k="roof:levels" o="add" type="way" v="0" /></body></changeset>
+<changeset id="56243311" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddBuildingLevels" />
+    <tag k="comment" v="Add building and roof levels" />
+    <tag k="created_by" v="StreetComplete 3.7" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="146405947" k="name" o="none" type="way" v="Netto" />
+    <tag id="146405947" k="shop" o="none" type="way" v="supermarket" />
+    <tag id="146405947" k="building" o="none" type="way" v="retail" />
+    <tag id="146405947" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="146405947" k="roof:levels" o="add" type="way" v="0" />
+    <tag id="146405947" k="opening_hours" o="none" type="way" v="Mo-Sa 07:00-20:00" />
+    <tag id="146405947" k="building:levels" o="add" type="way" v="1" />
+  </body>
+</changeset>

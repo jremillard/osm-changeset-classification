@@ -1,1 +1,98 @@
-<changeset id="55538206" schema="1"><counts nodesAdded="73" nodesModified="13" relationsAdded="0" relationsModified="0" waysAdded="6" waysModified="8" /><meta><tag k="changesets_count" v="1384" /><tag k="comment" v="Track Roads" /><tag k="created_by" v="iD 2.5.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5346072664" k="building" o="add" type="node" v="yes" /><tag id="5346072664" k="healthcare" o="add" type="node" v="yes" /><tag id="5346072664" k="name" o="add" type="node" v="LabCorp" /><tag id="553883210" k="highway" o="add" type="way" v="footway" /><tag id="553883211" k="highway" o="add" type="way" v="footway" /><tag id="553883212" k="amenity" o="add" type="way" v="shelter" /><tag id="553883213" k="highway" o="add" type="way" v="track" /><tag id="553883213" k="name" o="add" type="way" v="Tournament Lane" /><tag id="553883213" k="tiger:cfcc" o="add" type="way" v="A41" /><tag id="553883213" k="tiger:county" o="add" type="way" v="San Bernardino, CA" /><tag id="553883213" k="tiger:name_base" o="add" type="way" v="Tournament" /><tag id="553883213" k="tiger:name_type" o="add" type="way" v="Ln" /><tag id="553883213" k="tiger:reviewed" o="add" type="way" v="no" /><tag id="553883214" k="highway" o="add" type="way" v="track" /><tag id="553883214" k="name" o="add" type="way" v="Augusta Circle" /><tag id="553883214" k="tiger:cfcc" o="add" type="way" v="A41" /><tag id="553883214" k="tiger:county" o="add" type="way" v="San Bernardino, CA" /><tag id="553883214" k="tiger:name_base" o="add" type="way" v="Augusta" /><tag id="553883214" k="tiger:name_type" o="add" type="way" v="Cir" /><tag id="553883214" k="tiger:reviewed" o="add" type="way" v="no" /><tag id="553883215" k="highway" o="add" type="way" v="residential" /><tag id="553883215" k="name" o="add" type="way" v="Town Center Drive" /><tag id="553883215" k="tiger:cfcc" o="add" type="way" v="A41" /><tag id="553883215" k="tiger:county" o="add" type="way" v="San Bernardino, CA" /><tag id="553883215" k="tiger:name_base" o="add" type="way" v="Town Center" /><tag id="553883215" k="tiger:name_type" o="add" type="way" v="Dr" /><tag id="7311339" k="highway" o="modify" type="way" v="track" /><tag id="7523030" k="highway" o="modify" type="way" v="track" /><tag id="538878215" k="highway" o="modify" type="way" v="track" /><tag id="7213678" k="highway" o="modify" type="way" v="track" /><tag id="7343857" k="highway" o="modify" type="way" v="track" /></body></changeset>
+<changeset id="55538206" schema="2">
+  <counts nodesAdded="73" nodesDeleted="8" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="6" waysDeleted="3" waysModified="11" />
+  <meta>
+    <tag k="changesets_count" v="1384" />
+    <tag k="comment" v="Track Roads" />
+    <tag k="created_by" v="iD 2.5.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4869364747" k="name" o="none" type="node" v="Jonathan's Pharmacy" />
+    <tag id="4869364747" k="amenity" o="none" type="node" v="pharmacy" />
+    <tag id="5346072664" k="name" o="add" type="node" v="LabCorp" />
+    <tag id="5346072664" k="building" o="add" type="node" v="yes" />
+    <tag id="5346072664" k="healthcare" o="add" type="node" v="yes" />
+    <tag id="7213678" k="name" o="none" type="way" v="Chlory Way" />
+    <tag id="7213678" k="highway" o="modify" type="way" v="track" />
+    <tag id="7213678" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7213678" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="7213678" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="7213678" k="tiger:name_base" o="none" type="way" v="Chlory" />
+    <tag id="7213678" k="tiger:name_type" o="none" type="way" v="Way" />
+    <tag id="7311339" k="name" o="none" type="way" v="Westmont Drive" />
+    <tag id="7311339" k="highway" o="modify" type="way" v="track" />
+    <tag id="7311339" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7311339" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="7311339" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="7311339" k="tiger:name_base" o="none" type="way" v="Westmont" />
+    <tag id="7311339" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="7343857" k="name" o="none" type="way" v="Town Center Drive" />
+    <tag id="7343857" k="highway" o="modify" type="way" v="track" />
+    <tag id="7343857" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7343857" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="7343857" k="tiger:name_base" o="none" type="way" v="Town Center" />
+    <tag id="7343857" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="7352576" k="name" o="none" type="way" v="Tournament Lane" />
+    <tag id="7352576" k="highway" o="none" type="way" v="residential" />
+    <tag id="7352576" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7352576" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="7352576" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="7352576" k="tiger:name_base" o="none" type="way" v="Tournament" />
+    <tag id="7352576" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="7523030" k="name" o="none" type="way" v="Augusta Circle" />
+    <tag id="7523030" k="highway" o="modify" type="way" v="track" />
+    <tag id="7523030" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7523030" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="7523030" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="7523030" k="tiger:name_base" o="none" type="way" v="Augusta" />
+    <tag id="7523030" k="tiger:name_type" o="none" type="way" v="Cir" />
+    <tag id="7523040" k="name" o="none" type="way" v="Augusta Circle" />
+    <tag id="7523040" k="highway" o="none" type="way" v="residential" />
+    <tag id="7523040" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="7523040" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="7523040" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="7523040" k="tiger:name_base" o="none" type="way" v="Augusta" />
+    <tag id="7523040" k="tiger:name_type" o="none" type="way" v="Cir" />
+    <tag id="483215639" k="name" o="none" type="way" v="Apple Valley Christian Care" />
+    <tag id="483215639" k="phone" o="none" type="way" v="(760) 240-5051" />
+    <tag id="483215639" k="building" o="none" type="way" v="yes" />
+    <tag id="483215639" k="addr:city" o="none" type="way" v="Apple Valley" />
+    <tag id="483215639" k="addr:state" o="none" type="way" v="CA" />
+    <tag id="483215639" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="483215639" k="addr:street" o="none" type="way" v="Apple Valley Road" />
+    <tag id="483215639" k="addr:postcode" o="none" type="way" v="92308" />
+    <tag id="483215639" k="addr:housenumber" o="none" type="way" v="11959" />
+    <tag id="538878215" k="name" o="none" type="way" v="Locust Lane" />
+    <tag id="538878215" k="highway" o="modify" type="way" v="track" />
+    <tag id="538878215" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="538878215" k="tiger:county" o="none" type="way" v="San Bernardino, CA" />
+    <tag id="538878215" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="538878215" k="tiger:name_base" o="none" type="way" v="Locust" />
+    <tag id="538878215" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="553883210" k="highway" o="add" type="way" v="footway" />
+    <tag id="553883211" k="highway" o="add" type="way" v="footway" />
+    <tag id="553883212" k="amenity" o="add" type="way" v="shelter" />
+    <tag id="553883213" k="name" o="add" type="way" v="Tournament Lane" />
+    <tag id="553883213" k="highway" o="add" type="way" v="track" />
+    <tag id="553883213" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="553883213" k="tiger:county" o="add" type="way" v="San Bernardino, CA" />
+    <tag id="553883213" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="553883213" k="tiger:name_base" o="add" type="way" v="Tournament" />
+    <tag id="553883213" k="tiger:name_type" o="add" type="way" v="Ln" />
+    <tag id="553883214" k="name" o="add" type="way" v="Augusta Circle" />
+    <tag id="553883214" k="highway" o="add" type="way" v="track" />
+    <tag id="553883214" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="553883214" k="tiger:county" o="add" type="way" v="San Bernardino, CA" />
+    <tag id="553883214" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="553883214" k="tiger:name_base" o="add" type="way" v="Augusta" />
+    <tag id="553883214" k="tiger:name_type" o="add" type="way" v="Cir" />
+    <tag id="553883215" k="name" o="add" type="way" v="Town Center Drive" />
+    <tag id="553883215" k="highway" o="add" type="way" v="residential" />
+    <tag id="553883215" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="553883215" k="tiger:county" o="add" type="way" v="San Bernardino, CA" />
+    <tag id="553883215" k="tiger:name_base" o="add" type="way" v="Town Center" />
+    <tag id="553883215" k="tiger:name_type" o="add" type="way" v="Dr" />
+  </body>
+</changeset>

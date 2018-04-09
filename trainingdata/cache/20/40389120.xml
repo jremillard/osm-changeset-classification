@@ -1,5 +1,5 @@
 <changeset id="40389120" schema="2">
-  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="4" waysModified="1" />
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="4" waysModified="5" />
   <meta>
     <tag k="comment" v="correction rond-point (source: http://improve-osm.org/#45.8037465,3.1190282,19/layer=OSM/OPEN/true,1-0-0/true,1-0-0-0-0/false,1-0/item=356586582,538315819,281956639)" />
     <tag k="created_by" v="iD 1.9.6" />
@@ -8,27 +8,27 @@
     <tag k="locale" v="fr" />
   </meta>
   <body>
+    <tag id="25830263" k="oneway" o="add" type="way" v="yes" />
     <tag id="25830263" k="highway" o="none" type="way" v="primary" />
     <tag id="25830263" k="junction" o="add" type="way" v="roundabout" />
     <tag id="25830263" k="maxspeed" o="none" type="way" v="70" />
-    <tag id="25830263" k="oneway" o="add" type="way" v="yes" />
-    <tag id="2498662" k="colour" o="none" type="relation" v="#8BC63E" />
-    <tag id="2498662" k="from" o="none" type="relation" v="Gerzat Champfleuri" />
-    <tag id="2498662" k="name" o="none" type="relation" v="T2C Ligne 20" />
-    <tag id="2498662" k="operator" o="none" type="relation" v="T2C" />
-    <tag id="2498662" k="public_transport:version" o="none" type="relation" v="2" />
-    <tag id="2498662" k="ref" o="none" type="relation" v="20" />
-    <tag id="2498662" k="route" o="none" type="relation" v="bus" />
-    <tag id="2498662" k="to" o="none" type="relation" v="Aulnat Saint-Exup&#233;ry" />
-    <tag id="2498662" k="type" o="none" type="relation" v="route" />
-    <tag id="2249069" k="colour" o="none" type="relation" v="#EAE966" />
+    <tag id="2249069" k="to" o="none" type="relation" v="Quartier Chambon / Aubi&#232;re &#8212; Z.I. Ribes" />
+    <tag id="2249069" k="ref" o="none" type="relation" v="21" />
     <tag id="2249069" k="from" o="none" type="relation" v="C&#233;bazat CHR Nord" />
     <tag id="2249069" k="name" o="none" type="relation" v="T2C Ligne 21" />
+    <tag id="2249069" k="type" o="none" type="relation" v="route" />
+    <tag id="2249069" k="route" o="none" type="relation" v="bus" />
+    <tag id="2249069" k="colour" o="none" type="relation" v="#EAE966" />
     <tag id="2249069" k="operator" o="none" type="relation" v="T2C" />
     <tag id="2249069" k="public_transport:version" o="none" type="relation" v="2" />
-    <tag id="2249069" k="ref" o="none" type="relation" v="21" />
-    <tag id="2249069" k="route" o="none" type="relation" v="bus" />
-    <tag id="2249069" k="to" o="none" type="relation" v="Quartier Chambon / Aubi&#232;re &#8212; Z.I. Ribes" />
-    <tag id="2249069" k="type" o="none" type="relation" v="route" />
+    <tag id="2498662" k="to" o="none" type="relation" v="Aulnat Saint-Exup&#233;ry" />
+    <tag id="2498662" k="ref" o="none" type="relation" v="20" />
+    <tag id="2498662" k="from" o="none" type="relation" v="Gerzat Champfleuri" />
+    <tag id="2498662" k="name" o="none" type="relation" v="T2C Ligne 20" />
+    <tag id="2498662" k="type" o="none" type="relation" v="route" />
+    <tag id="2498662" k="route" o="none" type="relation" v="bus" />
+    <tag id="2498662" k="colour" o="none" type="relation" v="#8BC63E" />
+    <tag id="2498662" k="operator" o="none" type="relation" v="T2C" />
+    <tag id="2498662" k="public_transport:version" o="none" type="relation" v="2" />
   </body>
 </changeset>

@@ -1,1 +1,41 @@
-<changeset id="56029933" schema="1"><counts nodesAdded="46" nodesModified="3" relationsAdded="0" relationsModified="0" waysAdded="7" waysModified="3" /><meta><tag k="changesets_count" v="947" /><tag k="comment" v="add buildings, ways" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Mapbox Satellite" /><tag k="locale" v="de" /></meta><body><tag id="558259845" k="landuse" o="add" type="way" v="military" /><tag id="558259845" k="name" o="add" type="way" v="Launch Facility F-06" /><tag id="558259846" k="highway" o="add" type="way" v="service" /><tag id="558259846" k="tiger:cfcc" o="add" type="way" v="A41" /><tag id="558259846" k="tiger:county" o="add" type="way" v="Lewis and Clark, MT" /><tag id="558259846" k="tiger:reviewed" o="add" type="way" v="no" /><tag id="558259847" k="highway" o="add" type="way" v="service" /><tag id="558259848" k="highway" o="add" type="way" v="unclassified" /><tag id="558259849" k="natural" o="add" type="way" v="water" /><tag id="558259850" k="highway" o="add" type="way" v="residential" /><tag id="558259851" k="landuse" o="add" type="way" v="farmland" /><tag id="5741367" k="highway" o="modify" type="way" v="track" /></body></changeset>
+<changeset id="56029933" schema="2">
+  <counts nodesAdded="46" nodesDeleted="9" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="7" waysDeleted="1" waysModified="4" />
+  <meta>
+    <tag k="changesets_count" v="947" />
+    <tag k="comment" v="add buildings, ways" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Mapbox Satellite" />
+    <tag k="locale" v="de" />
+  </meta>
+  <body>
+    <tag id="5741358" k="highway" o="none" type="way" v="residential" />
+    <tag id="5741358" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5741358" k="tiger:county" o="none" type="way" v="Lewis and Clark, MT" />
+    <tag id="5741358" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5741367" k="highway" o="modify" type="way" v="track" />
+    <tag id="5741367" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="5741367" k="tiger:county" o="none" type="way" v="Lewis and Clark, MT" />
+    <tag id="5741367" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5752623" k="ref" o="none" type="way" v="US 287" />
+    <tag id="5752623" k="lanes" o="none" type="way" v="2" />
+    <tag id="5752623" k="highway" o="none" type="way" v="primary" />
+    <tag id="5752623" k="tiger:cfcc" o="none" type="way" v="A21" />
+    <tag id="5752623" k="tiger:county" o="none" type="way" v="Lewis and Clark, MT" />
+    <tag id="5752623" k="mdt_base_route" o="none" type="way" v="P-9" />
+    <tag id="5752623" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="5752623" k="tiger:name_base" o="none" type="way" v="United States Highway 287" />
+    <tag id="5752623" k="tiger:name_direction_prefix" o="none" type="way" v="N" />
+    <tag id="558259845" k="name" o="add" type="way" v="Launch Facility F-06" />
+    <tag id="558259845" k="landuse" o="add" type="way" v="military" />
+    <tag id="558259846" k="highway" o="add" type="way" v="service" />
+    <tag id="558259846" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="558259846" k="tiger:county" o="add" type="way" v="Lewis and Clark, MT" />
+    <tag id="558259846" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="558259847" k="highway" o="add" type="way" v="service" />
+    <tag id="558259848" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="558259849" k="natural" o="add" type="way" v="water" />
+    <tag id="558259850" k="highway" o="add" type="way" v="residential" />
+    <tag id="558259851" k="landuse" o="add" type="way" v="farmland" />
+  </body>
+</changeset>

@@ -1,5 +1,5 @@
 <changeset id="9155832" schema="2">
-  <counts nodesAdded="3" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="3" waysModified="1" />
+  <counts nodesAdded="3" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="3" waysModified="4" />
   <meta>
     <tag k="build" v="2.2-41-gec89ae9" />
     <tag k="comment" v="Removed joining of one way roads at the crossing of V&#225;ci &#250;t end R&#243;bert K&#225;roly k&#246;r&#250;t. This was causing navigation software to think it's possible the make insane turns." />
@@ -7,24 +7,24 @@
     <tag k="version" v="2.2" />
   </meta>
   <body>
-    <tag id="128176972" k="highway" o="add" type="way" v="primary" />
+    <tag id="8108849" k="name" o="add" type="way" v="V&#225;ci &#250;t" />
+    <tag id="8108849" k="is_in" o="add" type="way" v="Budapest" />
+    <tag id="8108849" k="oneway" o="add" type="way" v="yes" />
+    <tag id="8108849" k="highway" o="add" type="way" v="secondary" />
+    <tag id="128176972" k="ref" o="add" type="way" v="2" />
+    <tag id="128176972" k="name" o="add" type="way" v="R&#243;bert K&#225;roly k&#246;r&#250;t" />
     <tag id="128176972" k="is_in" o="add" type="way" v="Budapest" />
     <tag id="128176972" k="lanes" o="add" type="way" v="2" />
-    <tag id="128176972" k="name" o="add" type="way" v="R&#243;bert K&#225;roly k&#246;r&#250;t" />
     <tag id="128176972" k="oneway" o="add" type="way" v="yes" />
-    <tag id="128176972" k="ref" o="add" type="way" v="2" />
-    <tag id="128176973" k="highway" o="add" type="way" v="secondary" />
-    <tag id="128176973" k="is_in" o="add" type="way" v="Budapest" />
+    <tag id="128176972" k="highway" o="add" type="way" v="primary" />
     <tag id="128176973" k="name" o="add" type="way" v="&#193;rp&#225;d h&#237;d" />
+    <tag id="128176973" k="is_in" o="add" type="way" v="Budapest" />
     <tag id="128176973" k="oneway" o="add" type="way" v="yes" />
-    <tag id="128176974" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="128176973" k="highway" o="add" type="way" v="secondary" />
+    <tag id="128176974" k="name" o="add" type="way" v="V&#225;ci &#250;t" />
     <tag id="128176974" k="is_in" o="add" type="way" v="Budapest" />
     <tag id="128176974" k="lanes" o="add" type="way" v="2" />
-    <tag id="128176974" k="name" o="add" type="way" v="V&#225;ci &#250;t" />
     <tag id="128176974" k="oneway" o="add" type="way" v="yes" />
-    <tag id="8108849" k="highway" o="add" type="way" v="secondary" />
-    <tag id="8108849" k="is_in" o="add" type="way" v="Budapest" />
-    <tag id="8108849" k="name" o="add" type="way" v="V&#225;ci &#250;t" />
-    <tag id="8108849" k="oneway" o="add" type="way" v="yes" />
+    <tag id="128176974" k="highway" o="add" type="way" v="primary_link" />
   </body>
 </changeset>

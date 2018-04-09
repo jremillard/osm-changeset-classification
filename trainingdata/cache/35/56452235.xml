@@ -1,1 +1,25 @@
-<changeset id="56452235" schema="1"><counts nodesAdded="1" nodesModified="3" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="comment" v="&#38750;&#27861;&#32362;&#30059;&#37941;&#36335;&#20449;&#34399;&#65288;&#23433;&#20840;&#19979;&#65289;&#22353;&#21475;&#29256;" /><tag k="created_by" v="Vespucci 10.0.5" /><tag k="imagery_used" v="OpenStreetMap (Standard)" /><tag k="locale" v="zh_HK" /><tag k="source" v="&#23526;&#22320;&#32771;&#23519;" /></meta><body><tag id="4784021820" k="railway" o="add" type="node" v="signal" /><tag id="4784021820" k="ref" o="add" type="node" v="X206" /><tag id="4784022221" k="railway" o="add" type="node" v="signal" /><tag id="4784022221" k="ref" o="add" type="node" v="S201" /><tag id="4415243791" k="railway" o="add" type="node" v="signal" /><tag id="4415243791" k="ref" o="add" type="node" v="X208" /></body></changeset>
+<changeset id="56452235" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="3" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="&#38750;&#27861;&#32362;&#30059;&#37941;&#36335;&#20449;&#34399;&#65288;&#23433;&#20840;&#19979;&#65289;&#22353;&#21475;&#29256;" />
+    <tag k="created_by" v="Vespucci 10.0.5" />
+    <tag k="imagery_used" v="OpenStreetMap (Standard)" />
+    <tag k="locale" v="zh_HK" />
+    <tag k="source" v="&#23526;&#22320;&#32771;&#23519;" />
+  </meta>
+  <body>
+    <tag id="4415243791" k="ref" o="add" type="node" v="X208" />
+    <tag id="4415243791" k="railway" o="add" type="node" v="signal" />
+    <tag id="4784021820" k="ref" o="add" type="node" v="X206" />
+    <tag id="4784021820" k="railway" o="add" type="node" v="signal" />
+    <tag id="4784022221" k="ref" o="add" type="node" v="S201" />
+    <tag id="4784022221" k="railway" o="add" type="node" v="signal" />
+    <tag id="510675962" k="name" o="none" type="way" v="&#24191;&#24030;&#22320;&#38081;1&#21495;&#32447;" />
+    <tag id="510675962" k="gauge" o="none" type="way" v="1435" />
+    <tag id="510675962" k="oneway" o="none" type="way" v="yes" />
+    <tag id="510675962" k="railway" o="none" type="way" v="subway" />
+    <tag id="510675962" k="voltage" o="none" type="way" v="1500" />
+    <tag id="510675962" k="frequency" o="none" type="way" v="0" />
+    <tag id="510675962" k="electrified" o="none" type="way" v="contact_line" />
+  </body>
+</changeset>

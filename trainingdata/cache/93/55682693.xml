@@ -1,1 +1,24 @@
-<changeset id="55682693" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="1" /><tag k="comment" v="Added correct information" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /><tag k="review_requested" v="yes" /></meta><body><tag id="5356833764" k="addr:city" o="add" type="node" v="Santa Fe" /><tag id="5356833764" k="addr:housenumber" o="add" type="node" v="8376" /><tag id="5356833764" k="addr:postcode" o="add" type="node" v="87507" /><tag id="5356833764" k="addr:state" o="add" type="node" v="NM" /><tag id="5356833764" k="addr:street" o="add" type="node" v="Cerrillos Rd" /><tag id="5356833764" k="description" o="add" type="node" v="The Inn at Santa Fe is a boutique hotel in Santa Fe, New Mexico with stylish guestrooms and mini-suites, modern amenities, hot breakfast." /><tag id="5356833764" k="name" o="add" type="node" v="Inn At Santa Fe Hotel" /><tag id="5356833764" k="phone" o="add" type="node" v="505-474-9500" /><tag id="5356833764" k="tourism" o="add" type="node" v="hotel" /><tag id="5356833764" k="website" o="add" type="node" v="http://www.innatsantafe.com" /></body></changeset>
+<changeset id="55682693" schema="2">
+  <counts nodesAdded="1" nodesDeleted="24" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="2" waysModified="2" />
+  <meta>
+    <tag k="changesets_count" v="1" />
+    <tag k="comment" v="Added correct information" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+    <tag k="review_requested" v="yes" />
+  </meta>
+  <body>
+    <tag id="5356833764" k="name" o="add" type="node" v="Inn At Santa Fe Hotel" />
+    <tag id="5356833764" k="phone" o="add" type="node" v="505-474-9500" />
+    <tag id="5356833764" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="5356833764" k="website" o="add" type="node" v="http://www.innatsantafe.com" />
+    <tag id="5356833764" k="addr:city" o="add" type="node" v="Santa Fe" />
+    <tag id="5356833764" k="addr:state" o="add" type="node" v="NM" />
+    <tag id="5356833764" k="addr:street" o="add" type="node" v="Cerrillos Rd" />
+    <tag id="5356833764" k="description" o="add" type="node" v="The Inn at Santa Fe is a boutique hotel in Santa Fe, New Mexico with stylish guestrooms and mini-suites, modern amenities, hot breakfast." />
+    <tag id="5356833764" k="addr:postcode" o="add" type="node" v="87507" />
+    <tag id="5356833764" k="addr:housenumber" o="add" type="node" v="8376" />
+  </body>
+</changeset>

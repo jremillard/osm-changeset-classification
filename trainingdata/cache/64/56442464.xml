@@ -1,1 +1,27 @@
-<changeset id="56442464" schema="1"><counts nodesAdded="0" nodesModified="8" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="StreetComplete:quest_type" v="AddBenchBackrest" /><tag k="comment" v="Add backrest information to benches" /><tag k="created_by" v="StreetComplete 4.0-beta2" /><tag k="source" v="survey" /></meta><body><tag id="4031278017" k="backrest" o="add" type="node" v="yes" /><tag id="4031278015" k="backrest" o="add" type="node" v="yes" /><tag id="4030137675" k="backrest" o="add" type="node" v="yes" /><tag id="4030137676" k="backrest" o="add" type="node" v="yes" /><tag id="4031278011" k="backrest" o="add" type="node" v="yes" /><tag id="4031278012" k="backrest" o="add" type="node" v="yes" /><tag id="4031278014" k="backrest" o="add" type="node" v="yes" /><tag id="4031278016" k="backrest" o="add" type="node" v="yes" /></body></changeset>
+<changeset id="56442464" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="8" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddBenchBackrest" />
+    <tag k="comment" v="Add backrest information to benches" />
+    <tag k="created_by" v="StreetComplete 4.0-beta2" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="4030137675" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4030137675" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4030137676" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4030137676" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4031278011" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4031278011" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4031278012" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4031278012" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4031278014" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4031278014" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4031278015" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4031278015" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4031278016" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4031278016" k="backrest" o="add" type="node" v="yes" />
+    <tag id="4031278017" k="amenity" o="none" type="node" v="bench" />
+    <tag id="4031278017" k="backrest" o="add" type="node" v="yes" />
+  </body>
+</changeset>

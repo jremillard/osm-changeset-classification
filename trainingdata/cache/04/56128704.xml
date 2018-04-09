@@ -1,1 +1,153 @@
-<changeset id="56128704" schema="1"><counts nodesAdded="1" nodesModified="7" relationsAdded="0" relationsModified="6" waysAdded="3" waysModified="4" /><meta><tag k="comment" v="Augsburg: Improved bike infrastructure" /><tag k="created_by" v="JOSM/1.5 (13170 de)" /><tag k="source" v="Bing; Survey" /></meta><body><tag id="559226823" k="highway" o="add" type="way" v="cycleway" /><tag id="559226823" k="oneway" o="add" type="way" v="yes" /><tag id="559226824" k="hgv" o="add" type="way" v="delivery" /><tag id="559226824" k="highway" o="add" type="way" v="tertiary" /><tag id="559226824" k="lanes" o="add" type="way" v="1" /><tag id="559226824" k="maxspeed" o="add" type="way" v="50" /><tag id="559226824" k="name" o="add" type="way" v="Oberer Graben" /><tag id="559226824" k="oneway" o="add" type="way" v="yes" /><tag id="559226824" k="surface" o="add" type="way" v="asphalt" /><tag id="559226826" k="hgv" o="add" type="way" v="delivery" /><tag id="559226826" k="highway" o="add" type="way" v="tertiary" /><tag id="559226826" k="lanes" o="add" type="way" v="2" /><tag id="559226826" k="maxspeed" o="add" type="way" v="50" /><tag id="559226826" k="name" o="add" type="way" v="Oberer Graben" /><tag id="313864284" k="cycleway:left" o="add" type="way" v="lane" /><tag id="138644691" k="cycleway:left" o="add" type="way" v="lane" /><tag id="66462141" k="cycleway" o="add" type="way" v="lane" /><tag id="24859896" k="cycleway:left" o="add" type="way" v="lane" /></body></changeset>
+<changeset id="56128704" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="6" waysAdded="3" waysDeleted="0" waysModified="4" />
+  <meta>
+    <tag k="comment" v="Augsburg: Improved bike infrastructure" />
+    <tag k="created_by" v="JOSM/1.5 (13170 de)" />
+    <tag k="source" v="Bing; Survey" />
+  </meta>
+  <body>
+    <tag id="804953673" k="FIXME" o="none" type="node" v="links andere Ampelart als rechts, pr&#252;fen, welche Ampel-Anforderungsart; westlich Ampelmast-Position innerhalb &#220;berquerungs-Streifenbereich, etvl. etwas weiter westlich?" />
+    <tag id="804953673" k="source" o="none" type="node" v="Universit&#228;t Augsburg, Lehrstuhl f&#252;r Humangeographie und Geoinformatik und Stadt Augsburg" />
+    <tag id="804953673" k="highway" o="none" type="node" v="crossing" />
+    <tag id="804953673" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="804953673" k="source:url" o="none" type="node" v="http://wiki.openstreetmap.org/wiki/Augsburg/Datenspende_Stadtplan_f%C3%BCr_barrierefreie_Mobilit%C3%A4t" />
+    <tag id="804953673" k="crossing_ref" o="none" type="node" v="pelican" />
+    <tag id="804953673" k="tactile_paving" o="none" type="node" v="no" />
+    <tag id="804953673" k="traffic_signals:sound" o="none" type="node" v="no" />
+    <tag id="804953673" k="augsburgbarrierefrei:ref" o="none" type="node" v="1200" />
+    <tag id="804953673" k="traffic_signals:vibration" o="none" type="node" v="no" />
+    <tag id="804953673" k="augsburgbarrierefrei:tabelle" o="none" type="node" v="Ampel" />
+    <tag id="804953724" k="source" o="none" type="node" v="Universit&#228;t Augsburg, Lehrstuhl f&#252;r Humangeographie und Geoinformatik und Stadt Augsburg" />
+    <tag id="804953724" k="barrier" o="none" type="node" v="traffic_crossing_pole" />
+    <tag id="804953724" k="source:url" o="none" type="node" v="http://wiki.openstreetmap.org/wiki/Augsburg/Datenspende_Stadtplan_f%C3%BCr_barrierefreie_Mobilit%C3%A4t" />
+    <tag id="804953724" k="crossing_ref" o="none" type="node" v="toucan" />
+    <tag id="804953724" k="traffic_signals:sound" o="none" type="node" v="no" />
+    <tag id="804953724" k="augsburgbarrierefrei:ref" o="none" type="node" v="8545" />
+    <tag id="804953724" k="traffic_signals:vibration" o="none" type="node" v="no" />
+    <tag id="804953724" k="augsburgbarrierefrei:tabelle" o="none" type="node" v="Ampel" />
+    <tag id="804953814" k="source" o="none" type="node" v="Universit&#228;t Augsburg, Lehrstuhl f&#252;r Humangeographie und Geoinformatik und Stadt Augsburg" />
+    <tag id="804953814" k="barrier" o="none" type="node" v="traffic_crossing_pole" />
+    <tag id="804953814" k="source:url" o="none" type="node" v="http://wiki.openstreetmap.org/wiki/Augsburg/Datenspende_Stadtplan_f%C3%BCr_barrierefreie_Mobilit%C3%A4t" />
+    <tag id="804953814" k="crossing_ref" o="none" type="node" v="pelican" />
+    <tag id="804953814" k="traffic_signals:sound" o="none" type="node" v="no" />
+    <tag id="804953814" k="augsburgbarrierefrei:ref" o="none" type="node" v="1200" />
+    <tag id="804953814" k="traffic_signals:vibration" o="none" type="node" v="no" />
+    <tag id="804953814" k="augsburgbarrierefrei:tabelle" o="none" type="node" v="Ampel" />
+    <tag id="24859896" k="hgv" o="none" type="way" v="delivery" />
+    <tag id="24859896" k="name" o="none" type="way" v="Oberer Graben" />
+    <tag id="24859896" k="lanes" o="none" type="way" v="2" />
+    <tag id="24859896" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="24859896" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="24859896" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="24859896" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="66462141" k="hgv" o="none" type="way" v="delivery" />
+    <tag id="66462141" k="name" o="none" type="way" v="Oberer Graben" />
+    <tag id="66462141" k="lanes" o="none" type="way" v="1" />
+    <tag id="66462141" k="oneway" o="none" type="way" v="yes" />
+    <tag id="66462141" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="66462141" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="66462141" k="cycleway" o="add" type="way" v="lane" />
+    <tag id="66462141" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="138644691" k="hgv" o="none" type="way" v="delivery" />
+    <tag id="138644691" k="name" o="none" type="way" v="Oberer Graben" />
+    <tag id="138644691" k="lanes" o="none" type="way" v="2" />
+    <tag id="138644691" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="138644691" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="138644691" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="138644691" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="313864284" k="hgv" o="none" type="way" v="delivery" />
+    <tag id="313864284" k="name" o="none" type="way" v="Oberer Graben" />
+    <tag id="313864284" k="lanes" o="none" type="way" v="2" />
+    <tag id="313864284" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="313864284" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="313864284" k="cycleway:left" o="add" type="way" v="lane" />
+    <tag id="559226823" k="oneway" o="add" type="way" v="yes" />
+    <tag id="559226823" k="highway" o="add" type="way" v="cycleway" />
+    <tag id="559226824" k="hgv" o="add" type="way" v="delivery" />
+    <tag id="559226824" k="name" o="add" type="way" v="Oberer Graben" />
+    <tag id="559226824" k="lanes" o="add" type="way" v="1" />
+    <tag id="559226824" k="oneway" o="add" type="way" v="yes" />
+    <tag id="559226824" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="559226824" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="559226824" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="559226826" k="hgv" o="add" type="way" v="delivery" />
+    <tag id="559226826" k="name" o="add" type="way" v="Oberer Graben" />
+    <tag id="559226826" k="lanes" o="add" type="way" v="2" />
+    <tag id="559226826" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="559226826" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="32999" k="to" o="none" type="relation" v="Pfersee S&#252;d" />
+    <tag id="32999" k="ref" o="none" type="relation" v="35" />
+    <tag id="32999" k="via" o="none" type="relation" v="Oberhausen" />
+    <tag id="32999" k="from" o="none" type="relation" v="G&#246;ggingen Bergstra&#223;e" />
+    <tag id="32999" k="name" o="none" type="relation" v="Stadtbus 35: G&#246;ggingen Bergstra&#223;e =&gt; Pfersee S&#252;d" />
+    <tag id="32999" k="type" o="none" type="relation" v="route" />
+    <tag id="32999" k="route" o="none" type="relation" v="bus" />
+    <tag id="32999" k="colour" o="none" type="relation" v="#df93b4" />
+    <tag id="32999" k="network" o="none" type="relation" v="Augsburger Verkehrs- und Tarifverbund" />
+    <tag id="32999" k="network:area" o="none" type="relation" v="city" />
+    <tag id="32999" k="network:guid" o="none" type="relation" v="DE-BY-AVV" />
+    <tag id="32999" k="network:short" o="none" type="relation" v="AVV" />
+    <tag id="32999" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="116542" k="to" o="none" type="relation" v="Hauptbahnhof" />
+    <tag id="116542" k="ref" o="none" type="relation" v="22" />
+    <tag id="116542" k="via" o="none" type="relation" v="Ulrichsbr&#252;cke; City-Galerie/VHS; Ulrichsplatz; Moritzplatz; K&#246;nigsplatz" />
+    <tag id="116542" k="from" o="none" type="relation" v="Firnhaberau" />
+    <tag id="116542" k="name" o="none" type="relation" v="Stadtbus 22: Firnhaberau =&gt; Hauptbahnhof" />
+    <tag id="116542" k="note" o="none" type="relation" v="https://wiki.openstreetmap.org/wiki/Augsburg/Transportation/Analyse" />
+    <tag id="116542" k="type" o="none" type="relation" v="route" />
+    <tag id="116542" k="route" o="none" type="relation" v="bus" />
+    <tag id="116542" k="colour" o="none" type="relation" v="#ed6a5a" />
+    <tag id="116542" k="network" o="none" type="relation" v="Augsburger Verkehrs- und Tarifverbund" />
+    <tag id="116542" k="website" o="none" type="relation" v="https://www.avv-augsburg.de" />
+    <tag id="116542" k="operator" o="none" type="relation" v="Augsburger Verkehrsgesellschaft mbH" />
+    <tag id="116542" k="network:area" o="none" type="relation" v="city" />
+    <tag id="116542" k="network:guid" o="none" type="relation" v="DE-BY-AVV" />
+    <tag id="116542" k="network:short" o="none" type="relation" v="AVV" />
+    <tag id="116542" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="149865" k="ref" o="none" type="relation" v="ROS" />
+    <tag id="149865" k="url" o="none" type="relation" v="http://www.romantischestrasse.de/" />
+    <tag id="149865" k="name" o="none" type="relation" v="Wanderweg Romantische Stra&#223;e" />
+    <tag id="149865" k="type" o="none" type="relation" v="route" />
+    <tag id="149865" k="fixme" o="none" type="relation" v="Route ist unterbrochen, Teilst&#252;cke konnten beim Sortieren nicht zugeordnet werden" />
+    <tag id="149865" k="route" o="none" type="relation" v="hiking" />
+    <tag id="149865" k="symbol" o="none" type="relation" v="Wei&#223; mt blauem auf der Spitze stehendem Quadrat mit wei&#223;en Tor und Name Romantische Stra&#223;e unter dem Logo" />
+    <tag id="149865" k="comment" o="none" type="relation" v="Alter Wegverlauf durch Neubau &quot;Am Funkturm - W&#252;rzburg&quot; nicht mehr vorhanden. Neue Ausschilderung." />
+    <tag id="149865" k="network" o="none" type="relation" v="rwn" />
+    <tag id="149865" k="distance" o="none" type="relation" v="492" />
+    <tag id="149865" k="operator" o="none" type="relation" v="Romantische Stra&#223;e Touristik Arbeitsgemeinschaft" />
+    <tag id="149865" k="description" o="none" type="relation" v="Eigenst&#228;ndiger Wanderweg (verl&#228;uft nur vereinzelt auf dem Radweg D9) entlang der Romantischen Stra&#223;e von W&#252;rzburg nach F&#252;ssen" />
+    <tag id="149865" k="osmc:symbol" o="none" type="relation" v="white:blue:white_arch" />
+    <tag id="149865" k="wiki:symbol" o="none" type="relation" v="Symbol_Romantische_Strasse.png" />
+    <tag id="572426" k="to" o="none" type="relation" v="Firnhaberau" />
+    <tag id="572426" k="ref" o="none" type="relation" v="22" />
+    <tag id="572426" k="via" o="none" type="relation" v="K&#246;nigsplatz; Moritzplatz; Ulrichsbr&#252;cke" />
+    <tag id="572426" k="from" o="none" type="relation" v="Augsburg, Hauptbahnhof" />
+    <tag id="572426" k="name" o="none" type="relation" v="Stadtbus 22: Hauptbahnhof =&gt; Firnhaberau" />
+    <tag id="572426" k="note" o="none" type="relation" v="https://wiki.openstreetmap.org/wiki/Augsburg/Transportation/Analyse" />
+    <tag id="572426" k="type" o="none" type="relation" v="route" />
+    <tag id="572426" k="route" o="none" type="relation" v="bus" />
+    <tag id="572426" k="colour" o="none" type="relation" v="#ed6a5a" />
+    <tag id="572426" k="network" o="none" type="relation" v="Augsburger Verkehrs- und Tarifverbund" />
+    <tag id="572426" k="website" o="none" type="relation" v="https://www.avv-augsburg.de" />
+    <tag id="572426" k="operator" o="none" type="relation" v="Augsburger Verkehrsgesellschaft mbH" />
+    <tag id="572426" k="network:area" o="none" type="relation" v="city" />
+    <tag id="572426" k="network:guid" o="none" type="relation" v="DE-BY-AVV" />
+    <tag id="572426" k="network:short" o="none" type="relation" v="AVV" />
+    <tag id="572426" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="576256" k="to" o="none" type="relation" v="G&#246;ggingen, Bergstra&#223;e" />
+    <tag id="576256" k="ref" o="none" type="relation" v="35" />
+    <tag id="576256" k="from" o="none" type="relation" v="Pfersee S&#252;d" />
+    <tag id="576256" k="name" o="none" type="relation" v="Bus 35: Pfersee S&#252;d =&gt; Bergstra&#223;e" />
+    <tag id="576256" k="type" o="none" type="relation" v="route" />
+    <tag id="576256" k="route" o="none" type="relation" v="bus" />
+    <tag id="576256" k="colour" o="none" type="relation" v="#df93b4" />
+    <tag id="576256" k="network" o="none" type="relation" v="Augsburger Verkehrs- und Tarifverbund" />
+    <tag id="576256" k="operator" o="none" type="relation" v="Augsburger Verkehrsgesellschaft" />
+    <tag id="576256" k="network:area" o="none" type="relation" v="city" />
+    <tag id="576256" k="network:guid" o="none" type="relation" v="DE-BY-AVV" />
+    <tag id="576256" k="network:short" o="none" type="relation" v="AVV" />
+    <tag id="576256" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="2688335" k="type" o="none" type="relation" v="restriction" />
+    <tag id="2688335" k="restriction" o="none" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

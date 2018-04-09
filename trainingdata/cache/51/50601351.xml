@@ -1,1 +1,36 @@
-<changeset id="50601351" schema="1"><counts nodesAdded="7" nodesModified="3" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="2" /><meta><tag k="comment" v="New streets added" /><tag k="created_by" v="iD 2.3.2" /><tag k="host" v="http://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="4995587488" k="addr:city" o="add" type="node" v="Cedar Falls" /><tag id="4995587488" k="addr:housenumber" o="add" type="node" v="5311" /><tag id="4995587488" k="addr:postcode" o="add" type="node" v="50613" /><tag id="4995587488" k="addr:state" o="add" type="node" v="IA" /><tag id="4995587488" k="addr:street" o="add" type="node" v="Hyacinth Drive" /><tag id="4995587488" k="description" o="add" type="node" v="Independent living community (housing and services) for adults 55+" /><tag id="4995587488" k="name" o="add" type="node" v="Western Home Communities - Windridge" /><tag id="510565739" k="highway" o="add" type="way" v="residential" /><tag id="510565739" k="name" o="add" type="way" v="Prairie View Road" /><tag id="510565740" k="highway" o="add" type="way" v="residential" /><tag id="510565740" k="name" o="add" type="way" v="Shooting Star Way" /><tag id="510565741" k="addr:city" o="add" type="way" v="Cedar Falls" /><tag id="510565741" k="addr:housenumber" o="add" type="way" v="5111" /><tag id="510565741" k="addr:postcode" o="add" type="way" v="50613" /><tag id="510565741" k="addr:state" o="add" type="way" v="IA" /><tag id="510565741" k="addr:street" o="add" type="way" v="Caraway Lane" /><tag id="510565741" k="building" o="add" type="way" v="residential" /><tag id="510565741" k="name" o="add" type="way" v="Western Home Communities, Nation Cottage" /><tag id="477215008" k="name" o="add" type="way" v="Green Creek Road" /><tag id="477215011" k="name" o="modify" type="way" v="Sweet Basil Lane" /></body></changeset>
+<changeset id="50601351" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="New streets added" />
+    <tag k="created_by" v="iD 2.3.2" />
+    <tag k="host" v="http://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4995587488" k="name" o="add" type="node" v="Western Home Communities - Windridge" />
+    <tag id="4995587488" k="addr:city" o="add" type="node" v="Cedar Falls" />
+    <tag id="4995587488" k="addr:state" o="add" type="node" v="IA" />
+    <tag id="4995587488" k="addr:street" o="add" type="node" v="Hyacinth Drive" />
+    <tag id="4995587488" k="description" o="add" type="node" v="Independent living community (housing and services) for adults 55+" />
+    <tag id="4995587488" k="addr:postcode" o="add" type="node" v="50613" />
+    <tag id="4995587488" k="addr:housenumber" o="add" type="node" v="5311" />
+    <tag id="477215008" k="name" o="add" type="way" v="Green Creek Road" />
+    <tag id="477215008" k="highway" o="none" type="way" v="service" />
+    <tag id="477215008" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="477215011" k="name" o="modify" type="way" v="Sweet Basil Lane" />
+    <tag id="477215011" k="highway" o="none" type="way" v="residential" />
+    <tag id="477215011" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="510565739" k="name" o="add" type="way" v="Prairie View Road" />
+    <tag id="510565739" k="highway" o="add" type="way" v="residential" />
+    <tag id="510565740" k="name" o="add" type="way" v="Shooting Star Way" />
+    <tag id="510565740" k="highway" o="add" type="way" v="residential" />
+    <tag id="510565741" k="name" o="add" type="way" v="Western Home Communities, Nation Cottage" />
+    <tag id="510565741" k="building" o="add" type="way" v="residential" />
+    <tag id="510565741" k="addr:city" o="add" type="way" v="Cedar Falls" />
+    <tag id="510565741" k="addr:state" o="add" type="way" v="IA" />
+    <tag id="510565741" k="addr:street" o="add" type="way" v="Caraway Lane" />
+    <tag id="510565741" k="addr:postcode" o="add" type="way" v="50613" />
+    <tag id="510565741" k="addr:housenumber" o="add" type="way" v="5111" />
+  </body>
+</changeset>

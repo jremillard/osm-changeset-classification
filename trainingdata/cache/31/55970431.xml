@@ -1,1 +1,16 @@
-<changeset id="55970431" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="StreetComplete:quest_type" v="AddRecyclingType" /><tag k="comment" v="Add recycling type to recycling amenity" /><tag k="created_by" v="StreetComplete 3.5" /><tag k="source" v="survey" /></meta><body><tag id="732869378" k="location" o="add" type="node" v="overground" /><tag id="732869378" k="recycling_type" o="add" type="node" v="container" /></body></changeset>
+<changeset id="55970431" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddRecyclingType" />
+    <tag k="comment" v="Add recycling type to recycling amenity" />
+    <tag k="created_by" v="StreetComplete 3.5" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="732869378" k="amenity" o="none" type="node" v="recycling" />
+    <tag id="732869378" k="location" o="add" type="node" v="overground" />
+    <tag id="732869378" k="recycling_type" o="add" type="node" v="container" />
+    <tag id="732869378" k="recycling:glass" o="none" type="node" v="yes" />
+    <tag id="732869378" k="recycling:paper" o="none" type="node" v="yes" />
+  </body>
+</changeset>

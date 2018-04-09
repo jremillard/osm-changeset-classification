@@ -1,81 +1,62 @@
 <changeset id="19588854" schema="2">
-  <counts nodesAdded="0" nodesDeleted="56" nodesModified="5" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="0" waysDeleted="2" waysModified="25" />
+  <counts nodesAdded="0" nodesDeleted="56" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="0" waysDeleted="2" waysModified="27" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="revert boundary edit error as per https://help.openstreetmap.org/questions/29277/please-revert-19234595-and-19252477" />
     <tag k="created_by" v="osmtools/19106 (linux)" />
   </meta>
   <body>
-    <tag id="1172765045" k="amenity" o="add" type="node" v="restaurant" />
-    <tag id="1172765045" k="name" o="add" type="node" v="New Freedom Cafe" />
-    <tag id="1798138406" k="name" o="none" type="node" v="Saubel's" />
-    <tag id="1798138406" k="shop" o="none" type="node" v="supermarket" />
-    <tag id="1804616877" k="amenity" o="none" type="node" v="restaurant" />
-    <tag id="1804616877" k="name" o="none" type="node" v="Subway" />
-    <tag id="1798135694" k="amenity" o="none" type="node" v="place_of_worship" />
-    <tag id="1798135694" k="religion" o="none" type="node" v="christian" />
     <tag id="158371492" k="ele" o="none" type="node" v="276" />
+    <tag id="158371492" k="name" o="none" type="node" v="Hungerford" />
+    <tag id="158371492" k="is_in" o="modify" type="node" v="York,Pennsylvania,Pa.,PA,USA" />
+    <tag id="158371492" k="place" o="none" type="node" v="hamlet" />
+    <tag id="158371492" k="gnis:id" o="none" type="node" v="1177593" />
     <tag id="158371492" k="gnis:Class" o="none" type="node" v="Populated Place" />
     <tag id="158371492" k="gnis:County" o="none" type="node" v="York" />
-    <tag id="158371492" k="gnis:County_num" o="none" type="node" v="133" />
-    <tag id="158371492" k="gnis:id" o="none" type="node" v="1177593" />
-    <tag id="158371492" k="gnis:ST_alpha" o="none" type="node" v="PA" />
     <tag id="158371492" k="gnis:ST_num" o="none" type="node" v="42" />
     <tag id="158371492" k="import_uuid" o="none" type="node" v="bb7269ee-502a-5391-8056-e3ce0e66489c" />
-    <tag id="158371492" k="is_in" o="modify" type="node" v="York,Pennsylvania,Pa.,PA,USA" />
-    <tag id="158371492" k="name" o="none" type="node" v="Hungerford" />
-    <tag id="158371492" k="place" o="none" type="node" v="hamlet" />
-    <tag id="6704011" k="access" o="add" type="way" v="private" />
-    <tag id="6704011" k="highway" o="add" type="way" v="service" />
-    <tag id="6704011" k="name" o="add" type="way" v="Nuthatch Hill Court" />
-    <tag id="6704011" k="tiger:cfcc" o="add" type="way" v="A74" />
-    <tag id="6704011" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6704011" k="tiger:name_base" o="add" type="way" v="Nuthatch Hill" />
-    <tag id="6704011" k="tiger:name_type" o="add" type="way" v="Ct" />
-    <tag id="6704011" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6704025" k="access" o="add" type="way" v="private" />
-    <tag id="6704025" k="highway" o="add" type="way" v="service" />
-    <tag id="6704025" k="name" o="add" type="way" v="Nuthatch Hill Court" />
-    <tag id="6704025" k="tiger:cfcc" o="add" type="way" v="A74" />
-    <tag id="6704025" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6704025" k="tiger:name_base" o="add" type="way" v="Nuthatch Hill" />
-    <tag id="6704025" k="tiger:name_type" o="add" type="way" v="Ct" />
-    <tag id="6704025" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6717829" k="highway" o="add" type="way" v="residential" />
-    <tag id="6717829" k="name" o="add" type="way" v="Bradley Court" />
-    <tag id="6717829" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6717829" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6717829" k="tiger:name_base" o="add" type="way" v="Bradley" />
-    <tag id="6717829" k="tiger:name_type" o="add" type="way" v="Ct" />
-    <tag id="6717829" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6669140" k="highway" o="add" type="way" v="residential" />
-    <tag id="6669140" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6669140" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6669140" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6669140" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6669140" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6669140" k="tiger:tlid" o="add" type="way" v="88765783" />
-    <tag id="6669140" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="6669223" k="highway" o="add" type="way" v="residential" />
-    <tag id="6669223" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6669223" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6669223" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6669223" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6669223" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6669223" k="tiger:tlid" o="add" type="way" v="88765789" />
-    <tag id="6669223" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="6669200" k="highway" o="add" type="way" v="residential" />
-    <tag id="6669200" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6669200" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6669200" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6669100" k="highway" o="add" type="way" v="residential" />
-    <tag id="6669100" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6669100" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6669100" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6669100" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6669100" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6669100" k="tiger:tlid" o="add" type="way" v="88765780" />
-    <tag id="6669100" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="158371492" k="gnis:ST_alpha" o="none" type="node" v="PA" />
+    <tag id="158371492" k="gnis:County_num" o="none" type="node" v="133" />
+    <tag id="1172765045" k="name" o="add" type="node" v="New Freedom Cafe" />
+    <tag id="1172765045" k="amenity" o="add" type="node" v="restaurant" />
+    <tag id="1798135694" k="amenity" o="none" type="node" v="place_of_worship" />
+    <tag id="1798135694" k="religion" o="none" type="node" v="christian" />
+    <tag id="1798138406" k="name" o="none" type="node" v="Saubel's" />
+    <tag id="1798138406" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="1804616877" k="name" o="none" type="node" v="Subway" />
+    <tag id="1804616877" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="6650439" k="highway" o="add" type="way" v="residential" />
+    <tag id="6650439" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6650439" k="tiger:tlid" o="add" type="way" v="88773903" />
+    <tag id="6650439" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6650439" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6650439" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6650439" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6650439" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="6651343" k="highway" o="add" type="way" v="residential" />
+    <tag id="6651343" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6651343" k="tiger:tlid" o="add" type="way" v="88765758" />
+    <tag id="6651343" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6651343" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6651343" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6651343" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6651343" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="6657846" k="highway" o="add" type="way" v="residential" />
+    <tag id="6657846" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6657846" k="tiger:tlid" o="add" type="way" v="88765761:88765762" />
+    <tag id="6657846" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6657846" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6657846" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6657846" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6657846" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="6657875" k="access" o="add" type="way" v="private" />
+    <tag id="6657875" k="highway" o="add" type="way" v="service" />
+    <tag id="6657875" k="tiger:cfcc" o="add" type="way" v="A74" />
+    <tag id="6657875" k="tiger:tlid" o="add" type="way" v="88765763" />
+    <tag id="6657875" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6657875" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6657875" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6657875" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
     <tag id="6667822" k="highway" o="add" type="way" v="service" />
     <tag id="6667822" k="service" o="add" type="way" v="driveway" />
     <tag id="6667822" k="tiger:cfcc" o="add" type="way" v="A63" />
@@ -86,169 +67,188 @@
     <tag id="6667826" k="tiger:cfcc" o="add" type="way" v="A63" />
     <tag id="6667826" k="tiger:county" o="add" type="way" v="York, PA" />
     <tag id="6667826" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6657846" k="highway" o="add" type="way" v="residential" />
-    <tag id="6657846" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6657846" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6657846" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6657846" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6657846" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6657846" k="tiger:tlid" o="add" type="way" v="88765761:88765762" />
-    <tag id="6657846" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="6657875" k="access" o="add" type="way" v="private" />
-    <tag id="6657875" k="highway" o="add" type="way" v="service" />
-    <tag id="6657875" k="tiger:cfcc" o="add" type="way" v="A74" />
-    <tag id="6657875" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6657875" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6657875" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6657875" k="tiger:tlid" o="add" type="way" v="88765763" />
-    <tag id="6657875" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="6650439" k="highway" o="add" type="way" v="residential" />
-    <tag id="6650439" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6650439" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6650439" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6650439" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6650439" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6650439" k="tiger:tlid" o="add" type="way" v="88773903" />
-    <tag id="6650439" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="6651343" k="highway" o="add" type="way" v="residential" />
-    <tag id="6651343" k="tiger:cfcc" o="add" type="way" v="A41" />
-    <tag id="6651343" k="tiger:county" o="add" type="way" v="York, PA" />
-    <tag id="6651343" k="tiger:reviewed" o="add" type="way" v="no" />
-    <tag id="6651343" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6651343" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6651343" k="tiger:tlid" o="add" type="way" v="88765758" />
-    <tag id="6651343" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="249020823" k="addr:city" o="none" type="way" v="New Freedom" />
-    <tag id="249020823" k="addr:housenumber" o="none" type="way" v="1000" />
-    <tag id="249020823" k="addr:postcode" o="none" type="way" v="17349" />
-    <tag id="249020823" k="addr:street" o="none" type="way" v="Far Hills Drive" />
-    <tag id="249020823" k="building" o="none" type="way" v="yes" />
-    <tag id="249020823" k="tourism" o="none" type="way" v="hotel" />
-    <tag id="38511817" k="admin_level" o="none" type="way" v="8" />
-    <tag id="38511817" k="boundary" o="none" type="way" v="administrative" />
-    <tag id="38511817" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
-    <tag id="235202807" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="235202807" k="name" o="none" type="way" v="Mount Airy Road" />
-    <tag id="235202807" k="ref" o="none" type="way" v="SR 2097" />
-    <tag id="235202807" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="235202807" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="235202807" k="tiger:name_base" o="none" type="way" v="Mount Airy" />
-    <tag id="235202807" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="235202807" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="235202807" k="tiger:zip_left" o="none" type="way" v="17361" />
-    <tag id="235202807" k="tiger:zip_right" o="none" type="way" v="17361" />
-    <tag id="38489300" k="admin_level" o="none" type="way" v="8" />
-    <tag id="38489300" k="boundary" o="none" type="way" v="administrative" />
-    <tag id="38489300" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
-    <tag id="6724545" k="highway" o="none" type="way" v="primary" />
-    <tag id="6724545" k="name" o="none" type="way" v="Main Street" />
-    <tag id="6724545" k="name_1" o="none" type="way" v="State Route 3001" />
-    <tag id="6724545" k="old_ref" o="none" type="way" v="US 111" />
-    <tag id="6724545" k="old_ref_legislative" o="none" type="way" v="127" />
-    <tag id="6724545" k="ref" o="none" type="way" v="SR 3001" />
-    <tag id="6724545" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6724545" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6724545" k="tiger:name_base" o="none" type="way" v="Main" />
-    <tag id="6724545" k="tiger:name_base_1" o="none" type="way" v="State Route 3001" />
-    <tag id="6724545" k="tiger:name_type" o="none" type="way" v="St" />
-    <tag id="6724545" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6724545" k="tiger:separated" o="add" type="way" v="no" />
-    <tag id="6724545" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
-    <tag id="6724545" k="tiger:tlid" o="add" type="way" v="88723856:88723858:88741543" />
-    <tag id="6724545" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
-    <tag id="6717843" k="highway" o="none" type="way" v="residential" />
-    <tag id="6717843" k="name" o="none" type="way" v="Bradley Court" />
-    <tag id="6717843" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6717843" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6717843" k="tiger:name_base" o="none" type="way" v="Bradley" />
-    <tag id="6717843" k="tiger:name_type" o="none" type="way" v="Ct" />
-    <tag id="6717843" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6715755" k="highway" o="none" type="way" v="residential" />
-    <tag id="6715755" k="name" o="none" type="way" v="Bartenslager Road" />
-    <tag id="6715755" k="name_1" o="none" type="way" v="T423" />
-    <tag id="6715755" k="ref" o="none" type="way" v="T423" />
-    <tag id="6715755" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6715755" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6715755" k="tiger:name_base" o="none" type="way" v="Bartenslager" />
-    <tag id="6715755" k="tiger:name_base_1" o="none" type="way" v="T423" />
-    <tag id="6715755" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="6715755" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6715755" k="tiger:zip_left" o="none" type="way" v="17349" />
-    <tag id="6715755" k="tiger:zip_right" o="none" type="way" v="17349" />
-    <tag id="6707985" k="highway" o="none" type="way" v="residential" />
-    <tag id="6707985" k="name" o="none" type="way" v="J &amp; B Lane" />
-    <tag id="6707985" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6707985" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6707985" k="tiger:name_base" o="none" type="way" v="J &amp; B" />
-    <tag id="6707985" k="tiger:name_type" o="none" type="way" v="Ln" />
-    <tag id="6707985" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6707985" k="tiger:zip_left" o="none" type="way" v="17349" />
-    <tag id="6699793" k="highway" o="none" type="way" v="residential" />
-    <tag id="6699793" k="name" o="none" type="way" v="Davis Road" />
-    <tag id="6699793" k="name_1" o="none" type="way" v="T545" />
-    <tag id="6699793" k="ref" o="none" type="way" v="T545" />
-    <tag id="6699793" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6699793" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6699793" k="tiger:name_base" o="none" type="way" v="Davis" />
-    <tag id="6699793" k="tiger:name_base_1" o="none" type="way" v="T545" />
-    <tag id="6699793" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="6699793" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6699793" k="tiger:zip_left" o="none" type="way" v="17363" />
-    <tag id="6699793" k="tiger:zip_right" o="none" type="way" v="17363" />
-    <tag id="6699378" k="highway" o="none" type="way" v="residential" />
-    <tag id="6699378" k="name" o="none" type="way" v="Brose Road" />
-    <tag id="6699378" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6699378" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6699378" k="tiger:name_base" o="none" type="way" v="Brose" />
-    <tag id="6699378" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="6699378" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6699378" k="tiger:zip_left" o="none" type="way" v="17349" />
-    <tag id="6699378" k="tiger:zip_right" o="none" type="way" v="17349" />
-    <tag id="6698984" k="highway" o="none" type="way" v="residential" />
-    <tag id="6698984" k="name" o="none" type="way" v="Gemmill Road" />
-    <tag id="6698984" k="name_1" o="none" type="way" v="T429" />
-    <tag id="6698984" k="ref" o="none" type="way" v="T429" />
-    <tag id="6698984" k="tiger:cfcc" o="none" type="way" v="A41" />
-    <tag id="6698984" k="tiger:county" o="none" type="way" v="York, PA" />
-    <tag id="6698984" k="tiger:name_base" o="none" type="way" v="Gemmill" />
-    <tag id="6698984" k="tiger:name_base_1" o="none" type="way" v="T429" />
-    <tag id="6698984" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="6698984" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="6698984" k="tiger:zip_left" o="none" type="way" v="17363" />
-    <tag id="6698984" k="tiger:zip_right" o="none" type="way" v="17363" />
-    <tag id="6688586" k="highway" o="none" type="way" v="residential" />
+    <tag id="6669100" k="highway" o="add" type="way" v="residential" />
+    <tag id="6669100" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6669100" k="tiger:tlid" o="add" type="way" v="88765780" />
+    <tag id="6669100" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6669100" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6669100" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6669100" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6669100" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="6669140" k="highway" o="add" type="way" v="residential" />
+    <tag id="6669140" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6669140" k="tiger:tlid" o="add" type="way" v="88765783" />
+    <tag id="6669140" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6669140" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6669140" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6669140" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6669140" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="6669200" k="highway" o="add" type="way" v="residential" />
+    <tag id="6669200" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6669200" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6669200" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6669223" k="highway" o="add" type="way" v="residential" />
+    <tag id="6669223" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6669223" k="tiger:tlid" o="add" type="way" v="88765789" />
+    <tag id="6669223" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6669223" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6669223" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6669223" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6669223" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
     <tag id="6688586" k="name" o="none" type="way" v="Deer Creek Road" />
+    <tag id="6688586" k="highway" o="none" type="way" v="residential" />
     <tag id="6688586" k="tiger:cfcc" o="none" type="way" v="A41" />
     <tag id="6688586" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6688586" k="tiger:reviewed" o="none" type="way" v="no" />
     <tag id="6688586" k="tiger:name_base" o="none" type="way" v="Deer Creek" />
     <tag id="6688586" k="tiger:name_type" o="none" type="way" v="Rd" />
-    <tag id="6688586" k="tiger:reviewed" o="none" type="way" v="no" />
-    <tag id="188871" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="188871" k="border_type" o="none" type="relation" v="borough" />
-    <tag id="188871" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="188871" k="is_in" o="none" type="relation" v="USA, Pennsylvania" />
-    <tag id="188871" k="is_in:country" o="none" type="relation" v="USA" />
-    <tag id="188871" k="is_in:country_code" o="none" type="relation" v="US" />
-    <tag id="188871" k="is_in:iso_3166_2" o="none" type="relation" v="US:PA" />
-    <tag id="188871" k="is_in:state" o="none" type="relation" v="Pennsylvania" />
-    <tag id="188871" k="is_in:state_code" o="none" type="relation" v="PA" />
+    <tag id="6698984" k="ref" o="none" type="way" v="T429" />
+    <tag id="6698984" k="name" o="none" type="way" v="Gemmill Road" />
+    <tag id="6698984" k="name_1" o="none" type="way" v="T429" />
+    <tag id="6698984" k="highway" o="none" type="way" v="residential" />
+    <tag id="6698984" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6698984" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6698984" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6698984" k="tiger:zip_left" o="none" type="way" v="17363" />
+    <tag id="6698984" k="tiger:name_base" o="none" type="way" v="Gemmill" />
+    <tag id="6698984" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6698984" k="tiger:zip_right" o="none" type="way" v="17363" />
+    <tag id="6698984" k="tiger:name_base_1" o="none" type="way" v="T429" />
+    <tag id="6699378" k="name" o="none" type="way" v="Brose Road" />
+    <tag id="6699378" k="highway" o="none" type="way" v="residential" />
+    <tag id="6699378" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6699378" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6699378" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6699378" k="tiger:zip_left" o="none" type="way" v="17349" />
+    <tag id="6699378" k="tiger:name_base" o="none" type="way" v="Brose" />
+    <tag id="6699378" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6699378" k="tiger:zip_right" o="none" type="way" v="17349" />
+    <tag id="6699793" k="ref" o="none" type="way" v="T545" />
+    <tag id="6699793" k="name" o="none" type="way" v="Davis Road" />
+    <tag id="6699793" k="name_1" o="none" type="way" v="T545" />
+    <tag id="6699793" k="highway" o="none" type="way" v="residential" />
+    <tag id="6699793" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6699793" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6699793" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6699793" k="tiger:zip_left" o="none" type="way" v="17363" />
+    <tag id="6699793" k="tiger:name_base" o="none" type="way" v="Davis" />
+    <tag id="6699793" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6699793" k="tiger:zip_right" o="none" type="way" v="17363" />
+    <tag id="6699793" k="tiger:name_base_1" o="none" type="way" v="T545" />
+    <tag id="6704011" k="name" o="add" type="way" v="Nuthatch Hill Court" />
+    <tag id="6704011" k="access" o="add" type="way" v="private" />
+    <tag id="6704011" k="highway" o="add" type="way" v="service" />
+    <tag id="6704011" k="tiger:cfcc" o="add" type="way" v="A74" />
+    <tag id="6704011" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6704011" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6704011" k="tiger:name_base" o="add" type="way" v="Nuthatch Hill" />
+    <tag id="6704011" k="tiger:name_type" o="add" type="way" v="Ct" />
+    <tag id="6704025" k="name" o="add" type="way" v="Nuthatch Hill Court" />
+    <tag id="6704025" k="access" o="add" type="way" v="private" />
+    <tag id="6704025" k="highway" o="add" type="way" v="service" />
+    <tag id="6704025" k="tiger:cfcc" o="add" type="way" v="A74" />
+    <tag id="6704025" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6704025" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6704025" k="tiger:name_base" o="add" type="way" v="Nuthatch Hill" />
+    <tag id="6704025" k="tiger:name_type" o="add" type="way" v="Ct" />
+    <tag id="6707985" k="name" o="none" type="way" v="J &amp; B Lane" />
+    <tag id="6707985" k="highway" o="none" type="way" v="residential" />
+    <tag id="6707985" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6707985" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6707985" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6707985" k="tiger:zip_left" o="none" type="way" v="17349" />
+    <tag id="6707985" k="tiger:name_base" o="none" type="way" v="J &amp; B" />
+    <tag id="6707985" k="tiger:name_type" o="none" type="way" v="Ln" />
+    <tag id="6715755" k="ref" o="none" type="way" v="T423" />
+    <tag id="6715755" k="name" o="none" type="way" v="Bartenslager Road" />
+    <tag id="6715755" k="name_1" o="none" type="way" v="T423" />
+    <tag id="6715755" k="highway" o="none" type="way" v="residential" />
+    <tag id="6715755" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6715755" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6715755" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6715755" k="tiger:zip_left" o="none" type="way" v="17349" />
+    <tag id="6715755" k="tiger:name_base" o="none" type="way" v="Bartenslager" />
+    <tag id="6715755" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="6715755" k="tiger:zip_right" o="none" type="way" v="17349" />
+    <tag id="6715755" k="tiger:name_base_1" o="none" type="way" v="T423" />
+    <tag id="6717829" k="name" o="add" type="way" v="Bradley Court" />
+    <tag id="6717829" k="highway" o="add" type="way" v="residential" />
+    <tag id="6717829" k="tiger:cfcc" o="add" type="way" v="A41" />
+    <tag id="6717829" k="tiger:county" o="add" type="way" v="York, PA" />
+    <tag id="6717829" k="tiger:reviewed" o="add" type="way" v="no" />
+    <tag id="6717829" k="tiger:name_base" o="add" type="way" v="Bradley" />
+    <tag id="6717829" k="tiger:name_type" o="add" type="way" v="Ct" />
+    <tag id="6717843" k="name" o="none" type="way" v="Bradley Court" />
+    <tag id="6717843" k="highway" o="none" type="way" v="residential" />
+    <tag id="6717843" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6717843" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6717843" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6717843" k="tiger:name_base" o="none" type="way" v="Bradley" />
+    <tag id="6717843" k="tiger:name_type" o="none" type="way" v="Ct" />
+    <tag id="6724545" k="ref" o="none" type="way" v="SR 3001" />
+    <tag id="6724545" k="name" o="none" type="way" v="Main Street" />
+    <tag id="6724545" k="name_1" o="none" type="way" v="State Route 3001" />
+    <tag id="6724545" k="highway" o="none" type="way" v="primary" />
+    <tag id="6724545" k="old_ref" o="none" type="way" v="US 111" />
+    <tag id="6724545" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="6724545" k="tiger:tlid" o="add" type="way" v="88723856:88723858:88741543" />
+    <tag id="6724545" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="6724545" k="tiger:source" o="add" type="way" v="tiger_import_dch_v0.6_20070829" />
+    <tag id="6724545" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="6724545" k="tiger:name_base" o="none" type="way" v="Main" />
+    <tag id="6724545" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="6724545" k="tiger:separated" o="add" type="way" v="no" />
+    <tag id="6724545" k="tiger:name_base_1" o="none" type="way" v="State Route 3001" />
+    <tag id="6724545" k="tiger:upload_uuid" o="add" type="way" v="bulk_upload.pl-bbb3967e-276f-4248-a829-3579c4d7e73a" />
+    <tag id="6724545" k="old_ref_legislative" o="none" type="way" v="127" />
+    <tag id="38489300" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="38489300" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="38489300" k="admin_level" o="none" type="way" v="8" />
+    <tag id="38511817" k="source" o="none" type="way" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
+    <tag id="38511817" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="38511817" k="admin_level" o="none" type="way" v="8" />
+    <tag id="235202807" k="ref" o="none" type="way" v="SR 2097" />
+    <tag id="235202807" k="name" o="none" type="way" v="Mount Airy Road" />
+    <tag id="235202807" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="235202807" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="235202807" k="tiger:county" o="none" type="way" v="York, PA" />
+    <tag id="235202807" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="235202807" k="tiger:zip_left" o="none" type="way" v="17361" />
+    <tag id="235202807" k="tiger:name_base" o="none" type="way" v="Mount Airy" />
+    <tag id="235202807" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="235202807" k="tiger:zip_right" o="none" type="way" v="17361" />
+    <tag id="249020823" k="tourism" o="none" type="way" v="hotel" />
+    <tag id="249020823" k="building" o="none" type="way" v="yes" />
+    <tag id="249020823" k="addr:city" o="none" type="way" v="New Freedom" />
+    <tag id="249020823" k="addr:street" o="none" type="way" v="Far Hills Drive" />
+    <tag id="249020823" k="addr:postcode" o="none" type="way" v="17349" />
+    <tag id="249020823" k="addr:housenumber" o="none" type="way" v="1000" />
     <tag id="188871" k="name" o="none" type="relation" v="Shrewsbury" />
+    <tag id="188871" k="type" o="none" type="relation" v="boundary" />
+    <tag id="188871" k="is_in" o="none" type="relation" v="USA, Pennsylvania" />
     <tag id="188871" k="place" o="none" type="relation" v="borough" />
     <tag id="188871" k="source" o="none" type="relation" v="TIGER/Line&#174; 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)" />
-    <tag id="188871" k="tiger:CLASSFP" o="none" type="relation" v="C5" />
+    <tag id="188871" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="188871" k="tiger:CPI" o="none" type="relation" v="Y" />
-    <tag id="188871" k="tiger:FUNCSTAT" o="none" type="relation" v="A" />
+    <tag id="188871" k="wikipedia" o="none" type="relation" v="en:Shrewsbury, Pennsylvania" />
     <tag id="188871" k="tiger:LSAD" o="none" type="relation" v="21" />
-    <tag id="188871" k="tiger:MTFCC" o="none" type="relation" v="G4110" />
     <tag id="188871" k="tiger:NAME" o="none" type="relation" v="Shrewsbury" />
-    <tag id="188871" k="tiger:NAMELSAD" o="none" type="relation" v="Shrewsbury borough" />
+    <tag id="188871" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="188871" k="border_type" o="none" type="relation" v="borough" />
+    <tag id="188871" k="is_in:state" o="none" type="relation" v="Pennsylvania" />
+    <tag id="188871" k="tiger:MTFCC" o="none" type="relation" v="G4110" />
+    <tag id="188871" k="is_in:country" o="none" type="relation" v="USA" />
+    <tag id="188871" k="tiger:CLASSFP" o="none" type="relation" v="C5" />
     <tag id="188871" k="tiger:PCICBSA" o="none" type="relation" v="N" />
-    <tag id="188871" k="tiger:PCINECTA" o="none" type="relation" v="N" />
     <tag id="188871" k="tiger:PLACEFP" o="none" type="relation" v="70568" />
     <tag id="188871" k="tiger:PLACENS" o="none" type="relation" v="01215761" />
     <tag id="188871" k="tiger:PLCIDFP" o="none" type="relation" v="4270568" />
     <tag id="188871" k="tiger:STATEFP" o="none" type="relation" v="42" />
-    <tag id="188871" k="type" o="none" type="relation" v="boundary" />
-    <tag id="188871" k="wikipedia" o="none" type="relation" v="en:Shrewsbury, Pennsylvania" />
+    <tag id="188871" k="tiger:FUNCSTAT" o="none" type="relation" v="A" />
+    <tag id="188871" k="tiger:NAMELSAD" o="none" type="relation" v="Shrewsbury borough" />
+    <tag id="188871" k="tiger:PCINECTA" o="none" type="relation" v="N" />
+    <tag id="188871" k="is_in:iso_3166_2" o="none" type="relation" v="US:PA" />
+    <tag id="188871" k="is_in:state_code" o="none" type="relation" v="PA" />
+    <tag id="188871" k="is_in:country_code" o="none" type="relation" v="US" />
   </body>
 </changeset>

@@ -1,51 +1,51 @@
 <changeset id="41848533" schema="2">
-  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="5" waysAdded="1" waysDeleted="1" waysModified="1" />
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="5" waysAdded="1" waysDeleted="1" waysModified="2" />
   <meta>
     <tag k="comment" v="Kartenfehler Nr. 564244, Abiegeverbot" />
     <tag k="created_by" v="JOSM/1.5 (10161 de)" />
   </meta>
   <body>
-    <tag id="440194768" k="highway" o="add" type="way" v="primary" />
-    <tag id="440194768" k="lit" o="add" type="way" v="yes" />
-    <tag id="440194768" k="maxspeed" o="add" type="way" v="50" />
-    <tag id="440194768" k="name" o="add" type="way" v="Worblaufenstrasse" />
-    <tag id="440194768" k="ref" o="add" type="way" v="6" />
-    <tag id="6548427" k="restriction" o="add" type="relation" v="no_left_turn" />
-    <tag id="6548427" k="type" o="add" type="relation" v="restriction" />
-    <tag id="249192026" k="highway" o="none" type="way" v="primary" />
     <tag id="249192026" k="lit" o="none" type="way" v="yes" />
-    <tag id="249192026" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="249192026" k="name" o="none" type="way" v="Worblaufenstrasse" />
     <tag id="249192026" k="ref" o="none" type="way" v="6" />
-    <tag id="3351901" k="landuse" o="none" type="relation" v="commercial" />
-    <tag id="3351901" k="type" o="none" type="relation" v="multipolygon" />
-    <tag id="2566543" k="alt_name" o="none" type="relation" v="&#214;V Linie RBS" />
-    <tag id="2566543" k="from" o="none" type="relation" v="M&#252;nchenbuchsee, H&#252;slimoos" />
-    <tag id="2566543" k="name" o="none" type="relation" v="Bus Linie 36: M&#252;chenbuchsee =&gt; Bern Breitenrain" />
-    <tag id="2566543" k="network" o="none" type="relation" v="Libero" />
-    <tag id="2566543" k="operator" o="none" type="relation" v="RBS Regionalverkehr Bern-Solothurn" />
-    <tag id="2566543" k="public_transport:version" o="none" type="relation" v="2" />
-    <tag id="2566543" k="ref" o="none" type="relation" v="36" />
-    <tag id="2566543" k="route" o="none" type="relation" v="bus" />
-    <tag id="2566543" k="to" o="none" type="relation" v="Bern, Breitenrain" />
-    <tag id="2566543" k="type" o="none" type="relation" v="route" />
-    <tag id="2566543" k="via" o="none" type="relation" v="Zollikofen - Worblaufen" />
-    <tag id="2552314" k="alt_name" o="none" type="relation" v="&#214;V Linie RBS" />
+    <tag id="249192026" k="name" o="none" type="way" v="Worblaufenstrasse" />
+    <tag id="249192026" k="highway" o="none" type="way" v="primary" />
+    <tag id="249192026" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="440194768" k="lit" o="add" type="way" v="yes" />
+    <tag id="440194768" k="ref" o="add" type="way" v="6" />
+    <tag id="440194768" k="name" o="add" type="way" v="Worblaufenstrasse" />
+    <tag id="440194768" k="highway" o="add" type="way" v="primary" />
+    <tag id="440194768" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="2552314" k="to" o="none" type="relation" v="M&#252;nchenbuchsee, H&#252;slimoos" />
+    <tag id="2552314" k="ref" o="none" type="relation" v="36" />
+    <tag id="2552314" k="via" o="none" type="relation" v="Worblaufen - Zollikofen" />
     <tag id="2552314" k="from" o="none" type="relation" v="Bern, Breitenrain" />
     <tag id="2552314" k="name" o="none" type="relation" v="Bus Linie 36: Bern Breitenrain =&gt; M&#252;nchenbuchsee" />
+    <tag id="2552314" k="type" o="none" type="relation" v="route" />
+    <tag id="2552314" k="route" o="none" type="relation" v="bus" />
     <tag id="2552314" k="network" o="none" type="relation" v="Libero" />
+    <tag id="2552314" k="alt_name" o="none" type="relation" v="&#214;V Linie RBS" />
     <tag id="2552314" k="operator" o="none" type="relation" v="RBS Regionalverkehr Bern-Solothurn" />
     <tag id="2552314" k="public_transport:version" o="none" type="relation" v="2" />
-    <tag id="2552314" k="ref" o="none" type="relation" v="36" />
-    <tag id="2552314" k="route" o="none" type="relation" v="bus" />
-    <tag id="2552314" k="to" o="none" type="relation" v="M&#252;nchenbuchsee, H&#252;slimoos" />
-    <tag id="2552314" k="type" o="none" type="relation" v="route" />
-    <tag id="2552314" k="via" o="none" type="relation" v="Worblaufen - Zollikofen" />
-    <tag id="3340494" k="name" o="none" type="relation" v="Hauptstrasse 6" />
-    <tag id="3340494" k="route" o="none" type="relation" v="road" />
-    <tag id="3340494" k="type" o="none" type="relation" v="route" />
-    <tag id="3340494" k="wikipedia" o="none" type="relation" v="de:Hauptstrasse 6" />
+    <tag id="2566543" k="to" o="none" type="relation" v="Bern, Breitenrain" />
+    <tag id="2566543" k="ref" o="none" type="relation" v="36" />
+    <tag id="2566543" k="via" o="none" type="relation" v="Zollikofen - Worblaufen" />
+    <tag id="2566543" k="from" o="none" type="relation" v="M&#252;nchenbuchsee, H&#252;slimoos" />
+    <tag id="2566543" k="name" o="none" type="relation" v="Bus Linie 36: M&#252;chenbuchsee =&gt; Bern Breitenrain" />
+    <tag id="2566543" k="type" o="none" type="relation" v="route" />
+    <tag id="2566543" k="route" o="none" type="relation" v="bus" />
+    <tag id="2566543" k="network" o="none" type="relation" v="Libero" />
+    <tag id="2566543" k="alt_name" o="none" type="relation" v="&#214;V Linie RBS" />
+    <tag id="2566543" k="operator" o="none" type="relation" v="RBS Regionalverkehr Bern-Solothurn" />
+    <tag id="2566543" k="public_transport:version" o="none" type="relation" v="2" />
     <tag id="3090943" k="name" o="none" type="relation" v="Worblaufenstrasse" />
     <tag id="3090943" k="type" o="none" type="relation" v="associatedStreet" />
+    <tag id="3340494" k="name" o="none" type="relation" v="Hauptstrasse 6" />
+    <tag id="3340494" k="type" o="none" type="relation" v="route" />
+    <tag id="3340494" k="route" o="none" type="relation" v="road" />
+    <tag id="3340494" k="wikipedia" o="none" type="relation" v="de:Hauptstrasse 6" />
+    <tag id="3351901" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="3351901" k="landuse" o="none" type="relation" v="commercial" />
+    <tag id="6548427" k="type" o="add" type="relation" v="restriction" />
+    <tag id="6548427" k="restriction" o="add" type="relation" v="no_left_turn" />
   </body>
 </changeset>

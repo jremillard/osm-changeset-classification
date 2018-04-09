@@ -1,1 +1,16 @@
-<changeset id="55799464" schema="1"><counts nodesAdded="4" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="0" /><meta><tag k="changesets_count" v="1295" /><tag k="comment" v="Terrain update" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Belgium AGIV Orthophoto Flanders;Belgium AGIV GRB Flanders" /><tag k="locale" v="nl" /></meta><body><tag id="556229788" k="building" o="add" type="way" v="yes" /><tag id="710729433" k="direction" o="add" type="node" v="forward" /></body></changeset>
+<changeset id="55799464" schema="2">
+  <counts nodesAdded="4" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="1295" />
+    <tag k="comment" v="Terrain update" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Belgium AGIV Orthophoto Flanders;Belgium AGIV GRB Flanders" />
+    <tag k="locale" v="nl" />
+  </meta>
+  <body>
+    <tag id="710729433" k="highway" o="none" type="node" v="give_way" />
+    <tag id="710729433" k="direction" o="add" type="node" v="forward" />
+    <tag id="556229788" k="building" o="add" type="way" v="yes" />
+  </body>
+</changeset>

@@ -1,1 +1,31 @@
-<changeset id="55694439" schema="1"><counts nodesAdded="14" nodesModified="33" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="4" /><meta><tag k="changesets_count" v="285" /><tag k="comment" v="Created buildings, service roads, and parking aisles based on aerial imagery." /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="555272425" k="building" o="add" type="way" v="yes" /><tag id="555272426" k="highway" o="add" type="way" v="service" /><tag id="554365290" k="building" o="add" type="way" v="yes" /><tag id="554365290" k="parking" o="add" type="way" v="multi-storey" /></body></changeset>
+<changeset id="55694439" schema="2">
+  <counts nodesAdded="14" nodesDeleted="4" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="4" />
+  <meta>
+    <tag k="changesets_count" v="285" />
+    <tag k="comment" v="Created buildings, service roads, and parking aisles based on aerial imagery." />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="177553828" k="name" o="none" type="way" v="South Grand Central Parkway" />
+    <tag id="177553828" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="177553828" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="177553828" k="tiger:county" o="none" type="way" v="Clark, NV" />
+    <tag id="177553828" k="tiger:name_base" o="none" type="way" v="Grand Central" />
+    <tag id="177553828" k="tiger:name_type" o="none" type="way" v="Pky" />
+    <tag id="177553828" k="tiger:name_direction_prefix" o="none" type="way" v="S" />
+    <tag id="226508856" k="name" o="none" type="way" v="Clark County Government Center" />
+    <tag id="226508856" k="source" o="none" type="way" v="Bing" />
+    <tag id="226508856" k="building" o="none" type="way" v="public" />
+    <tag id="226508856" k="building:levels" o="none" type="way" v="6" />
+    <tag id="226508856" k="gnis:feature_id" o="none" type="way" v="2472927" />
+    <tag id="238469718" k="leisure" o="none" type="way" v="park" />
+    <tag id="554365290" k="amenity" o="none" type="way" v="parking" />
+    <tag id="554365290" k="parking" o="add" type="way" v="multi-storey" />
+    <tag id="554365290" k="building" o="add" type="way" v="yes" />
+    <tag id="555272425" k="building" o="add" type="way" v="yes" />
+    <tag id="555272426" k="highway" o="add" type="way" v="service" />
+  </body>
+</changeset>

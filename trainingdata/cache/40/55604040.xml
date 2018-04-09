@@ -1,1 +1,30 @@
-<changeset id="55604040" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="4" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="build" v="2.5-21-gec1befed" /><tag k="created_by" v="Potlatch 2" /><tag k="version" v="2.5" /></meta><body><tag id="7918458" k="network" o="add" type="relation" v="nwn" /><tag id="7918458" k="route" o="add" type="relation" v="hiking" /><tag id="7918458" k="type" o="add" type="relation" v="route" /><tag id="7918460" k="network" o="add" type="relation" v="rwn" /><tag id="7918460" k="route" o="add" type="relation" v="hiking" /><tag id="7918460" k="type" o="add" type="relation" v="route" /><tag id="7918473" k="network" o="add" type="relation" v="rwn" /><tag id="7918473" k="route" o="add" type="relation" v="hiking" /><tag id="7918473" k="type" o="add" type="relation" v="route" /></body></changeset>
+<changeset id="55604040" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="4" relationsDeleted="1" relationsModified="1" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="build" v="2.5-21-gec1befed" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.5" />
+  </meta>
+  <body>
+    <tag id="413840235" k="foot" o="none" type="way" v="yes" />
+    <tag id="413840235" k="name" o="none" type="way" v="&#21271;&#23994;&#38706;&#29151;&#21312;&#25903;&#32218;" />
+    <tag id="413840235" k="type" o="none" type="way" v="route" />
+    <tag id="413840235" k="horse" o="none" type="way" v="no" />
+    <tag id="413840235" k="route" o="none" type="way" v="hiking" />
+    <tag id="413840235" k="access" o="none" type="way" v="no" />
+    <tag id="413840235" k="bicycle" o="none" type="way" v="no" />
+    <tag id="413840235" k="highway" o="none" type="way" v="footway" />
+    <tag id="413840235" k="name:zh" o="none" type="way" v="&#21271;&#23994;&#38706;&#29151;&#21312;&#25903;&#32218;" />
+    <tag id="413840235" k="network" o="none" type="way" v="rwn" />
+    <tag id="413840235" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="413840235" k="sac_scale" o="none" type="way" v="demanding_mountain_hiking" />
+    <tag id="413840235" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="413840235" k="trail_visibility" o="none" type="way" v="intermediate" />
+    <tag id="7918460" k="type" o="add" type="relation" v="route" />
+    <tag id="7918460" k="route" o="add" type="relation" v="hiking" />
+    <tag id="7918460" k="network" o="add" type="relation" v="rwn" />
+    <tag id="7918473" k="type" o="add" type="relation" v="route" />
+    <tag id="7918473" k="route" o="add" type="relation" v="hiking" />
+    <tag id="7918473" k="network" o="add" type="relation" v="rwn" />
+  </body>
+</changeset>

@@ -1,78 +1,78 @@
 <changeset id="45469105" schema="2">
-  <counts nodesAdded="0" nodesDeleted="106" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="6" waysModified="13" />
+  <counts nodesAdded="0" nodesDeleted="106" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="6" waysModified="19" />
   <meta>
     <tag k="comment" v="Revert changesets #45464960, #45465082 and #45465127 which contained obvious nonsense (or vandalism), detected by mapper Spanholz (thanks!)" />
     <tag k="created_by" v="reverter;JOSM/1.5 (11427 de)" />
     <tag k="source" v="existing OSM data; cf. https://forum.openstreetmap.org/viewtopic.php?pid=628006#p628006 #132" />
   </meta>
   <body>
-    <tag id="39858962" k="highway" o="none" type="way" v="service" />
-    <tag id="39858962" k="service" o="none" type="way" v="parking_aisle" />
-    <tag id="40713535" k="building" o="add" type="way" v="apartments" />
-    <tag id="40713535" k="building:levels" o="none" type="way" v="26" />
-    <tag id="40713535" k="height" o="none" type="way" v="81" />
-    <tag id="40713535" k="name" o="none" type="way" v="Riverview Tower" />
-    <tag id="133885651" k="leisure" o="modify" type="way" v="pitch" />
-    <tag id="133885651" k="name" o="none" type="way" v="West Bank Fields" />
-    <tag id="133885651" k="operator" o="none" type="way" v="University of Minnesota" />
-    <tag id="133885651" k="sport" o="add" type="way" v="baseball" />
-    <tag id="133885651" k="start_date" o="none" type="way" v="1971" />
-    <tag id="158119242" k="alt_name" o="none" type="way" v="1800 Apartments" />
-    <tag id="158119242" k="building" o="add" type="way" v="residential" />
-    <tag id="158119242" k="name" o="none" type="way" v="7 West" />
-    <tag id="158119242" k="website" o="none" type="way" v="http://liveat7west.com/" />
-    <tag id="39713009" k="building" o="add" type="way" v="yes" />
-    <tag id="39713009" k="layer" o="none" type="way" v="1" />
-    <tag id="39765251" k="building" o="add" type="way" v="apartments" />
-    <tag id="39858941" k="amenity" o="none" type="way" v="parking" />
-    <tag id="39713006" k="addr:city" o="none" type="way" v="Minneapolis" />
-    <tag id="39713006" k="addr:housenumber" o="none" type="way" v="1420" />
-    <tag id="39713006" k="addr:postcode" o="none" type="way" v="55454" />
-    <tag id="39713006" k="addr:state" o="none" type="way" v="MN" />
-    <tag id="39713006" k="addr:street" o="none" type="way" v="Washington Avenue South" />
-    <tag id="39713006" k="amenity" o="add" type="way" v="theatre" />
-    <tag id="39713006" k="building" o="add" type="way" v="yes" />
-    <tag id="39713006" k="name" o="none" type="way" v="The Southern Theater" />
-    <tag id="39713006" k="website" o="none" type="way" v="http://southerntheater.org" />
-    <tag id="39713011" k="amenity" o="add" type="way" v="parking" />
-    <tag id="39713011" k="building" o="none" type="way" v="yes" />
-    <tag id="39713011" k="fee" o="none" type="way" v="yes" />
-    <tag id="39713011" k="parking" o="none" type="way" v="multi-storey" />
-    <tag id="27346825" k="bicycle" o="none" type="way" v="no" />
-    <tag id="27346825" k="foot" o="none" type="way" v="no" />
     <tag id="27346825" k="hgv" o="none" type="way" v="designated" />
-    <tag id="27346825" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27346825" k="ref" o="none" type="way" v="I 35W" />
+    <tag id="27346825" k="foot" o="none" type="way" v="no" />
     <tag id="27346825" k="horse" o="none" type="way" v="no" />
     <tag id="27346825" k="lanes" o="none" type="way" v="4" />
-    <tag id="27346825" k="maxspeed" o="none" type="way" v="55 mph" />
     <tag id="27346825" k="oneway" o="none" type="way" v="yes" />
-    <tag id="27346825" k="ref" o="none" type="way" v="I 35W" />
+    <tag id="27346825" k="bicycle" o="none" type="way" v="no" />
+    <tag id="27346825" k="highway" o="none" type="way" v="motorway" />
+    <tag id="27346825" k="maxspeed" o="none" type="way" v="55 mph" />
     <tag id="27346825" k="sidewalk" o="none" type="way" v="none" />
     <tag id="27346825" k="tiger:cfcc" o="none" type="way" v="A15" />
     <tag id="27346825" k="tiger:name_base" o="none" type="way" v="I-35W" />
-    <tag id="313294053" k="leisure" o="modify" type="way" v="recreation_ground" />
-    <tag id="313294053" k="name" o="none" type="way" v="Recreational Sports and Softball Fields" />
+    <tag id="39713006" k="name" o="none" type="way" v="The Southern Theater" />
+    <tag id="39713006" k="amenity" o="add" type="way" v="theatre" />
+    <tag id="39713006" k="website" o="none" type="way" v="http://southerntheater.org" />
+    <tag id="39713006" k="building" o="add" type="way" v="yes" />
+    <tag id="39713006" k="addr:city" o="none" type="way" v="Minneapolis" />
+    <tag id="39713006" k="addr:state" o="none" type="way" v="MN" />
+    <tag id="39713006" k="addr:street" o="none" type="way" v="Washington Avenue South" />
+    <tag id="39713006" k="addr:postcode" o="none" type="way" v="55454" />
+    <tag id="39713006" k="addr:housenumber" o="none" type="way" v="1420" />
+    <tag id="39713009" k="layer" o="none" type="way" v="1" />
+    <tag id="39713009" k="building" o="add" type="way" v="yes" />
+    <tag id="39713011" k="fee" o="none" type="way" v="yes" />
+    <tag id="39713011" k="amenity" o="add" type="way" v="parking" />
+    <tag id="39713011" k="parking" o="none" type="way" v="multi-storey" />
+    <tag id="39713011" k="building" o="none" type="way" v="yes" />
+    <tag id="39765251" k="building" o="add" type="way" v="apartments" />
+    <tag id="39858941" k="amenity" o="none" type="way" v="parking" />
+    <tag id="39858962" k="highway" o="none" type="way" v="service" />
+    <tag id="39858962" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="40713535" k="name" o="none" type="way" v="Riverview Tower" />
+    <tag id="40713535" k="height" o="none" type="way" v="81" />
+    <tag id="40713535" k="building" o="add" type="way" v="apartments" />
+    <tag id="40713535" k="building:levels" o="none" type="way" v="26" />
+    <tag id="133885651" k="name" o="none" type="way" v="West Bank Fields" />
+    <tag id="133885651" k="sport" o="add" type="way" v="baseball" />
+    <tag id="133885651" k="leisure" o="modify" type="way" v="pitch" />
+    <tag id="133885651" k="operator" o="none" type="way" v="University of Minnesota" />
+    <tag id="133885651" k="start_date" o="none" type="way" v="1971" />
+    <tag id="158119242" k="name" o="none" type="way" v="7 West" />
+    <tag id="158119242" k="website" o="none" type="way" v="http://liveat7west.com/" />
+    <tag id="158119242" k="alt_name" o="none" type="way" v="1800 Apartments" />
+    <tag id="158119242" k="building" o="add" type="way" v="residential" />
+    <tag id="177926554" k="oneway" o="none" type="way" v="yes" />
     <tag id="177926554" k="highway" o="none" type="way" v="motorway_link" />
     <tag id="177926554" k="history" o="none" type="way" v="Retrieved from v1" />
     <tag id="177926554" k="maxspeed" o="none" type="way" v="30 mph" />
-    <tag id="177926554" k="oneway" o="none" type="way" v="yes" />
-    <tag id="255808950" k="addr:city" o="none" type="way" v="Minneapolis" />
-    <tag id="255808950" k="addr:country" o="none" type="way" v="US" />
-    <tag id="255808950" k="addr:housenumber" o="none" type="way" v="229" />
-    <tag id="255808950" k="addr:postcode" o="none" type="way" v="55455" />
-    <tag id="255808950" k="addr:state" o="none" type="way" v="MN" />
-    <tag id="255808950" k="addr:street" o="none" type="way" v="19th Avenue South" />
-    <tag id="255808950" k="building" o="add" type="way" v="yes" />
     <tag id="255808950" k="name" o="none" type="way" v="Walter F Mondale Hall" />
-    <tag id="255808950" k="name:zh" o="none" type="way" v="&#27779;&#29305;&#33945;&#20195;&#23572;&#27004;" />
-    <tag id="255808950" k="official_name" o="none" type="way" v="Walter F Mondale Hall" />
-    <tag id="255808950" k="operator" o="none" type="way" v="University of Minnesota" />
-    <tag id="255808950" k="short_name" o="none" type="way" v="MondaleH" />
     <tag id="255808950" k="source" o="none" type="way" v="UMN Final Data.xlsx 2014-03-07" />
+    <tag id="255808950" k="name:zh" o="none" type="way" v="&#27779;&#29305;&#33945;&#20195;&#23572;&#27004;" />
+    <tag id="255808950" k="building" o="add" type="way" v="yes" />
+    <tag id="255808950" k="operator" o="none" type="way" v="University of Minnesota" />
+    <tag id="255808950" k="addr:city" o="none" type="way" v="Minneapolis" />
+    <tag id="255808950" k="addr:state" o="none" type="way" v="MN" />
+    <tag id="255808950" k="short_name" o="none" type="way" v="MondaleH" />
     <tag id="255808950" k="start_date" o="none" type="way" v="1975" />
+    <tag id="255808950" k="addr:street" o="none" type="way" v="19th Avenue South" />
+    <tag id="255808950" k="addr:country" o="none" type="way" v="US" />
+    <tag id="255808950" k="addr:postcode" o="none" type="way" v="55455" />
+    <tag id="255808950" k="official_name" o="none" type="way" v="Walter F Mondale Hall" />
+    <tag id="255808950" k="addr:housenumber" o="none" type="way" v="229" />
+    <tag id="255808950" k="umn:CampusNumber" o="none" type="way" v="1" />
+    <tag id="255808950" k="umn:BuildingNumber" o="none" type="way" v="211" />
     <tag id="255808950" k="umn:BuildingCenterXYLatitude" o="none" type="way" v="44.973203" />
     <tag id="255808950" k="umn:BuildingCenterXYLongitude" o="none" type="way" v="-93.244634" />
-    <tag id="255808950" k="umn:BuildingNumber" o="none" type="way" v="211" />
-    <tag id="255808950" k="umn:CampusNumber" o="none" type="way" v="1" />
+    <tag id="313294053" k="name" o="none" type="way" v="Recreational Sports and Softball Fields" />
+    <tag id="313294053" k="leisure" o="modify" type="way" v="recreation_ground" />
   </body>
 </changeset>

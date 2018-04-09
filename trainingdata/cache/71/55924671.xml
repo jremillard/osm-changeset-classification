@@ -1,1 +1,14 @@
-<changeset id="55924671" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="2" /><meta><tag k="comment" v="Downgraded teritary to unclassfied" /><tag k="created_by" v="JOSM/1.5 (13053 en)" /><tag k="source" v="Bing" /></meta><body><tag id="395738010" k="highway" o="modify" type="way" v="unclassified" /></body></changeset>
+<changeset id="55924671" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Downgraded teritary to unclassfied" />
+    <tag k="created_by" v="JOSM/1.5 (13053 en)" />
+    <tag k="source" v="Bing" />
+  </meta>
+  <body>
+    <tag id="237167138" k="highway" o="none" type="way" v="secondary" />
+    <tag id="237167138" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="395738010" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="395738010" k="surface" o="none" type="way" v="unpaved" />
+  </body>
+</changeset>

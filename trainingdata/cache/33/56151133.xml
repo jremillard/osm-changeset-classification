@@ -1,1 +1,19 @@
-<changeset id="56151133" schema="1"><counts nodesAdded="0" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="32655" /><tag k="comment" v="FR84,ORANGE: correction travers&#233;e pi&#233;tonne" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="fr" /></meta><body><tag id="5395877065" k="kerb" o="add" type="node" v="lowered" /><tag id="5395877065" k="tactile_paving" o="add" type="node" v="yes" /><tag id="5395877066" k="kerb" o="add" type="node" v="lowered" /><tag id="5395877066" k="tactile_paving" o="add" type="node" v="yes" /></body></changeset>
+<changeset id="56151133" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="32655" />
+    <tag k="comment" v="FR84,ORANGE: correction travers&#233;e pi&#233;tonne" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="fr" />
+  </meta>
+  <body>
+    <tag id="5395877065" k="kerb" o="add" type="node" v="lowered" />
+    <tag id="5395877065" k="barrier" o="none" type="node" v="kerb" />
+    <tag id="5395877065" k="tactile_paving" o="add" type="node" v="yes" />
+    <tag id="5395877066" k="kerb" o="add" type="node" v="lowered" />
+    <tag id="5395877066" k="barrier" o="none" type="node" v="kerb" />
+    <tag id="5395877066" k="tactile_paving" o="add" type="node" v="yes" />
+  </body>
+</changeset>

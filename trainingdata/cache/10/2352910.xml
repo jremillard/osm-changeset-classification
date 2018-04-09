@@ -1,13 +1,13 @@
 <changeset id="2352910" schema="2">
-  <counts nodesAdded="0" nodesDeleted="777" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="24" waysModified="0" />
+  <counts nodesAdded="0" nodesDeleted="777" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="24" waysModified="24" />
   <meta>
     <tag k="comment" v="Replace the PGS-sourced coastline for Saltholm with one using the KMS municipality boundaries which include coastlines. Converted to multipolygon relation" />
     <tag k="created_by" v="JOSM/1.5 (2024 en)" />
   </meta>
   <body>
-    <tag id="226207" k="is_in" o="add" type="relation" v="Denmark" />
     <tag id="226207" k="name" o="add" type="relation" v="Saltholm" />
-    <tag id="226207" k="place" o="add" type="relation" v="island" />
     <tag id="226207" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="226207" k="is_in" o="add" type="relation" v="Denmark" />
+    <tag id="226207" k="place" o="add" type="relation" v="island" />
   </body>
 </changeset>

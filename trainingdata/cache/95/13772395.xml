@@ -1,5 +1,5 @@
 <changeset id="13772395" schema="2">
-  <counts nodesAdded="95" nodesDeleted="65" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="95" nodesDeleted="65" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Bernartice u Milevska (relation 427249)." />
@@ -8,20 +8,20 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="189348223" k="admin_level" o="add" type="way" v="10" />
-    <tag id="189348223" k="boundary" o="add" type="way" v="administrative" />
     <tag id="189348223" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="427249" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="427249" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="427249" k="name" o="none" type="relation" v="Bernartice u Milevska" />
+    <tag id="189348223" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="189348223" k="admin_level" o="add" type="way" v="10" />
     <tag id="427249" k="ref" o="none" type="relation" v="602663" />
-    <tag id="427249" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="427249" k="name" o="none" type="relation" v="Bernartice u Milevska" />
     <tag id="427249" k="type" o="none" type="relation" v="boundary" />
-    <tag id="428035" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="428035" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="428035" k="name" o="none" type="relation" v="Jest&#345;ebice" />
+    <tag id="427249" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="427249" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="427249" k="admin_level" o="none" type="relation" v="10" />
     <tag id="428035" k="ref" o="none" type="relation" v="791407" />
-    <tag id="428035" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="428035" k="name" o="none" type="relation" v="Jest&#345;ebice" />
     <tag id="428035" k="type" o="none" type="relation" v="boundary" />
+    <tag id="428035" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="428035" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="428035" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

@@ -1,5 +1,5 @@
 <changeset id="16371763" schema="2">
-  <counts nodesAdded="85" nodesDeleted="8" nodesModified="4" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="17" waysDeleted="1" waysModified="7" />
+  <counts nodesAdded="85" nodesDeleted="8" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="17" waysDeleted="1" waysModified="8" />
   <meta>
     <tag k="build" v="2.3-584-g996bb4d" />
     <tag k="comment" v="R&#246;srath Buildings 010613_0_1" />
@@ -7,6 +7,38 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="367664540" k="name" o="none" type="node" v="Pronto Pizza" />
+    <tag id="367664540" k="amenity" o="none" type="node" v="fast_food" />
+    <tag id="367664540" k="cuisine" o="none" type="node" v="italian" />
+    <tag id="367664540" k="addr:street" o="none" type="node" v="Hauptstra&#223;e" />
+    <tag id="367664540" k="addr:postcode" o="none" type="node" v="51503" />
+    <tag id="367664540" k="opening_hours" o="none" type="node" v="Mo-Fr 11:30-14:00,17:30-23:00; Sa 17:00-23:00; Su 11:00-23:00" />
+    <tag id="367664540" k="addr:housenumber" o="none" type="node" v="26" />
+    <tag id="367673752" k="name" o="none" type="node" v="Primo Piano" />
+    <tag id="367673752" k="phone" o="none" type="node" v="+49 2205 3899" />
+    <tag id="367673752" k="amenity" o="none" type="node" v="restaurant" />
+    <tag id="367673752" k="cuisine" o="none" type="node" v="italian" />
+    <tag id="367673752" k="addr:street" o="none" type="node" v="Hauptstra&#223;e" />
+    <tag id="367673752" k="addr:postcode" o="none" type="node" v="51503" />
+    <tag id="367673752" k="opening_hours" o="none" type="node" v="Tu-Su 11:30-14:30, 17:30-23:00; Sa 17:30+" />
+    <tag id="367673752" k="addr:housenumber" o="none" type="node" v="23-25" />
+    <tag id="1254366209" k="name" o="none" type="node" v="Tanzschule" />
+    <tag id="1254366209" k="amenity" o="none" type="node" v="school" />
+    <tag id="1293765153" k="name" o="none" type="node" v="Salamander" />
+    <tag id="1293765153" k="shop" o="none" type="node" v="convenience" />
+    <tag id="2327698844" k="barrier" o="add" type="node" v="lift_gate" />
+    <tag id="2327703469" k="historic" o="add" type="node" v="ruins" />
+    <tag id="32447755" k="name" o="none" type="way" v="Kissel" />
+    <tag id="32447755" k="noexit" o="none" type="way" v="yes" />
+    <tag id="32447755" k="highway" o="none" type="way" v="residential" />
+    <tag id="32447858" k="name" o="none" type="way" v="Bitze" />
+    <tag id="32447858" k="oneway" o="none" type="way" v="no" />
+    <tag id="32447858" k="highway" o="none" type="way" v="residential" />
+    <tag id="32815554" k="landuse" o="none" type="way" v="residential" />
+    <tag id="109742952" k="building" o="none" type="way" v="yes" />
+    <tag id="109743571" k="building" o="none" type="way" v="yes" />
+    <tag id="112696829" k="highway" o="none" type="way" v="service" />
+    <tag id="113825819" k="landuse" o="none" type="way" v="residential" />
     <tag id="223924147" k="building" o="add" type="way" v="yes" />
     <tag id="223924148" k="building" o="add" type="way" v="yes" />
     <tag id="223924149" k="building" o="add" type="way" v="yes" />
@@ -15,7 +47,6 @@
     <tag id="223924270" k="building" o="add" type="way" v="yes" />
     <tag id="223924271" k="building" o="add" type="way" v="yes" />
     <tag id="223924272" k="building" o="add" type="way" v="yes" />
-    <tag id="2327698844" k="barrier" o="add" type="node" v="lift_gate" />
     <tag id="223925619" k="amenity" o="add" type="way" v="parking" />
     <tag id="223925620" k="amenity" o="add" type="way" v="parking" />
     <tag id="223925621" k="amenity" o="add" type="way" v="parking" />
@@ -25,39 +56,8 @@
     <tag id="223925947" k="service" o="add" type="way" v="parking_aisle" />
     <tag id="223925948" k="highway" o="add" type="way" v="service" />
     <tag id="223925948" k="service" o="add" type="way" v="parking_aisle" />
-    <tag id="2327703469" k="historic" o="add" type="node" v="ruins" />
     <tag id="223926298" k="building" o="add" type="way" v="yes" />
     <tag id="223926299" k="amenity" o="add" type="way" v="parking" />
-    <tag id="1254366209" k="amenity" o="none" type="node" v="school" />
-    <tag id="1254366209" k="name" o="none" type="node" v="Tanzschule" />
-    <tag id="367673752" k="addr:housenumber" o="none" type="node" v="23-25" />
-    <tag id="367673752" k="addr:postcode" o="none" type="node" v="51503" />
-    <tag id="367673752" k="addr:street" o="none" type="node" v="Hauptstra&#223;e" />
-    <tag id="367673752" k="amenity" o="none" type="node" v="restaurant" />
-    <tag id="367673752" k="cuisine" o="none" type="node" v="italian" />
-    <tag id="367673752" k="name" o="none" type="node" v="Primo Piano" />
-    <tag id="367673752" k="opening_hours" o="none" type="node" v="Tu-Su 11:30-14:30, 17:30-23:00; Sa 17:30+" />
-    <tag id="367673752" k="phone" o="none" type="node" v="+49 2205 3899" />
-    <tag id="1293765153" k="name" o="none" type="node" v="Salamander" />
-    <tag id="1293765153" k="shop" o="none" type="node" v="convenience" />
-    <tag id="367664540" k="addr:housenumber" o="none" type="node" v="26" />
-    <tag id="367664540" k="addr:postcode" o="none" type="node" v="51503" />
-    <tag id="367664540" k="addr:street" o="none" type="node" v="Hauptstra&#223;e" />
-    <tag id="367664540" k="amenity" o="none" type="node" v="fast_food" />
-    <tag id="367664540" k="cuisine" o="none" type="node" v="italian" />
-    <tag id="367664540" k="name" o="none" type="node" v="Pronto Pizza" />
-    <tag id="367664540" k="opening_hours" o="none" type="node" v="Mo-Fr 11:30-14:00,17:30-23:00; Sa 17:00-23:00; Su 11:00-23:00" />
     <tag id="223926411" k="natural" o="add" type="way" v="scrub" />
-    <tag id="32447755" k="highway" o="none" type="way" v="residential" />
-    <tag id="32447755" k="name" o="none" type="way" v="Kissel" />
-    <tag id="32447755" k="noexit" o="none" type="way" v="yes" />
-    <tag id="32815554" k="landuse" o="none" type="way" v="residential" />
-    <tag id="109742952" k="building" o="none" type="way" v="yes" />
-    <tag id="112696829" k="highway" o="none" type="way" v="service" />
-    <tag id="32447858" k="highway" o="none" type="way" v="residential" />
-    <tag id="32447858" k="name" o="none" type="way" v="Bitze" />
-    <tag id="32447858" k="oneway" o="none" type="way" v="no" />
-    <tag id="109743571" k="building" o="none" type="way" v="yes" />
-    <tag id="113825819" k="landuse" o="none" type="way" v="residential" />
   </body>
 </changeset>

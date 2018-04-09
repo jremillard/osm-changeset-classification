@@ -1,1 +1,27 @@
-<changeset id="56209730" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="2" /><meta><tag k="StreetComplete:quest_type" v="AddRoadSurface" /><tag k="comment" v="Add road surfaces" /><tag k="created_by" v="StreetComplete 3.6" /><tag k="source" v="survey" /></meta><body><tag id="174275356" k="surface" o="add" type="way" v="asphalt" /><tag id="298781349" k="surface" o="add" type="way" v="asphalt" /></body></changeset>
+<changeset id="56209730" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="StreetComplete:quest_type" v="AddRoadSurface" />
+    <tag k="comment" v="Add road surfaces" />
+    <tag k="created_by" v="StreetComplete 3.6" />
+    <tag k="source" v="survey" />
+  </meta>
+  <body>
+    <tag id="174275356" k="lit" o="none" type="way" v="yes" />
+    <tag id="174275356" k="name" o="none" type="way" v="Belvederegasse" />
+    <tag id="174275356" k="oneway" o="none" type="way" v="yes" />
+    <tag id="174275356" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="174275356" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="174275356" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="174275356" k="source:maxspeed" o="none" type="way" v="AT:zone:30" />
+    <tag id="298781349" k="lit" o="none" type="way" v="yes" />
+    <tag id="298781349" k="name" o="none" type="way" v="Schwarzenbergplatz" />
+    <tag id="298781349" k="lanes" o="none" type="way" v="4" />
+    <tag id="298781349" k="oneway" o="none" type="way" v="yes" />
+    <tag id="298781349" k="source" o="none" type="way" v="yahoo" />
+    <tag id="298781349" k="highway" o="none" type="way" v="secondary" />
+    <tag id="298781349" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="298781349" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="298781349" k="turn:lanes" o="none" type="way" v="slight_left|slight_left|slight_right|slight_right" />
+  </body>
+</changeset>

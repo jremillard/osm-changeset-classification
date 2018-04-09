@@ -1,1 +1,64 @@
-<changeset id="55791980" schema="1"><counts nodesAdded="80" nodesModified="5" relationsAdded="0" relationsModified="0" waysAdded="9" waysModified="8" /><meta><tag k="changesets_count" v="54" /><tag k="comment" v="Add buildings near Mt Enon" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="556157906" k="building" o="add" type="way" v="house" /><tag id="556157908" k="building" o="add" type="way" v="yes" /><tag id="556157910" k="building" o="add" type="way" v="yes" /><tag id="556157911" k="building" o="add" type="way" v="yes" /><tag id="556157914" k="access" o="add" type="way" v="private" /><tag id="556157914" k="highway" o="add" type="way" v="service" /><tag id="556157914" k="service" o="add" type="way" v="driveway" /><tag id="556157917" k="building" o="add" type="way" v="house" /><tag id="556157919" k="access" o="add" type="way" v="private" /><tag id="556157919" k="highway" o="add" type="way" v="track" /><tag id="556157922" k="access" o="add" type="way" v="private" /><tag id="556157922" k="highway" o="add" type="way" v="track" /><tag id="556157925" k="access" o="add" type="way" v="private" /><tag id="556157925" k="highway" o="add" type="way" v="track" /><tag id="7549441" k="highway" o="modify" type="way" v="track" /><tag id="7549441" k="smoothness" o="add" type="way" v="very_bad" /><tag id="555527361" k="highway" o="modify" type="way" v="track" /><tag id="555527362" k="highway" o="modify" type="way" v="track" /><tag id="555799328" k="intermittent" o="add" type="way" v="yes" /><tag id="555799328" k="pond" o="add" type="way" v="retention" /><tag id="555799328" k="waterway" o="modify" type="way" v="pond" /><tag id="7562665" k="highway" o="modify" type="way" v="track" /></body></changeset>
+<changeset id="55791980" schema="2">
+  <counts nodesAdded="80" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="9" waysDeleted="0" waysModified="8" />
+  <meta>
+    <tag k="changesets_count" v="54" />
+    <tag k="comment" v="Add buildings near Mt Enon" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="7549441" k="access" o="none" type="way" v="private" />
+    <tag id="7549441" k="highway" o="modify" type="way" v="track" />
+    <tag id="7549441" k="smoothness" o="add" type="way" v="very_bad" />
+    <tag id="7549441" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="7549441" k="tiger:county" o="none" type="way" v="Dale, AL" />
+    <tag id="7549441" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="7562665" k="access" o="none" type="way" v="private" />
+    <tag id="7562665" k="highway" o="modify" type="way" v="track" />
+    <tag id="7562665" k="tiger:cfcc" o="none" type="way" v="A74" />
+    <tag id="7562665" k="tiger:county" o="none" type="way" v="Dale, AL" />
+    <tag id="7562665" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="555527361" k="access" o="none" type="way" v="private" />
+    <tag id="555527361" k="highway" o="modify" type="way" v="track" />
+    <tag id="555527362" k="access" o="none" type="way" v="private" />
+    <tag id="555527362" k="highway" o="modify" type="way" v="track" />
+    <tag id="555527362" k="service" o="none" type="way" v="driveway" />
+    <tag id="555527365" k="name" o="none" type="way" v="Mount Enon Road" />
+    <tag id="555527365" k="name_1" o="none" type="way" v="County Road 515" />
+    <tag id="555527365" k="highway" o="none" type="way" v="residential" />
+    <tag id="555527365" k="surface" o="none" type="way" v="chipseal" />
+    <tag id="555527365" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="555527365" k="tiger:county" o="none" type="way" v="Dale, AL" />
+    <tag id="555527365" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="555527365" k="tiger:name_base" o="none" type="way" v="Mount Enon" />
+    <tag id="555527365" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="555527365" k="tiger:name_base_1" o="none" type="way" v="County Road 515" />
+    <tag id="555799311" k="name" o="none" type="way" v="County Road 67" />
+    <tag id="555799311" k="highway" o="none" type="way" v="residential" />
+    <tag id="555799311" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="555799311" k="tiger:county" o="none" type="way" v="Dale, AL" />
+    <tag id="555799311" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="555799311" k="tiger:name_base" o="none" type="way" v="County Road 67" />
+    <tag id="555799328" k="pond" o="add" type="way" v="retention" />
+    <tag id="555799328" k="natural" o="none" type="way" v="water" />
+    <tag id="555799328" k="waterway" o="modify" type="way" v="pond" />
+    <tag id="555799328" k="intermittent" o="add" type="way" v="yes" />
+    <tag id="556154493" k="building" o="none" type="way" v="yes" />
+    <tag id="556157906" k="building" o="add" type="way" v="house" />
+    <tag id="556157908" k="building" o="add" type="way" v="yes" />
+    <tag id="556157910" k="building" o="add" type="way" v="yes" />
+    <tag id="556157911" k="building" o="add" type="way" v="yes" />
+    <tag id="556157914" k="access" o="add" type="way" v="private" />
+    <tag id="556157914" k="highway" o="add" type="way" v="service" />
+    <tag id="556157914" k="service" o="add" type="way" v="driveway" />
+    <tag id="556157917" k="building" o="add" type="way" v="house" />
+    <tag id="556157919" k="access" o="add" type="way" v="private" />
+    <tag id="556157919" k="highway" o="add" type="way" v="track" />
+    <tag id="556157922" k="access" o="add" type="way" v="private" />
+    <tag id="556157922" k="highway" o="add" type="way" v="track" />
+    <tag id="556157925" k="access" o="add" type="way" v="private" />
+    <tag id="556157925" k="highway" o="add" type="way" v="track" />
+  </body>
+</changeset>

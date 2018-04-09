@@ -1,1 +1,118 @@
-<changeset id="55551718" schema="1"><counts nodesAdded="11" nodesModified="53" relationsAdded="4" relationsModified="1" waysAdded="1" waysModified="11" /><meta><tag k="comment" v="corr ref: no space; impr roundabout; add turn restrictions" /><tag k="created_by" v="JOSM/1.5 (13265 en_GB)" /><tag k="source" v="Informatie Vlaanderen aerial imagery (most recent)" /></meta><body><tag id="554030717" k="cycleway:right" o="add" type="way" v="track" /><tag id="554030717" k="highway" o="add" type="way" v="primary" /><tag id="554030717" k="junction" o="add" type="way" v="roundabout" /><tag id="554030717" k="maxspeed" o="add" type="way" v="70" /><tag id="554030717" k="name" o="add" type="way" v="Kruisekestraat" /><tag id="7912575" k="restriction" o="add" type="relation" v="no_u_turn" /><tag id="7912575" k="type" o="add" type="relation" v="restriction" /><tag id="7912576" k="restriction" o="add" type="relation" v="no_u_turn" /><tag id="7912576" k="type" o="add" type="relation" v="restriction" /><tag id="7912577" k="restriction" o="add" type="relation" v="no_u_turn" /><tag id="7912577" k="type" o="add" type="relation" v="restriction" /><tag id="7912578" k="restriction" o="add" type="relation" v="no_u_turn" /><tag id="7912578" k="type" o="add" type="relation" v="restriction" /><tag id="28502892" k="highway" o="modify" type="way" v="primary" /><tag id="28503059" k="ref" o="modify" type="way" v="N303" /><tag id="28512749" k="highway" o="modify" type="way" v="primary" /><tag id="28512750" k="highway" o="modify" type="way" v="primary" /><tag id="28527861" k="highway" o="modify" type="way" v="primary" /><tag id="28528034" k="ref" o="modify" type="way" v="N303" /></body></changeset>
+<changeset id="55551718" schema="2">
+  <counts nodesAdded="11" nodesDeleted="1" nodesModified="0" relationsAdded="4" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="0" waysModified="11" />
+  <meta>
+    <tag k="comment" v="corr ref: no space; impr roundabout; add turn restrictions" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en_GB)" />
+    <tag k="source" v="Informatie Vlaanderen aerial imagery (most recent)" />
+  </meta>
+  <body>
+    <tag id="28502890" k="ref" o="none" type="way" v="N303" />
+    <tag id="28502890" k="name" o="none" type="way" v="Kruisekestraat" />
+    <tag id="28502890" k="width" o="none" type="way" v="3" />
+    <tag id="28502890" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28502890" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="28502890" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28502890" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28502890" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="28502890" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28502892" k="ref" o="none" type="way" v="N58" />
+    <tag id="28502892" k="foot" o="none" type="way" v="no" />
+    <tag id="28502892" k="width" o="none" type="way" v="3" />
+    <tag id="28502892" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28502892" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28502892" k="highway" o="modify" type="way" v="primary" />
+    <tag id="28502892" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28503059" k="ref" o="modify" type="way" v="N303" />
+    <tag id="28503059" k="name" o="none" type="way" v="Kruisekestraat" />
+    <tag id="28503059" k="width" o="none" type="way" v="3" />
+    <tag id="28503059" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28503059" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="28503059" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28503059" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28503059" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="28503059" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28512749" k="ref" o="none" type="way" v="N58" />
+    <tag id="28512749" k="foot" o="none" type="way" v="no" />
+    <tag id="28512749" k="width" o="none" type="way" v="3" />
+    <tag id="28512749" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28512749" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28512749" k="highway" o="modify" type="way" v="primary" />
+    <tag id="28512749" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28512749" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28512749" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28512750" k="ref" o="none" type="way" v="N58" />
+    <tag id="28512750" k="foot" o="none" type="way" v="no" />
+    <tag id="28512750" k="width" o="none" type="way" v="3" />
+    <tag id="28512750" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28512750" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28512750" k="highway" o="modify" type="way" v="primary" />
+    <tag id="28512750" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28512750" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28512750" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28527859" k="name" o="none" type="way" v="Kruisekestraat" />
+    <tag id="28527859" k="highway" o="none" type="way" v="primary" />
+    <tag id="28527859" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="28527859" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28527859" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="28527860" k="ref" o="none" type="way" v="N303" />
+    <tag id="28527860" k="name" o="none" type="way" v="Kruisekestraat" />
+    <tag id="28527860" k="width" o="none" type="way" v="3" />
+    <tag id="28527860" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28527860" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="28527860" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28527860" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28527860" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="28527860" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28527861" k="ref" o="none" type="way" v="N58" />
+    <tag id="28527861" k="foot" o="none" type="way" v="no" />
+    <tag id="28527861" k="width" o="none" type="way" v="3" />
+    <tag id="28527861" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28527861" k="bicycle" o="none" type="way" v="no" />
+    <tag id="28527861" k="highway" o="modify" type="way" v="primary" />
+    <tag id="28527861" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28528034" k="ref" o="modify" type="way" v="N303" />
+    <tag id="28528034" k="name" o="none" type="way" v="Kruisekestraat" />
+    <tag id="28528034" k="width" o="none" type="way" v="3" />
+    <tag id="28528034" k="oneway" o="none" type="way" v="yes" />
+    <tag id="28528034" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="28528034" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="28528034" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28528034" k="cycleway:right" o="none" type="way" v="track" />
+    <tag id="28528034" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="28528036" k="ref" o="none" type="way" v="N303" />
+    <tag id="28528036" k="name" o="none" type="way" v="Kruisekestraat" />
+    <tag id="28528036" k="highway" o="none" type="way" v="secondary" />
+    <tag id="28528036" k="cycleway" o="none" type="way" v="track" />
+    <tag id="28528036" k="tree_lined" o="none" type="way" v="yes" />
+    <tag id="473750031" k="ref" o="none" type="way" v="N58" />
+    <tag id="473750031" k="foot" o="none" type="way" v="no" />
+    <tag id="473750031" k="oneway" o="none" type="way" v="no" />
+    <tag id="473750031" k="bicycle" o="none" type="way" v="no" />
+    <tag id="473750031" k="highway" o="none" type="way" v="primary" />
+    <tag id="473750031" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="473750031" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="473750031" k="zone:traffic" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="473750031" k="source:maxspeed" o="none" type="way" v="BE-VLG:rural" />
+    <tag id="554030717" k="name" o="add" type="way" v="Kruisekestraat" />
+    <tag id="554030717" k="highway" o="add" type="way" v="primary" />
+    <tag id="554030717" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="554030717" k="maxspeed" o="add" type="way" v="70" />
+    <tag id="554030717" k="cycleway:right" o="add" type="way" v="track" />
+    <tag id="4200679" k="name" o="none" type="relation" v="Pionier" />
+    <tag id="4200679" k="type" o="none" type="relation" v="route" />
+    <tag id="4200679" k="fixme" o="none" type="relation" v="Stop 18 (Catacombs in Bois de la Hutte) unmapped and missing" />
+    <tag id="4200679" k="route" o="none" type="relation" v="car" />
+    <tag id="4200679" k="distance" o="none" type="relation" v="75 km" />
+    <tag id="4200679" k="operator" o="none" type="relation" v="westtour" />
+    <tag id="4200679" k="roundtrip" o="none" type="relation" v="yes" />
+    <tag id="4200679" k="description" o="none" type="relation" v="Toeristische autoroute 14-18" />
+    <tag id="7912575" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7912575" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="7912576" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7912576" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="7912577" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7912577" k="restriction" o="add" type="relation" v="no_u_turn" />
+    <tag id="7912578" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7912578" k="restriction" o="add" type="relation" v="no_u_turn" />
+  </body>
+</changeset>

@@ -6,6 +6,12 @@
     <tag k="source" v="Bing" />
   </meta>
   <body>
+    <tag id="3281609478" k="waterway" o="add" type="node" v="lock_gate" />
+    <tag id="4935218931" k="foot" o="add" type="node" v="yes" />
+    <tag id="4935218931" k="access" o="add" type="node" v="permissive" />
+    <tag id="4935218931" k="barrier" o="add" type="node" v="swing_gate" />
+    <tag id="4935218931" k="bicycle" o="add" type="node" v="yes" />
+    <tag id="4935218931" k="swing_gate:type" o="add" type="node" v="single" />
     <tag id="5110865491" k="power" o="add" type="node" v="pole" />
     <tag id="5110865492" k="power" o="add" type="node" v="pole" />
     <tag id="5110865493" k="power" o="add" type="node" v="pole" />
@@ -39,18 +45,18 @@
     <tag id="5110865723" k="natural" o="add" type="node" v="tree" />
     <tag id="5110865730" k="natural" o="add" type="node" v="tree" />
     <tag id="5110865731" k="natural" o="add" type="node" v="tree" />
+    <tag id="5110865799" k="foot" o="add" type="node" v="yes" />
     <tag id="5110865799" k="access" o="add" type="node" v="private" />
     <tag id="5110865799" k="barrier" o="add" type="node" v="swing_gate" />
     <tag id="5110865799" k="bicycle" o="add" type="node" v="yes" />
-    <tag id="5110865799" k="foot" o="add" type="node" v="yes" />
     <tag id="5110865799" k="swing_gate:type" o="add" type="node" v="single" />
     <tag id="5110865808" k="power" o="add" type="node" v="pole" />
     <tag id="5110865809" k="power" o="add" type="node" v="pole" />
     <tag id="5110865810" k="power" o="add" type="node" v="pole" />
+    <tag id="5110865829" k="foot" o="add" type="node" v="no" />
     <tag id="5110865829" k="access" o="add" type="node" v="private" />
     <tag id="5110865829" k="barrier" o="add" type="node" v="swing_gate" />
     <tag id="5110865829" k="bicycle" o="add" type="node" v="no" />
-    <tag id="5110865829" k="foot" o="add" type="node" v="no" />
     <tag id="5110865829" k="swing_gate:type" o="add" type="node" v="single" />
     <tag id="5110865830" k="man_made" o="add" type="node" v="silo" />
     <tag id="5110865986" k="natural" o="add" type="node" v="tree" />
@@ -111,6 +117,55 @@
     <tag id="5110866237" k="fixme" o="add" type="node" v="continue" />
     <tag id="5110866261" k="natural" o="add" type="node" v="tree" />
     <tag id="5110866262" k="natural" o="add" type="node" v="tree" />
+    <tag id="163805733" k="landuse" o="none" type="way" v="residential" />
+    <tag id="250501674" k="ref" o="none" type="way" v="5205" />
+    <tag id="250501674" k="highway" o="none" type="way" v="secondary" />
+    <tag id="321411485" k="ref" o="none" type="way" v="5205" />
+    <tag id="321411485" k="highway" o="none" type="way" v="secondary" />
+    <tag id="346100059" k="name" o="none" type="way" v="Buzog&#225;ny utca" />
+    <tag id="346100059" k="highway" o="none" type="way" v="track" />
+    <tag id="346100060" k="access" o="none" type="way" v="private" />
+    <tag id="346100060" k="highway" o="none" type="way" v="track" />
+    <tag id="346100061" k="highway" o="none" type="way" v="track" />
+    <tag id="346100062" k="access" o="none" type="way" v="private" />
+    <tag id="346100062" k="highway" o="none" type="way" v="track" />
+    <tag id="346100063" k="access" o="none" type="way" v="private" />
+    <tag id="346100063" k="highway" o="none" type="way" v="track" />
+    <tag id="499997242" k="waterway" o="none" type="way" v="ditch" />
+    <tag id="499997243" k="waterway" o="none" type="way" v="ditch" />
+    <tag id="499997248" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="499997248" k="surface" o="none" type="way" v="unpaved" />
+    <tag id="503047495" k="access" o="add" type="way" v="permissive" />
+    <tag id="503047495" k="highway" o="none" type="way" v="track" />
+    <tag id="503047495" k="operator" o="add" type="way" v="Kiskuns&#225;gi Nemzeti Park" />
+    <tag id="503052728" k="lanes" o="add" type="way" v="1" />
+    <tag id="503052728" k="width" o="add" type="way" v="4" />
+    <tag id="503052728" k="noname" o="add" type="way" v="yes" />
+    <tag id="503052728" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="503052728" k="surface" o="modify" type="way" v="ground" />
+    <tag id="503052728" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="503052728" k="smoothness" o="add" type="way" v="bad" />
+    <tag id="503070077" k="highway" o="none" type="way" v="track" />
+    <tag id="503070078" k="lanes" o="add" type="way" v="1" />
+    <tag id="503070078" k="width" o="add" type="way" v="4" />
+    <tag id="503070078" k="noname" o="add" type="way" v="yes" />
+    <tag id="503070078" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="503070078" k="surface" o="modify" type="way" v="ground" />
+    <tag id="503070078" k="sidewalk" o="add" type="way" v="no" />
+    <tag id="503070078" k="smoothness" o="add" type="way" v="bad" />
+    <tag id="503181792" k="highway" o="none" type="way" v="track" />
+    <tag id="503200077" k="waterway" o="modify" type="way" v="ditch" />
+    <tag id="503200120" k="access" o="add" type="way" v="permissive" />
+    <tag id="503200120" k="highway" o="none" type="way" v="track" />
+    <tag id="503200120" k="operator" o="add" type="way" v="Kiskuns&#225;gi Nemzeti Park" />
+    <tag id="519903037" k="access" o="add" type="way" v="private" />
+    <tag id="519903037" k="highway" o="none" type="way" v="track" />
+    <tag id="519903065" k="landuse" o="none" type="way" v="forest" />
+    <tag id="519903067" k="width" o="add" type="way" v="3" />
+    <tag id="519903067" k="highway" o="modify" type="way" v="track" />
+    <tag id="519903067" k="surface" o="add" type="way" v="grass" />
+    <tag id="519903067" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="519903067" k="smoothness" o="add" type="way" v="very_bad" />
     <tag id="525350568" k="landuse" o="add" type="way" v="forest" />
     <tag id="525350569" k="power" o="add" type="way" v="line" />
     <tag id="525350570" k="natural" o="add" type="way" v="tree_row" />
@@ -132,8 +187,8 @@
     <tag id="525350585" k="access" o="add" type="way" v="private" />
     <tag id="525350585" k="amenity" o="add" type="way" v="parking" />
     <tag id="525350585" k="parking" o="add" type="way" v="surface" />
-    <tag id="525350585" k="smoothness" o="add" type="way" v="bad" />
     <tag id="525350585" k="surface" o="add" type="way" v="concrete:plates" />
+    <tag id="525350585" k="smoothness" o="add" type="way" v="bad" />
     <tag id="525350586" k="building" o="add" type="way" v="yes" />
     <tag id="525350587" k="building" o="add" type="way" v="yes" />
     <tag id="525350588" k="building" o="add" type="way" v="yes" />
@@ -170,8 +225,8 @@
     <tag id="525350615" k="landuse" o="add" type="way" v="forest" />
     <tag id="525350616" k="highway" o="add" type="way" v="track" />
     <tag id="525350617" k="natural" o="add" type="way" v="wetland" />
-    <tag id="525350617" k="seasonal" o="add" type="way" v="yes" />
     <tag id="525350617" k="wetland" o="add" type="way" v="wet_meadow" />
+    <tag id="525350617" k="seasonal" o="add" type="way" v="yes" />
     <tag id="525350618" k="location" o="add" type="way" v="underground" />
     <tag id="525350618" k="man_made" o="add" type="way" v="pipeline" />
     <tag id="525350619" k="location" o="add" type="way" v="overground" />
@@ -210,8 +265,8 @@
     <tag id="525350646" k="access" o="add" type="way" v="yes" />
     <tag id="525350646" k="amenity" o="add" type="way" v="parking" />
     <tag id="525350646" k="parking" o="add" type="way" v="surface" />
-    <tag id="525350646" k="smoothness" o="add" type="way" v="intermediate" />
     <tag id="525350646" k="surface" o="add" type="way" v="concrete:plates" />
+    <tag id="525350646" k="smoothness" o="add" type="way" v="intermediate" />
     <tag id="525350648" k="access" o="add" type="way" v="permissive" />
     <tag id="525350648" k="highway" o="add" type="way" v="track" />
     <tag id="525350648" k="operator" o="add" type="way" v="Kiskuns&#225;gi Nemzeti Park" />
@@ -260,60 +315,5 @@
     <tag id="525350686" k="building" o="add" type="way" v="barn" />
     <tag id="525350687" k="building" o="add" type="way" v="barn" />
     <tag id="525350688" k="highway" o="add" type="way" v="track" />
-    <tag id="3281609478" k="waterway" o="add" type="node" v="lock_gate" />
-    <tag id="4935218931" k="access" o="add" type="node" v="permissive" />
-    <tag id="4935218931" k="barrier" o="add" type="node" v="swing_gate" />
-    <tag id="4935218931" k="bicycle" o="add" type="node" v="yes" />
-    <tag id="4935218931" k="foot" o="add" type="node" v="yes" />
-    <tag id="4935218931" k="swing_gate:type" o="add" type="node" v="single" />
-    <tag id="163805733" k="landuse" o="none" type="way" v="residential" />
-    <tag id="346100059" k="highway" o="none" type="way" v="track" />
-    <tag id="346100059" k="name" o="none" type="way" v="Buzog&#225;ny utca" />
-    <tag id="346100061" k="highway" o="none" type="way" v="track" />
-    <tag id="346100062" k="access" o="none" type="way" v="private" />
-    <tag id="346100062" k="highway" o="none" type="way" v="track" />
-    <tag id="346100063" k="access" o="none" type="way" v="private" />
-    <tag id="346100063" k="highway" o="none" type="way" v="track" />
-    <tag id="499997242" k="waterway" o="none" type="way" v="ditch" />
-    <tag id="499997243" k="waterway" o="none" type="way" v="ditch" />
-    <tag id="499997248" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="499997248" k="surface" o="none" type="way" v="unpaved" />
-    <tag id="346100060" k="access" o="none" type="way" v="private" />
-    <tag id="346100060" k="highway" o="none" type="way" v="track" />
-    <tag id="250501674" k="highway" o="none" type="way" v="secondary" />
-    <tag id="250501674" k="ref" o="none" type="way" v="5205" />
-    <tag id="321411485" k="highway" o="none" type="way" v="secondary" />
-    <tag id="321411485" k="ref" o="none" type="way" v="5205" />
-    <tag id="503047495" k="access" o="add" type="way" v="permissive" />
-    <tag id="503047495" k="highway" o="none" type="way" v="track" />
-    <tag id="503047495" k="operator" o="add" type="way" v="Kiskuns&#225;gi Nemzeti Park" />
-    <tag id="503070077" k="highway" o="none" type="way" v="track" />
-    <tag id="503181792" k="highway" o="none" type="way" v="track" />
-    <tag id="503070078" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="503070078" k="lanes" o="add" type="way" v="1" />
-    <tag id="503070078" k="noname" o="add" type="way" v="yes" />
-    <tag id="503070078" k="sidewalk" o="add" type="way" v="no" />
-    <tag id="503070078" k="smoothness" o="add" type="way" v="bad" />
-    <tag id="503070078" k="surface" o="modify" type="way" v="ground" />
-    <tag id="503070078" k="width" o="add" type="way" v="4" />
-    <tag id="503052728" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="503052728" k="lanes" o="add" type="way" v="1" />
-    <tag id="503052728" k="noname" o="add" type="way" v="yes" />
-    <tag id="503052728" k="sidewalk" o="add" type="way" v="no" />
-    <tag id="503052728" k="smoothness" o="add" type="way" v="bad" />
-    <tag id="503052728" k="surface" o="modify" type="way" v="ground" />
-    <tag id="503052728" k="width" o="add" type="way" v="4" />
-    <tag id="503200077" k="waterway" o="modify" type="way" v="ditch" />
-    <tag id="503200120" k="access" o="add" type="way" v="permissive" />
-    <tag id="503200120" k="highway" o="none" type="way" v="track" />
-    <tag id="503200120" k="operator" o="add" type="way" v="Kiskuns&#225;gi Nemzeti Park" />
-    <tag id="519903037" k="access" o="add" type="way" v="private" />
-    <tag id="519903037" k="highway" o="none" type="way" v="track" />
-    <tag id="519903065" k="landuse" o="none" type="way" v="forest" />
-    <tag id="519903067" k="highway" o="modify" type="way" v="track" />
-    <tag id="519903067" k="smoothness" o="add" type="way" v="very_bad" />
-    <tag id="519903067" k="surface" o="add" type="way" v="grass" />
-    <tag id="519903067" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="519903067" k="width" o="add" type="way" v="3" />
   </body>
 </changeset>

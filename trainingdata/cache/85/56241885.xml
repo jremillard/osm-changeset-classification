@@ -1,1 +1,56 @@
-<changeset id="56241885" schema="1"><counts nodesAdded="66" nodesModified="35" relationsAdded="0" relationsModified="0" waysAdded="5" waysModified="12" /><meta><tag k="changesets_count" v="501" /><tag k="comment" v="Ajouts &#224; la Plage" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="FR-Cadastre" /><tag k="locale" v="fr" /></meta><body><tag id="5403640106" k="addr:housenumber" o="add" type="node" v="136" /><tag id="5403640106" k="addr:street" o="add" type="node" v="Rue du Commandant Rolland" /><tag id="5403640114" k="addr:housenumber" o="add" type="node" v="164T" /><tag id="5403640114" k="addr:street" o="add" type="node" v="Rue du Commandant Rolland" /><tag id="560330999" k="building" o="add" type="way" v="roof" /><tag id="560331000" k="building" o="add" type="way" v="roof" /><tag id="560331001" k="building" o="add" type="way" v="roof" /><tag id="560331002" k="leisure" o="add" type="way" v="swimming_pool" /><tag id="560331003" k="landuse" o="add" type="way" v="residential" /><tag id="560331003" k="name" o="add" type="way" v="R&#233;sidence Les Or&#233;ades" /><tag id="154611771" k="name" o="add" type="way" v="Ch&#226;teau Saint-Victor" /><tag id="154613742" k="building" o="modify" type="way" v="roof" /><tag id="154625481" k="building" o="modify" type="way" v="roof" /><tag id="24257020" k="access" o="add" type="way" v="private" /><tag id="24257020" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre;mise &#224; jour : 2010" /><tag id="154616000" k="building" o="modify" type="way" v="roof" /><tag id="24257013" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre;mise &#224; jour : 2010" /></body></changeset>
+<changeset id="56241885" schema="2">
+  <counts nodesAdded="66" nodesDeleted="34" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="5" waysDeleted="8" waysModified="20" />
+  <meta>
+    <tag k="changesets_count" v="501" />
+    <tag k="comment" v="Ajouts &#224; la Plage" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="FR-Cadastre" />
+    <tag k="locale" v="fr" />
+  </meta>
+  <body>
+    <tag id="5403640106" k="addr:street" o="add" type="node" v="Rue du Commandant Rolland" />
+    <tag id="5403640106" k="addr:housenumber" o="add" type="node" v="136" />
+    <tag id="5403640114" k="addr:street" o="add" type="node" v="Rue du Commandant Rolland" />
+    <tag id="5403640114" k="addr:housenumber" o="add" type="node" v="164T" />
+    <tag id="24257013" k="name" o="none" type="way" v="Avenue des Iles d'Or" />
+    <tag id="24257013" k="access" o="none" type="way" v="private" />
+    <tag id="24257013" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre;mise &#224; jour : 2010" />
+    <tag id="24257013" k="highway" o="none" type="way" v="residential" />
+    <tag id="24257020" k="access" o="add" type="way" v="private" />
+    <tag id="24257020" k="source" o="modify" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre;mise &#224; jour : 2010" />
+    <tag id="24257020" k="highway" o="none" type="way" v="residential" />
+    <tag id="53513809" k="access" o="none" type="way" v="private" />
+    <tag id="53513809" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre  mise &#224; jour : 2010" />
+    <tag id="53513809" k="highway" o="none" type="way" v="residential" />
+    <tag id="154610698" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154610698" k="building" o="none" type="way" v="yes" />
+    <tag id="154610747" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154610747" k="building" o="none" type="way" v="yes" />
+    <tag id="154611236" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154611236" k="building" o="none" type="way" v="yes" />
+    <tag id="154611771" k="name" o="add" type="way" v="Ch&#226;teau Saint-Victor" />
+    <tag id="154611771" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154611771" k="building" o="none" type="way" v="yes" />
+    <tag id="154613742" k="wall" o="none" type="way" v="no" />
+    <tag id="154613742" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154613742" k="building" o="modify" type="way" v="roof" />
+    <tag id="154616000" k="wall" o="none" type="way" v="no" />
+    <tag id="154616000" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154616000" k="building" o="modify" type="way" v="roof" />
+    <tag id="154625481" k="wall" o="none" type="way" v="no" />
+    <tag id="154625481" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154625481" k="building" o="modify" type="way" v="roof" />
+    <tag id="154634634" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2012" />
+    <tag id="154634634" k="building" o="none" type="way" v="yes" />
+    <tag id="443356092" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2008" />
+    <tag id="443356092" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="443356092" k="admin_level" o="none" type="way" v="10" />
+    <tag id="560330999" k="building" o="add" type="way" v="roof" />
+    <tag id="560331000" k="building" o="add" type="way" v="roof" />
+    <tag id="560331001" k="building" o="add" type="way" v="roof" />
+    <tag id="560331002" k="leisure" o="add" type="way" v="swimming_pool" />
+    <tag id="560331003" k="name" o="add" type="way" v="R&#233;sidence Les Or&#233;ades" />
+    <tag id="560331003" k="landuse" o="add" type="way" v="residential" />
+  </body>
+</changeset>

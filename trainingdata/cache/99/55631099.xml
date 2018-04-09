@@ -1,1 +1,49 @@
-<changeset id="55631099" schema="1"><counts nodesAdded="12" nodesModified="12" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="7" /><meta><tag k="changesets_count" v="1" /><tag k="comment" v="Uaktuanienie" /><tag k="created_by" v="iD 2.5.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area;building;startEditing" /><tag k="ideditor:walkthrough_started" v="yes" /><tag k="imagery_used" v="OpenStreetMap (Standard)" /><tag k="locale" v="pl" /></meta><body><tag id="5352808044" k="amenity" o="add" type="node" v="recycling" /><tag id="5352808044" k="recycling_type" o="add" type="node" v="container" /><tag id="5352808054" k="amenity" o="add" type="node" v="recycling" /><tag id="5352808054" k="recycling_type" o="add" type="node" v="container" /><tag id="554673151" k="building" o="add" type="way" v="yes" /><tag id="554673151" k="shop" o="add" type="way" v="yes" /><tag id="554673153" k="foot" o="add" type="way" v="yes" /><tag id="554673153" k="footway" o="add" type="way" v="sidewalk" /><tag id="554673153" k="highway" o="add" type="way" v="footway" /><tag id="233322414" k="building" o="modify" type="way" v="church" /><tag id="26248125" k="water" o="add" type="way" v="pond" /><tag id="154937519" k="building" o="modify" type="way" v="residential" /><tag id="154937519" k="building:levels" o="add" type="way" v="4" /><tag id="203425673" k="denomination" o="modify" type="way" v="catholic" /><tag id="203425673" k="service_times" o="add" type="way" v="6:30  18:00" /></body></changeset>
+<changeset id="55631099" schema="2">
+  <counts nodesAdded="12" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="7" />
+  <meta>
+    <tag k="changesets_count" v="1" />
+    <tag k="comment" v="Uaktuanienie" />
+    <tag k="created_by" v="iD 2.5.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area;building;startEditing" />
+    <tag k="ideditor:walkthrough_started" v="yes" />
+    <tag k="imagery_used" v="OpenStreetMap (Standard)" />
+    <tag k="locale" v="pl" />
+  </meta>
+  <body>
+    <tag id="5352808044" k="amenity" o="add" type="node" v="recycling" />
+    <tag id="5352808044" k="recycling_type" o="add" type="node" v="container" />
+    <tag id="5352808054" k="amenity" o="add" type="node" v="recycling" />
+    <tag id="5352808054" k="recycling_type" o="add" type="node" v="container" />
+    <tag id="26248125" k="water" o="add" type="way" v="pond" />
+    <tag id="26248125" k="natural" o="none" type="way" v="water" />
+    <tag id="154937519" k="building" o="modify" type="way" v="residential" />
+    <tag id="154937519" k="addr:city" o="none" type="way" v="Krak&#243;w" />
+    <tag id="154937519" k="addr:street" o="none" type="way" v="Ludwika Rydygiera" />
+    <tag id="154937519" k="addr:postcode" o="none" type="way" v="30-695" />
+    <tag id="154937519" k="building:levels" o="add" type="way" v="4" />
+    <tag id="154937519" k="addr:housenumber" o="none" type="way" v="19" />
+    <tag id="160344814" k="highway" o="none" type="way" v="footway" />
+    <tag id="160344816" k="highway" o="none" type="way" v="footway" />
+    <tag id="203425673" k="url" o="none" type="way" v="http://www.diecezja.pl/parafie/lista-parafii/8-krakow---prokocim/parafia-nawiedzenia-nmp.html" />
+    <tag id="203425673" k="name" o="none" type="way" v="Ko&#347;ci&#243;&#322; pw. Nawiedzenia Naj&#347;wi&#281;tszej Maryi Panny" />
+    <tag id="203425673" k="image" o="none" type="way" v="http://commons.wikimedia.org/wiki/File:Church_of_the_Visitation_in_Krak%C3%B3w-R%C5%BC%C4%85ka.JPG" />
+    <tag id="203425673" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="203425673" k="deanery" o="none" type="way" v="Dekanat Krak&#243;w-Prokocim" />
+    <tag id="203425673" k="diocese" o="none" type="way" v="Archidiecezja krakowska" />
+    <tag id="203425673" k="website" o="none" type="way" v="http://parafia-nawiedzenia.info/" />
+    <tag id="203425673" k="building" o="none" type="way" v="church" />
+    <tag id="203425673" k="religion" o="none" type="way" v="christian" />
+    <tag id="203425673" k="wikidata" o="none" type="way" v="Q11805417" />
+    <tag id="203425673" k="wikipedia" o="none" type="way" v="pl:Parafia Nawiedzenia Naj&#347;wi&#281;tszej Maryi Panny w Krakowie (Bie&#380;an&#243;w-Prokocim)" />
+    <tag id="203425673" k="denomination" o="modify" type="way" v="catholic" />
+    <tag id="203425673" k="service_times" o="add" type="way" v="6:30  18:00" />
+    <tag id="233322414" k="building" o="modify" type="way" v="church" />
+    <tag id="338101383" k="landuse" o="none" type="way" v="grass" />
+    <tag id="554673151" k="shop" o="add" type="way" v="yes" />
+    <tag id="554673151" k="building" o="add" type="way" v="yes" />
+    <tag id="554673153" k="foot" o="add" type="way" v="yes" />
+    <tag id="554673153" k="footway" o="add" type="way" v="sidewalk" />
+    <tag id="554673153" k="highway" o="add" type="way" v="footway" />
+  </body>
+</changeset>

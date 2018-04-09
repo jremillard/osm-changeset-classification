@@ -1,119 +1,119 @@
 <changeset id="21076374" schema="2">
-  <counts nodesAdded="1" nodesDeleted="43" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="7" waysModified="19" />
+  <counts nodesAdded="1" nodesDeleted="43" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="1" waysDeleted="7" waysModified="26" />
   <meta>
     <tag k="comment" v="South Road Superway northbound lanes are now open ref: http://www.infrastructure.sa.gov.au/__data/assets/pdf_file/0018/125280/2014_03_11_superway_Map-v16.pdf" />
     <tag k="created_by" v="JOSM/1.5 (6115 en_AU)" />
   </meta>
   <body>
-    <tag id="2715022028" k="highway" o="add" type="node" v="traffic_signals" />
-    <tag id="265894995" k="highway" o="add" type="way" v="trunk" />
-    <tag id="265894995" k="maxspeed" o="add" type="way" v="50" />
-    <tag id="265894995" k="name" o="add" type="way" v="South Road" />
-    <tag id="265894995" k="source:ref" o="add" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="250956314" k="highway" o="add" type="node" v="traffic_signals" />
     <tag id="250956233" k="railway" o="none" type="node" v="level_crossing" />
-    <tag id="23206831" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="23206831" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="250956314" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="2715022028" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="23202500" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23202500" k="highway" o="modify" type="way" v="construction" />
+    <tag id="23202503" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23202503" k="source" o="none" type="way" v="survey" />
+    <tag id="23202503" k="highway" o="modify" type="way" v="construction" />
     <tag id="23206831" k="name" o="none" type="way" v="Cormack Road" />
     <tag id="23206831" k="oneway" o="none" type="way" v="yes" />
     <tag id="23206831" k="source" o="none" type="way" v="survey" />
-    <tag id="135726653" k="bridge" o="none" type="way" v="yes" />
-    <tag id="135726653" k="ele" o="none" type="way" v="1" />
-    <tag id="135726653" k="highway" o="modify" type="way" v="motorway" />
-    <tag id="135726653" k="lanes" o="none" type="way" v="3" />
-    <tag id="135726653" k="layer" o="none" type="way" v="1" />
-    <tag id="135726653" k="maxspeed" o="none" type="way" v="90" />
-    <tag id="135726653" k="name" o="none" type="way" v="North South Motorway" />
-    <tag id="135726653" k="oneway" o="none" type="way" v="yes" />
-    <tag id="135726653" k="postal_code" o="none" type="way" v="5010" />
-    <tag id="135726653" k="ref" o="none" type="way" v="M2" />
-    <tag id="135726653" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="23206832" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="23206831" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="23206831" k="maxspeed" o="none" type="way" v="80" />
     <tag id="23206832" k="name" o="none" type="way" v="Cormack Road" />
     <tag id="23206832" k="oneway" o="none" type="way" v="yes" />
     <tag id="23206832" k="source" o="none" type="way" v="survey" />
-    <tag id="135726651" k="highway" o="modify" type="way" v="motorway" />
-    <tag id="135726651" k="lanes" o="none" type="way" v="3" />
-    <tag id="135726651" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="23206832" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="28965893" k="name" o="none" type="way" v="Rosberg Road" />
+    <tag id="28965893" k="highway" o="none" type="way" v="construction" />
+    <tag id="28965893" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="28965893" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="28965893" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
+    <tag id="28965893" k="construction" o="modify" type="way" v="tertiary" />
     <tag id="135726651" k="name" o="none" type="way" v="North South Motorway" />
+    <tag id="135726651" k="lanes" o="none" type="way" v="3" />
     <tag id="135726651" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135726651" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="135726651" k="maxspeed" o="none" type="way" v="90" />
     <tag id="135726651" k="postal_code" o="none" type="way" v="5010" />
-    <tag id="165680591" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="165680591" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="135726653" k="ele" o="none" type="way" v="1" />
+    <tag id="135726653" k="ref" o="none" type="way" v="M2" />
+    <tag id="135726653" k="name" o="none" type="way" v="North South Motorway" />
+    <tag id="135726653" k="lanes" o="none" type="way" v="3" />
+    <tag id="135726653" k="layer" o="none" type="way" v="1" />
+    <tag id="135726653" k="bridge" o="none" type="way" v="yes" />
+    <tag id="135726653" k="oneway" o="none" type="way" v="yes" />
+    <tag id="135726653" k="highway" o="modify" type="way" v="motorway" />
+    <tag id="135726653" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="135726653" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
+    <tag id="135726653" k="postal_code" o="none" type="way" v="5010" />
+    <tag id="156907603" k="ref" o="none" type="way" v="A13" />
+    <tag id="156907603" k="name" o="none" type="way" v="South Road" />
+    <tag id="156907603" k="lanes" o="none" type="way" v="2" />
+    <tag id="156907603" k="source" o="none" type="way" v="survey" />
+    <tag id="156907603" k="highway" o="none" type="way" v="trunk" />
+    <tag id="156907603" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="156907603" k="source:ref" o="add" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
+    <tag id="165680591" k="ref" o="none" type="way" v="A13" />
     <tag id="165680591" k="name" o="none" type="way" v="Salisbury Highway Onramp" />
     <tag id="165680591" k="oneway" o="none" type="way" v="yes" />
-    <tag id="165680591" k="ref" o="none" type="way" v="A13" />
     <tag id="165680591" k="source" o="none" type="way" v="Bing" />
+    <tag id="165680591" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="165680591" k="cycleway" o="none" type="way" v="lane" />
     <tag id="165680591" k="source_ref:name" o="none" type="way" v="http://osm.beldin.org/2008/12/dscf5555.jpg" />
-    <tag id="28965893" k="construction" o="modify" type="way" v="tertiary" />
-    <tag id="28965893" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="28965893" k="highway" o="none" type="way" v="construction" />
-    <tag id="28965893" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="28965893" k="name" o="none" type="way" v="Rosberg Road" />
-    <tag id="28965893" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="204838791" k="highway" o="modify" type="way" v="residential" />
-    <tag id="204838791" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="204838791" k="name" o="none" type="way" v="Senna Road" />
-    <tag id="204838791" k="source" o="none" type="way" v="Bing" />
-    <tag id="185767622" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="185767622" k="highway" o="modify" type="way" v="motorway_link" />
-    <tag id="185767622" k="name" o="none" type="way" v="Salisbury Highway Onramp" />
-    <tag id="185767622" k="oneway" o="none" type="way" v="yes" />
-    <tag id="185767622" k="ref" o="none" type="way" v="A13" />
-    <tag id="185767622" k="source" o="none" type="way" v="Bing" />
-    <tag id="185767622" k="source_ref:name" o="none" type="way" v="http://osm.beldin.org/2008/12/dscf5555.jpg" />
-    <tag id="259219012" k="highway" o="modify" type="way" v="trunk_link" />
-    <tag id="259219012" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="259219012" k="name" o="none" type="way" v="South Road" />
-    <tag id="259219012" k="oneway" o="none" type="way" v="yes" />
-    <tag id="259219012" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="165680592" k="bridge" o="none" type="way" v="yes" />
-    <tag id="165680592" k="cycleway" o="none" type="way" v="lane" />
-    <tag id="165680592" k="highway" o="modify" type="way" v="motorway_link" />
-    <tag id="165680592" k="layer" o="none" type="way" v="1" />
-    <tag id="165680592" k="loc_name" o="none" type="way" v="Craig Gilbert Bridge" />
-    <tag id="165680592" k="name" o="none" type="way" v="Salisbury Highway Onramp" />
-    <tag id="165680592" k="oneway" o="none" type="way" v="yes" />
     <tag id="165680592" k="ref" o="none" type="way" v="A13" />
+    <tag id="165680592" k="name" o="none" type="way" v="Salisbury Highway Onramp" />
+    <tag id="165680592" k="layer" o="none" type="way" v="1" />
+    <tag id="165680592" k="bridge" o="none" type="way" v="yes" />
+    <tag id="165680592" k="oneway" o="none" type="way" v="yes" />
     <tag id="165680592" k="source" o="none" type="way" v="Bing" />
-    <tag id="156907603" k="highway" o="none" type="way" v="trunk" />
-    <tag id="156907603" k="lanes" o="none" type="way" v="2" />
-    <tag id="156907603" k="maxspeed" o="none" type="way" v="70" />
-    <tag id="156907603" k="name" o="none" type="way" v="South Road" />
-    <tag id="156907603" k="ref" o="none" type="way" v="A13" />
-    <tag id="156907603" k="source" o="none" type="way" v="survey" />
-    <tag id="156907603" k="source:ref" o="add" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="169331954" k="highway" o="modify" type="way" v="construction" />
-    <tag id="169331954" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="165680592" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="165680592" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="165680592" k="loc_name" o="none" type="way" v="Craig Gilbert Bridge" />
     <tag id="169331954" k="name" o="none" type="way" v="South Terrace" />
     <tag id="169331954" k="oneway" o="none" type="way" v="yes" />
     <tag id="169331954" k="source" o="none" type="way" v="Bing" />
-    <tag id="169331967" k="highway" o="none" type="way" v="residential" />
-    <tag id="169331967" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="169331954" k="highway" o="modify" type="way" v="construction" />
+    <tag id="169331954" k="maxspeed" o="none" type="way" v="50" />
     <tag id="169331967" k="name" o="none" type="way" v="Wing Street" />
     <tag id="169331967" k="source" o="none" type="way" v="Bing" />
-    <tag id="180912525" k="highway" o="none" type="way" v="residential" />
+    <tag id="169331967" k="highway" o="none" type="way" v="residential" />
+    <tag id="169331967" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="179621677" k="railway" o="none" type="way" v="rail" />
+    <tag id="179621677" k="electrified" o="none" type="way" v="no" />
     <tag id="180912525" k="name" o="none" type="way" v="Wing Street" />
     <tag id="180912525" k="source" o="none" type="way" v="Bing" />
-    <tag id="191345221" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="180912525" k="highway" o="none" type="way" v="residential" />
+    <tag id="185767622" k="ref" o="none" type="way" v="A13" />
+    <tag id="185767622" k="name" o="none" type="way" v="Salisbury Highway Onramp" />
+    <tag id="185767622" k="oneway" o="none" type="way" v="yes" />
+    <tag id="185767622" k="source" o="none" type="way" v="Bing" />
+    <tag id="185767622" k="highway" o="modify" type="way" v="motorway_link" />
+    <tag id="185767622" k="cycleway" o="none" type="way" v="lane" />
+    <tag id="185767622" k="source_ref:name" o="none" type="way" v="http://osm.beldin.org/2008/12/dscf5555.jpg" />
     <tag id="191345221" k="lanes" o="none" type="way" v="2" />
     <tag id="191345221" k="oneway" o="none" type="way" v="yes" />
+    <tag id="191345221" k="highway" o="modify" type="way" v="motorway_link" />
     <tag id="191345221" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="23202503" k="highway" o="modify" type="way" v="construction" />
-    <tag id="23202503" k="oneway" o="none" type="way" v="yes" />
-    <tag id="23202503" k="source" o="none" type="way" v="survey" />
-    <tag id="179621677" k="electrified" o="none" type="way" v="no" />
-    <tag id="179621677" k="railway" o="none" type="way" v="rail" />
-    <tag id="191345222" k="bridge" o="none" type="way" v="yes" />
-    <tag id="191345222" k="highway" o="modify" type="way" v="motorway_link" />
     <tag id="191345222" k="lanes" o="none" type="way" v="2" />
     <tag id="191345222" k="layer" o="none" type="way" v="1" />
+    <tag id="191345222" k="bridge" o="none" type="way" v="yes" />
     <tag id="191345222" k="oneway" o="none" type="way" v="yes" />
+    <tag id="191345222" k="highway" o="modify" type="way" v="motorway_link" />
     <tag id="191345222" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
-    <tag id="23202500" k="highway" o="modify" type="way" v="construction" />
-    <tag id="23202500" k="oneway" o="none" type="way" v="yes" />
+    <tag id="204838791" k="name" o="none" type="way" v="Senna Road" />
+    <tag id="204838791" k="source" o="none" type="way" v="Bing" />
+    <tag id="204838791" k="highway" o="modify" type="way" v="residential" />
+    <tag id="204838791" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="259219012" k="name" o="none" type="way" v="South Road" />
+    <tag id="259219012" k="oneway" o="none" type="way" v="yes" />
+    <tag id="259219012" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="259219012" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="259219012" k="source:ref" o="none" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
+    <tag id="265894995" k="name" o="add" type="way" v="South Road" />
+    <tag id="265894995" k="highway" o="add" type="way" v="trunk" />
+    <tag id="265894995" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="265894995" k="source:ref" o="add" type="way" v="http://www.infrastructure.sa.gov.au/south_road_upgrade/northsouthcorridor/south_road_superway/" />
     <tag id="2297385" k="ref" o="none" type="relation" v="A13" />
-    <tag id="2297385" k="route" o="none" type="relation" v="road" />
     <tag id="2297385" k="type" o="none" type="relation" v="route" />
+    <tag id="2297385" k="route" o="none" type="relation" v="road" />
   </body>
 </changeset>

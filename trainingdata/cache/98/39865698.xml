@@ -1,1 +1,24 @@
-<changeset id="39865698" schema="1"><counts nodesAdded="1" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="First OSM contribution" /><tag k="created_by" v="iD 1.9.5" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-US" /></meta><body><tag id="4230463125" k="addr:city" o="add" type="node" v="Portland" /><tag id="4230463125" k="addr:housenumber" o="add" type="node" v="188" /><tag id="4230463125" k="addr:postcode" o="add" type="node" v="04101" /><tag id="4230463125" k="addr:state" o="add" type="node" v="ME" /><tag id="4230463125" k="addr:street" o="add" type="node" v="State Street" /><tag id="4230463125" k="description" o="add" type="node" v="Privately owned open source mapping software development company" /><tag id="4230463125" k="name" o="add" type="node" v="NBT Solutions" /><tag id="4230463125" k="office" o="add" type="node" v="company" /><tag id="4230463125" k="website" o="add" type="node" v="http://www.nbtsolutions.com/" /><tag id="2150528774" k="website" o="add" type="node" v="http://www.lfkportland.me/" /></body></changeset>
+<changeset id="39865698" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="First OSM contribution" />
+    <tag k="created_by" v="iD 1.9.5" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="2150528774" k="name" o="none" type="node" v="LFK" />
+    <tag id="2150528774" k="amenity" o="none" type="node" v="pub" />
+    <tag id="2150528774" k="website" o="add" type="node" v="http://www.lfkportland.me/" />
+    <tag id="4230463125" k="name" o="add" type="node" v="NBT Solutions" />
+    <tag id="4230463125" k="office" o="add" type="node" v="company" />
+    <tag id="4230463125" k="website" o="add" type="node" v="http://www.nbtsolutions.com/" />
+    <tag id="4230463125" k="addr:city" o="add" type="node" v="Portland" />
+    <tag id="4230463125" k="addr:state" o="add" type="node" v="ME" />
+    <tag id="4230463125" k="addr:street" o="add" type="node" v="State Street" />
+    <tag id="4230463125" k="description" o="add" type="node" v="Privately owned open source mapping software development company" />
+    <tag id="4230463125" k="addr:postcode" o="add" type="node" v="04101" />
+    <tag id="4230463125" k="addr:housenumber" o="add" type="node" v="188" />
+  </body>
+</changeset>

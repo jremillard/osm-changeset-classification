@@ -1,5 +1,5 @@
 <changeset id="8255772" schema="2">
-  <counts nodesAdded="57" nodesDeleted="6" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="11" waysDeleted="3" waysModified="18" />
+  <counts nodesAdded="57" nodesDeleted="6" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="11" waysDeleted="3" waysModified="21" />
   <meta>
     <tag k="build" v="2.1-12-g870b72b" />
     <tag k="comment" v="Dillingen/Saar 20110526#05" />
@@ -7,38 +7,31 @@
     <tag k="version" v="2.1" />
   </meta>
   <body>
-    <tag id="114992401" k="highway" o="add" type="way" v="residential" />
-    <tag id="114992401" k="name" o="add" type="way" v="Rosenstra&#223;e" />
-    <tag id="114992754" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993343" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993344" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993345" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993346" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993347" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993348" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993349" k="highway" o="add" type="way" v="footway" />
-    <tag id="114993350" k="landuse" o="add" type="way" v="allotments" />
     <tag id="568103033" k="amenity" o="none" type="node" v="school" />
-    <tag id="114992751" k="highway" o="add" type="way" v="service" />
-    <tag id="114992751" k="oneway" o="add" type="way" v="no" />
-    <tag id="114992751" k="service" o="add" type="way" v="driveway" />
-    <tag id="39166738" k="highway" o="none" type="way" v="residential" />
-    <tag id="39166738" k="name" o="none" type="way" v="Nelkenstra&#223;e" />
-    <tag id="34115717" k="highway" o="none" type="way" v="residential" />
-    <tag id="34115717" k="name" o="none" type="way" v="Rosenstra&#223;e" />
-    <tag id="10898562" k="highway" o="none" type="way" v="residential" />
-    <tag id="10898562" k="name" o="none" type="way" v="Industriestra&#223;e" />
-    <tag id="90109225" k="landuse" o="none" type="way" v="residential" />
-    <tag id="90109225" k="place" o="add" type="way" v="town" />
-    <tag id="90109225" k="place_name" o="add" type="way" v="Dillingen/Saar" />
-    <tag id="10575503" k="highway" o="none" type="way" v="residential" />
+    <tag id="10575499" k="name" o="none" type="way" v="Enzianweg" />
+    <tag id="10575499" k="highway" o="none" type="way" v="residential" />
     <tag id="10575503" k="name" o="none" type="way" v="Enzianweg" />
-    <tag id="44805780" k="highway" o="none" type="way" v="residential" />
-    <tag id="44805780" k="name" o="none" type="way" v="Kerlinger Stra&#223;e" />
-    <tag id="44805907" k="highway" o="none" type="way" v="residential" />
-    <tag id="44805907" k="name" o="none" type="way" v="Bedersdorfer Stra&#223;e" />
-    <tag id="34116229" k="highway" o="none" type="way" v="residential" />
+    <tag id="10575503" k="highway" o="none" type="way" v="residential" />
+    <tag id="10898562" k="name" o="none" type="way" v="Industriestra&#223;e" />
+    <tag id="10898562" k="highway" o="none" type="way" v="residential" />
+    <tag id="34115717" k="name" o="none" type="way" v="Rosenstra&#223;e" />
+    <tag id="34115717" k="highway" o="none" type="way" v="residential" />
+    <tag id="34115722" k="name" o="none" type="way" v="Geranienstra&#223;e" />
+    <tag id="34115722" k="highway" o="none" type="way" v="residential" />
     <tag id="34116229" k="name" o="none" type="way" v="Am R&#246;merkastell" />
+    <tag id="34116229" k="highway" o="none" type="way" v="residential" />
+    <tag id="39166738" k="name" o="none" type="way" v="Nelkenstra&#223;e" />
+    <tag id="39166738" k="highway" o="none" type="way" v="residential" />
+    <tag id="44805780" k="name" o="none" type="way" v="Kerlinger Stra&#223;e" />
+    <tag id="44805780" k="highway" o="none" type="way" v="residential" />
+    <tag id="44805907" k="name" o="none" type="way" v="Bedersdorfer Stra&#223;e" />
+    <tag id="44805907" k="highway" o="none" type="way" v="residential" />
+    <tag id="90109225" k="place" o="add" type="way" v="town" />
+    <tag id="90109225" k="landuse" o="none" type="way" v="residential" />
+    <tag id="90109225" k="place_name" o="add" type="way" v="Dillingen/Saar" />
+    <tag id="104824329" k="name" o="none" type="way" v="Sporthalle West" />
+    <tag id="104824329" k="leisure" o="none" type="way" v="sports_centre" />
+    <tag id="104824329" k="building" o="add" type="way" v="yes" />
     <tag id="111003408" k="amenity" o="none" type="way" v="school" />
     <tag id="111003408" k="building" o="add" type="way" v="yes" />
     <tag id="111003408" k="building:use" o="add" type="way" v="school" />
@@ -57,20 +50,27 @@
     <tag id="111003429" k="amenity" o="none" type="way" v="school" />
     <tag id="111003429" k="building" o="add" type="way" v="yes" />
     <tag id="111003429" k="building:use" o="add" type="way" v="school" />
-    <tag id="104824329" k="building" o="add" type="way" v="yes" />
-    <tag id="104824329" k="leisure" o="none" type="way" v="sports_centre" />
-    <tag id="104824329" k="name" o="none" type="way" v="Sporthalle West" />
-    <tag id="34115722" k="highway" o="none" type="way" v="residential" />
-    <tag id="34115722" k="name" o="none" type="way" v="Geranienstra&#223;e" />
-    <tag id="10575499" k="highway" o="none" type="way" v="residential" />
-    <tag id="10575499" k="name" o="none" type="way" v="Enzianweg" />
-    <tag id="114926555" k="addr:city" o="none" type="way" v="Dillingen/Saar" />
-    <tag id="114926555" k="alt_name" o="none" type="way" v="Burg Dillingen" />
-    <tag id="114926555" k="building" o="none" type="way" v="yes" />
-    <tag id="114926555" k="contact:website" o="add" type="way" v="http://www.altes-schloss-dillingen.de/" />
-    <tag id="114926555" k="historic" o="none" type="way" v="castle" />
     <tag id="114926555" k="name" o="none" type="way" v="Altes Schloss Dillingen" />
     <tag id="114926555" k="tourism" o="none" type="way" v="attraction" />
+    <tag id="114926555" k="alt_name" o="none" type="way" v="Burg Dillingen" />
+    <tag id="114926555" k="building" o="none" type="way" v="yes" />
+    <tag id="114926555" k="historic" o="none" type="way" v="castle" />
+    <tag id="114926555" k="addr:city" o="none" type="way" v="Dillingen/Saar" />
     <tag id="114926555" k="wikipedia:de" o="none" type="way" v="Altes_Schloss_(Dillingen)" />
+    <tag id="114926555" k="contact:website" o="add" type="way" v="http://www.altes-schloss-dillingen.de/" />
+    <tag id="114992401" k="name" o="add" type="way" v="Rosenstra&#223;e" />
+    <tag id="114992401" k="highway" o="add" type="way" v="residential" />
+    <tag id="114992751" k="oneway" o="add" type="way" v="no" />
+    <tag id="114992751" k="highway" o="add" type="way" v="service" />
+    <tag id="114992751" k="service" o="add" type="way" v="driveway" />
+    <tag id="114992754" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993343" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993344" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993345" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993346" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993347" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993348" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993349" k="highway" o="add" type="way" v="footway" />
+    <tag id="114993350" k="landuse" o="add" type="way" v="allotments" />
   </body>
 </changeset>

@@ -1,1 +1,54 @@
-<changeset id="56152252" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="3" waysAdded="2" waysModified="2" /><meta><tag k="changesets_count" v="204" /><tag k="comment" v="Added forward/backward tags to bus lines tracks" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="it" /></meta><body><tag id="559467548" k="highway" o="add" type="way" v="primary" /><tag id="559467548" k="junction" o="add" type="way" v="roundabout" /><tag id="559467548" k="lanes" o="add" type="way" v="2" /><tag id="559467548" k="maxspeed" o="add" type="way" v="50" /><tag id="559467548" k="name" o="add" type="way" v="Lungadige Attiraglio" /><tag id="559467549" k="highway" o="add" type="way" v="secondary" /><tag id="559467549" k="lanes" o="add" type="way" v="2" /><tag id="559467549" k="maxspeed" o="add" type="way" v="50" /><tag id="559467549" k="name" o="add" type="way" v="Via Trento" /><tag id="559467549" k="surface" o="add" type="way" v="asphalt" /></body></changeset>
+<changeset id="56152252" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="changesets_count" v="204" />
+    <tag k="comment" v="Added forward/backward tags to bus lines tracks" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="it" />
+  </meta>
+  <body>
+    <tag id="23901052" k="name" o="none" type="way" v="Lungadige Attiraglio" />
+    <tag id="23901052" k="lanes" o="none" type="way" v="2" />
+    <tag id="23901052" k="highway" o="none" type="way" v="primary" />
+    <tag id="23901052" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="23901052" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="252530239" k="name" o="none" type="way" v="Via Trento" />
+    <tag id="252530239" k="lanes" o="none" type="way" v="2" />
+    <tag id="252530239" k="highway" o="none" type="way" v="secondary" />
+    <tag id="252530239" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="252530239" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="559467548" k="name" o="add" type="way" v="Lungadige Attiraglio" />
+    <tag id="559467548" k="lanes" o="add" type="way" v="2" />
+    <tag id="559467548" k="highway" o="add" type="way" v="primary" />
+    <tag id="559467548" k="junction" o="add" type="way" v="roundabout" />
+    <tag id="559467548" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="559467549" k="name" o="add" type="way" v="Via Trento" />
+    <tag id="559467549" k="lanes" o="add" type="way" v="2" />
+    <tag id="559467549" k="highway" o="add" type="way" v="secondary" />
+    <tag id="559467549" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="559467549" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="17556" k="ref" o="none" type="relation" v="SS12" />
+    <tag id="17556" k="name" o="none" type="relation" v="Strada Statale 12 dell'Abetone e del Brennero" />
+    <tag id="17556" k="type" o="none" type="relation" v="route" />
+    <tag id="17556" k="route" o="none" type="relation" v="road" />
+    <tag id="17556" k="name:de" o="none" type="relation" v="Brenner-Staatsstra&#223;e" />
+    <tag id="17556" k="nat_ref" o="none" type="relation" v="SS12" />
+    <tag id="17556" k="operator" o="none" type="relation" v="ANAS;Provincia di Trento;Provincia di Bolzano" />
+    <tag id="17556" k="wikidata" o="none" type="relation" v="Q1711700" />
+    <tag id="17556" k="wikipedia" o="none" type="relation" v="it:Strada statale 12 dell'Abetone e del Brennero" />
+    <tag id="3288935" k="ref" o="none" type="relation" v="21" />
+    <tag id="3288935" k="name" o="none" type="relation" v="Linea 21" />
+    <tag id="3288935" k="type" o="none" type="relation" v="route" />
+    <tag id="3288935" k="route" o="none" type="relation" v="bus" />
+    <tag id="3288935" k="network" o="none" type="relation" v="ATV" />
+    <tag id="3288935" k="operator" o="none" type="relation" v="ATV" />
+    <tag id="3288944" k="ref" o="none" type="relation" v="22" />
+    <tag id="3288944" k="name" o="none" type="relation" v="Linea 22" />
+    <tag id="3288944" k="type" o="none" type="relation" v="route" />
+    <tag id="3288944" k="route" o="none" type="relation" v="bus" />
+    <tag id="3288944" k="network" o="none" type="relation" v="ATV" />
+    <tag id="3288944" k="operator" o="none" type="relation" v="ATV" />
+  </body>
+</changeset>

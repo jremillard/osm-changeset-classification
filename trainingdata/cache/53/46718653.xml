@@ -1,93 +1,93 @@
 <changeset id="46718653" schema="2">
-  <counts nodesAdded="0" nodesDeleted="0" nodesModified="84" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="68" />
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="30" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="68" />
   <meta>
     <tag k="comment" v="1. Removing duplicated [name:fa] tags with exact same value of [name] tag. 2. Converting some Arabic (Ya, Ka) characters and English digits [1234567890] into their equivalents in Perisan encoding" />
     <tag k="created_by" v="Tabriz Softek" />
   </meta>
   <body>
-    <tag id="854339027" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1586;&#1605;&#1586;&#1605;" />
-    <tag id="854339027" k="amenity" o="none" type="node" v="fire_station" />
     <tag id="854339027" k="name" o="none" type="node" v="&#1570;&#1578;&#1588; &#1606;&#1588;&#1575;&#1606;&#1740;" />
-    <tag id="4216682790" k="addr:street" o="none" type="node" v="&#1587;&#1602;&#1585;&#1575;&#1591;" />
+    <tag id="854339027" k="amenity" o="none" type="node" v="fire_station" />
+    <tag id="854339027" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1586;&#1605;&#1586;&#1605;" />
+    <tag id="3879022390" k="name" o="none" type="node" v="&#1662;&#1605;&#1662; &#1711;&#1575;&#1586;" />
+    <tag id="3879022390" k="amenity" o="none" type="node" v="fuel" />
+    <tag id="3879022390" k="name:en" o="none" type="node" v="CNG" />
+    <tag id="4216682790" k="name" o="none" type="node" v="&#1587;&#1601;&#1575;&#1585;&#1578; &#1593;&#1585;&#1575;&#1602;" />
+    <tag id="4216682790" k="email" o="none" type="node" v="www.bmi6500@bmi.ir" />
+    <tag id="4216682790" k="phone" o="none" type="node" v="+9861133367000" />
     <tag id="4216682790" k="amenity" o="none" type="node" v="embassy" />
     <tag id="4216682790" k="country" o="none" type="node" v="Iraq" />
-    <tag id="4216682790" k="email" o="none" type="node" v="www.bmi6500@bmi.ir" />
-    <tag id="4216682790" k="name" o="none" type="node" v="&#1587;&#1601;&#1575;&#1585;&#1578; &#1593;&#1585;&#1575;&#1602;" />
     <tag id="4216682790" k="name:en" o="none" type="node" v="bmi 6500" />
     <tag id="4216682790" k="name:fa" o="modify" type="node" v="&#1587;&#1585;&#1662;&#1585;&#1587;&#1578;&#1740; &#1576;&#1575;&#1606;&#1705; &#1605;&#1604;&#1740;" />
-    <tag id="4216682790" k="opening_hours" o="none" type="node" v="Sa-Th 07:00-13:30" />
-    <tag id="4216682790" k="phone" o="none" type="node" v="+9861133367000" />
     <tag id="4216682790" k="website" o="none" type="node" v="http://www.bmi.ir" />
-    <tag id="4685330789" k="addr:housenumber" o="none" type="node" v="658" />
-    <tag id="4685330789" k="addr:street" o="modify" type="node" v="&#1582;.&#1580;&#1605;&#1607;&#1608;&#1585;&#1740; &#1575;&#1587;&#1604;&#1575;&#1605;&#1740;-&#1606;&#1576;&#1588; &#1582;.&#1779;&#1776; &#1578;&#1740;&#1585;" />
-    <tag id="4685330789" k="amenity" o="none" type="node" v="bank" />
-    <tag id="4685330789" k="name" o="modify" type="node" v="&#1576;&#1575;&#1606;&#1705; &#1705;&#1588;&#1575;&#1608;&#1585;&#1586;&#1740;" />
-    <tag id="4685330789" k="name:en" o="none" type="node" v="Keshavarzi Bank" />
-    <tag id="4685330789" k="opening_hours" o="none" type="node" v="Sa-Th 08:00-16:00" />
-    <tag id="4685330789" k="phone" o="none" type="node" v="00982166722922" />
-    <tag id="4685330789" k="website" o="none" type="node" v="http://www.bki.ir" />
-    <tag id="4716053189" k="amenity" o="none" type="node" v="courthouse" />
-    <tag id="4716053189" k="name" o="none" type="node" v="&#1583;&#1575;&#1583;&#1740;&#1575;&#1585;&#1740; &#1576;&#1607;&#1575;&#1585;&#1587;&#1578;&#1575;&#1606;" />
-    <tag id="4716053189" k="name:en" o="none" type="node" v="Baharestan Courthouse" />
-    <tag id="3879022390" k="amenity" o="none" type="node" v="fuel" />
-    <tag id="3879022390" k="name" o="none" type="node" v="&#1662;&#1605;&#1662; &#1711;&#1575;&#1586;" />
-    <tag id="3879022390" k="name:en" o="none" type="node" v="CNG" />
-    <tag id="4580129774" k="name" o="none" type="node" v="&#1662;&#1575;&#1740;&#1740;&#1606; &#1605;&#1581;&#1604;&#1607;" />
-    <tag id="4580129774" k="name:en" o="none" type="node" v="Pain Mahalle" />
-    <tag id="4580129774" k="place" o="none" type="node" v="suburb" />
-    <tag id="4580129775" k="name" o="none" type="node" v="&#1582;&#1606;&#1583; &#1602;&#1576;&#1575;&#1585;" />
-    <tag id="4580129775" k="name:en" o="none" type="node" v="Khand Ghobar" />
-    <tag id="4580129775" k="place" o="none" type="node" v="suburb" />
-    <tag id="4580129777" k="name" o="none" type="node" v="&#1570;&#1582;&#1608;&#1606;&#1583;" />
-    <tag id="4580129777" k="name:en" o="none" type="node" v="Akhond" />
-    <tag id="4580129777" k="place" o="none" type="node" v="suburb" />
-    <tag id="4396465989" k="historic" o="none" type="node" v="church" />
+    <tag id="4216682790" k="addr:street" o="none" type="node" v="&#1587;&#1602;&#1585;&#1575;&#1591;" />
+    <tag id="4216682790" k="opening_hours" o="none" type="node" v="Sa-Th 07:00-13:30" />
     <tag id="4396465989" k="name" o="none" type="node" v="&#1705;&#1604;&#1740;&#1587;&#1575;&#1740; &#1585;&#1601;&#1740;&#1593;" />
     <tag id="4396465989" k="name:en" o="none" type="node" v="Rafie Church" />
     <tag id="4396465989" k="name:it" o="none" type="node" v="rafie church" />
     <tag id="4396465989" k="tourism" o="none" type="node" v="attraction" />
-    <tag id="4719197898" k="amenity" o="none" type="node" v="pharmacy" />
+    <tag id="4396465989" k="historic" o="none" type="node" v="church" />
+    <tag id="4580129774" k="name" o="none" type="node" v="&#1662;&#1575;&#1740;&#1740;&#1606; &#1605;&#1581;&#1604;&#1607;" />
+    <tag id="4580129774" k="place" o="none" type="node" v="suburb" />
+    <tag id="4580129774" k="name:en" o="none" type="node" v="Pain Mahalle" />
+    <tag id="4580129775" k="name" o="none" type="node" v="&#1582;&#1606;&#1583; &#1602;&#1576;&#1575;&#1585;" />
+    <tag id="4580129775" k="place" o="none" type="node" v="suburb" />
+    <tag id="4580129775" k="name:en" o="none" type="node" v="Khand Ghobar" />
+    <tag id="4580129777" k="name" o="none" type="node" v="&#1570;&#1582;&#1608;&#1606;&#1583;" />
+    <tag id="4580129777" k="place" o="none" type="node" v="suburb" />
+    <tag id="4580129777" k="name:en" o="none" type="node" v="Akhond" />
+    <tag id="4685330789" k="name" o="modify" type="node" v="&#1576;&#1575;&#1606;&#1705; &#1705;&#1588;&#1575;&#1608;&#1585;&#1586;&#1740;" />
+    <tag id="4685330789" k="phone" o="none" type="node" v="00982166722922" />
+    <tag id="4685330789" k="amenity" o="none" type="node" v="bank" />
+    <tag id="4685330789" k="name:en" o="none" type="node" v="Keshavarzi Bank" />
+    <tag id="4685330789" k="website" o="none" type="node" v="http://www.bki.ir" />
+    <tag id="4685330789" k="addr:street" o="modify" type="node" v="&#1582;.&#1580;&#1605;&#1607;&#1608;&#1585;&#1740; &#1575;&#1587;&#1604;&#1575;&#1605;&#1740;-&#1606;&#1576;&#1588; &#1582;.&#1779;&#1776; &#1578;&#1740;&#1585;" />
+    <tag id="4685330789" k="opening_hours" o="none" type="node" v="Sa-Th 08:00-16:00" />
+    <tag id="4685330789" k="addr:housenumber" o="none" type="node" v="658" />
+    <tag id="4716053189" k="name" o="none" type="node" v="&#1583;&#1575;&#1583;&#1740;&#1575;&#1585;&#1740; &#1576;&#1607;&#1575;&#1585;&#1587;&#1578;&#1575;&#1606;" />
+    <tag id="4716053189" k="amenity" o="none" type="node" v="courthouse" />
+    <tag id="4716053189" k="name:en" o="none" type="node" v="Baharestan Courthouse" />
     <tag id="4719197898" k="name" o="none" type="node" v="&#1583;&#1575;&#1585;&#1608;&#1582;&#1575;&#1606;&#1607; &#1583;&#1705;&#1578;&#1585; &#1586;&#1606;&#1583;&#1740;&#1607;" />
+    <tag id="4719197898" k="amenity" o="none" type="node" v="pharmacy" />
     <tag id="4719197898" k="name:en" o="none" type="node" v="Parmancy zandiye" />
-    <tag id="4719232497" k="addr:street" o="none" type="node" v="&#1580;&#1575;&#1583;&#1607; &#1583;&#1740;&#1608;&#1575;&#1606;&#1583;&#1585;&#1607; - &#1576;&#1740;&#1580;&#1575;&#1585;" />
-    <tag id="4719232497" k="amenity" o="none" type="node" v="bus_station" />
     <tag id="4719232497" k="name" o="none" type="node" v="&#1578;&#1585;&#1605;&#1740;&#1606;&#1575;&#1604; &#1587;&#1606;&#1606;&#1583;&#1580;" />
+    <tag id="4719232497" k="amenity" o="none" type="node" v="bus_station" />
     <tag id="4719232497" k="name:en" o="none" type="node" v="Terminal sanandaj" />
-    <tag id="4719260520" k="addr:street" o="none" type="node" v="emam.st" />
-    <tag id="4719260520" k="email" o="none" type="node" v="aymindgh@gmail.com" />
+    <tag id="4719232497" k="addr:street" o="none" type="node" v="&#1580;&#1575;&#1583;&#1607; &#1583;&#1740;&#1608;&#1575;&#1606;&#1583;&#1585;&#1607; - &#1576;&#1740;&#1580;&#1575;&#1585;" />
     <tag id="4719260520" k="name" o="modify" type="node" v="&#1601;&#1585;&#1608;&#1588;&#1711;&#1575;&#1607; &#1583;&#1705;&#1578;&#1585; &#1605;&#1608;&#1576;&#1575;&#1740;&#1604;" />
+    <tag id="4719260520" k="shop" o="none" type="node" v="mobile_phone" />
+    <tag id="4719260520" k="email" o="none" type="node" v="aymindgh@gmail.com" />
+    <tag id="4719260520" k="phone" o="none" type="node" v="09144620614" />
     <tag id="4719260520" k="name:en" o="none" type="node" v="dr.mobile" />
     <tag id="4719260520" k="name:tr" o="none" type="node" v="cep.doktor&#252;" />
-    <tag id="4719260520" k="opening_hours" o="none" type="node" v="Mo-Su 09:00-14:00, 16:00-21:00" />
-    <tag id="4719260520" k="phone" o="none" type="node" v="09144620614" />
-    <tag id="4719260520" k="shop" o="none" type="node" v="mobile_phone" />
     <tag id="4719260520" k="website" o="none" type="node" v="http://t.me/drmobile_hamid" />
-    <tag id="4719277491" k="addr:street" o="none" type="node" v="&#1605;&#1740;&#1583;&#1575;&#1606; &#1585;&#1581;&#1605;&#1575;&#1606;&#1740;" />
-    <tag id="4719277491" k="amenity" o="none" type="node" v="bank" />
+    <tag id="4719260520" k="addr:street" o="none" type="node" v="emam.st" />
+    <tag id="4719260520" k="opening_hours" o="none" type="node" v="Mo-Su 09:00-14:00, 16:00-21:00" />
     <tag id="4719277491" k="name" o="none" type="node" v="&#1576;&#1575;&#1606;&#1705; &#1605;&#1604;&#1740;" />
+    <tag id="4719277491" k="amenity" o="none" type="node" v="bank" />
     <tag id="4719277491" k="name:en" o="none" type="node" v="Bank meli" />
+    <tag id="4719277491" k="addr:street" o="none" type="node" v="&#1605;&#1740;&#1583;&#1575;&#1606; &#1585;&#1581;&#1605;&#1575;&#1606;&#1740;" />
     <tag id="4719277492" k="name" o="none" type="node" v="&#1570;&#1578;&#1604;&#1740;&#1607; &#1593;&#1705;&#1575;&#1587;&#1740; &#1587;&#1662;&#1607;&#1585;" />
     <tag id="4719277492" k="name:en" o="none" type="node" v="Artwork sepehr" />
     <tag id="4719277492" k="tourism" o="none" type="node" v="artwork" />
-    <tag id="4719278591" k="amenity" o="none" type="node" v="bank" />
     <tag id="4719278591" k="name" o="none" type="node" v="&#1576;&#1575;&#1606;&#1705; &#1605;&#1604;&#1740;" />
+    <tag id="4719278591" k="amenity" o="none" type="node" v="bank" />
     <tag id="4719278591" k="name:en" o="none" type="node" v="Bank meli" />
-    <tag id="4719283490" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1588;&#1607;&#1740;&#1583; &#1585;&#1581;&#1605;&#1575;&#1606;&#1740;" />
-    <tag id="4719283490" k="amenity" o="none" type="node" v="pharmacy" />
     <tag id="4719283490" k="name" o="none" type="node" v="&#1583;&#1575;&#1585;&#1608;&#1582;&#1575;&#1606;&#1607; &#1588;&#1576;&#1575;&#1606;&#1607; &#1585;&#1608;&#1586;&#1740;" />
+    <tag id="4719283490" k="amenity" o="none" type="node" v="pharmacy" />
     <tag id="4719283490" k="name:en" o="none" type="node" v="Parmancy" />
-    <tag id="4719366597" k="amenity" o="none" type="node" v="doctors" />
+    <tag id="4719283490" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1588;&#1607;&#1740;&#1583; &#1585;&#1581;&#1605;&#1575;&#1606;&#1740;" />
     <tag id="4719366597" k="name" o="modify" type="node" v="&#1583;&#1705;&#1578;&#1585; &#1606;&#1575;&#1589;&#1585; &#1587;&#1740;&#1711;&#1575;&#1585;&#1740; &#1591;&#1576; &#1587;&#1608;&#1586;&#1606;&#1740;" />
+    <tag id="4719366597" k="amenity" o="none" type="node" v="doctors" />
     <tag id="4719366597" k="name:en" o="none" type="node" v="Naser Cigary" />
     <tag id="4719534589" k="name" o="modify" type="node" v="&#1583;&#1601;&#1578;&#1585; &#1601;&#1585;&#1608;&#1588; &#1576;&#1604;&#1740;&#1591; &#1575;&#1581;&#1587;&#1575;&#1606; &#1587;&#1740;&#1585; &#1570;&#1587;&#1740;&#1575;" />
     <tag id="4719534589" k="tourism" o="none" type="node" v="artwork" />
     <tag id="4719575691" k="name" o="none" type="node" v="&#1575;&#1605;&#1575;&#1605;&#1586;&#1575;&#1583;&#1607; &#1587;&#1740;&#1583; &#1740;&#1576;&#1585;" />
     <tag id="4719575691" k="tourism" o="none" type="node" v="attraction" />
-    <tag id="4719623289" k="addr:street" o="none" type="node" v="&#1582;&#1740;&#1575;&#1605; &#1580;&#1606;&#1608;&#1576;&#1740;" />
     <tag id="4719623289" k="name" o="none" type="node" v="&#1588;&#1585;&#1705;&#1578; &#1575;&#1585;&#1608;&#1605; &#1585;&#1575;&#1740;&#1575;&#1606;&#1607; &#1587;&#1585;&#1608;&#1588;" />
-    <tag id="4719623289" k="name:en" o="none" type="node" v="Urom rayaneh soroosh co" />
-    <tag id="4719623289" k="phone" o="none" type="node" v="04432254526" />
     <tag id="4719623289" k="shop" o="none" type="node" v="computer" />
+    <tag id="4719623289" k="phone" o="none" type="node" v="04432254526" />
+    <tag id="4719623289" k="name:en" o="none" type="node" v="Urom rayaneh soroosh co" />
+    <tag id="4719623289" k="addr:street" o="none" type="node" v="&#1582;&#1740;&#1575;&#1605; &#1580;&#1606;&#1608;&#1576;&#1740;" />
     <tag id="4719658190" k="name" o="modify" type="node" v="&#1587;&#1575;&#1582;&#1578;&#1605;&#1575;&#1606; &#1780; &#1591;&#1576;&#1602;&#1607; &#1606;&#1607;&#1575;&#1583; &#1585;&#1740;&#1575;&#1587;&#1578; &#1580;&#1605;&#1607;&#1608;&#1585;&#1740;" />
     <tag id="4719658190" k="name:en" o="none" type="node" v="Bulding 4 floor" />
     <tag id="4719658190" k="tourism" o="none" type="node" v="viewpoint" />
@@ -96,406 +96,406 @@
     <tag id="4719658191" k="tourism" o="none" type="node" v="viewpoint" />
     <tag id="4719658192" k="name" o="none" type="node" v="&#1605;&#1740;&#1583;&#1575;&#1606; &#1575;&#1604;&#1575;&#1601; &#1607;&#1575;" />
     <tag id="4719658192" k="tourism" o="none" type="node" v="viewpoint" />
-    <tag id="4719665292" k="amenity" o="none" type="node" v="police" />
     <tag id="4719665292" k="name" o="none" type="node" v="&#1711;&#1740;&#1578; &#1606;&#1711;&#1607;&#1576;&#1575;&#1606;&#1740; &#1575;&#1608;&#1604;" />
+    <tag id="4719665292" k="amenity" o="none" type="node" v="police" />
     <tag id="4719665292" k="name:en" o="none" type="node" v="Police" />
-    <tag id="4719665293" k="amenity" o="none" type="node" v="police" />
     <tag id="4719665293" k="name" o="none" type="node" v="&#1711;&#1740;&#1578; &#1587;&#1662;&#1575;&#1607;" />
+    <tag id="4719665293" k="amenity" o="none" type="node" v="police" />
     <tag id="4719665293" k="name:en" o="none" type="node" v="Sepah geit" />
     <tag id="4719665294" k="name" o="none" type="node" v="&#1587;&#1575;&#1582;&#1578;&#1605;&#1575;&#1606; &#1587;&#1601;&#1740;&#1583;" />
     <tag id="4719665294" k="name:en" o="none" type="node" v="Bulding white" />
     <tag id="4719665294" k="tourism" o="none" type="node" v="viewpoint" />
     <tag id="4719665295" k="name" o="none" type="node" v="&#1576;&#1575;&#1588;&#1711;&#1575;&#1607; &#1608;&#1585;&#1586;&#1588;&#1740;" />
     <tag id="4719665295" k="tourism" o="none" type="node" v="viewpoint" />
-    <tag id="4719681289" k="amenity" o="none" type="node" v="hospital" />
     <tag id="4719681289" k="name" o="none" type="node" v="&#1576;&#1740;&#1605;&#1575;&#1585;&#1587;&#1578;&#1575;&#1606; &#1606;&#1607;&#1575;&#1583; &#1585;&#1740;&#1575;&#1587;&#1578; &#1580;&#1605;&#1607;&#1608;&#1585;&#1740;" />
-    <tag id="4719681289" k="name:en" o="none" type="node" v="President hospital" />
     <tag id="4719681289" k="phone" o="none" type="node" v="02188903996" />
-    <tag id="4719681389" k="amenity" o="none" type="node" v="restaurant" />
-    <tag id="4719681389" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="4719681289" k="amenity" o="none" type="node" v="hospital" />
+    <tag id="4719681289" k="name:en" o="none" type="node" v="President hospital" />
     <tag id="4719681389" k="name" o="none" type="node" v="&#1585;&#1587;&#1578;&#1608;&#1585;&#1575;&#1606; &#1606;&#1607;&#1575;&#1583; &#1585;&#1740;&#1575;&#1587;&#1578; &#1580;&#1605;&#1607;&#1608;&#1585;&#1740;" />
+    <tag id="4719681389" k="phone" o="none" type="node" v="02164451" />
+    <tag id="4719681389" k="amenity" o="none" type="node" v="restaurant" />
     <tag id="4719681389" k="name:en" o="none" type="node" v="President restaurant" />
     <tag id="4719681389" k="opening_hours" o="none" type="node" v="Mo-Su 12:00-22:00" />
-    <tag id="4719681389" k="phone" o="none" type="node" v="02164451" />
-    <tag id="4719681390" k="amenity" o="none" type="node" v="police" />
+    <tag id="4719681389" k="internet_access" o="none" type="node" v="wlan" />
     <tag id="4719681390" k="name" o="none" type="node" v="&#1711;&#1740;&#1578; &#1587;&#1662;&#1575;&#1607;" />
-    <tag id="4719780005" k="addr:housenumber" o="none" type="node" v="00984444336277" />
-    <tag id="4719780005" k="addr:street" o="none" type="node" v="&#1662;&#1740;&#1585;&#1608;&#1586;&#1740;" />
-    <tag id="4719780005" k="email" o="none" type="node" v="www.mobilemelli@gmail.com" />
-    <tag id="4719780005" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="4719681390" k="amenity" o="none" type="node" v="police" />
     <tag id="4719780005" k="name" o="modify" type="node" v="&#1605;&#1608;&#1576;&#1575;&#1740;&#1604; &#1605;&#1604;&#1740;" />
-    <tag id="4719780005" k="opening_hours" o="none" type="node" v="Mo-Su 08:00-21:00" />
-    <tag id="4719780005" k="phone" o="none" type="node" v="00984444336277" />
     <tag id="4719780005" k="shop" o="none" type="node" v="mobile_phone" />
+    <tag id="4719780005" k="email" o="none" type="node" v="www.mobilemelli@gmail.com" />
+    <tag id="4719780005" k="phone" o="none" type="node" v="00984444336277" />
     <tag id="4719780005" k="website" o="none" type="node" v="http://www.mobilemelli@gmail.com" />
-    <tag id="4719789789" k="amenity" o="none" type="node" v="school" />
+    <tag id="4719780005" k="addr:street" o="none" type="node" v="&#1662;&#1740;&#1585;&#1608;&#1586;&#1740;" />
+    <tag id="4719780005" k="opening_hours" o="none" type="node" v="Mo-Su 08:00-21:00" />
+    <tag id="4719780005" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="4719780005" k="addr:housenumber" o="none" type="node" v="00984444336277" />
     <tag id="4719789789" k="name" o="modify" type="node" v="&#1605;&#1608;&#1587;&#1587;&#1607; &#1586;&#1576;&#1575;&#1606; &#1575;&#1604;&#1605;&#1575;&#1606;&#1740; &#1578;&#1607;&#1585;&#1575;&#1606; (&#1711;&#1608;&#1578;&#1607; - &#1602;&#1604;&#1607;&#1705;)" />
+    <tag id="4719789789" k="amenity" o="none" type="node" v="school" />
     <tag id="4719789789" k="name:en" o="none" type="node" v="German Language Academy (DSIT)" />
     <tag id="4720018092" k="name" o="none" type="node" v="&#1582;&#1575;&#1606;&#1607;" />
     <tag id="4720018092" k="tourism" o="none" type="node" v="camp_site" />
-    <tag id="4720119091" k="amenity" o="none" type="node" v="school" />
     <tag id="4720119091" k="name" o="none" type="node" v="&#1583;&#1576;&#1740;&#1585;&#1587;&#1578;&#1575;&#1606; &#1588;&#1607;&#1740;&#1583; &#1576;&#1607;&#1588;&#1578;&#1740;" />
+    <tag id="4720119091" k="amenity" o="none" type="node" v="school" />
     <tag id="4720119091" k="name:en" o="none" type="node" v="shahid beheshti high school" />
     <tag id="4720119092" k="name" o="none" type="node" v="&#1662;&#1740;&#1606;&#1578; &#1576;&#1575;&#1604;" />
-    <tag id="4720119092" k="name:en" o="none" type="node" v="painball" />
     <tag id="4720119092" k="shop" o="none" type="node" v="outdoor" />
-    <tag id="4720207490" k="addr:housenumber" o="none" type="node" v="14" />
-    <tag id="4720207490" k="addr:postcode" o="none" type="node" v="021" />
-    <tag id="4720207490" k="addr:street" o="none" type="node" v="&#1602;&#1585;&#1575;&#1574;&#1740; &#1711;&#1585;&#1705;&#1575;&#1606;&#1740;" />
+    <tag id="4720119092" k="name:en" o="none" type="node" v="painball" />
+    <tag id="4720207490" k="name" o="none" type="node" v="&#1711;&#1585;&#1705;&#1575;&#1606;&#1740;" />
+    <tag id="4720207490" k="email" o="none" type="node" v="hamedbazargan1986@gmail.com" />
+    <tag id="4720207490" k="phone" o="none" type="node" v="09356149595" />
     <tag id="4720207490" k="amenity" o="none" type="node" v="bar" />
     <tag id="4720207490" k="cuisine" o="none" type="node" v="asian" />
-    <tag id="4720207490" k="email" o="none" type="node" v="hamedbazargan1986@gmail.com" />
-    <tag id="4720207490" k="internet_access" o="none" type="node" v="wlan" />
-    <tag id="4720207490" k="name" o="none" type="node" v="&#1711;&#1585;&#1705;&#1575;&#1606;&#1740;" />
     <tag id="4720207490" k="name:en" o="none" type="node" v="Gorgani" />
+    <tag id="4720207490" k="addr:street" o="none" type="node" v="&#1602;&#1585;&#1575;&#1574;&#1740; &#1711;&#1585;&#1705;&#1575;&#1606;&#1740;" />
+    <tag id="4720207490" k="addr:postcode" o="none" type="node" v="021" />
     <tag id="4720207490" k="opening_hours" o="none" type="node" v="24/7" />
-    <tag id="4720207490" k="phone" o="none" type="node" v="09356149595" />
+    <tag id="4720207490" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="4720207490" k="addr:housenumber" o="none" type="node" v="14" />
     <tag id="4720214991" k="name" o="none" type="node" v="&#1606;&#1575;&#1606;&#1608;&#1575;&#1740;&#1740; &#1605;&#1581;&#1605;&#1583; &#1662;&#1608;&#1585;" />
     <tag id="4720214991" k="shop" o="none" type="node" v="bakery" />
     <tag id="4720244995" k="name" o="none" type="node" v="&#1588;&#1607;&#1585;&#1583;&#1575;&#1585;&#1740; &#1576;&#1606;&#1583;&#1585;&#1593;&#1576;&#1575;&#1587;" />
     <tag id="4720244995" k="office" o="none" type="node" v="government" />
     <tag id="4720580698" k="name" o="none" type="node" v="&#1582;&#1608;&#1606;&#1607;" />
-    <tag id="4720580698" k="name:en" o="none" type="node" v="Home" />
     <tag id="4720580698" k="shop" o="none" type="node" v="bakery" />
+    <tag id="4720580698" k="name:en" o="none" type="node" v="Home" />
     <tag id="4720610389" k="name" o="none" type="node" v="&#1575;&#1581;&#1740;&#1575;&#1711;&#1585;&#1575;&#1606;" />
     <tag id="4720610389" k="name:en" o="none" type="node" v="Ehyagaran" />
     <tag id="4720610389" k="tourism" o="none" type="node" v="artwork" />
     <tag id="4720690312" k="name" o="none" type="node" v="&#1576;&#1575;&#1586;&#1575;&#1585;&#1670;&#1607; &#1587;&#1593;&#1575;&#1583;&#1578;" />
     <tag id="4720690312" k="shop" o="none" type="node" v="supermarket" />
-    <tag id="4720690313" k="amenity" o="none" type="node" v="school" />
     <tag id="4720690313" k="name" o="none" type="node" v="&#1605;&#1583;&#1585;&#1587;&#1607; &#1585;&#1575;&#1607;&#1606;&#1605;&#1575;&#1740;&#1740; &#1575;&#1605;&#1575;&#1605; &#1580;&#1593;&#1601;&#1585; &#1589;&#1575;&#1583;&#1602;" />
+    <tag id="4720690313" k="amenity" o="none" type="node" v="school" />
     <tag id="4720701093" k="name" o="modify" type="node" v="&#1587;&#1608;&#1662;&#1585; &#1605;&#1575;&#1585;&#1705;&#1578; &#1662;&#1575;&#1585;&#1587;" />
-    <tag id="4720701093" k="name:en" o="none" type="node" v="Pars" />
     <tag id="4720701093" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="4720701093" k="name:en" o="none" type="node" v="Pars" />
     <tag id="4720736404" k="name" o="none" type="node" v="&#1587;&#1608;&#1662;&#1585; &#1605;&#1575;&#1585;&#1705;&#1578; &#1575;&#1605;&#1575;&#1605; &#1585;&#1590;&#1575;" />
     <tag id="4720736404" k="shop" o="none" type="node" v="supermarket" />
     <tag id="4720759762" k="name" o="modify" type="node" v="&#1587;&#1608;&#1662;&#1585; &#1605;&#1575;&#1585;&#1705;&#1578; &#1587;&#1601;&#1740;&#1585;" />
-    <tag id="4720759762" k="name:en" o="none" type="node" v="Safir" />
     <tag id="4720759762" k="shop" o="none" type="node" v="supermarket" />
+    <tag id="4720759762" k="name:en" o="none" type="node" v="Safir" />
     <tag id="4720903294" k="name" o="none" type="node" v="&#1606;&#1575;&#1606;&#1608;&#1575;&#1740;&#1740; &#1587;&#1606;&#1711;&#1711;" />
     <tag id="4720903294" k="shop" o="none" type="node" v="bakery" />
     <tag id="4721215890" k="name" o="none" type="node" v="&#1587;&#1608;&#1662;&#1585; &#1588;&#1575;&#1583;&#1605;&#1575;&#1606;" />
-    <tag id="4721215890" k="name:en" o="none" type="node" v="Super shademan" />
     <tag id="4721215890" k="shop" o="none" type="node" v="supermarket" />
-    <tag id="4721404691" k="amenity" o="none" type="node" v="police" />
+    <tag id="4721215890" k="name:en" o="none" type="node" v="Super shademan" />
     <tag id="4721404691" k="name" o="modify" type="node" v="&#1705;&#1604;&#1575;&#1606;&#1578;&#1585;&#1740; &#1777;&#1779;&#1777; &#1588;&#1607;&#1585;&#1585;&#1740;" />
+    <tag id="4721404691" k="amenity" o="none" type="node" v="police" />
     <tag id="4721404692" k="name" o="modify" type="node" v="&#1588;&#1607;&#1585;&#1583;&#1575;&#1585;&#1740; &#1605;&#1606;&#1591;&#1602;&#1607; &#1778;&#1776;" />
     <tag id="4721404692" k="tourism" o="none" type="node" v="artwork" />
-    <tag id="4721483696" k="amenity" o="none" type="node" v="place_of_worship" />
     <tag id="4721483696" k="name" o="none" type="node" v="work" />
+    <tag id="4721483696" k="amenity" o="none" type="node" v="place_of_worship" />
     <tag id="4721520089" k="name" o="none" type="node" v="Fortress ruins" />
-    <tag id="4721520089" k="opening_hours" o="none" type="node" v="24/7" />
     <tag id="4721520089" k="tourism" o="none" type="node" v="attraction" />
-    <tag id="4721520090" k="amenity" o="none" type="node" v="drinking_water" />
+    <tag id="4721520089" k="opening_hours" o="none" type="node" v="24/7" />
     <tag id="4721520090" k="name" o="none" type="node" v="Water tap" />
-    <tag id="4721523989" k="addr:housenumber" o="none" type="node" v="131 , 133" />
-    <tag id="4721523989" k="addr:postcode" o="none" type="node" v="397" />
-    <tag id="4721523989" k="addr:street" o="none" type="node" v="&#1589;&#1583; &#1608; &#1606;&#1608;&#1583; &#1608; &#1588;&#1588;&#1605; &#1588;&#1585;&#1602;&#1740;" />
+    <tag id="4721520090" k="amenity" o="none" type="node" v="drinking_water" />
     <tag id="4721523989" k="name" o="modify" type="node" v="&#1605;&#1608;&#1576;&#1575;&#1740;&#1604; &#1580;&#1740; &#1575;&#1587; &#1575;&#1605;" />
-    <tag id="4721523989" k="name:en" o="none" type="node" v="Mobile GSM" />
-    <tag id="4721523989" k="opening_hours" o="none" type="node" v="Mo-Su 09:30-22:00" />
-    <tag id="4721523989" k="phone" o="none" type="node" v="+982177792024" />
     <tag id="4721523989" k="shop" o="none" type="node" v="mobile_phone" />
+    <tag id="4721523989" k="phone" o="none" type="node" v="+982177792024" />
+    <tag id="4721523989" k="name:en" o="none" type="node" v="Mobile GSM" />
+    <tag id="4721523989" k="addr:street" o="none" type="node" v="&#1589;&#1583; &#1608; &#1606;&#1608;&#1583; &#1608; &#1588;&#1588;&#1605; &#1588;&#1585;&#1602;&#1740;" />
+    <tag id="4721523989" k="addr:postcode" o="none" type="node" v="397" />
+    <tag id="4721523989" k="opening_hours" o="none" type="node" v="Mo-Su 09:30-22:00" />
+    <tag id="4721523989" k="addr:housenumber" o="none" type="node" v="131 , 133" />
     <tag id="4721572489" k="name" o="modify" type="node" v="&#1575;&#1606;&#1580;&#1605;&#1606; &#1582;&#1608;&#1588;&#1606;&#1608;&#1740;&#1587;&#1575;&#1606; &#1705;&#1585;&#1580;" />
     <tag id="4721572489" k="tourism" o="none" type="node" v="artwork" />
-    <tag id="4722003390" k="amenity" o="none" type="node" v="courthouse" />
     <tag id="4722003390" k="name" o="none" type="node" v="&#1583;&#1575;&#1583;&#1711;&#1587;&#1578;&#1585;&#1740; &#1575;&#1607;&#1608;&#1575;&#1586;" />
+    <tag id="4722003390" k="amenity" o="none" type="node" v="courthouse" />
     <tag id="4722192790" k="name" o="none" type="node" v="&#1587;&#1575;&#1582;&#1578;&#1605;&#1575;&#1606; &#1605;&#1585;&#1575;&#1583;&#1662;&#1608;&#1585;" />
     <tag id="4722192790" k="tourism" o="none" type="node" v="attraction" />
     <tag id="4722434934" k="name" o="modify" type="node" v="&#1605;&#1593;&#1583;&#1606; &#1584;&#1594;&#1575;&#1604; &#1587;&#1606;&#1711; &#1576;&#1575;&#1576; &#1606;&#1740;&#1586;&#1608; - &#1578;&#1608;&#1606;&#1604; &#1777;" />
     <tag id="4722434934" k="name:en" o="none" type="node" v="Bab Nizo Coal mine Tunnel 1" />
-    <tag id="4722456892" k="highway" o="none" type="node" v="bus_stop" />
     <tag id="4722456892" k="name" o="none" type="node" v="&#1607;&#1605;&#1578; &#1588;&#1585;&#1740;&#1593;&#1578;&#1740;_&#1605;&#1578;&#1585;&#1608; &#1670;&#1740;&#1578;&#1711;&#1585;" />
-    <tag id="4722488001" k="amenity" o="none" type="node" v="kindergarten" />
+    <tag id="4722456892" k="highway" o="none" type="node" v="bus_stop" />
     <tag id="4722488001" k="name" o="modify" type="node" v="&#1605;&#1607;&#1583;&#1705;&#1608;&#1583;&#1705; &#1594;&#1606;&#1670;&#1607; &#1607;&#1575;" />
+    <tag id="4722488001" k="amenity" o="none" type="node" v="kindergarten" />
     <tag id="4722531489" k="name" o="modify" type="node" v="&#1587;&#1575;&#1586;&#1605;&#1575;&#1606; &#1606;&#1592;&#1575;&#1605; &#1605;&#1607;&#1606;&#1583;&#1587;&#1740; &#1587;&#1575;&#1582;&#1578;&#1605;&#1575;&#1606; &#1575;&#1587;&#1578;&#1575;&#1606; &#1605;&#1575;&#1586;&#1606;&#1583;&#1585;&#1575;&#1606;" />
     <tag id="4722531489" k="office" o="none" type="node" v="government" />
-    <tag id="4722738089" k="addr:street" o="none" type="node" v="&#1583;&#1740;&#1576;&#1575;&#1580;&#1740; &#1580;&#1606;&#1608;&#1576;&#1740;" />
-    <tag id="4722738089" k="amenity" o="none" type="node" v="bank" />
     <tag id="4722738089" k="name" o="none" type="node" v="&#1576;&#1607;&#1587;&#1575;&#1586;&#1575;&#1606; &#1605;&#1604;&#1578;" />
+    <tag id="4722738089" k="amenity" o="none" type="node" v="bank" />
     <tag id="4722738089" k="name:en" o="none" type="node" v="Behsazan mellat" />
-    <tag id="4723002889" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1607;&#1601;&#1578; &#1578;&#1740;&#1585;" />
+    <tag id="4722738089" k="addr:street" o="none" type="node" v="&#1583;&#1740;&#1576;&#1575;&#1580;&#1740; &#1580;&#1606;&#1608;&#1576;&#1740;" />
     <tag id="4723002889" k="name" o="modify" type="node" v="&#1606;&#1605;&#1575;&#1740;&#1588;&#1711;&#1575;&#1607; &#1575;&#1578;&#1608;&#1605;&#1576;&#1740;&#1604; &#1605;&#1604;&#1705;&#1575;&#1585;&#1609;" />
     <tag id="4723002889" k="shop" o="none" type="node" v="car" />
-    <tag id="4723054089" k="historic" o="none" type="node" v="castle" />
+    <tag id="4723002889" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1607;&#1601;&#1578; &#1578;&#1740;&#1585;" />
     <tag id="4723054089" k="name" o="none" type="node" v="&#1602;&#1604;&#1593;&#1607; &#1575;&#1606;&#1608;&#1670;" />
     <tag id="4723054089" k="name:en" o="none" type="node" v="Anuj Castle" />
-    <tag id="4723105203" k="historic" o="none" type="node" v="castle" />
+    <tag id="4723054089" k="historic" o="none" type="node" v="castle" />
     <tag id="4723105203" k="name" o="modify" type="node" v="&#1602;&#1604;&#1593;&#1607; &#1705;&#1604;&#1575;&#1578;" />
-    <tag id="4723128089" k="addr:housenumber" o="none" type="node" v="13" />
-    <tag id="4723128089" k="addr:postcode" o="none" type="node" v="14316" />
-    <tag id="4723128089" k="addr:street" o="none" type="node" v="&#1605;&#1740;&#1583;&#1575;&#1606; &#1580;&#1607;&#1575;&#1583;" />
-    <tag id="4723128089" k="email" o="none" type="node" v="chap.emruz@gmail.com" />
+    <tag id="4723105203" k="historic" o="none" type="node" v="castle" />
     <tag id="4723128089" k="name" o="none" type="node" v="&#1670;&#1575;&#1662; &#1608; &#1591;&#1585;&#1581; &#1575;&#1605;&#1585;&#1608;&#1586;" />
-    <tag id="4723128089" k="name:en" o="none" type="node" v="Chap Emruz" />
-    <tag id="4723128089" k="opening_hours" o="none" type="node" v="Sa-Th" />
-    <tag id="4723128089" k="phone" o="none" type="node" v="22869217" />
     <tag id="4723128089" k="shop" o="none" type="node" v="bookmaker" />
+    <tag id="4723128089" k="email" o="none" type="node" v="chap.emruz@gmail.com" />
+    <tag id="4723128089" k="phone" o="none" type="node" v="22869217" />
+    <tag id="4723128089" k="name:en" o="none" type="node" v="Chap Emruz" />
     <tag id="4723128089" k="website" o="none" type="node" v="http://www.iranth.com" />
-    <tag id="4723295089" k="addr:housenumber" o="none" type="node" v="41" />
-    <tag id="4723295089" k="addr:street" o="none" type="node" v="&#1589;&#1601; (&#1576;&#1575;&#1594; &#1587;&#1662;&#1607;&#1587;&#1575;&#1604;&#1575;&#1585;)" />
+    <tag id="4723128089" k="addr:street" o="none" type="node" v="&#1605;&#1740;&#1583;&#1575;&#1606; &#1580;&#1607;&#1575;&#1583;" />
+    <tag id="4723128089" k="addr:postcode" o="none" type="node" v="14316" />
+    <tag id="4723128089" k="opening_hours" o="none" type="node" v="Sa-Th" />
+    <tag id="4723128089" k="addr:housenumber" o="none" type="node" v="13" />
     <tag id="4723295089" k="name" o="none" type="node" v="&#1705;&#1740;&#1601; &#1608; &#1705;&#1601;&#1588; &#1575;&#1585;&#1705;&#1740;&#1583;&#1607;" />
-    <tag id="4723295089" k="name:en" o="none" type="node" v="Orkideh Bags &amp; Shoes" />
-    <tag id="4723295089" k="phone" o="none" type="node" v="00982133118249" />
     <tag id="4723295089" k="shop" o="none" type="node" v="shoes" />
+    <tag id="4723295089" k="phone" o="none" type="node" v="00982133118249" />
+    <tag id="4723295089" k="name:en" o="none" type="node" v="Orkideh Bags &amp; Shoes" />
+    <tag id="4723295089" k="addr:street" o="none" type="node" v="&#1589;&#1601; (&#1576;&#1575;&#1594; &#1587;&#1662;&#1607;&#1587;&#1575;&#1604;&#1575;&#1585;)" />
+    <tag id="4723295089" k="addr:housenumber" o="none" type="node" v="41" />
     <tag id="4723327090" k="name" o="none" type="node" v="&#1587;&#1575;&#1604;&#1606; &#1586;&#1740;&#1576;&#1575;&#1740;&#1740; &#1575;&#1587;&#1705;&#1575;&#1585;" />
     <tag id="4723327090" k="name:en" o="none" type="node" v="OscarBaeuty" />
     <tag id="4723327090" k="tourism" o="none" type="node" v="artwork" />
-    <tag id="4723652492" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1570;&#1586;&#1575;&#1583;&#1740;" />
-    <tag id="4723652492" k="email" o="none" type="node" v="info@eaj.ir" />
     <tag id="4723652492" k="name" o="none" type="node" v="&#1580;&#1607;&#1575;&#1583;&#1705;&#1588;&#1575;&#1608;&#1585;&#1586;&#1740; &#1575;&#1587;&#1578;&#1575;&#1606; &#1570;&#1584;&#1585;&#1576;&#1575;&#1740;&#1580;&#1575;&#1606; &#1588;&#1585;&#1602;&#1740;" />
-    <tag id="4723652492" k="name:en" o="none" type="node" v="Agriculture organization" />
+    <tag id="4723652492" k="email" o="none" type="node" v="info@eaj.ir" />
     <tag id="4723652492" k="office" o="none" type="node" v="government" />
+    <tag id="4723652492" k="name:en" o="none" type="node" v="Agriculture organization" />
     <tag id="4723652492" k="website" o="none" type="node" v="http://eaj.ir" />
-    <tag id="4723670692" k="amenity" o="none" type="node" v="bus_station" />
+    <tag id="4723652492" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1570;&#1586;&#1575;&#1583;&#1740;" />
     <tag id="4723670692" k="name" o="modify" type="node" v="&#1575;&#1740;&#1587;&#1578;&#1711;&#1575;&#1607; &#1582;&#1591; &#1777;&#1784;" />
+    <tag id="4723670692" k="amenity" o="none" type="node" v="bus_station" />
     <tag id="4723670692" k="name:en" o="none" type="node" v="18 bus station" />
-    <tag id="4723720889" k="addr:street" o="none" type="node" v="&#1605;&#1588;&#1705;&#1740;&#1606; &#1570;&#1576;&#1575;&#1583;" />
     <tag id="4723720889" k="name" o="none" type="node" v="&#1605;&#1585;&#1705;&#1586; &#1575;&#1589;&#1604;&#1575;&#1581; &#1606;&#1688;&#1575;&#1583; &#1583;&#1575;&#1605; &#1608; &#1576;&#1607;&#1576;&#1608;&#1583; &#1578;&#1608;&#1604;&#1740;&#1583;&#1575;&#1578; &#1583;&#1575;&#1605;&#1740;" />
-    <tag id="4723720889" k="office" o="none" type="node" v="government" />
     <tag id="4723720889" k="phone" o="none" type="node" v="02636771874" />
+    <tag id="4723720889" k="office" o="none" type="node" v="government" />
     <tag id="4723720889" k="website" o="none" type="node" v="http://abc.org.ir" />
+    <tag id="4723720889" k="addr:street" o="none" type="node" v="&#1605;&#1588;&#1705;&#1740;&#1606; &#1570;&#1576;&#1575;&#1583;" />
     <tag id="4723721390" k="name" o="none" type="node" v="&#1606;&#1575;&#1606;&#1608;&#1575;&#1740;&#1740;" />
     <tag id="4723721390" k="shop" o="none" type="node" v="bakery" />
-    <tag id="4723721489" k="amenity" o="none" type="node" v="bank" />
     <tag id="4723721489" k="name" o="none" type="node" v="&#1576;&#1575;&#1606;&#1705; &#1585;&#1601;&#1575;&#1607;" />
+    <tag id="4723721489" k="amenity" o="none" type="node" v="bank" />
     <tag id="4723721490" k="name" o="none" type="node" v="&#1587;&#1608;&#1662;&#1585;&#1605;&#1575;&#1585;&#1705;&#1578;" />
     <tag id="4723721490" k="shop" o="none" type="node" v="supermarket" />
     <tag id="4723864791" k="name" o="modify" type="node" v="&#1602;&#1606;&#1575;&#1583;&#1740; &#1580;&#1575;&#1608;&#1740;&#1583;&#1575;&#1606;" />
     <tag id="4723864791" k="shop" o="none" type="node" v="confectionery" />
-    <tag id="4724061789" k="historic" o="none" type="node" v="memorial" />
     <tag id="4724061789" k="name" o="modify" type="node" v="&#1605;&#1587;&#1580;&#1583; &#1605;&#1604;&#1705;" />
     <tag id="4724061789" k="name:en" o="none" type="node" v="Malek Mosque" />
-    <tag id="4724061790" k="amenity" o="none" type="node" v="cafe" />
+    <tag id="4724061789" k="historic" o="none" type="node" v="memorial" />
     <tag id="4724061790" k="name" o="modify" type="node" v="&#1705;&#1575;&#1601;&#1740; &#1588;&#1575;&#1662; &#1576;&#1586;&#1585;&#1711;" />
+    <tag id="4724061790" k="amenity" o="none" type="node" v="cafe" />
     <tag id="4724061790" k="name:en" o="none" type="node" v="Bozorg Cafeshop" />
-    <tag id="4724061791" k="amenity" o="none" type="node" v="community_centre" />
     <tag id="4724061791" k="name" o="modify" type="node" v="&#1570;&#1578;&#1588;&#1705;&#1583;&#1607;" />
-    <tag id="4724181090" k="addr:street" o="none" type="node" v="&#1589;&#1606;&#1593;&#1578;" />
-    <tag id="4724181090" k="amenity" o="none" type="node" v="fire_station" />
+    <tag id="4724061791" k="amenity" o="none" type="node" v="community_centre" />
     <tag id="4724181090" k="name" o="modify" type="node" v="&#1575;&#1609;&#1587;&#1578;&#1711;&#1575;&#1607; &#1779; &#1575;&#1578;&#1588; &#1606;&#1588;&#1575;&#1606;&#1609;" />
-    <tag id="4724193634" k="amenity" o="none" type="node" v="theatre" />
+    <tag id="4724181090" k="amenity" o="none" type="node" v="fire_station" />
+    <tag id="4724181090" k="addr:street" o="none" type="node" v="&#1589;&#1606;&#1593;&#1578;" />
     <tag id="4724193634" k="name" o="modify" type="node" v="&#1587;&#1740;&#1585;&#1705; &#1585;&#1575;&#1588;&#1606;" />
+    <tag id="4724193634" k="amenity" o="none" type="node" v="theatre" />
     <tag id="4724193634" k="name:en" o="none" type="node" v="Rushen Circus" />
     <tag id="4724193634" k="theater:genre" o="none" type="node" v="circus" />
     <tag id="4724260845" k="name" o="modify" type="node" v="&#1587;&#1575;&#1604;&#1606; &#1586;&#1740;&#1576;&#1575;&#1740;&#1609; &#1570;&#1606;&#1740;&#1587;" />
     <tag id="4724260845" k="shop" o="none" type="node" v="beauty" />
-    <tag id="4724295889" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1606;&#1576;&#1585;&#1583;" />
     <tag id="4724295889" k="name" o="modify" type="node" v="&#1588;&#1607;&#1585;&#1583;&#1575;&#1585;&#1740; &#1605;&#1606;&#1591;&#1602;&#1607; &#1777;&#1780;" />
     <tag id="4724295889" k="office" o="none" type="node" v="government" />
-    <tag id="4724470289" k="addr:street" o="none" type="node" v="&#1593;&#1576;&#1575;&#1587; &#1588;&#1740;&#1585;&#1575;&#1586;&#1740;" />
+    <tag id="4724295889" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1606;&#1576;&#1585;&#1583;" />
     <tag id="4724470289" k="name" o="none" type="node" v="&#1705;&#1575;&#1606;&#1578;&#1605;&#1662;&#1608;" />
-    <tag id="4724470289" k="name:en" o="none" type="node" v="Cuntempo" />
     <tag id="4724470289" k="shop" o="none" type="node" v="furniture" />
-    <tag id="4724499689" k="addr:postcode" o="none" type="node" v="0098" />
-    <tag id="4724499689" k="addr:street" o="none" type="node" v="&#1582;&#1740;&#1575;&#1576;&#1575;&#1606; &#1587;&#1575;&#1585;&#1740;" />
-    <tag id="4724499689" k="email" o="none" type="node" v="ramin.moosavi6610@gmail.com" />
+    <tag id="4724470289" k="name:en" o="none" type="node" v="Cuntempo" />
+    <tag id="4724470289" k="addr:street" o="none" type="node" v="&#1593;&#1576;&#1575;&#1587; &#1588;&#1740;&#1585;&#1575;&#1586;&#1740;" />
     <tag id="4724499689" k="name" o="modify" type="node" v="&#1705;&#1740;&#1601; &#1608; &#1705;&#1601;&#1588; &#1570;&#1606;&#1583;&#1585;&#1740;&#1605;&#1575;&#1606;" />
-    <tag id="4724499689" k="opening_hours" o="none" type="node" v="Sa-Th 09:00-22:00; Fr 16:00-22:00" />
-    <tag id="4724499689" k="phone" o="none" type="node" v="+989354490699" />
     <tag id="4724499689" k="shop" o="none" type="node" v="shoes" />
+    <tag id="4724499689" k="email" o="none" type="node" v="ramin.moosavi6610@gmail.com" />
+    <tag id="4724499689" k="phone" o="none" type="node" v="+989354490699" />
     <tag id="4724499689" k="website" o="none" type="node" v="https://t.me/andrimankafsh" />
-    <tag id="4724563789" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1588;&#1575;&#1607;&#1583;" />
-    <tag id="4724563789" k="amenity" o="none" type="node" v="cafe" />
-    <tag id="4724563789" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="4724499689" k="addr:street" o="none" type="node" v="&#1582;&#1740;&#1575;&#1576;&#1575;&#1606; &#1587;&#1575;&#1585;&#1740;" />
+    <tag id="4724499689" k="addr:postcode" o="none" type="node" v="0098" />
+    <tag id="4724499689" k="opening_hours" o="none" type="node" v="Sa-Th 09:00-22:00; Fr 16:00-22:00" />
     <tag id="4724563789" k="name" o="none" type="node" v="&#1662;&#1608;&#1585;&#1740;&#1575;&#1740; &#1608;&#1604;&#1740;" />
+    <tag id="4724563789" k="amenity" o="none" type="node" v="cafe" />
     <tag id="4724563789" k="name:en" o="none" type="node" v="pourya vali" />
     <tag id="4724563789" k="operator" o="none" type="node" v="reza zarei" />
-    <tag id="124642094" k="highway" o="none" type="way" v="residential" />
+    <tag id="4724563789" k="addr:street" o="none" type="node" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1588;&#1575;&#1607;&#1583;" />
+    <tag id="4724563789" k="internet_access" o="none" type="node" v="wlan" />
+    <tag id="24214901" k="name" o="modify" type="way" v="&#1589;&#1606;&#1593;&#1578; &#1740;&#1705;&#1605;" />
+    <tag id="24214901" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="121207731" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1780;" />
+    <tag id="121207731" k="highway" o="none" type="way" v="residential" />
+    <tag id="121207734" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1776;" />
+    <tag id="121207734" k="highway" o="none" type="way" v="residential" />
+    <tag id="121207741" k="name" o="modify" type="way" v="&#1588;&#1585;&#1602;&#1740; &#1782;" />
+    <tag id="121207741" k="highway" o="none" type="way" v="residential" />
+    <tag id="121207755" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1778;" />
+    <tag id="121207755" k="highway" o="none" type="way" v="residential" />
+    <tag id="121207758" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1782;" />
+    <tag id="121207758" k="highway" o="none" type="way" v="residential" />
     <tag id="124642094" k="name" o="modify" type="way" v="&#1583;&#1575;&#1606;&#1588;&#1711;&#1575;&#1607; &#1784;" />
     <tag id="124642094" k="oneway" o="none" type="way" v="no" />
-    <tag id="124642224" k="highway" o="none" type="way" v="residential" />
+    <tag id="124642094" k="highway" o="none" type="way" v="residential" />
     <tag id="124642224" k="name" o="modify" type="way" v="&#1583;&#1575;&#1606;&#1588;&#1711;&#1575;&#1607; &#1777;&#1776;" />
-    <tag id="24214901" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="24214901" k="name" o="modify" type="way" v="&#1589;&#1606;&#1593;&#1578; &#1740;&#1705;&#1605;" />
-    <tag id="121207731" k="highway" o="none" type="way" v="residential" />
-    <tag id="121207731" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1780;" />
-    <tag id="121207741" k="highway" o="none" type="way" v="residential" />
-    <tag id="121207741" k="name" o="modify" type="way" v="&#1588;&#1585;&#1602;&#1740; &#1782;" />
-    <tag id="121207755" k="highway" o="none" type="way" v="residential" />
-    <tag id="121207755" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1778;" />
-    <tag id="121207758" k="highway" o="none" type="way" v="residential" />
-    <tag id="121207758" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1782;" />
-    <tag id="121207734" k="highway" o="none" type="way" v="residential" />
-    <tag id="121207734" k="name" o="modify" type="way" v="&#1740;&#1575;&#1587;&#1740;&#1606; &#1777;&#1776;" />
-    <tag id="124765569" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="124642224" k="highway" o="none" type="way" v="residential" />
     <tag id="124765569" k="foot" o="none" type="way" v="designated" />
-    <tag id="124765569" k="highway" o="none" type="way" v="path" />
     <tag id="124765569" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1777;&#1784;" />
+    <tag id="124765569" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="124765569" k="highway" o="none" type="way" v="path" />
     <tag id="124765569" k="segregated" o="none" type="way" v="no" />
-    <tag id="124765990" k="highway" o="none" type="way" v="residential" />
     <tag id="124765990" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1784;" />
-    <tag id="124765997" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="124765990" k="highway" o="none" type="way" v="residential" />
     <tag id="124765997" k="foot" o="none" type="way" v="designated" />
-    <tag id="124765997" k="highway" o="none" type="way" v="path" />
     <tag id="124765997" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1777;&#1778;" />
+    <tag id="124765997" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="124765997" k="highway" o="none" type="way" v="path" />
     <tag id="124765997" k="segregated" o="none" type="way" v="no" />
-    <tag id="124766000" k="highway" o="none" type="way" v="residential" />
     <tag id="124766000" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1777;&#1776;" />
-    <tag id="124766014" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="124766000" k="highway" o="none" type="way" v="residential" />
     <tag id="124766014" k="foot" o="none" type="way" v="designated" />
-    <tag id="124766014" k="highway" o="none" type="way" v="path" />
     <tag id="124766014" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1777;&#1782;" />
+    <tag id="124766014" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="124766014" k="highway" o="none" type="way" v="path" />
     <tag id="124766014" k="segregated" o="none" type="way" v="no" />
-    <tag id="124766054" k="highway" o="none" type="way" v="residential" />
     <tag id="124766054" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1778;&#1776;" />
-    <tag id="124766096" k="highway" o="none" type="way" v="residential" />
+    <tag id="124766054" k="highway" o="none" type="way" v="residential" />
     <tag id="124766096" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1777;&#1780;" />
-    <tag id="197194551" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="197194551" k="name" o="none" type="way" v="&#1587;&#1740; &#1605;&#1578;&#1585;&#1740;" />
-    <tag id="197194551" k="name:fa" o="modify" type="way" v="&#1779;&#1776; &#1605;&#1578;&#1585;&#1740;" />
-    <tag id="158525128" k="highway" o="none" type="way" v="residential" />
-    <tag id="158525128" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="124766096" k="highway" o="none" type="way" v="residential" />
     <tag id="158525128" k="name" o="modify" type="way" v="&#1606;&#1587;&#1578;&#1585;&#1606; &#1779;" />
-    <tag id="158525128" k="name:en" o="none" type="way" v="Nastaran 3" />
     <tag id="158525128" k="oneway" o="none" type="way" v="no" />
+    <tag id="158525128" k="highway" o="none" type="way" v="residential" />
+    <tag id="158525128" k="name:en" o="none" type="way" v="Nastaran 3" />
     <tag id="158525128" k="surface" o="none" type="way" v="sand" />
-    <tag id="204270121" k="highway" o="none" type="way" v="residential" />
+    <tag id="158525128" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="197194551" k="name" o="none" type="way" v="&#1587;&#1740; &#1605;&#1578;&#1585;&#1740;" />
+    <tag id="197194551" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="197194551" k="name:fa" o="modify" type="way" v="&#1779;&#1776; &#1605;&#1578;&#1585;&#1740;" />
     <tag id="204270121" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1670;&#1607;&#1575;&#1585;&#1605;" />
+    <tag id="204270121" k="highway" o="none" type="way" v="residential" />
     <tag id="204270121" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1780;" />
-    <tag id="204270138" k="highway" o="none" type="way" v="residential" />
     <tag id="204270138" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1607;&#1601;&#1578;&#1605;" />
+    <tag id="204270138" k="highway" o="none" type="way" v="residential" />
     <tag id="204270138" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1783;" />
-    <tag id="204270165" k="highway" o="none" type="way" v="residential" />
     <tag id="204270165" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1740;&#1705;&#1605;" />
+    <tag id="204270165" k="highway" o="none" type="way" v="residential" />
     <tag id="204270165" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1777;" />
-    <tag id="204270169" k="highway" o="none" type="way" v="residential" />
     <tag id="204270169" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1587;&#1608;&#1605;" />
+    <tag id="204270169" k="highway" o="none" type="way" v="residential" />
     <tag id="204270169" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1779;" />
-    <tag id="204270177" k="highway" o="none" type="way" v="residential" />
     <tag id="204270177" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1588;&#1588;&#1605;" />
+    <tag id="204270177" k="highway" o="none" type="way" v="residential" />
     <tag id="204270177" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1782;" />
-    <tag id="281276352" k="highway" o="none" type="way" v="residential" />
     <tag id="281276352" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1785;" />
-    <tag id="303586837" k="leisure" o="none" type="way" v="park" />
+    <tag id="281276352" k="highway" o="none" type="way" v="residential" />
     <tag id="303586837" k="name" o="none" type="way" v="&#1662;&#1575;&#1585;&#1705; &#1605;&#1604;&#1578;" />
+    <tag id="303586837" k="leisure" o="none" type="way" v="park" />
     <tag id="303586837" k="name:en" o="none" type="way" v="Mellat Park" />
-    <tag id="327440722" k="leisure" o="none" type="way" v="pitch" />
-    <tag id="327440722" k="name" o="modify" type="way" v="&#1586;&#1605;&#1740;&#1606; &#1670;&#1605;&#1606; &#1588;&#1607;&#1740;&#1583; &#1605;&#1591;&#1607;&#1585;&#1740;" />
-    <tag id="336650187" k="highway" o="none" type="way" v="residential" />
-    <tag id="336650187" k="name" o="modify" type="way" v="&#1605;&#1593;&#1604;&#1605; &#1783;" />
-    <tag id="379367315" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="379367315" k="name" o="modify" type="way" v="&#1605;&#1585;&#1740;&#1605; &#1780;" />
-    <tag id="351922664" k="highway" o="none" type="way" v="pedestrian" />
-    <tag id="351922664" k="name" o="modify" type="way" v="&#1576;&#1575;&#1594; &#1576;&#1607;&#1575;&#1585; &#1779;" />
-    <tag id="320553697" k="highway" o="none" type="way" v="residential" />
     <tag id="320553697" k="name" o="none" type="way" v="&#1779;&#1778; &#1593;&#1576;&#1575;&#1583;&#1578;" />
-    <tag id="320553697" k="name:en" o="none" type="way" v="Ebadat" />
     <tag id="320553697" k="oneway" o="none" type="way" v="yes" />
-    <tag id="387479345" k="highway" o="none" type="way" v="residential" />
-    <tag id="387479345" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1576;&#1575;&#1606; &#1705;&#1608;&#1670;&#1607; &#1587;&#1609; &#1608;&#1740;&#1705;&#1605;" />
-    <tag id="431560375" k="highway" o="none" type="way" v="service" />
-    <tag id="431560375" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1777;&#1782;" />
-    <tag id="431560375" k="service" o="none" type="way" v="alley" />
-    <tag id="431560377" k="highway" o="none" type="way" v="service" />
-    <tag id="431560377" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1779;" />
-    <tag id="431560377" k="service" o="none" type="way" v="alley" />
-    <tag id="431560381" k="highway" o="none" type="way" v="service" />
-    <tag id="431560381" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1776;" />
-    <tag id="431560381" k="service" o="none" type="way" v="alley" />
-    <tag id="431560378" k="highway" o="none" type="way" v="service" />
-    <tag id="431560378" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1780;" />
-    <tag id="431560378" k="service" o="none" type="way" v="alley" />
-    <tag id="431560383" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="431560383" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1778;" />
-    <tag id="380155915" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="320553697" k="highway" o="none" type="way" v="residential" />
+    <tag id="320553697" k="name:en" o="none" type="way" v="Ebadat" />
+    <tag id="327440722" k="name" o="modify" type="way" v="&#1586;&#1605;&#1740;&#1606; &#1670;&#1605;&#1606; &#1588;&#1607;&#1740;&#1583; &#1605;&#1591;&#1607;&#1585;&#1740;" />
+    <tag id="327440722" k="leisure" o="none" type="way" v="pitch" />
+    <tag id="336650187" k="name" o="modify" type="way" v="&#1605;&#1593;&#1604;&#1605; &#1783;" />
+    <tag id="336650187" k="highway" o="none" type="way" v="residential" />
+    <tag id="351922664" k="name" o="modify" type="way" v="&#1576;&#1575;&#1594; &#1576;&#1607;&#1575;&#1585; &#1779;" />
+    <tag id="351922664" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="379367315" k="name" o="modify" type="way" v="&#1605;&#1585;&#1740;&#1605; &#1780;" />
+    <tag id="379367315" k="highway" o="none" type="way" v="tertiary" />
     <tag id="380155915" k="name" o="modify" type="way" v="&#1576;&#1575;&#1594; &#1576;&#1607;&#1575;&#1585; &#1777;" />
-    <tag id="380156297" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="380155915" k="highway" o="none" type="way" v="pedestrian" />
     <tag id="380156297" k="name" o="modify" type="way" v="&#1576;&#1575;&#1594; &#1576;&#1607;&#1575;&#1585; &#1778;" />
-    <tag id="431668961" k="highway" o="none" type="way" v="service" />
+    <tag id="380156297" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="387479345" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1576;&#1575;&#1606; &#1705;&#1608;&#1670;&#1607; &#1587;&#1609; &#1608;&#1740;&#1705;&#1605;" />
+    <tag id="387479345" k="highway" o="none" type="way" v="residential" />
+    <tag id="431560375" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1777;&#1782;" />
+    <tag id="431560375" k="highway" o="none" type="way" v="service" />
+    <tag id="431560375" k="service" o="none" type="way" v="alley" />
+    <tag id="431560377" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1779;" />
+    <tag id="431560377" k="highway" o="none" type="way" v="service" />
+    <tag id="431560377" k="service" o="none" type="way" v="alley" />
+    <tag id="431560378" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1780;" />
+    <tag id="431560378" k="highway" o="none" type="way" v="service" />
+    <tag id="431560378" k="service" o="none" type="way" v="alley" />
+    <tag id="431560381" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1776;" />
+    <tag id="431560381" k="highway" o="none" type="way" v="service" />
+    <tag id="431560381" k="service" o="none" type="way" v="alley" />
+    <tag id="431560383" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1778;" />
+    <tag id="431560383" k="highway" o="none" type="way" v="unclassified" />
     <tag id="431668961" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1784;" />
+    <tag id="431668961" k="highway" o="none" type="way" v="service" />
     <tag id="431668961" k="service" o="none" type="way" v="alley" />
-    <tag id="431668962" k="highway" o="none" type="way" v="service" />
     <tag id="431668962" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1782;" />
+    <tag id="431668962" k="highway" o="none" type="way" v="service" />
     <tag id="431668962" k="service" o="none" type="way" v="alley" />
-    <tag id="431668963" k="highway" o="none" type="way" v="service" />
     <tag id="431668963" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1780;" />
+    <tag id="431668963" k="highway" o="none" type="way" v="service" />
     <tag id="431668963" k="service" o="none" type="way" v="alley" />
-    <tag id="431688121" k="highway" o="none" type="way" v="service" />
     <tag id="431688121" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1777;&#1783;" />
+    <tag id="431688121" k="highway" o="none" type="way" v="service" />
     <tag id="431688121" k="service" o="none" type="way" v="alley" />
-    <tag id="431688134" k="highway" o="none" type="way" v="service" />
-    <tag id="431688134" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1783;" />
-    <tag id="431688134" k="service" o="none" type="way" v="alley" />
-    <tag id="431688138" k="highway" o="none" type="way" v="service" />
-    <tag id="431688138" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1779;" />
-    <tag id="431688138" k="service" o="none" type="way" v="alley" />
-    <tag id="432735319" k="highway" o="none" type="way" v="residential" />
-    <tag id="432735319" k="name" o="modify" type="way" v="&#1582;&#1583;&#1575;&#1583;&#1575;&#1583; &#1779;&#1784;" />
-    <tag id="431688123" k="highway" o="none" type="way" v="service" />
     <tag id="431688123" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1777;&#1781;" />
+    <tag id="431688123" k="highway" o="none" type="way" v="service" />
     <tag id="431688123" k="service" o="none" type="way" v="alley" />
-    <tag id="431688125" k="highway" o="none" type="way" v="service" />
     <tag id="431688125" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607;&#1777;&#1777;" />
+    <tag id="431688125" k="highway" o="none" type="way" v="service" />
     <tag id="431688125" k="service" o="none" type="way" v="alley" />
-    <tag id="431688127" k="highway" o="none" type="way" v="service" />
     <tag id="431688127" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1781;" />
+    <tag id="431688127" k="highway" o="none" type="way" v="service" />
     <tag id="431688127" k="service" o="none" type="way" v="alley" />
-    <tag id="431688129" k="highway" o="none" type="way" v="service" />
     <tag id="431688129" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1777;" />
+    <tag id="431688129" k="highway" o="none" type="way" v="service" />
     <tag id="431688129" k="service" o="none" type="way" v="alley" />
-    <tag id="431688144" k="highway" o="none" type="way" v="service" />
+    <tag id="431688134" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1783;" />
+    <tag id="431688134" k="highway" o="none" type="way" v="service" />
+    <tag id="431688134" k="service" o="none" type="way" v="alley" />
+    <tag id="431688138" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1779;" />
+    <tag id="431688138" k="highway" o="none" type="way" v="service" />
+    <tag id="431688138" k="service" o="none" type="way" v="alley" />
     <tag id="431688144" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1778;" />
+    <tag id="431688144" k="highway" o="none" type="way" v="service" />
     <tag id="431688144" k="service" o="none" type="way" v="alley" />
-    <tag id="478772346" k="highway" o="none" type="way" v="living_street" />
-    <tag id="478772346" k="lanes" o="none" type="way" v="1" />
-    <tag id="478772346" k="maxspeed" o="none" type="way" v="100" />
-    <tag id="478772346" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1581;&#1575;&#1601;&#1592; &#1780;" />
-    <tag id="478772347" k="highway" o="none" type="way" v="living_street" />
-    <tag id="478772347" k="lanes" o="none" type="way" v="1" />
-    <tag id="478772347" k="maxspeed" o="none" type="way" v="100" />
-    <tag id="478772347" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1581;&#1575;&#1601;&#1592; &#1781;" />
-    <tag id="440004754" k="highway" o="none" type="way" v="residential" />
+    <tag id="432735319" k="name" o="modify" type="way" v="&#1582;&#1583;&#1575;&#1583;&#1575;&#1583; &#1779;&#1784;" />
+    <tag id="432735319" k="highway" o="none" type="way" v="residential" />
     <tag id="440004754" k="name" o="modify" type="way" v="&#1583;&#1575;&#1606;&#1588;&#1711;&#1575;&#1607; &#1782;" />
-    <tag id="470738994" k="highway" o="none" type="way" v="residential" />
-    <tag id="470738994" k="name" o="modify" type="way" v="&#1587;&#1578;&#1608;&#1583;&#1607; &#1778;" />
-    <tag id="470738994" k="name:en" o="none" type="way" v="Sotoudeh 2" />
-    <tag id="444602971" k="addr:street" o="none" type="way" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1605;&#1740;&#1585;&#1593;&#1605;&#1575;&#1583;" />
-    <tag id="444602971" k="amenity" o="none" type="way" v="veterinary" />
-    <tag id="444602971" k="building" o="none" type="way" v="yes" />
-    <tag id="444602971" k="building:levels" o="none" type="way" v="3" />
-    <tag id="444602971" k="email" o="none" type="way" v="dr.poryalashgari@yahoo.com" />
-    <tag id="444602971" k="email_1" o="none" type="way" v="dr.poryalashgari@gmail.com" />
-    <tag id="444602971" k="internet_access" o="none" type="way" v="wlan" />
+    <tag id="440004754" k="highway" o="none" type="way" v="residential" />
     <tag id="444602971" k="name" o="none" type="way" v="&#1605;&#1585;&#1705;&#1586; &#1608;&#1575;&#1705;&#1587;&#1740;&#1606;&#1575;&#1587;&#1740;&#1608;&#1606; &#1583;&#1575;&#1605;&#1662;&#1586;&#1588;&#1705;&#1740; &#1583;&#1705;&#1578;&#1585; &#1662;&#1608;&#1585;&#1740;&#1575; &#1604;&#1588;&#1711;&#1585;&#1609;" />
-    <tag id="444602971" k="name:en" o="none" type="way" v="Veterinary Vaccination" />
-    <tag id="444602971" k="opening_hours" o="none" type="way" v="Sa-Th 09:00-14:30" />
+    <tag id="444602971" k="email" o="none" type="way" v="dr.poryalashgari@yahoo.com" />
     <tag id="444602971" k="phone" o="none" type="way" v="02833351202" />
-    <tag id="478824684" k="highway" o="none" type="way" v="residential" />
+    <tag id="444602971" k="amenity" o="none" type="way" v="veterinary" />
+    <tag id="444602971" k="email_1" o="none" type="way" v="dr.poryalashgari@gmail.com" />
+    <tag id="444602971" k="name:en" o="none" type="way" v="Veterinary Vaccination" />
+    <tag id="444602971" k="building" o="none" type="way" v="yes" />
+    <tag id="444602971" k="addr:street" o="none" type="way" v="&#1576;&#1604;&#1608;&#1575;&#1585; &#1605;&#1740;&#1585;&#1593;&#1605;&#1575;&#1583;" />
+    <tag id="444602971" k="opening_hours" o="none" type="way" v="Sa-Th 09:00-14:30" />
+    <tag id="444602971" k="building:levels" o="none" type="way" v="3" />
+    <tag id="444602971" k="internet_access" o="none" type="way" v="wlan" />
+    <tag id="470738994" k="name" o="modify" type="way" v="&#1587;&#1578;&#1608;&#1583;&#1607; &#1778;" />
+    <tag id="470738994" k="highway" o="none" type="way" v="residential" />
+    <tag id="470738994" k="name:en" o="none" type="way" v="Sotoudeh 2" />
+    <tag id="478772346" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1581;&#1575;&#1601;&#1592; &#1780;" />
+    <tag id="478772346" k="lanes" o="none" type="way" v="1" />
+    <tag id="478772346" k="highway" o="none" type="way" v="living_street" />
+    <tag id="478772346" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="478772347" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1581;&#1575;&#1601;&#1592; &#1781;" />
+    <tag id="478772347" k="lanes" o="none" type="way" v="1" />
+    <tag id="478772347" k="highway" o="none" type="way" v="living_street" />
+    <tag id="478772347" k="maxspeed" o="none" type="way" v="100" />
     <tag id="478824684" k="name" o="modify" type="way" v="&#1601;&#1585;&#1607;&#1606;&#1711; &#1777;" />
-    <tag id="478845163" k="highway" o="none" type="way" v="service" />
+    <tag id="478824684" k="highway" o="none" type="way" v="residential" />
     <tag id="478845163" k="name" o="modify" type="way" v="&#1705;&#1608;&#1670;&#1607; &#1777;&#1784;" />
+    <tag id="478845163" k="highway" o="none" type="way" v="service" />
     <tag id="478845163" k="service" o="none" type="way" v="alley" />
-    <tag id="478939891" k="amenity" o="none" type="way" v="place_of_worship" />
-    <tag id="478939891" k="building" o="none" type="way" v="yes" />
-    <tag id="478939891" k="building:levels" o="none" type="way" v="1.5" />
     <tag id="478939891" k="name" o="none" type="way" v="&#1575;&#1605;&#1575;&#1605;&#1586;&#1575;&#1583;&#1607; &#1587;&#1604;&#1591;&#1575;&#1606; &#1587;&#1740;&#1583; &#1605;&#1581;&#1605;&#1583;" />
+    <tag id="478939891" k="amenity" o="none" type="way" v="place_of_worship" />
     <tag id="478939891" k="name:en" o="none" type="way" v="Emamzadeh Soltan Seyed Mohamad" />
+    <tag id="478939891" k="building" o="none" type="way" v="yes" />
     <tag id="478939891" k="religion" o="none" type="way" v="muslim" />
-    <tag id="479126299" k="highway" o="none" type="way" v="residential" />
+    <tag id="478939891" k="building:levels" o="none" type="way" v="1.5" />
     <tag id="479126299" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1583;&#1608;&#1605;" />
+    <tag id="479126299" k="highway" o="none" type="way" v="residential" />
     <tag id="479126299" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1778;" />
-    <tag id="479126302" k="highway" o="none" type="way" v="residential" />
     <tag id="479126302" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1583;&#1608;&#1605;" />
+    <tag id="479126302" k="highway" o="none" type="way" v="residential" />
     <tag id="479126302" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1778;" />
-    <tag id="479126306" k="highway" o="none" type="way" v="residential" />
     <tag id="479126306" k="name" o="none" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1662;&#1606;&#1580;&#1605;" />
+    <tag id="479126306" k="highway" o="none" type="way" v="residential" />
     <tag id="479126306" k="name:fa" o="modify" type="way" v="&#1576;&#1608;&#1587;&#1578;&#1575;&#1606; &#1781;" />
-    <tag id="479263966" k="highway" o="none" type="way" v="residential" />
     <tag id="479263966" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1784;" />
-    <tag id="479263967" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263966" k="highway" o="none" type="way" v="residential" />
     <tag id="479263967" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1783;" />
-    <tag id="479263968" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263967" k="highway" o="none" type="way" v="residential" />
     <tag id="479263968" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1782;" />
-    <tag id="479263969" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263968" k="highway" o="none" type="way" v="residential" />
     <tag id="479263969" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1781;" />
-    <tag id="479263970" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263969" k="highway" o="none" type="way" v="residential" />
     <tag id="479263970" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1780;" />
-    <tag id="479263972" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263970" k="highway" o="none" type="way" v="residential" />
     <tag id="479263972" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1779;" />
-    <tag id="479263975" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263972" k="highway" o="none" type="way" v="residential" />
     <tag id="479263975" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1777;" />
-    <tag id="479263977" k="highway" o="none" type="way" v="residential" />
+    <tag id="479263975" k="highway" o="none" type="way" v="residential" />
     <tag id="479263977" k="name" o="modify" type="way" v="&#1582;&#1740;&#1575;&#1605; &#1778;" />
+    <tag id="479263977" k="highway" o="none" type="way" v="residential" />
   </body>
 </changeset>

@@ -1,11 +1,12 @@
 <changeset id="52339459" schema="2">
-  <counts nodesAdded="844" nodesDeleted="0" nodesModified="1" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="118" waysDeleted="0" waysModified="7" />
+  <counts nodesAdded="844" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="118" waysDeleted="0" waysModified="7" />
   <meta>
     <tag k="comment" v="T&#225;borfalva 170924" />
     <tag k="created_by" v="JOSM/1.5 (12712 hu)" />
     <tag k="source" v="Bing" />
   </meta>
   <body>
+    <tag id="985003983" k="barrier" o="none" type="node" v="gate" />
     <tag id="5127177299" k="natural" o="add" type="node" v="tree" />
     <tag id="5127179373" k="power" o="add" type="node" v="pole" />
     <tag id="5127179374" k="power" o="add" type="node" v="pole" />
@@ -31,10 +32,30 @@
     <tag id="5127179976" k="natural" o="add" type="node" v="tree" />
     <tag id="5127180026" k="natural" o="add" type="node" v="tree" />
     <tag id="5127180027" k="natural" o="add" type="node" v="tree" />
+    <tag id="43523810" k="usage" o="none" type="way" v="industrial" />
+    <tag id="43523810" k="railway" o="none" type="way" v="rail" />
+    <tag id="83637427" k="name" o="none" type="way" v="Honv&#233;d &#250;t" />
+    <tag id="83637427" k="highway" o="none" type="way" v="residential" />
+    <tag id="83637427" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="83637427" k="maxweight" o="none" type="way" v="6" />
+    <tag id="84835933" k="name" o="none" type="way" v="&quot;A&quot; telep" />
+    <tag id="84835933" k="barrier" o="none" type="way" v="fence" />
+    <tag id="84835933" k="landuse" o="none" type="way" v="military" />
+    <tag id="300752563" k="ref" o="none" type="way" v="46113" />
+    <tag id="300752563" k="name" o="none" type="way" v="Tarcsay &#250;t" />
+    <tag id="300752563" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="527267878" k="barrier" o="none" type="way" v="fence" />
+    <tag id="527267963" k="name" o="none" type="way" v="Postasor" />
+    <tag id="527267963" k="highway" o="none" type="way" v="residential" />
+    <tag id="527267964" k="name" o="none" type="way" v="Postasor" />
+    <tag id="527267964" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="527267964" k="surface" o="none" type="way" v="compacted" />
+    <tag id="527267964" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="527267964" k="smoothness" o="none" type="way" v="bad" />
     <tag id="527372229" k="man_made" o="add" type="way" v="cutline" />
     <tag id="527372230" k="building" o="add" type="way" v="yes" />
-    <tag id="527372231" k="landuse" o="add" type="way" v="residential" />
     <tag id="527372231" k="place" o="add" type="way" v="hamlet" />
+    <tag id="527372231" k="landuse" o="add" type="way" v="residential" />
     <tag id="527372232" k="building" o="add" type="way" v="yes" />
     <tag id="527372233" k="building" o="add" type="way" v="yes" />
     <tag id="527372234" k="building" o="add" type="way" v="yes" />
@@ -53,10 +74,10 @@
     <tag id="527372247" k="landuse" o="add" type="way" v="forest" />
     <tag id="527372248" k="natural" o="add" type="way" v="tree_row" />
     <tag id="527372249" k="natural" o="add" type="way" v="tree_row" />
-    <tag id="527372250" k="abandoned" o="add" type="way" v="yes" />
+    <tag id="527372250" k="sport" o="add" type="way" v="athletics" />
     <tag id="527372250" k="leisure" o="add" type="way" v="track" />
     <tag id="527372250" k="natural" o="add" type="way" v="grassland" />
-    <tag id="527372250" k="sport" o="add" type="way" v="athletics" />
+    <tag id="527372250" k="abandoned" o="add" type="way" v="yes" />
     <tag id="527372251" k="highway" o="add" type="way" v="track" />
     <tag id="527372253" k="highway" o="add" type="way" v="service" />
     <tag id="527372254" k="highway" o="add" type="way" v="track" />
@@ -65,8 +86,8 @@
     <tag id="527372257" k="building" o="add" type="way" v="yes" />
     <tag id="527372258" k="highway" o="add" type="way" v="track" />
     <tag id="527372259" k="highway" o="add" type="way" v="track" />
-    <tag id="527372260" k="railway" o="add" type="way" v="rail" />
     <tag id="527372260" k="usage" o="add" type="way" v="industrial" />
+    <tag id="527372260" k="railway" o="add" type="way" v="rail" />
     <tag id="527372261" k="building" o="add" type="way" v="yes" />
     <tag id="527372262" k="building" o="add" type="way" v="yes" />
     <tag id="527372263" k="building" o="add" type="way" v="yes" />
@@ -154,28 +175,7 @@
     <tag id="527372346" k="landuse" o="add" type="way" v="farmyard" />
     <tag id="527372347" k="landuse" o="add" type="way" v="farmyard" />
     <tag id="527372348" k="highway" o="add" type="way" v="track" />
-    <tag id="7603678" k="landuse" o="add" type="relation" v="forest" />
     <tag id="7603678" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="985003983" k="barrier" o="none" type="node" v="gate" />
-    <tag id="83637427" k="highway" o="none" type="way" v="residential" />
-    <tag id="83637427" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="83637427" k="maxweight" o="none" type="way" v="6" />
-    <tag id="83637427" k="name" o="none" type="way" v="Honv&#233;d &#250;t" />
-    <tag id="84835933" k="barrier" o="none" type="way" v="fence" />
-    <tag id="84835933" k="landuse" o="none" type="way" v="military" />
-    <tag id="84835933" k="name" o="none" type="way" v="&quot;A&quot; telep" />
-    <tag id="43523810" k="railway" o="none" type="way" v="rail" />
-    <tag id="43523810" k="usage" o="none" type="way" v="industrial" />
-    <tag id="300752563" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="300752563" k="name" o="none" type="way" v="Tarcsay &#250;t" />
-    <tag id="300752563" k="ref" o="none" type="way" v="46113" />
-    <tag id="527267878" k="barrier" o="none" type="way" v="fence" />
-    <tag id="527267963" k="highway" o="none" type="way" v="residential" />
-    <tag id="527267963" k="name" o="none" type="way" v="Postasor" />
-    <tag id="527267964" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="527267964" k="name" o="none" type="way" v="Postasor" />
-    <tag id="527267964" k="smoothness" o="none" type="way" v="bad" />
-    <tag id="527267964" k="surface" o="none" type="way" v="compacted" />
-    <tag id="527267964" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="7603678" k="landuse" o="add" type="relation" v="forest" />
   </body>
 </changeset>

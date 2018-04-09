@@ -8,12 +8,12 @@
     <tag k="locale" v="en-US" />
   </meta>
   <body>
-    <tag id="415926049" k="construction" o="add" type="way" v="motorway_link" />
-    <tag id="415926049" k="highway" o="add" type="way" v="construction" />
-    <tag id="415926049" k="source" o="add" type="way" v="http://www.nflroads.com/SiteCollectionDocuments/I95-JTB%20interchange%20construction%20open%20house%20handout%20January%202015%20REV%205.pdf" />
-    <tag id="10868694" k="highway" o="none" type="way" v="motorway_link" />
     <tag id="10868694" k="oneway" o="none" type="way" v="yes" />
+    <tag id="10868694" k="highway" o="none" type="way" v="motorway_link" />
     <tag id="10868694" k="tiger:cfcc" o="none" type="way" v="A63" />
     <tag id="10868694" k="tiger:county" o="none" type="way" v="Duval, FL" />
+    <tag id="415926049" k="source" o="add" type="way" v="http://www.nflroads.com/SiteCollectionDocuments/I95-JTB%20interchange%20construction%20open%20house%20handout%20January%202015%20REV%205.pdf" />
+    <tag id="415926049" k="highway" o="add" type="way" v="construction" />
+    <tag id="415926049" k="construction" o="add" type="way" v="motorway_link" />
   </body>
 </changeset>

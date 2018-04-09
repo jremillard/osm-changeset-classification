@@ -1,1 +1,30 @@
-<changeset id="56396125" schema="1"><counts nodesAdded="18" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="7" waysModified="1" /><meta><tag k="comment" v="Added missing service roads in parking lots" /><tag k="created_by" v="JOSM/1.5 (13392 en)" /><tag k="source" v="Mapbox Satellite; Mapbox Telemetry" /></meta><body><tag id="561615992" k="highway" o="add" type="way" v="service" /><tag id="561615996" k="highway" o="add" type="way" v="service" /><tag id="561615996" k="service" o="add" type="way" v="parking_aisle" /><tag id="561615998" k="highway" o="add" type="way" v="service" /><tag id="561615998" k="oneway" o="add" type="way" v="yes" /><tag id="561615999" k="highway" o="add" type="way" v="service" /><tag id="561615999" k="oneway" o="add" type="way" v="yes" /><tag id="561616000" k="highway" o="add" type="way" v="service" /><tag id="561616001" k="highway" o="add" type="way" v="service" /><tag id="561616003" k="highway" o="add" type="way" v="service" /></body></changeset>
+<changeset id="56396125" schema="2">
+  <counts nodesAdded="18" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="7" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Added missing service roads in parking lots" />
+    <tag k="created_by" v="JOSM/1.5 (13392 en)" />
+    <tag k="source" v="Mapbox Satellite; Mapbox Telemetry" />
+  </meta>
+  <body>
+    <tag id="9189363" k="ref" o="none" type="way" v="GA 10" />
+    <tag id="9189363" k="name" o="none" type="way" v="Memorial Drive" />
+    <tag id="9189363" k="lanes" o="none" type="way" v="3" />
+    <tag id="9189363" k="oneway" o="none" type="way" v="yes" />
+    <tag id="9189363" k="highway" o="none" type="way" v="primary" />
+    <tag id="9189363" k="tiger:cfcc" o="none" type="way" v="A35" />
+    <tag id="9189363" k="tiger:county" o="none" type="way" v="DeKalb, GA" />
+    <tag id="9189363" k="tiger:name_base" o="none" type="way" v="Memorial" />
+    <tag id="9189363" k="tiger:name_type" o="none" type="way" v="Dr" />
+    <tag id="9189363" k="tiger:name_base_1" o="none" type="way" v="State Route 10" />
+    <tag id="561615992" k="highway" o="add" type="way" v="service" />
+    <tag id="561615996" k="highway" o="add" type="way" v="service" />
+    <tag id="561615996" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="561615998" k="oneway" o="add" type="way" v="yes" />
+    <tag id="561615998" k="highway" o="add" type="way" v="service" />
+    <tag id="561615999" k="oneway" o="add" type="way" v="yes" />
+    <tag id="561615999" k="highway" o="add" type="way" v="service" />
+    <tag id="561616000" k="highway" o="add" type="way" v="service" />
+    <tag id="561616001" k="highway" o="add" type="way" v="service" />
+    <tag id="561616003" k="highway" o="add" type="way" v="service" />
+  </body>
+</changeset>

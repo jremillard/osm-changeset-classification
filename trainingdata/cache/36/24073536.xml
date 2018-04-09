@@ -1,5 +1,5 @@
 <changeset id="24073536" schema="2">
-  <counts nodesAdded="73" nodesDeleted="82" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="73" nodesDeleted="82" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Horn&#237; Libina (relation 432509)." />
@@ -8,24 +8,24 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="292243663" k="admin_level" o="add" type="way" v="10" />
-    <tag id="292243663" k="boundary" o="add" type="way" v="administrative" />
     <tag id="292243663" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="432509" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="432509" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="292243663" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="292243663" k="admin_level" o="add" type="way" v="10" />
+    <tag id="432509" k="ref" o="none" type="relation" v="682845" />
     <tag id="432509" k="name" o="none" type="relation" v="Horn&#237; Libina" />
+    <tag id="432509" k="type" o="none" type="relation" v="boundary" />
+    <tag id="432509" k="source" o="none" type="relation" v="cuzk:ruian" />
     <tag id="432509" k="name:cs" o="none" type="relation" v="Horn&#237; Libina" />
     <tag id="432509" k="name:de" o="none" type="relation" v="Deutsch Liebau" />
-    <tag id="432509" k="ref" o="none" type="relation" v="682845" />
-    <tag id="432509" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="432509" k="type" o="none" type="relation" v="boundary" />
-    <tag id="433333" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="433333" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="432509" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="432509" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="433333" k="ref" o="none" type="relation" v="682853" />
     <tag id="433333" k="name" o="none" type="relation" v="Ob&#283;dn&#233;" />
+    <tag id="433333" k="type" o="none" type="relation" v="boundary" />
+    <tag id="433333" k="source" o="none" type="relation" v="cuzk:ruian" />
     <tag id="433333" k="name:cs" o="none" type="relation" v="Ob&#283;dn&#233;" />
     <tag id="433333" k="name:de" o="none" type="relation" v="Liebesdorf" />
-    <tag id="433333" k="ref" o="none" type="relation" v="682853" />
-    <tag id="433333" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="433333" k="type" o="none" type="relation" v="boundary" />
+    <tag id="433333" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="433333" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

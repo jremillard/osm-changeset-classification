@@ -1,1 +1,33 @@
-<changeset id="53194337" schema="1"><counts nodesAdded="7" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="1" /><meta><tag k="changesets_count" v="1" /><tag k="comment" v="This road was a large washout section that cars cannot pass. Pedestrians and cyclists are allowed." /><tag k="created_by" v="iD 2.4.3" /><tag k="host" v="http://www.openstreetmap.org/edit" /><tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area" /><tag k="ideditor:walkthrough_started" v="yes" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /><tag k="review_requested" v="yes" /></meta><body><tag id="5184916168" k="barrier" o="add" type="node" v="jersey_barrier" /><tag id="5184916168" k="description" o="add" type="node" v="Road washed out. Closed to vehicular through traffic. Pedestrains and Bicycles may pass." /><tag id="534685046" k="description" o="add" type="way" v="Road washed out in Winter 2016/2017. No access for motor vehicles." /><tag id="534685046" k="landuse" o="add" type="way" v="military" /><tag id="534685046" k="military" o="add" type="way" v="danger_area" /><tag id="534685046" k="name" o="add" type="way" v="Washout" /><tag id="124265757" k="bicycle" o="modify" type="way" v="yes" /><tag id="124265757" k="description" o="add" type="way" v="This road is closed to through traffic of all motor vehicles until the washout has been repaird. There are Jersey barriers blocking through traffic 3/4 mile up from hwy 30" /><tag id="124265757" k="highway" o="modify" type="way" v="residential" /><tag id="124265757" k="lanes" o="add" type="way" v="2" /><tag id="124265757" k="maxspeed" o="add" type="way" v="30 mph" /><tag id="124265757" k="motor_vehicle" o="add" type="way" v="yes" /><tag id="124265757" k="oneway" o="add" type="way" v="no" /><tag id="124265757" k="surface" o="add" type="way" v="asphalt" /></body></changeset>
+<changeset id="53194337" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="1" />
+    <tag k="comment" v="This road was a large washout section that cars cannot pass. Pedestrians and cyclists are allowed." />
+    <tag k="created_by" v="iD 2.4.3" />
+    <tag k="host" v="http://www.openstreetmap.org/edit" />
+    <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area" />
+    <tag k="ideditor:walkthrough_started" v="yes" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+    <tag k="review_requested" v="yes" />
+  </meta>
+  <body>
+    <tag id="5184916168" k="barrier" o="add" type="node" v="jersey_barrier" />
+    <tag id="5184916168" k="description" o="add" type="node" v="Road washed out. Closed to vehicular through traffic. Pedestrains and Bicycles may pass." />
+    <tag id="124265757" k="name" o="none" type="way" v="Northwest Newberry Road" />
+    <tag id="124265757" k="lanes" o="add" type="way" v="2" />
+    <tag id="124265757" k="access" o="none" type="way" v="destination" />
+    <tag id="124265757" k="oneway" o="add" type="way" v="no" />
+    <tag id="124265757" k="bicycle" o="modify" type="way" v="yes" />
+    <tag id="124265757" k="highway" o="modify" type="way" v="residential" />
+    <tag id="124265757" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="124265757" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="124265757" k="sidewalk" o="none" type="way" v="no" />
+    <tag id="124265757" k="description" o="add" type="way" v="This road is closed to through traffic of all motor vehicles until the washout has been repaird. There are Jersey barriers blocking through traffic 3/4 mile up from hwy 30" />
+    <tag id="124265757" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="534685046" k="name" o="add" type="way" v="Washout" />
+    <tag id="534685046" k="landuse" o="add" type="way" v="military" />
+    <tag id="534685046" k="military" o="add" type="way" v="danger_area" />
+    <tag id="534685046" k="description" o="add" type="way" v="Road washed out in Winter 2016/2017. No access for motor vehicles." />
+  </body>
+</changeset>

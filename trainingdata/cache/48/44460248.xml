@@ -1,44 +1,44 @@
 <changeset id="44460248" schema="2">
-  <counts nodesAdded="13" nodesDeleted="3" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="2" waysModified="11" />
+  <counts nodesAdded="13" nodesDeleted="3" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="2" waysModified="13" />
   <meta>
     <tag k="comment" v="https://www.openstreetmap.org/note/501407: Die Terrasse hatte einen unn&#252;zen layer-tag. Plus weitere Tag-Korrekturen" />
     <tag k="created_by" v="JOSM/1.5 (11223 de)" />
     <tag k="source" v="Knowledge / Bing / OSM-Wiki" />
   </meta>
   <body>
+    <tag id="3977914526" k="foot" o="add" type="node" v="no" />
     <tag id="3977914526" k="access" o="add" type="node" v="private" />
     <tag id="3977914526" k="barrier" o="add" type="node" v="gate" />
     <tag id="3977914526" k="bicycle" o="add" type="node" v="no" />
-    <tag id="3977914526" k="foot" o="add" type="node" v="no" />
     <tag id="392475152" k="leisure" o="none" type="way" v="outdoor_seating" />
     <tag id="392475152" k="outdoor_seating" o="none" type="way" v="terrace" />
+    <tag id="392475153" k="name" o="none" type="way" v="Gerresheim in der &quot;Stiftung Staatsoper&quot;" />
+    <tag id="392475153" k="amenity" o="none" type="way" v="restaurant" />
+    <tag id="392475153" k="cuisine" o="none" type="way" v="international" />
+    <tag id="392475153" k="building" o="none" type="way" v="yes" />
     <tag id="392475153" k="addr:city" o="none" type="way" v="Berlin" />
-    <tag id="392475153" k="addr:country" o="none" type="way" v="DE" />
-    <tag id="392475153" k="addr:housenumber" o="none" type="way" v="1" />
-    <tag id="392475153" k="addr:postcode" o="none" type="way" v="10243" />
+    <tag id="392475153" k="wheelchair" o="none" type="way" v="yes" />
     <tag id="392475153" k="addr:street" o="none" type="way" v="Am Wriezener Bahnhof" />
     <tag id="392475153" k="addr:suburb" o="none" type="way" v="Friedrichshain" />
-    <tag id="392475153" k="amenity" o="none" type="way" v="restaurant" />
-    <tag id="392475153" k="building" o="none" type="way" v="yes" />
-    <tag id="392475153" k="building:levels" o="none" type="way" v="2" />
-    <tag id="392475153" k="cuisine" o="none" type="way" v="international" />
     <tag id="392475153" k="description" o="none" type="way" v="Kantine" />
-    <tag id="392475153" k="name" o="none" type="way" v="Gerresheim in der &quot;Stiftung Staatsoper&quot;" />
+    <tag id="392475153" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="392475153" k="addr:postcode" o="none" type="way" v="10243" />
+    <tag id="392475153" k="building:levels" o="none" type="way" v="2" />
     <tag id="392475153" k="outdoor_seating" o="none" type="way" v="yes" />
-    <tag id="392475153" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="392475153" k="addr:housenumber" o="none" type="way" v="1" />
     <tag id="392475153" k="wheelchair:description" o="none" type="way" v="Rampe beim Haupteingang (Pf&#246;rtner), Fahrstuhl rechts neben der Haupttreppe (Innenhof)." />
-    <tag id="392475154" k="building:levels" o="add" type="way" v="1" />
     <tag id="392475154" k="building:part" o="add" type="way" v="yes" />
+    <tag id="392475154" k="building:levels" o="add" type="way" v="1" />
+    <tag id="392475157" k="highway" o="modify" type="way" v="footway" />
+    <tag id="392475158" k="highway" o="modify" type="way" v="footway" />
+    <tag id="392475159" k="highway" o="modify" type="way" v="footway" />
     <tag id="392475160" k="access" o="none" type="way" v="customers" />
     <tag id="392475160" k="highway" o="none" type="way" v="footway" />
     <tag id="392475160" k="surface" o="none" type="way" v="asphalt" />
     <tag id="392475161" k="landuse" o="none" type="way" v="grass" />
-    <tag id="392475157" k="highway" o="modify" type="way" v="footway" />
-    <tag id="392475158" k="highway" o="modify" type="way" v="footway" />
-    <tag id="392475159" k="highway" o="modify" type="way" v="footway" />
     <tag id="394198035" k="barrier" o="none" type="way" v="fence" />
-    <tag id="394896537" k="highway" o="modify" type="way" v="footway" />
-    <tag id="394896537" k="tunnel" o="add" type="way" v="building_passage" />
     <tag id="394213085" k="landuse" o="none" type="way" v="commercial" />
+    <tag id="394896537" k="tunnel" o="add" type="way" v="building_passage" />
+    <tag id="394896537" k="highway" o="modify" type="way" v="footway" />
   </body>
 </changeset>

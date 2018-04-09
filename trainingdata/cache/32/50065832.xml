@@ -1,1 +1,44 @@
-<changeset id="50065832" schema="1"><counts nodesAdded="1" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="3" /><meta><tag k="comment" v="Corrected streets around EMSI, Inc. and added map point for EMSI, Inc." /><tag k="created_by" v="iD 2.2.2" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="4953234088" k="addr:city" o="add" type="node" v="Baytown" /><tag id="4953234088" k="addr:housenumber" o="add" type="node" v="400" /><tag id="4953234088" k="addr:postcode" o="add" type="node" v="77520" /><tag id="4953234088" k="addr:state" o="add" type="node" v="TX" /><tag id="4953234088" k="addr:street" o="add" type="node" v="TX 146 Frontage Road" /><tag id="4953234088" k="description" o="add" type="node" v="EMSI's mission is to aid facilities in meeting all EPA regulations. We've been serving our clients since 1986" /><tag id="4953234088" k="name" o="add" type="node" v="Emission Monitoring Service, Inc." /></body></changeset>
+<changeset id="50065832" schema="2">
+  <counts nodesAdded="1" nodesDeleted="2" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="2" waysModified="5" />
+  <meta>
+    <tag k="comment" v="Corrected streets around EMSI, Inc. and added map point for EMSI, Inc." />
+    <tag k="created_by" v="iD 2.2.2" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4953234088" k="name" o="add" type="node" v="Emission Monitoring Service, Inc." />
+    <tag id="4953234088" k="addr:city" o="add" type="node" v="Baytown" />
+    <tag id="4953234088" k="addr:state" o="add" type="node" v="TX" />
+    <tag id="4953234088" k="addr:street" o="add" type="node" v="TX 146 Frontage Road" />
+    <tag id="4953234088" k="description" o="add" type="node" v="EMSI's mission is to aid facilities in meeting all EPA regulations. We've been serving our clients since 1986" />
+    <tag id="4953234088" k="addr:postcode" o="add" type="node" v="77520" />
+    <tag id="4953234088" k="addr:housenumber" o="add" type="node" v="400" />
+    <tag id="15360588" k="name" o="none" type="way" v="Superior Street" />
+    <tag id="15360588" k="highway" o="none" type="way" v="residential" />
+    <tag id="15360588" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="15360588" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="15360588" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="15360588" k="tiger:zip_left" o="none" type="way" v="77520" />
+    <tag id="15360588" k="tiger:name_base" o="none" type="way" v="Superior" />
+    <tag id="15360588" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="15360588" k="tiger:zip_right" o="none" type="way" v="77520" />
+    <tag id="15374271" k="name" o="none" type="way" v="Atlantic Street" />
+    <tag id="15374271" k="highway" o="none" type="way" v="residential" />
+    <tag id="15374271" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="15374271" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="15374271" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="15374271" k="tiger:name_base" o="none" type="way" v="Atlantic" />
+    <tag id="15374271" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="15442658" k="name" o="none" type="way" v="Texoma Street" />
+    <tag id="15442658" k="highway" o="none" type="way" v="residential" />
+    <tag id="15442658" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="15442658" k="tiger:county" o="none" type="way" v="Harris, TX" />
+    <tag id="15442658" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="15442658" k="tiger:zip_left" o="none" type="way" v="77520" />
+    <tag id="15442658" k="tiger:name_base" o="none" type="way" v="Texoma" />
+    <tag id="15442658" k="tiger:name_type" o="none" type="way" v="St" />
+    <tag id="15442658" k="tiger:zip_right" o="none" type="way" v="77520" />
+  </body>
+</changeset>

@@ -1,1 +1,37 @@
-<changeset id="56064308" schema="1"><counts nodesAdded="3" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="2" /><meta><tag k="changesets_count" v="329" /><tag k="comment" v="added some smaller hints at the ULB after visiting FOSDEM2018." /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Belgium AGIV Orthophoto Flanders" /><tag k="locale" v="de" /><tag k="review_requested" v="yes" /></meta><body><tag id="5387449486" k="entrance" o="add" type="node" v="yes" /><tag id="558589075" k="handrail" o="add" type="way" v="yes" /><tag id="558589075" k="highway" o="add" type="way" v="steps" /><tag id="558589076" k="access" o="add" type="way" v="private" /><tag id="558589076" k="bicycle" o="add" type="way" v="yes" /><tag id="558589076" k="foot" o="add" type="way" v="designated" /><tag id="558589076" k="highway" o="add" type="way" v="footway" /><tag id="558589076" k="surface" o="add" type="way" v="paving_stones" /><tag id="1028862529" k="entrance" o="add" type="node" v="yes" /></body></changeset>
+<changeset id="56064308" schema="2">
+  <counts nodesAdded="3" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="changesets_count" v="329" />
+    <tag k="comment" v="added some smaller hints at the ULB after visiting FOSDEM2018." />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Belgium AGIV Orthophoto Flanders" />
+    <tag k="locale" v="de" />
+    <tag k="review_requested" v="yes" />
+  </meta>
+  <body>
+    <tag id="1028862529" k="entrance" o="add" type="node" v="yes" />
+    <tag id="5387449486" k="entrance" o="add" type="node" v="yes" />
+    <tag id="32902107" k="foot" o="none" type="way" v="designated" />
+    <tag id="32902107" k="name" o="none" type="way" v="Avenue Paul H&#233;ger - Paul H&#233;gerlaan" />
+    <tag id="32902107" k="access" o="none" type="way" v="private" />
+    <tag id="32902107" k="oneway" o="none" type="way" v="no" />
+    <tag id="32902107" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="32902107" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="32902107" k="name:fr" o="none" type="way" v="Avenue Paul H&#233;ger" />
+    <tag id="32902107" k="name:nl" o="none" type="way" v="Paul H&#233;gerlaan" />
+    <tag id="32902107" k="surface" o="none" type="way" v="paving_stones" />
+    <tag id="32902107" k="maxspeed" o="none" type="way" v="10" />
+    <tag id="32902107" k="motor_vehicle" o="none" type="way" v="private" />
+    <tag id="238745605" k="name" o="none" type="way" v="F1" />
+    <tag id="238745605" k="building" o="none" type="way" v="yes" />
+    <tag id="238745605" k="ref:UrbIS" o="none" type="way" v="8594986" />
+    <tag id="558589075" k="highway" o="add" type="way" v="steps" />
+    <tag id="558589075" k="handrail" o="add" type="way" v="yes" />
+    <tag id="558589076" k="foot" o="add" type="way" v="designated" />
+    <tag id="558589076" k="access" o="add" type="way" v="private" />
+    <tag id="558589076" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="558589076" k="highway" o="add" type="way" v="footway" />
+    <tag id="558589076" k="surface" o="add" type="way" v="paving_stones" />
+  </body>
+</changeset>

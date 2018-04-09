@@ -1,1 +1,40 @@
-<changeset id="55709496" schema="1"><counts nodesAdded="1" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="bundle_id" v="com.mapswithme.full" /><tag k="comment" v="Created an atm; Updated 2 bus_stops and a building" /><tag k="created_by" v="MAPS.ME ios 8.0.3" /></meta><body><tag id="5358741721" k="amenity" o="add" type="node" v="atm" /><tag id="5358741721" k="opening_hours" o="add" type="node" v="24/7" /><tag id="5358741721" k="operator" o="add" type="node" v="AKB" /><tag id="1036006137" k="name:de" o="add" type="node" v="Ennetbaden, Kirche" /><tag id="1036006137" k="name:en" o="add" type="node" v="Ennetbaden, Kirche" /><tag id="1036006137" k="name:fr" o="add" type="node" v="Ennetbaden, Kirche" /><tag id="1036006163" k="name:de" o="add" type="node" v="Ennetbaden, Kirche" /><tag id="1036006163" k="name:en" o="add" type="node" v="Ennetbaden, Kirche" /><tag id="1036006163" k="name:fr" o="add" type="node" v="Ennetbaden, Kirche" /><tag id="158248296" k="addr:housenumber" o="add" type="way" v="2" /><tag id="158248296" k="addr:street" o="add" type="way" v="Bahnhofplatz" /></body></changeset>
+<changeset id="55709496" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="bundle_id" v="com.mapswithme.full" />
+    <tag k="comment" v="Created an atm; Updated 2 bus_stops and a building" />
+    <tag k="created_by" v="MAPS.ME ios 8.0.3" />
+  </meta>
+  <body>
+    <tag id="1036006137" k="bus" o="none" type="node" v="yes" />
+    <tag id="1036006137" k="ele" o="none" type="node" v="378" />
+    <tag id="1036006137" k="name" o="none" type="node" v="Kirche" />
+    <tag id="1036006137" k="is_in" o="none" type="node" v="Ennetbaden" />
+    <tag id="1036006137" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1036006137" k="name:de" o="add" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006137" k="name:en" o="add" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006137" k="name:fr" o="add" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006137" k="uic_ref" o="none" type="node" v="8590232" />
+    <tag id="1036006137" k="operator" o="none" type="node" v="RVBW" />
+    <tag id="1036006137" k="uic_name" o="none" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006137" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="1036006163" k="bus" o="none" type="node" v="yes" />
+    <tag id="1036006163" k="ele" o="none" type="node" v="378" />
+    <tag id="1036006163" k="name" o="none" type="node" v="Kirche" />
+    <tag id="1036006163" k="is_in" o="none" type="node" v="Ennetbaden" />
+    <tag id="1036006163" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="1036006163" k="name:de" o="add" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006163" k="name:en" o="add" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006163" k="name:fr" o="add" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006163" k="uic_ref" o="none" type="node" v="8590232" />
+    <tag id="1036006163" k="operator" o="none" type="node" v="RVBW" />
+    <tag id="1036006163" k="uic_name" o="none" type="node" v="Ennetbaden, Kirche" />
+    <tag id="1036006163" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="5358741721" k="amenity" o="add" type="node" v="atm" />
+    <tag id="5358741721" k="operator" o="add" type="node" v="AKB" />
+    <tag id="5358741721" k="opening_hours" o="add" type="node" v="24/7" />
+    <tag id="158248296" k="building" o="none" type="way" v="yes" />
+    <tag id="158248296" k="addr:street" o="add" type="way" v="Bahnhofplatz" />
+    <tag id="158248296" k="addr:housenumber" o="add" type="way" v="2" />
+  </body>
+</changeset>

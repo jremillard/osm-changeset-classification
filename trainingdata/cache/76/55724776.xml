@@ -1,1 +1,45 @@
-<changeset id="55724776" schema="1"><counts nodesAdded="67" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="11" waysModified="1" /><meta><tag k="changesets_count" v="2670" /><tag k="comment" v="fix errors and TIGER cleanup; add destination tags, speed limits, buildings, addresses, areas, and more when necessary" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5359746019" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774723" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774724" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774738" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774742" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774749" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774751" k="highway" o="add" type="node" v="turning_circle" /><tag id="5359774758" k="highway" o="add" type="node" v="turning_circle" /><tag id="555546383" k="highway" o="add" type="way" v="residential" /><tag id="555546383" k="name" o="add" type="way" v="Southwest 10th Street" /><tag id="555546384" k="highway" o="add" type="way" v="residential" /><tag id="555546384" k="name" o="add" type="way" v="Southwest Whitetail Drive" /><tag id="555546386" k="highway" o="add" type="way" v="residential" /><tag id="555546386" k="name" o="add" type="way" v="Southwest Redbud Circle" /><tag id="555546387" k="highway" o="add" type="way" v="residential" /><tag id="555546387" k="name" o="add" type="way" v="Southwest Eagle Drive" /><tag id="555546389" k="highway" o="add" type="way" v="residential" /><tag id="555546389" k="name" o="add" type="way" v="Southwest 10th Terrace" /><tag id="555546391" k="highway" o="add" type="way" v="residential" /><tag id="555546391" k="name" o="add" type="way" v="Southwest Powell Drive" /><tag id="555546395" k="highway" o="add" type="way" v="residential" /><tag id="555546395" k="name" o="add" type="way" v="Southwest Wild Plum Circle" /><tag id="555546397" k="highway" o="add" type="way" v="residential" /><tag id="555546397" k="name" o="add" type="way" v="Southwest Winterberry Circle" /><tag id="555546400" k="highway" o="add" type="way" v="residential" /><tag id="555546400" k="name" o="add" type="way" v="Southwest Whitetail Drive" /><tag id="555546402" k="highway" o="add" type="way" v="residential" /><tag id="555546402" k="name" o="add" type="way" v="Southwest Hawthorn Circle" /><tag id="555546405" k="landuse" o="add" type="way" v="residential" /><tag id="555546405" k="name" o="add" type="way" v="The Oaks of Edgewood" /></body></changeset>
+<changeset id="55724776" schema="2">
+  <counts nodesAdded="67" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="11" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="2670" />
+    <tag k="comment" v="fix errors and TIGER cleanup; add destination tags, speed limits, buildings, addresses, areas, and more when necessary" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="5359746019" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774723" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774724" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774738" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774742" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774749" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774751" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="5359774758" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="555534100" k="name" o="none" type="way" v="Southwest 8th Street" />
+    <tag id="555534100" k="highway" o="none" type="way" v="residential" />
+    <tag id="555546383" k="name" o="add" type="way" v="Southwest 10th Street" />
+    <tag id="555546383" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546384" k="name" o="add" type="way" v="Southwest Whitetail Drive" />
+    <tag id="555546384" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546386" k="name" o="add" type="way" v="Southwest Redbud Circle" />
+    <tag id="555546386" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546387" k="name" o="add" type="way" v="Southwest Eagle Drive" />
+    <tag id="555546387" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546389" k="name" o="add" type="way" v="Southwest 10th Terrace" />
+    <tag id="555546389" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546391" k="name" o="add" type="way" v="Southwest Powell Drive" />
+    <tag id="555546391" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546395" k="name" o="add" type="way" v="Southwest Wild Plum Circle" />
+    <tag id="555546395" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546397" k="name" o="add" type="way" v="Southwest Winterberry Circle" />
+    <tag id="555546397" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546400" k="name" o="add" type="way" v="Southwest Whitetail Drive" />
+    <tag id="555546400" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546402" k="name" o="add" type="way" v="Southwest Hawthorn Circle" />
+    <tag id="555546402" k="highway" o="add" type="way" v="residential" />
+    <tag id="555546405" k="name" o="add" type="way" v="The Oaks of Edgewood" />
+    <tag id="555546405" k="landuse" o="add" type="way" v="residential" />
+  </body>
+</changeset>

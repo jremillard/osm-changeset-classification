@@ -1,1 +1,20 @@
-<changeset id="55460852" schema="1"><counts nodesAdded="7" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="1" /><meta><tag k="comment" v="Update POIs in Greenville" /><tag k="created_by" v="JOSM/1.5 (13265 en)" /><tag k="source" v="Bing, local knowlege" /></meta><body><tag id="5340721754" k="amenity" o="add" type="node" v="atm" /><tag id="5340721754" k="operator" o="add" type="node" v="Greenville Federal Credit Union" /><tag id="553254808" k="building" o="add" type="way" v="roof" /><tag id="354931901" k="addr:city" o="add" type="way" v="Greenville" /><tag id="354931901" k="addr:housenumber" o="add" type="way" v="1501" /><tag id="354931901" k="addr:postcode" o="add" type="way" v="29609" /><tag id="354931901" k="addr:street" o="add" type="way" v="Wade Hampton Boulevard" /><tag id="354931901" k="amenity" o="add" type="way" v="bank" /><tag id="354931901" k="building" o="modify" type="way" v="office" /><tag id="354931901" k="name" o="add" type="way" v="Greenville Federal Credit Union" /></body></changeset>
+<changeset id="55460852" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Update POIs in Greenville" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en)" />
+    <tag k="source" v="Bing, local knowlege" />
+  </meta>
+  <body>
+    <tag id="5340721754" k="amenity" o="add" type="node" v="atm" />
+    <tag id="5340721754" k="operator" o="add" type="node" v="Greenville Federal Credit Union" />
+    <tag id="354931901" k="name" o="add" type="way" v="Greenville Federal Credit Union" />
+    <tag id="354931901" k="amenity" o="add" type="way" v="bank" />
+    <tag id="354931901" k="building" o="modify" type="way" v="office" />
+    <tag id="354931901" k="addr:city" o="add" type="way" v="Greenville" />
+    <tag id="354931901" k="addr:street" o="add" type="way" v="Wade Hampton Boulevard" />
+    <tag id="354931901" k="addr:postcode" o="add" type="way" v="29609" />
+    <tag id="354931901" k="addr:housenumber" o="add" type="way" v="1501" />
+    <tag id="553254808" k="building" o="add" type="way" v="roof" />
+  </body>
+</changeset>

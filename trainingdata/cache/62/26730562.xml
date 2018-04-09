@@ -4,5 +4,886 @@
     <tag k="comment" v="Make prefix Jalan,for addr:street, generalize the prefix" />
     <tag k="created_by" v="bulkyosm.py/0.1 Python/2.7.8" />
   </meta>
-  <body />
+  <body>
+    <tag id="3182384624" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182384643" k="name" o="add" type="node" v="Ancol" />
+    <tag id="3182384643" k="tourism" o="add" type="node" v="theme_park" />
+    <tag id="3182384643" k="alt_name" o="add" type="node" v="Taman Impian Jaya Ancol" />
+    <tag id="3182388337" k="ele" o="add" type="node" v="8" />
+    <tag id="3182388337" k="name" o="add" type="node" v="Jakarta" />
+    <tag id="3182388337" k="place" o="add" type="node" v="city" />
+    <tag id="3182388337" k="capital" o="add" type="node" v="yes" />
+    <tag id="3182388337" k="name:af" o="add" type="node" v="Djakarta" />
+    <tag id="3182388337" k="name:am" o="add" type="node" v="&#4867;&#4779;&#4653;&#4723;" />
+    <tag id="3182388337" k="name:ar" o="add" type="node" v="&#1580;&#1575;&#1603;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:az" o="add" type="node" v="Cakarta" />
+    <tag id="3182388337" k="name:ba" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:be" o="add" type="node" v="&#1043;&#1086;&#1088;&#1072;&#1076; &#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:bg" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:bn" o="add" type="node" v="&#2460;&#2494;&#2453;&#2494;&#2480;&#2509;&#2468;&#2494;" />
+    <tag id="3182388337" k="name:bo" o="add" type="node" v="&#3914;&#3851;&#3905;&#3938;&#3851;&#3919;&#3853;" />
+    <tag id="3182388337" k="name:bs" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:de" o="add" type="node" v="Jakarta" />
+    <tag id="3182388337" k="name:el" o="add" type="node" v="&#932;&#950;&#945;&#954;&#940;&#961;&#964;&#945;" />
+    <tag id="3182388337" k="name:eo" o="add" type="node" v="&#284;akarto" />
+    <tag id="3182388337" k="name:es" o="add" type="node" v="Yakarta" />
+    <tag id="3182388337" k="name:fa" o="add" type="node" v="&#1580;&#1575;&#1705;&#1575;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:fr" o="add" type="node" v="Jakarta" />
+    <tag id="3182388337" k="name:ga" o="add" type="node" v="Iac&#225;rta" />
+    <tag id="3182388337" k="name:gl" o="add" type="node" v="Iacarta - Jakarta" />
+    <tag id="3182388337" k="name:gu" o="add" type="node" v="&#2716;&#2750;&#2709;&#2750;&#2736;&#2765;&#2724;&#2750;" />
+    <tag id="3182388337" k="name:he" o="add" type="node" v="&#1490;'&#1511;&#1512;&#1496;&#1492;" />
+    <tag id="3182388337" k="name:hi" o="add" type="node" v="&#2332;&#2325;&#2366;&#2352;&#2381;&#2340;&#2366;" />
+    <tag id="3182388337" k="name:hy" o="add" type="node" v="&#1355;&#1377;&#1391;&#1377;&#1408;&#1407;&#1377;" />
+    <tag id="3182388337" k="name:id" o="add" type="node" v="Daerah Khusus Ibukota Jakarta" />
+    <tag id="3182388337" k="name:is" o="add" type="node" v="Djakarta" />
+    <tag id="3182388337" k="name:it" o="add" type="node" v="Giacarta" />
+    <tag id="3182388337" k="name:ja" o="add" type="node" v="&#12472;&#12515;&#12459;&#12523;&#12479;" />
+    <tag id="3182388337" k="name:ka" o="add" type="node" v="&#4335;&#4304;&#4313;&#4304;&#4320;&#4322;&#4304;" />
+    <tag id="3182388337" k="name:kk" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:km" o="add" type="node" v="&#6021;&#6070;&#6016;&#6070;&#6042;&#6031;&#6070;" />
+    <tag id="3182388337" k="name:kn" o="add" type="node" v="&#3228;&#3221;&#3262;&#3248;&#3277;&#3236;" />
+    <tag id="3182388337" k="name:ko" o="add" type="node" v="&#51088;&#52852;&#47476;&#53440;" />
+    <tag id="3182388337" k="name:ku" o="add" type="node" v="Cakarta" />
+    <tag id="3182388337" k="name:lt" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:lv" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:mk" o="add" type="node" v="&#1039;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:ml" o="add" type="node" v="&#3356;&#3349;&#3405;&#3349;&#3390;&#3452;&#3364;&#3405;&#3364;" />
+    <tag id="3182388337" k="name:mn" o="add" type="node" v="&#1046;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:mr" o="add" type="node" v="&#2332;&#2325;&#2366;&#2352;&#2381;&#2340;&#2366;" />
+    <tag id="3182388337" k="name:my" o="add" type="node" v="&#4098;&#4155;&#4096;&#4140;&#4112;&#4140;&#4121;&#4156;&#4141;&#4143;&#4151;" />
+    <tag id="3182388337" k="name:os" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#230;" />
+    <tag id="3182388337" k="name:pl" o="add" type="node" v="D&#380;akarta" />
+    <tag id="3182388337" k="name:ps" o="add" type="node" v="&#1580;&#1705;&#1575;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:pt" o="add" type="node" v="Jacarta" />
+    <tag id="3182388337" k="name:ru" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:sa" o="add" type="node" v="&#2332;&#2325;&#2366;&#2352;&#2381;&#2340;&#2366;" />
+    <tag id="3182388337" k="name:sh" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:sk" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:sl" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:sq" o="add" type="node" v="Xhakarta" />
+    <tag id="3182388337" k="name:sr" o="add" type="node" v="&#1039;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:sv" o="add" type="node" v="Jakarta" />
+    <tag id="3182388337" k="name:ta" o="add" type="node" v="&#2972;&#2965;&#3006;&#2992;&#3021;&#2980;&#3021;&#2980;&#3006;" />
+    <tag id="3182388337" k="name:te" o="add" type="node" v="&#3100;&#3093;&#3134;&#3120;&#3149;&#3108;&#3134;" />
+    <tag id="3182388337" k="name:th" o="add" type="node" v="&#3592;&#3634;&#3585;&#3634;&#3619;&#3660;&#3605;&#3634;" />
+    <tag id="3182388337" k="name:tr" o="add" type="node" v="Cakarta" />
+    <tag id="3182388337" k="name:ug" o="add" type="node" v="&#1580;&#1575;&#1603;&#1575;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:uk" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:ur" o="add" type="node" v="&#1580;&#1705;&#1575;&#1585;&#1578;&#1729;" />
+    <tag id="3182388337" k="name:yi" o="add" type="node" v="&#1491;&#1494;&#1513;&#1488;&#1511;&#1488;&#1512;&#1496;&#1488;" />
+    <tag id="3182388337" k="name:za" o="add" type="node" v="Yajgyadaz" />
+    <tag id="3182388337" k="name:zh" o="add" type="node" v="&#38597;&#21152;&#36948;" />
+    <tag id="3182388337" k="name:arz" o="add" type="node" v="&#1580;&#1575;&#1603;&#1575;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:ckb" o="add" type="node" v="&#1580;&#1575;&#1705;&#1575;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:hak" o="add" type="node" v="Ng&#226;-k&#226;-tha&#781;t S&#250;-t&#251; Thi&#781;t-kh&#238;" />
+    <tag id="3182388337" k="name:jbo" o="add" type="node" v=".djakartas." />
+    <tag id="3182388337" k="name:lmo" o="add" type="node" v="Giacarta" />
+    <tag id="3182388337" k="name:mhr" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:mwl" o="add" type="node" v="Jacarta" />
+    <tag id="3182388337" k="name:mzn" o="add" type="node" v="&#1580;&#1575;&#1705;&#1575;&#1585;&#1578;&#1575;" />
+    <tag id="3182388337" k="name:nah" o="add" type="node" v="Yakarta" />
+    <tag id="3182388337" k="name:pms" o="add" type="node" v="Giacarta" />
+    <tag id="3182388337" k="name:pnb" o="add" type="node" v="&#1580;&#1705;&#1575;&#1585;&#1578;&#1729;" />
+    <tag id="3182388337" k="name:rue" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:sah" o="add" type="node" v="&#1044;&#1100;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:szl" o="add" type="node" v="D&#380;akarta" />
+    <tag id="3182388337" k="name:vec" o="add" type="node" v="Xacarta" />
+    <tag id="3182388337" k="wikipedia" o="add" type="node" v="id:Jakarta" />
+    <tag id="3182388337" k="population" o="add" type="node" v="10187595" />
+    <tag id="3182388337" k="admin_level" o="add" type="node" v="2" />
+    <tag id="3182388337" k="is_in:ocean" o="add" type="node" v="Pacific" />
+    <tag id="3182388337" k="name:zh-yue" o="add" type="node" v="&#32822;&#21152;&#36948;" />
+    <tag id="3182388337" k="is_in:island" o="add" type="node" v="Java" />
+    <tag id="3182388337" k="name:bat-smg" o="add" type="node" v="D&#382;akarta" />
+    <tag id="3182388337" k="name:map-bms" o="add" type="node" v="Daerah Khusus Ibukota Jakarta" />
+    <tag id="3182388337" k="wikipedia:en" o="add" type="node" v="Jakarta" />
+    <tag id="3182388337" k="is_in:country" o="add" type="node" v="Indonesia" />
+    <tag id="3182388337" k="name:be-x-old" o="add" type="node" v="&#1044;&#1078;&#1072;&#1082;&#1072;&#1088;&#1090;&#1072;" />
+    <tag id="3182388337" k="name:roa-tara" o="add" type="node" v="Giacarta" />
+    <tag id="3182388337" k="is_in:continent" o="add" type="node" v="Asia" />
+    <tag id="3182388337" k="is_in:country_code" o="add" type="node" v="ID" />
+    <tag id="3182390050" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182390050" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="3182390593" k="name" o="add" type="node" v="Jakarta Kota" />
+    <tag id="3182390593" k="railway" o="add" type="node" v="station" />
+    <tag id="3182390603" k="name" o="add" type="node" v="Jayakarta" />
+    <tag id="3182390603" k="railway" o="add" type="node" v="station" />
+    <tag id="3182390608" k="name" o="add" type="node" v="Mangga Besar" />
+    <tag id="3182390608" k="railway" o="add" type="node" v="station" />
+    <tag id="3182390613" k="name" o="add" type="node" v="Sawah Besar" />
+    <tag id="3182390613" k="railway" o="add" type="node" v="station" />
+    <tag id="3182390628" k="name" o="add" type="node" v="Stasiun Gambir" />
+    <tag id="3182390628" k="name:en" o="add" type="node" v="Gambir Central Station" />
+    <tag id="3182390628" k="name:nl" o="add" type="node" v="Station Gambir" />
+    <tag id="3182390628" k="railway" o="add" type="node" v="station" />
+    <tag id="3182390635" k="name" o="add" type="node" v="Manggarai" />
+    <tag id="3182390635" k="railway" o="add" type="node" v="station" />
+    <tag id="3182390926" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182391008" k="name" o="add" type="node" v="Stasiun Sudirman" />
+    <tag id="3182391008" k="railway" o="add" type="node" v="station" />
+    <tag id="3182391008" k="alt_name" o="add" type="node" v="Dukuh Atas" />
+    <tag id="3182391008" k="wikipedia:id" o="add" type="node" v="Stasiun Sudirman" />
+    <tag id="3182391058" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182391058" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="3182391168" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182391176" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182392754" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182393104" k="name" o="add" type="node" v="St. Yakobus" />
+    <tag id="3182393104" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182393104" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182393104" k="denomination" o="add" type="node" v="catholic" />
+    <tag id="3182393146" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182393153" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182393153" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182393487" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="3182394428" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182394430" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182394606" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182394689" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182394835" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="3182395395" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182395469" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182395469" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182395470" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182395470" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182395579" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="3182395579" k="direction" o="add" type="node" v="clockwise" />
+    <tag id="3182395843" k="iata" o="add" type="node" v="HLP" />
+    <tag id="3182395843" k="icao" o="add" type="node" v="WIIH" />
+    <tag id="3182395843" k="name" o="add" type="node" v="Halim Perdana Kusuma" />
+    <tag id="3182395843" k="type" o="add" type="node" v="civil" />
+    <tag id="3182395843" k="is_in" o="add" type="node" v="Jakarta,,Indonesia" />
+    <tag id="3182395843" k="aeroway" o="add" type="node" v="aerodrome" />
+    <tag id="3182396196" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396198" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396298" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396299" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396341" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396351" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="3182396356" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396586" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182396720" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182396720" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182396733" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182396733" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182396734" k="name" o="add" type="node" v="Shell" />
+    <tag id="3182396734" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182396972" k="name" o="add" type="node" v="Pacific Place" />
+    <tag id="3182396972" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182396972" k="building" o="add" type="node" v="office" />
+    <tag id="3182397040" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182397040" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182397286" k="name" o="add" type="node" v="Pasar Rumput" />
+    <tag id="3182397286" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182397299" k="name" o="add" type="node" v="SPBU" />
+    <tag id="3182397299" k="brand" o="add" type="node" v="Pertamina" />
+    <tag id="3182397299" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182397299" k="operator" o="add" type="node" v="Pertamina" />
+    <tag id="3182397299" k="fuel:diesel" o="add" type="node" v="yes" />
+    <tag id="3182397299" k="fuel:biodiesel" o="add" type="node" v="yes" />
+    <tag id="3182397307" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182397339" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182397339" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182397398" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182397401" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182397430" k="name" o="add" type="node" v="Grand Lucky" />
+    <tag id="3182397430" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182397479" k="name" o="add" type="node" v="Pasar Raya" />
+    <tag id="3182397479" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182397522" k="name" o="add" type="node" v="RS Pusat Pertamina" />
+    <tag id="3182397522" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182397580" k="name" o="add" type="node" v="DanceSignal Spot - Domain" />
+    <tag id="3182397580" k="wifi" o="add" type="node" v="yes" />
+    <tag id="3182397580" k="amenity" o="add" type="node" v="nightclub" />
+    <tag id="3182397580" k="addr:housename" o="add" type="node" v="Senayan City" />
+    <tag id="3182397763" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182397778" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182397785" k="amenity" o="add" type="node" v="parking" />
+    <tag id="3182398022" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="3182398193" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182398194" k="name" o="add" type="node" v="Embassy of Spain" />
+    <tag id="3182398194" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398194" k="country" o="add" type="node" v="ES" />
+    <tag id="3182398195" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182398196" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182398197" k="name" o="add" type="node" v="US Embassy" />
+    <tag id="3182398197" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398197" k="country" o="add" type="node" v="US" />
+    <tag id="3182398575" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182398575" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182398599" k="name" o="add" type="node" v="Hypermart" />
+    <tag id="3182398599" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182398629" k="name" o="add" type="node" v="Embassy of Poland" />
+    <tag id="3182398629" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398629" k="country" o="add" type="node" v="PL" />
+    <tag id="3182398630" k="name" o="add" type="node" v="Embassy of Singapore" />
+    <tag id="3182398630" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398630" k="country" o="add" type="node" v="SG" />
+    <tag id="3182398631" k="name" o="add" type="node" v="Embassy of India" />
+    <tag id="3182398631" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398631" k="country" o="add" type="node" v="IN" />
+    <tag id="3182398632" k="name" o="add" type="node" v="Embassy of Switzerland" />
+    <tag id="3182398632" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398632" k="country" o="add" type="node" v="CH" />
+    <tag id="3182398633" k="name" o="add" type="node" v="Embassy of Netherlands" />
+    <tag id="3182398633" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398633" k="country" o="add" type="node" v="NL" />
+    <tag id="3182398634" k="name" o="add" type="node" v="Embassy of Turkey" />
+    <tag id="3182398634" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398634" k="country" o="add" type="node" v="TR" />
+    <tag id="3182398680" k="amenity" o="add" type="node" v="police" />
+    <tag id="3182398704" k="name" o="add" type="node" v="Embassy of Algeria" />
+    <tag id="3182398704" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398704" k="country" o="add" type="node" v="DZ" />
+    <tag id="3182398705" k="name" o="add" type="node" v="Embassy of Laos" />
+    <tag id="3182398705" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182398705" k="country" o="add" type="node" v="LA" />
+    <tag id="3182398708" k="name" o="add" type="node" v="JW Marriott" />
+    <tag id="3182398708" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182398708" k="addr:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182398708" k="is_in:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182398708" k="addr:country" o="add" type="node" v="ID" />
+    <tag id="3182398884" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182398884" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182398907" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182398927" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182398931" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182398936" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182398957" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182399044" k="name" o="add" type="node" v="Carrefour" />
+    <tag id="3182399044" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182399053" k="name" o="add" type="node" v="Giant" />
+    <tag id="3182399053" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182399139" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182399139" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182399458" k="name" o="add" type="node" v="Mercure Hotel Ancol" />
+    <tag id="3182399458" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182399459" k="name" o="add" type="node" v="Duri" />
+    <tag id="3182399459" k="railway" o="add" type="node" v="station" />
+    <tag id="3182399460" k="name" o="add" type="node" v="Angke" />
+    <tag id="3182399460" k="railway" o="add" type="node" v="station" />
+    <tag id="3182399460" k="wikipedia:id" o="add" type="node" v="Stasiun Angke" />
+    <tag id="3182399597" k="name" o="add" type="node" v="Superindo" />
+    <tag id="3182399597" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182399651" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182399651" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182399683" k="name" o="add" type="node" v="Pasar Mayestik" />
+    <tag id="3182399683" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182400904" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182400919" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182401616" k="name" o="add" type="node" v="Manggarai" />
+    <tag id="3182401616" k="amenity" o="add" type="node" v="bus_station" />
+    <tag id="3182401981" k="name" o="add" type="node" v="Embassy of Poland" />
+    <tag id="3182401981" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182401981" k="country" o="add" type="node" v="PL" />
+    <tag id="3182401982" k="name" o="add" type="node" v="Embassy of Palestine" />
+    <tag id="3182401982" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182401982" k="country" o="add" type="node" v="PS" />
+    <tag id="3182402012" k="name" o="add" type="node" v="RS Bunda" />
+    <tag id="3182402012" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182402039" k="name" o="add" type="node" v="The Aryaduta" />
+    <tag id="3182402039" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182402039" k="building" o="add" type="node" v="yes" />
+    <tag id="3182402039" k="addr:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182402039" k="is_in:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182402039" k="addr:country" o="add" type="node" v="ID" />
+    <tag id="3182402052" k="name" o="add" type="node" v="Anglican Church" />
+    <tag id="3182402052" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182402052" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182402068" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182402068" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182402159" k="name" o="add" type="node" v="RS Harapan Kita" />
+    <tag id="3182402159" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182402160" k="name" o="add" type="node" v="Universitas Trisakti" />
+    <tag id="3182402160" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182402171" k="name" o="add" type="node" v="Gondangdia" />
+    <tag id="3182402171" k="railway" o="add" type="node" v="station" />
+    <tag id="3182402173" k="name" o="add" type="node" v="Apostolic Nunciature" />
+    <tag id="3182402173" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182402173" k="country" o="add" type="node" v="VA" />
+    <tag id="3182402173" k="alt_name" o="add" type="node" v="Embassy of the Holy See" />
+    <tag id="3182402227" k="name" o="add" type="node" v="Gereja Katedral Jakarta" />
+    <tag id="3182402227" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182402227" k="name:en" o="add" type="node" v="Jakarta Cathedral" />
+    <tag id="3182402227" k="name:id" o="add" type="node" v="Gereja Santa Maria Pelindung Diangkat Ke Surga" />
+    <tag id="3182402227" k="name:nl" o="add" type="node" v="De Kerk van Onze Lieve Vrouwe ten Hemelopneming" />
+    <tag id="3182402227" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182402227" k="denomination" o="add" type="node" v="catholic" />
+    <tag id="3182402235" k="name" o="add" type="node" v="Juanda" />
+    <tag id="3182402235" k="railway" o="add" type="node" v="station" />
+    <tag id="3182402244" k="name" o="add" type="node" v="Central Post Office" />
+    <tag id="3182402244" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182402504" k="name" o="add" type="node" v="Carrefour" />
+    <tag id="3182402504" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182402582" k="name" o="add" type="node" v="Embassy of Malaysia" />
+    <tag id="3182402582" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182402582" k="country" o="add" type="node" v="MY" />
+    <tag id="3182402684" k="name" o="add" type="node" v="ASEAN Secretariat" />
+    <tag id="3182402684" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182402684" k="country" o="add" type="node" v="ASEAN" />
+    <tag id="3182402768" k="name" o="add" type="node" v="United Nations" />
+    <tag id="3182402768" k="man_made" o="add" type="node" v="works" />
+    <tag id="3182402863" k="name" o="add" type="node" v="Pasar Senen" />
+    <tag id="3182402863" k="railway" o="add" type="node" v="station" />
+    <tag id="3182402863" k="building" o="add" type="node" v="yes" />
+    <tag id="3182402863" k="wikipedia:id" o="add" type="node" v="Stasiun Pasar Senen" />
+    <tag id="3182402866" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182403025" k="name" o="add" type="node" v="Mercure Raddin Ancol" />
+    <tag id="3182403025" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182403100" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403101" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403143" k="name" o="add" type="node" v="Stasiun Tanah Abang" />
+    <tag id="3182403143" k="source" o="add" type="node" v="PT. Kereta Api Indonesia" />
+    <tag id="3182403143" k="railway" o="add" type="node" v="station" />
+    <tag id="3182403143" k="description" o="add" type="node" v="Train - EKO - Serpong - Tanah Abang" />
+    <tag id="3182403143" k="wikipedia:id" o="add" type="node" v="Stasiun Tanahabang" />
+    <tag id="3182403346" k="name" o="add" type="node" v="Cikini" />
+    <tag id="3182403346" k="railway" o="add" type="node" v="station" />
+    <tag id="3182403353" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="3182403353" k="direction" o="add" type="node" v="clockwise" />
+    <tag id="3182403479" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403481" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403489" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403491" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403500" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403514" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182403626" k="name" o="add" type="node" v="Jatinegara" />
+    <tag id="3182403626" k="railway" o="add" type="node" v="station" />
+    <tag id="3182403626" k="wikipedia:id" o="add" type="node" v="Stasiun Jatinegara" />
+    <tag id="3182403719" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182404486" k="name" o="add" type="node" v="RS Mintohardjo" />
+    <tag id="3182404486" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182404774" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182404793" k="name" o="add" type="node" v="IPMI" />
+    <tag id="3182404793" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182404811" k="name" o="add" type="node" v="The Sultan Hotel" />
+    <tag id="3182404811" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182404811" k="addr:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182404811" k="is_in:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182404811" k="addr:country" o="add" type="node" v="ID" />
+    <tag id="3182404882" k="name" o="add" type="node" v="Palmerah" />
+    <tag id="3182404882" k="railway" o="add" type="node" v="station" />
+    <tag id="3182404939" k="name" o="add" type="node" v="Mesjid Agung Al Azhar" />
+    <tag id="3182404939" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404943" k="name" o="add" type="node" v="Bundaran Senayan" />
+    <tag id="3182404943" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404944" k="name" o="add" type="node" v="Gelora Bung Karno" />
+    <tag id="3182404944" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404945" k="name" o="add" type="node" v="Polda Metro Jaya" />
+    <tag id="3182404945" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404946" k="name" o="add" type="node" v="Bendungan Hilir" />
+    <tag id="3182404946" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404947" k="name" o="add" type="node" v="Karet" />
+    <tag id="3182404947" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404949" k="name" o="add" type="node" v="Setiabudi" />
+    <tag id="3182404949" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404951" k="name" o="add" type="node" v="Dukuh Atas" />
+    <tag id="3182404951" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404954" k="name" o="add" type="node" v="Tosari" />
+    <tag id="3182404954" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404955" k="name" o="add" type="node" v="Bundaran HI" />
+    <tag id="3182404955" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404956" k="name" o="add" type="node" v="Sarinah" />
+    <tag id="3182404956" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404958" k="name" o="add" type="node" v="Bank Indonesia" />
+    <tag id="3182404958" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182404959" k="name" o="add" type="node" v="Monumen Nasional" />
+    <tag id="3182404959" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405064" k="name" o="add" type="node" v="Harmoni Bus Exchange" />
+    <tag id="3182405064" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405065" k="name" o="add" type="node" v="Sawah Besar" />
+    <tag id="3182405065" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405066" k="name" o="add" type="node" v="Mangga Besar" />
+    <tag id="3182405066" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405067" k="name" o="add" type="node" v="Olimo" />
+    <tag id="3182405067" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405068" k="name" o="add" type="node" v="Glodok" />
+    <tag id="3182405068" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405070" k="name" o="add" type="node" v="Jakarta Kota" />
+    <tag id="3182405070" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182405085" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182405134" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182405169" k="name" o="add" type="node" v="Art &amp; Craft Market" />
+    <tag id="3182405169" k="name:id" o="add" type="node" v="Pasar Seni" />
+    <tag id="3182405169" k="tourism" o="add" type="node" v="attraction" />
+    <tag id="3182405324" k="name" o="add" type="node" v="Formule 1" />
+    <tag id="3182405324" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182405324" k="addr:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182405324" k="is_in:city" o="add" type="node" v="Jakarta" />
+    <tag id="3182405324" k="addr:country" o="add" type="node" v="ID" />
+    <tag id="3182405325" k="name" o="add" type="node" v="Embassy of Myanmar" />
+    <tag id="3182405325" k="amenity" o="add" type="node" v="embassy" />
+    <tag id="3182405325" k="country" o="add" type="node" v="MM" />
+    <tag id="3182405412" k="name" o="add" type="node" v="Fatahillah Square" />
+    <tag id="3182405412" k="name:id" o="add" type="node" v="Taman Fatahillah" />
+    <tag id="3182405412" k="tourism" o="add" type="node" v="attraction" />
+    <tag id="3182405412" k="alt_name" o="add" type="node" v="Taman Fatahillah" />
+    <tag id="3182405412" k="old_name" o="add" type="node" v="Stadhuisplein" />
+    <tag id="3182405696" k="name" o="add" type="node" v="Kampung Bandan Atas" />
+    <tag id="3182405696" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405696" k="wikipedia:id" o="add" type="node" v="Stasiun Kampung Bandan" />
+    <tag id="3182405703" k="name" o="add" type="node" v="Ancol" />
+    <tag id="3182405703" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405703" k="wikipedia:id" o="add" type="node" v="Stasiun Ancol" />
+    <tag id="3182405707" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182405723" k="name" o="add" type="node" v="Sunda Kelapa" />
+    <tag id="3182405723" k="tourism" o="add" type="node" v="attraction" />
+    <tag id="3182405727" k="name" o="add" type="node" v="Dutch Drawbridge" />
+    <tag id="3182405727" k="name:id" o="add" type="node" v="Jembatan Kota Intan" />
+    <tag id="3182405727" k="tourism" o="add" type="node" v="attraction" />
+    <tag id="3182405729" k="name" o="add" type="node" v="Omni Batavia" />
+    <tag id="3182405729" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182405898" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182405899" k="name" o="add" type="node" v="Pesing" />
+    <tag id="3182405899" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405911" k="name" o="add" type="node" v="Grogol" />
+    <tag id="3182405911" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405912" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182405912" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182405942" k="name" o="add" type="node" v="Rawabuaya" />
+    <tag id="3182405942" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405949" k="name" o="add" type="node" v="Bojong Indah" />
+    <tag id="3182405949" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405951" k="name" o="add" type="node" v="Kalideres" />
+    <tag id="3182405951" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405955" k="name" o="add" type="node" v="Poris" />
+    <tag id="3182405955" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405957" k="name" o="add" type="node" v="Batu Ceper" />
+    <tag id="3182405957" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405958" k="name" o="add" type="node" v="Tanah Tinggi" />
+    <tag id="3182405958" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405960" k="name" o="add" type="node" v="Tangerang" />
+    <tag id="3182405960" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405967" k="name" o="add" type="node" v="Kemayoran" />
+    <tag id="3182405967" k="railway" o="add" type="node" v="station" />
+    <tag id="3182405967" k="wikipedia:id" o="add" type="node" v="Stasiun Kemayoran" />
+    <tag id="3182406065" k="name" o="add" type="node" v="Klender" />
+    <tag id="3182406065" k="railway" o="add" type="node" v="station" />
+    <tag id="3182406065" k="wikipedia:id" o="add" type="node" v="Stasiun Klender" />
+    <tag id="3182406077" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182406078" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182406101" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="3182406103" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="3182406922" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182406957" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182407004" k="name" o="add" type="node" v="Tanjung Priok" />
+    <tag id="3182407004" k="railway" o="add" type="node" v="station" />
+    <tag id="3182407004" k="wikipedia:id" o="add" type="node" v="Stasiun Tanjung Priok" />
+    <tag id="3182407016" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182407038" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182407086" k="flood_prone" o="add" type="node" v="yes" />
+    <tag id="3182407228" k="name" o="add" type="node" v="Santika" />
+    <tag id="3182407228" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182408089" k="name" o="add" type="node" v="RS Tarakan" />
+    <tag id="3182408089" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182408169" k="name" o="add" type="node" v="Arjuna" />
+    <tag id="3182408169" k="historic" o="add" type="node" v="monument" />
+    <tag id="3182408170" k="name" o="add" type="node" v="Monumen Selamat Datang" />
+    <tag id="3182408170" k="name:en" o="add" type="node" v="Welcome Monument" />
+    <tag id="3182408170" k="name:id" o="add" type="node" v="Monumen Selamat Datang" />
+    <tag id="3182408170" k="historic" o="add" type="node" v="monument" />
+    <tag id="3182408204" k="name" o="add" type="node" v="Youth Monument" />
+    <tag id="3182408204" k="name:id" o="add" type="node" v="Patung Pemuda" />
+    <tag id="3182408204" k="alt_name" o="add" type="node" v="Pizza Man Statue" />
+    <tag id="3182408204" k="historic" o="add" type="node" v="monument" />
+    <tag id="3182408205" k="name" o="add" type="node" v="Dirgantara Monument" />
+    <tag id="3182408205" k="name:id" o="add" type="node" v="Patung Dirgantara" />
+    <tag id="3182408205" k="alt_name" o="add" type="node" v="Seven Up Statue" />
+    <tag id="3182408205" k="historic" o="add" type="node" v="monument" />
+    <tag id="3182408602" k="name" o="add" type="node" v="Hari Hari" />
+    <tag id="3182408602" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182408622" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182408658" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182408659" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182408660" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182408661" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182408840" k="name" o="add" type="node" v="Blok M Bus Station" />
+    <tag id="3182408840" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182408979" k="name" o="add" type="node" v="Syarif Hidayatullah" />
+    <tag id="3182408979" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182408979" k="religion" o="add" type="node" v="muslim" />
+    <tag id="3182409008" k="name" o="add" type="node" v="Kampung Rambutan Bus Station" />
+    <tag id="3182409008" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182409009" k="name" o="add" type="node" v="Senen Bus Terminal" />
+    <tag id="3182409009" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182409114" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182409114" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182409154" k="name" o="add" type="node" v="Gereja Kristus Yesus" />
+    <tag id="3182409154" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182409154" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182409171" k="name" o="add" type="node" v="Glodok Plaza" />
+    <tag id="3182409171" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182409172" k="name" o="add" type="node" v="Pasar Pagi Mangga Dua" />
+    <tag id="3182409172" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182409173" k="name" o="add" type="node" v="ITC Mangga Dua" />
+    <tag id="3182409173" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182409179" k="name" o="add" type="node" v="WTC Mangga Dua" />
+    <tag id="3182409179" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182409180" k="name" o="add" type="node" v="Grand Lucky" />
+    <tag id="3182409180" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182409203" k="name" o="add" type="node" v="Kampung Bandan" />
+    <tag id="3182409203" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409203" k="wikipedia:id" o="add" type="node" v="Stasiun Kampung Bandan" />
+    <tag id="3182409223" k="name" o="add" type="node" v="Jakarta Art Institute" />
+    <tag id="3182409223" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182409223" k="name:id" o="add" type="node" v="Institut Kesenian Jakarta" />
+    <tag id="3182409295" k="name" o="add" type="node" v="Buddhayana" />
+    <tag id="3182409295" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182409295" k="religion" o="add" type="node" v="buddhist" />
+    <tag id="3182409296" k="name" o="add" type="node" v="GPIB Pniel" />
+    <tag id="3182409296" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182409296" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182409931" k="bus" o="add" type="node" v="yes" />
+    <tag id="3182409931" k="name" o="add" type="node" v="Grogol" />
+    <tag id="3182409931" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182409931" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3182409932" k="name" o="add" type="node" v="Kembangan" />
+    <tag id="3182409932" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409933" k="name" o="add" type="node" v="RSJ Grogol" />
+    <tag id="3182409933" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182409944" k="name" o="add" type="node" v="Pondok Jati" />
+    <tag id="3182409944" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409944" k="wikipedia:id" o="add" type="node" v="Stasiun Pondokjati" />
+    <tag id="3182409945" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182409945" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182409946" k="name" o="add" type="node" v="Kebayoran Lama" />
+    <tag id="3182409946" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409947" k="name" o="add" type="node" v="Cipinang" />
+    <tag id="3182409947" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409947" k="wikipedia:id" o="add" type="node" v="Stasiun Cipinang" />
+    <tag id="3182409948" k="name" o="add" type="node" v="Polsek Pulo Gadung" />
+    <tag id="3182409948" k="amenity" o="add" type="node" v="police" />
+    <tag id="3182409949" k="name" o="add" type="node" v="Buaran" />
+    <tag id="3182409949" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409950" k="name" o="add" type="node" v="Klender Baru" />
+    <tag id="3182409950" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409950" k="wikipedia:id" o="add" type="node" v="Stasiun Klender Baru" />
+    <tag id="3182409951" k="name" o="add" type="node" v="Duren Kalibata" />
+    <tag id="3182409951" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409952" k="name" o="add" type="node" v="Pasar Minggu Baru" />
+    <tag id="3182409952" k="railway" o="add" type="node" v="station" />
+    <tag id="3182409952" k="platforms" o="add" type="node" v="2" />
+    <tag id="3182409952" k="wikipedia:id" o="add" type="node" v="Stasiun Pasar Minggu Baru" />
+    <tag id="3182410107" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182410264" k="name" o="add" type="node" v="Gang Sentiong" />
+    <tag id="3182410264" k="railway" o="add" type="node" v="station" />
+    <tag id="3182410264" k="alt_name" o="add" type="node" v="Kramat Sentiong" />
+    <tag id="3182410264" k="wikipedia:id" o="add" type="node" v="Stasiun Gang Sentiong" />
+    <tag id="3182410285" k="name" o="add" type="node" v="Kramat" />
+    <tag id="3182410285" k="railway" o="add" type="node" v="station" />
+    <tag id="3182410285" k="wikipedia:id" o="add" type="node" v="Stasiun Kramat" />
+    <tag id="3182410292" k="name" o="add" type="node" v="Pondok Betung" />
+    <tag id="3182410292" k="railway" o="add" type="node" v="station" />
+    <tag id="3182410535" k="name" o="add" type="node" v="Masjid Al Bina" />
+    <tag id="3182410535" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182410535" k="religion" o="add" type="node" v="muslim" />
+    <tag id="3182410592" k="name" o="add" type="node" v="Food Hall" />
+    <tag id="3182410592" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182410593" k="name" o="add" type="node" v="Hero" />
+    <tag id="3182410593" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182410741" k="name" o="add" type="node" v="Ragunan Bus Station" />
+    <tag id="3182410741" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410856" k="name" o="add" type="node" v="Warung Jati" />
+    <tag id="3182410856" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410888" k="name" o="add" type="node" v="Kuningan Timur" />
+    <tag id="3182410888" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410896" k="name" o="add" type="node" v="Duren Tiga" />
+    <tag id="3182410896" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410917" k="name" o="add" type="node" v="Karet Kuningan" />
+    <tag id="3182410917" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410917" k="operator" o="add" type="node" v="TransJakarta" />
+    <tag id="3182410933" k="name" o="add" type="node" v="Halimun" />
+    <tag id="3182410933" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410934" k="name" o="add" type="node" v="Dukuh Atas 2 Bus Station" />
+    <tag id="3182410934" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410943" k="name" o="add" type="node" v="Latuharhari Bus Station" />
+    <tag id="3182410943" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410944" k="name" o="add" type="node" v="GOR Sumantri Brojonegoro" />
+    <tag id="3182410944" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410945" k="name" o="add" type="node" v="Kuningan Madya Aini" />
+    <tag id="3182410945" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410946" k="name" o="add" type="node" v="Setiabudi Utara" />
+    <tag id="3182410946" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410947" k="name" o="add" type="node" v="Depkes" />
+    <tag id="3182410947" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410948" k="name" o="add" type="node" v="Patra Kuningan" />
+    <tag id="3182410948" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410950" k="name" o="add" type="node" v="Mampang Prapatan" />
+    <tag id="3182410950" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410956" k="name" o="add" type="node" v="Departemen Pertanian" />
+    <tag id="3182410956" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182410991" k="name" o="add" type="node" v="Santo Yohanes" />
+    <tag id="3182410991" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182410991" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182411012" k="name" o="add" type="node" v="Hero" />
+    <tag id="3182411012" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182411125" k="amenity" o="add" type="node" v="police" />
+    <tag id="3182413323" k="name" o="add" type="node" v="Gelael" />
+    <tag id="3182413323" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182413342" k="highway" o="add" type="node" v="mini_roundabout" />
+    <tag id="3182413345" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182413514" k="name" o="add" type="node" v="Superindo" />
+    <tag id="3182413514" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182413515" k="amenity" o="add" type="node" v="police" />
+    <tag id="3182413647" k="name" o="add" type="node" v="Gereja Bukit Moria" />
+    <tag id="3182413647" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182413647" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182413647" k="denomination" o="add" type="node" v="GPIB_(Protestant)" />
+    <tag id="3182413695" k="power" o="add" type="node" v="tower" />
+    <tag id="3182413839" k="name" o="add" type="node" v="Giants" />
+    <tag id="3182413839" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182413840" k="name" o="add" type="node" v="Royal Taruma" />
+    <tag id="3182413840" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182414134" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182414411" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182414415" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182414850" k="name" o="add" type="node" v="Season City Mall" />
+    <tag id="3182414850" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182415369" k="name" o="add" type="node" v="D' Green Pramuka" />
+    <tag id="3182415369" k="building" o="add" type="node" v="apartments" />
+    <tag id="3182415761" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182415761" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182415762" k="name" o="add" type="node" v="Superindo" />
+    <tag id="3182415762" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182415904" k="name" o="add" type="node" v="GPIB Kayu Putih" />
+    <tag id="3182415904" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182415904" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182416031" k="name" o="add" type="node" v="Universitas Jayabaya" />
+    <tag id="3182416031" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182416606" k="name" o="add" type="node" v="Mesjid Raya Pulo Asem" />
+    <tag id="3182416606" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182416606" k="religion" o="add" type="node" v="muslim" />
+    <tag id="3182417110" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182417110" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182417187" k="name" o="add" type="node" v="Pulo Gadung Bus Terminal" />
+    <tag id="3182417187" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417221" k="name" o="add" type="node" v="Cempaka Timur" />
+    <tag id="3182417221" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417223" k="name" o="add" type="node" v="RS Islam Cempaka Putih" />
+    <tag id="3182417223" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417224" k="name" o="add" type="node" v="Cempaka Tengah" />
+    <tag id="3182417224" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417225" k="name" o="add" type="node" v="Pasar Cempaka Putih" />
+    <tag id="3182417225" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417226" k="name" o="add" type="node" v="Rawa Selatan" />
+    <tag id="3182417226" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417227" k="name" o="add" type="node" v="Galur" />
+    <tag id="3182417227" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417227" k="wheelchair" o="add" type="node" v="no" />
+    <tag id="3182417234" k="name" o="add" type="node" v="Senen" />
+    <tag id="3182417234" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417236" k="name" o="add" type="node" v="Atrium" />
+    <tag id="3182417236" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417247" k="name" o="add" type="node" v="Deplu" />
+    <tag id="3182417247" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417250" k="name" o="add" type="node" v="RSPAD" />
+    <tag id="3182417250" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417256" k="name" o="add" type="node" v="Gambir 1" />
+    <tag id="3182417256" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417261" k="name" o="add" type="node" v="Istiqlal" />
+    <tag id="3182417261" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417267" k="name" o="add" type="node" v="Juanda" />
+    <tag id="3182417267" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417272" k="name" o="add" type="node" v="Pecenongan" />
+    <tag id="3182417272" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417273" k="name" o="add" type="node" v="Balaikota" />
+    <tag id="3182417273" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417278" k="name" o="add" type="node" v="Kwitang" />
+    <tag id="3182417278" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417282" k="name" o="add" type="node" v="Bermis" />
+    <tag id="3182417282" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417286" k="name" o="add" type="node" v="Pulomas" />
+    <tag id="3182417286" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417288" k="name" o="add" type="node" v="ASMI" />
+    <tag id="3182417288" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417290" k="name" o="add" type="node" v="Pedongkelan" />
+    <tag id="3182417290" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182417405" k="name" o="add" type="node" v="RS Islam Jakarta" />
+    <tag id="3182417405" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182418470" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182418524" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182418745" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182419037" k="name" o="add" type="node" v="Kebayoran Baptist" />
+    <tag id="3182419037" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182419037" k="religion" o="add" type="node" v="christian" />
+    <tag id="3182419176" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182419236" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182419236" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182419387" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182419394" k="leisure" o="add" type="node" v="park" />
+    <tag id="3182420257" k="barrier" o="add" type="node" v="gate" />
+    <tag id="3182420257" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182420504" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182420507" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182421047" k="name" o="add" type="node" v="Rawamangun Bus Terminal" />
+    <tag id="3182421047" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182423090" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182423224" k="name" o="add" type="node" v="Pasar Ikan" />
+    <tag id="3182423224" k="tourism" o="add" type="node" v="attraction" />
+    <tag id="3182423518" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182423520" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182424065" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182424065" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182424962" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182432856" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182432857" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182433070" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182433072" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182434867" k="name" o="add" type="node" v="Bina Nusantara" />
+    <tag id="3182434867" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182435988" k="name" o="add" type="node" v="RS Pluit" />
+    <tag id="3182435988" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182435997" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182435997" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182436059" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182436471" k="name" o="add" type="node" v="Indogrosir" />
+    <tag id="3182436471" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182437044" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182437045" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182437395" k="name" o="add" type="node" v="Mercure Hotel Rekso" />
+    <tag id="3182437395" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182437525" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182437531" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182437532" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182437616" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182439887" k="name" o="add" type="node" v="Carrefour" />
+    <tag id="3182439887" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182440256" k="name" o="add" type="node" v="Manggarai" />
+    <tag id="3182440256" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182440357" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182440357" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182440772" k="name" o="add" type="node" v="Menteng Huis" />
+    <tag id="3182440772" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182440773" k="name" o="add" type="node" v="Hero" />
+    <tag id="3182440773" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182440777" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182441421" k="name" o="add" type="node" v="Hero" />
+    <tag id="3182441421" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182441617" k="name" o="add" type="node" v="Kemchick" />
+    <tag id="3182441617" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182444390" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182444392" k="source" o="add" type="node" v="Bing" />
+    <tag id="3182444392" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182444528" k="name" o="add" type="node" v="Brawijaya Women and Children Hospital" />
+    <tag id="3182444528" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182444637" k="name" o="add" type="node" v="The Dharmawangsa" />
+    <tag id="3182444637" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182445040" k="name" o="add" type="node" v="Giant" />
+    <tag id="3182445040" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182445045" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182445045" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182445046" k="name" o="add" type="node" v="Kristal" />
+    <tag id="3182445046" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="3182445072" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182445115" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182445115" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182445449" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3182446583" k="name" o="add" type="node" v="National Museum" />
+    <tag id="3182446583" k="name:id" o="add" type="node" v="Museum Nasional" />
+    <tag id="3182446583" k="name:nl" o="add" type="node" v="Nationaal Museum" />
+    <tag id="3182446583" k="tourism" o="add" type="node" v="museum" />
+    <tag id="3182446584" k="name" o="add" type="node" v="Jakarta Historical Museum" />
+    <tag id="3182446584" k="tourism" o="add" type="node" v="museum" />
+    <tag id="3182446586" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182446588" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182447104" k="name" o="add" type="node" v="Wayang Museum" />
+    <tag id="3182447104" k="tourism" o="add" type="node" v="museum" />
+    <tag id="3182447105" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182447635" k="name" o="add" type="node" v="ITC Fatmawati" />
+    <tag id="3182447635" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182447722" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182447787" k="name" o="add" type="node" v="Carrefour" />
+    <tag id="3182447787" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182447989" k="name" o="add" type="node" v="Pekasih" />
+    <tag id="3182447989" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448021" k="name" o="add" type="node" v="Sumur Bor" />
+    <tag id="3182448021" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448022" k="name" o="add" type="node" v="Rawa Buaya" />
+    <tag id="3182448022" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448023" k="name" o="add" type="node" v="Jembatan Baru" />
+    <tag id="3182448023" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448024" k="name" o="add" type="node" v="Dispenda" />
+    <tag id="3182448024" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448025" k="name" o="add" type="node" v="Jembatan Gantung" />
+    <tag id="3182448025" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448026" k="bus" o="add" type="node" v="yes" />
+    <tag id="3182448026" k="name" o="add" type="node" v="Taman Kota" />
+    <tag id="3182448026" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448026" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3182448027" k="bus" o="add" type="node" v="yes" />
+    <tag id="3182448027" k="name" o="add" type="node" v="Indosiar" />
+    <tag id="3182448027" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448027" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3182448028" k="bus" o="add" type="node" v="yes" />
+    <tag id="3182448028" k="name" o="add" type="node" v="Jelambar" />
+    <tag id="3182448028" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448028" k="public_transport" o="add" type="node" v="stop_position" />
+    <tag id="3182448046" k="name" o="add" type="node" v="Pasar Baru" />
+    <tag id="3182448046" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448053" k="name" o="add" type="node" v="Pejaten" />
+    <tag id="3182448053" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448054" k="name" o="add" type="node" v="Jati Padang" />
+    <tag id="3182448054" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448055" k="name" o="add" type="node" v="SMK 57" />
+    <tag id="3182448055" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448056" k="name" o="add" type="node" v="Buncit Indah" />
+    <tag id="3182448056" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448057" k="name" o="add" type="node" v="Imigrasi" />
+    <tag id="3182448057" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3182448468" k="name" o="add" type="node" v="D'Best Fatmawati" />
+    <tag id="3182448468" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182448506" k="name" o="add" type="node" v="Hero" />
+    <tag id="3182448506" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182448935" k="name" o="add" type="node" v="Universitas Nasional" />
+    <tag id="3182448935" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182449254" k="name" o="add" type="node" v="Masjid Al Ikhlas" />
+    <tag id="3182449254" k="source" o="add" type="node" v="Masjid" />
+    <tag id="3182449254" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182449254" k="religion" o="add" type="node" v="muslim" />
+    <tag id="3182449254" k="designation" o="add" type="node" v="Masjid" />
+    <tag id="3182449254" k="denomination" o="add" type="node" v="MAsjid" />
+    <tag id="3182449633" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182449760" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182451566" k="name" o="add" type="node" v="Vicks Tennis Court" />
+    <tag id="3182451566" k="sport" o="add" type="node" v="tennis" />
+    <tag id="3182451566" k="leisure" o="add" type="node" v="pitch" />
+    <tag id="3182451577" k="name" o="add" type="node" v="JIBES" />
+    <tag id="3182451577" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182451578" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182451578" k="operator" o="add" type="node" v="GORO" />
+    <tag id="3182452485" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182452485" k="religion" o="add" type="node" v="buddhist" />
+    <tag id="3182452552" k="barrier" o="add" type="node" v="toll_booth" />
+    <tag id="3182452633" k="amenity" o="add" type="node" v="place_of_worship" />
+    <tag id="3182452633" k="religion" o="add" type="node" v="buddhist" />
+    <tag id="3182453233" k="name" o="add" type="node" v="Universitas Bunda Mulia" />
+    <tag id="3182453233" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182453283" k="name" o="add" type="node" v="RS Ancol" />
+    <tag id="3182453283" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182453452" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182453452" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182453465" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182453470" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182453513" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182453642" k="name" o="add" type="node" v="Jakarta Fair" />
+    <tag id="3182453642" k="name:id" o="add" type="node" v="Pekan Raya Jakarta (PRJ)" />
+    <tag id="3182454433" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182454434" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3182454914" k="name" o="add" type="node" v="RS Sulianto Saroso" />
+    <tag id="3182454914" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182454915" k="name" o="add" type="node" v="Universitas 17 Agustus 1945 (Untag)" />
+    <tag id="3182454915" k="amenity" o="add" type="node" v="university" />
+    <tag id="3182455731" k="amenity" o="add" type="node" v="post_office" />
+    <tag id="3182456028" k="name" o="add" type="node" v="Alfa" />
+    <tag id="3182456028" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="3182456166" k="name" o="add" type="node" v="Sunter Mall" />
+    <tag id="3182456166" k="shop" o="add" type="node" v="mall" />
+    <tag id="3182456167" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182456167" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="3182456168" k="name" o="add" type="node" v="RS Hermina" />
+    <tag id="3182456168" k="amenity" o="add" type="node" v="hospital" />
+    <tag id="3182456203" k="name" o="add" type="node" v="Pertamina" />
+    <tag id="3182456203" k="amenity" o="add" type="node" v="fuel" />
+  </body>
 </changeset>

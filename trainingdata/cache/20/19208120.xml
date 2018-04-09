@@ -1,5 +1,5 @@
 <changeset id="19208120" schema="2">
-  <counts nodesAdded="1714" nodesDeleted="34" nodesModified="7" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="235" waysDeleted="4" waysModified="107" />
+  <counts nodesAdded="1714" nodesDeleted="34" nodesModified="6" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="235" waysDeleted="4" waysModified="111" />
   <meta>
     <tag k="build" v="2.3-605-gbec0ea7" />
     <tag k="comment" v="SaarMoselle 20131201#01" />
@@ -7,11 +7,518 @@
     <tag k="version" v="2.3" />
   </meta>
   <body>
+    <tag id="370895914" k="name" o="none" type="node" v="Utweiler" />
+    <tag id="370895914" k="is_in" o="none" type="node" v="Gersheim,Saarpfalz-Kreis,Saarland,Bundesrepublik Deutschland,Europe" />
+    <tag id="370895914" k="place" o="none" type="node" v="village" />
+    <tag id="370895914" k="wikipedia" o="add" type="node" v="de:Utweiler" />
+    <tag id="370895934" k="name" o="none" type="node" v="Peppenkum" />
+    <tag id="370895934" k="is_in" o="none" type="node" v="Gersheim,Saarpfalz-Kreis,Saarland,Bundesrepublik Deutschland,Europe" />
+    <tag id="370895934" k="place" o="none" type="node" v="suburb" />
+    <tag id="370895934" k="wikipedia" o="add" type="node" v="de:Peppenkum" />
+    <tag id="418180877" k="name" o="none" type="node" v="Guiderkirch" />
+    <tag id="418180877" k="place" o="none" type="node" v="village" />
+    <tag id="418180877" k="name:de" o="add" type="node" v="G&#252;derkirche" />
+    <tag id="418180877" k="old_name" o="add" type="node" v="G&#252;derkirchen" />
+    <tag id="809732480" k="tourism" o="none" type="node" v="picnic_site" />
+    <tag id="2262750440" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="2262750442" k="highway" o="add" type="node" v="turning_circle" />
+    <tag id="2262750446" k="highway" o="add" type="node" v="turning_circle" />
     <tag id="2559651059" k="natural" o="add" type="node" v="tree" />
-    <tag id="2559651071" k="highway" o="add" type="node" v="bus_stop" />
     <tag id="2559651071" k="name" o="add" type="node" v="Utweiler Abzweigung" />
+    <tag id="2559651071" k="highway" o="add" type="node" v="bus_stop" />
     <tag id="2559651071" k="shelter" o="add" type="node" v="yes" />
     <tag id="2559651071" k="stop_id" o="add" type="node" v="55301" />
+    <tag id="2559662991" k="barrier" o="add" type="node" v="gate" />
+    <tag id="2559668164" k="power" o="add" type="node" v="tower" />
+    <tag id="2559696736" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2559696809" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2559752868" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2559769485" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2559769496" k="highway" o="add" type="node" v="crossing" />
+    <tag id="2559793301" k="historic" o="add" type="node" v="memorial" />
+    <tag id="2559811451" k="barrier" o="add" type="node" v="gate" />
+    <tag id="2559855144" k="natural" o="add" type="node" v="tree" />
+    <tag id="8746711" k="highway" o="none" type="way" v="primary" />
+    <tag id="8746711" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="8746956" k="ref" o="none" type="way" v="D 620" />
+    <tag id="8746956" k="foot" o="add" type="way" v="no" />
+    <tag id="8746956" k="lanes" o="add" type="way" v="1" />
+    <tag id="8746956" k="oneway" o="add" type="way" v="-1" />
+    <tag id="8746956" k="bicycle" o="add" type="way" v="no" />
+    <tag id="8746956" k="highway" o="none" type="way" v="primary" />
+    <tag id="8746956" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="8746956" k="embankment" o="add" type="way" v="yes" />
+    <tag id="29020667" k="lit" o="add" type="way" v="yes" />
+    <tag id="29020667" k="name" o="none" type="way" v="Bickenalbstra&#223;e" />
+    <tag id="29020667" k="lanes" o="add" type="way" v="2" />
+    <tag id="29020667" k="layer" o="none" type="way" v="0" />
+    <tag id="29020667" k="width" o="none" type="way" v="4" />
+    <tag id="29020667" k="oneway" o="add" type="way" v="no" />
+    <tag id="29020667" k="highway" o="none" type="way" v="residential" />
+    <tag id="29020667" k="surface" o="none" type="way" v="paved" />
+    <tag id="29329041" k="ref" o="none" type="way" v="D 620" />
+    <tag id="29329041" k="foot" o="add" type="way" v="no" />
+    <tag id="29329041" k="lanes" o="add" type="way" v="1" />
+    <tag id="29329041" k="oneway" o="add" type="way" v="yes" />
+    <tag id="29329041" k="bicycle" o="add" type="way" v="no" />
+    <tag id="29329041" k="highway" o="modify" type="way" v="primary" />
+    <tag id="29329041" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="29329041" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="29329041" k="embankment" o="none" type="way" v="yes" />
+    <tag id="30741624" k="ref" o="none" type="way" v="L 101" />
+    <tag id="30741624" k="name" o="none" type="way" v="Altheimer Stra&#223;e" />
+    <tag id="30741624" k="highway" o="none" type="way" v="secondary" />
+    <tag id="30741624" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="30768746" k="ref" o="none" type="way" v="D 620" />
+    <tag id="30768746" k="foot" o="none" type="way" v="no" />
+    <tag id="30768746" k="lanes" o="add" type="way" v="2" />
+    <tag id="30768746" k="oneway" o="add" type="way" v="no" />
+    <tag id="30768746" k="bicycle" o="none" type="way" v="no" />
+    <tag id="30768746" k="highway" o="modify" type="way" v="primary" />
+    <tag id="30768746" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="30768746" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="30768746" k="embankment" o="none" type="way" v="yes" />
+    <tag id="30768747" k="ref" o="none" type="way" v="D 620" />
+    <tag id="30768747" k="foot" o="add" type="way" v="no" />
+    <tag id="30768747" k="lanes" o="add" type="way" v="2" />
+    <tag id="30768747" k="layer" o="none" type="way" v="1" />
+    <tag id="30768747" k="bridge" o="none" type="way" v="yes" />
+    <tag id="30768747" k="oneway" o="add" type="way" v="no" />
+    <tag id="30768747" k="bicycle" o="add" type="way" v="no" />
+    <tag id="30768747" k="highway" o="modify" type="way" v="primary" />
+    <tag id="30768747" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="30768747" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="30768747" k="embankment" o="add" type="way" v="yes" />
+    <tag id="32936041" k="ref" o="none" type="way" v="L 206" />
+    <tag id="32936041" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="33390893" k="lit" o="add" type="way" v="yes" />
+    <tag id="33390893" k="highway" o="modify" type="way" v="residential" />
+    <tag id="33390893" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="33390966" k="ref" o="none" type="way" v="L 205" />
+    <tag id="33390966" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="33790358" k="name" o="none" type="way" v="Volmunster &#8212; Epping" />
+    <tag id="33790358" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="33790358" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="33790358" k="admin_level" o="none" type="way" v="8" />
+    <tag id="33790358" k="left:village" o="none" type="way" v="Volmunster" />
+    <tag id="33790358" k="right:village" o="none" type="way" v="Epping" />
+    <tag id="33840422" k="ref" o="none" type="way" v="L 206" />
+    <tag id="33840422" k="name" o="none" type="way" v="Bruder Konrad Stra&#223;e" />
+    <tag id="33840422" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="34047866" k="ref" o="none" type="way" v="D 34" />
+    <tag id="34047866" k="lanes" o="add" type="way" v="2" />
+    <tag id="34047866" k="oneway" o="add" type="way" v="no" />
+    <tag id="34047866" k="highway" o="none" type="way" v="secondary" />
+    <tag id="34047866" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="34047866" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="34047867" k="ref" o="none" type="way" v="D 84" />
+    <tag id="34047867" k="name" o="none" type="way" v="Rue de Moulins" />
+    <tag id="34047867" k="lanes" o="add" type="way" v="2" />
+    <tag id="34047867" k="layer" o="none" type="way" v="0" />
+    <tag id="34047867" k="oneway" o="add" type="way" v="no" />
+    <tag id="34047867" k="highway" o="none" type="way" v="secondary" />
+    <tag id="34047867" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="34103735" k="lcn" o="none" type="way" v="yes" />
+    <tag id="34103735" k="ref" o="none" type="way" v="D 84" />
+    <tag id="34103735" k="name" o="none" type="way" v="G&#252;derkircherstra&#223;e" />
+    <tag id="34103735" k="lanes" o="none" type="way" v="2" />
+    <tag id="34103735" k="layer" o="add" type="way" v="1" />
+    <tag id="34103735" k="bridge" o="add" type="way" v="yes" />
+    <tag id="34103735" k="oneway" o="add" type="way" v="no" />
+    <tag id="34103735" k="highway" o="none" type="way" v="secondary" />
+    <tag id="34103735" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="34103735" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="35766867" k="ref" o="none" type="way" v="D 620" />
+    <tag id="35766867" k="lanes" o="none" type="way" v="1" />
+    <tag id="35766867" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35766867" k="highway" o="modify" type="way" v="secondary_link" />
+    <tag id="35766867" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35766868" k="ref" o="none" type="way" v="D 620" />
+    <tag id="35766868" k="lanes" o="none" type="way" v="1" />
+    <tag id="35766868" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35766868" k="highway" o="modify" type="way" v="secondary_link" />
+    <tag id="35766868" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35769337" k="highway" o="none" type="way" v="residential" />
+    <tag id="35769338" k="lit" o="add" type="way" v="yes" />
+    <tag id="35769338" k="name" o="none" type="way" v="Rue de l'&#201;glise" />
+    <tag id="35769338" k="lanes" o="add" type="way" v="2" />
+    <tag id="35769338" k="oneway" o="add" type="way" v="no" />
+    <tag id="35769338" k="highway" o="none" type="way" v="residential" />
+    <tag id="35769338" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="35769342" k="lcn" o="none" type="way" v="yes" />
+    <tag id="35769342" k="name" o="none" type="way" v="Rue de la Chapelle" />
+    <tag id="35769342" k="highway" o="none" type="way" v="residential" />
+    <tag id="35769342" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="35769357" k="lanes" o="add" type="way" v="1" />
+    <tag id="35769357" k="oneway" o="add" type="way" v="-1" />
+    <tag id="35769357" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="35769357" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="41834643" k="name" o="add" type="way" v="Peppenkum" />
+    <tag id="41834643" k="place" o="add" type="way" v="village" />
+    <tag id="41834643" k="landuse" o="none" type="way" v="residential" />
+    <tag id="41834692" k="CLC:id" o="none" type="way" v="FR-21339" />
+    <tag id="41834692" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="41834692" k="landuse" o="none" type="way" v="residential" />
+    <tag id="41834692" k="CLC:code" o="none" type="way" v="112" />
+    <tag id="41834692" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="42010867" k="CLC:id" o="none" type="way" v="FR-20393" />
+    <tag id="42010867" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="42010867" k="landuse" o="none" type="way" v="farm" />
+    <tag id="42010867" k="CLC:code" o="none" type="way" v="211" />
+    <tag id="42010867" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="42010902" k="CLC:id" o="none" type="way" v="FR-21175" />
+    <tag id="42010902" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="42010902" k="landuse" o="none" type="way" v="residential" />
+    <tag id="42010902" k="CLC:code" o="none" type="way" v="112" />
+    <tag id="42010902" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="42010908" k="CLC:id" o="none" type="way" v="FR-21786" />
+    <tag id="42010908" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="42010908" k="landuse" o="none" type="way" v="residential" />
+    <tag id="42010908" k="CLC:code" o="none" type="way" v="112" />
+    <tag id="42010908" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="42010909" k="CLC:id" o="none" type="way" v="FR-21574" />
+    <tag id="42010909" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="42010909" k="landuse" o="none" type="way" v="farm" />
+    <tag id="42010909" k="CLC:code" o="none" type="way" v="211" />
+    <tag id="42010909" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="42233316" k="wood" o="none" type="way" v="deciduous" />
+    <tag id="42233316" k="CLC:id" o="none" type="way" v="FR-22102" />
+    <tag id="42233316" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="42233316" k="landuse" o="none" type="way" v="forest" />
+    <tag id="42233316" k="CLC:code" o="none" type="way" v="311" />
+    <tag id="42233316" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="44176364" k="CLC:id" o="none" type="way" v="FR-20769" />
+    <tag id="44176364" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="44176364" k="landuse" o="none" type="way" v="farm" />
+    <tag id="44176364" k="CLC:code" o="none" type="way" v="211" />
+    <tag id="44176364" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="44279950" k="name" o="none" type="way" v="Rimling" />
+    <tag id="44279950" k="place" o="none" type="way" v="village" />
+    <tag id="44722222" k="CLC:id" o="none" type="way" v="FR-21424" />
+    <tag id="44722222" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="44722222" k="landuse" o="none" type="way" v="meadow" />
+    <tag id="44722222" k="CLC:code" o="none" type="way" v="231" />
+    <tag id="44722222" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="45854396" k="wood" o="none" type="way" v="coniferous" />
+    <tag id="45854396" k="CLC:id" o="none" type="way" v="FR-21626" />
+    <tag id="45854396" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="45854396" k="landuse" o="none" type="way" v="forest" />
+    <tag id="45854396" k="CLC:code" o="none" type="way" v="312" />
+    <tag id="45854396" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="51423869" k="oneway" o="add" type="way" v="no" />
+    <tag id="51423869" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="51423869" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51423870" k="lanes" o="add" type="way" v="1" />
+    <tag id="51423870" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51423870" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="51423870" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51423870" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="51423871" k="lanes" o="add" type="way" v="1" />
+    <tag id="51423871" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51423871" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="51423871" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51423871" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="51423872" k="lanes" o="add" type="way" v="1" />
+    <tag id="51423872" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51423872" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="51423872" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51423872" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="51423873" k="lanes" o="add" type="way" v="1" />
+    <tag id="51423873" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51423873" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="51423873" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51423873" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="51423874" k="lanes" o="add" type="way" v="1" />
+    <tag id="51423874" k="oneway" o="none" type="way" v="yes" />
+    <tag id="51423874" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="51423874" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="51423874" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="83280711" k="name" o="none" type="way" v="Utweilerweg" />
+    <tag id="83280711" k="highway" o="none" type="way" v="residential" />
+    <tag id="83280711" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="83280715" k="highway" o="none" type="way" v="track" />
+    <tag id="83280715" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="83280715" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="88590261" k="highway" o="none" type="way" v="track" />
+    <tag id="88590261" k="surface" o="none" type="way" v="concrete" />
+    <tag id="88590261" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="89458077" k="landuse" o="none" type="way" v="residential" />
+    <tag id="89617333" k="lit" o="add" type="way" v="yes" />
+    <tag id="89617333" k="name" o="none" type="way" v="Auf dem Flur" />
+    <tag id="89617333" k="lanes" o="add" type="way" v="2" />
+    <tag id="89617333" k="noexit" o="add" type="way" v="yes" />
+    <tag id="89617333" k="oneway" o="add" type="way" v="no" />
+    <tag id="89617333" k="highway" o="none" type="way" v="residential" />
+    <tag id="89617333" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="105369715" k="ref" o="none" type="way" v="L 205" />
+    <tag id="105369715" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="105369717" k="lit" o="add" type="way" v="yes" />
+    <tag id="105369717" k="name" o="modify" type="way" v="Bruder-Konrad-Stra&#223;e" />
+    <tag id="105369717" k="oneway" o="add" type="way" v="no" />
+    <tag id="105369717" k="highway" o="none" type="way" v="residential" />
+    <tag id="105369717" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="105369729" k="ref" o="none" type="way" v="L 206" />
+    <tag id="105369729" k="name" o="modify" type="way" v="Bruder-Konrad-Stra&#223;e" />
+    <tag id="105369729" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="106763538" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="106763538" k="building" o="none" type="way" v="yes" />
+    <tag id="106763538" k="religion" o="add" type="way" v="christian" />
+    <tag id="106763538" k="building:use" o="add" type="way" v="chruch" />
+    <tag id="106763548" k="lit" o="add" type="way" v="yes" />
+    <tag id="106763548" k="ref" o="none" type="way" v="D 84b" />
+    <tag id="106763548" k="name" o="none" type="way" v="Rue Principale" />
+    <tag id="106763548" k="lanes" o="add" type="way" v="2" />
+    <tag id="106763548" k="oneway" o="add" type="way" v="no" />
+    <tag id="106763548" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="106763548" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="106763553" k="noexit" o="add" type="way" v="yes" />
+    <tag id="106763553" k="oneway" o="add" type="way" v="no" />
+    <tag id="106763553" k="highway" o="modify" type="way" v="service" />
+    <tag id="106763553" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="106763555" k="highway" o="modify" type="way" v="service" />
+    <tag id="106763555" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="114119671" k="ref" o="none" type="way" v="L 102" />
+    <tag id="114119671" k="name" o="none" type="way" v="Riesweiler Stra&#223;e" />
+    <tag id="114119671" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114119671" k="highway" o="none" type="way" v="secondary_link" />
+    <tag id="114119671" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114119672" k="ref" o="none" type="way" v="L 101 / L 102" />
+    <tag id="114119672" k="name" o="none" type="way" v="Altheimer Stra&#223;e" />
+    <tag id="114119672" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114119672" k="highway" o="none" type="way" v="secondary" />
+    <tag id="114119673" k="ref" o="none" type="way" v="L 102" />
+    <tag id="114119673" k="name" o="none" type="way" v="Riesweilerstra&#223;e" />
+    <tag id="114119673" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114119673" k="highway" o="none" type="way" v="secondary" />
+    <tag id="114119673" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114119674" k="ref" o="none" type="way" v="L 102" />
+    <tag id="114119674" k="name" o="none" type="way" v="Riesweilerstra&#223;e" />
+    <tag id="114119674" k="lanes" o="add" type="way" v="2" />
+    <tag id="114119674" k="highway" o="none" type="way" v="secondary" />
+    <tag id="114119674" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114119674" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="114119675" k="ref" o="none" type="way" v="L 101" />
+    <tag id="114119675" k="name" o="none" type="way" v="G&#252;derkircherstra&#223;e" />
+    <tag id="114119675" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114119675" k="highway" o="none" type="way" v="secondary" />
+    <tag id="114119675" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114119675" k="maxspeed" o="add" type="way" v="50" />
+    <tag id="114119676" k="ref" o="none" type="way" v="L 101" />
+    <tag id="114119676" k="lanes" o="add" type="way" v="2" />
+    <tag id="114119676" k="oneway" o="add" type="way" v="no" />
+    <tag id="114119676" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114119676" k="highway" o="none" type="way" v="secondary" />
+    <tag id="114119676" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114119676" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="114119677" k="ref" o="none" type="way" v="L 101" />
+    <tag id="114119677" k="name" o="none" type="way" v="Altheimer Stra&#223;e" />
+    <tag id="114119677" k="highway" o="none" type="way" v="secondary" />
+    <tag id="114120064" k="lit" o="add" type="way" v="yes" />
+    <tag id="114120064" k="name" o="none" type="way" v="Utweilerweg" />
+    <tag id="114120064" k="noexit" o="add" type="way" v="yes" />
+    <tag id="114120064" k="oneway" o="add" type="way" v="no" />
+    <tag id="114120064" k="highway" o="modify" type="way" v="living_street" />
+    <tag id="114120064" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114120317" k="lit" o="add" type="way" v="yes" />
+    <tag id="114120317" k="name" o="none" type="way" v="Auf dem Flur" />
+    <tag id="114120317" k="lanes" o="add" type="way" v="2" />
+    <tag id="114120317" k="noexit" o="add" type="way" v="yes" />
+    <tag id="114120317" k="oneway" o="add" type="way" v="no" />
+    <tag id="114120317" k="highway" o="none" type="way" v="residential" />
+    <tag id="114120317" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114120318" k="foot" o="none" type="way" v="yes" />
+    <tag id="114120318" k="name" o="none" type="way" v="M&#252;hlenweg" />
+    <tag id="114120318" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="114120318" k="highway" o="none" type="way" v="residential" />
+    <tag id="114120318" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="114120320" k="name" o="none" type="way" v="Bickenalbstra&#223;e" />
+    <tag id="114120320" k="layer" o="none" type="way" v="0" />
+    <tag id="114120320" k="width" o="none" type="way" v="4" />
+    <tag id="114120320" k="highway" o="none" type="way" v="residential" />
+    <tag id="114120320" k="surface" o="none" type="way" v="paved" />
+    <tag id="114120321" k="highway" o="none" type="way" v="footway" />
+    <tag id="114120321" k="surface" o="none" type="way" v="dirt" />
+    <tag id="114120324" k="highway" o="none" type="way" v="service" />
+    <tag id="114120324" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="115193990" k="name" o="none" type="way" v="Herschbach" />
+    <tag id="115193990" k="layer" o="add" type="way" v="-1" />
+    <tag id="115193990" k="tunnel" o="none" type="way" v="yes" />
+    <tag id="115193990" k="waterway" o="none" type="way" v="drain" />
+    <tag id="115207365" k="highway" o="none" type="way" v="track" />
+    <tag id="117590187" k="highway" o="modify" type="way" v="path" />
+    <tag id="117590191" k="highway" o="none" type="way" v="track" />
+    <tag id="117590191" k="tracktype" o="add" type="way" v="grade4" />
+    <tag id="117590195" k="highway" o="none" type="way" v="track" />
+    <tag id="117590195" k="tracktype" o="add" type="way" v="grade5" />
+    <tag id="119367962" k="highway" o="none" type="way" v="track" />
+    <tag id="119367962" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="119367962" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="119368127" k="highway" o="none" type="way" v="track" />
+    <tag id="119368127" k="surface" o="none" type="way" v="dirt" />
+    <tag id="119368127" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="119368128" k="highway" o="none" type="way" v="track" />
+    <tag id="119368128" k="surface" o="none" type="way" v="gravel" />
+    <tag id="119368128" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="119368129" k="highway" o="none" type="way" v="track" />
+    <tag id="119368129" k="surface" o="none" type="way" v="paved" />
+    <tag id="119368129" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="119368591" k="note" o="none" type="way" v="tracktype:start=grade3" />
+    <tag id="119368591" k="highway" o="none" type="way" v="track" />
+    <tag id="119369289" k="highway" o="none" type="way" v="track" />
+    <tag id="119369289" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="121195445" k="highway" o="modify" type="way" v="track" />
+    <tag id="121195445" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="121201484" k="ref" o="none" type="way" v="D 620" />
+    <tag id="121201484" k="foot" o="add" type="way" v="no" />
+    <tag id="121201484" k="lanes" o="add" type="way" v="2" />
+    <tag id="121201484" k="oneway" o="add" type="way" v="no" />
+    <tag id="121201484" k="bicycle" o="add" type="way" v="no" />
+    <tag id="121201484" k="highway" o="modify" type="way" v="primary" />
+    <tag id="121201484" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="121201484" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="121201484" k="embankment" o="none" type="way" v="yes" />
+    <tag id="121201494" k="ref" o="none" type="way" v="D 620" />
+    <tag id="121201494" k="foot" o="add" type="way" v="no" />
+    <tag id="121201494" k="lanes" o="add" type="way" v="2" />
+    <tag id="121201494" k="layer" o="none" type="way" v="1" />
+    <tag id="121201494" k="bridge" o="none" type="way" v="yes" />
+    <tag id="121201494" k="oneway" o="add" type="way" v="no" />
+    <tag id="121201494" k="bicycle" o="add" type="way" v="no" />
+    <tag id="121201494" k="highway" o="modify" type="way" v="primary" />
+    <tag id="121201494" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="121201494" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="121201494" k="embankment" o="add" type="way" v="yes" />
+    <tag id="121201900" k="name" o="none" type="way" v="Chemin du Hohwald" />
+    <tag id="121201900" k="access" o="none" type="way" v="designated" />
+    <tag id="121201900" k="highway" o="modify" type="way" v="track" />
+    <tag id="121201900" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="121201900" k="tracktype" o="modify" type="way" v="grade1" />
+    <tag id="121201900" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="121661414" k="ref" o="none" type="way" v="D 620" />
+    <tag id="121661414" k="foot" o="add" type="way" v="no" />
+    <tag id="121661414" k="lanes" o="add" type="way" v="2" />
+    <tag id="121661414" k="oneway" o="add" type="way" v="no" />
+    <tag id="121661414" k="bicycle" o="add" type="way" v="no" />
+    <tag id="121661414" k="highway" o="modify" type="way" v="primary" />
+    <tag id="121661414" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="121661414" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="121661414" k="embankment" o="add" type="way" v="yes" />
+    <tag id="121661415" k="ref" o="none" type="way" v="D 620" />
+    <tag id="121661415" k="foot" o="add" type="way" v="no" />
+    <tag id="121661415" k="lanes" o="add" type="way" v="2" />
+    <tag id="121661415" k="layer" o="none" type="way" v="1" />
+    <tag id="121661415" k="bridge" o="none" type="way" v="yes" />
+    <tag id="121661415" k="oneway" o="add" type="way" v="no" />
+    <tag id="121661415" k="bicycle" o="add" type="way" v="no" />
+    <tag id="121661415" k="highway" o="modify" type="way" v="primary" />
+    <tag id="121661415" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="121661415" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="121661415" k="embankment" o="add" type="way" v="yes" />
+    <tag id="121661416" k="lanes" o="add" type="way" v="1" />
+    <tag id="121661416" k="oneway" o="none" type="way" v="yes" />
+    <tag id="121661416" k="highway" o="modify" type="way" v="tertiary_link" />
+    <tag id="121661416" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="121661416" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="122315858" k="ref" o="none" type="way" v="D 35a" />
+    <tag id="122315858" k="lanes" o="add" type="way" v="2" />
+    <tag id="122315858" k="oneway" o="add" type="way" v="no" />
+    <tag id="122315858" k="highway" o="none" type="way" v="primary" />
+    <tag id="122315858" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="122315858" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="122315858" k="embankment" o="none" type="way" v="yes" />
+    <tag id="134548580" k="highway" o="none" type="way" v="track" />
+    <tag id="134548580" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="137732847" k="highway" o="none" type="way" v="track" />
+    <tag id="137732847" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="138279402" k="natural" o="modify" type="way" v="wood" />
+    <tag id="138279404" k="name" o="none" type="way" v="Zollsiedlung" />
+    <tag id="138279404" k="landuse" o="none" type="way" v="residential" />
+    <tag id="160675933" k="power" o="none" type="way" v="minor_line" />
+    <tag id="160675933" k="wires" o="none" type="way" v="single" />
+    <tag id="160675933" k="cables" o="none" type="way" v="3" />
+    <tag id="179714504" k="CLC:id" o="none" type="way" v="FR-20079" />
+    <tag id="179714504" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="179714504" k="landuse" o="none" type="way" v="meadow" />
+    <tag id="179714504" k="CLC:code" o="none" type="way" v="231" />
+    <tag id="179714504" k="CLC:year" o="none" type="way" v="2006" />
+    <tag id="182972888" k="oneway" o="none" type="way" v="no" />
+    <tag id="182972888" k="highway" o="modify" type="way" v="track" />
+    <tag id="182972888" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="184152052" k="ref" o="none" type="way" v="D 162b" />
+    <tag id="184152052" k="lanes" o="add" type="way" v="2" />
+    <tag id="184152052" k="oneway" o="add" type="way" v="no" />
+    <tag id="184152052" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="184152052" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="184399516" k="name" o="none" type="way" v="Rue d'Urbach" />
+    <tag id="184399516" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="206107438" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2013" />
+    <tag id="206107438" k="landuse" o="none" type="way" v="cemetery" />
+    <tag id="216957225" k="lit" o="add" type="way" v="yes" />
+    <tag id="216957225" k="lanes" o="add" type="way" v="2" />
+    <tag id="216957225" k="noexit" o="add" type="way" v="yes" />
+    <tag id="216957225" k="oneway" o="add" type="way" v="no" />
+    <tag id="216957225" k="highway" o="none" type="way" v="residential" />
+    <tag id="216957225" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="216957228" k="lit" o="add" type="way" v="yes" />
+    <tag id="216957228" k="lanes" o="add" type="way" v="2" />
+    <tag id="216957228" k="noexit" o="add" type="way" v="yes" />
+    <tag id="216957228" k="oneway" o="add" type="way" v="no" />
+    <tag id="216957228" k="highway" o="none" type="way" v="residential" />
+    <tag id="216957228" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="216957229" k="lit" o="add" type="way" v="yes" />
+    <tag id="216957229" k="lanes" o="add" type="way" v="2" />
+    <tag id="216957229" k="noexit" o="add" type="way" v="yes" />
+    <tag id="216957229" k="oneway" o="add" type="way" v="no" />
+    <tag id="216957229" k="highway" o="none" type="way" v="residential" />
+    <tag id="216957229" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="229546120" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2013" />
+    <tag id="229546120" k="building" o="none" type="way" v="yes" />
+    <tag id="229553740" k="highway" o="none" type="way" v="track" />
+    <tag id="229553740" k="tracktype" o="none" type="way" v="grade1" />
+    <tag id="229554834" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2013" />
+    <tag id="229554834" k="building" o="none" type="way" v="yes" />
+    <tag id="229560191" k="lanes" o="add" type="way" v="2" />
+    <tag id="229560191" k="access" o="add" type="way" v="yes" />
+    <tag id="229560191" k="oneway" o="add" type="way" v="no" />
+    <tag id="229560191" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="229560191" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="229560192" k="lanes" o="add" type="way" v="1" />
+    <tag id="229560192" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229560192" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="229560192" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="229560192" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="229560193" k="highway" o="modify" type="way" v="track" />
+    <tag id="229560193" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="229560196" k="lanes" o="add" type="way" v="1" />
+    <tag id="229560196" k="oneway" o="none" type="way" v="yes" />
+    <tag id="229560196" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="229560196" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="229560196" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="248058824" k="ref" o="none" type="way" v="D 620" />
+    <tag id="248058824" k="lanes" o="add" type="way" v="2" />
+    <tag id="248058824" k="oneway" o="none" type="way" v="yes" />
+    <tag id="248058824" k="highway" o="none" type="way" v="trunk" />
+    <tag id="248058824" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="248058826" k="ref" o="none" type="way" v="D 620" />
+    <tag id="248058826" k="lanes" o="none" type="way" v="1" />
+    <tag id="248058826" k="oneway" o="none" type="way" v="yes" />
+    <tag id="248058826" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="248058826" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="248058858" k="ref" o="none" type="way" v="D 620" />
+    <tag id="248058858" k="lanes" o="none" type="way" v="1" />
+    <tag id="248058858" k="oneway" o="none" type="way" v="yes" />
+    <tag id="248058858" k="highway" o="modify" type="way" v="secondary_link" />
+    <tag id="248058858" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="248058859" k="ref" o="none" type="way" v="D 620" />
+    <tag id="248058859" k="lanes" o="none" type="way" v="1" />
+    <tag id="248058859" k="oneway" o="none" type="way" v="yes" />
+    <tag id="248058859" k="highway" o="modify" type="way" v="secondary_link" />
+    <tag id="248058859" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="248058864" k="ref" o="none" type="way" v="D 620" />
+    <tag id="248058864" k="lanes" o="add" type="way" v="2" />
+    <tag id="248058864" k="oneway" o="none" type="way" v="yes" />
+    <tag id="248058864" k="highway" o="none" type="way" v="trunk" />
+    <tag id="248058864" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249350424" k="highway" o="add" type="way" v="track" />
     <tag id="249350424" k="tracktype" o="add" type="way" v="grade2" />
     <tag id="249350425" k="highway" o="add" type="way" v="track" />
@@ -35,11 +542,18 @@
     <tag id="249350437" k="access" o="add" type="way" v="private" />
     <tag id="249350437" k="highway" o="add" type="way" v="service" />
     <tag id="249350437" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249350438" k="name" o="add" type="way" v="St. Konrad von Parzham und Mari&#228; Himmelfahrt" />
+    <tag id="249350438" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="249350438" k="building" o="add" type="way" v="yes" />
+    <tag id="249350438" k="religion" o="add" type="way" v="christian" />
+    <tag id="249350438" k="building:use" o="add" type="way" v="church" />
+    <tag id="249350438" k="denomination" o="add" type="way" v="catholic" />
     <tag id="249350439" k="building" o="add" type="way" v="yes" />
     <tag id="249350440" k="building" o="add" type="way" v="yes" />
     <tag id="249350441" k="highway" o="add" type="way" v="track" />
     <tag id="249350441" k="tracktype" o="add" type="way" v="grade2" />
-    <tag id="2559662991" k="barrier" o="add" type="node" v="gate" />
+    <tag id="249350442" k="barrier" o="add" type="way" v="wall" />
+    <tag id="249350442" k="landuse" o="add" type="way" v="cemetery" />
     <tag id="249350833" k="highway" o="add" type="way" v="track" />
     <tag id="249350833" k="tracktype" o="add" type="way" v="grade2" />
     <tag id="249350834" k="building" o="add" type="way" v="yes" />
@@ -80,9 +594,8 @@
     <tag id="249351255" k="building" o="add" type="way" v="yes" />
     <tag id="249351257" k="building" o="add" type="way" v="yes" />
     <tag id="249351258" k="building" o="add" type="way" v="yes" />
-    <tag id="2559668164" k="power" o="add" type="node" v="tower" />
-    <tag id="249351755" k="natural" o="add" type="way" v="water" />
     <tag id="249351755" k="water" o="add" type="way" v="lake" />
+    <tag id="249351755" k="natural" o="add" type="way" v="water" />
     <tag id="249351756" k="building" o="add" type="way" v="yes" />
     <tag id="249351757" k="building" o="add" type="way" v="yes" />
     <tag id="249351758" k="building" o="add" type="way" v="yes" />
@@ -112,24 +625,38 @@
     <tag id="249353123" k="natural" o="add" type="way" v="wood" />
     <tag id="249353210" k="highway" o="add" type="way" v="track" />
     <tag id="249353210" k="tracktype" o="add" type="way" v="grade4" />
+    <tag id="249353211" k="highway" o="add" type="way" v="track" />
+    <tag id="249353211" k="tracktype" o="add" type="way" v="grade4" />
     <tag id="249353212" k="highway" o="add" type="way" v="track" />
     <tag id="249353212" k="tracktype" o="add" type="way" v="grade5" />
     <tag id="249353213" k="highway" o="add" type="way" v="track" />
     <tag id="249353213" k="tracktype" o="add" type="way" v="grade1" />
     <tag id="249353214" k="landuse" o="add" type="way" v="orchard" />
     <tag id="249354017" k="building" o="add" type="way" v="yes" />
+    <tag id="249354019" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249354019" k="foot" o="add" type="way" v="no" />
+    <tag id="249354019" k="lanes" o="add" type="way" v="2" />
+    <tag id="249354019" k="oneway" o="add" type="way" v="no" />
+    <tag id="249354019" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249354019" k="highway" o="add" type="way" v="primary" />
+    <tag id="249354019" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249354019" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249354019" k="embankment" o="add" type="way" v="yes" />
     <tag id="249354021" k="highway" o="add" type="way" v="track" />
     <tag id="249354021" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="2559696736" k="highway" o="add" type="node" v="crossing" />
-    <tag id="2559696809" k="highway" o="add" type="node" v="crossing" />
     <tag id="249354783" k="highway" o="add" type="way" v="track" />
     <tag id="249354783" k="tracktype" o="add" type="way" v="grade1" />
     <tag id="249354784" k="landuse" o="add" type="way" v="commercial" />
     <tag id="249354785" k="highway" o="add" type="way" v="track" />
     <tag id="249354785" k="tracktype" o="add" type="way" v="grade3" />
+    <tag id="249354786" k="lanes" o="add" type="way" v="1" />
+    <tag id="249354786" k="oneway" o="add" type="way" v="yes" />
+    <tag id="249354786" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="249354786" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249354786" k="motorroad" o="add" type="way" v="yes" />
+    <tag id="249354787" k="area" o="add" type="way" v="yes" />
     <tag id="249354787" k="access" o="add" type="way" v="customers" />
     <tag id="249354787" k="amenity" o="add" type="way" v="parking" />
-    <tag id="249354787" k="area" o="add" type="way" v="yes" />
     <tag id="249354787" k="parking" o="add" type="way" v="surface" />
     <tag id="249354787" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249354788" k="highway" o="add" type="way" v="service" />
@@ -137,6 +664,11 @@
     <tag id="249354789" k="highway" o="add" type="way" v="footway" />
     <tag id="249354790" k="highway" o="add" type="way" v="track" />
     <tag id="249354790" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="249354791" k="lanes" o="add" type="way" v="1" />
+    <tag id="249354791" k="oneway" o="add" type="way" v="yes" />
+    <tag id="249354791" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="249354791" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249354791" k="motorroad" o="add" type="way" v="yes" />
     <tag id="249354792" k="access" o="add" type="way" v="yes" />
     <tag id="249354792" k="highway" o="add" type="way" v="footway" />
     <tag id="249354792" k="surface" o="add" type="way" v="paving_stones" />
@@ -146,94 +678,107 @@
     <tag id="249354794" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249354795" k="building" o="add" type="way" v="yes" />
     <tag id="249355105" k="natural" o="add" type="way" v="wetland" />
-    <tag id="249357334" k="admin_level" o="add" type="way" v="8" />
-    <tag id="249357334" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="249357334" k="left:village" o="add" type="way" v="Volmunster" />
+    <tag id="249357333" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249357333" k="foot" o="add" type="way" v="no" />
+    <tag id="249357333" k="lanes" o="add" type="way" v="2" />
+    <tag id="249357333" k="oneway" o="add" type="way" v="no" />
+    <tag id="249357333" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249357333" k="highway" o="add" type="way" v="primary" />
+    <tag id="249357333" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249357333" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249357333" k="embankment" o="add" type="way" v="yes" />
     <tag id="249357334" k="name" o="add" type="way" v="Volmunster &#8212; Epping" />
-    <tag id="249357334" k="right:village" o="add" type="way" v="Epping" />
     <tag id="249357334" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="249357334" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="249357334" k="admin_level" o="add" type="way" v="8" />
+    <tag id="249357334" k="left:village" o="add" type="way" v="Volmunster" />
+    <tag id="249357334" k="right:village" o="add" type="way" v="Epping" />
     <tag id="249357335" k="leisure" o="add" type="way" v="recreation_ground" />
     <tag id="249357336" k="highway" o="add" type="way" v="track" />
     <tag id="249357336" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="249357338" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249357338" k="highway" o="add" type="way" v="primary" />
+    <tag id="249357338" k="ref" o="add" type="way" v="D 35a" />
     <tag id="249357338" k="lanes" o="add" type="way" v="1" />
     <tag id="249357338" k="oneway" o="add" type="way" v="-1" />
-    <tag id="249357338" k="ref" o="add" type="way" v="D 35a" />
+    <tag id="249357338" k="highway" o="add" type="way" v="primary" />
     <tag id="249357338" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249357338" k="embankment" o="add" type="way" v="yes" />
     <tag id="249357345" k="highway" o="add" type="way" v="track" />
     <tag id="249357345" k="tracktype" o="add" type="way" v="grade4" />
-    <tag id="249357348" k="highway" o="add" type="way" v="unclassified" />
     <tag id="249357348" k="lanes" o="add" type="way" v="1" />
     <tag id="249357348" k="oneway" o="add" type="way" v="-1" />
+    <tag id="249357348" k="highway" o="add" type="way" v="unclassified" />
     <tag id="249357348" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249357350" k="landuse" o="add" type="way" v="farmyard" />
     <tag id="249357352" k="building" o="add" type="way" v="yes" />
+    <tag id="249357354" k="lanes" o="add" type="way" v="2" />
+    <tag id="249357354" k="oneway" o="add" type="way" v="no" />
+    <tag id="249357354" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="249357354" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249357357" k="highway" o="add" type="way" v="track" />
     <tag id="249357357" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="249357358" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249357358" k="highway" o="add" type="way" v="primary" />
+    <tag id="249357358" k="ref" o="add" type="way" v="D 35a" />
     <tag id="249357358" k="lanes" o="add" type="way" v="1" />
     <tag id="249357358" k="oneway" o="add" type="way" v="-1" />
-    <tag id="249357358" k="ref" o="add" type="way" v="D 35a" />
+    <tag id="249357358" k="highway" o="add" type="way" v="primary" />
     <tag id="249357358" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357359" k="admin_level" o="add" type="way" v="8" />
-    <tag id="249357359" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="249357359" k="highway" o="add" type="way" v="track" />
-    <tag id="249357359" k="left:village" o="add" type="way" v="Volmunster" />
+    <tag id="249357358" k="embankment" o="add" type="way" v="yes" />
     <tag id="249357359" k="name" o="add" type="way" v="Volmunster &#8212; Epping" />
-    <tag id="249357359" k="right:village" o="add" type="way" v="Epping" />
     <tag id="249357359" k="source" o="add" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
+    <tag id="249357359" k="highway" o="add" type="way" v="track" />
+    <tag id="249357359" k="boundary" o="add" type="way" v="administrative" />
     <tag id="249357359" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="249357359" k="admin_level" o="add" type="way" v="8" />
+    <tag id="249357359" k="left:village" o="add" type="way" v="Volmunster" />
+    <tag id="249357359" k="right:village" o="add" type="way" v="Epping" />
     <tag id="249357360" k="highway" o="add" type="way" v="track" />
     <tag id="249357360" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="249357480" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="249357480" k="ref" o="add" type="way" v="D 162b" />
     <tag id="249357480" k="lanes" o="add" type="way" v="1" />
     <tag id="249357480" k="oneway" o="add" type="way" v="yes" />
-    <tag id="249357480" k="ref" o="add" type="way" v="D 162b" />
+    <tag id="249357480" k="highway" o="add" type="way" v="tertiary" />
     <tag id="249357480" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357481" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="249357481" k="ref" o="add" type="way" v="D 162b" />
     <tag id="249357481" k="lanes" o="add" type="way" v="1" />
     <tag id="249357481" k="oneway" o="add" type="way" v="yes" />
-    <tag id="249357481" k="ref" o="add" type="way" v="D 162b" />
+    <tag id="249357481" k="highway" o="add" type="way" v="primary_link" />
     <tag id="249357481" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357482" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249357482" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249357482" k="foot" o="add" type="way" v="no" />
-    <tag id="249357482" k="highway" o="add" type="way" v="primary" />
-    <tag id="249357482" k="lanes" o="add" type="way" v="2" />
-    <tag id="249357482" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249357482" k="oneway" o="add" type="way" v="no" />
     <tag id="249357482" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249357482" k="foot" o="add" type="way" v="no" />
+    <tag id="249357482" k="lanes" o="add" type="way" v="2" />
+    <tag id="249357482" k="oneway" o="add" type="way" v="no" />
+    <tag id="249357482" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249357482" k="highway" o="add" type="way" v="primary" />
     <tag id="249357482" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357483" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249357483" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249357483" k="foot" o="add" type="way" v="no" />
-    <tag id="249357483" k="highway" o="add" type="way" v="primary" />
-    <tag id="249357483" k="lanes" o="add" type="way" v="1" />
-    <tag id="249357483" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249357483" k="oneway" o="add" type="way" v="yes" />
+    <tag id="249357482" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249357482" k="embankment" o="add" type="way" v="yes" />
     <tag id="249357483" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249357483" k="foot" o="add" type="way" v="no" />
+    <tag id="249357483" k="lanes" o="add" type="way" v="1" />
+    <tag id="249357483" k="oneway" o="add" type="way" v="yes" />
+    <tag id="249357483" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249357483" k="highway" o="add" type="way" v="primary" />
     <tag id="249357483" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357484" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249357484" k="embankment" o="add" type="way" v="yes" />
+    <tag id="249357483" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249357483" k="embankment" o="add" type="way" v="yes" />
+    <tag id="249357484" k="ref" o="add" type="way" v="D 620" />
     <tag id="249357484" k="foot" o="add" type="way" v="no" />
-    <tag id="249357484" k="highway" o="add" type="way" v="primary" />
     <tag id="249357484" k="lanes" o="add" type="way" v="1" />
     <tag id="249357484" k="oneway" o="add" type="way" v="-1" />
-    <tag id="249357484" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249357484" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249357484" k="highway" o="add" type="way" v="primary" />
     <tag id="249357484" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249357484" k="embankment" o="add" type="way" v="yes" />
     <tag id="249358730" k="highway" o="add" type="way" v="service" />
     <tag id="249358730" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249358731" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249358731" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249358731" k="foot" o="add" type="way" v="no" />
-    <tag id="249358731" k="highway" o="add" type="way" v="primary" />
-    <tag id="249358731" k="lanes" o="add" type="way" v="2" />
-    <tag id="249358731" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249358731" k="oneway" o="add" type="way" v="no" />
     <tag id="249358731" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249358731" k="foot" o="add" type="way" v="no" />
+    <tag id="249358731" k="lanes" o="add" type="way" v="2" />
+    <tag id="249358731" k="oneway" o="add" type="way" v="no" />
+    <tag id="249358731" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249358731" k="highway" o="add" type="way" v="primary" />
     <tag id="249358731" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249358731" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249358731" k="embankment" o="add" type="way" v="yes" />
     <tag id="249358732" k="highway" o="add" type="way" v="track" />
     <tag id="249358732" k="tracktype" o="add" type="way" v="grade1" />
     <tag id="249358733" k="highway" o="add" type="way" v="track" />
@@ -243,99 +788,107 @@
     <tag id="249358735" k="access" o="add" type="way" v="private" />
     <tag id="249358735" k="highway" o="add" type="way" v="service" />
     <tag id="249358735" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249358736" k="name" o="add" type="way" v="Chemin du Hohwald" />
     <tag id="249358736" k="access" o="add" type="way" v="designated" />
     <tag id="249358736" k="highway" o="add" type="way" v="track" />
-    <tag id="249358736" k="motor_vehicle" o="add" type="way" v="no" />
-    <tag id="249358736" k="name" o="add" type="way" v="Chemin du Hohwald" />
     <tag id="249358736" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249358736" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="249358737" k="CLC:code" o="add" type="way" v="312" />
-    <tag id="249358737" k="CLC:id" o="add" type="way" v="FR-21626" />
-    <tag id="249358737" k="CLC:year" o="add" type="way" v="2006" />
-    <tag id="249358737" k="landuse" o="add" type="way" v="forest" />
-    <tag id="249358737" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="249358736" k="motor_vehicle" o="add" type="way" v="no" />
     <tag id="249358737" k="wood" o="add" type="way" v="coniferous" />
+    <tag id="249358737" k="CLC:id" o="add" type="way" v="FR-21626" />
+    <tag id="249358737" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="249358737" k="landuse" o="add" type="way" v="forest" />
+    <tag id="249358737" k="CLC:code" o="add" type="way" v="312" />
+    <tag id="249358737" k="CLC:year" o="add" type="way" v="2006" />
     <tag id="249358738" k="landuse" o="add" type="way" v="orchard" />
-    <tag id="249358739" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249358739" k="bridge" o="add" type="way" v="yes" />
-    <tag id="249358739" k="embankment" o="add" type="way" v="yes" />
+    <tag id="249358739" k="ref" o="add" type="way" v="D 620" />
     <tag id="249358739" k="foot" o="add" type="way" v="no" />
-    <tag id="249358739" k="highway" o="add" type="way" v="primary" />
     <tag id="249358739" k="lanes" o="add" type="way" v="2" />
     <tag id="249358739" k="layer" o="add" type="way" v="1" />
-    <tag id="249358739" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249358739" k="bridge" o="add" type="way" v="yes" />
     <tag id="249358739" k="oneway" o="add" type="way" v="no" />
-    <tag id="249358739" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249358739" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249358739" k="highway" o="add" type="way" v="primary" />
     <tag id="249358739" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249358739" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249358739" k="embankment" o="add" type="way" v="yes" />
     <tag id="249358740" k="landuse" o="add" type="way" v="farmyard" />
     <tag id="249358741" k="highway" o="add" type="way" v="track" />
     <tag id="249358741" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="249358998" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249358998" k="bridge" o="add" type="way" v="yes" />
-    <tag id="249358998" k="embankment" o="add" type="way" v="yes" />
+    <tag id="249358998" k="ref" o="add" type="way" v="D 620" />
     <tag id="249358998" k="foot" o="add" type="way" v="no" />
-    <tag id="249358998" k="highway" o="add" type="way" v="primary" />
     <tag id="249358998" k="lanes" o="add" type="way" v="2" />
     <tag id="249358998" k="layer" o="add" type="way" v="1" />
-    <tag id="249358998" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249358998" k="bridge" o="add" type="way" v="yes" />
     <tag id="249358998" k="oneway" o="add" type="way" v="no" />
-    <tag id="249358998" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249358998" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249358998" k="highway" o="add" type="way" v="primary" />
     <tag id="249358998" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249358999" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249358999" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249358999" k="foot" o="add" type="way" v="no" />
-    <tag id="249358999" k="highway" o="add" type="way" v="primary" />
-    <tag id="249358999" k="lanes" o="add" type="way" v="2" />
-    <tag id="249358999" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249358999" k="oneway" o="add" type="way" v="no" />
+    <tag id="249358998" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249358998" k="embankment" o="add" type="way" v="yes" />
     <tag id="249358999" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249358999" k="foot" o="add" type="way" v="no" />
+    <tag id="249358999" k="lanes" o="add" type="way" v="2" />
+    <tag id="249358999" k="oneway" o="add" type="way" v="no" />
+    <tag id="249358999" k="bicycle" o="add" type="way" v="no" />
+    <tag id="249358999" k="highway" o="add" type="way" v="primary" />
     <tag id="249358999" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249358999" k="maxspeed" o="add" type="way" v="90" />
+    <tag id="249358999" k="embankment" o="add" type="way" v="yes" />
     <tag id="249359053" k="natural" o="add" type="way" v="wood" />
     <tag id="249359055" k="highway" o="add" type="way" v="track" />
     <tag id="249359055" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="249359153" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="249359153" k="ref" o="add" type="way" v="D 620" />
     <tag id="249359153" k="lanes" o="add" type="way" v="1" />
     <tag id="249359153" k="oneway" o="add" type="way" v="yes" />
-    <tag id="249359153" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249359153" k="highway" o="add" type="way" v="secondary_link" />
     <tag id="249359153" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249359684" k="highway" o="add" type="way" v="secondary_link" />
+    <tag id="249359684" k="ref" o="add" type="way" v="D 620" />
     <tag id="249359684" k="lanes" o="add" type="way" v="1" />
     <tag id="249359684" k="oneway" o="add" type="way" v="yes" />
-    <tag id="249359684" k="ref" o="add" type="way" v="D 620" />
+    <tag id="249359684" k="highway" o="add" type="way" v="secondary_link" />
     <tag id="249359684" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249360220" k="highway" o="add" type="way" v="service" />
     <tag id="249360220" k="service" o="add" type="way" v="parking_aisle" />
     <tag id="249360220" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249360221" k="area" o="add" type="way" v="yes" />
+    <tag id="249360221" k="access" o="add" type="way" v="yes" />
+    <tag id="249360221" k="amenity" o="add" type="way" v="parking" />
+    <tag id="249360221" k="parking" o="add" type="way" v="surface" />
+    <tag id="249360221" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249360222" k="highway" o="add" type="way" v="track" />
     <tag id="249360222" k="tracktype" o="add" type="way" v="grade4" />
     <tag id="249360223" k="landuse" o="add" type="way" v="farmyard" />
-    <tag id="2559752868" k="highway" o="add" type="node" v="crossing" />
     <tag id="249360691" k="highway" o="add" type="way" v="track" />
     <tag id="249360691" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="249360692" k="highway" o="add" type="way" v="secondary" />
-    <tag id="249360692" k="lanes" o="add" type="way" v="2" />
-    <tag id="249360692" k="maxspeed" o="add" type="way" v="100" />
-    <tag id="249360692" k="oneway" o="add" type="way" v="no" />
     <tag id="249360692" k="ref" o="add" type="way" v="D 34" />
+    <tag id="249360692" k="lanes" o="add" type="way" v="2" />
+    <tag id="249360692" k="oneway" o="add" type="way" v="no" />
+    <tag id="249360692" k="highway" o="add" type="way" v="secondary" />
     <tag id="249360692" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249360692" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="249360693" k="lit" o="add" type="way" v="yes" />
+    <tag id="249360693" k="lanes" o="add" type="way" v="2" />
+    <tag id="249360693" k="noexit" o="add" type="way" v="yes" />
+    <tag id="249360693" k="oneway" o="add" type="way" v="no" />
+    <tag id="249360693" k="highway" o="add" type="way" v="residential" />
+    <tag id="249360693" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249360694" k="area" o="add" type="way" v="yes" />
     <tag id="249360694" k="access" o="add" type="way" v="yes" />
     <tag id="249360694" k="amenity" o="add" type="way" v="parking" />
-    <tag id="249360694" k="area" o="add" type="way" v="yes" />
     <tag id="249360694" k="parking" o="add" type="way" v="surface" />
     <tag id="249360695" k="highway" o="add" type="way" v="footway" />
-    <tag id="249360696" k="bridge" o="add" type="way" v="yes" />
-    <tag id="249360696" k="highway" o="add" type="way" v="secondary" />
+    <tag id="249360696" k="ref" o="add" type="way" v="D 34" />
     <tag id="249360696" k="lanes" o="add" type="way" v="2" />
     <tag id="249360696" k="layer" o="add" type="way" v="1" />
-    <tag id="249360696" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="249360696" k="bridge" o="add" type="way" v="yes" />
     <tag id="249360696" k="oneway" o="add" type="way" v="no" />
-    <tag id="249360696" k="ref" o="add" type="way" v="D 34" />
+    <tag id="249360696" k="highway" o="add" type="way" v="secondary" />
     <tag id="249360696" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="2559769485" k="highway" o="add" type="node" v="crossing" />
-    <tag id="2559769496" k="highway" o="add" type="node" v="crossing" />
+    <tag id="249360696" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="249361353" k="area" o="add" type="way" v="yes" />
     <tag id="249361353" k="access" o="add" type="way" v="yes" />
     <tag id="249361353" k="amenity" o="add" type="way" v="parking" />
-    <tag id="249361353" k="area" o="add" type="way" v="yes" />
     <tag id="249361353" k="parking" o="add" type="way" v="surface" />
     <tag id="249361354" k="highway" o="add" type="way" v="footway" />
     <tag id="249361355" k="highway" o="add" type="way" v="footway" />
@@ -352,30 +905,29 @@
     <tag id="249361765" k="highway" o="add" type="way" v="footway" />
     <tag id="249361766" k="access" o="add" type="way" v="private" />
     <tag id="249361766" k="highway" o="add" type="way" v="service" />
-    <tag id="2559793301" k="historic" o="add" type="node" v="memorial" />
     <tag id="249362074" k="building" o="add" type="way" v="yes" />
-    <tag id="249362076" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="249362076" k="lanes" o="add" type="way" v="2" />
     <tag id="249362076" k="lit" o="add" type="way" v="yes" />
-    <tag id="249362076" k="name" o="add" type="way" v="Rue Principale" />
-    <tag id="249362076" k="oneway" o="add" type="way" v="no" />
     <tag id="249362076" k="ref" o="add" type="way" v="D 84b" />
+    <tag id="249362076" k="name" o="add" type="way" v="Rue Principale" />
+    <tag id="249362076" k="lanes" o="add" type="way" v="2" />
+    <tag id="249362076" k="oneway" o="add" type="way" v="no" />
+    <tag id="249362076" k="highway" o="add" type="way" v="tertiary" />
     <tag id="249362076" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249362079" k="highway" o="add" type="way" v="tertiary" />
-    <tag id="249362079" k="lanes" o="add" type="way" v="2" />
     <tag id="249362079" k="lit" o="add" type="way" v="yes" />
-    <tag id="249362079" k="name" o="add" type="way" v="Rue Principale" />
-    <tag id="249362079" k="oneway" o="add" type="way" v="no" />
     <tag id="249362079" k="ref" o="add" type="way" v="D 84b" />
+    <tag id="249362079" k="name" o="add" type="way" v="Rue Principale" />
+    <tag id="249362079" k="lanes" o="add" type="way" v="2" />
+    <tag id="249362079" k="oneway" o="add" type="way" v="no" />
+    <tag id="249362079" k="highway" o="add" type="way" v="tertiary" />
     <tag id="249362079" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249362189" k="access" o="add" type="way" v="private" />
     <tag id="249362189" k="highway" o="add" type="way" v="service" />
-    <tag id="249362190" k="highway" o="add" type="way" v="secondary" />
-    <tag id="249362190" k="lanes" o="add" type="way" v="2" />
     <tag id="249362190" k="lcn" o="add" type="way" v="yes" />
-    <tag id="249362190" k="name" o="add" type="way" v="G&#252;derkircherstra&#223;e" />
-    <tag id="249362190" k="oneway" o="add" type="way" v="no" />
     <tag id="249362190" k="ref" o="add" type="way" v="D 84" />
+    <tag id="249362190" k="name" o="add" type="way" v="G&#252;derkircherstra&#223;e" />
+    <tag id="249362190" k="lanes" o="add" type="way" v="2" />
+    <tag id="249362190" k="oneway" o="add" type="way" v="no" />
+    <tag id="249362190" k="highway" o="add" type="way" v="secondary" />
     <tag id="249362190" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249362191" k="access" o="add" type="way" v="private" />
     <tag id="249362191" k="highway" o="add" type="way" v="service" />
@@ -386,14 +938,14 @@
     <tag id="249366429" k="building" o="add" type="way" v="yes" />
     <tag id="249366431" k="building" o="add" type="way" v="yes" />
     <tag id="249366433" k="building" o="add" type="way" v="yes" />
-    <tag id="249366434" k="highway" o="add" type="way" v="secondary" />
-    <tag id="249366434" k="lanes" o="add" type="way" v="2" />
     <tag id="249366434" k="lcn" o="add" type="way" v="yes" />
-    <tag id="249366434" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249366434" k="name" o="add" type="way" v="G&#252;derkircherstra&#223;e" />
-    <tag id="249366434" k="oneway" o="add" type="way" v="no" />
     <tag id="249366434" k="ref" o="add" type="way" v="D 84" />
+    <tag id="249366434" k="name" o="add" type="way" v="G&#252;derkircherstra&#223;e" />
+    <tag id="249366434" k="lanes" o="add" type="way" v="2" />
+    <tag id="249366434" k="oneway" o="add" type="way" v="no" />
+    <tag id="249366434" k="highway" o="add" type="way" v="secondary" />
     <tag id="249366434" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249366434" k="maxspeed" o="add" type="way" v="90" />
     <tag id="249366438" k="building" o="add" type="way" v="yes" />
     <tag id="249366440" k="barrier" o="add" type="way" v="fence" />
     <tag id="249366442" k="highway" o="add" type="way" v="service" />
@@ -414,51 +966,58 @@
     <tag id="249370553" k="landuse" o="add" type="way" v="farmyard" />
     <tag id="249371382" k="bicycle" o="add" type="way" v="yes" />
     <tag id="249371382" k="highway" o="add" type="way" v="footway" />
-    <tag id="2559855144" k="natural" o="add" type="node" v="tree" />
+    <tag id="249371384" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="249371384" k="highway" o="add" type="way" v="footway" />
+    <tag id="249371386" k="highway" o="add" type="way" v="service" />
     <tag id="249375660" k="building" o="add" type="way" v="yes" />
     <tag id="249375661" k="access" o="add" type="way" v="private" />
-    <tag id="249375661" k="highway" o="add" type="way" v="service" />
     <tag id="249375661" k="oneway" o="add" type="way" v="no" />
+    <tag id="249375661" k="highway" o="add" type="way" v="service" />
     <tag id="249375661" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249375662" k="leisure" o="add" type="way" v="recreation_ground" />
     <tag id="249375663" k="building" o="add" type="way" v="yes" />
     <tag id="249375664" k="building" o="add" type="way" v="yes" />
     <tag id="249375664" k="building:use" o="add" type="way" v="residential" />
     <tag id="249375665" k="building" o="add" type="way" v="yes" />
-    <tag id="249375666" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="249375666" k="bridge" o="add" type="way" v="yes" />
-    <tag id="249375666" k="highway" o="add" type="way" v="secondary" />
-    <tag id="249375666" k="layer" o="add" type="way" v="1" />
-    <tag id="249375666" k="maxspeed" o="add" type="way" v="50" />
-    <tag id="249375666" k="name" o="add" type="way" v="Riesweilerstra&#223;e" />
-    <tag id="249375666" k="oneway" o="add" type="way" v="no" />
     <tag id="249375666" k="ref" o="add" type="way" v="L 102" />
+    <tag id="249375666" k="name" o="add" type="way" v="Riesweilerstra&#223;e" />
+    <tag id="249375666" k="layer" o="add" type="way" v="1" />
+    <tag id="249375666" k="bridge" o="add" type="way" v="yes" />
+    <tag id="249375666" k="oneway" o="add" type="way" v="no" />
+    <tag id="249375666" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="249375666" k="highway" o="add" type="way" v="secondary" />
     <tag id="249375666" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="249375666" k="maxspeed" o="add" type="way" v="50" />
     <tag id="249375667" k="building" o="add" type="way" v="yes" />
+    <tag id="249375668" k="ref" o="add" type="way" v="L 102" />
+    <tag id="249375668" k="name" o="add" type="way" v="Riesweilerstra&#223;e" />
+    <tag id="249375668" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="249375668" k="highway" o="add" type="way" v="secondary" />
+    <tag id="249375668" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249375669" k="building" o="add" type="way" v="yes" />
     <tag id="249375669" k="building:use" o="add" type="way" v="residential" />
     <tag id="249375670" k="building" o="add" type="way" v="yes" />
-    <tag id="249375671" k="highway" o="add" type="way" v="living_street" />
     <tag id="249375671" k="noexit" o="add" type="way" v="yes" />
+    <tag id="249375671" k="highway" o="add" type="way" v="living_street" />
     <tag id="249375671" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249375672" k="building" o="add" type="way" v="yes" />
     <tag id="249375673" k="building" o="add" type="way" v="yes" />
-    <tag id="249376245" k="highway" o="add" type="way" v="residential" />
-    <tag id="249376245" k="lanes" o="add" type="way" v="2" />
     <tag id="249376245" k="lit" o="add" type="way" v="yes" />
     <tag id="249376245" k="name" o="add" type="way" v="Auf dem Flur" />
+    <tag id="249376245" k="lanes" o="add" type="way" v="2" />
     <tag id="249376245" k="noexit" o="add" type="way" v="yes" />
     <tag id="249376245" k="oneway" o="add" type="way" v="no" />
+    <tag id="249376245" k="highway" o="add" type="way" v="residential" />
     <tag id="249376245" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249376246" k="leisure" o="add" type="way" v="pitch" />
     <tag id="249376247" k="highway" o="add" type="way" v="track" />
     <tag id="249376247" k="tracktype" o="add" type="way" v="grade4" />
-    <tag id="249376248" k="highway" o="add" type="way" v="residential" />
-    <tag id="249376248" k="lanes" o="add" type="way" v="2" />
     <tag id="249376248" k="lit" o="add" type="way" v="yes" />
     <tag id="249376248" k="name" o="add" type="way" v="Auf dem Flur" />
+    <tag id="249376248" k="lanes" o="add" type="way" v="2" />
     <tag id="249376248" k="noexit" o="add" type="way" v="yes" />
     <tag id="249376248" k="oneway" o="add" type="way" v="no" />
+    <tag id="249376248" k="highway" o="add" type="way" v="residential" />
     <tag id="249376248" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249376249" k="building" o="add" type="way" v="yes" />
     <tag id="249376250" k="building" o="add" type="way" v="yes" />
@@ -467,17 +1026,21 @@
     <tag id="249377414" k="highway" o="add" type="way" v="track" />
     <tag id="249377414" k="tracktype" o="add" type="way" v="grade3" />
     <tag id="249377415" k="building" o="add" type="way" v="yes" />
-    <tag id="249377416" k="CLC:code" o="add" type="way" v="112" />
     <tag id="249377416" k="CLC:id" o="add" type="way" v="FR-20256" />
-    <tag id="249377416" k="CLC:year" o="add" type="way" v="2006" />
-    <tag id="249377416" k="landuse" o="add" type="way" v="residential" />
     <tag id="249377416" k="source" o="add" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
+    <tag id="249377416" k="landuse" o="add" type="way" v="residential" />
+    <tag id="249377416" k="CLC:code" o="add" type="way" v="112" />
+    <tag id="249377416" k="CLC:year" o="add" type="way" v="2006" />
     <tag id="249377417" k="building" o="add" type="way" v="yes" />
     <tag id="249377418" k="highway" o="add" type="way" v="service" />
     <tag id="249377418" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249377419" k="building" o="add" type="way" v="yes" />
+    <tag id="249377845" k="highway" o="add" type="way" v="track" />
+    <tag id="249377845" k="tracktype" o="add" type="way" v="grade4" />
     <tag id="249377846" k="building" o="add" type="way" v="yes" />
     <tag id="249377847" k="building" o="add" type="way" v="yes" />
+    <tag id="249377857" k="highway" o="add" type="way" v="track" />
+    <tag id="249377857" k="tracktype" o="add" type="way" v="grade3" />
     <tag id="249377992" k="landuse" o="add" type="way" v="farmland" />
     <tag id="249377994" k="natural" o="add" type="way" v="wood" />
     <tag id="249379116" k="building" o="add" type="way" v="yes" />
@@ -490,606 +1053,43 @@
     <tag id="249379550" k="building" o="add" type="way" v="yes" />
     <tag id="249379551" k="building" o="add" type="way" v="yes" />
     <tag id="249379553" k="building" o="add" type="way" v="yes" />
-    <tag id="249379647" k="bicycle" o="add" type="way" v="yes" />
     <tag id="249379647" k="foot" o="add" type="way" v="yes" />
-    <tag id="249379647" k="highway" o="add" type="way" v="residential" />
     <tag id="249379647" k="name" o="add" type="way" v="M&#252;hlenweg" />
+    <tag id="249379647" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="249379647" k="highway" o="add" type="way" v="residential" />
     <tag id="249379647" k="surface" o="add" type="way" v="asphalt" />
     <tag id="249379648" k="building" o="add" type="way" v="yes" />
     <tag id="249379649" k="building" o="add" type="way" v="yes" />
     <tag id="249379650" k="building" o="add" type="way" v="yes" />
-    <tag id="249379651" k="bicycle" o="add" type="way" v="yes" />
     <tag id="249379651" k="foot" o="add" type="way" v="yes" />
-    <tag id="249379651" k="highway" o="add" type="way" v="residential" />
     <tag id="249379651" k="name" o="add" type="way" v="M&#252;hlenweg" />
+    <tag id="249379651" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="249379651" k="highway" o="add" type="way" v="residential" />
     <tag id="249379651" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="2559811451" k="barrier" o="add" type="node" v="gate" />
-    <tag id="370895914" k="is_in" o="none" type="node" v="Gersheim,Saarpfalz-Kreis,Saarland,Bundesrepublik Deutschland,Europe" />
-    <tag id="370895914" k="name" o="none" type="node" v="Utweiler" />
-    <tag id="370895914" k="place" o="none" type="node" v="village" />
-    <tag id="370895914" k="wikipedia" o="add" type="node" v="de:Utweiler" />
-    <tag id="809732480" k="tourism" o="none" type="node" v="picnic_site" />
-    <tag id="2262750440" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="2262750442" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="2262750446" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="418180877" k="name" o="none" type="node" v="Guiderkirch" />
-    <tag id="418180877" k="name:de" o="add" type="node" v="G&#252;derkirche" />
-    <tag id="418180877" k="old_name" o="add" type="node" v="G&#252;derkirchen" />
-    <tag id="418180877" k="place" o="none" type="node" v="village" />
-    <tag id="370895934" k="is_in" o="none" type="node" v="Gersheim,Saarpfalz-Kreis,Saarland,Bundesrepublik Deutschland,Europe" />
-    <tag id="370895934" k="name" o="none" type="node" v="Peppenkum" />
-    <tag id="370895934" k="place" o="none" type="node" v="suburb" />
-    <tag id="370895934" k="wikipedia" o="add" type="node" v="de:Peppenkum" />
-    <tag id="249350438" k="amenity" o="add" type="way" v="place_of_worship" />
-    <tag id="249350438" k="building" o="add" type="way" v="yes" />
-    <tag id="249350438" k="building:use" o="add" type="way" v="church" />
-    <tag id="249350438" k="denomination" o="add" type="way" v="catholic" />
-    <tag id="249350438" k="name" o="add" type="way" v="St. Konrad von Parzham und Mari&#228; Himmelfahrt" />
-    <tag id="249350438" k="religion" o="add" type="way" v="christian" />
-    <tag id="249350442" k="barrier" o="add" type="way" v="wall" />
-    <tag id="249350442" k="landuse" o="add" type="way" v="cemetery" />
-    <tag id="249353211" k="highway" o="add" type="way" v="track" />
-    <tag id="249353211" k="tracktype" o="add" type="way" v="grade4" />
-    <tag id="249354019" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249354019" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249354019" k="foot" o="add" type="way" v="no" />
-    <tag id="249354019" k="highway" o="add" type="way" v="primary" />
-    <tag id="249354019" k="lanes" o="add" type="way" v="2" />
-    <tag id="249354019" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249354019" k="oneway" o="add" type="way" v="no" />
-    <tag id="249354019" k="ref" o="add" type="way" v="D 620" />
-    <tag id="249354019" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249354786" k="highway" o="add" type="way" v="primary_link" />
-    <tag id="249354786" k="lanes" o="add" type="way" v="1" />
-    <tag id="249354786" k="motorroad" o="add" type="way" v="yes" />
-    <tag id="249354786" k="oneway" o="add" type="way" v="yes" />
-    <tag id="249354786" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249354791" k="highway" o="add" type="way" v="primary_link" />
-    <tag id="249354791" k="lanes" o="add" type="way" v="1" />
-    <tag id="249354791" k="motorroad" o="add" type="way" v="yes" />
-    <tag id="249354791" k="oneway" o="add" type="way" v="yes" />
-    <tag id="249354791" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357333" k="bicycle" o="add" type="way" v="no" />
-    <tag id="249357333" k="embankment" o="add" type="way" v="yes" />
-    <tag id="249357333" k="foot" o="add" type="way" v="no" />
-    <tag id="249357333" k="highway" o="add" type="way" v="primary" />
-    <tag id="249357333" k="lanes" o="add" type="way" v="2" />
-    <tag id="249357333" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="249357333" k="oneway" o="add" type="way" v="no" />
-    <tag id="249357333" k="ref" o="add" type="way" v="D 620" />
-    <tag id="249357333" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249357354" k="highway" o="add" type="way" v="unclassified" />
-    <tag id="249357354" k="lanes" o="add" type="way" v="2" />
-    <tag id="249357354" k="oneway" o="add" type="way" v="no" />
-    <tag id="249357354" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249360221" k="access" o="add" type="way" v="yes" />
-    <tag id="249360221" k="amenity" o="add" type="way" v="parking" />
-    <tag id="249360221" k="area" o="add" type="way" v="yes" />
-    <tag id="249360221" k="parking" o="add" type="way" v="surface" />
-    <tag id="249360221" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249360693" k="highway" o="add" type="way" v="residential" />
-    <tag id="249360693" k="lanes" o="add" type="way" v="2" />
-    <tag id="249360693" k="lit" o="add" type="way" v="yes" />
-    <tag id="249360693" k="noexit" o="add" type="way" v="yes" />
-    <tag id="249360693" k="oneway" o="add" type="way" v="no" />
-    <tag id="249360693" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249371384" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="249371384" k="highway" o="add" type="way" v="footway" />
-    <tag id="249371386" k="highway" o="add" type="way" v="service" />
-    <tag id="249375668" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="249375668" k="highway" o="add" type="way" v="secondary" />
-    <tag id="249375668" k="name" o="add" type="way" v="Riesweilerstra&#223;e" />
-    <tag id="249375668" k="ref" o="add" type="way" v="L 102" />
-    <tag id="249375668" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="249377845" k="highway" o="add" type="way" v="track" />
-    <tag id="249377845" k="tracktype" o="add" type="way" v="grade4" />
-    <tag id="249377857" k="highway" o="add" type="way" v="track" />
-    <tag id="249377857" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="105369715" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="105369715" k="ref" o="none" type="way" v="L 205" />
-    <tag id="137732847" k="highway" o="none" type="way" v="track" />
-    <tag id="137732847" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="89458077" k="landuse" o="none" type="way" v="residential" />
-    <tag id="33390893" k="highway" o="modify" type="way" v="residential" />
-    <tag id="33390893" k="lit" o="add" type="way" v="yes" />
-    <tag id="33390893" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="32936041" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="32936041" k="ref" o="none" type="way" v="L 206" />
-    <tag id="105369717" k="highway" o="none" type="way" v="residential" />
-    <tag id="105369717" k="lit" o="add" type="way" v="yes" />
-    <tag id="105369717" k="name" o="modify" type="way" v="Bruder-Konrad-Stra&#223;e" />
-    <tag id="105369717" k="oneway" o="add" type="way" v="no" />
-    <tag id="105369717" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="105369729" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="105369729" k="name" o="modify" type="way" v="Bruder-Konrad-Stra&#223;e" />
-    <tag id="105369729" k="ref" o="none" type="way" v="L 206" />
-    <tag id="33840422" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="33840422" k="name" o="none" type="way" v="Bruder Konrad Stra&#223;e" />
-    <tag id="33840422" k="ref" o="none" type="way" v="L 206" />
-    <tag id="160675933" k="cables" o="none" type="way" v="3" />
-    <tag id="160675933" k="power" o="none" type="way" v="minor_line" />
-    <tag id="160675933" k="wires" o="none" type="way" v="single" />
-    <tag id="34047866" k="highway" o="none" type="way" v="secondary" />
-    <tag id="34047866" k="lanes" o="add" type="way" v="2" />
-    <tag id="34047866" k="maxspeed" o="add" type="way" v="100" />
-    <tag id="34047866" k="oneway" o="add" type="way" v="no" />
-    <tag id="34047866" k="ref" o="none" type="way" v="D 34" />
-    <tag id="34047866" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="134548580" k="highway" o="none" type="way" v="track" />
-    <tag id="134548580" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="88590261" k="highway" o="none" type="way" v="track" />
-    <tag id="88590261" k="surface" o="none" type="way" v="concrete" />
-    <tag id="88590261" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="121661415" k="bicycle" o="add" type="way" v="no" />
-    <tag id="121661415" k="bridge" o="none" type="way" v="yes" />
-    <tag id="121661415" k="embankment" o="add" type="way" v="yes" />
-    <tag id="121661415" k="foot" o="add" type="way" v="no" />
-    <tag id="121661415" k="highway" o="modify" type="way" v="primary" />
-    <tag id="121661415" k="lanes" o="add" type="way" v="2" />
-    <tag id="121661415" k="layer" o="none" type="way" v="1" />
-    <tag id="121661415" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="121661415" k="oneway" o="add" type="way" v="no" />
-    <tag id="121661415" k="ref" o="none" type="way" v="D 620" />
-    <tag id="121661415" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="121661416" k="highway" o="modify" type="way" v="tertiary_link" />
-    <tag id="121661416" k="lanes" o="add" type="way" v="1" />
-    <tag id="121661416" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="121661416" k="oneway" o="none" type="way" v="yes" />
-    <tag id="121661416" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="121661414" k="bicycle" o="add" type="way" v="no" />
-    <tag id="121661414" k="embankment" o="add" type="way" v="yes" />
-    <tag id="121661414" k="foot" o="add" type="way" v="no" />
-    <tag id="121661414" k="highway" o="modify" type="way" v="primary" />
-    <tag id="121661414" k="lanes" o="add" type="way" v="2" />
-    <tag id="121661414" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="121661414" k="oneway" o="add" type="way" v="no" />
-    <tag id="121661414" k="ref" o="none" type="way" v="D 620" />
-    <tag id="121661414" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="30768746" k="bicycle" o="none" type="way" v="no" />
-    <tag id="30768746" k="embankment" o="none" type="way" v="yes" />
-    <tag id="30768746" k="foot" o="none" type="way" v="no" />
-    <tag id="30768746" k="highway" o="modify" type="way" v="primary" />
-    <tag id="30768746" k="lanes" o="add" type="way" v="2" />
-    <tag id="30768746" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="30768746" k="oneway" o="add" type="way" v="no" />
-    <tag id="30768746" k="ref" o="none" type="way" v="D 620" />
-    <tag id="30768746" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="42010902" k="CLC:code" o="none" type="way" v="112" />
-    <tag id="42010902" k="CLC:id" o="none" type="way" v="FR-21175" />
-    <tag id="42010902" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="42010902" k="landuse" o="none" type="way" v="residential" />
-    <tag id="42010902" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="51423872" k="highway" o="modify" type="way" v="primary_link" />
-    <tag id="51423872" k="lanes" o="add" type="way" v="1" />
-    <tag id="51423872" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="51423872" k="oneway" o="none" type="way" v="yes" />
-    <tag id="51423872" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="51423870" k="highway" o="modify" type="way" v="tertiary_link" />
-    <tag id="51423870" k="lanes" o="add" type="way" v="1" />
-    <tag id="51423870" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="51423870" k="oneway" o="none" type="way" v="yes" />
-    <tag id="51423870" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="51423873" k="highway" o="modify" type="way" v="primary_link" />
-    <tag id="51423873" k="lanes" o="add" type="way" v="1" />
-    <tag id="51423873" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="51423873" k="oneway" o="none" type="way" v="yes" />
-    <tag id="51423873" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="51423874" k="highway" o="modify" type="way" v="tertiary_link" />
-    <tag id="51423874" k="lanes" o="add" type="way" v="1" />
-    <tag id="51423874" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="51423874" k="oneway" o="none" type="way" v="yes" />
-    <tag id="51423874" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="51423869" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="51423869" k="oneway" o="add" type="way" v="no" />
-    <tag id="51423869" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="51423871" k="highway" o="modify" type="way" v="tertiary_link" />
-    <tag id="51423871" k="lanes" o="add" type="way" v="1" />
-    <tag id="51423871" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="51423871" k="oneway" o="none" type="way" v="yes" />
-    <tag id="51423871" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="229560191" k="access" o="add" type="way" v="yes" />
-    <tag id="229560191" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="229560191" k="lanes" o="add" type="way" v="2" />
-    <tag id="229560191" k="oneway" o="add" type="way" v="no" />
-    <tag id="229560191" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="229560192" k="highway" o="modify" type="way" v="primary_link" />
-    <tag id="229560192" k="lanes" o="add" type="way" v="1" />
-    <tag id="229560192" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="229560192" k="oneway" o="none" type="way" v="yes" />
-    <tag id="229560192" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="229560196" k="highway" o="modify" type="way" v="primary_link" />
-    <tag id="229560196" k="lanes" o="add" type="way" v="1" />
-    <tag id="229560196" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="229560196" k="oneway" o="none" type="way" v="yes" />
-    <tag id="229560196" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="44176364" k="CLC:code" o="none" type="way" v="211" />
-    <tag id="44176364" k="CLC:id" o="none" type="way" v="FR-20769" />
-    <tag id="44176364" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="44176364" k="landuse" o="none" type="way" v="farm" />
-    <tag id="44176364" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="184399516" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="184399516" k="name" o="none" type="way" v="Rue d'Urbach" />
-    <tag id="229560193" k="highway" o="modify" type="way" v="track" />
-    <tag id="229560193" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="121201484" k="bicycle" o="add" type="way" v="no" />
-    <tag id="121201484" k="embankment" o="none" type="way" v="yes" />
-    <tag id="121201484" k="foot" o="add" type="way" v="no" />
-    <tag id="121201484" k="highway" o="modify" type="way" v="primary" />
-    <tag id="121201484" k="lanes" o="add" type="way" v="2" />
-    <tag id="121201484" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="121201484" k="oneway" o="add" type="way" v="no" />
-    <tag id="121201484" k="ref" o="none" type="way" v="D 620" />
-    <tag id="121201484" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="121201494" k="bicycle" o="add" type="way" v="no" />
-    <tag id="121201494" k="bridge" o="none" type="way" v="yes" />
-    <tag id="121201494" k="embankment" o="add" type="way" v="yes" />
-    <tag id="121201494" k="foot" o="add" type="way" v="no" />
-    <tag id="121201494" k="highway" o="modify" type="way" v="primary" />
-    <tag id="121201494" k="lanes" o="add" type="way" v="2" />
-    <tag id="121201494" k="layer" o="none" type="way" v="1" />
-    <tag id="121201494" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="121201494" k="oneway" o="add" type="way" v="no" />
-    <tag id="121201494" k="ref" o="none" type="way" v="D 620" />
-    <tag id="121201494" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="122315858" k="embankment" o="none" type="way" v="yes" />
-    <tag id="122315858" k="highway" o="none" type="way" v="primary" />
-    <tag id="122315858" k="lanes" o="add" type="way" v="2" />
-    <tag id="122315858" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="122315858" k="oneway" o="add" type="way" v="no" />
-    <tag id="122315858" k="ref" o="none" type="way" v="D 35a" />
-    <tag id="122315858" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="35769357" k="highway" o="modify" type="way" v="primary_link" />
-    <tag id="35769357" k="lanes" o="add" type="way" v="1" />
-    <tag id="35769357" k="oneway" o="add" type="way" v="-1" />
-    <tag id="35769357" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="29329041" k="bicycle" o="add" type="way" v="no" />
-    <tag id="29329041" k="embankment" o="none" type="way" v="yes" />
-    <tag id="29329041" k="foot" o="add" type="way" v="no" />
-    <tag id="29329041" k="highway" o="modify" type="way" v="primary" />
-    <tag id="29329041" k="lanes" o="add" type="way" v="1" />
-    <tag id="29329041" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="29329041" k="oneway" o="add" type="way" v="yes" />
-    <tag id="29329041" k="ref" o="none" type="way" v="D 620" />
-    <tag id="29329041" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="33790358" k="admin_level" o="none" type="way" v="8" />
-    <tag id="33790358" k="boundary" o="none" type="way" v="administrative" />
-    <tag id="33790358" k="left:village" o="none" type="way" v="Volmunster" />
-    <tag id="33790358" k="name" o="none" type="way" v="Volmunster &#8212; Epping" />
-    <tag id="33790358" k="right:village" o="none" type="way" v="Epping" />
-    <tag id="33790358" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2009" />
-    <tag id="8746711" k="highway" o="none" type="way" v="primary" />
-    <tag id="8746711" k="junction" o="none" type="way" v="roundabout" />
-    <tag id="30768747" k="bicycle" o="add" type="way" v="no" />
-    <tag id="30768747" k="bridge" o="none" type="way" v="yes" />
-    <tag id="30768747" k="embankment" o="add" type="way" v="yes" />
-    <tag id="30768747" k="foot" o="add" type="way" v="no" />
-    <tag id="30768747" k="highway" o="modify" type="way" v="primary" />
-    <tag id="30768747" k="lanes" o="add" type="way" v="2" />
-    <tag id="30768747" k="layer" o="none" type="way" v="1" />
-    <tag id="30768747" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="30768747" k="oneway" o="add" type="way" v="no" />
-    <tag id="30768747" k="ref" o="none" type="way" v="D 620" />
-    <tag id="30768747" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="184152052" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="184152052" k="lanes" o="add" type="way" v="2" />
-    <tag id="184152052" k="oneway" o="add" type="way" v="no" />
-    <tag id="184152052" k="ref" o="none" type="way" v="D 162b" />
-    <tag id="184152052" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="8746956" k="bicycle" o="add" type="way" v="no" />
-    <tag id="8746956" k="embankment" o="add" type="way" v="yes" />
-    <tag id="8746956" k="foot" o="add" type="way" v="no" />
-    <tag id="8746956" k="highway" o="none" type="way" v="primary" />
-    <tag id="8746956" k="lanes" o="add" type="way" v="1" />
-    <tag id="8746956" k="oneway" o="add" type="way" v="-1" />
-    <tag id="8746956" k="ref" o="none" type="way" v="D 620" />
-    <tag id="8746956" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="44722222" k="CLC:code" o="none" type="way" v="231" />
-    <tag id="44722222" k="CLC:id" o="none" type="way" v="FR-21424" />
-    <tag id="44722222" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="44722222" k="landuse" o="none" type="way" v="meadow" />
-    <tag id="44722222" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="121201900" k="access" o="none" type="way" v="designated" />
-    <tag id="121201900" k="highway" o="modify" type="way" v="track" />
-    <tag id="121201900" k="motor_vehicle" o="none" type="way" v="no" />
-    <tag id="121201900" k="name" o="none" type="way" v="Chemin du Hohwald" />
-    <tag id="121201900" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="121201900" k="tracktype" o="modify" type="way" v="grade1" />
-    <tag id="42010909" k="CLC:code" o="none" type="way" v="211" />
-    <tag id="42010909" k="CLC:id" o="none" type="way" v="FR-21574" />
-    <tag id="42010909" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="42010909" k="landuse" o="none" type="way" v="farm" />
-    <tag id="42010909" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="121195445" k="highway" o="modify" type="way" v="track" />
-    <tag id="121195445" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="119369289" k="highway" o="none" type="way" v="track" />
-    <tag id="119369289" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="42233316" k="CLC:code" o="none" type="way" v="311" />
-    <tag id="42233316" k="CLC:id" o="none" type="way" v="FR-22102" />
-    <tag id="42233316" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="42233316" k="landuse" o="none" type="way" v="forest" />
-    <tag id="42233316" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="42233316" k="wood" o="none" type="way" v="deciduous" />
-    <tag id="45854396" k="CLC:code" o="none" type="way" v="312" />
-    <tag id="45854396" k="CLC:id" o="none" type="way" v="FR-21626" />
-    <tag id="45854396" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="45854396" k="landuse" o="none" type="way" v="forest" />
-    <tag id="45854396" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="45854396" k="wood" o="none" type="way" v="coniferous" />
-    <tag id="182972888" k="highway" o="modify" type="way" v="track" />
-    <tag id="182972888" k="oneway" o="none" type="way" v="no" />
-    <tag id="182972888" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="248058824" k="highway" o="none" type="way" v="trunk" />
-    <tag id="248058824" k="lanes" o="add" type="way" v="2" />
-    <tag id="248058824" k="oneway" o="none" type="way" v="yes" />
-    <tag id="248058824" k="ref" o="none" type="way" v="D 620" />
-    <tag id="248058824" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="248058826" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="248058826" k="lanes" o="none" type="way" v="1" />
-    <tag id="248058826" k="oneway" o="none" type="way" v="yes" />
-    <tag id="248058826" k="ref" o="none" type="way" v="D 620" />
-    <tag id="248058826" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="248058864" k="highway" o="none" type="way" v="trunk" />
-    <tag id="248058864" k="lanes" o="add" type="way" v="2" />
-    <tag id="248058864" k="oneway" o="none" type="way" v="yes" />
-    <tag id="248058864" k="ref" o="none" type="way" v="D 620" />
-    <tag id="248058864" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="119368591" k="highway" o="none" type="way" v="track" />
-    <tag id="119368591" k="note" o="none" type="way" v="tracktype:start=grade3" />
-    <tag id="35766867" k="highway" o="modify" type="way" v="secondary_link" />
-    <tag id="35766867" k="lanes" o="none" type="way" v="1" />
-    <tag id="35766867" k="oneway" o="none" type="way" v="yes" />
-    <tag id="35766867" k="ref" o="none" type="way" v="D 620" />
-    <tag id="35766867" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="248058859" k="highway" o="modify" type="way" v="secondary_link" />
-    <tag id="248058859" k="lanes" o="none" type="way" v="1" />
-    <tag id="248058859" k="oneway" o="none" type="way" v="yes" />
-    <tag id="248058859" k="ref" o="none" type="way" v="D 620" />
-    <tag id="248058859" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="35766868" k="highway" o="modify" type="way" v="secondary_link" />
-    <tag id="35766868" k="lanes" o="none" type="way" v="1" />
-    <tag id="35766868" k="oneway" o="none" type="way" v="yes" />
-    <tag id="35766868" k="ref" o="none" type="way" v="D 620" />
-    <tag id="35766868" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="248058858" k="highway" o="modify" type="way" v="secondary_link" />
-    <tag id="248058858" k="lanes" o="none" type="way" v="1" />
-    <tag id="248058858" k="oneway" o="none" type="way" v="yes" />
-    <tag id="248058858" k="ref" o="none" type="way" v="D 620" />
-    <tag id="248058858" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="34103735" k="bridge" o="add" type="way" v="yes" />
-    <tag id="34103735" k="highway" o="none" type="way" v="secondary" />
-    <tag id="34103735" k="lanes" o="none" type="way" v="2" />
-    <tag id="34103735" k="layer" o="add" type="way" v="1" />
-    <tag id="34103735" k="lcn" o="none" type="way" v="yes" />
-    <tag id="34103735" k="maxspeed" o="add" type="way" v="90" />
-    <tag id="34103735" k="name" o="none" type="way" v="G&#252;derkircherstra&#223;e" />
-    <tag id="34103735" k="oneway" o="add" type="way" v="no" />
-    <tag id="34103735" k="ref" o="none" type="way" v="D 84" />
-    <tag id="34103735" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="34047867" k="highway" o="none" type="way" v="secondary" />
-    <tag id="34047867" k="lanes" o="add" type="way" v="2" />
-    <tag id="34047867" k="layer" o="none" type="way" v="0" />
-    <tag id="34047867" k="name" o="none" type="way" v="Rue de Moulins" />
-    <tag id="34047867" k="oneway" o="add" type="way" v="no" />
-    <tag id="34047867" k="ref" o="none" type="way" v="D 84" />
-    <tag id="34047867" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="119368127" k="highway" o="none" type="way" v="track" />
-    <tag id="119368127" k="surface" o="none" type="way" v="dirt" />
-    <tag id="119368127" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="119368128" k="highway" o="none" type="way" v="track" />
-    <tag id="119368128" k="surface" o="none" type="way" v="gravel" />
-    <tag id="119368128" k="tracktype" o="add" type="way" v="grade3" />
-    <tag id="119368129" k="highway" o="none" type="way" v="track" />
-    <tag id="119368129" k="surface" o="none" type="way" v="paved" />
-    <tag id="119368129" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="216957225" k="highway" o="none" type="way" v="residential" />
-    <tag id="216957225" k="lanes" o="add" type="way" v="2" />
-    <tag id="216957225" k="lit" o="add" type="way" v="yes" />
-    <tag id="216957225" k="noexit" o="add" type="way" v="yes" />
-    <tag id="216957225" k="oneway" o="add" type="way" v="no" />
-    <tag id="216957225" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="216957228" k="highway" o="none" type="way" v="residential" />
-    <tag id="216957228" k="lanes" o="add" type="way" v="2" />
-    <tag id="216957228" k="lit" o="add" type="way" v="yes" />
-    <tag id="216957228" k="noexit" o="add" type="way" v="yes" />
-    <tag id="216957228" k="oneway" o="add" type="way" v="no" />
-    <tag id="216957228" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="216957229" k="highway" o="none" type="way" v="residential" />
-    <tag id="216957229" k="lanes" o="add" type="way" v="2" />
-    <tag id="216957229" k="lit" o="add" type="way" v="yes" />
-    <tag id="216957229" k="noexit" o="add" type="way" v="yes" />
-    <tag id="216957229" k="oneway" o="add" type="way" v="no" />
-    <tag id="216957229" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="44279950" k="name" o="none" type="way" v="Rimling" />
-    <tag id="44279950" k="place" o="none" type="way" v="village" />
-    <tag id="35769337" k="highway" o="none" type="way" v="residential" />
-    <tag id="42010908" k="CLC:code" o="none" type="way" v="112" />
-    <tag id="42010908" k="CLC:id" o="none" type="way" v="FR-21786" />
-    <tag id="42010908" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="42010908" k="landuse" o="none" type="way" v="residential" />
-    <tag id="42010908" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="106763555" k="highway" o="modify" type="way" v="service" />
-    <tag id="106763555" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="229546120" k="building" o="none" type="way" v="yes" />
-    <tag id="229546120" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2013" />
-    <tag id="106763553" k="highway" o="modify" type="way" v="service" />
-    <tag id="106763553" k="noexit" o="add" type="way" v="yes" />
-    <tag id="106763553" k="oneway" o="add" type="way" v="no" />
-    <tag id="106763553" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="35769338" k="highway" o="none" type="way" v="residential" />
-    <tag id="35769338" k="lanes" o="add" type="way" v="2" />
-    <tag id="35769338" k="lit" o="add" type="way" v="yes" />
-    <tag id="35769338" k="name" o="none" type="way" v="Rue de l'&#201;glise" />
-    <tag id="35769338" k="oneway" o="add" type="way" v="no" />
-    <tag id="35769338" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="206107438" k="landuse" o="none" type="way" v="cemetery" />
-    <tag id="206107438" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Imp&#244;ts - Cadastre. Mise &#224; jour : 2013" />
-    <tag id="106763538" k="amenity" o="none" type="way" v="place_of_worship" />
-    <tag id="106763538" k="building" o="none" type="way" v="yes" />
-    <tag id="106763538" k="building:use" o="add" type="way" v="chruch" />
-    <tag id="106763538" k="religion" o="add" type="way" v="christian" />
-    <tag id="229553740" k="highway" o="none" type="way" v="track" />
-    <tag id="229553740" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="106763548" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="106763548" k="lanes" o="add" type="way" v="2" />
-    <tag id="106763548" k="lit" o="add" type="way" v="yes" />
-    <tag id="106763548" k="name" o="none" type="way" v="Rue Principale" />
-    <tag id="106763548" k="oneway" o="add" type="way" v="no" />
-    <tag id="106763548" k="ref" o="none" type="way" v="D 84b" />
-    <tag id="106763548" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="41834692" k="CLC:code" o="none" type="way" v="112" />
-    <tag id="41834692" k="CLC:id" o="none" type="way" v="FR-21339" />
-    <tag id="41834692" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="41834692" k="landuse" o="none" type="way" v="residential" />
-    <tag id="41834692" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="179714504" k="CLC:code" o="none" type="way" v="231" />
-    <tag id="179714504" k="CLC:id" o="none" type="way" v="FR-20079" />
-    <tag id="179714504" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="179714504" k="landuse" o="none" type="way" v="meadow" />
-    <tag id="179714504" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="119367962" k="highway" o="none" type="way" v="track" />
-    <tag id="119367962" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="119367962" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="35769342" k="highway" o="none" type="way" v="residential" />
-    <tag id="35769342" k="lcn" o="none" type="way" v="yes" />
-    <tag id="35769342" k="name" o="none" type="way" v="Rue de la Chapelle" />
-    <tag id="35769342" k="tracktype" o="none" type="way" v="grade1" />
-    <tag id="229554834" k="building" o="none" type="way" v="yes" />
-    <tag id="229554834" k="source" o="none" type="way" v="cadastre-dgi-fr source : Direction G&#233;n&#233;rale des Finances Publiques - Cadastre. Mise &#224; jour : 2013" />
-    <tag id="114119676" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="114119676" k="highway" o="none" type="way" v="secondary" />
-    <tag id="114119676" k="lanes" o="add" type="way" v="2" />
-    <tag id="114119676" k="maxspeed" o="add" type="way" v="100" />
-    <tag id="114119676" k="oneway" o="add" type="way" v="no" />
-    <tag id="114119676" k="ref" o="none" type="way" v="L 101" />
-    <tag id="114119676" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="115207365" k="highway" o="none" type="way" v="track" />
-    <tag id="42010867" k="CLC:code" o="none" type="way" v="211" />
-    <tag id="42010867" k="CLC:id" o="none" type="way" v="FR-20393" />
-    <tag id="42010867" k="CLC:year" o="none" type="way" v="2006" />
-    <tag id="42010867" k="landuse" o="none" type="way" v="farm" />
-    <tag id="42010867" k="source" o="none" type="way" v="Union europ&#233;enne - SOeS, CORINE Land Cover, 2006." />
-    <tag id="138279404" k="landuse" o="none" type="way" v="residential" />
-    <tag id="138279404" k="name" o="none" type="way" v="Zollsiedlung" />
-    <tag id="115193990" k="layer" o="add" type="way" v="-1" />
-    <tag id="115193990" k="name" o="none" type="way" v="Herschbach" />
-    <tag id="115193990" k="tunnel" o="none" type="way" v="yes" />
-    <tag id="115193990" k="waterway" o="none" type="way" v="drain" />
-    <tag id="138279402" k="natural" o="modify" type="way" v="wood" />
-    <tag id="114119671" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="114119671" k="highway" o="none" type="way" v="secondary_link" />
-    <tag id="114119671" k="name" o="none" type="way" v="Riesweiler Stra&#223;e" />
-    <tag id="114119671" k="ref" o="none" type="way" v="L 102" />
-    <tag id="114119671" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="114119675" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="114119675" k="highway" o="none" type="way" v="secondary" />
-    <tag id="114119675" k="maxspeed" o="add" type="way" v="50" />
-    <tag id="114119675" k="name" o="none" type="way" v="G&#252;derkircherstra&#223;e" />
-    <tag id="114119675" k="ref" o="none" type="way" v="L 101" />
-    <tag id="114119675" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="83280711" k="highway" o="none" type="way" v="residential" />
-    <tag id="83280711" k="name" o="none" type="way" v="Utweilerweg" />
-    <tag id="83280711" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="29020667" k="highway" o="none" type="way" v="residential" />
-    <tag id="29020667" k="lanes" o="add" type="way" v="2" />
-    <tag id="29020667" k="layer" o="none" type="way" v="0" />
-    <tag id="29020667" k="lit" o="add" type="way" v="yes" />
-    <tag id="29020667" k="name" o="none" type="way" v="Bickenalbstra&#223;e" />
-    <tag id="29020667" k="oneway" o="add" type="way" v="no" />
-    <tag id="29020667" k="surface" o="none" type="way" v="paved" />
-    <tag id="29020667" k="width" o="none" type="way" v="4" />
-    <tag id="114119673" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="114119673" k="highway" o="none" type="way" v="secondary" />
-    <tag id="114119673" k="name" o="none" type="way" v="Riesweilerstra&#223;e" />
-    <tag id="114119673" k="ref" o="none" type="way" v="L 102" />
-    <tag id="114119673" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="114120320" k="highway" o="none" type="way" v="residential" />
-    <tag id="114120320" k="layer" o="none" type="way" v="0" />
-    <tag id="114120320" k="name" o="none" type="way" v="Bickenalbstra&#223;e" />
-    <tag id="114120320" k="surface" o="none" type="way" v="paved" />
-    <tag id="114120320" k="width" o="none" type="way" v="4" />
-    <tag id="114119674" k="highway" o="none" type="way" v="secondary" />
-    <tag id="114119674" k="lanes" o="add" type="way" v="2" />
-    <tag id="114119674" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="114119674" k="name" o="none" type="way" v="Riesweilerstra&#223;e" />
-    <tag id="114119674" k="ref" o="none" type="way" v="L 102" />
-    <tag id="114119674" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="41834643" k="landuse" o="none" type="way" v="residential" />
-    <tag id="41834643" k="name" o="add" type="way" v="Peppenkum" />
-    <tag id="41834643" k="place" o="add" type="way" v="village" />
-    <tag id="117590191" k="highway" o="none" type="way" v="track" />
-    <tag id="117590191" k="tracktype" o="add" type="way" v="grade4" />
-    <tag id="89617333" k="highway" o="none" type="way" v="residential" />
-    <tag id="89617333" k="lanes" o="add" type="way" v="2" />
-    <tag id="89617333" k="lit" o="add" type="way" v="yes" />
-    <tag id="89617333" k="name" o="none" type="way" v="Auf dem Flur" />
-    <tag id="89617333" k="noexit" o="add" type="way" v="yes" />
-    <tag id="89617333" k="oneway" o="add" type="way" v="no" />
-    <tag id="89617333" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="114120317" k="highway" o="none" type="way" v="residential" />
-    <tag id="114120317" k="lanes" o="add" type="way" v="2" />
-    <tag id="114120317" k="lit" o="add" type="way" v="yes" />
-    <tag id="114120317" k="name" o="none" type="way" v="Auf dem Flur" />
-    <tag id="114120317" k="noexit" o="add" type="way" v="yes" />
-    <tag id="114120317" k="oneway" o="add" type="way" v="no" />
-    <tag id="114120317" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="114120321" k="highway" o="none" type="way" v="footway" />
-    <tag id="114120321" k="surface" o="none" type="way" v="dirt" />
-    <tag id="114119672" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="114119672" k="highway" o="none" type="way" v="secondary" />
-    <tag id="114119672" k="name" o="none" type="way" v="Altheimer Stra&#223;e" />
-    <tag id="114119672" k="ref" o="none" type="way" v="L 101 / L 102" />
-    <tag id="114119677" k="highway" o="none" type="way" v="secondary" />
-    <tag id="114119677" k="name" o="none" type="way" v="Altheimer Stra&#223;e" />
-    <tag id="114119677" k="ref" o="none" type="way" v="L 101" />
-    <tag id="117590187" k="highway" o="modify" type="way" v="path" />
-    <tag id="117590195" k="highway" o="none" type="way" v="track" />
-    <tag id="117590195" k="tracktype" o="add" type="way" v="grade5" />
-    <tag id="30741624" k="highway" o="none" type="way" v="secondary" />
-    <tag id="30741624" k="name" o="none" type="way" v="Altheimer Stra&#223;e" />
-    <tag id="30741624" k="ref" o="none" type="way" v="L 101" />
-    <tag id="30741624" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="114120064" k="highway" o="modify" type="way" v="living_street" />
-    <tag id="114120064" k="lit" o="add" type="way" v="yes" />
-    <tag id="114120064" k="name" o="none" type="way" v="Utweilerweg" />
-    <tag id="114120064" k="noexit" o="add" type="way" v="yes" />
-    <tag id="114120064" k="oneway" o="add" type="way" v="no" />
-    <tag id="114120064" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="83280715" k="highway" o="none" type="way" v="track" />
-    <tag id="83280715" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="83280715" k="tracktype" o="add" type="way" v="grade1" />
-    <tag id="114120324" k="highway" o="none" type="way" v="service" />
-    <tag id="114120324" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="33390966" k="highway" o="none" type="way" v="tertiary" />
-    <tag id="33390966" k="ref" o="none" type="way" v="L 205" />
-    <tag id="114120318" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="114120318" k="foot" o="none" type="way" v="yes" />
-    <tag id="114120318" k="highway" o="none" type="way" v="residential" />
-    <tag id="114120318" k="name" o="none" type="way" v="M&#252;hlenweg" />
-    <tag id="114120318" k="surface" o="none" type="way" v="asphalt" />
-    <tag id="1253405" k="addr:postcode" o="none" type="relation" v="57720" />
-    <tag id="1253405" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="1253405" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="1253405" k="name" o="none" type="relation" v="Volmunster" />
-    <tag id="1253405" k="name:de" o="none" type="relation" v="Wollm&#252;nster" />
-    <tag id="1253405" k="ref:INSEE" o="none" type="relation" v="57732" />
-    <tag id="1253405" k="source:addr:postcode" o="none" type="relation" v="source of postcode is from osm nodes" />
-    <tag id="1253405" k="source:ref:INSEE" o="none" type="relation" v="source of ref is from osm nodes" />
-    <tag id="1253405" k="type" o="none" type="relation" v="boundary" />
-    <tag id="1253405" k="wikipedia" o="none" type="relation" v="fr:Volmunster" />
-    <tag id="115133" k="addr:postcode" o="none" type="relation" v="57720" />
-    <tag id="115133" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="115133" k="boundary" o="none" type="relation" v="administrative" />
     <tag id="115133" k="name" o="none" type="relation" v="Epping" />
-    <tag id="115133" k="ref:INSEE" o="none" type="relation" v="57195" />
-    <tag id="115133" k="source:addr:postcode" o="none" type="relation" v="source of postcode is from osm nodes" />
-    <tag id="115133" k="source:ref:INSEE" o="none" type="relation" v="source of ref is from osm nodes" />
     <tag id="115133" k="type" o="none" type="relation" v="boundary" />
+    <tag id="115133" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="115133" k="ref:INSEE" o="none" type="relation" v="57195" />
     <tag id="115133" k="wikipedia" o="none" type="relation" v="fr:Epping" />
+    <tag id="115133" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="115133" k="addr:postcode" o="none" type="relation" v="57720" />
+    <tag id="115133" k="source:ref:INSEE" o="none" type="relation" v="source of ref is from osm nodes" />
+    <tag id="115133" k="source:addr:postcode" o="none" type="relation" v="source of postcode is from osm nodes" />
+    <tag id="180535" k="ref" o="none" type="relation" v="M&#252;hlen" />
+    <tag id="180535" k="type" o="none" type="relation" v="route" />
+    <tag id="180535" k="route" o="none" type="relation" v="bicycle" />
     <tag id="180535" k="name:de" o="none" type="relation" v="Europ&#228;ischer M&#252;hlenradweg Hornbach Schwalb Bickenalb" />
     <tag id="180535" k="name:fr" o="none" type="relation" v="Circuit &#224; bicyclette des moulins sans fronti&#232;res entre les rivi&#232;res" />
     <tag id="180535" k="network" o="none" type="relation" v="lcn" />
-    <tag id="180535" k="ref" o="none" type="relation" v="M&#252;hlen" />
-    <tag id="180535" k="route" o="none" type="relation" v="bicycle" />
-    <tag id="180535" k="type" o="none" type="relation" v="route" />
+    <tag id="1253405" k="name" o="none" type="relation" v="Volmunster" />
+    <tag id="1253405" k="type" o="none" type="relation" v="boundary" />
+    <tag id="1253405" k="name:de" o="none" type="relation" v="Wollm&#252;nster" />
+    <tag id="1253405" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="1253405" k="ref:INSEE" o="none" type="relation" v="57732" />
+    <tag id="1253405" k="wikipedia" o="none" type="relation" v="fr:Volmunster" />
+    <tag id="1253405" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="1253405" k="addr:postcode" o="none" type="relation" v="57720" />
+    <tag id="1253405" k="source:ref:INSEE" o="none" type="relation" v="source of ref is from osm nodes" />
+    <tag id="1253405" k="source:addr:postcode" o="none" type="relation" v="source of postcode is from osm nodes" />
   </body>
 </changeset>

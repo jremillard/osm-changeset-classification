@@ -1,1 +1,25 @@
-<changeset id="56090938" schema="1"><counts nodesAdded="1" nodesModified="9" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="5" /><meta><tag k="changesets_count" v="136" /><tag k="comment" v="Poprawki" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Geoportal.gov.pl (Orthophotomap)" /><tag k="locale" v="pl" /></meta><body><tag id="558862885" k="crossing" o="add" type="way" v="zebra" /><tag id="558862885" k="footway" o="add" type="way" v="crossing" /><tag id="558862885" k="highway" o="add" type="way" v="footway" /></body></changeset>
+<changeset id="56090938" schema="2">
+  <counts nodesAdded="1" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="5" />
+  <meta>
+    <tag k="changesets_count" v="136" />
+    <tag k="comment" v="Poprawki" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Geoportal.gov.pl (Orthophotomap)" />
+    <tag k="locale" v="pl" />
+  </meta>
+  <body>
+    <tag id="5390082509" k="amenity" o="none" type="node" v="waste_basket" />
+    <tag id="537162432" k="footway" o="none" type="way" v="sidewalk" />
+    <tag id="537162432" k="highway" o="none" type="way" v="footway" />
+    <tag id="537162433" k="highway" o="none" type="way" v="footway" />
+    <tag id="551935172" k="footway" o="none" type="way" v="sidewalk" />
+    <tag id="551935172" k="highway" o="none" type="way" v="footway" />
+    <tag id="557693120" k="footway" o="none" type="way" v="sidewalk" />
+    <tag id="557693120" k="highway" o="none" type="way" v="footway" />
+    <tag id="558840234" k="highway" o="none" type="way" v="footway" />
+    <tag id="558862885" k="footway" o="add" type="way" v="crossing" />
+    <tag id="558862885" k="highway" o="add" type="way" v="footway" />
+    <tag id="558862885" k="crossing" o="add" type="way" v="zebra" />
+  </body>
+</changeset>

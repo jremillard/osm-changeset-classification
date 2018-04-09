@@ -1,1 +1,55 @@
-<changeset id="55655392" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="7" /><meta><tag k="changesets_count" v="3170" /><tag k="comment" v="Zebrapad Breestraat verwijderd en surfaces aangepast" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="PDOK Luchtfoto Beeldmateriaal 25cm" /><tag k="locale" v="nl" /></meta><body><tag id="537361064" k="surface" o="add" type="way" v="paving_stones" /><tag id="6629887" k="surface" o="modify" type="way" v="paving_stones" /><tag id="6629886" k="surface" o="modify" type="way" v="paving_stones" /><tag id="6632308" k="surface" o="modify" type="way" v="paving_stones" /><tag id="537361065" k="surface" o="add" type="way" v="paving_stones" /><tag id="6629219" k="surface" o="add" type="way" v="paving_stones" /><tag id="6629446" k="surface" o="add" type="way" v="paving_stones" /></body></changeset>
+<changeset id="55655392" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="7" />
+  <meta>
+    <tag k="changesets_count" v="3170" />
+    <tag k="comment" v="Zebrapad Breestraat verwijderd en surfaces aangepast" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="PDOK Luchtfoto Beeldmateriaal 25cm" />
+    <tag k="locale" v="nl" />
+  </meta>
+  <body>
+    <tag id="6629219" k="lit" o="none" type="way" v="yes" />
+    <tag id="6629219" k="mofa" o="none" type="way" v="designated" />
+    <tag id="6629219" k="name" o="none" type="way" v="Breestraat" />
+    <tag id="6629219" k="moped" o="none" type="way" v="designated" />
+    <tag id="6629219" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="6629219" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="6629219" k="traffic_sign" o="none" type="way" v="nl:G12a" />
+    <tag id="6629446" k="lit" o="none" type="way" v="yes" />
+    <tag id="6629446" k="mofa" o="none" type="way" v="designated" />
+    <tag id="6629446" k="name" o="none" type="way" v="Breestraat" />
+    <tag id="6629446" k="moped" o="none" type="way" v="designated" />
+    <tag id="6629446" k="highway" o="none" type="way" v="cycleway" />
+    <tag id="6629446" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="6629446" k="traffic_sign" o="none" type="way" v="nl:G12a" />
+    <tag id="6629886" k="name" o="none" type="way" v="Breestraat" />
+    <tag id="6629886" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6629886" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="6629886" k="surface" o="modify" type="way" v="paving_stones" />
+    <tag id="6629886" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="6629886" k="oneway:bicycle" o="none" type="way" v="no" />
+    <tag id="6629886" k="source:maxspeed" o="none" type="way" v="NL:zone30" />
+    <tag id="6629887" k="name" o="none" type="way" v="Breestraat" />
+    <tag id="6629887" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6629887" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="6629887" k="surface" o="modify" type="way" v="paving_stones" />
+    <tag id="6629887" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="6629887" k="cycleway:left" o="none" type="way" v="lane" />
+    <tag id="6629887" k="oneway:bicycle" o="none" type="way" v="no" />
+    <tag id="6629887" k="source:maxspeed" o="none" type="way" v="NL:zone30" />
+    <tag id="6632308" k="name" o="none" type="way" v="Breestraat" />
+    <tag id="6632308" k="oneway" o="none" type="way" v="yes" />
+    <tag id="6632308" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="6632308" k="surface" o="modify" type="way" v="paving_stones" />
+    <tag id="6632308" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="6632308" k="cycleway:left" o="none" type="way" v="lane" />
+    <tag id="6632308" k="oneway:bicycle" o="none" type="way" v="no" />
+    <tag id="6632308" k="source:maxspeed" o="none" type="way" v="NL:zone30" />
+    <tag id="537361064" k="highway" o="none" type="way" v="service" />
+    <tag id="537361064" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="537361065" k="access" o="none" type="way" v="private" />
+    <tag id="537361065" k="highway" o="none" type="way" v="service" />
+    <tag id="537361065" k="surface" o="add" type="way" v="paving_stones" />
+  </body>
+</changeset>

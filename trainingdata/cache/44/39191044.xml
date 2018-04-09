@@ -1,1 +1,30 @@
-<changeset id="39191044" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="2" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="Out of courtesy for guests checking in for rafting and moose tours to ensure a timely arrival." /><tag k="created_by" v="iD 1.9.4" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-US" /></meta><body><tag id="4173517237" k="addr:city" o="add" type="node" v="Shirley Mills" /><tag id="4173517237" k="addr:housenumber" o="add" type="node" v="155" /><tag id="4173517237" k="addr:postcode" o="add" type="node" v="04485" /><tag id="4173517237" k="addr:state" o="add" type="node" v="me" /><tag id="4173517237" k="addr:street" o="add" type="node" v="Greenville Road" /><tag id="4173517237" k="description" o="add" type="node" v="Whitewater rafting day and overnight rafting trips, Maine Moose Watching Canoe tours, Waterfall Hikes, Kayaking and outdoor instruction programs." /><tag id="4173517237" k="name" o="add" type="node" v="Northeast Whitewater" /></body></changeset>
+<changeset id="39191044" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="Out of courtesy for guests checking in for rafting and moose tours to ensure a timely arrival." />
+    <tag k="created_by" v="iD 1.9.4" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4173517237" k="name" o="add" type="node" v="Northeast Whitewater" />
+    <tag id="4173517237" k="addr:city" o="add" type="node" v="Shirley Mills" />
+    <tag id="4173517237" k="addr:state" o="add" type="node" v="me" />
+    <tag id="4173517237" k="addr:street" o="add" type="node" v="Greenville Road" />
+    <tag id="4173517237" k="description" o="add" type="node" v="Whitewater rafting day and overnight rafting trips, Maine Moose Watching Canoe tours, Waterfall Hikes, Kayaking and outdoor instruction programs." />
+    <tag id="4173517237" k="addr:postcode" o="add" type="node" v="04485" />
+    <tag id="4173517237" k="addr:housenumber" o="add" type="node" v="155" />
+    <tag id="2403979" k="ref" o="none" type="relation" v="6" />
+    <tag id="2403979" k="name" o="none" type="relation" v="ME 6" />
+    <tag id="2403979" k="type" o="none" type="relation" v="route" />
+    <tag id="2403979" k="route" o="none" type="relation" v="road" />
+    <tag id="2403979" k="network" o="none" type="relation" v="US:ME" />
+    <tag id="2406000" k="ref" o="none" type="relation" v="15" />
+    <tag id="2406000" k="name" o="none" type="relation" v="ME 15" />
+    <tag id="2406000" k="type" o="none" type="relation" v="route" />
+    <tag id="2406000" k="route" o="none" type="relation" v="road" />
+    <tag id="2406000" k="network" o="none" type="relation" v="US:ME" />
+    <tag id="2406000" k="is_in:state" o="none" type="relation" v="ME" />
+  </body>
+</changeset>

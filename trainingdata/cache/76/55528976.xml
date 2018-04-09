@@ -1,1 +1,42 @@
-<changeset id="55528976" schema="1"><counts nodesAdded="365" nodesModified="0" relationsAdded="1" relationsModified="2" waysAdded="2" waysModified="1" /><meta><tag k="build" v="2.5-21-gec1befed" /><tag k="comment" v="brandsby cum ,,,, cp" /><tag k="created_by" v="Potlatch 2" /><tag k="version" v="2.5" /></meta><body><tag id="553811306" k="admin_level" o="add" type="way" v="10" /><tag id="553811306" k="boundary" o="add" type="way" v="administrative" /><tag id="553811306" k="source" o="add" type="way" v="OS_OpenData_Boundary-Line" /><tag id="553811307" k="admin_level" o="add" type="way" v="10" /><tag id="553811307" k="boundary" o="add" type="way" v="administrative" /><tag id="553811307" k="source" o="add" type="way" v="OS_OpenData_Boundary-Line" /><tag id="7910011" k="admin_level" o="add" type="relation" v="10" /><tag id="7910011" k="boundary" o="add" type="relation" v="administrative" /><tag id="7910011" k="designation" o="add" type="relation" v="civil_parish" /><tag id="7910011" k="name" o="add" type="relation" v="Brandsby-cum-Stearsby" /><tag id="7910011" k="ref:gss" o="add" type="relation" v="E04007145" /><tag id="7910011" k="type" o="add" type="relation" v="boundary" /></body></changeset>
+<changeset id="55528976" schema="2">
+  <counts nodesAdded="365" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="2" waysAdded="2" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="build" v="2.5-21-gec1befed" />
+    <tag k="comment" v="brandsby cum ,,,, cp" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.5" />
+  </meta>
+  <body>
+    <tag id="553786967" k="source" o="none" type="way" v="OS_OpenData_Boundary-Line" />
+    <tag id="553786967" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="553786967" k="admin_level" o="none" type="way" v="10" />
+    <tag id="553811306" k="source" o="add" type="way" v="OS_OpenData_Boundary-Line" />
+    <tag id="553811306" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="553811306" k="admin_level" o="add" type="way" v="10" />
+    <tag id="553811307" k="source" o="add" type="way" v="OS_OpenData_Boundary-Line" />
+    <tag id="553811307" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="553811307" k="admin_level" o="add" type="way" v="10" />
+    <tag id="150966" k="name" o="none" type="relation" v="Hambleton" />
+    <tag id="150966" k="type" o="none" type="relation" v="boundary" />
+    <tag id="150966" k="ref:gss" o="none" type="relation" v="E07000164" />
+    <tag id="150966" k="website" o="none" type="relation" v="https://www.hambleton.gov.uk/" />
+    <tag id="150966" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="150966" k="ons_code" o="none" type="relation" v="36UC" />
+    <tag id="150966" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="150966" k="designation" o="none" type="relation" v="non_metropolitan_district" />
+    <tag id="150966" k="council_name" o="none" type="relation" v="Hambleton District Council" />
+    <tag id="150966" k="source:ons_code" o="none" type="relation" v="OS_OpenData_CodePoint Codelist.txt" />
+    <tag id="7909822" k="name" o="none" type="relation" v="Marton-cum-Moxby" />
+    <tag id="7909822" k="type" o="none" type="relation" v="boundary" />
+    <tag id="7909822" k="ref:gss" o="none" type="relation" v="E04007223" />
+    <tag id="7909822" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="7909822" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="7909822" k="designation" o="none" type="relation" v="civil_parish" />
+    <tag id="7910011" k="name" o="add" type="relation" v="Brandsby-cum-Stearsby" />
+    <tag id="7910011" k="type" o="add" type="relation" v="boundary" />
+    <tag id="7910011" k="ref:gss" o="add" type="relation" v="E04007145" />
+    <tag id="7910011" k="boundary" o="add" type="relation" v="administrative" />
+    <tag id="7910011" k="admin_level" o="add" type="relation" v="10" />
+    <tag id="7910011" k="designation" o="add" type="relation" v="civil_parish" />
+  </body>
+</changeset>

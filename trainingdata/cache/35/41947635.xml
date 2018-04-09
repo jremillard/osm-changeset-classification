@@ -1,31 +1,31 @@
 <changeset id="41947635" schema="2">
-  <counts nodesAdded="45" nodesDeleted="10" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="6" waysDeleted="1" waysModified="3" />
+  <counts nodesAdded="45" nodesDeleted="10" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="6" waysDeleted="1" waysModified="4" />
   <meta>
     <tag k="comment" v="note #701751" />
     <tag k="created_by" v="Merkaartor 0.18 (de)" />
   </meta>
   <body>
     <tag id="4386734428" k="barrier" o="add" type="node" v="gate" />
-    <tag id="440902705" k="addr2:housenumber" o="add" type="way" v="1" />
+    <tag id="29044348" k="name" o="none" type="way" v="Karl-Krestan-Gasse" />
+    <tag id="29044348" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29044348" k="highway" o="none" type="way" v="residential" />
+    <tag id="56208886" k="name" o="none" type="way" v="Draschestra&#223;e" />
+    <tag id="56208886" k="oneway" o="none" type="way" v="yes" />
+    <tag id="56208886" k="highway" o="none" type="way" v="secondary" />
+    <tag id="56208886" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="56208886" k="source:maxspeed" o="none" type="way" v="AT:urban" />
+    <tag id="440902705" k="name" o="add" type="way" v="Volksschule Draschestra&#223;e" />
+    <tag id="440902705" k="amenity" o="add" type="way" v="school" />
+    <tag id="440902705" k="addr:street" o="add" type="way" v="Draschestra&#223;e" />
     <tag id="440902705" k="addr2:street" o="add" type="way" v="Karl-Krestan-Gasse" />
     <tag id="440902705" k="addr:housenumber" o="add" type="way" v="96" />
-    <tag id="440902705" k="addr:street" o="add" type="way" v="Draschestra&#223;e" />
-    <tag id="440902705" k="amenity" o="add" type="way" v="school" />
-    <tag id="440902705" k="name" o="add" type="way" v="Volksschule Draschestra&#223;e" />
-    <tag id="6563953" k="building" o="add" type="relation" v="yes" />
-    <tag id="6563953" k="type" o="add" type="relation" v="multipolygon" />
-    <tag id="6563953" k="wheelchair" o="add" type="relation" v="no" />
+    <tag id="440902705" k="addr2:housenumber" o="add" type="way" v="1" />
     <tag id="440902707" k="highway" o="add" type="way" v="footway" />
     <tag id="440902708" k="highway" o="add" type="way" v="footway" />
     <tag id="440902709" k="building" o="add" type="way" v="yes" />
     <tag id="440902710" k="leisure" o="add" type="way" v="swimming_pool" />
-    <tag id="29044348" k="highway" o="none" type="way" v="residential" />
-    <tag id="29044348" k="name" o="none" type="way" v="Karl-Krestan-Gasse" />
-    <tag id="29044348" k="oneway" o="none" type="way" v="yes" />
-    <tag id="56208886" k="highway" o="none" type="way" v="secondary" />
-    <tag id="56208886" k="maxspeed" o="none" type="way" v="50" />
-    <tag id="56208886" k="name" o="none" type="way" v="Draschestra&#223;e" />
-    <tag id="56208886" k="oneway" o="none" type="way" v="yes" />
-    <tag id="56208886" k="source:maxspeed" o="none" type="way" v="AT:urban" />
+    <tag id="6563953" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="6563953" k="building" o="add" type="relation" v="yes" />
+    <tag id="6563953" k="wheelchair" o="add" type="relation" v="no" />
   </body>
 </changeset>

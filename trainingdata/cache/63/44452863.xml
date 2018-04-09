@@ -1,1 +1,31 @@
-<changeset id="44452863" schema="1"><counts nodesAdded="4" nodesModified="0" relationsAdded="1" relationsModified="0" waysAdded="1" waysModified="1" /><meta><tag k="comment" v="Added Business location and access road" /><tag k="created_by" v="iD 2.0.1" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="4557494472" k="addr:city" o="add" type="node" v="Reinholds" /><tag id="4557494472" k="addr:housenumber" o="add" type="node" v="85" /><tag id="4557494472" k="addr:postcode" o="add" type="node" v="17569" /><tag id="4557494472" k="addr:state" o="add" type="node" v="pa" /><tag id="4557494472" k="addr:street" o="add" type="node" v="Creamery Road" /><tag id="4557494472" k="description" o="add" type="node" v="Creating exceptional outdoor living spaces.&#10;" /><tag id="4557494472" k="name" o="add" type="node" v="A Plus Landscaping" /><tag id="460067426" k="highway" o="add" type="way" v="unclassified" /></body></changeset>
+<changeset id="44452863" schema="2">
+  <counts nodesAdded="4" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Added Business location and access road" />
+    <tag k="created_by" v="iD 2.0.1" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4557494472" k="name" o="add" type="node" v="A Plus Landscaping" />
+    <tag id="4557494472" k="addr:city" o="add" type="node" v="Reinholds" />
+    <tag id="4557494472" k="addr:state" o="add" type="node" v="pa" />
+    <tag id="4557494472" k="addr:street" o="add" type="node" v="Creamery Road" />
+    <tag id="4557494472" k="description" o="add" type="node" v="Creating exceptional outdoor living spaces.&#10;" />
+    <tag id="4557494472" k="addr:postcode" o="add" type="node" v="17569" />
+    <tag id="4557494472" k="addr:housenumber" o="add" type="node" v="85" />
+    <tag id="196814316" k="name" o="none" type="way" v="Creamery Road" />
+    <tag id="196814316" k="name_1" o="none" type="way" v="T989" />
+    <tag id="196814316" k="highway" o="none" type="way" v="residential" />
+    <tag id="196814316" k="tiger:cfcc" o="none" type="way" v="A41" />
+    <tag id="196814316" k="tiger:county" o="none" type="way" v="Lancaster, PA" />
+    <tag id="196814316" k="tiger:reviewed" o="none" type="way" v="no" />
+    <tag id="196814316" k="tiger:zip_left" o="none" type="way" v="17517" />
+    <tag id="196814316" k="tiger:name_base" o="none" type="way" v="Creamery" />
+    <tag id="196814316" k="tiger:name_type" o="none" type="way" v="Rd" />
+    <tag id="196814316" k="tiger:zip_right" o="none" type="way" v="17517" />
+    <tag id="196814316" k="tiger:name_base_1" o="none" type="way" v="T989" />
+    <tag id="460067426" k="highway" o="add" type="way" v="unclassified" />
+  </body>
+</changeset>

@@ -9,6 +9,24 @@
     <tag k="platform" v="Windows" />
   </meta>
   <body>
+    <tag id="3508699748" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3508699749" k="railway" o="add" type="node" v="level_crossing" />
+    <tag id="3508699763" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3508699763" k="traffic_signals:direction" o="add" type="node" v="forward" />
+    <tag id="3508699774" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3508699774" k="traffic_signals:direction" o="add" type="node" v="backward" />
+    <tag id="3508699776" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3508699776" k="crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="3508699784" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3508699784" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="3508700800" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3508700800" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="3508700805" k="highway" o="add" type="node" v="traffic_signals" />
+    <tag id="3508700805" k="traffic_signals:direction" o="add" type="node" v="forward" />
+    <tag id="3508700806" k="name" o="add" type="node" v="Osiedle Matejki" />
+    <tag id="3508700806" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="3508700807" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3508700807" k="crossing" o="add" type="node" v="traffic_signals" />
     <tag id="24361856" k="name" o="none" type="way" v="1 Maja" />
     <tag id="24361856" k="lanes" o="none" type="way" v="3" />
     <tag id="24361856" k="source" o="none" type="way" v="survey" />

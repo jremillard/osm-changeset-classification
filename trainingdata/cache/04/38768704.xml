@@ -1,1 +1,28 @@
-<changeset id="38768704" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="comment" v="I added name and address of my office building, and then added information on my office suite, which is a coworking space for tech related people and also used as meeting space, classroom, etc." /><tag k="created_by" v="iD 1.9.2" /><tag k="host" v="https://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-US" /></meta><body><tag id="4139431073" k="addr:city" o="add" type="node" v="Aurora" /><tag id="4139431073" k="addr:housenumber" o="add" type="node" v="1010" /><tag id="4139431073" k="addr:postcode" o="add" type="node" v="80012" /><tag id="4139431073" k="addr:state" o="add" type="node" v="CO" /><tag id="4139431073" k="addr:street" o="add" type="node" v="South Joliet Street, Suite 104" /><tag id="4139431073" k="description" o="add" type="node" v="Coworking Space, Meeting Rooms for Rent, Classroom for Rent, Event Center, Venue, Meetup Spot, Web Developers, Search Engine Optimization (SEO), Digital Marketing Agency" /><tag id="4139431073" k="name" o="add" type="node" v="Coworking Aurora" /><tag id="4139431073" k="website" o="add" type="node" v="http://coworkingaurora.com" /><tag id="326165231" k="addr:city" o="add" type="way" v="Aurora" /><tag id="326165231" k="addr:housenumber" o="add" type="way" v="1010" /><tag id="326165231" k="addr:postcode" o="add" type="way" v="80012" /><tag id="326165231" k="addr:state" o="add" type="way" v="CO" /><tag id="326165231" k="addr:street" o="add" type="way" v="South Joliet Street" /><tag id="326165231" k="building:levels" o="add" type="way" v="2" /><tag id="326165231" k="name" o="add" type="way" v="Havana Gardens" /></body></changeset>
+<changeset id="38768704" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="I added name and address of my office building, and then added information on my office suite, which is a coworking space for tech related people and also used as meeting space, classroom, etc." />
+    <tag k="created_by" v="iD 1.9.2" />
+    <tag k="host" v="https://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4139431073" k="name" o="add" type="node" v="Coworking Aurora" />
+    <tag id="4139431073" k="website" o="add" type="node" v="http://coworkingaurora.com" />
+    <tag id="4139431073" k="addr:city" o="add" type="node" v="Aurora" />
+    <tag id="4139431073" k="addr:state" o="add" type="node" v="CO" />
+    <tag id="4139431073" k="addr:street" o="add" type="node" v="South Joliet Street, Suite 104" />
+    <tag id="4139431073" k="description" o="add" type="node" v="Coworking Space, Meeting Rooms for Rent, Classroom for Rent, Event Center, Venue, Meetup Spot, Web Developers, Search Engine Optimization (SEO), Digital Marketing Agency" />
+    <tag id="4139431073" k="addr:postcode" o="add" type="node" v="80012" />
+    <tag id="4139431073" k="addr:housenumber" o="add" type="node" v="1010" />
+    <tag id="326165231" k="name" o="add" type="way" v="Havana Gardens" />
+    <tag id="326165231" k="building" o="none" type="way" v="office" />
+    <tag id="326165231" k="addr:city" o="add" type="way" v="Aurora" />
+    <tag id="326165231" k="addr:state" o="add" type="way" v="CO" />
+    <tag id="326165231" k="addr:street" o="add" type="way" v="South Joliet Street" />
+    <tag id="326165231" k="addr:postcode" o="add" type="way" v="80012" />
+    <tag id="326165231" k="building:levels" o="add" type="way" v="2" />
+    <tag id="326165231" k="addr:housenumber" o="add" type="way" v="1010" />
+  </body>
+</changeset>

@@ -1,1 +1,15 @@
-<changeset id="56284187" schema="1"><counts nodesAdded="0" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="1" /><meta><tag k="comment" v="Modified service roads in Sacramento" /><tag k="created_by" v="JOSM/1.5 (13367 en)" /><tag k="source" v="Mapbox Satellite" /></meta><body><tag id="560641814" k="highway" o="add" type="way" v="service" /><tag id="560641814" k="service" o="add" type="way" v="parking_aisle" /></body></changeset>
+<changeset id="56284187" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Modified service roads in Sacramento" />
+    <tag k="created_by" v="JOSM/1.5 (13367 en)" />
+    <tag k="source" v="Mapbox Satellite" />
+  </meta>
+  <body>
+    <tag id="500038687" k="oneway" o="none" type="way" v="yes" />
+    <tag id="500038687" k="highway" o="none" type="way" v="service" />
+    <tag id="500038687" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="560641814" k="highway" o="add" type="way" v="service" />
+    <tag id="560641814" k="service" o="add" type="way" v="parking_aisle" />
+  </body>
+</changeset>

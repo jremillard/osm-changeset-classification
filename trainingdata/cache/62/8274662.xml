@@ -1,5 +1,5 @@
 <changeset id="8274662" schema="2">
-  <counts nodesAdded="18" nodesDeleted="1" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="1" waysModified="7" />
+  <counts nodesAdded="18" nodesDeleted="1" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="1" waysModified="8" />
   <meta>
     <tag k="build" v="2.1-21-g5f128f5" />
     <tag k="comment" v="St . Wendel 20110528#01" />
@@ -7,24 +7,43 @@
     <tag k="version" v="2.1" />
   </meta>
   <body>
-    <tag id="115393012" k="addr:housenumber" o="add" type="way" v="56" />
-    <tag id="115393012" k="addr:street" o="add" type="way" v="Am Schlaufenglan" />
-    <tag id="115393012" k="building" o="add" type="way" v="yes" />
-    <tag id="115393012" k="building:use" o="add" type="way" v="residential" />
-    <tag id="115393015" k="building" o="add" type="way" v="yes" />
-    <tag id="115393016" k="landuse" o="add" type="way" v="reservoir" />
     <tag id="304108364" k="highway" o="add" type="node" v="turning_circle" />
-    <tag id="115393442" k="access" o="add" type="way" v="yes" />
-    <tag id="115393442" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="115393442" k="cycleway" o="add" type="way" v="no" />
-    <tag id="115393442" k="foot" o="add" type="way" v="yes" />
-    <tag id="115393442" k="highway" o="add" type="way" v="living_street" />
-    <tag id="115393442" k="horse" o="add" type="way" v="yes" />
-    <tag id="115393442" k="maxspeed" o="add" type="way" v="10" />
-    <tag id="115393442" k="motor_vehicle" o="add" type="way" v="yes" />
-    <tag id="115393442" k="name" o="add" type="way" v="Gregor-Wolf-Stra&#223;e" />
-    <tag id="115393442" k="oneway" o="add" type="way" v="no" />
-    <tag id="115393442" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="25576150" k="name" o="none" type="way" v="Am Schlaufenglan" />
+    <tag id="25576150" k="horse" o="add" type="way" v="yes" />
+    <tag id="25576150" k="lanes" o="add" type="way" v="2" />
+    <tag id="25576150" k="access" o="add" type="way" v="yes" />
+    <tag id="25576150" k="oneway" o="add" type="way" v="no" />
+    <tag id="25576150" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="25576150" k="highway" o="none" type="way" v="residential" />
+    <tag id="25576150" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25576150" k="cycleway" o="add" type="way" v="no" />
+    <tag id="25576150" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25576150" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="25576151" k="name" o="none" type="way" v="Berzbergstra&#223;e" />
+    <tag id="25576151" k="horse" o="add" type="way" v="yes" />
+    <tag id="25576151" k="lanes" o="add" type="way" v="2" />
+    <tag id="25576151" k="access" o="add" type="way" v="yes" />
+    <tag id="25576151" k="oneway" o="add" type="way" v="no" />
+    <tag id="25576151" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="25576151" k="highway" o="none" type="way" v="residential" />
+    <tag id="25576151" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="25576151" k="cycleway" o="add" type="way" v="no" />
+    <tag id="25576151" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="25576151" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="25576152" k="foot" o="add" type="way" v="yes" />
+    <tag id="25576152" k="name" o="none" type="way" v="Gregor-Wolf-Stra&#223;e" />
+    <tag id="25576152" k="horse" o="add" type="way" v="yes" />
+    <tag id="25576152" k="access" o="add" type="way" v="yes" />
+    <tag id="25576152" k="oneway" o="add" type="way" v="no" />
+    <tag id="25576152" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="25576152" k="highway" o="none" type="way" v="living_street" />
+    <tag id="25576152" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="25576152" k="cycleway" o="add" type="way" v="no" />
+    <tag id="25576152" k="maxspeed" o="add" type="way" v="10" />
+    <tag id="25576152" k="motor_vehicle" o="add" type="way" v="yes" />
+    <tag id="25837012" k="name" o="none" type="way" v="HIL Heerinstandsetzungslogistik GmbH" />
+    <tag id="25837012" k="landuse" o="modify" type="way" v="military" />
+    <tag id="25837012" k="contact:website" o="add" type="way" v="http://www.hilgmbh.de" />
     <tag id="33687573" k="access" o="none" type="way" v="designated" />
     <tag id="33687573" k="highway" o="none" type="way" v="track" />
     <tag id="33687573" k="surface" o="none" type="way" v="paved" />
@@ -36,41 +55,22 @@
     <tag id="34844210" k="highway" o="none" type="way" v="track" />
     <tag id="34844210" k="surface" o="none" type="way" v="dirt" />
     <tag id="34844210" k="tracktype" o="none" type="way" v="grade4" />
-    <tag id="25576152" k="access" o="add" type="way" v="yes" />
-    <tag id="25576152" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="25576152" k="cycleway" o="add" type="way" v="no" />
-    <tag id="25576152" k="foot" o="add" type="way" v="yes" />
-    <tag id="25576152" k="highway" o="none" type="way" v="living_street" />
-    <tag id="25576152" k="horse" o="add" type="way" v="yes" />
-    <tag id="25576152" k="maxspeed" o="add" type="way" v="10" />
-    <tag id="25576152" k="motor_vehicle" o="add" type="way" v="yes" />
-    <tag id="25576152" k="name" o="none" type="way" v="Gregor-Wolf-Stra&#223;e" />
-    <tag id="25576152" k="oneway" o="add" type="way" v="no" />
-    <tag id="25576152" k="surface" o="add" type="way" v="paving_stones" />
-    <tag id="25576150" k="access" o="add" type="way" v="yes" />
-    <tag id="25576150" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="25576150" k="cycleway" o="add" type="way" v="no" />
-    <tag id="25576150" k="highway" o="none" type="way" v="residential" />
-    <tag id="25576150" k="horse" o="add" type="way" v="yes" />
-    <tag id="25576150" k="lanes" o="add" type="way" v="2" />
-    <tag id="25576150" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="25576150" k="motor_vehicle" o="add" type="way" v="yes" />
-    <tag id="25576150" k="name" o="none" type="way" v="Am Schlaufenglan" />
-    <tag id="25576150" k="oneway" o="add" type="way" v="no" />
-    <tag id="25576150" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25576151" k="access" o="add" type="way" v="yes" />
-    <tag id="25576151" k="bicycle" o="add" type="way" v="yes" />
-    <tag id="25576151" k="cycleway" o="add" type="way" v="no" />
-    <tag id="25576151" k="highway" o="none" type="way" v="residential" />
-    <tag id="25576151" k="horse" o="add" type="way" v="yes" />
-    <tag id="25576151" k="lanes" o="add" type="way" v="2" />
-    <tag id="25576151" k="maxspeed" o="none" type="way" v="30" />
-    <tag id="25576151" k="motor_vehicle" o="add" type="way" v="yes" />
-    <tag id="25576151" k="name" o="none" type="way" v="Berzbergstra&#223;e" />
-    <tag id="25576151" k="oneway" o="add" type="way" v="no" />
-    <tag id="25576151" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="25837012" k="contact:website" o="add" type="way" v="http://www.hilgmbh.de" />
-    <tag id="25837012" k="landuse" o="modify" type="way" v="military" />
-    <tag id="25837012" k="name" o="none" type="way" v="HIL Heerinstandsetzungslogistik GmbH" />
+    <tag id="115393012" k="building" o="add" type="way" v="yes" />
+    <tag id="115393012" k="addr:street" o="add" type="way" v="Am Schlaufenglan" />
+    <tag id="115393012" k="building:use" o="add" type="way" v="residential" />
+    <tag id="115393012" k="addr:housenumber" o="add" type="way" v="56" />
+    <tag id="115393015" k="building" o="add" type="way" v="yes" />
+    <tag id="115393016" k="landuse" o="add" type="way" v="reservoir" />
+    <tag id="115393442" k="foot" o="add" type="way" v="yes" />
+    <tag id="115393442" k="name" o="add" type="way" v="Gregor-Wolf-Stra&#223;e" />
+    <tag id="115393442" k="horse" o="add" type="way" v="yes" />
+    <tag id="115393442" k="access" o="add" type="way" v="yes" />
+    <tag id="115393442" k="oneway" o="add" type="way" v="no" />
+    <tag id="115393442" k="bicycle" o="add" type="way" v="yes" />
+    <tag id="115393442" k="highway" o="add" type="way" v="living_street" />
+    <tag id="115393442" k="surface" o="add" type="way" v="paving_stones" />
+    <tag id="115393442" k="cycleway" o="add" type="way" v="no" />
+    <tag id="115393442" k="maxspeed" o="add" type="way" v="10" />
+    <tag id="115393442" k="motor_vehicle" o="add" type="way" v="yes" />
   </body>
 </changeset>

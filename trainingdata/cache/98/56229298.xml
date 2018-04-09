@@ -1,1 +1,20 @@
-<changeset id="56229298" schema="1"><counts nodesAdded="134" nodesModified="48" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="5" /><meta><tag k="comment" v="Aligning and smoothing secondary" /><tag k="created_by" v="JOSM/1.5 (13367 en)" /><tag k="source" v="DigitalGlobe Premium" /></meta><body><tag id="560202489" k="highway" o="add" type="way" v="residential" /><tag id="560202490" k="highway" o="add" type="way" v="tertiary" /><tag id="560202490" k="ref" o="add" type="way" v="CHA70S" /><tag id="560202491" k="highway" o="add" type="way" v="residential" /><tag id="260051428" k="highway" o="modify" type="way" v="unclassified" /></body></changeset>
+<changeset id="56229298" schema="2">
+  <counts nodesAdded="134" nodesDeleted="41" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="2" waysModified="7" />
+  <meta>
+    <tag k="comment" v="Aligning and smoothing secondary" />
+    <tag k="created_by" v="JOSM/1.5 (13367 en)" />
+    <tag k="source" v="DigitalGlobe Premium" />
+  </meta>
+  <body>
+    <tag id="260050506" k="highway" o="none" type="way" v="secondary" />
+    <tag id="260051427" k="highway" o="none" type="way" v="secondary" />
+    <tag id="260051428" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="262613557" k="ref" o="none" type="way" v="CHA70S" />
+    <tag id="262613557" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="350917896" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="560202489" k="highway" o="add" type="way" v="residential" />
+    <tag id="560202490" k="ref" o="add" type="way" v="CHA70S" />
+    <tag id="560202490" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="560202491" k="highway" o="add" type="way" v="residential" />
+  </body>
+</changeset>

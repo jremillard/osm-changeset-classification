@@ -1,5 +1,5 @@
 <changeset id="14747538" schema="2">
-  <counts nodesAdded="107" nodesDeleted="95" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="2" />
+  <counts nodesAdded="107" nodesDeleted="95" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="4" waysAdded="1" waysDeleted="1" waysModified="3" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of P&#345;&#225;slavice (relation 429435)." />
@@ -8,44 +8,44 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="202428878" k="admin_level" o="add" type="way" v="8" />
-    <tag id="202428878" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="202428878" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="179553777" k="admin_level" o="none" type="way" v="8" />
-    <tag id="179553777" k="boundary" o="none" type="way" v="administrative" />
-    <tag id="179553777" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="179553677" k="admin_level" o="none" type="way" v="8" />
-    <tag id="179553677" k="boundary" o="none" type="way" v="administrative" />
     <tag id="179553677" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="426380" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="426380" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="426380" k="name" o="none" type="relation" v="Bo&#345;etice" />
+    <tag id="179553677" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179553677" k="admin_level" o="none" type="way" v="8" />
+    <tag id="179553777" k="source" o="none" type="way" v="cuzk:ruian" />
+    <tag id="179553777" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="179553777" k="admin_level" o="none" type="way" v="8" />
+    <tag id="202428878" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="202428878" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="202428878" k="admin_level" o="add" type="way" v="8" />
     <tag id="426380" k="ref" o="none" type="relation" v="608149" />
-    <tag id="426380" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="426380" k="name" o="none" type="relation" v="Bo&#345;etice" />
     <tag id="426380" k="type" o="none" type="relation" v="boundary" />
-    <tag id="429435" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="429435" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="429435" k="name" o="none" type="relation" v="P&#345;&#225;slavice" />
+    <tag id="426380" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="426380" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="426380" k="admin_level" o="none" type="relation" v="10" />
     <tag id="429435" k="ref" o="none" type="relation" v="734098" />
-    <tag id="429435" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="429435" k="name" o="none" type="relation" v="P&#345;&#225;slavice" />
     <tag id="429435" k="type" o="none" type="relation" v="boundary" />
-    <tag id="442315" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="442315" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="442315" k="name" o="none" type="relation" v="Bo&#345;etice" />
-    <tag id="442315" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="442315" k="population" o="none" type="relation" v="70" />
-    <tag id="442315" k="ref" o="none" type="relation" v="CZ0633561240" />
-    <tag id="442315" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="442315" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
-    <tag id="442315" k="type" o="none" type="relation" v="boundary" />
-    <tag id="441045" k="admin_level" o="none" type="relation" v="8" />
-    <tag id="441045" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="441045" k="name" o="none" type="relation" v="Sam&#353;&#237;n" />
-    <tag id="441045" k="name:prefix" o="none" type="relation" v="obec" />
-    <tag id="441045" k="population" o="none" type="relation" v="161" />
+    <tag id="429435" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="429435" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="429435" k="admin_level" o="none" type="relation" v="10" />
     <tag id="441045" k="ref" o="none" type="relation" v="CZ0633548740" />
-    <tag id="441045" k="source" o="none" type="relation" v="cuzk" />
-    <tag id="441045" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="441045" k="name" o="none" type="relation" v="Sam&#353;&#237;n" />
     <tag id="441045" k="type" o="none" type="relation" v="boundary" />
+    <tag id="441045" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="441045" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="441045" k="population" o="none" type="relation" v="161" />
+    <tag id="441045" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="441045" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="441045" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
+    <tag id="442315" k="ref" o="none" type="relation" v="CZ0633561240" />
+    <tag id="442315" k="name" o="none" type="relation" v="Bo&#345;etice" />
+    <tag id="442315" k="type" o="none" type="relation" v="boundary" />
+    <tag id="442315" k="source" o="none" type="relation" v="cuzk" />
+    <tag id="442315" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="442315" k="population" o="none" type="relation" v="70" />
+    <tag id="442315" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="442315" k="name:prefix" o="none" type="relation" v="obec" />
+    <tag id="442315" k="source:population" o="none" type="relation" v="csu:uir-zsj" />
   </body>
 </changeset>

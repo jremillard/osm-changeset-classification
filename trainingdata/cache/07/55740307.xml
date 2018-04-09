@@ -1,1 +1,187 @@
-<changeset id="55740307" schema="1"><counts nodesAdded="37" nodesModified="8" relationsAdded="0" relationsModified="13" waysAdded="1" waysModified="9" /><meta><tag k="changesets_count" v="20" /><tag k="comment" v="Correcciones A-5" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="PNOA Spain" /><tag k="locale" v="es" /></meta><body><tag id="5360984732" k="highway" o="add" type="node" v="motorway_junction" /><tag id="5360984738" k="highway" o="add" type="node" v="motorway_junction" /><tag id="5360984745" k="highway" o="add" type="node" v="motorway_junction" /><tag id="555715162" k="highway" o="add" type="way" v="service" /><tag id="255676814" k="lanes" o="modify" type="way" v="3" /><tag id="255676814" k="maxspeed:lanes" o="add" type="way" v="70|70|70|60" /><tag id="255676814" k="oneway" o="modify" type="way" v="-1" /><tag id="255676814" k="turn:lanes" o="add" type="way" v="through|through|through|right" /><tag id="294022156" k="destination" o="add" type="way" v="E-90 A-5 M&#243;stoles Badajoz Portugal" /><tag id="294022156" k="lanes" o="modify" type="way" v="3" /><tag id="294022156" k="nat_ref" o="modify" type="way" v="5" /></body></changeset>
+<changeset id="55740307" schema="2">
+  <counts nodesAdded="37" nodesDeleted="13" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="13" waysAdded="1" waysDeleted="16" waysModified="25" />
+  <meta>
+    <tag k="changesets_count" v="20" />
+    <tag k="comment" v="Correcciones A-5" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="PNOA Spain" />
+    <tag k="locale" v="es" />
+  </meta>
+  <body>
+    <tag id="23082529" k="source" o="none" type="node" v="yahoo_maps" />
+    <tag id="23083906" k="source" o="none" type="node" v="yahoo_maps" />
+    <tag id="5360984732" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="5360984738" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="5360984745" k="highway" o="add" type="node" v="motorway_junction" />
+    <tag id="4139236" k="lanes" o="none" type="way" v="1" />
+    <tag id="4139236" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4139236" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4139236" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="4139236" k="destination" o="none" type="way" v="M-40;A-6;M-607;A-1;R-2;aeropuerto;A-2" />
+    <tag id="4139367" k="lanes" o="none" type="way" v="1" />
+    <tag id="4139367" k="oneway" o="none" type="way" v="yes" />
+    <tag id="4139367" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="4139367" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="4139367" k="destination" o="none" type="way" v="M-40;R-5;A-42;A-4;R-4;A-3" />
+    <tag id="44804361" k="ref" o="none" type="way" v="A-5" />
+    <tag id="44804361" k="name" o="none" type="way" v="Autov&#237;a del Suroeste" />
+    <tag id="44804361" k="lanes" o="none" type="way" v="2" />
+    <tag id="44804361" k="oneway" o="none" type="way" v="yes" />
+    <tag id="44804361" k="highway" o="none" type="way" v="motorway" />
+    <tag id="44804361" k="nat_ref" o="none" type="way" v="A-5" />
+    <tag id="44804361" k="surface" o="none" type="way" v="paved" />
+    <tag id="44804361" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="44804361" k="operator" o="none" type="way" v="Administraci&#243;n central" />
+    <tag id="44804361" k="source:name" o="none" type="way" v="local knowledge" />
+    <tag id="71225570" k="name" o="none" type="way" v="Paseo de Extremadura" />
+    <tag id="71225570" k="lanes" o="none" type="way" v="1" />
+    <tag id="71225570" k="oneway" o="none" type="way" v="yes" />
+    <tag id="71225570" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="71225570" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="238500046" k="ref" o="none" type="way" v="A-5" />
+    <tag id="238500046" k="name" o="none" type="way" v="Autov&#237;a del Suroeste" />
+    <tag id="238500046" k="lanes" o="none" type="way" v="3" />
+    <tag id="238500046" k="oneway" o="none" type="way" v="yes" />
+    <tag id="238500046" k="highway" o="none" type="way" v="motorway" />
+    <tag id="238500046" k="nat_ref" o="none" type="way" v="A-5" />
+    <tag id="238500046" k="surface" o="none" type="way" v="paved" />
+    <tag id="238500046" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="238500046" k="operator" o="none" type="way" v="Administraci&#243;n central" />
+    <tag id="238500046" k="destination" o="none" type="way" v="A-5 Alcorc&#243;n;Talavera;Badajoz;Portugal" />
+    <tag id="238500046" k="source:name" o="none" type="way" v="local knowledge" />
+    <tag id="255676814" k="ref" o="none" type="way" v="A-5" />
+    <tag id="255676814" k="name" o="none" type="way" v="Autov&#237;a del Suroeste" />
+    <tag id="255676814" k="lanes" o="modify" type="way" v="3" />
+    <tag id="255676814" k="oneway" o="modify" type="way" v="-1" />
+    <tag id="255676814" k="highway" o="none" type="way" v="motorway" />
+    <tag id="255676814" k="nat_ref" o="none" type="way" v="A-5" />
+    <tag id="255676814" k="surface" o="none" type="way" v="paved" />
+    <tag id="255676814" k="maxspeed" o="none" type="way" v="70" />
+    <tag id="255676814" k="operator" o="none" type="way" v="Administraci&#243;n central" />
+    <tag id="255676814" k="turn:lanes" o="add" type="way" v="through|through|through|right" />
+    <tag id="255676814" k="source:name" o="none" type="way" v="local knowledge" />
+    <tag id="255676814" k="maxspeed:lanes" o="add" type="way" v="70|70|70|60" />
+    <tag id="293798061" k="lanes" o="none" type="way" v="1" />
+    <tag id="293798061" k="oneway" o="none" type="way" v="yes" />
+    <tag id="293798061" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="293798061" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="294022150" k="lanes" o="none" type="way" v="2" />
+    <tag id="294022150" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294022150" k="highway" o="none" type="way" v="motorway_link" />
+    <tag id="294022150" k="maxspeed" o="none" type="way" v="60" />
+    <tag id="294022156" k="ref" o="none" type="way" v="A-5" />
+    <tag id="294022156" k="name" o="none" type="way" v="Autov&#237;a del Suroeste" />
+    <tag id="294022156" k="lanes" o="modify" type="way" v="3" />
+    <tag id="294022156" k="oneway" o="none" type="way" v="yes" />
+    <tag id="294022156" k="highway" o="none" type="way" v="motorway" />
+    <tag id="294022156" k="nat_ref" o="modify" type="way" v="5" />
+    <tag id="294022156" k="surface" o="none" type="way" v="paved" />
+    <tag id="294022156" k="maxspeed" o="none" type="way" v="90" />
+    <tag id="294022156" k="operator" o="none" type="way" v="Administraci&#243;n central" />
+    <tag id="294022156" k="destination" o="add" type="way" v="E-90 A-5 M&#243;stoles Badajoz Portugal" />
+    <tag id="294022156" k="source:name" o="none" type="way" v="local knowledge" />
+    <tag id="555715162" k="highway" o="add" type="way" v="service" />
+    <tag id="79784" k="ref" o="none" type="relation" v="A-5" />
+    <tag id="79784" k="name" o="none" type="relation" v="Autov&#237;a del Suroeste" />
+    <tag id="79784" k="type" o="none" type="relation" v="route" />
+    <tag id="79784" k="route" o="none" type="relation" v="road" />
+    <tag id="79784" k="int_ref" o="none" type="relation" v="E-90" />
+    <tag id="79784" k="network" o="none" type="relation" v="ES:A-road" />
+    <tag id="79784" k="operator" o="none" type="relation" v="Ministerio de Fomento" />
+    <tag id="79784" k="wikidata" o="none" type="relation" v="Q2744396" />
+    <tag id="79784" k="wikipedia" o="none" type="relation" v="es:Autov&#237;a del Suroeste" />
+    <tag id="79784" k="ref:colour" o="none" type="relation" v="#19408B" />
+    <tag id="79784" k="ref:colour_bg" o="none" type="relation" v="#19408B" />
+    <tag id="79784" k="ref:colour_tx" o="none" type="relation" v="white" />
+    <tag id="1760676" k="to" o="none" type="relation" v="Campamento" />
+    <tag id="1760676" k="ref" o="none" type="relation" v="36" />
+    <tag id="1760676" k="from" o="none" type="relation" v="Atocha" />
+    <tag id="1760676" k="name" o="none" type="relation" v="Bus 36: Atocha &#8594; Campamento" />
+    <tag id="1760676" k="type" o="none" type="relation" v="route" />
+    <tag id="1760676" k="route" o="none" type="relation" v="bus" />
+    <tag id="1760676" k="source" o="none" type="relation" v="http://www.emtmadrid.es/mapaweb/emt.html" />
+    <tag id="1760676" k="network" o="none" type="relation" v="EMT" />
+    <tag id="1760676" k="operator" o="none" type="relation" v="EMT Madrid" />
+    <tag id="1760676" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="1760682" k="to" o="none" type="relation" v="San Ignacio" />
+    <tag id="1760682" k="ref" o="none" type="relation" v="39" />
+    <tag id="1760682" k="from" o="none" type="relation" v="Opera" />
+    <tag id="1760682" k="name" o="none" type="relation" v="Bus 39: Opera &#8594; San Ignacio" />
+    <tag id="1760682" k="type" o="none" type="relation" v="route" />
+    <tag id="1760682" k="route" o="none" type="relation" v="bus" />
+    <tag id="1760682" k="source" o="none" type="relation" v="http://www.emtmadrid.es/mapaweb/emt.html" />
+    <tag id="1760682" k="network" o="none" type="relation" v="EMT" />
+    <tag id="1760682" k="operator" o="none" type="relation" v="EMT Madrid" />
+    <tag id="1760682" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="1760856" k="to" o="none" type="relation" v="San Ignacio" />
+    <tag id="1760856" k="ref" o="none" type="relation" v="N19" />
+    <tag id="1760856" k="from" o="none" type="relation" v="Cibeles" />
+    <tag id="1760856" k="name" o="none" type="relation" v="Bus N19: Cibeles &#8594; San Ignacio" />
+    <tag id="1760856" k="type" o="none" type="relation" v="route" />
+    <tag id="1760856" k="route" o="none" type="relation" v="bus" />
+    <tag id="1760856" k="source" o="none" type="relation" v="http://www.emtmadrid.es/mapaweb/emt.html" />
+    <tag id="1760856" k="network" o="none" type="relation" v="EMT" />
+    <tag id="1760856" k="operator" o="none" type="relation" v="EMT Madrid" />
+    <tag id="1760856" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="3195297" k="ref" o="none" type="relation" v="511" />
+    <tag id="3195297" k="name" o="none" type="relation" v="511: Madrid - Alcorc&#243;n" />
+    <tag id="3195297" k="type" o="none" type="relation" v="route" />
+    <tag id="3195297" k="route" o="none" type="relation" v="bus" />
+    <tag id="3195297" k="network" o="none" type="relation" v="Interurbanos de Madrid" />
+    <tag id="3195297" k="operator" o="none" type="relation" v="Arriva de Blas" />
+    <tag id="3195297" k="public_transport" o="none" type="relation" v="route" />
+    <tag id="3195297" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="6250703" k="ref" o="none" type="relation" v="518" />
+    <tag id="6250703" k="name" o="none" type="relation" v="518 Villaviciosa de Od&#243;n - Madrid" />
+    <tag id="6250703" k="type" o="none" type="relation" v="route" />
+    <tag id="6250703" k="route" o="none" type="relation" v="bus" />
+    <tag id="6250715" k="ref" o="none" type="relation" v="551" />
+    <tag id="6250715" k="name" o="none" type="relation" v="551: Madrid (Pr&#237;ncipe P&#237;o) - Cebreros/El Tiemblo" />
+    <tag id="6250715" k="type" o="none" type="relation" v="route" />
+    <tag id="6250715" k="route" o="none" type="relation" v="bus" />
+    <tag id="7312547" k="ref" o="none" type="relation" v="516" />
+    <tag id="7312547" k="name" o="none" type="relation" v="516: Madrid - Alcorc&#243;n" />
+    <tag id="7312547" k="type" o="none" type="relation" v="route" />
+    <tag id="7312547" k="route" o="none" type="relation" v="bus" />
+    <tag id="7312547" k="network" o="none" type="relation" v="Interurbanos de Madrid" />
+    <tag id="7312547" k="operator" o="none" type="relation" v="Arriva de Blas" />
+    <tag id="7312547" k="public_transport:version" o="none" type="relation" v="1" />
+    <tag id="7329314" k="ref" o="none" type="relation" v="513" />
+    <tag id="7329314" k="name" o="none" type="relation" v="513: Madrid - Alcorc&#243;n" />
+    <tag id="7329314" k="type" o="none" type="relation" v="route" />
+    <tag id="7329314" k="route" o="none" type="relation" v="bus" />
+    <tag id="7329314" k="network" o="none" type="relation" v="Interurbanos de Madrid" />
+    <tag id="7329314" k="operator" o="none" type="relation" v="Arriva de Blas" />
+    <tag id="7329314" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7335963" k="ref" o="none" type="relation" v="514" />
+    <tag id="7335963" k="name" o="none" type="relation" v="514: Madrid - Alcorc&#243;n" />
+    <tag id="7335963" k="type" o="none" type="relation" v="route" />
+    <tag id="7335963" k="route" o="none" type="relation" v="bus" />
+    <tag id="7335963" k="network" o="none" type="relation" v="Interurbanos de Madrid" />
+    <tag id="7335963" k="operator" o="none" type="relation" v="Arriva de Blas" />
+    <tag id="7335963" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7364952" k="ref" o="none" type="relation" v="512" />
+    <tag id="7364952" k="name" o="none" type="relation" v="512: Madrid - Alcorc&#243;n" />
+    <tag id="7364952" k="type" o="none" type="relation" v="route" />
+    <tag id="7364952" k="route" o="none" type="relation" v="bus" />
+    <tag id="7364952" k="network" o="none" type="relation" v="Interurbanos de Madrid" />
+    <tag id="7364952" k="operator" o="none" type="relation" v="Arriva DeBl&#225;s" />
+    <tag id="7364952" k="public_transport" o="none" type="relation" v="route" />
+    <tag id="7364952" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7365602" k="ref" o="none" type="relation" v="N501" />
+    <tag id="7365602" k="name" o="none" type="relation" v="N501: Madrid - Mostoles" />
+    <tag id="7365602" k="type" o="none" type="relation" v="route" />
+    <tag id="7365602" k="route" o="none" type="relation" v="bus" />
+    <tag id="7365602" k="colour" o="none" type="relation" v="black" />
+    <tag id="7365602" k="network" o="none" type="relation" v="Autobuses Interurbanos de Madrid" />
+    <tag id="7365602" k="public_transport:version" o="none" type="relation" v="2" />
+    <tag id="7372063" k="ref" o="none" type="relation" v="N502" />
+    <tag id="7372063" k="name" o="none" type="relation" v="N502: Madrid - Alcorc&#243;n" />
+    <tag id="7372063" k="type" o="none" type="relation" v="route" />
+    <tag id="7372063" k="route" o="none" type="relation" v="bus" />
+    <tag id="7372063" k="colour" o="none" type="relation" v="black" />
+    <tag id="7372063" k="network" o="none" type="relation" v="Autobuses Interurbanos de Madrid" />
+    <tag id="7372063" k="public_transport:version" o="none" type="relation" v="2" />
+  </body>
+</changeset>

@@ -1,1 +1,16 @@
-<changeset id="56228406" schema="1"><counts nodesAdded="0" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="2503" /><tag k="comment" v="amend" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="637716431" k="traffic_signals:direction" o="add" type="node" v="both" /></body></changeset>
+<changeset id="56228406" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="2503" />
+    <tag k="comment" v="amend" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="637716431" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="637716431" k="traffic_signals" o="none" type="node" v="signal" />
+    <tag id="637716431" k="traffic_signals:direction" o="add" type="node" v="both" />
+  </body>
+</changeset>

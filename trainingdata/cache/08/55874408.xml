@@ -1,1 +1,29 @@
-<changeset id="55874408" schema="1"><counts nodesAdded="0" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="comment" v="Tankstellen" /><tag k="created_by" v="JOSM/1.5 (13265 de)" /><tag k="source" v="DigitalGlobe Standard Luftbilder; Esri Luftbilder; Mapbox Satellitenbild" /></meta><body><tag id="27540799" k="fuel:lpg" o="add" type="node" v="yes" /><tag id="422869587" k="fuel:lpg" o="add" type="node" v="yes" /><tag id="150056569" k="fuel:lpg" o="add" type="way" v="yes" /></body></changeset>
+<changeset id="55874408" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="Tankstellen" />
+    <tag k="created_by" v="JOSM/1.5 (13265 de)" />
+    <tag k="source" v="DigitalGlobe Standard Luftbilder; Esri Luftbilder; Mapbox Satellitenbild" />
+  </meta>
+  <body>
+    <tag id="27540799" k="name" o="none" type="node" v="bft" />
+    <tag id="27540799" k="amenity" o="none" type="node" v="fuel" />
+    <tag id="27540799" k="fuel:lpg" o="add" type="node" v="yes" />
+    <tag id="27540799" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="422869587" k="name" o="none" type="node" v="Aral" />
+    <tag id="422869587" k="amenity" o="none" type="node" v="fuel" />
+    <tag id="422869587" k="fuel:lpg" o="add" type="node" v="yes" />
+    <tag id="422869587" k="wheelchair" o="none" type="node" v="yes" />
+    <tag id="150056569" k="name" o="none" type="way" v="Vorteil-Tankstelle" />
+    <tag id="150056569" k="amenity" o="none" type="way" v="fuel" />
+    <tag id="150056569" k="building" o="none" type="way" v="yes" />
+    <tag id="150056569" k="fuel:lpg" o="add" type="way" v="yes" />
+    <tag id="150056569" k="addr:city" o="none" type="way" v="Bad Honnef" />
+    <tag id="150056569" k="wheelchair" o="none" type="way" v="yes" />
+    <tag id="150056569" k="addr:street" o="none" type="way" v="Vogelbitze" />
+    <tag id="150056569" k="addr:suburb" o="none" type="way" v="Rottbitze" />
+    <tag id="150056569" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="150056569" k="addr:postcode" o="none" type="way" v="53604" />
+    <tag id="150056569" k="addr:housenumber" o="none" type="way" v="1" />
+  </body>
+</changeset>

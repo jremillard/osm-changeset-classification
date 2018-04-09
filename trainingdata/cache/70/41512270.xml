@@ -1,1 +1,27 @@
-<changeset id="41512270" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="2" waysAdded="0" waysModified="0" /><meta><tag k="comment" v="Formerly BTI Whitewater / Butts Tubes" /><tag k="created_by" v="iD 1.9.7" /><tag k="host" v="http://www.openstreetmap.org/id" /><tag k="imagery_used" v="Bing" /><tag k="locale" v="en-US" /></meta><body><tag id="4353943477" k="addr:city" o="add" type="node" v="Purcellville" /><tag id="4353943477" k="addr:housenumber" o="add" type="node" v="37410" /><tag id="4353943477" k="addr:postcode" o="add" type="node" v="20132" /><tag id="4353943477" k="addr:state" o="add" type="node" v="VA" /><tag id="4353943477" k="addr:street" o="add" type="node" v="Adventure Center Lane" /><tag id="4353943477" k="description" o="add" type="node" v="River Rafting and River Tubing Outfitter + Zipline  + Ropes Course" /><tag id="4353943477" k="name" o="add" type="node" v="Harpers Ferry Adventure center" /><tag id="1839600" k="area" o="add" type="relation" v="yes" /></body></changeset>
+<changeset id="41512270" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="comment" v="Formerly BTI Whitewater / Butts Tubes" />
+    <tag k="created_by" v="iD 1.9.7" />
+    <tag k="host" v="http://www.openstreetmap.org/id" />
+    <tag k="imagery_used" v="Bing" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="4353943477" k="name" o="add" type="node" v="Harpers Ferry Adventure center" />
+    <tag id="4353943477" k="addr:city" o="add" type="node" v="Purcellville" />
+    <tag id="4353943477" k="addr:state" o="add" type="node" v="VA" />
+    <tag id="4353943477" k="addr:street" o="add" type="node" v="Adventure Center Lane" />
+    <tag id="4353943477" k="description" o="add" type="node" v="River Rafting and River Tubing Outfitter + Zipline  + Ropes Course" />
+    <tag id="4353943477" k="addr:postcode" o="add" type="node" v="20132" />
+    <tag id="4353943477" k="addr:housenumber" o="add" type="node" v="37410" />
+    <tag id="1839600" k="area" o="add" type="relation" v="yes" />
+    <tag id="1839600" k="name" o="none" type="relation" v="Potomac River" />
+    <tag id="1839600" k="type" o="none" type="relation" v="multipolygon" />
+    <tag id="2637001" k="name" o="none" type="relation" v="Potomac River" />
+    <tag id="2637001" k="type" o="none" type="relation" v="waterway" />
+    <tag id="2637001" k="fixme" o="none" type="relation" v="super relations not well supported, best way to do this?" />
+    <tag id="2637001" k="waterway" o="none" type="relation" v="river" />
+    <tag id="2637001" k="wikipedia" o="none" type="relation" v="en:Potomac River" />
+  </body>
+</changeset>

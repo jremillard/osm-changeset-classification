@@ -1,11 +1,41 @@
 <changeset id="38613500" schema="2">
-  <counts nodesAdded="882" nodesDeleted="25" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="13" waysDeleted="0" waysModified="10" />
+  <counts nodesAdded="882" nodesDeleted="25" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="13" waysDeleted="0" waysModified="10" />
   <meta>
     <tag k="comment" v="Lagt til sti, myr, sj&#248;, skog. Justeringer. Kulevannet  Eidsberg" />
     <tag k="created_by" v="JOSM/1.5 (9979 en)" />
     <tag k="source" v="Norgeskartet N50, Bing" />
   </meta>
   <body>
+    <tag id="1833273649" k="name" o="none" type="node" v="Vestre Lunnevollen" />
+    <tag id="1833273649" k="hiking" o="none" type="node" v="yes" />
+    <tag id="1833273649" k="skiing" o="none" type="node" v="no" />
+    <tag id="1833273649" k="tourism" o="none" type="node" v="information" />
+    <tag id="1833273649" k="information" o="none" type="node" v="guidepost" />
+    <tag id="39733722" k="name" o="none" type="way" v="Kulevannet" />
+    <tag id="39733722" k="source" o="none" type="way" v="Landsat" />
+    <tag id="39733722" k="natural" o="none" type="way" v="water" />
+    <tag id="39733835" k="name" o="none" type="way" v="Steinstjern" />
+    <tag id="39733835" k="water" o="add" type="way" v="lake" />
+    <tag id="39733835" k="source" o="modify" type="way" v="Norgeskartet N50" />
+    <tag id="39733835" k="natural" o="none" type="way" v="water" />
+    <tag id="94763345" k="wood" o="none" type="way" v="coniferous" />
+    <tag id="94763345" k="source" o="none" type="way" v="Corine Land Cover / http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version" />
+    <tag id="94763345" k="natural" o="none" type="way" v="wood" />
+    <tag id="172421243" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="172421243" k="piste:type" o="none" type="way" v="nordic" />
+    <tag id="172421385" k="highway" o="none" type="way" v="path" />
+    <tag id="172421385" k="mtb:scale" o="none" type="way" v="2" />
+    <tag id="172421385" k="trailblazed" o="none" type="way" v="yes" />
+    <tag id="172421385" k="trail_visibility" o="none" type="way" v="intermediate" />
+    <tag id="172422057" k="highway" o="none" type="way" v="path" />
+    <tag id="172422057" k="mtb:scale" o="none" type="way" v="2" />
+    <tag id="172422057" k="trailblazed" o="none" type="way" v="yes" />
+    <tag id="172422058" k="highway" o="none" type="way" v="path" />
+    <tag id="172422058" k="trailblazed" o="none" type="way" v="yes" />
+    <tag id="350511041" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="410655019" k="natural" o="none" type="way" v="wetland" />
+    <tag id="410655019" k="wetland" o="add" type="way" v="bog" />
+    <tag id="410655040" k="landuse" o="none" type="way" v="forest" />
     <tag id="410755668" k="natural" o="add" type="way" v="wetland" />
     <tag id="410755668" k="wetland" o="add" type="way" v="bog" />
     <tag id="410755669" k="natural" o="add" type="way" v="wetland" />
@@ -18,8 +48,8 @@
     <tag id="410755672" k="wetland" o="add" type="way" v="bog" />
     <tag id="410755673" k="natural" o="add" type="way" v="wetland" />
     <tag id="410755673" k="wetland" o="add" type="way" v="bog" />
-    <tag id="410755674" k="natural" o="add" type="way" v="water" />
     <tag id="410755674" k="water" o="add" type="way" v="lake" />
+    <tag id="410755674" k="natural" o="add" type="way" v="water" />
     <tag id="410755675" k="natural" o="add" type="way" v="wetland" />
     <tag id="410755675" k="wetland" o="add" type="way" v="bog" />
     <tag id="410755676" k="natural" o="add" type="way" v="wetland" />
@@ -27,39 +57,9 @@
     <tag id="410755677" k="natural" o="add" type="way" v="wetland" />
     <tag id="410755677" k="wetland" o="add" type="way" v="bog" />
     <tag id="410755678" k="name" o="add" type="way" v="S&#248;ndre Asketjern" />
-    <tag id="410755678" k="natural" o="add" type="way" v="water" />
     <tag id="410755678" k="water" o="add" type="way" v="lake" />
+    <tag id="410755678" k="natural" o="add" type="way" v="water" />
     <tag id="410755679" k="highway" o="add" type="way" v="path" />
     <tag id="410755680" k="landuse" o="add" type="way" v="forest" />
-    <tag id="1833273649" k="hiking" o="none" type="node" v="yes" />
-    <tag id="1833273649" k="information" o="none" type="node" v="guidepost" />
-    <tag id="1833273649" k="name" o="none" type="node" v="Vestre Lunnevollen" />
-    <tag id="1833273649" k="skiing" o="none" type="node" v="no" />
-    <tag id="1833273649" k="tourism" o="none" type="node" v="information" />
-    <tag id="410655019" k="natural" o="none" type="way" v="wetland" />
-    <tag id="410655019" k="wetland" o="add" type="way" v="bog" />
-    <tag id="94763345" k="natural" o="none" type="way" v="wood" />
-    <tag id="94763345" k="source" o="none" type="way" v="Corine Land Cover / http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version" />
-    <tag id="94763345" k="wood" o="none" type="way" v="coniferous" />
-    <tag id="39733722" k="name" o="none" type="way" v="Kulevannet" />
-    <tag id="39733722" k="natural" o="none" type="way" v="water" />
-    <tag id="39733722" k="source" o="none" type="way" v="Landsat" />
-    <tag id="172422057" k="highway" o="none" type="way" v="path" />
-    <tag id="172422057" k="mtb:scale" o="none" type="way" v="2" />
-    <tag id="172422057" k="trailblazed" o="none" type="way" v="yes" />
-    <tag id="350511041" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="39733835" k="name" o="none" type="way" v="Steinstjern" />
-    <tag id="39733835" k="natural" o="none" type="way" v="water" />
-    <tag id="39733835" k="source" o="modify" type="way" v="Norgeskartet N50" />
-    <tag id="39733835" k="water" o="add" type="way" v="lake" />
-    <tag id="172421243" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="172421243" k="piste:type" o="none" type="way" v="nordic" />
-    <tag id="410655040" k="landuse" o="none" type="way" v="forest" />
-    <tag id="172421385" k="highway" o="none" type="way" v="path" />
-    <tag id="172421385" k="mtb:scale" o="none" type="way" v="2" />
-    <tag id="172421385" k="trailblazed" o="none" type="way" v="yes" />
-    <tag id="172421385" k="trail_visibility" o="none" type="way" v="intermediate" />
-    <tag id="172422058" k="highway" o="none" type="way" v="path" />
-    <tag id="172422058" k="trailblazed" o="none" type="way" v="yes" />
   </body>
 </changeset>

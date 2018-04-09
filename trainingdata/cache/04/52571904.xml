@@ -1,1 +1,52 @@
-<changeset id="52571904" schema="1"><counts nodesAdded="1" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="2" /><tag k="comment" v="We have added detailed information such as phone numbers, addresses, and hours to a few already existing points and added a few more businesses specific to the Nob Hill area in Albuquerque" /><tag k="created_by" v="iD 2.4.1" /><tag k="host" v="http://www.openstreetmap.org/edit" /><tag k="ideditor:walkthrough_completed" v="yes" /><tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area;line;building;startEditing" /><tag k="ideditor:walkthrough_started" v="yes" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5143647482" k="addr:city" o="add" type="node" v="Albuquerque" /><tag id="5143647482" k="addr:housenumber" o="add" type="node" v="3513" /><tag id="5143647482" k="addr:postcode" o="add" type="node" v="87106" /><tag id="5143647482" k="addr:state" o="add" type="node" v="NM" /><tag id="5143647482" k="addr:street" o="add" type="node" v="Central Avenue Southeast" /><tag id="5143647482" k="description" o="add" type="node" v="Chic and modern Nob Hill Salon offering cuts, style, and color services. We are a Green Circle salon, carrying Davines hair care products. " /><tag id="5143647482" k="name" o="add" type="node" v="Moxi Hair Studio" /><tag id="5143647482" k="opening_hours" o="add" type="node" v="Tue-Thur 10am-6pm, Fri 10am-7pm, Sat 9am-5pm" /><tag id="5143647482" k="phone" o="add" type="node" v="(505) 255-1761" /><tag id="5143647482" k="shop" o="add" type="node" v="hairdresser" /><tag id="5143647482" k="website" o="add" type="node" v="www.moxievo.com" /><tag id="4664496603" k="description" o="add" type="node" v="Community Dance Studio offering beginner friendly, drop-in dance classes and movement practices, mostly for adults, but some children's classes too, in many forms and styles. " /><tag id="4664496603" k="opening_hours" o="add" type="node" v="Mon-Fri 4pm-9pm, Sat 9am-6pm, Sun 11am-10pm" /><tag id="4664496603" k="phone" o="add" type="node" v="(505) 366-4982" /><tag id="4664496603" k="sport" o="modify" type="node" v="dance;fitness" /><tag id="2612704949" k="addr:unit" o="add" type="node" v="#H" /><tag id="2612704949" k="description" o="add" type="node" v="Geckos is Albuquerque's first Gastropub featuring great bar food plus Tapas in additon to a great selection of Craft beers and Spirits." /><tag id="2612704949" k="opening_hours" o="add" type="node" v="Mon-Sat 11am-1:30am, Sun 11am-12am" /><tag id="2612704949" k="outdoor_seating" o="add" type="node" v="yes" /><tag id="2612704949" k="phone" o="modify" type="node" v="(505)-262-1848" /><tag id="2612704949" k="source" o="modify" type="node" v="local knowledge;survey" /><tag id="2612704949" k="website" o="add" type="node" v="geckosbar.com" /></body></changeset>
+<changeset id="52571904" schema="2">
+  <counts nodesAdded="1" nodesDeleted="1" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="2" />
+    <tag k="comment" v="We have added detailed information such as phone numbers, addresses, and hours to a few already existing points and added a few more businesses specific to the Nob Hill area in Albuquerque" />
+    <tag k="created_by" v="iD 2.4.1" />
+    <tag k="host" v="http://www.openstreetmap.org/edit" />
+    <tag k="ideditor:walkthrough_completed" v="yes" />
+    <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area;line;building;startEditing" />
+    <tag k="ideditor:walkthrough_started" v="yes" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="2612704949" k="name" o="none" type="node" v="Gecko's Bar &amp; Tapas" />
+    <tag id="2612704949" k="phone" o="modify" type="node" v="(505)-262-1848" />
+    <tag id="2612704949" k="source" o="modify" type="node" v="local knowledge;survey" />
+    <tag id="2612704949" k="amenity" o="none" type="node" v="bar" />
+    <tag id="2612704949" k="website" o="add" type="node" v="geckosbar.com" />
+    <tag id="2612704949" k="addr:city" o="none" type="node" v="Albuquerque" />
+    <tag id="2612704949" k="addr:unit" o="add" type="node" v="#H" />
+    <tag id="2612704949" k="addr:street" o="none" type="node" v="Central Avenue Southeast" />
+    <tag id="2612704949" k="description" o="add" type="node" v="Geckos is Albuquerque's first Gastropub featuring great bar food plus Tapas in additon to a great selection of Craft beers and Spirits." />
+    <tag id="2612704949" k="addr:postcode" o="none" type="node" v="87106" />
+    <tag id="2612704949" k="opening_hours" o="add" type="node" v="Mon-Sat 11am-1:30am, Sun 11am-12am" />
+    <tag id="2612704949" k="outdoor_seating" o="add" type="node" v="yes" />
+    <tag id="2612704949" k="addr:housenumber" o="none" type="node" v="3500" />
+    <tag id="4664496603" k="name" o="none" type="node" v="Maple Street Dance Space" />
+    <tag id="4664496603" k="phone" o="add" type="node" v="(505) 366-4982" />
+    <tag id="4664496603" k="sport" o="modify" type="node" v="dance;fitness" />
+    <tag id="4664496603" k="leisure" o="none" type="node" v="fitness_centre" />
+    <tag id="4664496603" k="website" o="none" type="node" v="http://maplestreetdancespace.com/" />
+    <tag id="4664496603" k="addr:city" o="none" type="node" v="Albuquerque" />
+    <tag id="4664496603" k="addr:state" o="none" type="node" v="NM" />
+    <tag id="4664496603" k="addr:street" o="none" type="node" v="Central Avenue Northeast" />
+    <tag id="4664496603" k="description" o="add" type="node" v="Community Dance Studio offering beginner friendly, drop-in dance classes and movement practices, mostly for adults, but some children's classes too, in many forms and styles. " />
+    <tag id="4664496603" k="addr:postcode" o="none" type="node" v="87106" />
+    <tag id="4664496603" k="opening_hours" o="add" type="node" v="Mon-Fri 4pm-9pm, Sat 9am-6pm, Sun 11am-10pm" />
+    <tag id="4664496603" k="addr:housenumber" o="none" type="node" v="3215" />
+    <tag id="5143647482" k="name" o="add" type="node" v="Moxi Hair Studio" />
+    <tag id="5143647482" k="shop" o="add" type="node" v="hairdresser" />
+    <tag id="5143647482" k="phone" o="add" type="node" v="(505) 255-1761" />
+    <tag id="5143647482" k="website" o="add" type="node" v="www.moxievo.com" />
+    <tag id="5143647482" k="addr:city" o="add" type="node" v="Albuquerque" />
+    <tag id="5143647482" k="addr:state" o="add" type="node" v="NM" />
+    <tag id="5143647482" k="addr:street" o="add" type="node" v="Central Avenue Southeast" />
+    <tag id="5143647482" k="description" o="add" type="node" v="Chic and modern Nob Hill Salon offering cuts, style, and color services. We are a Green Circle salon, carrying Davines hair care products. " />
+    <tag id="5143647482" k="addr:postcode" o="add" type="node" v="87106" />
+    <tag id="5143647482" k="opening_hours" o="add" type="node" v="Tue-Thur 10am-6pm, Fri 10am-7pm, Sat 9am-5pm" />
+    <tag id="5143647482" k="addr:housenumber" o="add" type="node" v="3513" />
+  </body>
+</changeset>

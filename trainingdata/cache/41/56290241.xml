@@ -1,1 +1,30 @@
-<changeset id="56290241" schema="1"><counts nodesAdded="19" nodesModified="52" relationsAdded="0" relationsModified="0" waysAdded="4" waysModified="3" /><meta><tag k="comment" v="Added: pedestrian ways, fixed buildings geometry" /><tag k="created_by" v="JOSM/1.5 (13367 pl)" /><tag k="source" v="Orthomap Warsaw 2017 + personal experience" /></meta><body><tag id="5406975892" k="crossing" o="add" type="node" v="unmarked" /><tag id="5406975892" k="highway" o="add" type="node" v="crossing" /><tag id="560686703" k="highway" o="add" type="way" v="footway" /><tag id="560686704" k="highway" o="add" type="way" v="footway" /><tag id="560686705" k="highway" o="add" type="way" v="footway" /><tag id="560686706" k="highway" o="add" type="way" v="footway" /></body></changeset>
+<changeset id="56290241" schema="2">
+  <counts nodesAdded="19" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="comment" v="Added: pedestrian ways, fixed buildings geometry" />
+    <tag k="created_by" v="JOSM/1.5 (13367 pl)" />
+    <tag k="source" v="Orthomap Warsaw 2017 + personal experience" />
+  </meta>
+  <body>
+    <tag id="340327328" k="name" o="none" type="node" v="Obelisk Ku Czci Stanis&#322;awa Augusta" />
+    <tag id="340327328" k="source" o="none" type="node" v="msi" />
+    <tag id="340327328" k="historic" o="none" type="node" v="memorial" />
+    <tag id="5406975892" k="highway" o="add" type="node" v="crossing" />
+    <tag id="5406975892" k="crossing" o="add" type="node" v="unmarked" />
+    <tag id="23554796" k="foot" o="none" type="way" v="yes" />
+    <tag id="23554796" k="name" o="none" type="way" v="Terespolska" />
+    <tag id="23554796" k="oneway" o="none" type="way" v="yes" />
+    <tag id="23554796" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="23554796" k="highway" o="none" type="way" v="residential" />
+    <tag id="23554796" k="cycleway" o="none" type="way" v="no" />
+    <tag id="23554796" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="62204249" k="highway" o="none" type="way" v="footway" />
+    <tag id="374874337" k="highway" o="none" type="way" v="service" />
+    <tag id="374874337" k="service" o="none" type="way" v="driveway" />
+    <tag id="374874337" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="560686703" k="highway" o="add" type="way" v="footway" />
+    <tag id="560686704" k="highway" o="add" type="way" v="footway" />
+    <tag id="560686705" k="highway" o="add" type="way" v="footway" />
+    <tag id="560686706" k="highway" o="add" type="way" v="footway" />
+  </body>
+</changeset>

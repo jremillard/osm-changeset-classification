@@ -1,1 +1,26 @@
-<changeset id="56400447" schema="1"><counts nodesAdded="43" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="2" /><meta><tag k="changesets_count" v="233" /><tag k="comment" v="Edited/corrected and added missing foot paths, buildings, houses and areas." /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="561646370" k="leisure" o="add" type="way" v="park" /><tag id="561646371" k="leisure" o="add" type="way" v="park" /><tag id="561646372" k="landuse" o="add" type="way" v="recreation_ground" /><tag id="168589640" k="name" o="add" type="way" v="&#381;upna crkva sv. Martina b." /><tag id="559446168" k="amenity" o="add" type="way" v="place_of_worship" /><tag id="559446168" k="denomination" o="add" type="way" v="catholic" /><tag id="559446168" k="name" o="add" type="way" v="Samostan i &#382;upa sv. Jeronima" /><tag id="559446168" k="religion" o="add" type="way" v="christian" /></body></changeset>
+<changeset id="56400447" schema="2">
+  <counts nodesAdded="43" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="changesets_count" v="233" />
+    <tag k="comment" v="Edited/corrected and added missing foot paths, buildings, houses and areas." />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="168589640" k="name" o="add" type="way" v="&#381;upna crkva sv. Martina b." />
+    <tag id="168589640" k="amenity" o="none" type="way" v="place_of_worship" />
+    <tag id="168589640" k="building" o="none" type="way" v="yes" />
+    <tag id="168589640" k="religion" o="none" type="way" v="christian" />
+    <tag id="168589640" k="denomination" o="none" type="way" v="catholic" />
+    <tag id="559446168" k="name" o="add" type="way" v="Samostan i &#382;upa sv. Jeronima" />
+    <tag id="559446168" k="amenity" o="add" type="way" v="place_of_worship" />
+    <tag id="559446168" k="building" o="none" type="way" v="yes" />
+    <tag id="559446168" k="religion" o="add" type="way" v="christian" />
+    <tag id="559446168" k="denomination" o="add" type="way" v="catholic" />
+    <tag id="561646370" k="leisure" o="add" type="way" v="park" />
+    <tag id="561646371" k="leisure" o="add" type="way" v="park" />
+    <tag id="561646372" k="landuse" o="add" type="way" v="recreation_ground" />
+  </body>
+</changeset>

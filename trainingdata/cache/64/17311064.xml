@@ -1,5 +1,5 @@
 <changeset id="17311064" schema="2">
-  <counts nodesAdded="4" nodesDeleted="3" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="4" nodesDeleted="3" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Temel&#237;n (relation 435021)." />
@@ -8,20 +8,20 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="233192463" k="admin_level" o="add" type="way" v="10" />
-    <tag id="233192463" k="boundary" o="add" type="way" v="administrative" />
     <tag id="233192463" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="435323" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="435323" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="435323" k="name" o="none" type="relation" v="Lhota pod Horami" />
-    <tag id="435323" k="ref" o="none" type="relation" v="765783" />
-    <tag id="435323" k="source" o="none" type="relation" v="cuzk:km" />
-    <tag id="435323" k="type" o="none" type="relation" v="boundary" />
-    <tag id="435021" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="435021" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="435021" k="name" o="none" type="relation" v="Temel&#237;n" />
+    <tag id="233192463" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="233192463" k="admin_level" o="add" type="way" v="10" />
     <tag id="435021" k="ref" o="none" type="relation" v="765805" />
-    <tag id="435021" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="435021" k="name" o="none" type="relation" v="Temel&#237;n" />
     <tag id="435021" k="type" o="none" type="relation" v="boundary" />
+    <tag id="435021" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="435021" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="435021" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="435323" k="ref" o="none" type="relation" v="765783" />
+    <tag id="435323" k="name" o="none" type="relation" v="Lhota pod Horami" />
+    <tag id="435323" k="type" o="none" type="relation" v="boundary" />
+    <tag id="435323" k="source" o="none" type="relation" v="cuzk:km" />
+    <tag id="435323" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="435323" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

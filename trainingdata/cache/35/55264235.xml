@@ -1,1 +1,32 @@
-<changeset id="55264235" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="changesets_count" v="2" /><tag k="comment" v="New business building" /><tag k="created_by" v="iD 2.5.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-GB" /></meta><body><tag id="5327387659" k="addr:city" o="add" type="node" v="Marietta" /><tag id="5327387659" k="addr:housenumber" o="add" type="node" v="3365" /><tag id="5327387659" k="addr:postcode" o="add" type="node" v="30068" /><tag id="5327387659" k="addr:state" o="add" type="node" v="GA" /><tag id="5327387659" k="addr:street" o="add" type="node" v="Clubland Drive Northeast" /><tag id="5327387659" k="description" o="add" type="node" v="Holly's Cleaning Services in Marietta provides expert cleaning services to both residential homes and commercial businesses. Call today for information on our services!" /><tag id="5327387659" k="name" o="add" type="node" v="Holly's Cleaning Services" /><tag id="5327387659" k="phone" o="add" type="node" v="(770) 285-7089" /><tag id="5327387659" k="website" o="add" type="node" v="https://www.hollyscleaningservices.com" /><tag id="415152844" k="addr:housenumber" o="modify" type="way" v="3365" /><tag id="415152844" k="building" o="modify" type="way" v="commercial" /><tag id="415152844" k="description" o="add" type="way" v="A company delivering professional cleaning services in the Marietta area such as house cleaning, office cleaning, window cleaning, carpet cleaning and more." /><tag id="415152844" k="name" o="add" type="way" v="Holly's Cleaning Services" /><tag id="415152844" k="phone" o="add" type="way" v="(770) 285-7089" /><tag id="415152844" k="website" o="add" type="way" v="https://www.hollyscleaningservices.com" /></body></changeset>
+<changeset id="55264235" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="2" />
+    <tag k="comment" v="New business building" />
+    <tag k="created_by" v="iD 2.5.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-GB" />
+  </meta>
+  <body>
+    <tag id="5327387659" k="name" o="add" type="node" v="Holly's Cleaning Services" />
+    <tag id="5327387659" k="phone" o="add" type="node" v="(770) 285-7089" />
+    <tag id="5327387659" k="website" o="add" type="node" v="https://www.hollyscleaningservices.com" />
+    <tag id="5327387659" k="addr:city" o="add" type="node" v="Marietta" />
+    <tag id="5327387659" k="addr:state" o="add" type="node" v="GA" />
+    <tag id="5327387659" k="addr:street" o="add" type="node" v="Clubland Drive Northeast" />
+    <tag id="5327387659" k="description" o="add" type="node" v="Holly's Cleaning Services in Marietta provides expert cleaning services to both residential homes and commercial businesses. Call today for information on our services!" />
+    <tag id="5327387659" k="addr:postcode" o="add" type="node" v="30068" />
+    <tag id="5327387659" k="addr:housenumber" o="add" type="node" v="3365" />
+    <tag id="415152844" k="name" o="add" type="way" v="Holly's Cleaning Services" />
+    <tag id="415152844" k="phone" o="add" type="way" v="(770) 285-7089" />
+    <tag id="415152844" k="website" o="add" type="way" v="https://www.hollyscleaningservices.com" />
+    <tag id="415152844" k="building" o="modify" type="way" v="commercial" />
+    <tag id="415152844" k="addr:city" o="none" type="way" v="Marietta" />
+    <tag id="415152844" k="addr:state" o="none" type="way" v="GA" />
+    <tag id="415152844" k="addr:street" o="none" type="way" v="Clubland Drive Northeast" />
+    <tag id="415152844" k="description" o="add" type="way" v="A company delivering professional cleaning services in the Marietta area such as house cleaning, office cleaning, window cleaning, carpet cleaning and more." />
+    <tag id="415152844" k="addr:postcode" o="none" type="way" v="30068" />
+    <tag id="415152844" k="addr:housenumber" o="modify" type="way" v="3365" />
+  </body>
+</changeset>

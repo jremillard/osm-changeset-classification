@@ -1,120 +1,120 @@
 <changeset id="31642383" schema="2">
-  <counts nodesAdded="37" nodesDeleted="5" nodesModified="14" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="15" />
+  <counts nodesAdded="37" nodesDeleted="5" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="15" />
   <meta>
     <tag k="comment" v="Edinburgh Tram: Queensferry Road, Princes Street, St Andrew's Square, York Place: Tram damage cleanup of changesets (20094613, 21155234, 22702905, 28304378)---which probably need more work still..." />
     <tag k="created_by" v="JOSM/1.5 (8339 en_GB)" />
     <tag k="source" v="JOSM Revert; previous known-good survey from 2013 (changeset 18956107)" />
   </meta>
   <body>
+    <tag id="637662" k="source" o="none" type="node" v="Bing;survey" />
+    <tag id="637662" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="637662" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="249504433" k="source" o="none" type="node" v="Bing;survey" />
+    <tag id="249504433" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="249504433" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="1882457672" k="name" o="none" type="node" v="Princes Street" />
+    <tag id="1882457672" k="tram" o="none" type="node" v="yes" />
+    <tag id="1882457672" k="railway" o="none" type="node" v="tram_stop" />
+    <tag id="1882457672" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2064987103" k="railway" o="none" type="node" v="switch" />
+    <tag id="2319609566" k="name" o="none" type="node" v="St Andrew Square" />
+    <tag id="2319609566" k="tram" o="none" type="node" v="yes" />
+    <tag id="2319609566" k="railway" o="none" type="node" v="tram_stop" />
+    <tag id="2319609566" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2501851707" k="railway" o="none" type="node" v="switch" />
+    <tag id="2536767795" k="source" o="none" type="node" v="Bing;survey" />
+    <tag id="2536767795" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="2536767795" k="crossing" o="none" type="node" v="no" />
+    <tag id="2536767855" k="source" o="none" type="node" v="Bing;survey" />
+    <tag id="2536767855" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="2536767910" k="source" o="none" type="node" v="survey" />
+    <tag id="2536767910" k="railway" o="none" type="node" v="buffer_stop" />
+    <tag id="2669194227" k="name" o="none" type="node" v="Haymarket" />
+    <tag id="2669194227" k="tram" o="none" type="node" v="yes" />
+    <tag id="2669194227" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2669194228" k="name" o="none" type="node" v="Haymarket" />
+    <tag id="2669194228" k="tram" o="none" type="node" v="yes" />
+    <tag id="2669194228" k="railway" o="none" type="node" v="tram_stop" />
+    <tag id="2669194228" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2693088951" k="name" o="none" type="node" v="Princes Street" />
+    <tag id="2693088951" k="tram" o="none" type="node" v="yes" />
+    <tag id="2693088951" k="railway" o="none" type="node" v="tram_stop" />
+    <tag id="2693088951" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2693088956" k="name" o="none" type="node" v="St Andrew Square" />
+    <tag id="2693088956" k="tram" o="none" type="node" v="yes" />
+    <tag id="2693088956" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="2693088962" k="name" o="none" type="node" v="York Place" />
+    <tag id="2693088962" k="tram" o="none" type="node" v="yes" />
+    <tag id="2693088962" k="railway" o="none" type="node" v="tram_stop" />
+    <tag id="2693088962" k="public_transport" o="none" type="node" v="stop_position" />
+    <tag id="3564022195" k="source" o="add" type="node" v="Bing;survey" />
     <tag id="3564022195" k="bicycle" o="add" type="node" v="yes" />
+    <tag id="3564022195" k="highway" o="add" type="node" v="crossing" />
     <tag id="3564022195" k="crossing" o="add" type="node" v="traffic_signals" />
     <tag id="3564022195" k="crossing_ref" o="add" type="node" v="toucan" />
-    <tag id="3564022195" k="highway" o="add" type="node" v="crossing" />
-    <tag id="3564022195" k="source" o="add" type="node" v="Bing;survey" />
-    <tag id="2693088951" k="name" o="none" type="node" v="Princes Street" />
-    <tag id="2693088951" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="2693088951" k="railway" o="none" type="node" v="tram_stop" />
-    <tag id="2693088951" k="tram" o="none" type="node" v="yes" />
-    <tag id="2693088956" k="name" o="none" type="node" v="St Andrew Square" />
-    <tag id="2693088956" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="2693088956" k="tram" o="none" type="node" v="yes" />
-    <tag id="2693088962" k="name" o="none" type="node" v="York Place" />
-    <tag id="2693088962" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="2693088962" k="railway" o="none" type="node" v="tram_stop" />
-    <tag id="2693088962" k="tram" o="none" type="node" v="yes" />
-    <tag id="2319609566" k="name" o="none" type="node" v="St Andrew Square" />
-    <tag id="2319609566" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="2319609566" k="railway" o="none" type="node" v="tram_stop" />
-    <tag id="2319609566" k="tram" o="none" type="node" v="yes" />
-    <tag id="2064987103" k="railway" o="none" type="node" v="switch" />
-    <tag id="2501851707" k="railway" o="none" type="node" v="switch" />
-    <tag id="2536767795" k="crossing" o="none" type="node" v="no" />
-    <tag id="2536767795" k="highway" o="none" type="node" v="traffic_signals" />
-    <tag id="2536767795" k="source" o="none" type="node" v="Bing;survey" />
-    <tag id="2536767910" k="railway" o="none" type="node" v="buffer_stop" />
-    <tag id="2536767910" k="source" o="none" type="node" v="survey" />
-    <tag id="2536767855" k="highway" o="none" type="node" v="traffic_signals" />
-    <tag id="2536767855" k="source" o="none" type="node" v="Bing;survey" />
-    <tag id="2669194227" k="name" o="none" type="node" v="Haymarket" />
-    <tag id="2669194227" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="2669194227" k="tram" o="none" type="node" v="yes" />
-    <tag id="2669194228" k="name" o="none" type="node" v="Haymarket" />
-    <tag id="2669194228" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="2669194228" k="railway" o="none" type="node" v="tram_stop" />
-    <tag id="2669194228" k="tram" o="none" type="node" v="yes" />
-    <tag id="1882457672" k="name" o="none" type="node" v="Princes Street" />
-    <tag id="1882457672" k="public_transport" o="none" type="node" v="stop_position" />
-    <tag id="1882457672" k="railway" o="none" type="node" v="tram_stop" />
-    <tag id="1882457672" k="tram" o="none" type="node" v="yes" />
-    <tag id="249504433" k="crossing" o="none" type="node" v="traffic_signals" />
-    <tag id="249504433" k="highway" o="none" type="node" v="traffic_signals" />
-    <tag id="249504433" k="source" o="none" type="node" v="Bing;survey" />
-    <tag id="637662" k="crossing" o="none" type="node" v="traffic_signals" />
-    <tag id="637662" k="highway" o="none" type="node" v="traffic_signals" />
-    <tag id="637662" k="source" o="none" type="node" v="Bing;survey" />
-    <tag id="257361317" k="bicycle" o="none" type="way" v="yes" />
-    <tag id="257361317" k="foot" o="none" type="way" v="yes" />
-    <tag id="257361317" k="highway" o="none" type="way" v="cycleway" />
-    <tag id="257361317" k="oneway" o="none" type="way" v="yes" />
-    <tag id="257361317" k="source" o="none" type="way" v="Bing;survey" />
-    <tag id="242692633" k="access" o="none" type="way" v="no" />
-    <tag id="242692633" k="highway" o="none" type="way" v="unclassified" />
-    <tag id="242692633" k="maxspeed" o="none" type="way" v="30 mph" />
-    <tag id="242692633" k="motor_vehicle" o="none" type="way" v="no" />
-    <tag id="242692633" k="name" o="none" type="way" v="Shandwick Place" />
-    <tag id="242692633" k="old_ref" o="none" type="way" v="A8" />
-    <tag id="242692633" k="oneway" o="none" type="way" v="yes" />
-    <tag id="242692633" k="source" o="none" type="way" v="Bing;survey" />
-    <tag id="223013628" k="bicycle" o="none" type="way" v="designated" />
-    <tag id="223013628" k="foot" o="none" type="way" v="yes" />
-    <tag id="223013628" k="highway" o="none" type="way" v="pedestrian" />
-    <tag id="223013628" k="lit" o="none" type="way" v="yes" />
-    <tag id="223013628" k="name" o="none" type="way" v="North St Andrew Street" />
-    <tag id="223013628" k="source" o="none" type="way" v="Bing;survey" />
-    <tag id="223013628" k="surface" o="none" type="way" v="paved" />
     <tag id="4084027" k="foot" o="none" type="way" v="yes" />
-    <tag id="4084027" k="highway" o="none" type="way" v="pedestrian" />
     <tag id="4084027" k="name" o="none" type="way" v="North St Andrew Street" />
     <tag id="4084027" k="source" o="none" type="way" v="Bing;survey" />
-    <tag id="241948796" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="241948796" k="oneway" o="none" type="way" v="yes" />
-    <tag id="241948796" k="railway" o="none" type="way" v="tram" />
-    <tag id="223013632" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="223013632" k="oneway" o="none" type="way" v="yes" />
-    <tag id="223013632" k="railway" o="none" type="way" v="tram" />
-    <tag id="241948792" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="241948792" k="oneway" o="none" type="way" v="yes" />
-    <tag id="241948792" k="railway" o="none" type="way" v="tram" />
-    <tag id="196123320" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="196123320" k="oneway" o="none" type="way" v="yes" />
-    <tag id="196123320" k="railway" o="none" type="way" v="tram" />
-    <tag id="223028207" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="223028207" k="oneway" o="none" type="way" v="yes" />
-    <tag id="223028207" k="railway" o="none" type="way" v="tram" />
-    <tag id="223013631" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="223013631" k="oneway" o="none" type="way" v="yes" />
-    <tag id="223013631" k="railway" o="none" type="way" v="tram" />
-    <tag id="241948800" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="241948800" k="oneway" o="none" type="way" v="yes" />
-    <tag id="241948800" k="railway" o="none" type="way" v="tram" />
-    <tag id="150139610" k="electrified" o="none" type="way" v="contact_line" />
-    <tag id="150139610" k="oneway" o="none" type="way" v="yes" />
-    <tag id="150139610" k="railway" o="none" type="way" v="tram" />
-    <tag id="23516221" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="4084027" k="highway" o="none" type="way" v="pedestrian" />
     <tag id="23516221" k="lit" o="none" type="way" v="yes" />
-    <tag id="23516221" k="maxspeed" o="none" type="way" v="30 mph" />
     <tag id="23516221" k="name" o="none" type="way" v="St Andrew Square" />
     <tag id="23516221" k="oneway" o="none" type="way" v="yes" />
     <tag id="23516221" k="source" o="none" type="way" v="Bing;survey" />
+    <tag id="23516221" k="highway" o="none" type="way" v="unclassified" />
     <tag id="23516221" k="surface" o="none" type="way" v="paved" />
+    <tag id="23516221" k="maxspeed" o="none" type="way" v="30 mph" />
     <tag id="24259940" k="foot" o="none" type="way" v="yes" />
-    <tag id="24259940" k="highway" o="none" type="way" v="footway" />
     <tag id="24259940" k="source" o="none" type="way" v="Bing;survey" />
-    <tag id="292128479" k="highway" o="none" type="way" v="primary" />
-    <tag id="292128479" k="lanes" o="none" type="way" v="2" />
-    <tag id="292128479" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="24259940" k="highway" o="none" type="way" v="footway" />
+    <tag id="150139610" k="oneway" o="none" type="way" v="yes" />
+    <tag id="150139610" k="railway" o="none" type="way" v="tram" />
+    <tag id="150139610" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="196123320" k="oneway" o="none" type="way" v="yes" />
+    <tag id="196123320" k="railway" o="none" type="way" v="tram" />
+    <tag id="196123320" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="223013628" k="lit" o="none" type="way" v="yes" />
+    <tag id="223013628" k="foot" o="none" type="way" v="yes" />
+    <tag id="223013628" k="name" o="none" type="way" v="North St Andrew Street" />
+    <tag id="223013628" k="source" o="none" type="way" v="Bing;survey" />
+    <tag id="223013628" k="bicycle" o="none" type="way" v="designated" />
+    <tag id="223013628" k="highway" o="none" type="way" v="pedestrian" />
+    <tag id="223013628" k="surface" o="none" type="way" v="paved" />
+    <tag id="223013631" k="oneway" o="none" type="way" v="yes" />
+    <tag id="223013631" k="railway" o="none" type="way" v="tram" />
+    <tag id="223013631" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="223013632" k="oneway" o="none" type="way" v="yes" />
+    <tag id="223013632" k="railway" o="none" type="way" v="tram" />
+    <tag id="223013632" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="223028207" k="oneway" o="none" type="way" v="yes" />
+    <tag id="223028207" k="railway" o="none" type="way" v="tram" />
+    <tag id="223028207" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="241948792" k="oneway" o="none" type="way" v="yes" />
+    <tag id="241948792" k="railway" o="none" type="way" v="tram" />
+    <tag id="241948792" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="241948796" k="oneway" o="none" type="way" v="yes" />
+    <tag id="241948796" k="railway" o="none" type="way" v="tram" />
+    <tag id="241948796" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="241948800" k="oneway" o="none" type="way" v="yes" />
+    <tag id="241948800" k="railway" o="none" type="way" v="tram" />
+    <tag id="241948800" k="electrified" o="none" type="way" v="contact_line" />
+    <tag id="242692633" k="name" o="none" type="way" v="Shandwick Place" />
+    <tag id="242692633" k="access" o="none" type="way" v="no" />
+    <tag id="242692633" k="oneway" o="none" type="way" v="yes" />
+    <tag id="242692633" k="source" o="none" type="way" v="Bing;survey" />
+    <tag id="242692633" k="highway" o="none" type="way" v="unclassified" />
+    <tag id="242692633" k="old_ref" o="none" type="way" v="A8" />
+    <tag id="242692633" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="242692633" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="257361317" k="foot" o="none" type="way" v="yes" />
+    <tag id="257361317" k="oneway" o="none" type="way" v="yes" />
+    <tag id="257361317" k="source" o="none" type="way" v="Bing;survey" />
+    <tag id="257361317" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="257361317" k="highway" o="none" type="way" v="cycleway" />
     <tag id="292128479" k="name" o="none" type="way" v="Lothian Road" />
+    <tag id="292128479" k="lanes" o="none" type="way" v="2" />
     <tag id="292128479" k="oneway" o="none" type="way" v="yes" />
     <tag id="292128479" k="source" o="none" type="way" v="Bing;survey" />
+    <tag id="292128479" k="highway" o="none" type="way" v="primary" />
+    <tag id="292128479" k="maxspeed" o="none" type="way" v="30 mph" />
   </body>
 </changeset>

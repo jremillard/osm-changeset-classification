@@ -1,11 +1,23 @@
 <changeset id="29452829" schema="2">
-  <counts nodesAdded="227" nodesDeleted="7" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="13" waysDeleted="1" waysModified="3" />
+  <counts nodesAdded="227" nodesDeleted="7" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="13" waysDeleted="1" waysModified="4" />
   <meta>
     <tag k="comment" v="add residential area for &quot;Steinhaus - Cadipietra&quot; (see http://www.openstreetmap.org/note/328712) and fix some poorly mapped landuse" />
     <tag k="created_by" v="JOSM/1.5 (8109 en)" />
     <tag k="source" v="bing" />
   </meta>
   <body>
+    <tag id="321207640" k="name" o="modify" type="node" v="Steinhaus - Cadipietra" />
+    <tag id="321207640" k="place" o="none" type="node" v="village" />
+    <tag id="321207640" k="name:de" o="none" type="node" v="Steinhaus" />
+    <tag id="321207640" k="name:it" o="none" type="node" v="Cadipietra" />
+    <tag id="49135772" k="layer" o="none" type="way" v="-2" />
+    <tag id="49135772" k="source" o="none" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
+    <tag id="49135772" k="landuse" o="none" type="way" v="farm" />
+    <tag id="49157248" k="wood" o="none" type="way" v="coniferous" />
+    <tag id="49157248" k="layer" o="none" type="way" v="-2" />
+    <tag id="49157248" k="source" o="none" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
+    <tag id="49157248" k="landuse" o="none" type="way" v="forest" />
+    <tag id="258184497" k="building" o="none" type="way" v="yes" />
     <tag id="332551462" k="natural" o="add" type="way" v="scree" />
     <tag id="332551463" k="building" o="add" type="way" v="yes" />
     <tag id="332551464" k="building" o="add" type="way" v="yes" />
@@ -15,28 +27,16 @@
     <tag id="332551468" k="building" o="add" type="way" v="yes" />
     <tag id="332551469" k="building" o="add" type="way" v="yes" />
     <tag id="332551470" k="building" o="add" type="way" v="yes" />
-    <tag id="332551471" k="landuse" o="add" type="way" v="farm" />
     <tag id="332551471" k="layer" o="add" type="way" v="-2" />
     <tag id="332551471" k="source" o="add" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
-    <tag id="332551472" k="landuse" o="add" type="way" v="farm" />
+    <tag id="332551471" k="landuse" o="add" type="way" v="farm" />
     <tag id="332551472" k="layer" o="add" type="way" v="-2" />
     <tag id="332551472" k="source" o="add" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
-    <tag id="332551473" k="landuse" o="add" type="way" v="farm" />
+    <tag id="332551472" k="landuse" o="add" type="way" v="farm" />
     <tag id="332551473" k="layer" o="add" type="way" v="-2" />
     <tag id="332551473" k="source" o="add" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
+    <tag id="332551473" k="landuse" o="add" type="way" v="farm" />
     <tag id="332551474" k="landuse" o="add" type="way" v="residential" />
-    <tag id="321207640" k="name" o="modify" type="node" v="Steinhaus - Cadipietra" />
-    <tag id="321207640" k="name:de" o="none" type="node" v="Steinhaus" />
-    <tag id="321207640" k="name:it" o="none" type="node" v="Cadipietra" />
-    <tag id="321207640" k="place" o="none" type="node" v="village" />
-    <tag id="258184497" k="building" o="none" type="way" v="yes" />
-    <tag id="49135772" k="landuse" o="none" type="way" v="farm" />
-    <tag id="49135772" k="layer" o="none" type="way" v="-2" />
-    <tag id="49135772" k="source" o="none" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
-    <tag id="49157248" k="landuse" o="none" type="way" v="forest" />
-    <tag id="49157248" k="layer" o="none" type="way" v="-2" />
-    <tag id="49157248" k="source" o="none" type="way" v="AUTONOME PROVINZ BOZEN-S&#220;DTIROL (Amt f&#252;r &#252;ber&#246;rtliche Raumordnung 27.1)" />
-    <tag id="49157248" k="wood" o="none" type="way" v="coniferous" />
     <tag id="398211" k="type" o="none" type="relation" v="multipolygon" />
   </body>
 </changeset>

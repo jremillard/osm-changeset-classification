@@ -1,1 +1,87 @@
-<changeset id="55498604" schema="1"><counts nodesAdded="15" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="9" /><meta><tag k="comment" v="Erg&#228;nzungen Marienehe" /><tag k="created_by" v="JOSM/1.5 (13265 de)" /><tag k="source" v="war vor Ort" /></meta><body><tag id="5343229669" k="addr:city" o="add" type="node" v="Rostock" /><tag id="5343229669" k="addr:country" o="add" type="node" v="DE" /><tag id="5343229669" k="addr:housenumber" o="add" type="node" v="1" /><tag id="5343229669" k="addr:postcode" o="add" type="node" v="18069" /><tag id="5343229669" k="addr:street" o="add" type="node" v="Zum K&#252;hlhaus" /><tag id="5343229669" k="addr:suburb" o="add" type="node" v="Marienehe" /><tag id="5343229669" k="amenity" o="add" type="node" v="fuel" /><tag id="5343229669" k="fuel:lpg" o="add" type="node" v="yes" /><tag id="5343229669" k="name" o="add" type="node" v="Autohaus am Fischereihafen" /><tag id="5343229669" k="opening_hours" o="add" type="node" v="24/7" /><tag id="5343229669" k="operator" o="add" type="node" v="Autohaus am Fischereihafen" /><tag id="5343229669" k="survey:date" o="add" type="node" v="2018-01-16" /><tag id="5343229670" k="highway" o="add" type="node" v="stop" /><tag id="5343229670" k="stop:direction" o="add" type="node" v="forward" /><tag id="553574964" k="area" o="add" type="way" v="yes" /><tag id="553574964" k="highway" o="add" type="way" v="service" /><tag id="553574965" k="area" o="add" type="way" v="yes" /><tag id="553574965" k="highway" o="add" type="way" v="service" /><tag id="553574966" k="highway" o="add" type="way" v="service" /><tag id="4887307756" k="noexit" o="add" type="node" v="yes" /><tag id="33894152" k="opening_hours" o="add" type="way" v="Mo-Fr 07:30-18:00; Sa 08:00-12:00" /><tag id="33894152" k="survey:date" o="add" type="way" v="2018-01-16" /><tag id="242100452" k="railway" o="modify" type="way" v="abandoned" /><tag id="242100453" k="railway" o="modify" type="way" v="abandoned" /></body></changeset>
+<changeset id="55498604" schema="2">
+  <counts nodesAdded="15" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="1" waysModified="10" />
+  <meta>
+    <tag k="comment" v="Erg&#228;nzungen Marienehe" />
+    <tag k="created_by" v="JOSM/1.5 (13265 de)" />
+    <tag k="source" v="war vor Ort" />
+  </meta>
+  <body>
+    <tag id="4887307756" k="noexit" o="add" type="node" v="yes" />
+    <tag id="5343229669" k="name" o="add" type="node" v="Autohaus am Fischereihafen" />
+    <tag id="5343229669" k="amenity" o="add" type="node" v="fuel" />
+    <tag id="5343229669" k="fuel:lpg" o="add" type="node" v="yes" />
+    <tag id="5343229669" k="operator" o="add" type="node" v="Autohaus am Fischereihafen" />
+    <tag id="5343229669" k="addr:city" o="add" type="node" v="Rostock" />
+    <tag id="5343229669" k="addr:street" o="add" type="node" v="Zum K&#252;hlhaus" />
+    <tag id="5343229669" k="addr:suburb" o="add" type="node" v="Marienehe" />
+    <tag id="5343229669" k="survey:date" o="add" type="node" v="2018-01-16" />
+    <tag id="5343229669" k="addr:country" o="add" type="node" v="DE" />
+    <tag id="5343229669" k="addr:postcode" o="add" type="node" v="18069" />
+    <tag id="5343229669" k="opening_hours" o="add" type="node" v="24/7" />
+    <tag id="5343229669" k="addr:housenumber" o="add" type="node" v="1" />
+    <tag id="5343229670" k="highway" o="add" type="node" v="stop" />
+    <tag id="5343229670" k="stop:direction" o="add" type="node" v="forward" />
+    <tag id="33894152" k="name" o="none" type="way" v="Autohaus am Fischereihafen" />
+    <tag id="33894152" k="shop" o="none" type="way" v="car_repair" />
+    <tag id="33894152" k="website" o="none" type="way" v="http://www.autohaus-am-fischereihafen.de" />
+    <tag id="33894152" k="building" o="none" type="way" v="yes" />
+    <tag id="33894152" k="addr:city" o="none" type="way" v="Rostock" />
+    <tag id="33894152" k="roof:shape" o="none" type="way" v="gabled" />
+    <tag id="33894152" k="addr:street" o="none" type="way" v="Zum K&#252;hlhaus" />
+    <tag id="33894152" k="survey:date" o="add" type="way" v="2018-01-16" />
+    <tag id="33894152" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="33894152" k="kvl_hro:type" o="none" type="way" v="1721" />
+    <tag id="33894152" k="addr:postcode" o="none" type="way" v="18069" />
+    <tag id="33894152" k="opening_hours" o="add" type="way" v="Mo-Fr 07:30-18:00; Sa 08:00-12:00" />
+    <tag id="33894152" k="building:height" o="none" type="way" v="5.9 m" />
+    <tag id="33894152" k="kvl_hro:amenity" o="none" type="way" v="workshop" />
+    <tag id="33894152" k="addr:housenumber" o="none" type="way" v="1" />
+    <tag id="33894157" k="source" o="none" type="way" v="KVL HRO" />
+    <tag id="33894157" k="building" o="none" type="way" v="yes" />
+    <tag id="33894157" k="roof:shape" o="none" type="way" v="gabled" />
+    <tag id="33894157" k="kvl_hro:type" o="none" type="way" v="1721" />
+    <tag id="33894157" k="building:height" o="none" type="way" v="10.9 m" />
+    <tag id="33894157" k="kvl_hro:amenity" o="none" type="way" v="workshop" />
+    <tag id="33894184" k="source" o="none" type="way" v="KVL HRO" />
+    <tag id="33894184" k="building" o="none" type="way" v="yes" />
+    <tag id="33894184" k="addr:city" o="none" type="way" v="Rostock" />
+    <tag id="33894184" k="roof:shape" o="none" type="way" v="gabled" />
+    <tag id="33894184" k="addr:street" o="none" type="way" v="Zum K&#252;hlhaus" />
+    <tag id="33894184" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="33894184" k="kvl_hro:type" o="none" type="way" v="1701" />
+    <tag id="33894184" k="addr:postcode" o="none" type="way" v="18069" />
+    <tag id="33894184" k="building:height" o="none" type="way" v="9.5 m" />
+    <tag id="33894184" k="kvl_hro:amenity" o="none" type="way" v="business_and_industry" />
+    <tag id="33894184" k="addr:housenumber" o="none" type="way" v="2" />
+    <tag id="33894202" k="source" o="none" type="way" v="KVL HRO" />
+    <tag id="33894202" k="building" o="none" type="way" v="yes" />
+    <tag id="33894202" k="addr:city" o="none" type="way" v="Rostock" />
+    <tag id="33894202" k="roof:shape" o="none" type="way" v="gabled" />
+    <tag id="33894202" k="addr:street" o="none" type="way" v="Zum K&#252;hlhaus" />
+    <tag id="33894202" k="addr:country" o="none" type="way" v="DE" />
+    <tag id="33894202" k="kvl_hro:type" o="none" type="way" v="1499" />
+    <tag id="33894202" k="addr:postcode" o="none" type="way" v="18069" />
+    <tag id="33894202" k="building:height" o="none" type="way" v="7.3 m" />
+    <tag id="33894202" k="kvl_hro:amenity" o="none" type="way" v="commerce_and_service" />
+    <tag id="33894202" k="addr:housenumber" o="none" type="way" v="4" />
+    <tag id="230802096" k="name" o="none" type="way" v="Reusenweg" />
+    <tag id="230802096" k="highway" o="none" type="way" v="residential" />
+    <tag id="230802096" k="cycleway" o="none" type="way" v="no" />
+    <tag id="230802096" k="de:strassenschluessel" o="none" type="way" v="13003000000014030" />
+    <tag id="242100452" k="gauge" o="none" type="way" v="1435" />
+    <tag id="242100452" k="railway" o="modify" type="way" v="abandoned" />
+    <tag id="242100452" k="service" o="none" type="way" v="spur" />
+    <tag id="242100453" k="gauge" o="none" type="way" v="1435" />
+    <tag id="242100453" k="railway" o="modify" type="way" v="abandoned" />
+    <tag id="242100453" k="service" o="none" type="way" v="spur" />
+    <tag id="441386284" k="highway" o="none" type="way" v="service" />
+    <tag id="441386284" k="service" o="none" type="way" v="driveway" />
+    <tag id="441386294" k="highway" o="none" type="way" v="service" />
+    <tag id="441386294" k="service" o="none" type="way" v="driveway" />
+    <tag id="553574964" k="area" o="add" type="way" v="yes" />
+    <tag id="553574964" k="highway" o="add" type="way" v="service" />
+    <tag id="553574965" k="area" o="add" type="way" v="yes" />
+    <tag id="553574965" k="highway" o="add" type="way" v="service" />
+    <tag id="553574966" k="highway" o="add" type="way" v="service" />
+  </body>
+</changeset>

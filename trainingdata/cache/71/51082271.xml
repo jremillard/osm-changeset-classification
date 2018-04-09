@@ -1,1 +1,28 @@
-<changeset id="51082271" schema="1"><counts nodesAdded="1" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="1" /><meta><tag k="comment" v="add ISO New England; correct street line (public access ends at guard shack)" /><tag k="created_by" v="iD 2.3.2" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5032298921" k="addr:city" o="add" type="node" v="Holyoke" /><tag id="5032298921" k="addr:housenumber" o="add" type="node" v="1" /><tag id="5032298921" k="addr:postcode" o="add" type="node" v="01040" /><tag id="5032298921" k="addr:state" o="add" type="node" v="ma" /><tag id="5032298921" k="addr:street" o="add" type="node" v="Whiting Farms Road" /><tag id="5032298921" k="description" o="add" type="node" v="Electric Power Transmission Grid - Independant System Opertor for the New England region" /><tag id="5032298921" k="name" o="add" type="node" v="ISO New England" /><tag id="5032298921" k="website" o="add" type="node" v="https://www.iso-ne.com" /><tag id="5032298921" k="wikidata" o="add" type="node" v="Q5974452" /><tag id="5032298921" k="wikipedia" o="add" type="node" v="en:ISO New England" /></body></changeset>
+<changeset id="51082271" schema="2">
+  <counts nodesAdded="1" nodesDeleted="3" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="comment" v="add ISO New England; correct street line (public access ends at guard shack)" />
+    <tag k="created_by" v="iD 2.3.2" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="62956255" k="source" o="none" type="node" v="massgis_import_v0.1_20071009085127" />
+    <tag id="62956255" k="attribution" o="none" type="node" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="5032298921" k="name" o="add" type="node" v="ISO New England" />
+    <tag id="5032298921" k="website" o="add" type="node" v="https://www.iso-ne.com" />
+    <tag id="5032298921" k="wikidata" o="add" type="node" v="Q5974452" />
+    <tag id="5032298921" k="addr:city" o="add" type="node" v="Holyoke" />
+    <tag id="5032298921" k="wikipedia" o="add" type="node" v="en:ISO New England" />
+    <tag id="5032298921" k="addr:state" o="add" type="node" v="ma" />
+    <tag id="5032298921" k="addr:street" o="add" type="node" v="Whiting Farms Road" />
+    <tag id="5032298921" k="description" o="add" type="node" v="Electric Power Transmission Grid - Independant System Opertor for the New England region" />
+    <tag id="5032298921" k="addr:postcode" o="add" type="node" v="01040" />
+    <tag id="5032298921" k="addr:housenumber" o="add" type="node" v="1" />
+    <tag id="8767313" k="source" o="none" type="way" v="massgis_import_v0.1_20071009085127" />
+    <tag id="8767313" k="highway" o="none" type="way" v="residential" />
+    <tag id="8767313" k="attribution" o="none" type="way" v="Office of Geographic and Environmental Information (MassGIS)" />
+    <tag id="8767313" k="massgis:way_id" o="none" type="way" v="137" />
+  </body>
+</changeset>

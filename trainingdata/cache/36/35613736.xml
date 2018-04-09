@@ -1,5 +1,5 @@
 <changeset id="35613736" schema="2">
-  <counts nodesAdded="31" nodesDeleted="5" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="15" waysDeleted="2" waysModified="16" />
+  <counts nodesAdded="31" nodesDeleted="5" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="1" waysAdded="15" waysDeleted="2" waysModified="18" />
   <meta>
     <tag k="comment" v="Apertura tramos via lugo-monforte http://www.lavozdegalicia.es/noticia/lemos/2015/11/26/ultimo-tramo-corredor-quedara-abierto-trafico-manana/00031448558061856585434.htm" />
     <tag k="created_by" v="iD 1.8.0" />
@@ -8,88 +8,88 @@
     <tag k="locale" v="es" />
   </meta>
   <body>
-    <tag id="383087122" k="highway" o="add" type="way" v="trunk_link" />
+    <tag id="135469966" k="ref" o="none" type="way" v="LU-652" />
+    <tag id="135469966" k="name" o="none" type="way" v="Carretera a Quiroga" />
+    <tag id="135469966" k="highway" o="none" type="way" v="primary" />
+    <tag id="144761612" k="ref" o="none" type="way" v="CG-2.2" />
+    <tag id="144761612" k="name" o="modify" type="way" v="CG-2.2 VAP Lugo - Monforte" />
+    <tag id="144761612" k="access" o="none" type="way" v="yes" />
+    <tag id="144761612" k="oneway" o="none" type="way" v="no" />
+    <tag id="144761612" k="highway" o="none" type="way" v="trunk" />
+    <tag id="144761612" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="144761612" k="maxspeed" o="add" type="way" v="100" />
+    <tag id="144761612" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="144761612" k="construction" o="none" type="way" v="trunk" />
+    <tag id="144761613" k="ref" o="none" type="way" v="CG-2.2" />
+    <tag id="144761613" k="name" o="none" type="way" v="CG-2.2 VAP Lugo - Monforte" />
+    <tag id="144761613" k="oneway" o="none" type="way" v="no" />
+    <tag id="144761613" k="highway" o="none" type="way" v="trunk" />
+    <tag id="144761613" k="construction" o="none" type="way" v="trunk" />
+    <tag id="187883589" k="access" o="none" type="way" v="no" />
+    <tag id="187883589" k="oneway" o="none" type="way" v="yes" />
+    <tag id="187883589" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="187883591" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="187883592" k="highway" o="modify" type="way" v="tertiary" />
+    <tag id="187883600" k="access" o="none" type="way" v="no" />
+    <tag id="187883600" k="oneway" o="none" type="way" v="yes" />
+    <tag id="187883600" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="187883601" k="access" o="none" type="way" v="no" />
+    <tag id="187883601" k="oneway" o="none" type="way" v="yes" />
+    <tag id="187883601" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="190403016" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190403016" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="190403017" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190403017" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="190403019" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190403019" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="190403020" k="oneway" o="add" type="way" v="yes" />
+    <tag id="190403020" k="highway" o="modify" type="way" v="trunk_link" />
+    <tag id="213520834" k="ref" o="none" type="way" v="CG-2.2" />
+    <tag id="213520834" k="foot" o="none" type="way" v="no" />
+    <tag id="213520834" k="name" o="none" type="way" v="CG-2.2 VAP Lugo - Monforte" />
+    <tag id="213520834" k="horse" o="none" type="way" v="no" />
+    <tag id="213520834" k="lanes" o="none" type="way" v="1" />
+    <tag id="213520834" k="access" o="none" type="way" v="no" />
+    <tag id="213520834" k="oneway" o="none" type="way" v="no" />
+    <tag id="213520834" k="bicycle" o="none" type="way" v="no" />
+    <tag id="213520834" k="highway" o="none" type="way" v="trunk" />
+    <tag id="213520834" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="213520834" k="maxspeed" o="none" type="way" v="100" />
+    <tag id="213520834" k="motorroad" o="none" type="way" v="yes" />
+    <tag id="213520834" k="construction" o="none" type="way" v="trunk" />
+    <tag id="213520834" k="motor_vehicle" o="none" type="way" v="no" />
+    <tag id="213520836" k="lanes" o="none" type="way" v="1" />
+    <tag id="213520836" k="access" o="none" type="way" v="no" />
+    <tag id="213520836" k="oneway" o="none" type="way" v="yes" />
+    <tag id="213520836" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="213520838" k="access" o="none" type="way" v="no" />
+    <tag id="213520838" k="highway" o="none" type="way" v="trunk_link" />
+    <tag id="221119438" k="access" o="none" type="way" v="no" />
+    <tag id="221119438" k="oneway" o="none" type="way" v="yes" />
+    <tag id="221119438" k="highway" o="none" type="way" v="trunk_link" />
     <tag id="383087122" k="oneway" o="add" type="way" v="yes" />
+    <tag id="383087122" k="highway" o="add" type="way" v="trunk_link" />
     <tag id="383087123" k="highway" o="add" type="way" v="primary_link" />
     <tag id="383087124" k="highway" o="add" type="way" v="primary_link" />
-    <tag id="383087125" k="access" o="add" type="way" v="no" />
-    <tag id="383087125" k="highway" o="add" type="way" v="trunk_link" />
     <tag id="383087125" k="lanes" o="add" type="way" v="1" />
+    <tag id="383087125" k="access" o="add" type="way" v="no" />
     <tag id="383087125" k="oneway" o="add" type="way" v="yes" />
+    <tag id="383087125" k="highway" o="add" type="way" v="trunk_link" />
     <tag id="383087126" k="highway" o="add" type="way" v="primary_link" />
-    <tag id="383087127" k="highway" o="add" type="way" v="primary" />
-    <tag id="383087127" k="name" o="add" type="way" v="Carretera a Quiroga" />
     <tag id="383087127" k="ref" o="add" type="way" v="LU-652" />
+    <tag id="383087127" k="name" o="add" type="way" v="Carretera a Quiroga" />
+    <tag id="383087127" k="highway" o="add" type="way" v="primary" />
     <tag id="383087128" k="highway" o="add" type="way" v="primary_link" />
     <tag id="383087129" k="highway" o="add" type="way" v="primary_link" />
     <tag id="383087130" k="highway" o="add" type="way" v="primary_link" />
     <tag id="383087131" k="highway" o="add" type="way" v="primary_link" />
-    <tag id="383087132" k="highway" o="add" type="way" v="primary" />
-    <tag id="383087132" k="name" o="add" type="way" v="Carretera a Quiroga" />
     <tag id="383087132" k="ref" o="add" type="way" v="LU-652" />
+    <tag id="383087132" k="name" o="add" type="way" v="Carretera a Quiroga" />
+    <tag id="383087132" k="highway" o="add" type="way" v="primary" />
     <tag id="383087133" k="highway" o="add" type="way" v="primary_link" />
     <tag id="383087134" k="highway" o="add" type="way" v="primary_link" />
     <tag id="383087135" k="highway" o="add" type="way" v="primary_link" />
-    <tag id="383087136" k="highway" o="add" type="way" v="trunk_link" />
     <tag id="383087136" k="oneway" o="add" type="way" v="yes" />
-    <tag id="144761613" k="construction" o="none" type="way" v="trunk" />
-    <tag id="144761613" k="highway" o="none" type="way" v="trunk" />
-    <tag id="144761613" k="name" o="none" type="way" v="CG-2.2 VAP Lugo - Monforte" />
-    <tag id="144761613" k="oneway" o="none" type="way" v="no" />
-    <tag id="144761613" k="ref" o="none" type="way" v="CG-2.2" />
-    <tag id="187883592" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="190403016" k="highway" o="modify" type="way" v="trunk_link" />
-    <tag id="190403016" k="oneway" o="add" type="way" v="yes" />
-    <tag id="190403017" k="highway" o="modify" type="way" v="trunk_link" />
-    <tag id="190403017" k="oneway" o="add" type="way" v="yes" />
-    <tag id="190403019" k="highway" o="modify" type="way" v="trunk_link" />
-    <tag id="190403019" k="oneway" o="add" type="way" v="yes" />
-    <tag id="190403020" k="highway" o="modify" type="way" v="trunk_link" />
-    <tag id="190403020" k="oneway" o="add" type="way" v="yes" />
-    <tag id="221119438" k="access" o="none" type="way" v="no" />
-    <tag id="221119438" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="221119438" k="oneway" o="none" type="way" v="yes" />
-    <tag id="213520838" k="access" o="none" type="way" v="no" />
-    <tag id="213520838" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="187883589" k="access" o="none" type="way" v="no" />
-    <tag id="187883589" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="187883589" k="oneway" o="none" type="way" v="yes" />
-    <tag id="187883600" k="access" o="none" type="way" v="no" />
-    <tag id="187883600" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="187883600" k="oneway" o="none" type="way" v="yes" />
-    <tag id="187883601" k="access" o="none" type="way" v="no" />
-    <tag id="187883601" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="187883601" k="oneway" o="none" type="way" v="yes" />
-    <tag id="187883591" k="highway" o="modify" type="way" v="tertiary" />
-    <tag id="213520836" k="access" o="none" type="way" v="no" />
-    <tag id="213520836" k="highway" o="none" type="way" v="trunk_link" />
-    <tag id="213520836" k="lanes" o="none" type="way" v="1" />
-    <tag id="213520836" k="oneway" o="none" type="way" v="yes" />
-    <tag id="135469966" k="highway" o="none" type="way" v="primary" />
-    <tag id="135469966" k="name" o="none" type="way" v="Carretera a Quiroga" />
-    <tag id="135469966" k="ref" o="none" type="way" v="LU-652" />
-    <tag id="213520834" k="access" o="none" type="way" v="no" />
-    <tag id="213520834" k="bicycle" o="none" type="way" v="no" />
-    <tag id="213520834" k="construction" o="none" type="way" v="trunk" />
-    <tag id="213520834" k="foot" o="none" type="way" v="no" />
-    <tag id="213520834" k="highway" o="none" type="way" v="trunk" />
-    <tag id="213520834" k="horse" o="none" type="way" v="no" />
-    <tag id="213520834" k="lanes" o="none" type="way" v="1" />
-    <tag id="213520834" k="maxspeed" o="none" type="way" v="100" />
-    <tag id="213520834" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="213520834" k="motor_vehicle" o="none" type="way" v="no" />
-    <tag id="213520834" k="name" o="none" type="way" v="CG-2.2 VAP Lugo - Monforte" />
-    <tag id="213520834" k="oneway" o="none" type="way" v="no" />
-    <tag id="213520834" k="ref" o="none" type="way" v="CG-2.2" />
-    <tag id="213520834" k="surface" o="add" type="way" v="asphalt" />
-    <tag id="144761612" k="access" o="none" type="way" v="yes" />
-    <tag id="144761612" k="construction" o="none" type="way" v="trunk" />
-    <tag id="144761612" k="highway" o="none" type="way" v="trunk" />
-    <tag id="144761612" k="maxspeed" o="add" type="way" v="100" />
-    <tag id="144761612" k="motorroad" o="none" type="way" v="yes" />
-    <tag id="144761612" k="name" o="modify" type="way" v="CG-2.2 VAP Lugo - Monforte" />
-    <tag id="144761612" k="oneway" o="none" type="way" v="no" />
-    <tag id="144761612" k="ref" o="none" type="way" v="CG-2.2" />
-    <tag id="144761612" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="383087136" k="highway" o="add" type="way" v="trunk_link" />
   </body>
 </changeset>

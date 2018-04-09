@@ -1,16 +1,20 @@
 import osmcsclassify
 import sys
 import sqlite3
+import os.path
+
+conn = None
+if ( os.path.isfile(osmcsclassify.Config.historyDbFileName)):
+    conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
 
 changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
 
-conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
-
-errorCount = 0
-# first make sure validated changeset are downloaded
 for cs in changeSets.rows:
-    if ( True or cs['cs'].cached() == False):        
-        cs['cs'].extractFromPlanet(conn)
+    if ( cs['cs'].cached() == False):        
+        if ( conn not None)
+            cs['cs'].extractFromPlanet(conn)
+        else:
+            cs['cs'].download()
         cs['cs'].save()
 
 
@@ -23,8 +27,6 @@ Mapping Error             69 ChangeSets
 Mapping Error Val         69 ChangeSets
 OK                        21283 ChangeSets
 OK Val                    7245 ChangeSets
-Revert                    853 ChangeSets
-Revert Val                853 ChangeSets
 SPAM                      319 ChangeSets
 SPAM Val                  312 ChangeSets
 '''

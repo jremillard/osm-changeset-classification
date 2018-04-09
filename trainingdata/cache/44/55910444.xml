@@ -1,1 +1,61 @@
-<changeset id="55910444" schema="1"><counts nodesAdded="7" nodesModified="10" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="7" /><meta><tag k="comment" v="Geschwindigkeitsbegrenzung am Ortseingang" /><tag k="created_by" v="JOSM/1.5 (5608 en)" /></meta><body><tag id="5373615707" k="crossing" o="add" type="node" v="island" /><tag id="5373615707" k="highway" o="add" type="node" v="crossing" /><tag id="35043168" k="maxspeed:conditional" o="add" type="way" v="30 @ Mo-Fr 07:00-17:00" /><tag id="47201167" k="highway" o="modify" type="way" v="service" /><tag id="47201167" k="service" o="add" type="way" v="driveway" /><tag id="35043169" k="maxspeed:conditional" o="add" type="way" v="30 @ Mo-Fr 07:00-17:00" /><tag id="40700887" k="maxspeed:conditional" o="add" type="way" v="30 @ Mo-Fr 07:00-17:00" /></body></changeset>
+<changeset id="55910444" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="7" />
+  <meta>
+    <tag k="comment" v="Geschwindigkeitsbegrenzung am Ortseingang" />
+    <tag k="created_by" v="JOSM/1.5 (5608 en)" />
+  </meta>
+  <body>
+    <tag id="494355942" k="name" o="none" type="node" v="Bergrheinfeld" />
+    <tag id="494355942" k="traffic_sign" o="none" type="node" v="city_limit" />
+    <tag id="5373615707" k="highway" o="add" type="node" v="crossing" />
+    <tag id="5373615707" k="crossing" o="add" type="node" v="island" />
+    <tag id="25812564" k="name" o="none" type="way" v="Am Langen Graben" />
+    <tag id="25812564" k="highway" o="none" type="way" v="residential" />
+    <tag id="25812564" k="postal_code" o="none" type="way" v="97493" />
+    <tag id="25994451" k="name" o="none" type="way" v="Mainstra&#223;e" />
+    <tag id="25994451" k="highway" o="none" type="way" v="residential" />
+    <tag id="35043168" k="lit" o="none" type="way" v="yes" />
+    <tag id="35043168" k="ref" o="none" type="way" v="St 2277" />
+    <tag id="35043168" k="name" o="none" type="way" v="Mainstra&#223;e" />
+    <tag id="35043168" k="lanes" o="none" type="way" v="2" />
+    <tag id="35043168" k="highway" o="none" type="way" v="secondary" />
+    <tag id="35043168" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35043168" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="35043168" k="postal_code" o="none" type="way" v="97493" />
+    <tag id="35043168" k="source:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="35043168" k="maxspeed:conditional" o="add" type="way" v="30 @ Mo-Fr 07:00-17:00" />
+    <tag id="35043168" k="sidewalk:both:surface" o="none" type="way" v="asphalt" />
+    <tag id="35043169" k="lit" o="none" type="way" v="yes" />
+    <tag id="35043169" k="ref" o="none" type="way" v="St 2277" />
+    <tag id="35043169" k="name" o="none" type="way" v="Mainstra&#223;e" />
+    <tag id="35043169" k="lanes" o="none" type="way" v="2" />
+    <tag id="35043169" k="highway" o="none" type="way" v="secondary" />
+    <tag id="35043169" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="35043169" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="35043169" k="postal_code" o="none" type="way" v="97493" />
+    <tag id="35043169" k="source:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="35043169" k="maxspeed:conditional" o="add" type="way" v="30 @ Mo-Fr 07:00-17:00" />
+    <tag id="35043169" k="sidewalk:both:surface" o="none" type="way" v="asphalt" />
+    <tag id="40700887" k="lit" o="none" type="way" v="yes" />
+    <tag id="40700887" k="ref" o="none" type="way" v="St 2277" />
+    <tag id="40700887" k="name" o="none" type="way" v="Mainstra&#223;e" />
+    <tag id="40700887" k="lanes" o="none" type="way" v="2" />
+    <tag id="40700887" k="highway" o="none" type="way" v="secondary" />
+    <tag id="40700887" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="40700887" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="40700887" k="postal_code" o="none" type="way" v="97493" />
+    <tag id="40700887" k="source:maxspeed" o="none" type="way" v="DE:urban" />
+    <tag id="40700887" k="maxspeed:conditional" o="add" type="way" v="30 @ Mo-Fr 07:00-17:00" />
+    <tag id="40700887" k="sidewalk:both:surface" o="none" type="way" v="asphalt" />
+    <tag id="40700888" k="ref" o="none" type="way" v="St 2277" />
+    <tag id="40700888" k="lanes" o="none" type="way" v="2" />
+    <tag id="40700888" k="source" o="none" type="way" v="survey" />
+    <tag id="40700888" k="highway" o="none" type="way" v="secondary" />
+    <tag id="40700888" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="40700888" k="source:maxspeed" o="none" type="way" v="sign" />
+    <tag id="47201167" k="note" o="none" type="way" v="two parallel ways" />
+    <tag id="47201167" k="access" o="none" type="way" v="private" />
+    <tag id="47201167" k="highway" o="modify" type="way" v="service" />
+    <tag id="47201167" k="service" o="add" type="way" v="driveway" />
+  </body>
+</changeset>

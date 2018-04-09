@@ -1,1 +1,38 @@
-<changeset id="55741074" schema="1"><counts nodesAdded="4" nodesModified="35" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="3" /><meta><tag k="comment" v="construction area WTC + traffic lights in Krems" /><tag k="created_by" v="JOSM/1.5 (13170 de)" /><tag k="source" v="Geoimage.at MaxRes, survey" /></meta><body><tag id="5294152424" k="disused:button_operated" o="add" type="node" v="yes" /><tag id="5294152424" k="disused:crossing" o="add" type="node" v="traffic_signals" /><tag id="5294152424" k="disused:crossing_ref" o="add" type="node" v="zebra" /><tag id="5294152424" k="disused:foot" o="add" type="node" v="yes" /><tag id="5294152424" k="disused:highway" o="add" type="node" v="crossing" /><tag id="5294152424" k="disused:traffic_signals:minimap" o="add" type="node" v="yes" /><tag id="5294152424" k="disused:traffic_signals:sound" o="add" type="node" v="yes" /><tag id="2147981856" k="disused:bicycle" o="add" type="node" v="yes" /><tag id="2147981856" k="disused:button_operated" o="add" type="node" v="yes" /><tag id="2147981856" k="disused:crossing" o="add" type="node" v="traffic_signals" /><tag id="2147981856" k="disused:crossing_ref" o="add" type="node" v="zebra" /><tag id="2147981856" k="disused:foot" o="add" type="node" v="yes" /><tag id="2147981856" k="disused:highway" o="add" type="node" v="crossing" /><tag id="2147981856" k="disused:traffic_signals:minimap" o="add" type="node" v="yes" /><tag id="2147981856" k="disused:traffic_signals:sound" o="add" type="node" v="yes" /><tag id="547965407" k="disused:foot" o="add" type="way" v="designated" /><tag id="547965407" k="disused:highway" o="add" type="way" v="path" /><tag id="547965407" k="disused:segregated" o="add" type="way" v="yes" /><tag id="85730409" k="alt_name" o="add" type="way" v="Baustelle WienerTor Center Krems" /><tag id="85730409" k="name" o="add" type="way" v="Baustelle WTC Krems" /><tag id="85730409" k="website" o="add" type="way" v="http://wtc-krems.at" /></body></changeset>
+<changeset id="55741074" schema="2">
+  <counts nodesAdded="4" nodesDeleted="5" nodesModified="2" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="3" />
+  <meta>
+    <tag k="comment" v="construction area WTC + traffic lights in Krems" />
+    <tag k="created_by" v="JOSM/1.5 (13170 de)" />
+    <tag k="source" v="Geoimage.at MaxRes, survey" />
+  </meta>
+  <body>
+    <tag id="2147981856" k="disused:foot" o="add" type="node" v="yes" />
+    <tag id="2147981856" k="disused:bicycle" o="add" type="node" v="yes" />
+    <tag id="2147981856" k="disused:highway" o="add" type="node" v="crossing" />
+    <tag id="2147981856" k="disused:crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="2147981856" k="disused:crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="2147981856" k="disused:button_operated" o="add" type="node" v="yes" />
+    <tag id="2147981856" k="disused:traffic_signals:sound" o="add" type="node" v="yes" />
+    <tag id="2147981856" k="disused:traffic_signals:minimap" o="add" type="node" v="yes" />
+    <tag id="5294152424" k="disused:foot" o="add" type="node" v="yes" />
+    <tag id="5294152424" k="disused:highway" o="add" type="node" v="crossing" />
+    <tag id="5294152424" k="disused:crossing" o="add" type="node" v="traffic_signals" />
+    <tag id="5294152424" k="disused:crossing_ref" o="add" type="node" v="zebra" />
+    <tag id="5294152424" k="disused:button_operated" o="add" type="node" v="yes" />
+    <tag id="5294152424" k="disused:traffic_signals:sound" o="add" type="node" v="yes" />
+    <tag id="5294152424" k="disused:traffic_signals:minimap" o="add" type="node" v="yes" />
+    <tag id="85730409" k="name" o="add" type="way" v="Baustelle WTC Krems" />
+    <tag id="85730409" k="source" o="none" type="way" v="survey" />
+    <tag id="85730409" k="landuse" o="none" type="way" v="construction" />
+    <tag id="85730409" k="website" o="add" type="way" v="http://wtc-krems.at" />
+    <tag id="85730409" k="alt_name" o="add" type="way" v="Baustelle WienerTor Center Krems" />
+    <tag id="547965407" k="disused:foot" o="add" type="way" v="designated" />
+    <tag id="547965407" k="disused:highway" o="add" type="way" v="path" />
+    <tag id="547965407" k="disused:segregated" o="add" type="way" v="yes" />
+    <tag id="547966570" k="disused:foot" o="none" type="way" v="designated" />
+    <tag id="547966570" k="disused:oneway" o="none" type="way" v="yes" />
+    <tag id="547966570" k="disused:bicycle" o="none" type="way" v="designated" />
+    <tag id="547966570" k="disused:highway" o="none" type="way" v="path" />
+    <tag id="547966570" k="disused:segregated" o="none" type="way" v="yes" />
+  </body>
+</changeset>

@@ -1,1 +1,22 @@
-<changeset id="55772144" schema="1"><counts nodesAdded="5" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="1" waysModified="2" /><meta><tag k="comment" v="Resolved note 1278451, 1274852, 1278453, 1279452,  | Making awesome PH data with #Kaart" /><tag k="created_by" v="JOSM/1.5 (13265 en)" /><tag k="hashtags" v="#Kaart" /><tag k="source" v="Bing; DigitalGlobe Standard Imagery; OpenStreetMap GPS Traces; Strava cycling and running heatmap; survey" /></meta><body><tag id="5363528192" k="name" o="add" type="node" v="Villa de Santo Rosario" /><tag id="5363528192" k="place" o="add" type="node" v="neighbourhood" /><tag id="555982429" k="leisure" o="add" type="way" v="pitch" /><tag id="555982429" k="sport" o="add" type="way" v="basketball" /><tag id="1666762099" k="name" o="modify" type="node" v="Manson's Drugstore" /><tag id="154145309" k="name" o="modify" type="way" v="Gloria's Capas Rice Mill" /></body></changeset>
+<changeset id="55772144" schema="2">
+  <counts nodesAdded="5" nodesDeleted="0" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="1" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Resolved note 1278451, 1274852, 1278453, 1279452,  | Making awesome PH data with #Kaart" />
+    <tag k="created_by" v="JOSM/1.5 (13265 en)" />
+    <tag k="hashtags" v="#Kaart" />
+    <tag k="source" v="Bing; DigitalGlobe Standard Imagery; OpenStreetMap GPS Traces; Strava cycling and running heatmap; survey" />
+  </meta>
+  <body>
+    <tag id="1666762099" k="name" o="modify" type="node" v="Manson's Drugstore" />
+    <tag id="1666762099" k="amenity" o="none" type="node" v="pharmacy" />
+    <tag id="5362817521" k="leisure" o="none" type="node" v="playground" />
+    <tag id="5363528192" k="name" o="add" type="node" v="Villa de Santo Rosario" />
+    <tag id="5363528192" k="place" o="add" type="node" v="neighbourhood" />
+    <tag id="98728777" k="name" o="none" type="way" v="Villa de Sto Rosario" />
+    <tag id="98728777" k="highway" o="none" type="way" v="residential" />
+    <tag id="154145309" k="name" o="modify" type="way" v="Gloria's Capas Rice Mill" />
+    <tag id="154145309" k="landuse" o="none" type="way" v="industrial" />
+    <tag id="555982429" k="sport" o="add" type="way" v="basketball" />
+    <tag id="555982429" k="leisure" o="add" type="way" v="pitch" />
+  </body>
+</changeset>

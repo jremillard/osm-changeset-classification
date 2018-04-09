@@ -1,1 +1,56 @@
-<changeset id="55696785" schema="1"><counts nodesAdded="17" nodesModified="14" relationsAdded="0" relationsModified="0" waysAdded="4" waysModified="6" /><meta><tag k="comment" v="Updated the highway junction" /><tag k="created_by" v="JOSM/1.5 (13053 en)" /><tag k="source" v="Bing" /></meta><body><tag id="555294852" k="highway" o="add" type="way" v="primary_link" /><tag id="555294852" k="oneway" o="add" type="way" v="yes" /><tag id="555294853" k="highway" o="add" type="way" v="secondary" /><tag id="555294853" k="lanes" o="add" type="way" v="2" /><tag id="555294853" k="maxspeed" o="add" type="way" v="40" /><tag id="555294853" k="name" o="add" type="way" v="Independence Road" /><tag id="555294853" k="oneway" o="add" type="way" v="yes" /><tag id="555294853" k="surface" o="add" type="way" v="asphalt" /><tag id="555294854" k="highway" o="add" type="way" v="secondary" /><tag id="555294854" k="oneway" o="add" type="way" v="yes" /><tag id="555294855" k="highway" o="add" type="way" v="primary" /><tag id="555294855" k="lanes" o="add" type="way" v="2" /><tag id="555294855" k="maxspeed" o="add" type="way" v="40" /><tag id="555294855" k="name" o="add" type="way" v="Southern Highway" /><tag id="555294855" k="oneway" o="add" type="way" v="yes" /><tag id="555294855" k="surface" o="add" type="way" v="asphalt" /><tag id="251410203" k="highway" o="modify" type="way" v="primary" /><tag id="251410203" k="lanes" o="add" type="way" v="2" /><tag id="251410203" k="maxspeed" o="add" type="way" v="40" /><tag id="251410203" k="name" o="add" type="way" v="Southern Highway" /><tag id="251410203" k="oneway" o="add" type="way" v="yes" /><tag id="251410203" k="surface" o="add" type="way" v="asphalt" /><tag id="251410202" k="highway" o="modify" type="way" v="primary_link" /><tag id="251410202" k="oneway" o="add" type="way" v="yes" /></body></changeset>
+<changeset id="55696785" schema="2">
+  <counts nodesAdded="17" nodesDeleted="1" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="4" waysDeleted="0" waysModified="6" />
+  <meta>
+    <tag k="comment" v="Updated the highway junction" />
+    <tag k="created_by" v="JOSM/1.5 (13053 en)" />
+    <tag k="source" v="Bing" />
+  </meta>
+  <body>
+    <tag id="251410202" k="oneway" o="add" type="way" v="yes" />
+    <tag id="251410202" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="251410203" k="name" o="add" type="way" v="Southern Highway" />
+    <tag id="251410203" k="lanes" o="add" type="way" v="2" />
+    <tag id="251410203" k="oneway" o="add" type="way" v="yes" />
+    <tag id="251410203" k="highway" o="modify" type="way" v="primary" />
+    <tag id="251410203" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="251410203" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="372361181" k="name" o="none" type="way" v="Southern Highway" />
+    <tag id="372361181" k="lanes" o="none" type="way" v="2" />
+    <tag id="372361181" k="oneway" o="none" type="way" v="no" />
+    <tag id="372361181" k="highway" o="none" type="way" v="primary" />
+    <tag id="372361181" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="372361181" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="372363273" k="name" o="none" type="way" v="Southern Highway" />
+    <tag id="372363273" k="lanes" o="none" type="way" v="2" />
+    <tag id="372363273" k="oneway" o="none" type="way" v="no" />
+    <tag id="372363273" k="highway" o="none" type="way" v="primary" />
+    <tag id="372363273" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="372363273" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="372385930" k="name" o="none" type="way" v="Independence Road" />
+    <tag id="372385930" k="lanes" o="none" type="way" v="2" />
+    <tag id="372385930" k="highway" o="none" type="way" v="secondary" />
+    <tag id="372385930" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="372385930" k="maxspeed" o="none" type="way" v="40" />
+    <tag id="377312463" k="name" o="none" type="way" v="Independence Road" />
+    <tag id="377312463" k="lanes" o="none" type="way" v="2" />
+    <tag id="377312463" k="highway" o="none" type="way" v="secondary" />
+    <tag id="377312463" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="377312463" k="maxspeed" o="none" type="way" v="55 mph" />
+    <tag id="555294852" k="oneway" o="add" type="way" v="yes" />
+    <tag id="555294852" k="highway" o="add" type="way" v="primary_link" />
+    <tag id="555294853" k="name" o="add" type="way" v="Independence Road" />
+    <tag id="555294853" k="lanes" o="add" type="way" v="2" />
+    <tag id="555294853" k="oneway" o="add" type="way" v="yes" />
+    <tag id="555294853" k="highway" o="add" type="way" v="secondary" />
+    <tag id="555294853" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="555294853" k="maxspeed" o="add" type="way" v="40" />
+    <tag id="555294854" k="oneway" o="add" type="way" v="yes" />
+    <tag id="555294854" k="highway" o="add" type="way" v="secondary" />
+    <tag id="555294855" k="name" o="add" type="way" v="Southern Highway" />
+    <tag id="555294855" k="lanes" o="add" type="way" v="2" />
+    <tag id="555294855" k="oneway" o="add" type="way" v="yes" />
+    <tag id="555294855" k="highway" o="add" type="way" v="primary" />
+    <tag id="555294855" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="555294855" k="maxspeed" o="add" type="way" v="40" />
+  </body>
+</changeset>

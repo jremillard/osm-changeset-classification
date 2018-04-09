@@ -1,1 +1,25 @@
-<changeset id="55657646" schema="1"><counts nodesAdded="22" nodesModified="2" relationsAdded="0" relationsModified="0" waysAdded="3" waysModified="5" /><meta><tag k="changesets_count" v="18806" /><tag k="comment" v="(kein Kommentar)" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="http://www.openstreetmap.org/edit" /><tag k="imagery_used" v="basemap.at Orthofoto" /><tag k="locale" v="de" /></meta><body><tag id="554918112" k="landuse" o="add" type="way" v="grass" /><tag id="554918113" k="access" o="add" type="way" v="private" /><tag id="554918113" k="highway" o="add" type="way" v="service" /><tag id="554918114" k="building" o="add" type="way" v="yes" /><tag id="4302284733" k="power" o="add" type="node" v="pole" /></body></changeset>
+<changeset id="55657646" schema="2">
+  <counts nodesAdded="22" nodesDeleted="11" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="3" waysDeleted="0" waysModified="5" />
+  <meta>
+    <tag k="changesets_count" v="18806" />
+    <tag k="comment" v="(kein Kommentar)" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="http://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="basemap.at Orthofoto" />
+    <tag k="locale" v="de" />
+  </meta>
+  <body>
+    <tag id="4302284733" k="power" o="add" type="node" v="pole" />
+    <tag id="430641841" k="name" o="none" type="way" v="Pernerweg" />
+    <tag id="430641841" k="oneway" o="none" type="way" v="no" />
+    <tag id="430641841" k="highway" o="none" type="way" v="service" />
+    <tag id="430641841" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="553455344" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="554727826" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="554727829" k="landuse" o="none" type="way" v="grass" />
+    <tag id="554918112" k="landuse" o="add" type="way" v="grass" />
+    <tag id="554918113" k="access" o="add" type="way" v="private" />
+    <tag id="554918113" k="highway" o="add" type="way" v="service" />
+    <tag id="554918114" k="building" o="add" type="way" v="yes" />
+  </body>
+</changeset>

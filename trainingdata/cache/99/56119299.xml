@@ -1,1 +1,30 @@
-<changeset id="56119299" schema="1"><counts nodesAdded="7" nodesModified="6" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="4" /><meta><tag k="changesets_count" v="12988" /><tag k="comment" v="Stra&#223;en, Adressen, POI erg&#228;nzt und berichtigt" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Mapbox Satellite" /><tag k="locale" v="de" /></meta><body><tag id="5393358343" k="addr:housenumber" o="add" type="node" v="10a" /><tag id="5393358343" k="addr:street" o="add" type="node" v="Zum Hellbusch" /><tag id="5393358344" k="addr:housenumber" o="add" type="node" v="10b" /><tag id="5393358344" k="addr:street" o="add" type="node" v="Zum Hellbusch" /></body></changeset>
+<changeset id="56119299" schema="2">
+  <counts nodesAdded="7" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="4" />
+  <meta>
+    <tag k="changesets_count" v="12988" />
+    <tag k="comment" v="Stra&#223;en, Adressen, POI erg&#228;nzt und berichtigt" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Mapbox Satellite" />
+    <tag k="locale" v="de" />
+  </meta>
+  <body>
+    <tag id="5203834409" k="addr:street" o="none" type="node" v="Zum Hellbusch" />
+    <tag id="5203834409" k="addr:housenumber" o="none" type="node" v="11" />
+    <tag id="5393358343" k="addr:street" o="add" type="node" v="Zum Hellbusch" />
+    <tag id="5393358343" k="addr:housenumber" o="add" type="node" v="10a" />
+    <tag id="5393358344" k="addr:street" o="add" type="node" v="Zum Hellbusch" />
+    <tag id="5393358344" k="addr:housenumber" o="add" type="node" v="10b" />
+    <tag id="173756071" k="name" o="none" type="way" v="Zum Hellbusch" />
+    <tag id="173756071" k="lanes" o="none" type="way" v="1" />
+    <tag id="173756071" k="highway" o="none" type="way" v="residential" />
+    <tag id="173756071" k="surface" o="none" type="way" v="dirt" />
+    <tag id="173756071" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="175393280" k="landuse" o="none" type="way" v="farmland" />
+    <tag id="371592195" k="url" o="none" type="way" v="http://www.cloeser.org/gewaesser/Hanshaeger_Bach_-_Kemnitz.pdf" />
+    <tag id="371592195" k="name" o="none" type="way" v="Hansh&#228;ger Bach" />
+    <tag id="371592195" k="waterway" o="none" type="way" v="stream" />
+    <tag id="371592195" k="wikipedia" o="none" type="way" v="de:Hansh&#228;ger Bach" />
+    <tag id="402820751" k="building" o="none" type="way" v="yes" />
+  </body>
+</changeset>

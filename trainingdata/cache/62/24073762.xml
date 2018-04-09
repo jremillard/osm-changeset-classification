@@ -1,5 +1,5 @@
 <changeset id="24073762" schema="2">
-  <counts nodesAdded="11" nodesDeleted="13" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="0" />
+  <counts nodesAdded="11" nodesDeleted="13" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="2" waysAdded="1" waysDeleted="1" waysModified="1" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Dubn&#233; (relation 435458)." />
@@ -8,20 +8,20 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="292244128" k="admin_level" o="add" type="way" v="10" />
-    <tag id="292244128" k="boundary" o="add" type="way" v="administrative" />
     <tag id="292244128" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="435449" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="435449" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="435449" k="name" o="none" type="relation" v="K&#345;enovice u Dubn&#233;ho" />
+    <tag id="292244128" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="292244128" k="admin_level" o="add" type="way" v="10" />
     <tag id="435449" k="ref" o="none" type="relation" v="633640" />
-    <tag id="435449" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="435449" k="name" o="none" type="relation" v="K&#345;enovice u Dubn&#233;ho" />
     <tag id="435449" k="type" o="none" type="relation" v="boundary" />
-    <tag id="435458" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="435458" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="435458" k="name" o="none" type="relation" v="Dubn&#233;" />
+    <tag id="435449" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="435449" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="435449" k="admin_level" o="none" type="relation" v="10" />
     <tag id="435458" k="ref" o="none" type="relation" v="633623" />
-    <tag id="435458" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="435458" k="name" o="none" type="relation" v="Dubn&#233;" />
     <tag id="435458" k="type" o="none" type="relation" v="boundary" />
+    <tag id="435458" k="source" o="modify" type="relation" v="cuzk:ruian" />
+    <tag id="435458" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="435458" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

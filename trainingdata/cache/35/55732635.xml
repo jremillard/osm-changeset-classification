@@ -1,1 +1,24 @@
-<changeset id="55732635" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="3" /><tag k="comment" v="Added correct information" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /><tag k="review_requested" v="yes" /></meta><body><tag id="5360384020" k="addr:city" o="add" type="node" v="Sarasota" /><tag id="5360384020" k="addr:housenumber" o="add" type="node" v="6231" /><tag id="5360384020" k="addr:postcode" o="add" type="node" v="34240" /><tag id="5360384020" k="addr:state" o="add" type="node" v="FL" /><tag id="5360384020" k="addr:street" o="add" type="node" v="Lake Osprey Dr" /><tag id="5360384020" k="description" o="add" type="node" v="Relax in upscale surroundings with modern decor, free Wi-Fi, microwave and refrigerator when you stay at our modern boutique hotel." /><tag id="5360384020" k="name" o="add" type="node" v="Holiday Inn Sarasota-Lakewood Ranch" /><tag id="5360384020" k="phone" o="add" type="node" v="941-782-4400" /><tag id="5360384020" k="tourism" o="add" type="node" v="hotel" /><tag id="5360384020" k="website" o="add" type="node" v="http://www.hilr.com" /></body></changeset>
+<changeset id="55732635" schema="2">
+  <counts nodesAdded="1" nodesDeleted="24" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="1" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="3" />
+    <tag k="comment" v="Added correct information" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+    <tag k="review_requested" v="yes" />
+  </meta>
+  <body>
+    <tag id="5360384020" k="name" o="add" type="node" v="Holiday Inn Sarasota-Lakewood Ranch" />
+    <tag id="5360384020" k="phone" o="add" type="node" v="941-782-4400" />
+    <tag id="5360384020" k="tourism" o="add" type="node" v="hotel" />
+    <tag id="5360384020" k="website" o="add" type="node" v="http://www.hilr.com" />
+    <tag id="5360384020" k="addr:city" o="add" type="node" v="Sarasota" />
+    <tag id="5360384020" k="addr:state" o="add" type="node" v="FL" />
+    <tag id="5360384020" k="addr:street" o="add" type="node" v="Lake Osprey Dr" />
+    <tag id="5360384020" k="description" o="add" type="node" v="Relax in upscale surroundings with modern decor, free Wi-Fi, microwave and refrigerator when you stay at our modern boutique hotel." />
+    <tag id="5360384020" k="addr:postcode" o="add" type="node" v="34240" />
+    <tag id="5360384020" k="addr:housenumber" o="add" type="node" v="6231" />
+  </body>
+</changeset>

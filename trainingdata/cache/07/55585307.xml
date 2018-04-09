@@ -1,1 +1,62 @@
-<changeset id="55585307" schema="1"><counts nodesAdded="82" nodesModified="37" relationsAdded="1" relationsModified="1" waysAdded="4" waysModified="11" /><meta><tag k="comment" v="Update hospitals, validation fixes." /><tag k="created_by" v="JOSM/1.5 (13265 en)" /><tag k="source" v="Esri World Imagery; Tiger Roads 2017" /></meta><body><tag id="554313301" k="highway" o="add" type="way" v="service" /><tag id="554313301" k="oneway" o="add" type="way" v="yes" /><tag id="554313301" k="surface" o="add" type="way" v="asphalt" /><tag id="554313302" k="covered" o="add" type="way" v="yes" /><tag id="554313302" k="highway" o="add" type="way" v="service" /><tag id="554313302" k="oneway" o="add" type="way" v="yes" /><tag id="554313302" k="surface" o="add" type="way" v="asphalt" /><tag id="554313304" k="aeroway" o="add" type="way" v="helipad" /><tag id="554313304" k="faa" o="add" type="way" v="5PS7" /><tag id="554313304" k="name" o="add" type="way" v="Evangelical Community Hospital East Heliport" /><tag id="554313304" k="surface" o="add" type="way" v="concrete" /><tag id="7916826" k="building" o="add" type="relation" v="yes" /><tag id="7916826" k="type" o="add" type="relation" v="multipolygon" /><tag id="12054873" k="surface" o="add" type="way" v="asphalt" /><tag id="12053446" k="highway" o="modify" type="way" v="service" /><tag id="12053446" k="surface" o="add" type="way" v="asphalt" /><tag id="12054874" k="surface" o="add" type="way" v="asphalt" /><tag id="533944141" k="highway" o="modify" type="way" v="service" /><tag id="533944141" k="service" o="add" type="way" v="driveway" /><tag id="533944142" k="highway" o="modify" type="way" v="service" /><tag id="533944142" k="service" o="add" type="way" v="driveway" /><tag id="12063371" k="highway" o="modify" type="way" v="unclassified" /><tag id="12063371" k="surface" o="add" type="way" v="asphalt" /><tag id="12065363" k="name" o="modify" type="way" v="Ridgecrest Circle" /><tag id="12065363" k="surface" o="add" type="way" v="asphalt" /><tag id="12065833" k="highway" o="modify" type="way" v="service" /><tag id="12065833" k="oneway" o="add" type="way" v="yes" /><tag id="12065833" k="surface" o="add" type="way" v="asphalt" /><tag id="32505265" k="addr:city" o="add" type="way" v="Lewisburg" /><tag id="32505265" k="addr:housenumber" o="add" type="way" v="1" /><tag id="32505265" k="addr:postcode" o="add" type="way" v="17837" /><tag id="32505265" k="addr:street" o="add" type="way" v="Hospital Drive" /><tag id="32505265" k="opening_hours" o="add" type="way" v="24/7" /><tag id="32505265" k="phone" o="add" type="way" v="+1 570 522 2000" /><tag id="32505265" k="website" o="add" type="way" v="https://www.evanhospital.com/" /><tag id="188013" k="place" o="modify" type="relation" v="town" /></body></changeset>
+<changeset id="55585307" schema="2">
+  <counts nodesAdded="82" nodesDeleted="0" nodesModified="0" relationsAdded="1" relationsDeleted="0" relationsModified="1" waysAdded="4" waysDeleted="0" waysModified="11" />
+  <meta>
+    <tag k="comment" v="Update hospitals, validation fixes." />
+    <tag k="created_by" v="JOSM/1.5 (13265 en)" />
+    <tag k="source" v="Esri World Imagery; Tiger Roads 2017" />
+  </meta>
+  <body>
+    <tag id="12053446" k="highway" o="modify" type="way" v="service" />
+    <tag id="12053446" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12054873" k="highway" o="none" type="way" v="residential" />
+    <tag id="12054873" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12054874" k="highway" o="none" type="way" v="residential" />
+    <tag id="12054874" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12063371" k="name" o="none" type="way" v="Medical Park Drive" />
+    <tag id="12063371" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="12063371" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12065363" k="name" o="modify" type="way" v="Ridgecrest Circle" />
+    <tag id="12065363" k="highway" o="none" type="way" v="residential" />
+    <tag id="12065363" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="12065833" k="oneway" o="add" type="way" v="yes" />
+    <tag id="12065833" k="highway" o="modify" type="way" v="service" />
+    <tag id="12065833" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="32505265" k="name" o="none" type="way" v="Evangelical Community Hospital" />
+    <tag id="32505265" k="turn" o="none" type="way" v="right" />
+    <tag id="32505265" k="phone" o="add" type="way" v="+1 570 522 2000" />
+    <tag id="32505265" k="amenity" o="none" type="way" v="hospital" />
+    <tag id="32505265" k="website" o="add" type="way" v="https://www.evanhospital.com/" />
+    <tag id="32505265" k="addr:city" o="add" type="way" v="Lewisburg" />
+    <tag id="32505265" k="emergency" o="none" type="way" v="yes" />
+    <tag id="32505265" k="addr:street" o="add" type="way" v="Hospital Drive" />
+    <tag id="32505265" k="addr:postcode" o="add" type="way" v="17837" />
+    <tag id="32505265" k="opening_hours" o="add" type="way" v="24/7" />
+    <tag id="32505265" k="gnis:feature_id" o="none" type="way" v="1174340" />
+    <tag id="32505265" k="addr:housenumber" o="add" type="way" v="1" />
+    <tag id="533944141" k="highway" o="modify" type="way" v="service" />
+    <tag id="533944141" k="service" o="add" type="way" v="driveway" />
+    <tag id="533944142" k="highway" o="modify" type="way" v="service" />
+    <tag id="533944142" k="service" o="add" type="way" v="driveway" />
+    <tag id="554313301" k="oneway" o="add" type="way" v="yes" />
+    <tag id="554313301" k="highway" o="add" type="way" v="service" />
+    <tag id="554313301" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="554313302" k="oneway" o="add" type="way" v="yes" />
+    <tag id="554313302" k="covered" o="add" type="way" v="yes" />
+    <tag id="554313302" k="highway" o="add" type="way" v="service" />
+    <tag id="554313302" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="554313304" k="faa" o="add" type="way" v="5PS7" />
+    <tag id="554313304" k="name" o="add" type="way" v="Evangelical Community Hospital East Heliport" />
+    <tag id="554313304" k="aeroway" o="add" type="way" v="helipad" />
+    <tag id="554313304" k="surface" o="add" type="way" v="concrete" />
+    <tag id="188013" k="name" o="none" type="relation" v="Lewisburg" />
+    <tag id="188013" k="type" o="none" type="relation" v="boundary" />
+    <tag id="188013" k="place" o="modify" type="relation" v="town" />
+    <tag id="188013" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="188013" k="wikidata" o="none" type="relation" v="Q1185021" />
+    <tag id="188013" k="wikipedia" o="none" type="relation" v="en:Lewisburg, Pennsylvania" />
+    <tag id="188013" k="admin_level" o="none" type="relation" v="8" />
+    <tag id="188013" k="border_type" o="none" type="relation" v="borough" />
+    <tag id="7916826" k="type" o="add" type="relation" v="multipolygon" />
+    <tag id="7916826" k="building" o="add" type="relation" v="yes" />
+  </body>
+</changeset>

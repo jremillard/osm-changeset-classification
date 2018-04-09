@@ -1,1 +1,31 @@
-<changeset id="56304653" schema="1"><counts nodesAdded="1" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="1" /><meta><tag k="changesets_count" v="1449" /><tag k="comment" v="bridge add" /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Esri World Imagery" /><tag k="locale" v="uk" /></meta><body><tag id="560806574" k="highway" o="add" type="way" v="secondary" /><tag id="560806574" k="lanes" o="add" type="way" v="2" /><tag id="560806574" k="maxspeed" o="add" type="way" v="30 mph" /><tag id="560806574" k="name" o="add" type="way" v="East Dunklin Street" /><tag id="560806574" k="surface" o="add" type="way" v="asphalt" /><tag id="560806575" k="bridge" o="add" type="way" v="yes" /><tag id="560806575" k="highway" o="add" type="way" v="secondary" /><tag id="560806575" k="lanes" o="add" type="way" v="2" /><tag id="560806575" k="layer" o="add" type="way" v="1" /><tag id="560806575" k="maxspeed" o="add" type="way" v="30 mph" /><tag id="560806575" k="name" o="add" type="way" v="East Dunklin Street" /><tag id="560806575" k="surface" o="add" type="way" v="asphalt" /><tag id="556848373" k="surface" o="add" type="way" v="asphalt" /></body></changeset>
+<changeset id="56304653" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="1" />
+  <meta>
+    <tag k="changesets_count" v="1449" />
+    <tag k="comment" v="bridge add" />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Esri World Imagery" />
+    <tag k="locale" v="uk" />
+  </meta>
+  <body>
+    <tag id="4992591083" k="highway" o="none" type="node" v="crossing" />
+    <tag id="556848373" k="name" o="none" type="way" v="East Dunklin Street" />
+    <tag id="556848373" k="lanes" o="none" type="way" v="2" />
+    <tag id="556848373" k="highway" o="none" type="way" v="secondary" />
+    <tag id="556848373" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="556848373" k="maxspeed" o="none" type="way" v="30 mph" />
+    <tag id="560806574" k="name" o="add" type="way" v="East Dunklin Street" />
+    <tag id="560806574" k="lanes" o="add" type="way" v="2" />
+    <tag id="560806574" k="highway" o="add" type="way" v="secondary" />
+    <tag id="560806574" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="560806574" k="maxspeed" o="add" type="way" v="30 mph" />
+    <tag id="560806575" k="name" o="add" type="way" v="East Dunklin Street" />
+    <tag id="560806575" k="lanes" o="add" type="way" v="2" />
+    <tag id="560806575" k="layer" o="add" type="way" v="1" />
+    <tag id="560806575" k="bridge" o="add" type="way" v="yes" />
+    <tag id="560806575" k="highway" o="add" type="way" v="secondary" />
+    <tag id="560806575" k="surface" o="add" type="way" v="asphalt" />
+    <tag id="560806575" k="maxspeed" o="add" type="way" v="30 mph" />
+  </body>
+</changeset>

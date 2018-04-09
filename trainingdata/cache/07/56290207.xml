@@ -1,1 +1,23 @@
-<changeset id="56290207" schema="1"><counts nodesAdded="10" nodesModified="1" relationsAdded="0" relationsModified="0" waysAdded="2" waysModified="0" /><meta><tag k="changesets_count" v="4" /><tag k="comment" v="Map changes to my city." /><tag k="created_by" v="iD 2.6.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="el-GR" /></meta><body><tag id="560686520" k="amenity" o="add" type="way" v="school" /><tag id="560686520" k="name" o="add" type="way" v="Zosimea Scholi" /><tag id="560686521" k="leisure" o="add" type="way" v="park" /></body></changeset>
+<changeset id="56290207" schema="2">
+  <counts nodesAdded="10" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="4" />
+    <tag k="comment" v="Map changes to my city." />
+    <tag k="created_by" v="iD 2.6.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="el-GR" />
+  </meta>
+  <body>
+    <tag id="3341403111" k="bus" o="none" type="node" v="yes" />
+    <tag id="3341403111" k="name" o="none" type="node" v="&#913;&#915;&#921;&#913; &#913;&#921;&#922;&#913;&#932;&#917;&#929;&#921;&#925;&#919; &#913;&#929;&#935;&#921;&#924;&#913;&#925;&#916;&#929;&#917;&#921;&#927;" />
+    <tag id="3341403111" k="highway" o="none" type="node" v="bus_stop" />
+    <tag id="3341403111" k="website" o="none" type="node" v="http://astiko-ioannina.gr/el/stopinfo/screen/212/" />
+    <tag id="3341403111" k="operator" o="none" type="node" v="&#913;&#963;&#964;&#953;&#954;&#972; &#922;&#932;&#917;&#923; &#921;&#969;&#945;&#957;&#957;&#943;&#957;&#969;&#957;" />
+    <tag id="3341403111" k="local_ref" o="none" type="node" v="212" />
+    <tag id="3341403111" k="public_transport" o="none" type="node" v="platform" />
+    <tag id="560686520" k="name" o="add" type="way" v="Zosimea Scholi" />
+    <tag id="560686520" k="amenity" o="add" type="way" v="school" />
+    <tag id="560686521" k="leisure" o="add" type="way" v="park" />
+  </body>
+</changeset>

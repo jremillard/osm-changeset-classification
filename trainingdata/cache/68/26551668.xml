@@ -1,5 +1,5 @@
 <changeset id="26551668" schema="2">
-  <counts nodesAdded="43" nodesDeleted="32" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="2" waysDeleted="2" waysModified="1" />
+  <counts nodesAdded="43" nodesDeleted="32" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="3" waysAdded="2" waysDeleted="2" waysModified="3" />
   <meta>
     <tag k="bot" v="yes" />
     <tag k="comment" v="Fixing boundary of Hosti&#353;ov (relation 434645)." />
@@ -8,32 +8,32 @@
     <tag k="url" v="http://wiki.openstreetmap.org/wiki/Czechreg" />
   </meta>
   <body>
-    <tag id="311123005" k="admin_level" o="add" type="way" v="10" />
-    <tag id="311123005" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="311123005" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="311123007" k="admin_level" o="add" type="way" v="10" />
-    <tag id="311123007" k="boundary" o="add" type="way" v="administrative" />
-    <tag id="311123007" k="source" o="add" type="way" v="cuzk:ruian" />
-    <tag id="292243811" k="admin_level" o="none" type="way" v="10" />
-    <tag id="292243811" k="boundary" o="none" type="way" v="administrative" />
     <tag id="292243811" k="source" o="none" type="way" v="cuzk:ruian" />
-    <tag id="427404" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="427404" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="427404" k="name" o="none" type="relation" v="Hory u Votic" />
+    <tag id="292243811" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="292243811" k="admin_level" o="none" type="way" v="10" />
+    <tag id="311123005" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="311123005" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="311123005" k="admin_level" o="add" type="way" v="10" />
+    <tag id="311123007" k="source" o="add" type="way" v="cuzk:ruian" />
+    <tag id="311123007" k="boundary" o="add" type="way" v="administrative" />
+    <tag id="311123007" k="admin_level" o="add" type="way" v="10" />
     <tag id="427404" k="ref" o="none" type="relation" v="615242" />
-    <tag id="427404" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="427404" k="name" o="none" type="relation" v="Hory u Votic" />
     <tag id="427404" k="type" o="none" type="relation" v="boundary" />
-    <tag id="434645" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="434645" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="434645" k="name" o="none" type="relation" v="Hosti&#353;ov" />
-    <tag id="434645" k="ref" o="none" type="relation" v="615251" />
-    <tag id="434645" k="source" o="none" type="relation" v="cuzk:ruian" />
-    <tag id="434645" k="type" o="none" type="relation" v="boundary" />
-    <tag id="434463" k="admin_level" o="none" type="relation" v="10" />
-    <tag id="434463" k="boundary" o="none" type="relation" v="administrative" />
-    <tag id="434463" k="name" o="none" type="relation" v="Buden&#237;n" />
+    <tag id="427404" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="427404" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="427404" k="admin_level" o="none" type="relation" v="10" />
     <tag id="434463" k="ref" o="none" type="relation" v="615234" />
-    <tag id="434463" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="434463" k="name" o="none" type="relation" v="Buden&#237;n" />
     <tag id="434463" k="type" o="none" type="relation" v="boundary" />
+    <tag id="434463" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="434463" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="434463" k="admin_level" o="none" type="relation" v="10" />
+    <tag id="434645" k="ref" o="none" type="relation" v="615251" />
+    <tag id="434645" k="name" o="none" type="relation" v="Hosti&#353;ov" />
+    <tag id="434645" k="type" o="none" type="relation" v="boundary" />
+    <tag id="434645" k="source" o="none" type="relation" v="cuzk:ruian" />
+    <tag id="434645" k="boundary" o="none" type="relation" v="administrative" />
+    <tag id="434645" k="admin_level" o="none" type="relation" v="10" />
   </body>
 </changeset>

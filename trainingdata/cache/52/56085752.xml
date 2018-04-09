@@ -1,1 +1,105 @@
-<changeset id="56085752" schema="1"><counts nodesAdded="0" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="27" /><meta><tag k="build" v="2.5-21-gec1befed" /><tag k="comment" v="revert highway changes back to match ref" /><tag k="created_by" v="Potlatch 2" /><tag k="version" v="2.5" /></meta><body><tag id="72508456" k="highway" o="modify" type="way" v="primary" /><tag id="35210124" k="highway" o="modify" type="way" v="primary" /><tag id="72508480" k="highway" o="modify" type="way" v="primary" /><tag id="73837474" k="highway" o="modify" type="way" v="primary" /><tag id="29117264" k="highway" o="modify" type="way" v="primary" /><tag id="25372251" k="highway" o="modify" type="way" v="primary_link" /><tag id="26518643" k="highway" o="modify" type="way" v="primary" /><tag id="26519131" k="highway" o="modify" type="way" v="primary" /><tag id="29117240" k="highway" o="modify" type="way" v="primary" /><tag id="25961680" k="highway" o="modify" type="way" v="primary" /><tag id="73837478" k="highway" o="modify" type="way" v="primary" /><tag id="209853574" k="highway" o="modify" type="way" v="trunk" /><tag id="35321090" k="highway" o="modify" type="way" v="primary" /><tag id="35322301" k="highway" o="modify" type="way" v="primary" /><tag id="26636717" k="highway" o="modify" type="way" v="primary_link" /><tag id="35394058" k="highway" o="modify" type="way" v="primary" /><tag id="35394091" k="highway" o="modify" type="way" v="primary" /><tag id="24483850" k="highway" o="modify" type="way" v="primary" /><tag id="26636652" k="highway" o="modify" type="way" v="primary" /><tag id="317094343" k="highway" o="modify" type="way" v="primary" /><tag id="388523529" k="highway" o="modify" type="way" v="primary" /><tag id="388770050" k="highway" o="modify" type="way" v="primary" /><tag id="388770053" k="highway" o="modify" type="way" v="primary" /><tag id="388770054" k="highway" o="modify" type="way" v="primary" /><tag id="388556504" k="highway" o="modify" type="way" v="primary" /><tag id="25984525" k="highway" o="modify" type="way" v="primary" /><tag id="388770052" k="highway" o="modify" type="way" v="primary" /></body></changeset>
+<changeset id="56085752" schema="2">
+  <counts nodesAdded="0" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="27" />
+  <meta>
+    <tag k="build" v="2.5-21-gec1befed" />
+    <tag k="comment" v="revert highway changes back to match ref" />
+    <tag k="created_by" v="Potlatch 2" />
+    <tag k="version" v="2.5" />
+  </meta>
+  <body>
+    <tag id="24483850" k="ref" o="none" type="way" v="A18" />
+    <tag id="24483850" k="oneway" o="none" type="way" v="yes" />
+    <tag id="24483850" k="highway" o="modify" type="way" v="primary" />
+    <tag id="25372251" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="25961680" k="ref" o="none" type="way" v="A159" />
+    <tag id="25961680" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="25961680" k="oneway" o="none" type="way" v="yes" />
+    <tag id="25961680" k="highway" o="modify" type="way" v="primary" />
+    <tag id="25984525" k="ref" o="none" type="way" v="A18" />
+    <tag id="25984525" k="name" o="none" type="way" v="Queensway" />
+    <tag id="25984525" k="oneway" o="none" type="way" v="yes" />
+    <tag id="25984525" k="highway" o="modify" type="way" v="primary" />
+    <tag id="26518643" k="ref" o="none" type="way" v="A159" />
+    <tag id="26518643" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="26518643" k="highway" o="modify" type="way" v="primary" />
+    <tag id="26519131" k="ref" o="none" type="way" v="A159" />
+    <tag id="26519131" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="26519131" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26519131" k="highway" o="modify" type="way" v="primary" />
+    <tag id="26636652" k="ref" o="none" type="way" v="A18" />
+    <tag id="26636652" k="name" o="none" type="way" v="Queensway" />
+    <tag id="26636652" k="oneway" o="none" type="way" v="yes" />
+    <tag id="26636652" k="highway" o="modify" type="way" v="primary" />
+    <tag id="26636717" k="highway" o="modify" type="way" v="primary_link" />
+    <tag id="29117240" k="ref" o="none" type="way" v="A18" />
+    <tag id="29117240" k="name" o="none" type="way" v="Queensway" />
+    <tag id="29117240" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29117240" k="highway" o="modify" type="way" v="primary" />
+    <tag id="29117264" k="ref" o="none" type="way" v="A18" />
+    <tag id="29117264" k="name" o="none" type="way" v="Queensway" />
+    <tag id="29117264" k="oneway" o="none" type="way" v="yes" />
+    <tag id="29117264" k="highway" o="modify" type="way" v="primary" />
+    <tag id="35210124" k="ref" o="none" type="way" v="A159" />
+    <tag id="35210124" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="35210124" k="highway" o="modify" type="way" v="primary" />
+    <tag id="35210124" k="history" o="none" type="way" v="Retrieved from v4" />
+    <tag id="35321090" k="ref" o="none" type="way" v="A18" />
+    <tag id="35321090" k="name" o="none" type="way" v="Queensway" />
+    <tag id="35321090" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35321090" k="highway" o="modify" type="way" v="primary" />
+    <tag id="35322301" k="ref" o="none" type="way" v="A18" />
+    <tag id="35322301" k="name" o="none" type="way" v="Queensway" />
+    <tag id="35322301" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35322301" k="highway" o="modify" type="way" v="primary" />
+    <tag id="35394058" k="ref" o="none" type="way" v="A159" />
+    <tag id="35394058" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="35394058" k="highway" o="modify" type="way" v="primary" />
+    <tag id="35394058" k="history" o="none" type="way" v="Retrieved from v1" />
+    <tag id="35394091" k="ref" o="none" type="way" v="A159" />
+    <tag id="35394091" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="35394091" k="highway" o="modify" type="way" v="primary" />
+    <tag id="35394091" k="history" o="none" type="way" v="Retrieved from v3" />
+    <tag id="72508456" k="name" o="none" type="way" v="Queensway Roundabout" />
+    <tag id="72508456" k="highway" o="modify" type="way" v="primary" />
+    <tag id="72508456" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="72508480" k="name" o="none" type="way" v="Queensway Roundabout" />
+    <tag id="72508480" k="highway" o="modify" type="way" v="primary" />
+    <tag id="72508480" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="73837474" k="ref" o="none" type="way" v="A18" />
+    <tag id="73837474" k="name" o="none" type="way" v="Queensway" />
+    <tag id="73837474" k="oneway" o="none" type="way" v="yes" />
+    <tag id="73837474" k="highway" o="modify" type="way" v="primary" />
+    <tag id="73837478" k="ref" o="none" type="way" v="A18" />
+    <tag id="73837478" k="name" o="none" type="way" v="Queensway" />
+    <tag id="73837478" k="oneway" o="none" type="way" v="yes" />
+    <tag id="73837478" k="highway" o="modify" type="way" v="primary" />
+    <tag id="209853574" k="ref" o="none" type="way" v="A18" />
+    <tag id="209853574" k="name" o="none" type="way" v="Kingsway" />
+    <tag id="209853574" k="highway" o="modify" type="way" v="trunk" />
+    <tag id="317094343" k="ref" o="none" type="way" v="A18" />
+    <tag id="317094343" k="oneway" o="none" type="way" v="yes" />
+    <tag id="317094343" k="highway" o="modify" type="way" v="primary" />
+    <tag id="388523529" k="name" o="none" type="way" v="Queensway Roundabout" />
+    <tag id="388523529" k="highway" o="modify" type="way" v="primary" />
+    <tag id="388523529" k="junction" o="none" type="way" v="roundabout" />
+    <tag id="388556504" k="ref" o="none" type="way" v="A159" />
+    <tag id="388556504" k="name" o="none" type="way" v="Ashby Road" />
+    <tag id="388556504" k="highway" o="modify" type="way" v="primary" />
+    <tag id="388770050" k="ref" o="none" type="way" v="A18" />
+    <tag id="388770050" k="name" o="none" type="way" v="Queensway" />
+    <tag id="388770050" k="oneway" o="none" type="way" v="yes" />
+    <tag id="388770050" k="highway" o="modify" type="way" v="primary" />
+    <tag id="388770052" k="ref" o="none" type="way" v="A18" />
+    <tag id="388770052" k="name" o="none" type="way" v="Queensway" />
+    <tag id="388770052" k="oneway" o="none" type="way" v="yes" />
+    <tag id="388770052" k="highway" o="modify" type="way" v="primary" />
+    <tag id="388770053" k="ref" o="none" type="way" v="A18" />
+    <tag id="388770053" k="name" o="none" type="way" v="Queensway" />
+    <tag id="388770053" k="oneway" o="none" type="way" v="yes" />
+    <tag id="388770053" k="highway" o="modify" type="way" v="primary" />
+    <tag id="388770054" k="ref" o="none" type="way" v="A18" />
+    <tag id="388770054" k="name" o="none" type="way" v="Queensway" />
+    <tag id="388770054" k="oneway" o="none" type="way" v="yes" />
+    <tag id="388770054" k="highway" o="modify" type="way" v="primary" />
+  </body>
+</changeset>

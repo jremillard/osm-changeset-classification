@@ -1,1 +1,36 @@
-<changeset id="56367080" schema="1"><counts nodesAdded="53" nodesModified="7" relationsAdded="0" relationsModified="0" waysAdded="8" waysModified="2" /><meta><tag k="comment" v="Ajusto contornos, a&#241;ado jardines, detalles de edificios y v&#237;as de acceso del centro de salud" /><tag k="created_by" v="JOSM/1.5 (13367 es)" /><tag k="source" v="Spanish Cadastre; PNOA Spain" /></meta><body><tag id="561370587" k="highway" o="add" type="way" v="service" /><tag id="561370588" k="highway" o="add" type="way" v="service" /><tag id="561370589" k="leisure" o="add" type="way" v="garden" /><tag id="561370590" k="leisure" o="add" type="way" v="garden" /><tag id="561370591" k="leisure" o="add" type="way" v="garden" /><tag id="561370592" k="building" o="add" type="way" v="yes" /><tag id="561370592" k="building:levels" o="add" type="way" v="2" /><tag id="561370593" k="building:levels" o="add" type="way" v="4" /><tag id="561370593" k="building:part" o="add" type="way" v="yes" /><tag id="561370594" k="building" o="add" type="way" v="hospital" /><tag id="561370594" k="building:levels" o="add" type="way" v="3" /><tag id="484983674" k="phone" o="modify" type="way" v="+34 902 50 50 61" /></body></changeset>
+<changeset id="56367080" schema="2">
+  <counts nodesAdded="53" nodesDeleted="17" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="8" waysDeleted="0" waysModified="2" />
+  <meta>
+    <tag k="comment" v="Ajusto contornos, a&#241;ado jardines, detalles de edificios y v&#237;as de acceso del centro de salud" />
+    <tag k="created_by" v="JOSM/1.5 (13367 es)" />
+    <tag k="source" v="Spanish Cadastre; PNOA Spain" />
+  </meta>
+  <body>
+    <tag id="35769323" k="name" o="none" type="way" v="Paseo del Limonar" />
+    <tag id="35769323" k="lanes" o="none" type="way" v="1" />
+    <tag id="35769323" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35769323" k="highway" o="none" type="way" v="secondary" />
+    <tag id="484983674" k="name" o="none" type="way" v="Centro de Salud Limonar" />
+    <tag id="484983674" k="phone" o="modify" type="way" v="+34 902 50 50 61" />
+    <tag id="484983674" k="amenity" o="none" type="way" v="clinic" />
+    <tag id="484983674" k="website" o="none" type="way" v="http://www.juntadeandalucia.es/servicioandaluzdesalud/centros/Detalle.asp?IdCentro=24896" />
+    <tag id="484983674" k="operator" o="none" type="way" v="Servicio Andaluz de Saludo" />
+    <tag id="484983674" k="addr:city" o="none" type="way" v="M&#225;laga" />
+    <tag id="484983674" k="addr:street" o="none" type="way" v="Calle de la Rep&#250;blica Argentina" />
+    <tag id="484983674" k="addr:country" o="none" type="way" v="ES" />
+    <tag id="484983674" k="addr:postcode" o="none" type="way" v="29016" />
+    <tag id="484983674" k="opening_hours" o="none" type="way" v="Mo-Fr 08:00-20:00" />
+    <tag id="484983674" k="addr:housenumber" o="none" type="way" v="s/n" />
+    <tag id="561370587" k="highway" o="add" type="way" v="service" />
+    <tag id="561370588" k="highway" o="add" type="way" v="service" />
+    <tag id="561370589" k="leisure" o="add" type="way" v="garden" />
+    <tag id="561370590" k="leisure" o="add" type="way" v="garden" />
+    <tag id="561370591" k="leisure" o="add" type="way" v="garden" />
+    <tag id="561370592" k="building" o="add" type="way" v="yes" />
+    <tag id="561370592" k="building:levels" o="add" type="way" v="2" />
+    <tag id="561370593" k="building:part" o="add" type="way" v="yes" />
+    <tag id="561370593" k="building:levels" o="add" type="way" v="4" />
+    <tag id="561370594" k="building" o="add" type="way" v="hospital" />
+    <tag id="561370594" k="building:levels" o="add" type="way" v="3" />
+  </body>
+</changeset>

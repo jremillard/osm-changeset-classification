@@ -1,1 +1,53 @@
-<changeset id="54446676" schema="1"><counts nodesAdded="5" nodesModified="2" relationsAdded="1" relationsModified="0" waysAdded="2" waysModified="5" /><meta><tag k="changesets_count" v="33" /><tag k="comment" v="Fixes and additions to parts of Salem NH and Methuen MA" /><tag k="created_by" v="iD 2.5.1" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area;line;startEditing" /><tag k="ideditor:walkthrough_started" v="yes" /><tag k="imagery_used" v="Bing aerial imagery" /><tag k="locale" v="en-US" /></meta><body><tag id="5271017158" k="addr:city" o="add" type="node" v="Salem" /><tag id="5271017158" k="addr:housenumber" o="add" type="node" v="167" /><tag id="5271017158" k="addr:postcode" o="add" type="node" v="03079" /><tag id="5271017158" k="addr:state" o="add" type="node" v="NH" /><tag id="5271017158" k="addr:street" o="add" type="node" v="South Broadway" /><tag id="5271017158" k="description" o="add" type="node" v="More For Your Dollar Grocery Shopping." /><tag id="5271017158" k="level" o="add" type="node" v="1" /><tag id="5271017158" k="name" o="add" type="node" v="Market Basket" /><tag id="5271017158" k="opening_hours" o="add" type="node" v="Mo-Sa 07:00-21:00, Mo-Su 07:00-19:00" /><tag id="5271017158" k="phone" o="add" type="node" v="+1-603-893-6366" /><tag id="5271017158" k="shop" o="add" type="node" v="supermarket" /><tag id="5271017158" k="website" o="add" type="node" v="http://www.shopmarketbasket.com" /><tag id="5271017158" k="wheelchair" o="add" type="node" v="yes" /><tag id="545366603" k="highway" o="add" type="way" v="service" /><tag id="545366603" k="service" o="add" type="way" v="parking_aisle" /><tag id="545366604" k="highway" o="add" type="way" v="service" /><tag id="545366604" k="service" o="add" type="way" v="parking_aisle" /><tag id="7791745" k="restriction" o="add" type="relation" v="no_left_turn" /><tag id="7791745" k="type" o="add" type="relation" v="restriction" /><tag id="94223086" k="oneway" o="add" type="way" v="yes" /><tag id="195059510" k="traffic_signals" o="add" type="node" v="signal" /><tag id="195059512" k="traffic_signals" o="add" type="node" v="signal" /></body></changeset>
+<changeset id="54446676" schema="2">
+  <counts nodesAdded="5" nodesDeleted="4" nodesModified="2" relationsAdded="1" relationsDeleted="0" relationsModified="0" waysAdded="2" waysDeleted="0" waysModified="5" />
+  <meta>
+    <tag k="changesets_count" v="33" />
+    <tag k="comment" v="Fixes and additions to parts of Salem NH and Methuen MA" />
+    <tag k="created_by" v="iD 2.5.1" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;area;line;startEditing" />
+    <tag k="ideditor:walkthrough_started" v="yes" />
+    <tag k="imagery_used" v="Bing aerial imagery" />
+    <tag k="locale" v="en-US" />
+  </meta>
+  <body>
+    <tag id="195059510" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="195059510" k="traffic_signals" o="add" type="node" v="signal" />
+    <tag id="195059512" k="highway" o="none" type="node" v="traffic_signals" />
+    <tag id="195059512" k="traffic_signals" o="add" type="node" v="signal" />
+    <tag id="5271017158" k="name" o="add" type="node" v="Market Basket" />
+    <tag id="5271017158" k="shop" o="add" type="node" v="supermarket" />
+    <tag id="5271017158" k="level" o="add" type="node" v="1" />
+    <tag id="5271017158" k="phone" o="add" type="node" v="+1-603-893-6366" />
+    <tag id="5271017158" k="website" o="add" type="node" v="http://www.shopmarketbasket.com" />
+    <tag id="5271017158" k="addr:city" o="add" type="node" v="Salem" />
+    <tag id="5271017158" k="addr:state" o="add" type="node" v="NH" />
+    <tag id="5271017158" k="wheelchair" o="add" type="node" v="yes" />
+    <tag id="5271017158" k="addr:street" o="add" type="node" v="South Broadway" />
+    <tag id="5271017158" k="description" o="add" type="node" v="More For Your Dollar Grocery Shopping." />
+    <tag id="5271017158" k="addr:postcode" o="add" type="node" v="03079" />
+    <tag id="5271017158" k="opening_hours" o="add" type="node" v="Mo-Sa 07:00-21:00, Mo-Su 07:00-19:00" />
+    <tag id="5271017158" k="addr:housenumber" o="add" type="node" v="167" />
+    <tag id="52234345" k="building" o="none" type="way" v="yes" />
+    <tag id="52234346" k="name" o="none" type="way" v="Ninety Nine" />
+    <tag id="52234346" k="amenity" o="none" type="way" v="restaurant" />
+    <tag id="52234346" k="building" o="none" type="way" v="yes" />
+    <tag id="52234346" k="addr:city" o="none" type="way" v="Salem" />
+    <tag id="52234346" k="addr:street" o="none" type="way" v="South Broadway" />
+    <tag id="52234346" k="addr:postcode" o="none" type="way" v="03079" />
+    <tag id="52234346" k="addr:housenumber" o="none" type="way" v="149" />
+    <tag id="94222929" k="highway" o="none" type="way" v="service" />
+    <tag id="94222929" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="94222954" k="amenity" o="none" type="way" v="parking" />
+    <tag id="94222954" k="parking" o="none" type="way" v="surface" />
+    <tag id="94223086" k="oneway" o="add" type="way" v="yes" />
+    <tag id="94223086" k="highway" o="none" type="way" v="service" />
+    <tag id="94223086" k="service" o="none" type="way" v="parking_aisle" />
+    <tag id="545366603" k="highway" o="add" type="way" v="service" />
+    <tag id="545366603" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="545366604" k="highway" o="add" type="way" v="service" />
+    <tag id="545366604" k="service" o="add" type="way" v="parking_aisle" />
+    <tag id="7791745" k="type" o="add" type="relation" v="restriction" />
+    <tag id="7791745" k="restriction" o="add" type="relation" v="no_left_turn" />
+  </body>
+</changeset>

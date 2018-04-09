@@ -1,1 +1,19 @@
-<changeset id="55714739" schema="1"><counts nodesAdded="1" nodesModified="0" relationsAdded="0" relationsModified="0" waysAdded="0" waysModified="0" /><meta><tag k="changesets_count" v="28" /><tag k="comment" v="new" /><tag k="created_by" v="iD 2.6.0" /><tag k="host" v="https://www.openstreetmap.org/edit" /><tag k="imagery_used" v="Belgium AGIV Orthophoto Flanders" /><tag k="locale" v="nl" /></meta><body><tag id="5359072286" k="generator:method" o="add" type="node" v="wind_turbine" /><tag id="5359072286" k="generator:output:electricity" o="add" type="node" v="3 MW" /><tag id="5359072286" k="generator:source" o="add" type="node" v="wind" /><tag id="5359072286" k="generator:type" o="add" type="node" v="horizontal_axis" /><tag id="5359072286" k="operator" o="add" type="node" v="Aspiravi" /><tag id="5359072286" k="power" o="add" type="node" v="generator" /></body></changeset>
+<changeset id="55714739" schema="2">
+  <counts nodesAdded="1" nodesDeleted="0" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="0" waysDeleted="0" waysModified="0" />
+  <meta>
+    <tag k="changesets_count" v="28" />
+    <tag k="comment" v="new" />
+    <tag k="created_by" v="iD 2.6.0" />
+    <tag k="host" v="https://www.openstreetmap.org/edit" />
+    <tag k="imagery_used" v="Belgium AGIV Orthophoto Flanders" />
+    <tag k="locale" v="nl" />
+  </meta>
+  <body>
+    <tag id="5359072286" k="power" o="add" type="node" v="generator" />
+    <tag id="5359072286" k="operator" o="add" type="node" v="Aspiravi" />
+    <tag id="5359072286" k="generator:type" o="add" type="node" v="horizontal_axis" />
+    <tag id="5359072286" k="generator:method" o="add" type="node" v="wind_turbine" />
+    <tag id="5359072286" k="generator:source" o="add" type="node" v="wind" />
+    <tag id="5359072286" k="generator:output:electricity" o="add" type="node" v="3 MW" />
+  </body>
+</changeset>
