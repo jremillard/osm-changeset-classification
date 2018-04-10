@@ -15,7 +15,9 @@ changesets = []
 texts = []  # list of text samples
 labels = None
 
-conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
+conn = None
+if ( os.path.isfile(osmcsclassify.Config.historyDbFileName)):
+    conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
 
 if len(sys.argv) > 1:
 
@@ -24,11 +26,12 @@ if len(sys.argv) > 1:
         if ( cs.cached()  ):
             cs.read()
         else :            
-            #cs.download()
-            cs.extractFromPlanet(conn)
+            if ( conn is not None):
+                cs.extractFromPlanet(conn)
+            else:
+                cs.download()
             #cs.saveFile(cs.cacheRuntimeFileName())
 
-        #print(cs.textDump(1)[0])            
         texts.extend( cs.textDump(1) )
         changesets.append(cs)
 
@@ -41,12 +44,15 @@ else :
 
     for cs in cachedChangeSets:
 
-        if ( cs['validated'] == False):
+        if ( not cs['validated'] ):
 
             if ( cs['cs'].cached()  ):
                 cs['cs'].read()
             else:
-                cs['cs'].extractFromPlanet(conn)
+                if ( conn is not None):
+                    cs.extractFromPlanet(conn)
+                else:
+                    cs.download()
 
             #print(cs['cs'].textDump(1)[0])            
             texts.extend( cs['cs'].textDump(1) )
@@ -68,6 +74,7 @@ sequences = tokenizer.texts_to_sequences(texts)
 #print(sequences[0])
 
 data = pad_sequences(sequences, maxlen=maximumSeqLength,truncating='post',padding='post')
+#print(data[0])
 
 y = model.predict(data)
 
@@ -85,9 +92,6 @@ if ( not labels is None ):
                     bad = True
                             
             if ( bad  ):
-
-                if ( changesets[i].cached() == False):
-                    changesets[i].save()
 
                 print("{:15}".format(changesets[i].id),end='')
                 print("{} ".format(changesets[i].id),end='',file=toReview)

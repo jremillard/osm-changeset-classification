@@ -11,7 +11,7 @@ changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
 
 for cs in changeSets.rows:
     if ( cs['cs'].cached() == False):        
-        if ( conn not None)
+        if ( conn is not None):
             cs['cs'].extractFromPlanet(conn)
         else:
             cs['cs'].download()

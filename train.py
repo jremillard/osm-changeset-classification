@@ -22,6 +22,7 @@ MAX_SEQUENCE_LENGTH = 1000
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
 VALIDATION_SPLIT = 0.30
+dataAugmentationFactor = 8
 
 def readAllChangeSets():
 
@@ -190,7 +191,7 @@ def trainingValidationSplit(allChangeSets):
 
 tokenizer = setupTokenizer(allChangeSets)
 
-( x_train,y_train) = changeSetsToDataArrayAndLabels(trainChangeSets,tokenizer,10)
+( x_train,y_train) = changeSetsToDataArrayAndLabels(trainChangeSets,tokenizer,dataAugmentationFactor)
 ( x_val,y_val) = changeSetsToDataArrayAndLabels(validateChangeSets,tokenizer,1)
 
 #labels = to_categorical(np.asarray(labels))
