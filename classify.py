@@ -11,13 +11,18 @@ import sqlite3
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import load_model 
 
+writeToReviewFile = True
+
 changesets = []
+changeSetCollection = None
 texts = []  # list of text samples
 labels = None
 
 conn = None
 if ( os.path.isfile(osmcsclassify.Config.historyDbFileName)):
     conn = sqlite3.connect(osmcsclassify.Config.historyDbFileName)
+
+
 
 if len(sys.argv) > 1:
 
@@ -38,13 +43,16 @@ if len(sys.argv) > 1:
 else :
     labels = []
 
-    changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
+    changeSetCollection = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
 
-    cachedChangeSets = [ cs for cs in changeSets.rows if cs['cs'].cached() ]
+    if ( writeToReviewFile):
+        cachedChangeSets = [ cs for cs in changeSetCollection.rows if cs['cs'].cached() ]
+    else :
+        cachedChangeSets = changeSetCollection.rows
 
     for cs in cachedChangeSets:
 
-        if ( not cs['validated'] ):
+        if ( not cs['validated'] or writeToReviewFile == False):
 
             if ( cs['cs'].cached()  ):
                 cs['cs'].read()
@@ -81,27 +89,44 @@ y = model.predict(data)
 print("ID             " + "\t".join(labels_index) + "\tStatus")
 
 if ( not labels is None ):
-    with open("toreview.txt","wt") as toReview :
-        for i,row in enumerate(y):
-            #print(row)
-            bad = False
-            for labelIndex in labels[i]:
-                if (  labels[i][labelIndex] > 0.5 and row[labelIndex] < 0.5):
-                    bad = True
-                if (  labels[i][labelIndex] < 0.5 and row[labelIndex] > 0.5):
-                    bad = True
-                            
-            if ( bad  ):
 
-                print("{:15}".format(changesets[i].id),end='')
-                print("{} ".format(changesets[i].id),end='',file=toReview)
-                for label in labels_index:
-                    print("{:0.2f}".format(row[labels_index[label]]), end='\t',)
-                    print("{}={:0.2f}".format(label,row[labels_index[label]]), end=' ',file=toReview)
-                if bad:
-                    print("BAD")
-                print("",file=toReview)
-                #print("{}\n\n".format(texts[i]))
+    if ( writeToReviewFile):
+        with open("toreview.txt","wt") as toReview :
+            for i,row in enumerate(y):
+                #print(row)
+                bad = False
+                for labelIndex in labels[i]:
+                    if (  labels[i][labelIndex] > 0.5 and row[labelIndex] < 0.5):
+                        bad = True
+                    if (  labels[i][labelIndex] < 0.5 and row[labelIndex] > 0.5):
+                        bad = True
+                                
+                if ( bad  ):
+
+                    print("{:15}".format(changesets[i].id),end='')
+                    print("{} ".format(changesets[i].id),end='',file=toReview)
+                    for label in labels_index:
+                        print("{:0.2f}".format(row[labels_index[label]]), end='\t',)
+                        print("{}={:0.2f}".format(label,row[labels_index[label]]), end=' ',file=toReview)
+                    if bad:
+                        print("BAD")
+                    print("",file=toReview)
+                    #print("{}\n\n".format(texts[i]))
+    else:
+        # updates all of the classes with the current classifier, should only be used 
+        # right after adding in a bunch of junky un-validated changesets.
+        for i,row in enumerate(y):
+
+            if ( changeSetCollection.rows[i]['validated'] == False):
+                labels = [0] * len( changeSetCollection.indexToLabels)
+                for labelIndex in range(len( changeSetCollection.indexToLabels)):
+                    if (  row[labelIndex] > 0.5):
+                        labels[labelIndex] = 1
+                
+                changeSetCollection.rows[i]['labels'] = labels
+
+        changeSetCollection.save()
+
             
 else :
     for i,row in enumerate(y):

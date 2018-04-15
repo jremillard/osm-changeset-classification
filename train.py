@@ -18,10 +18,10 @@ from keras.models import Model
 
 BASE_DIR = ''
 GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
-MAX_SEQUENCE_LENGTH = 1000
+MAX_SEQUENCE_LENGTH = 1200
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
-VALIDATION_SPLIT = 0.30
+VALIDATION_SPLIT = 0.10
 dataAugmentationFactor = 8
 
 def readAllChangeSets():
@@ -105,16 +105,19 @@ def setupTokenizer(allChangeSets):
 
     sequences = tokenizer.texts_to_sequences(fulltext)
 
-    sequencesLength = [ len(i) for i in sequences]
+    sequencesLength = np.asarray([ len(i) for i in sequences] )
+
+    truncatedPercent = float( (sequencesLength >= MAX_SEQUENCE_LENGTH).sum()) / len(sequencesLength) * 100.0
 
     word_index = tokenizer.word_index
     print('Found {} Unique Tokens.'.format(len(word_index)))
 
-    print('Changeset Token Counts: Mean {:0.0f}, Median {:0.0f}, 95% {:0.0f}, 98% {:0.0f}, MAX_SEQUENCE_LENGTH={}'.format( 
+    print('Changeset Token Counts: Mean {:0.0f}, Median {:0.0f}, 95% {:0.0f}, 98% {:0.0f}, {:0.0f}% > MAX_SEQUENCE_LENGTH={}'.format( 
         np.mean(sequencesLength),
         np.median(sequencesLength),
         np.percentile(sequencesLength,95),
         np.percentile(sequencesLength,98),
+        truncatedPercent,
         MAX_SEQUENCE_LENGTH
         ))        
 

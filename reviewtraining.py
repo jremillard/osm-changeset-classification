@@ -91,8 +91,17 @@ if ( len(sys.argv) > 1 ) :
 
 else:
 
-    # looking for non-validated but cached changesets
-    for row in changeSets.rows:
+    i = len(changeSets.rows)
+
+    while ( i > 0 ):
+
+        # newest changsets are at the end.
+        i = i-1
+
+        # re-read it so that find changesets can be run at the same time.
+        #changeSets = osmcsclassify.ChangeSetCollection.ChangeSetCollection()
+
+        row = changeSets.rows[i]
         if ( row['validated'] == False):
             cs = row['cs']
             if ( cs.cached() ):
