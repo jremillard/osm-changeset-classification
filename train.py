@@ -197,6 +197,8 @@ def trainingValidationSplit(allChangeSets):
 
 (trainChangeSets, validateChangeSets) = trainingValidationSplit(allChangeSets)
 
+print("Training Changeset Count {}, Validation Changeset Count {}".format(len(trainChangeSets),len(validateChangeSets)))
+
 tokenizer = setupTokenizer(allChangeSets)
 
 ( x_train,y_train) = changeSetsToDataArrayAndLabels(trainChangeSets,tokenizer,dataAugmentationFactor)
@@ -226,8 +228,8 @@ sequence_input = Input(shape=(MAX_SEQUENCE_LENGTH,), dtype='int32')
 embedded_sequences = embedding_layer(sequence_input)
 x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(embedded_sequences)
 x = MaxPooling1D(5)(x)
-x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(x)
-x = MaxPooling1D(5)(x)
+#x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(x)
+#x = MaxPooling1D(5)(x)
 x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(x)
 x = GlobalMaxPooling1D()(x)
 x = Dense(EMBEDDING_DIM, activation='relu')(x)
@@ -236,7 +238,7 @@ preds = Dense(len(labels_index), activation='sigmoid')(x)
 model = Model(sequence_input, preds)
 model.compile(loss='binary_crossentropy',
               optimizer='rmsprop',
-              metrics=['acc','binary_accuracy'])
+              metrics=['acc'])
 
 print(model.summary())
 
