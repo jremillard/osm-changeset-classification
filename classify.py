@@ -52,7 +52,7 @@ else :
 
     for cs in cachedChangeSets:
 
-        if ( not cs['validated'] or writeToReviewFile == False):
+        if ( cs['validated'] or writeToReviewFile == False):
 
             if ( cs['cs'].cached()  ):
                 cs['cs'].read()

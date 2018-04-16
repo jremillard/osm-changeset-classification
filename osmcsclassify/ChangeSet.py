@@ -608,9 +608,16 @@ class ChangeSet:
 
         ret = ""
 
-        ret += "Added {},{},{}\n".format(self.nodesAdded,self.waysAdded,self.relationsAdded   ) 
-        ret += "Modified {},{},{}\n".format(self.nodesModified,self.waysModified,self.relationsModified)
-        ret += "Deleted {},{},{}\n".format(self.nodesDeleted,self.waysDeleted,self.relationsDeleted )
+        def numberToStr( num) :
+            if ( num >= 60000):
+                return "over 60000"
+            if ( num >= 10000):
+                return round(num/1000)*1000
+            return num
+
+        ret += "Added {},{},{}\n".format(numberToStr(self.nodesAdded),numberToStr(self.waysAdded),numberToStr(self.relationsAdded)) 
+        ret += "Modified {},{},{}\n".format(numberToStr(self.nodesModified),numberToStr(self.waysModified),numberToStr(self.relationsModified))
+        ret += "Deleted {},{},{}\n".format(numberToStr(self.nodesDeleted),numberToStr(self.waysDeleted),numberToStr(self.relationsDeleted))
 
         for tag in sorted(self.metaTags) :
             ret += "meta "
@@ -621,7 +628,7 @@ class ChangeSet:
 
         usedTags = []
         for tag in self.elementTags  :
-            if ( tag['o'] == 'add' or tag['o'] == 'modify'):
+            if ( tag['o'] == 'add' or tag['o'] == 'modify' or tag['o'] == 'none'):
                 usedTags.append(tag)
 
         sortIndex = list(range(0,len(usedTags)))

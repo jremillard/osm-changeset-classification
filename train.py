@@ -22,7 +22,7 @@ MAX_SEQUENCE_LENGTH = 1200
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
 VALIDATION_SPLIT = 0.10
-dataAugmentationFactor = 8
+dataAugmentationFactor = 10
 
 def readAllChangeSets():
 
@@ -37,9 +37,6 @@ def readAllChangeSets():
     for label in changeSets.labelsToIndex:
         totals[label] = 0
         totals[label + validatedLabel] = 0
-
-    for cs in cachedChangeSets:
-        cs['cs'].read()
     
     for cs in cachedChangeSets:
 
@@ -91,17 +88,24 @@ def setupTokenizer(allChangeSets):
 
     fulltext = []
 
-    for cs in allChangeSets:
-        txs = cs['cs'].textDump(1)
-        fulltext.extend(txs)
+    def getAllTexts(allChangeSets):
+        
+        for cs in allChangeSets:
+            cs['cs'].read()
+            texts = cs['cs'].textDump(1)
+            yield texts[0]
 
     # finally, vectorize the text samples into a 2D integer tensor
     tokenizer = Tokenizer(num_words=MAX_NUM_WORDS)
-    tokenizer.fit_on_texts(fulltext)
+
+    tokenizer.fit_on_texts(getAllTexts(allChangeSets))
+
     # seeing imports , require that the add/remove/modify counts be seen 
     # if we don't index them, they can't be used.
-    numbers1toNasStr = ' '.join( [str(x) for x in range(1,70000)] )
+    numbers1toNasStr = ' '.join( [str(x) for x in range(1,60001)] )
     tokenizer.fit_on_texts([numbers1toNasStr])
+
+    return tokenizer
 
     sequences = tokenizer.texts_to_sequences(fulltext)
 
@@ -157,17 +161,18 @@ def makeEmbeddingMatrix(tokenizer,embeddings_index):
     
 
 def changeSetsToDataArrayAndLabels( usedChangeSets, tokenizer, augmentationFactor):
-    texts = []
     labels = []
 
+    sequences = []
+
     for cs in usedChangeSets:
-        txs = cs['cs'].textDump(augmentationFactor)
+        texts = cs['cs'].textDump(augmentationFactor)
 
-        for t in txs:
+        for t in texts:
             labels.append( cs['labels'] )
-            texts.append(t)
 
-    sequences = tokenizer.texts_to_sequences(texts)
+        sequences.extend( tokenizer.texts_to_sequences(texts))
+
     data = pad_sequences(sequences, maxlen=MAX_SEQUENCE_LENGTH,truncating='post',padding='post')
 
     labels = np.asarray(labels)
