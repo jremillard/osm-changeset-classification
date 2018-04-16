@@ -1,0 +1,626 @@
+<changeset id="50195175" schema="2">
+  <counts nodesAdded="1570" nodesDeleted="83" nodesModified="0" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="137" waysDeleted="4" waysModified="72" />
+  <meta>
+    <tag k="comment" v="Elveg-import Northern part of Vestnes kommune" />
+    <tag k="created_by" v="JOSM/1.5 (12275 en)" />
+    <tag k="source" v="Kartverket, Digital Globe" />
+  </meta>
+  <body>
+    <tag id="4963392285" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="4963392286" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="4963392310" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="4963392315" k="highway" o="add" type="node" v="bus_stop" />
+    <tag id="4963393831" k="barrier" o="add" type="node" v="gate" />
+    <tag id="4188258" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="4188258" k="natural" o="none" type="way" v="coastline" />
+    <tag id="4188258" k="source:date" o="none" type="way" v="1999-05-14" />
+    <tag id="25556290" k="ref" o="none" type="way" v="661" />
+    <tag id="25556290" k="highway" o="none" type="way" v="primary" />
+    <tag id="25556290" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="25556339" k="ref" o="none" type="way" v="E 39" />
+    <tag id="25556339" k="source" o="none" type="way" v="MapBox Sat" />
+    <tag id="25556339" k="highway" o="none" type="way" v="trunk" />
+    <tag id="25556339" k="int_ref" o="none" type="way" v="E 39" />
+    <tag id="25556339" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="25556339" k="maxspeed" o="none" type="way" v="80" />
+    <tag id="43654375" k="name" o="none" type="way" v="Buktavegen" />
+    <tag id="43654375" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="43654376" k="name" o="none" type="way" v="Vorpeneset" />
+    <tag id="43654376" k="highway" o="none" type="way" v="residential" />
+    <tag id="43654378" k="name" o="none" type="way" v="Vorpenesstranda" />
+    <tag id="43654378" k="highway" o="none" type="way" v="residential" />
+    <tag id="197425516" k="ref" o="none" type="way" v="E 39" />
+    <tag id="197425516" k="source" o="none" type="way" v="MapBox Sat" />
+    <tag id="197425516" k="highway" o="none" type="way" v="trunk" />
+    <tag id="197425516" k="int_ref" o="none" type="way" v="E 39" />
+    <tag id="197425516" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="197425516" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="231497847" k="name" o="none" type="way" v="Hagnesvegen" />
+    <tag id="231497847" k="source" o="none" type="way" v="Bing" />
+    <tag id="231497847" k="highway" o="none" type="way" v="residential" />
+    <tag id="292677116" k="name" o="none" type="way" v="Hagnesringen" />
+    <tag id="292677116" k="highway" o="none" type="way" v="residential" />
+    <tag id="292677121" k="highway" o="modify" type="way" v="service" />
+    <tag id="292677122" k="name" o="none" type="way" v="Hagnesvegen" />
+    <tag id="292677122" k="highway" o="none" type="way" v="residential" />
+    <tag id="292677123" k="highway" o="modify" type="way" v="service" />
+    <tag id="292677125" k="name" o="none" type="way" v="Vorpeneset" />
+    <tag id="292677125" k="highway" o="none" type="way" v="residential" />
+    <tag id="292677126" k="name" o="none" type="way" v="Vorpeneslia" />
+    <tag id="292677126" k="highway" o="none" type="way" v="residential" />
+    <tag id="293043370" k="name" o="none" type="way" v="Buktavegen" />
+    <tag id="293043370" k="source" o="none" type="way" v="GPS" />
+    <tag id="293043370" k="highway" o="none" type="way" v="residential" />
+    <tag id="293043372" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293043372" k="highway" o="modify" type="way" v="service" />
+    <tag id="293043374" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293043374" k="highway" o="modify" type="way" v="service" />
+    <tag id="293043377" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293043377" k="highway" o="modify" type="way" v="service" />
+    <tag id="293043384" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293043384" k="highway" o="modify" type="way" v="service" />
+    <tag id="293043387" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293043387" k="highway" o="modify" type="way" v="service" />
+    <tag id="293163649" k="ref" o="none" type="way" v="162" />
+    <tag id="293163649" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293163649" k="highway" o="none" type="way" v="secondary" />
+    <tag id="293163650" k="name" o="none" type="way" v="Furland-&#216;ver&#229;s" />
+    <tag id="293163650" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293163650" k="highway" o="none" type="way" v="secondary" />
+    <tag id="293163651" k="name" o="modify" type="way" v="Batterivegen" />
+    <tag id="293163651" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293163651" k="highway" o="none" type="way" v="tertiary" />
+    <tag id="293179674" k="source" o="none" type="way" v="GPS" />
+    <tag id="293179674" k="highway" o="none" type="way" v="track" />
+    <tag id="293179674" k="mtb:scale" o="none" type="way" v="0" />
+    <tag id="293179674" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="293179680" k="name" o="none" type="way" v="Skarvegen" />
+    <tag id="293179680" k="source" o="none" type="way" v="GPS" />
+    <tag id="293179680" k="highway" o="none" type="way" v="track" />
+    <tag id="293179680" k="mtb:scale" o="none" type="way" v="0" />
+    <tag id="293179680" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="293179685" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293179685" k="highway" o="none" type="way" v="track" />
+    <tag id="293179685" k="mtb:scale" o="none" type="way" v="0" />
+    <tag id="293179685" k="tracktype" o="none" type="way" v="grade2" />
+    <tag id="293179688" k="source" o="none" type="way" v="GPS" />
+    <tag id="293179688" k="highway" o="none" type="way" v="track" />
+    <tag id="293179688" k="mtb:scale" o="none" type="way" v="1" />
+    <tag id="293179688" k="tracktype" o="none" type="way" v="grade4" />
+    <tag id="293179690" k="source" o="none" type="way" v="GPS" />
+    <tag id="293179690" k="highway" o="none" type="way" v="track" />
+    <tag id="293179690" k="mtb:scale" o="none" type="way" v="1" />
+    <tag id="293179690" k="tracktype" o="none" type="way" v="grade5" />
+    <tag id="293241361" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293241361" k="highway" o="modify" type="way" v="cycleway" />
+    <tag id="293241362" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293241362" k="highway" o="modify" type="way" v="cycleway" />
+    <tag id="293245183" k="name" o="add" type="way" v="&#216;ygarden" />
+    <tag id="293245183" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293245183" k="highway" o="none" type="way" v="residential" />
+    <tag id="293245185" k="name" o="add" type="way" v="&#216;ygarden" />
+    <tag id="293245185" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293245185" k="highway" o="none" type="way" v="residential" />
+    <tag id="293245186" k="name" o="add" type="way" v="&#216;ygarden" />
+    <tag id="293245186" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293245186" k="highway" o="none" type="way" v="residential" />
+    <tag id="293245186" k="nvdb:id" o="add" type="way" v="523567753" />
+    <tag id="293245186" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="293245187" k="name" o="add" type="way" v="&#216;ygarden" />
+    <tag id="293245187" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293245187" k="highway" o="none" type="way" v="residential" />
+    <tag id="293245188" k="name" o="add" type="way" v="&#216;ygarden" />
+    <tag id="293245188" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293245188" k="highway" o="none" type="way" v="residential" />
+    <tag id="293245188" k="nvdb:id" o="add" type="way" v="462617529" />
+    <tag id="293245188" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="293245189" k="name" o="add" type="way" v="&#216;ygarden" />
+    <tag id="293245189" k="source" o="modify" type="way" v="Kartverket" />
+    <tag id="293245189" k="highway" o="none" type="way" v="residential" />
+    <tag id="293245189" k="nvdb:id" o="add" type="way" v="203165656" />
+    <tag id="293245189" k="nvdb:date" o="add" type="way" v="2006-07-01" />
+    <tag id="293825765" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293825765" k="highway" o="none" type="way" v="service" />
+    <tag id="293825766" k="source" o="none" type="way" v="Bing Sat" />
+    <tag id="293825766" k="highway" o="modify" type="way" v="service" />
+    <tag id="293825768" k="highway" o="modify" type="way" v="service" />
+    <tag id="293825768" k="nvdb:id" o="none" type="way" v="523567761" />
+    <tag id="293825768" k="nvdb:date" o="none" type="way" v="2011-09-17" />
+    <tag id="293825776" k="name" o="none" type="way" v="&#197;slivegen" />
+    <tag id="293825776" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="293825776" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="293825777" k="highway" o="modify" type="way" v="service" />
+    <tag id="293825779" k="highway" o="modify" type="way" v="service" />
+    <tag id="293825779" k="nvdb:id" o="none" type="way" v="146097076" />
+    <tag id="293825779" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="293825779" k="nvdb:date" o="none" type="way" v="2011-09-17" />
+    <tag id="293825780" k="highway" o="modify" type="way" v="service" />
+    <tag id="293825780" k="nvdb:id" o="none" type="way" v="462617531" />
+    <tag id="293825780" k="nvdb:date" o="none" type="way" v="2011-09-17" />
+    <tag id="293825786" k="highway" o="modify" type="way" v="service" />
+    <tag id="293825786" k="nvdb:id" o="none" type="way" v="146096609" />
+    <tag id="293825786" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="293825786" k="nvdb:date" o="none" type="way" v="2011-09-17" />
+    <tag id="293825789" k="name" o="none" type="way" v="&#197;svegen" />
+    <tag id="293825789" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="294045157" k="name" o="none" type="way" v="Torvl&#248;vegen" />
+    <tag id="294045157" k="source" o="none" type="way" v="GPS" />
+    <tag id="294045157" k="highway" o="none" type="way" v="track" />
+    <tag id="294045157" k="mtb:scale" o="none" type="way" v="1" />
+    <tag id="294045157" k="tracktype" o="none" type="way" v="grade5" />
+    <tag id="392751051" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392751051" k="natural" o="none" type="way" v="coastline" />
+    <tag id="392751051" k="source:date" o="none" type="way" v="1999-05-14" />
+    <tag id="392751057" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392751057" k="natural" o="none" type="way" v="coastline" />
+    <tag id="392751057" k="source:date" o="none" type="way" v="1999-05-14" />
+    <tag id="392751104" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392751104" k="natural" o="none" type="way" v="coastline" />
+    <tag id="392751104" k="source:date" o="none" type="way" v="2007-05-30" />
+    <tag id="392751126" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392751126" k="natural" o="none" type="way" v="coastline" />
+    <tag id="392751126" k="source:date" o="none" type="way" v="1999-05-14" />
+    <tag id="392751135" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392751135" k="natural" o="none" type="way" v="coastline" />
+    <tag id="392751135" k="source:date" o="none" type="way" v="1999-05-14" />
+    <tag id="392751343" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392751343" k="natural" o="none" type="way" v="coastline" />
+    <tag id="392751343" k="source:date" o="none" type="way" v="1999-05-14" />
+    <tag id="392758727" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392758727" k="waterway" o="none" type="way" v="stream" />
+    <tag id="392758727" k="source:date" o="none" type="way" v="1989-07-01" />
+    <tag id="392758997" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392758997" k="waterway" o="none" type="way" v="stream" />
+    <tag id="392758997" k="source:date" o="none" type="way" v="1989-07-01" />
+    <tag id="392759084" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392759084" k="waterway" o="none" type="way" v="stream" />
+    <tag id="392759084" k="source:date" o="none" type="way" v="1989-07-01" />
+    <tag id="392759261" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392759261" k="waterway" o="none" type="way" v="stream" />
+    <tag id="392759261" k="source:date" o="none" type="way" v="1989-07-01" />
+    <tag id="392759367" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392759367" k="waterway" o="none" type="way" v="stream" />
+    <tag id="392759367" k="source:date" o="none" type="way" v="1989-07-01" />
+    <tag id="392767400" k="source" o="none" type="way" v="Kartverket N50" />
+    <tag id="392767400" k="source:date" o="none" type="way" v="1989-07-01" />
+    <tag id="477255330" k="highway" o="modify" type="way" v="service" />
+    <tag id="477255330" k="nvdb:id" o="none" type="way" v="146096780" />
+    <tag id="477255330" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="477255330" k="nvdb:date" o="none" type="way" v="2011-09-17" />
+    <tag id="477255332" k="highway" o="modify" type="way" v="unclassified" />
+    <tag id="477255332" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="477255333" k="highway" o="modify" type="way" v="service" />
+    <tag id="477255333" k="nvdb:id" o="none" type="way" v="146096786" />
+    <tag id="477255333" k="maxspeed" o="none" type="way" v="30" />
+    <tag id="477255333" k="nvdb:date" o="none" type="way" v="2011-09-17" />
+    <tag id="477255334" k="highway" o="modify" type="way" v="service" />
+    <tag id="494365314" k="highway" o="none" type="way" v="service" />
+    <tag id="506384703" k="source" o="none" type="way" v="Kartverket" />
+    <tag id="506384703" k="highway" o="none" type="way" v="service" />
+    <tag id="506384704" k="source" o="none" type="way" v="Kartverket" />
+    <tag id="506384704" k="highway" o="none" type="way" v="service" />
+    <tag id="506384704" k="nvdb:id" o="none" type="way" v="684748086" />
+    <tag id="506384704" k="nvdb:date" o="none" type="way" v="2015-06-27" />
+    <tag id="506384709" k="name" o="none" type="way" v="&#216;ver&#229;svegen" />
+    <tag id="506384709" k="source" o="none" type="way" v="Kartverket" />
+    <tag id="506384709" k="highway" o="none" type="way" v="service" />
+    <tag id="506384709" k="nvdb:id" o="none" type="way" v="146110704" />
+    <tag id="506384709" k="nvdb:date" o="none" type="way" v="1999-05-14" />
+    <tag id="506384929" k="highway" o="none" type="way" v="service" />
+    <tag id="506384929" k="nvdb:id" o="none" type="way" v="146096405" />
+    <tag id="506384929" k="service" o="add" type="way" v="driveway" />
+    <tag id="506384929" k="nvdb:date" o="none" type="way" v="1999-05-14" />
+    <tag id="506384931" k="source" o="none" type="way" v="Bing" />
+    <tag id="506384931" k="highway" o="none" type="way" v="service" />
+    <tag id="506644619" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644619" k="highway" o="add" type="way" v="track" />
+    <tag id="506644620" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644620" k="highway" o="add" type="way" v="track" />
+    <tag id="506644621" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644621" k="highway" o="add" type="way" v="track" />
+    <tag id="506644622" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644622" k="highway" o="add" type="way" v="track" />
+    <tag id="506644623" k="note" o="add" type="way" v="Is this actually a stream? Looks like a track on Digital Globe imagery. 1989 is a long time ago." />
+    <tag id="506644623" k="source" o="add" type="way" v="Kartverket N50" />
+    <tag id="506644623" k="waterway" o="add" type="way" v="stream" />
+    <tag id="506644623" k="source:date" o="add" type="way" v="1989-07-01" />
+    <tag id="506644624" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644624" k="highway" o="add" type="way" v="service" />
+    <tag id="506644624" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644625" k="highway" o="add" type="way" v="service" />
+    <tag id="506644625" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644626" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644626" k="highway" o="add" type="way" v="service" />
+    <tag id="506644626" k="nvdb:id" o="add" type="way" v="146096404" />
+    <tag id="506644626" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644626" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644627" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644627" k="highway" o="add" type="way" v="service" />
+    <tag id="506644628" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644628" k="highway" o="add" type="way" v="service" />
+    <tag id="506644628" k="nvdb:id" o="add" type="way" v="146096650" />
+    <tag id="506644628" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644629" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644629" k="highway" o="add" type="way" v="service" />
+    <tag id="506644629" k="nvdb:id" o="add" type="way" v="684748144" />
+    <tag id="506644629" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644630" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644630" k="highway" o="add" type="way" v="service" />
+    <tag id="506644630" k="nvdb:id" o="add" type="way" v="146096401" />
+    <tag id="506644630" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644630" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644631" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644631" k="highway" o="add" type="way" v="service" />
+    <tag id="506644631" k="nvdb:id" o="add" type="way" v="146096767" />
+    <tag id="506644631" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644634" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644634" k="highway" o="add" type="way" v="service" />
+    <tag id="506644634" k="nvdb:id" o="add" type="way" v="146096755" />
+    <tag id="506644634" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644637" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644637" k="highway" o="add" type="way" v="service" />
+    <tag id="506644637" k="nvdb:id" o="add" type="way" v="146096402" />
+    <tag id="506644637" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644639" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644639" k="highway" o="add" type="way" v="service" />
+    <tag id="506644639" k="nvdb:id" o="add" type="way" v="146097061" />
+    <tag id="506644639" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644642" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644642" k="highway" o="add" type="way" v="service" />
+    <tag id="506644642" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644644" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644644" k="highway" o="add" type="way" v="service" />
+    <tag id="506644644" k="nvdb:id" o="add" type="way" v="204429711" />
+    <tag id="506644644" k="nvdb:date" o="add" type="way" v="2006-09-15" />
+    <tag id="506644647" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644647" k="highway" o="add" type="way" v="service" />
+    <tag id="506644647" k="nvdb:id" o="add" type="way" v="523567747" />
+    <tag id="506644647" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="506644649" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644649" k="highway" o="add" type="way" v="service" />
+    <tag id="506644649" k="nvdb:id" o="add" type="way" v="684748277" />
+    <tag id="506644649" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644652" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644652" k="highway" o="add" type="way" v="service" />
+    <tag id="506644652" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644653" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644653" k="highway" o="add" type="way" v="service" />
+    <tag id="506644653" k="nvdb:id" o="add" type="way" v="684747943" />
+    <tag id="506644653" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644655" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644655" k="highway" o="add" type="way" v="service" />
+    <tag id="506644655" k="nvdb:id" o="add" type="way" v="684748278" />
+    <tag id="506644655" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644656" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644656" k="highway" o="add" type="way" v="service" />
+    <tag id="506644656" k="nvdb:id" o="add" type="way" v="523567754" />
+    <tag id="506644656" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="506644657" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644657" k="highway" o="add" type="way" v="service" />
+    <tag id="506644657" k="nvdb:id" o="add" type="way" v="146096687" />
+    <tag id="506644657" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644658" k="highway" o="add" type="way" v="service" />
+    <tag id="506644659" k="highway" o="add" type="way" v="service" />
+    <tag id="506644660" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644660" k="highway" o="add" type="way" v="service" />
+    <tag id="506644660" k="nvdb:id" o="add" type="way" v="684748276" />
+    <tag id="506644660" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644661" k="highway" o="add" type="way" v="service" />
+    <tag id="506644662" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="506644663" k="highway" o="add" type="way" v="service" />
+    <tag id="506644664" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="506644665" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="506644666" k="highway" o="add" type="way" v="footway" />
+    <tag id="506644667" k="footway" o="add" type="way" v="crossing" />
+    <tag id="506644667" k="highway" o="add" type="way" v="footway" />
+    <tag id="506644668" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644668" k="highway" o="add" type="way" v="service" />
+    <tag id="506644669" k="public_transport" o="add" type="way" v="platform" />
+    <tag id="506644670" k="name" o="add" type="way" v="Buktavegen" />
+    <tag id="506644670" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="506644671" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644671" k="highway" o="add" type="way" v="service" />
+    <tag id="506644671" k="nvdb:id" o="add" type="way" v="684748279" />
+    <tag id="506644671" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644672" k="highway" o="add" type="way" v="service" />
+    <tag id="506644673" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644673" k="highway" o="add" type="way" v="service" />
+    <tag id="506644673" k="surface" o="add" type="way" v="compacted" />
+    <tag id="506644673" k="mtb:scale" o="add" type="way" v="0" />
+    <tag id="506644673" k="tracktype" o="add" type="way" v="grade1" />
+    <tag id="506644673" k="motor_vehicle" o="add" type="way" v="restricted" />
+    <tag id="506644674" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644674" k="highway" o="add" type="way" v="service" />
+    <tag id="506644674" k="nvdb:id" o="add" type="way" v="203165658" />
+    <tag id="506644674" k="nvdb:date" o="add" type="way" v="2006-07-01" />
+    <tag id="506644675" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644675" k="highway" o="add" type="way" v="service" />
+    <tag id="506644675" k="nvdb:id" o="add" type="way" v="523567745" />
+    <tag id="506644675" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="506644676" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644676" k="highway" o="add" type="way" v="service" />
+    <tag id="506644676" k="nvdb:id" o="add" type="way" v="684748283" />
+    <tag id="506644676" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644677" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644677" k="highway" o="add" type="way" v="service" />
+    <tag id="506644677" k="nvdb:id" o="add" type="way" v="684748223" />
+    <tag id="506644677" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644678" k="name" o="add" type="way" v="Buktavegen" />
+    <tag id="506644678" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="506644678" k="sidewalk" o="add" type="way" v="left" />
+    <tag id="506644679" k="name" o="add" type="way" v="Buktavegen" />
+    <tag id="506644679" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="506644680" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644680" k="highway" o="add" type="way" v="service" />
+    <tag id="506644680" k="nvdb:id" o="add" type="way" v="684748280" />
+    <tag id="506644680" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644681" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644681" k="highway" o="add" type="way" v="service" />
+    <tag id="506644681" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644682" k="highway" o="add" type="way" v="footway" />
+    <tag id="506644683" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644683" k="highway" o="add" type="way" v="service" />
+    <tag id="506644683" k="nvdb:id" o="add" type="way" v="204429692" />
+    <tag id="506644683" k="nvdb:date" o="add" type="way" v="2006-07-01" />
+    <tag id="506644684" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644684" k="highway" o="add" type="way" v="service" />
+    <tag id="506644684" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644685" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644685" k="highway" o="add" type="way" v="service" />
+    <tag id="506644685" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644686" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644686" k="highway" o="add" type="way" v="service" />
+    <tag id="506644686" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644687" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644687" k="highway" o="add" type="way" v="service" />
+    <tag id="506644687" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644688" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644688" k="highway" o="add" type="way" v="service" />
+    <tag id="506644688" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644689" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644689" k="highway" o="add" type="way" v="service" />
+    <tag id="506644689" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644690" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644690" k="highway" o="add" type="way" v="service" />
+    <tag id="506644690" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644691" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644691" k="highway" o="add" type="way" v="service" />
+    <tag id="506644691" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644692" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644692" k="highway" o="add" type="way" v="service" />
+    <tag id="506644692" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644693" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644693" k="highway" o="add" type="way" v="service" />
+    <tag id="506644693" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644694" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644694" k="highway" o="add" type="way" v="service" />
+    <tag id="506644694" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644695" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644695" k="highway" o="add" type="way" v="service" />
+    <tag id="506644695" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644696" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644696" k="highway" o="add" type="way" v="service" />
+    <tag id="506644696" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644697" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644697" k="highway" o="add" type="way" v="service" />
+    <tag id="506644697" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644698" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644698" k="highway" o="add" type="way" v="service" />
+    <tag id="506644698" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644699" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644699" k="highway" o="add" type="way" v="service" />
+    <tag id="506644699" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644700" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644700" k="highway" o="add" type="way" v="service" />
+    <tag id="506644700" k="service" o="add" type="way" v="driveway" />
+    <tag id="506644701" k="name" o="add" type="way" v="R&#248;tbakken" />
+    <tag id="506644701" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644701" k="highway" o="add" type="way" v="residential" />
+    <tag id="506644701" k="nvdb:id" o="add" type="way" v="146076177" />
+    <tag id="506644701" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644702" k="name" o="add" type="way" v="R&#248;tbakken" />
+    <tag id="506644702" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644702" k="highway" o="add" type="way" v="residential" />
+    <tag id="506644703" k="name" o="add" type="way" v="R&#248;tbakken" />
+    <tag id="506644703" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644703" k="highway" o="add" type="way" v="residential" />
+    <tag id="506644704" k="name" o="add" type="way" v="R&#248;tbakken" />
+    <tag id="506644704" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644704" k="highway" o="add" type="way" v="residential" />
+    <tag id="506644705" k="name" o="add" type="way" v="R&#248;tbakken" />
+    <tag id="506644705" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644705" k="highway" o="add" type="way" v="residential" />
+    <tag id="506644705" k="nvdb:id" o="add" type="way" v="146076176" />
+    <tag id="506644705" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644706" k="building" o="add" type="way" v="yes" />
+    <tag id="506644707" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644707" k="highway" o="add" type="way" v="track" />
+    <tag id="506644708" k="layer" o="add" type="way" v="1" />
+    <tag id="506644708" k="bridge" o="add" type="way" v="yes" />
+    <tag id="506644708" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644708" k="highway" o="add" type="way" v="track" />
+    <tag id="506644709" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644709" k="highway" o="add" type="way" v="track" />
+    <tag id="506644710" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644710" k="highway" o="add" type="way" v="track" />
+    <tag id="506644711" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644711" k="highway" o="add" type="way" v="track" />
+    <tag id="506644712" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644712" k="highway" o="add" type="way" v="track" />
+    <tag id="506644713" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644713" k="highway" o="add" type="way" v="service" />
+    <tag id="506644714" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644714" k="highway" o="add" type="way" v="track" />
+    <tag id="506644715" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644715" k="highway" o="add" type="way" v="track" />
+    <tag id="506644716" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644716" k="highway" o="add" type="way" v="service" />
+    <tag id="506644717" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644717" k="highway" o="add" type="way" v="track" />
+    <tag id="506644718" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644718" k="highway" o="add" type="way" v="service" />
+    <tag id="506644719" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644719" k="highway" o="add" type="way" v="track" />
+    <tag id="506644720" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644720" k="highway" o="add" type="way" v="track" />
+    <tag id="506644721" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644721" k="highway" o="add" type="way" v="service" />
+    <tag id="506644722" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644722" k="highway" o="add" type="way" v="track" />
+    <tag id="506644723" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644723" k="highway" o="add" type="way" v="track" />
+    <tag id="506644724" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644724" k="highway" o="add" type="way" v="service" />
+    <tag id="506644725" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644725" k="highway" o="add" type="way" v="service" />
+    <tag id="506644726" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644726" k="highway" o="add" type="way" v="service" />
+    <tag id="506644727" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644727" k="highway" o="add" type="way" v="track" />
+    <tag id="506644729" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644729" k="highway" o="add" type="way" v="service" />
+    <tag id="506644730" k="source" o="add" type="way" v="Digital Globe" />
+    <tag id="506644730" k="highway" o="add" type="way" v="service" />
+    <tag id="506644731" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644731" k="highway" o="add" type="way" v="service" />
+    <tag id="506644731" k="nvdb:id" o="add" type="way" v="684748167" />
+    <tag id="506644731" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644732" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644732" k="highway" o="add" type="way" v="service" />
+    <tag id="506644732" k="nvdb:id" o="add" type="way" v="146096645" />
+    <tag id="506644732" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644733" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644733" k="highway" o="add" type="way" v="service" />
+    <tag id="506644733" k="nvdb:id" o="add" type="way" v="684748104" />
+    <tag id="506644733" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644734" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644734" k="highway" o="add" type="way" v="service" />
+    <tag id="506644734" k="nvdb:id" o="add" type="way" v="146096657" />
+    <tag id="506644734" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644735" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644735" k="highway" o="add" type="way" v="service" />
+    <tag id="506644736" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644736" k="highway" o="add" type="way" v="service" />
+    <tag id="506644737" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644737" k="highway" o="add" type="way" v="service" />
+    <tag id="506644738" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644738" k="highway" o="add" type="way" v="service" />
+    <tag id="506644738" k="nvdb:id" o="add" type="way" v="684748179" />
+    <tag id="506644738" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644739" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644739" k="highway" o="add" type="way" v="service" />
+    <tag id="506644739" k="nvdb:id" o="add" type="way" v="146096394" />
+    <tag id="506644739" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644740" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644740" k="highway" o="add" type="way" v="service" />
+    <tag id="506644740" k="nvdb:id" o="add" type="way" v="684748180" />
+    <tag id="506644740" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644741" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644741" k="highway" o="add" type="way" v="service" />
+    <tag id="506644741" k="nvdb:id" o="add" type="way" v="684748084" />
+    <tag id="506644741" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644742" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644742" k="highway" o="add" type="way" v="service" />
+    <tag id="506644742" k="nvdb:id" o="add" type="way" v="146096395" />
+    <tag id="506644742" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644743" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644743" k="highway" o="add" type="way" v="service" />
+    <tag id="506644743" k="nvdb:id" o="add" type="way" v="684748140" />
+    <tag id="506644743" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644744" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644744" k="highway" o="add" type="way" v="service" />
+    <tag id="506644744" k="nvdb:id" o="add" type="way" v="684748166" />
+    <tag id="506644744" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644745" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644745" k="highway" o="add" type="way" v="service" />
+    <tag id="506644746" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644746" k="highway" o="add" type="way" v="service" />
+    <tag id="506644746" k="nvdb:id" o="add" type="way" v="684748078" />
+    <tag id="506644746" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644747" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644747" k="highway" o="add" type="way" v="service" />
+    <tag id="506644747" k="nvdb:id" o="add" type="way" v="146096757" />
+    <tag id="506644747" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644748" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644748" k="highway" o="add" type="way" v="service" />
+    <tag id="506644748" k="nvdb:id" o="add" type="way" v="684748146" />
+    <tag id="506644748" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644749" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644749" k="highway" o="add" type="way" v="service" />
+    <tag id="506644750" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644750" k="highway" o="add" type="way" v="service" />
+    <tag id="506644751" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644751" k="highway" o="add" type="way" v="service" />
+    <tag id="506644751" k="nvdb:id" o="add" type="way" v="146096388" />
+    <tag id="506644751" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644752" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644752" k="highway" o="add" type="way" v="service" />
+    <tag id="506644752" k="nvdb:id" o="add" type="way" v="146110703" />
+    <tag id="506644752" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644753" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644753" k="highway" o="add" type="way" v="service" />
+    <tag id="506644753" k="nvdb:id" o="add" type="way" v="146096516" />
+    <tag id="506644753" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644754" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644754" k="highway" o="add" type="way" v="service" />
+    <tag id="506644754" k="nvdb:id" o="add" type="way" v="146096768" />
+    <tag id="506644754" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644755" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644755" k="highway" o="add" type="way" v="service" />
+    <tag id="506644755" k="nvdb:id" o="add" type="way" v="523520086" />
+    <tag id="506644755" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="506644756" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644756" k="highway" o="add" type="way" v="service" />
+    <tag id="506644756" k="nvdb:id" o="add" type="way" v="684748142" />
+    <tag id="506644756" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644757" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644757" k="highway" o="add" type="way" v="service" />
+    <tag id="506644757" k="nvdb:id" o="add" type="way" v="146096392" />
+    <tag id="506644757" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644758" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644758" k="highway" o="add" type="way" v="service" />
+    <tag id="506644758" k="nvdb:id" o="add" type="way" v="146096387" />
+    <tag id="506644758" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644759" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644759" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="506644759" k="nvdb:id" o="add" type="way" v="146076568" />
+    <tag id="506644759" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644760" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644760" k="highway" o="add" type="way" v="service" />
+    <tag id="506644760" k="nvdb:id" o="add" type="way" v="146110702" />
+    <tag id="506644760" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644761" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644761" k="highway" o="add" type="way" v="service" />
+    <tag id="506644762" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644762" k="highway" o="add" type="way" v="service" />
+    <tag id="506644762" k="nvdb:id" o="add" type="way" v="684748085" />
+    <tag id="506644762" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644763" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644763" k="highway" o="add" type="way" v="unclassified" />
+    <tag id="506644764" k="name" o="add" type="way" v="Leirv&#229;gvegen" />
+    <tag id="506644764" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644764" k="highway" o="add" type="way" v="tertiary" />
+    <tag id="506644765" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644765" k="highway" o="add" type="way" v="service" />
+    <tag id="506644765" k="nvdb:id" o="add" type="way" v="684748164" />
+    <tag id="506644765" k="nvdb:date" o="add" type="way" v="2015-06-27" />
+    <tag id="506644766" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644766" k="highway" o="add" type="way" v="service" />
+    <tag id="506644767" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644767" k="highway" o="add" type="way" v="service" />
+    <tag id="506644767" k="nvdb:id" o="add" type="way" v="146096391" />
+    <tag id="506644767" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644768" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644768" k="highway" o="add" type="way" v="service" />
+    <tag id="506644768" k="nvdb:id" o="add" type="way" v="146096389" />
+    <tag id="506644768" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+    <tag id="506644769" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644769" k="highway" o="add" type="way" v="service" />
+    <tag id="506644769" k="nvdb:id" o="add" type="way" v="462617533" />
+    <tag id="506644769" k="nvdb:date" o="add" type="way" v="2011-09-17" />
+    <tag id="506644770" k="source" o="add" type="way" v="Kartverket" />
+    <tag id="506644770" k="highway" o="add" type="way" v="service" />
+    <tag id="506644770" k="nvdb:id" o="add" type="way" v="146096390" />
+    <tag id="506644770" k="nvdb:date" o="add" type="way" v="1999-05-14" />
+  </body>
+</changeset>

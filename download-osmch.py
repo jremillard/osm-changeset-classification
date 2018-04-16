@@ -55,31 +55,33 @@ for page in range( 1,pageCount ):
         resp = json.load(Iresponse)
 
         for cs in resp['features']:
-            p = cs['properties']
-            for t in p['tags']:
-                if ( t['id'] == 1):
-                    csId = cs['id']
-                    changeSet = osmcsclassify.ChangeSet.ChangeSet(csId)
+            csId = cs['id']
+            changeSet = osmcsclassify.ChangeSet.ChangeSet(csId)
 
-                    if ( csId < endChangeSet):
-                        changeSet.extractFromPlanet(conn)
-                    else:
-                        continue
-                        #changeSet.download()
+            if ( csId < endChangeSet):
+                changeSet.extractFromPlanet(conn)
+            else:
+                continue
+                #changeSet.download()
 
-                    texts = []  # list of text samples
-                    texts.extend( changeSet.textDump(1) )
-                                            
-                    sequences = tokenizer.texts_to_sequences(texts)
+            texts = []  # list of text samples
+            texts.extend( changeSet.textDump(1) )
+                                    
+            sequences = tokenizer.texts_to_sequences(texts)
 
-                    data = pad_sequences(sequences, maxlen=maximumSeqLength,truncating='post',padding='post')
+            data = pad_sequences(sequences, maxlen=maximumSeqLength,truncating='post',padding='post')
 
-                    y = model.predict(data)
+            y = model.predict(data)
 
-                    row = y[0]
+            row = y[0]
 
-                    changeSets.rows.append( { 'cs':changeSet,'labels':row,'validated':False, 'note':'OSMCha ' + startDateStr  })
-                    changeSets.save()
-                    changeSet.save()
+            if (row[0] < 0.6):
+                changeSets.rows.append( { 'cs':changeSet,'labels':row,'validated':False, 'note':'OSMCha' })
+                changeSets.save()
+                changeSet.save()
+
+            count -= 1
+            print(count)
+                        
 
 

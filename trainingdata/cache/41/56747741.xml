@@ -1,0 +1,462 @@
+<changeset id="56747741" schema="2">
+  <counts nodesAdded="66" nodesDeleted="467" nodesModified="1" relationsAdded="0" relationsDeleted="0" relationsModified="0" waysAdded="11" waysDeleted="132" waysModified="168" />
+  <meta>
+    <tag k="comment" v="Removed highway=footway and added sidewalk=both to related roads" />
+    <tag k="created_by" v="JOSM/1.5 (13367 en)" />
+    <tag k="source" v="knowledge" />
+  </meta>
+  <body>
+    <tag id="341103884" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1644892957" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1644892957" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="1798048969" k="highway" o="none" type="node" v="crossing" />
+    <tag id="1798048969" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="1798048969" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="1802388912" k="highway" o="none" type="node" v="turning_circle" />
+    <tag id="3214459884" k="highway" o="add" type="node" v="crossing" />
+    <tag id="3214459884" k="crossing" o="add" type="node" v="uncontrolled" />
+    <tag id="3851558116" k="highway" o="none" type="node" v="crossing" />
+    <tag id="3851558116" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="4541146629" k="highway" o="none" type="node" v="crossing" />
+    <tag id="4541146629" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="4541146629" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="4541157871" k="highway" o="none" type="node" v="crossing" />
+    <tag id="4541157871" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="4541218285" k="highway" o="none" type="node" v="crossing" />
+    <tag id="4541218285" k="crossing" o="none" type="node" v="uncontrolled" />
+    <tag id="4541218285" k="crossing_ref" o="none" type="node" v="zebra" />
+    <tag id="4541244304" k="highway" o="none" type="node" v="crossing" />
+    <tag id="4541244304" k="crossing" o="none" type="node" v="traffic_signals" />
+    <tag id="4550934966" k="ref" o="none" type="node" v="38" />
+    <tag id="4550934966" k="name" o="none" type="node" v="&#1053;&#1086;&#1074;&#1072; &#1055;&#1086;&#1096;&#1090;&#1072; &#8470;38" />
+    <tag id="4550934966" k="phone" o="none" type="node" v="0-800-500-609" />
+    <tag id="4550934966" k="source" o="none" type="node" v="novaposhta.ua" />
+    <tag id="4550934966" k="amenity" o="none" type="node" v="post_office" />
+    <tag id="4550934966" k="name:en" o="none" type="node" v="Nova Poshta #38" />
+    <tag id="4550934966" k="name:ru" o="none" type="node" v="&#1053;&#1086;&#1074;&#1072;&#1103; &#1055;&#1086;&#1095;&#1090;&#1072; &#8470;38" />
+    <tag id="4550934966" k="name:uk" o="none" type="node" v="&#1053;&#1086;&#1074;&#1072; &#1055;&#1086;&#1096;&#1090;&#1072; &#8470;38" />
+    <tag id="4550934966" k="operator" o="none" type="node" v="&#1053;&#1086;&#1074;&#1072; &#1055;&#1086;&#1096;&#1090;&#1072;" />
+    <tag id="4550934966" k="description" o="none" type="node" v="&#1042;&#1110;&#1076;&#1076;&#1110;&#1083;&#1077;&#1085;&#1085;&#1103; &#8470;38 (&#1076;&#1086; 30 &#1082;&#1075;): &#1074;&#1091;&#1083;. &#1047;&#1077;&#1083;&#1077;&#1085;&#1072;, 89" />
+    <tag id="4550934966" k="source:pkey" o="none" type="node" v="cc5c2e78-cbd2-11e4-a77a-005056887b8d" />
+    <tag id="4550934966" k="opening_hours" o="none" type="node" v="Mo-Fr 09:00-20:00; Sa 09:00-17:00" />
+    <tag id="4585321439" k="name" o="none" type="node" v="&#1058;&#1074;&#1110;&#1081; &#1089;&#1080;&#1088;" />
+    <tag id="4585321439" k="shop" o="none" type="node" v="cheese" />
+    <tag id="4586007340" k="name" o="none" type="node" v="&#1055;&#1088;&#1080;&#1074;&#1072;&#1090;&#1041;&#1072;&#1085;&#1082;" />
+    <tag id="4586007340" k="amenity" o="none" type="node" v="atm" />
+    <tag id="4586007340" k="operator" o="none" type="node" v="&#1055;&#1040;&#1058; &#1050;&#1041; &#171;&#1055;&#1088;&#1080;&#1074;&#1072;&#1090;&#1041;&#1072;&#1085;&#1082;&#187;" />
+    <tag id="4586007340" k="drive_through" o="none" type="node" v="no" />
+    <tag id="4586007341" k="name" o="none" type="node" v="&#1045;&#1083;&#1077;&#1082;&#1090;&#1088;&#1086;&#1089;&#1074;&#1110;&#1090;" />
+    <tag id="4586007341" k="shop" o="none" type="node" v="electrical" />
+    <tag id="4586007341" k="phone" o="none" type="node" v="+380 32 275 19 49" />
+    <tag id="4593466251" k="foot" o="none" type="node" v="yes" />
+    <tag id="4593466251" k="access" o="none" type="node" v="no" />
+    <tag id="4593466251" k="barrier" o="none" type="node" v="lift_gate" />
+    <tag id="4593466251" k="bicycle" o="none" type="node" v="yes" />
+    <tag id="4593466251" k="motor_vehicle" o="none" type="node" v="permissive" />
+    <tag id="30800040" k="name" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="30800040" k="lanes" o="none" type="way" v="1" />
+    <tag id="30800040" k="oneway" o="none" type="way" v="yes" />
+    <tag id="30800040" k="highway" o="none" type="way" v="primary" />
+    <tag id="30800040" k="name:en" o="none" type="way" v="Shota Rustaveli Street" />
+    <tag id="30800040" k="name:pl" o="none" type="way" v="ulica Szota Rustaweli" />
+    <tag id="30800040" k="name:ru" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1080; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="30800040" k="name:uk" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="30800040" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="30800040" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="30800040" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="31819122" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="31819122" k="lanes" o="none" type="way" v="3" />
+    <tag id="31819122" k="oneway" o="none" type="way" v="yes" />
+    <tag id="31819122" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="31819122" k="highway" o="none" type="way" v="primary" />
+    <tag id="31819122" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="31819122" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="31819122" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="31819122" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="31819122" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="31819122" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="31819122" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="31819122" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="31819122" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="31819122" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="31819122" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="31819122" k="psv:lanes:forward" o="none" type="way" v="no|yes|no" />
+    <tag id="31819122" k="lanes:bus:backward" o="none" type="way" v="1" />
+    <tag id="31819122" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="31819122" k="vehicle:lanes:forward" o="none" type="way" v="no|yes|yes" />
+    <tag id="35693141" k="name" o="none" type="way" v="&#1044;&#1110;&#1073;&#1088;&#1086;&#1074;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="35693141" k="oneway" o="none" type="way" v="yes" />
+    <tag id="35693141" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="35693141" k="highway" o="none" type="way" v="residential" />
+    <tag id="35693141" k="name:en" o="none" type="way" v="Dibrovna Street" />
+    <tag id="35693141" k="name:ru" o="none" type="way" v="&#1044;&#1091;&#1073;&#1088;&#1072;&#1074;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="35693141" k="name:uk" o="none" type="way" v="&#1044;&#1110;&#1073;&#1088;&#1086;&#1074;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="35693141" k="boundary" o="none" type="way" v="administrative" />
+    <tag id="35693141" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="35693141" k="smoothness" o="none" type="way" v="bad" />
+    <tag id="35693141" k="admin_level" o="none" type="way" v="7" />
+    <tag id="40850027" k="name" o="none" type="way" v="&#1042;&#1086;&#1076;&#1086;&#1075;&#1110;&#1085;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="40850027" k="lanes" o="none" type="way" v="1" />
+    <tag id="40850027" k="oneway" o="none" type="way" v="yes" />
+    <tag id="40850027" k="highway" o="none" type="way" v="residential" />
+    <tag id="40850027" k="incline" o="none" type="way" v="up" />
+    <tag id="40850027" k="name:en" o="none" type="way" v="Vodohinna Street" />
+    <tag id="40850027" k="name:ru" o="none" type="way" v="&#1042;&#1086;&#1076;&#1086;&#1075;&#1086;&#1085;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="40850027" k="name:uk" o="none" type="way" v="&#1042;&#1086;&#1076;&#1086;&#1075;&#1110;&#1085;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="40850027" k="maxspeed" o="none" type="way" v="UA:urban" />
+    <tag id="40850027" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="40850027" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="41415492" k="name" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="41415492" k="lanes" o="none" type="way" v="2" />
+    <tag id="41415492" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="41415492" k="highway" o="none" type="way" v="primary" />
+    <tag id="41415492" k="name:en" o="none" type="way" v="Shota Rustaveli Street" />
+    <tag id="41415492" k="name:pl" o="none" type="way" v="ulica Szota Rustaweli" />
+    <tag id="41415492" k="name:ru" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1080; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="41415492" k="name:uk" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="41415492" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="41415492" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="41415492" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="41415492" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="41415492" k="old_name:de" o="none" type="way" v="Jablonowski-Gasse" />
+    <tag id="41415492" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="41415493" k="name" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="41415493" k="lanes" o="none" type="way" v="2" />
+    <tag id="41415493" k="except" o="none" type="way" v="psv" />
+    <tag id="41415493" k="oneway" o="none" type="way" v="yes" />
+    <tag id="41415493" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="41415493" k="highway" o="none" type="way" v="primary" />
+    <tag id="41415493" k="name:en" o="none" type="way" v="Shota Rustaveli Street" />
+    <tag id="41415493" k="name:pl" o="none" type="way" v="ulica Szota Rustaweli" />
+    <tag id="41415493" k="name:ru" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1080; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="41415493" k="name:uk" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="41415493" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="41415493" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="41415493" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="41415493" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="41415493" k="old_name:de" o="none" type="way" v="Jablonowski-Gasse" />
+    <tag id="41415493" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="41415493" k="lanes:psv:backward" o="none" type="way" v="1" />
+    <tag id="60312048" k="name" o="none" type="way" v="&#1070;&#1088;&#1110;&#1103; &#1052;&#1091;&#1096;&#1072;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="60312048" k="highway" o="none" type="way" v="residential" />
+    <tag id="60312048" k="name:en" o="none" type="way" v="Yuriia Mushaka Street" />
+    <tag id="60312048" k="name:ru" o="none" type="way" v="&#1070;&#1088;&#1080;&#1103; &#1052;&#1091;&#1096;&#1072;&#1082;&#1072; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="60312048" k="name:uk" o="none" type="way" v="&#1070;&#1088;&#1110;&#1103; &#1052;&#1091;&#1096;&#1072;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="60314328" k="building" o="none" type="way" v="yes" />
+    <tag id="60314328" k="addr:postcode" o="none" type="way" v="79011" />
+    <tag id="60314328" k="addr:housenumber" o="none" type="way" v="10" />
+    <tag id="85339280" k="name" o="none" type="way" v="&#1052;&#1080;&#1082;&#1086;&#1083;&#1080; &#1051;&#1077;&#1084;&#1080;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="85339280" k="highway" o="none" type="way" v="residential" />
+    <tag id="85339280" k="name:en" o="none" type="way" v="Mykoly Lemyka Street" />
+    <tag id="85339280" k="name:ru" o="none" type="way" v="&#1051;&#1077;&#1084;&#1080;&#1082;&#1072; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="85339280" k="name:uk" o="none" type="way" v="&#1052;&#1080;&#1082;&#1086;&#1083;&#1080; &#1051;&#1077;&#1084;&#1080;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="85339280" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="106366724" k="name" o="none" type="way" v="&#1050;&#1091;&#1073;&#1072;&#1085;&#1089;&#1100;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="106366724" k="oneway" o="none" type="way" v="no" />
+    <tag id="106366724" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="106366724" k="highway" o="none" type="way" v="residential" />
+    <tag id="106366724" k="name:en" o="none" type="way" v="Kubanska Street" />
+    <tag id="106366724" k="name:ru" o="none" type="way" v="&#1050;&#1091;&#1073;&#1072;&#1085;&#1089;&#1082;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="106366724" k="name:uk" o="none" type="way" v="&#1050;&#1091;&#1073;&#1072;&#1085;&#1089;&#1100;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="106366724" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="106366724" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="106366724" k="smoothness" o="none" type="way" v="bad" />
+    <tag id="112794748" k="name" o="none" type="way" v="&#1052;&#1072;&#1088;&#1110;&#1111; &#1057;&#1083;&#1086;&#1073;&#1086;&#1076;&#1110;&#1074;&#1085;&#1080; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="112794748" k="oneway" o="none" type="way" v="no" />
+    <tag id="112794748" k="highway" o="none" type="way" v="residential" />
+    <tag id="112794748" k="name:en" o="none" type="way" v="Marii Slobodivny Street" />
+    <tag id="112794748" k="name:ru" o="none" type="way" v="&#1052;&#1072;&#1088;&#1080;&#1080; &#1057;&#1083;&#1086;&#1073;&#1086;&#1076;&#1080;&#1074;&#1085;&#1099; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="112794748" k="name:uk" o="none" type="way" v="&#1052;&#1072;&#1088;&#1110;&#1111; &#1057;&#1083;&#1086;&#1073;&#1086;&#1076;&#1110;&#1074;&#1085;&#1080; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="112794748" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="112794748" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="150814823" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="150814823" k="note" o="none" type="way" v="&#1051;&#1110;&#1085;&#1110;&#1103; &#1074; &#1086;&#1073;&#1077;&#1088;&#1085;&#1077;&#1085;&#1086;&#1084;&#1091; &#1085;&#1072;&#1087;&#1088;&#1103;&#1084;&#1082;&#1091; - &#1076;&#1083;&#1103; &#1075;&#1088;&#1086;&#1084;&#1072;&#1076;&#1089;&#1100;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1091;" />
+    <tag id="150814823" k="lanes" o="none" type="way" v="3" />
+    <tag id="150814823" k="oneway" o="none" type="way" v="yes" />
+    <tag id="150814823" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="150814823" k="highway" o="none" type="way" v="primary" />
+    <tag id="150814823" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="150814823" k="name:de" o="none" type="way" v="Gr&#252;ne Gasse" />
+    <tag id="150814823" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="150814823" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="150814823" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="150814823" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="150814823" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="150814823" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="150814823" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="150814823" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="150814823" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="150814823" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="150814823" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="150814823" k="psv:lanes:forward" o="none" type="way" v="no|yes|no" />
+    <tag id="150814823" k="lanes:bus:backward" o="none" type="way" v="1" />
+    <tag id="150814823" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="150814823" k="vehicle:lanes:forward" o="none" type="way" v="no|yes|yes" />
+    <tag id="152258148" k="building" o="none" type="way" v="yes" />
+    <tag id="152258148" k="building:levels" o="none" type="way" v="2" />
+    <tag id="152258148" k="addr:housenumber" o="none" type="way" v="7" />
+    <tag id="158551371" k="name" o="none" type="way" v="&#1030;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="158551371" k="lanes" o="none" type="way" v="2" />
+    <tag id="158551371" k="oneway" o="none" type="way" v="no" />
+    <tag id="158551371" k="highway" o="none" type="way" v="secondary" />
+    <tag id="158551371" k="name:de" o="none" type="way" v="Iwan-Franko-Stra&#223;e" />
+    <tag id="158551371" k="name:en" o="none" type="way" v="Ivana Franka Street" />
+    <tag id="158551371" k="name:fr" o="none" type="way" v="Rue Ivana Franka" />
+    <tag id="158551371" k="name:pl" o="none" type="way" v="ulica &#1030;vana Franki" />
+    <tag id="158551371" k="name:ru" o="none" type="way" v="&#1048;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1086; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="158551371" k="name:uk" o="none" type="way" v="&#1030;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="158551371" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="158551371" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="158551371" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="158551395" k="name" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="158551395" k="lanes" o="none" type="way" v="1" />
+    <tag id="158551395" k="oneway" o="none" type="way" v="yes" />
+    <tag id="158551395" k="highway" o="none" type="way" v="primary" />
+    <tag id="158551395" k="name:en" o="none" type="way" v="Shota Rustaveli Street" />
+    <tag id="158551395" k="name:pl" o="none" type="way" v="ulica Szota Rustaweli" />
+    <tag id="158551395" k="name:ru" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1080; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="158551395" k="name:uk" o="none" type="way" v="&#1064;&#1086;&#1090;&#1072; &#1056;&#1091;&#1089;&#1090;&#1072;&#1074;&#1077;&#1083;&#1110; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="158551395" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="158551395" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="158551395" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="158551395" k="old_name:de" o="none" type="way" v="Jablonowski-Gasse" />
+    <tag id="158551396" k="name" o="none" type="way" v="&#1070;&#1088;&#1110;&#1103; &#1052;&#1091;&#1096;&#1072;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="158551396" k="oneway" o="none" type="way" v="no" />
+    <tag id="158551396" k="highway" o="none" type="way" v="residential" />
+    <tag id="158551396" k="name:en" o="none" type="way" v="Yuriia Mushaka Street" />
+    <tag id="158551396" k="name:ru" o="none" type="way" v="&#1070;&#1088;&#1080;&#1103; &#1052;&#1091;&#1096;&#1072;&#1082;&#1072; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="158551396" k="name:uk" o="none" type="way" v="&#1070;&#1088;&#1110;&#1103; &#1052;&#1091;&#1096;&#1072;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="158551396" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="158551396" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="159979665" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="159979665" k="note" o="none" type="way" v="&#1051;&#1110;&#1085;&#1110;&#1103; &#1074; &#1086;&#1073;&#1077;&#1088;&#1085;&#1077;&#1085;&#1086;&#1084;&#1091; &#1085;&#1072;&#1087;&#1088;&#1103;&#1084;&#1082;&#1091; - &#1076;&#1083;&#1103; &#1075;&#1088;&#1086;&#1084;&#1072;&#1076;&#1089;&#1100;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1091;" />
+    <tag id="159979665" k="lanes" o="none" type="way" v="3" />
+    <tag id="159979665" k="oneway" o="none" type="way" v="yes" />
+    <tag id="159979665" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="159979665" k="highway" o="none" type="way" v="primary" />
+    <tag id="159979665" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="159979665" k="name:de" o="none" type="way" v="Gr&#252;ne Gasse" />
+    <tag id="159979665" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="159979665" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="159979665" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="159979665" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="159979665" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="159979665" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="159979665" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="159979665" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="159979665" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="159979665" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="159979665" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="159979665" k="psv:lanes:forward" o="none" type="way" v="no|yes|no" />
+    <tag id="159979665" k="lanes:bus:backward" o="none" type="way" v="1" />
+    <tag id="159979665" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="159979665" k="vehicle:lanes:forward" o="none" type="way" v="no|yes|yes" />
+    <tag id="165081633" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="165081633" k="lanes" o="none" type="way" v="2" />
+    <tag id="165081633" k="oneway" o="none" type="way" v="no" />
+    <tag id="165081633" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="165081633" k="highway" o="none" type="way" v="primary" />
+    <tag id="165081633" k="incline" o="none" type="way" v="up" />
+    <tag id="165081633" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="165081633" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="165081633" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="165081633" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="165081633" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="165081633" k="surface" o="none" type="way" v="sett" />
+    <tag id="165081633" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="165081633" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="165081633" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="165081633" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="165081633" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="168559549" k="building" o="none" type="way" v="yes" />
+    <tag id="168559549" k="start_date" o="none" type="way" v="1932" />
+    <tag id="168559549" k="addr:street" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="168559549" k="addr:postcode" o="none" type="way" v="79017" />
+    <tag id="168559549" k="addr:housenumber" o="none" type="way" v="88" />
+    <tag id="169065748" k="highway" o="none" type="way" v="footway" />
+    <tag id="169065751" k="highway" o="none" type="way" v="steps" />
+    <tag id="184213138" k="name" o="none" type="way" v="&#1030;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="184213138" k="lanes" o="none" type="way" v="3" />
+    <tag id="184213138" k="oneway" o="none" type="way" v="no" />
+    <tag id="184213138" k="highway" o="none" type="way" v="secondary" />
+    <tag id="184213138" k="name:de" o="none" type="way" v="Iwan-Franko-Stra&#223;e" />
+    <tag id="184213138" k="name:en" o="none" type="way" v="Ivana Franka Street" />
+    <tag id="184213138" k="name:fr" o="none" type="way" v="Rue Ivana Franka" />
+    <tag id="184213138" k="name:pl" o="none" type="way" v="ulica &#1030;vana Franki" />
+    <tag id="184213138" k="name:ru" o="none" type="way" v="&#1048;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1086; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="184213138" k="name:uk" o="none" type="way" v="&#1030;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="184213138" k="railway" o="none" type="way" v="tram" />
+    <tag id="184213138" k="surface" o="none" type="way" v="sett" />
+    <tag id="184213138" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="184213138" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="184213138" k="electrified" o="none" type="way" v="yes" />
+    <tag id="184213138" k="old_name:de" o="none" type="way" v="Stryer Gasse" />
+    <tag id="184213138" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="184213138" k="lanes:backward" o="none" type="way" v="2" />
+    <tag id="184213138" k="parking:lane:both" o="none" type="way" v="no_stopping" />
+    <tag id="204009566" k="name" o="none" type="way" v="&#1043;&#1077;&#1085;&#1077;&#1088;&#1072;&#1083;&#1072; &#1044;&#1084;&#1080;&#1090;&#1088;&#1072; &#1043;&#1088;&#1080;&#1094;&#1072;&#1103; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="204009566" k="oneway" o="none" type="way" v="no" />
+    <tag id="204009566" k="highway" o="none" type="way" v="residential" />
+    <tag id="204009566" k="name:en" o="none" type="way" v="Henerala Dmytra Hrytsaia Street" />
+    <tag id="204009566" k="name:ru" o="none" type="way" v="&#1043;&#1077;&#1085;&#1077;&#1088;&#1072;&#1083;&#1072; &#1043;&#1088;&#1080;&#1094;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="204009566" k="name:uk" o="none" type="way" v="&#1043;&#1077;&#1085;&#1077;&#1088;&#1072;&#1083;&#1072; &#1044;&#1084;&#1080;&#1090;&#1088;&#1072; &#1043;&#1088;&#1080;&#1094;&#1072;&#1103; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="204009566" k="surface" o="none" type="way" v="sett" />
+    <tag id="204009566" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="204009566" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="204009566" k="old_name:ru" o="none" type="way" v="&#1042;&#1077;&#1088;&#1077;&#1089;&#1072;&#1077;&#1074;&#1072; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="204009566" k="old_name:uk" o="none" type="way" v="&#1042;&#1077;&#1088;&#1077;&#1089;&#1072;&#1108;&#1074;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="229288445" k="highway" o="none" type="way" v="footway" />
+    <tag id="229288446" k="highway" o="none" type="way" v="footway" />
+    <tag id="297465591" k="name" o="none" type="way" v="&#1057;&#1077;&#1088;&#1075;&#1110;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1100;&#1086;&#1074;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="297465591" k="oneway" o="none" type="way" v="yes" />
+    <tag id="297465591" k="highway" o="none" type="way" v="residential" />
+    <tag id="297465591" k="name:en" o="none" type="way" v="Serhiia Korolova Street" />
+    <tag id="297465591" k="name:ru" o="none" type="way" v="&#1057;&#1077;&#1088;&#1075;&#1077;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1105;&#1074;&#1072; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="297465591" k="name:uk" o="none" type="way" v="&#1057;&#1077;&#1088;&#1075;&#1110;&#1103; &#1050;&#1086;&#1088;&#1086;&#1083;&#1100;&#1086;&#1074;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="297465591" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="297465591" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="297465591" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="306082878" k="name" o="none" type="way" v="&#1058;&#1102;&#1090;&#1102;&#1085;&#1085;&#1080;&#1082;&#1110;&#1074; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="306082878" k="oneway" o="none" type="way" v="yes" />
+    <tag id="306082878" k="highway" o="none" type="way" v="residential" />
+    <tag id="306082878" k="name:en" o="none" type="way" v="Tiutiunnykiv Street" />
+    <tag id="306082878" k="name:ru" o="none" type="way" v="&#1058;&#1102;&#1090;&#1102;&#1085;&#1085;&#1080;&#1082;&#1086;&#1074; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="306082878" k="name:uk" o="none" type="way" v="&#1058;&#1102;&#1090;&#1102;&#1085;&#1085;&#1080;&#1082;&#1110;&#1074; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="306082878" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="306082878" k="old_name:ru" o="none" type="way" v="&#1053;&#1077;&#1084;&#1080;&#1088;&#1086;&#1074;&#1080;&#1095;&#1072;-&#1044;&#1072;&#1085;&#1095;&#1077;&#1085;&#1082;&#1086; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="306082878" k="old_name:uk" o="none" type="way" v="&#1053;&#1077;&#1084;&#1080;&#1088;&#1086;&#1074;&#1080;&#1095;&#1072;-&#1044;&#1072;&#1085;&#1095;&#1077;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188961" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188961" k="note" o="none" type="way" v="&#1051;&#1110;&#1085;&#1110;&#1103; &#1074; &#1086;&#1073;&#1077;&#1088;&#1085;&#1077;&#1085;&#1086;&#1084;&#1091; &#1085;&#1072;&#1087;&#1088;&#1103;&#1084;&#1082;&#1091; - &#1076;&#1083;&#1103; &#1075;&#1088;&#1086;&#1084;&#1072;&#1076;&#1089;&#1100;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1091;" />
+    <tag id="351188961" k="lanes" o="none" type="way" v="3" />
+    <tag id="351188961" k="oneway" o="none" type="way" v="yes" />
+    <tag id="351188961" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="351188961" k="highway" o="none" type="way" v="primary" />
+    <tag id="351188961" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="351188961" k="name:de" o="none" type="way" v="Gr&#252;ne Gasse" />
+    <tag id="351188961" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="351188961" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="351188961" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="351188961" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188961" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="351188961" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="351188961" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="351188961" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="351188961" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="351188961" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="351188961" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="351188961" k="psv:lanes:forward" o="none" type="way" v="no|yes|no" />
+    <tag id="351188961" k="lanes:bus:backward" o="none" type="way" v="1" />
+    <tag id="351188961" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="351188961" k="vehicle:lanes:forward" o="none" type="way" v="no|yes|yes" />
+    <tag id="351188962" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188962" k="note" o="none" type="way" v="&#1051;&#1110;&#1085;&#1110;&#1103; &#1074; &#1086;&#1073;&#1077;&#1088;&#1085;&#1077;&#1085;&#1086;&#1084;&#1091; &#1085;&#1072;&#1087;&#1088;&#1103;&#1084;&#1082;&#1091; - &#1076;&#1083;&#1103; &#1075;&#1088;&#1086;&#1084;&#1072;&#1076;&#1089;&#1100;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1091;" />
+    <tag id="351188962" k="lanes" o="none" type="way" v="3" />
+    <tag id="351188962" k="oneway" o="none" type="way" v="yes" />
+    <tag id="351188962" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="351188962" k="highway" o="none" type="way" v="primary" />
+    <tag id="351188962" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="351188962" k="name:de" o="none" type="way" v="Gr&#252;ne Gasse" />
+    <tag id="351188962" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="351188962" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="351188962" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="351188962" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188962" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="351188962" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="351188962" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="351188962" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="351188962" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="351188962" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="351188962" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="351188962" k="psv:lanes:forward" o="none" type="way" v="no|yes|no" />
+    <tag id="351188962" k="lanes:bus:backward" o="none" type="way" v="1" />
+    <tag id="351188962" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="351188962" k="vehicle:lanes:forward" o="none" type="way" v="no|yes|yes" />
+    <tag id="351188963" k="name" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188963" k="note" o="none" type="way" v="&#1051;&#1110;&#1085;&#1110;&#1103; &#1074; &#1086;&#1073;&#1077;&#1088;&#1085;&#1077;&#1085;&#1086;&#1084;&#1091; &#1085;&#1072;&#1087;&#1088;&#1103;&#1084;&#1082;&#1091; &#8212; &#1076;&#1083;&#1103; &#1075;&#1088;&#1086;&#1084;&#1072;&#1076;&#1089;&#1100;&#1082;&#1086;&#1075;&#1086; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1091;" />
+    <tag id="351188963" k="lanes" o="none" type="way" v="3" />
+    <tag id="351188963" k="oneway" o="none" type="way" v="yes" />
+    <tag id="351188963" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="351188963" k="highway" o="none" type="way" v="primary" />
+    <tag id="351188963" k="name:be" o="none" type="way" v="&#1047;&#1103;&#1083;&#1105;&#1085;&#1072;&#1103; &#1074;&#1091;&#1083;&#1110;&#1094;&#1072;" />
+    <tag id="351188963" k="name:de" o="none" type="way" v="Gr&#252;ne Gasse" />
+    <tag id="351188963" k="name:en" o="none" type="way" v="Zelena Street" />
+    <tag id="351188963" k="name:pl" o="none" type="way" v="ulica Zielona" />
+    <tag id="351188963" k="name:ru" o="none" type="way" v="&#1047;&#1077;&#1083;&#1105;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="351188963" k="name:uk" o="none" type="way" v="&#1047;&#1077;&#1083;&#1077;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="351188963" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="351188963" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="351188963" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="351188963" k="smoothness" o="none" type="way" v="intermediate" />
+    <tag id="351188963" k="trolley_wire" o="none" type="way" v="yes" />
+    <tag id="351188963" k="lanes:forward" o="none" type="way" v="2" />
+    <tag id="351188963" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="351188963" k="psv:lanes:forward" o="none" type="way" v="no|yes|no" />
+    <tag id="351188963" k="lanes:bus:backward" o="none" type="way" v="1" />
+    <tag id="351188963" k="parking:lane:right" o="none" type="way" v="parallel" />
+    <tag id="351188963" k="vehicle:lanes:forward" o="none" type="way" v="no|yes|yes" />
+    <tag id="365862012" k="name" o="none" type="way" v="&#1057;&#1085;&#1086;&#1087;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="365862012" k="lanes" o="none" type="way" v="2" />
+    <tag id="365862012" k="oneway" o="none" type="way" v="yes" />
+    <tag id="365862012" k="highway" o="none" type="way" v="secondary" />
+    <tag id="365862012" k="name:en" o="none" type="way" v="Snopkivska Street" />
+    <tag id="365862012" k="name:ru" o="none" type="way" v="&#1057;&#1085;&#1086;&#1087;&#1082;&#1086;&#1074;&#1089;&#1082;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="365862012" k="name:uk" o="none" type="way" v="&#1057;&#1085;&#1086;&#1087;&#1082;&#1110;&#1074;&#1089;&#1100;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="365862012" k="cycleway" o="none" type="way" v="opposite_lane" />
+    <tag id="365862012" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="365862012" k="sidewalk" o="add" type="way" v="both" />
+    <tag id="365862012" k="cycleway:left" o="none" type="way" v="opposite_lane" />
+    <tag id="365862012" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="365862012" k="oneway:bicycle" o="none" type="way" v="yes" />
+    <tag id="365862012" k="lanes:psv:backward" o="none" type="way" v="1" />
+    <tag id="381953816" k="highway" o="none" type="way" v="footway" />
+    <tag id="448679271" k="name" o="none" type="way" v="&#1030;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="448679271" k="lanes" o="none" type="way" v="3" />
+    <tag id="448679271" k="oneway" o="none" type="way" v="no" />
+    <tag id="448679271" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="448679271" k="highway" o="none" type="way" v="primary" />
+    <tag id="448679271" k="name:de" o="none" type="way" v="Iwan-Franko-Stra&#223;e" />
+    <tag id="448679271" k="name:en" o="none" type="way" v="Ivana Franka Street" />
+    <tag id="448679271" k="name:fr" o="none" type="way" v="Rue Ivana Franka" />
+    <tag id="448679271" k="name:pl" o="none" type="way" v="ulica &#1030;vana Franki" />
+    <tag id="448679271" k="name:ru" o="none" type="way" v="&#1048;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1086; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="448679271" k="name:uk" o="none" type="way" v="&#1030;&#1074;&#1072;&#1085;&#1072; &#1060;&#1088;&#1072;&#1085;&#1082;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="448679271" k="railway" o="none" type="way" v="tram" />
+    <tag id="448679271" k="surface" o="none" type="way" v="cobblestone" />
+    <tag id="448679271" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="448679271" k="sidewalk" o="modify" type="way" v="both" />
+    <tag id="448679271" k="smoothness" o="none" type="way" v="bad" />
+    <tag id="448679271" k="electrified" o="none" type="way" v="yes" />
+    <tag id="448679271" k="lanes:forward" o="none" type="way" v="1" />
+    <tag id="448679271" k="lanes:backward" o="none" type="way" v="1" />
+    <tag id="448679271" k="lanes:bus:forward" o="none" type="way" v="1" />
+    <tag id="448679271" k="parking:lane:both" o="none" type="way" v="no_stopping" />
+    <tag id="458077202" k="highway" o="none" type="way" v="service" />
+    <tag id="464206563" k="highway" o="none" type="way" v="service" />
+    <tag id="464206563" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="483124778" k="foot" o="none" type="way" v="yes" />
+    <tag id="483124778" k="name" o="none" type="way" v="&#1056;&#1086;&#1076;&#1080;&#1085;&#1080; &#1050;&#1088;&#1091;&#1096;&#1077;&#1083;&#1100;&#1085;&#1080;&#1094;&#1100;&#1082;&#1080;&#1093; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="483124778" k="oneway" o="none" type="way" v="no" />
+    <tag id="483124778" k="bicycle" o="none" type="way" v="yes" />
+    <tag id="483124778" k="highway" o="none" type="way" v="residential" />
+    <tag id="483124778" k="name:en" o="none" type="way" v="Rodyny Krushelnytskykh Street" />
+    <tag id="483124778" k="name:ru" o="none" type="way" v="&#1057;&#1077;&#1084;&#1100;&#1080; &#1050;&#1088;&#1091;&#1096;&#1077;&#1083;&#1100;&#1085;&#1080;&#1094;&#1082;&#1080;&#1093; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="483124778" k="name:uk" o="none" type="way" v="&#1056;&#1086;&#1076;&#1080;&#1085;&#1080; &#1050;&#1088;&#1091;&#1096;&#1077;&#1083;&#1100;&#1085;&#1080;&#1094;&#1100;&#1082;&#1080;&#1093; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="483124778" k="surface" o="none" type="way" v="asphalt" />
+    <tag id="483124778" k="cycleway" o="none" type="way" v="no" />
+    <tag id="483124778" k="maxspeed" o="none" type="way" v="50" />
+    <tag id="483124778" k="sidewalk" o="none" type="way" v="both" />
+    <tag id="483124778" k="old_name:ru" o="none" type="way" v="&#1057;&#1090;&#1088;&#1086;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1072;&#1103; &#1091;&#1083;&#1080;&#1094;&#1072;" />
+    <tag id="483124778" k="old_name:uk" o="none" type="way" v="&#1041;&#1091;&#1076;&#1110;&#1074;&#1077;&#1083;&#1100;&#1085;&#1072; &#1074;&#1091;&#1083;&#1080;&#1094;&#1103;" />
+    <tag id="564967116" k="highway" o="add" type="way" v="footway" />
+    <tag id="564967117" k="building" o="add" type="way" v="yes" />
+    <tag id="564967118" k="building" o="add" type="way" v="yes" />
+    <tag id="564967119" k="building" o="add" type="way" v="yes" />
+    <tag id="564967120" k="building" o="add" type="way" v="yes" />
+    <tag id="564967121" k="building" o="add" type="way" v="yes" />
+    <tag id="564967122" k="building" o="add" type="way" v="yes" />
+    <tag id="564967123" k="building" o="add" type="way" v="yes" />
+    <tag id="564967124" k="building" o="add" type="way" v="yes" />
+    <tag id="564967125" k="building" o="add" type="way" v="yes" />
+    <tag id="564967126" k="building" o="add" type="way" v="yes" />
+  </body>
+</changeset>

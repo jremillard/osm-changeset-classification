@@ -21,7 +21,7 @@ GLOVE_DIR = os.path.join(BASE_DIR, 'glove.6B')
 MAX_SEQUENCE_LENGTH = 1200
 MAX_NUM_WORDS = 200000
 EMBEDDING_DIM = 100 # options are 50, 100, 200, 300
-VALIDATION_SPLIT = 0.10
+VALIDATION_SPLIT = 0.30
 dataAugmentationFactor = 10
 
 def readAllChangeSets():
@@ -231,18 +231,18 @@ x = MaxPooling1D(5)(x)
 x = Conv1D(EMBEDDING_DIM, 5, activation='relu')(x)
 x = GlobalMaxPooling1D()(x)
 x = Dense(EMBEDDING_DIM, activation='relu')(x)
-preds = Dense(len(labels_index), activation='softmax')(x)
+preds = Dense(len(labels_index), activation='sigmoid')(x)
 
 model = Model(sequence_input, preds)
-model.compile(loss='categorical_crossentropy',
+model.compile(loss='binary_crossentropy',
               optimizer='rmsprop',
-              metrics=['acc'])
+              metrics=['acc','binary_accuracy'])
 
 print(model.summary())
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=5,
+          epochs=3,
           validation_data=(x_val, y_val))
 
 model.save('osmcsclassify/V0-model.h5')
